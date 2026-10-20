@@ -1,0 +1,246 @@
+{
+  "id": "ru-kurskaya-oblast-aeroporty",
+  "name": "Аэропорты — Kursk Oblast (RU-KRS)",
+  "title": "Аэропорты — Kursk Oblast (RU-KRS)",
+  "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Kursk Oblast (ISO 3166-2 RU-KRS) — 5 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"small_airport\": 1, \"heliport\": 2, \"closed\": 1, \"medium_airport\": 1}. Извлечено из OurAirports.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 46153,
+      "ident": "RU-0325",
+      "type": "small_airport",
+      "name": "Ryshkovo Airfield",
+      "latitude_deg": 51.6561578589,
+      "longitude_deg": 36.1818408966,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KRS",
+      "region_local_code": "KRS",
+      "region_name": "Kursk Oblast",
+      "municipality": "Kursk",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Аэродром Рышково"
+    },
+    {
+      "id": 355155,
+      "ident": "RU-0919",
+      "type": "heliport",
+      "name": "Usad'ba Mansurovo Helicopter Base",
+      "latitude_deg": 51.774107,
+      "longitude_deg": 37.430463,
+      "elevation_ft": 676,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KRS",
+      "region_local_code": "KRS",
+      "region_name": "Kursk Oblast",
+      "municipality": "",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "HH9Y",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "id": 516871,
+      "ident": "RU-0955",
+      "type": "heliport",
+      "name": "Pogrebki Heliport",
+      "latitude_deg": 51.371166,
+      "longitude_deg": 35.216835,
+      "elevation_ft": 640,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KRS",
+      "region_local_code": "KRS",
+      "region_name": "Kursk Oblast",
+      "municipality": "Pogrebki",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "HA45",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "ХА45"
+    },
+    {
+      "id": 542653,
+      "ident": "RU-10040",
+      "type": "closed",
+      "name": "Sudzha Airfield",
+      "latitude_deg": 51.212486,
+      "longitude_deg": 35.347897,
+      "elevation_ft": 635,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KRS",
+      "region_local_code": "KRS",
+      "region_name": "Kursk Oblast",
+      "municipality": "Sudzha",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "ZB35, ЗБ35, Су́джа"
+    },
+    {
+      "id": 26399,
+      "ident": "UUOK",
+      "type": "medium_airport",
+      "name": "Kursk East Airport",
+      "latitude_deg": 51.7505989074707,
+      "longitude_deg": 36.29560089111328,
+      "elevation_ft": 686,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KRS",
+      "region_local_code": "KRS",
+      "region_name": "Kursk Oblast",
+      "municipality": "Kursk",
+      "scheduled_service": "yes",
+      "icao_code": "UUOK",
+      "iata_code": "URS",
+      "gps_code": "UUOK",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Kursk_Vostochny_Airport",
+      "keywords": "Kursk Vostochny Airport"
+    }
+  ],
+  "meta": {
+    "title": "Аэропорты — Kursk Oblast (RU-KRS) - Бесплатная загрузка",
+    "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Kursk Oblast (ISO 3166-2 RU-KRS) — 5 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"small_airport\": 1, \"heliport\": 2, \"closed\": 1, \"medium_airport\": 1}. Извлечено из OurAirports. Содержит 5 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Аэропорты — Kursk Oblast (RU-KRS) | ListBase",
+    "seo_description": "Скачать Аэропорты — Kursk Oblast (RU-KRS) — 5 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 5 записей / 21 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

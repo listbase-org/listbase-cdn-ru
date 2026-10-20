@@ -1,0 +1,205 @@
+{
+  "id": "ru-murmanskaya-oblast-goroda",
+  "name": "Города — Мурманская область",
+  "title": "Города — Мурманская область",
+  "description": "16 городов региона «Мурманская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Апатиты",
+      "population_thousands": 54.7,
+      "latitude": 67.5677761,
+      "longitude": 33.4067929,
+      "region_name": "Мурманская область",
+      "region_iso_code": "RU-MUR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Гаджиево",
+      "population_thousands": 13.1,
+      "latitude": 69.2491311,
+      "longitude": 33.315341,
+      "region_name": "Мурманская область",
+      "region_iso_code": "RU-MUR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Заозерск",
+      "population_thousands": 9.3,
+      "latitude": 69.4003584,
+      "longitude": 32.4501496,
+      "region_name": "Мурманская область",
+      "region_iso_code": "RU-MUR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Заполярный",
+      "population_thousands": 14.7,
+      "latitude": 69.4132852,
+      "longitude": 30.7984312,
+      "region_name": "Мурманская область",
+      "region_iso_code": "RU-MUR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Кандалакша",
+      "population_thousands": 30.4,
+      "latitude": 67.1567974,
+      "longitude": 32.4143218,
+      "region_name": "Мурманская область",
+      "region_iso_code": "RU-MUR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Кировск",
+      "population_thousands": 26,
+      "latitude": 67.6150424,
+      "longitude": 33.663735,
+      "region_name": "Мурманская область",
+      "region_iso_code": "RU-MUR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Ковдор",
+      "population_thousands": 16.3,
+      "latitude": 67.5661417,
+      "longitude": 30.4741941,
+      "region_name": "Мурманская область",
+      "region_iso_code": "RU-MUR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Кола",
+      "population_thousands": 9.7,
+      "latitude": 68.8786028,
+      "longitude": 33.0262299,
+      "region_name": "Мурманская область",
+      "region_iso_code": "RU-MUR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Мончегорск",
+      "population_thousands": 41.2,
+      "latitude": 67.9386153,
+      "longitude": 32.9359719,
+      "region_name": "Мурманская область",
+      "region_iso_code": "RU-MUR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Мурманск",
+      "population_thousands": 287.8,
+      "latitude": 69.007721,
+      "longitude": 33.0685865,
+      "region_name": "Мурманская область",
+      "region_iso_code": "RU-MUR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Оленегорск",
+      "population_thousands": 20.3,
+      "latitude": 68.1422058,
+      "longitude": 33.2669407,
+      "region_name": "Мурманская область",
+      "region_iso_code": "RU-MUR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Островной",
+      "population_thousands": 1.7,
+      "latitude": 68.0510344,
+      "longitude": 39.5077846,
+      "region_name": "Мурманская область",
+      "region_iso_code": "RU-MUR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Полярные Зори",
+      "population_thousands": 14.2,
+      "latitude": 67.373084,
+      "longitude": 32.4975636,
+      "region_name": "Мурманская область",
+      "region_iso_code": "RU-MUR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Полярный",
+      "population_thousands": 17.5,
+      "latitude": 69.1989583,
+      "longitude": 33.4508591,
+      "region_name": "Мурманская область",
+      "region_iso_code": "RU-MUR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Североморск",
+      "population_thousands": 53.6,
+      "latitude": 69.0766801,
+      "longitude": 33.4177759,
+      "region_name": "Мурманская область",
+      "region_iso_code": "RU-MUR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Снежногорск",
+      "population_thousands": 12.8,
+      "latitude": 69.1921409,
+      "longitude": 33.2383502,
+      "region_name": "Мурманская область",
+      "region_iso_code": "RU-MUR",
+      "federal_district": "Северо-Западный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Мурманская область - Бесплатная загрузка",
+    "description": "16 городов региона «Мурманская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 16 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Мурманская область | ListBase",
+    "seo_description": "Скачать Города — Мурманская область — 16 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 16 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

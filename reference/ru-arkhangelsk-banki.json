@@ -1,0 +1,114 @@
+{
+  "id": "ru-arkhangelsk-banki",
+  "name": "Банки — Arkhangelsk (коды SWIFT/BIC)",
+  "title": "Банки — Arkhangelsk (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in ARKHANGELSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 93,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "ARKHANGELSK",
+      "branch": "(ARKHANGELSK BRANCH)",
+      "swift_code": "MOBWRUM1ARH"
+    },
+    {
+      "id": 190,
+      "bank": "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "ARKHANGELSK",
+      "branch": "(ARKHANGELSKY PCB BRANCH)",
+      "swift_code": "PTRBRUMM015"
+    },
+    {
+      "id": 249,
+      "bank": "'BANK SGB' PJSC",
+      "city": "ARKHANGELSK",
+      "branch": "(ARKHANGELSK BRANCH)",
+      "swift_code": "SGAZRU21ARK"
+    },
+    {
+      "id": 601,
+      "bank": "JOINT STOCK COMMERCIAL BANK 'LESOBANK'",
+      "city": "ARKHANGELSK",
+      "branch": "",
+      "swift_code": "LJSARU21"
+    },
+    {
+      "id": 680,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "ARKHANGELSK",
+      "branch": "(ARKHANGELSKY BRANCH)",
+      "swift_code": "RUAGRUM1048"
+    },
+    {
+      "id": 766,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "ARKHANGELSK",
+      "branch": "(REGIONAL DEPARTMENT OFFICE IN THE CITY OF ARKHANGELSK)",
+      "swift_code": "MINNRUM1032"
+    },
+    {
+      "id": 911,
+      "bank": "MOSOBLBANK",
+      "city": "ARKHANGELSK",
+      "branch": "(BRANCH NO.5)",
+      "swift_code": "MOBKRUM1005"
+    },
+    {
+      "id": 1216,
+      "bank": "ROST BANK",
+      "city": "ARKHANGELSK",
+      "branch": "(ARHANGELSK BRANCH)",
+      "swift_code": "JORORU21ARB"
+    },
+    {
+      "id": 1372,
+      "bank": "SOBINBANK",
+      "city": "ARKHANGELSK",
+      "branch": "(ARKHANGELSK BRANCH)",
+      "swift_code": "SBBARUM1014"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Arkhangelsk (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in ARKHANGELSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 9 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Arkhangelsk (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Arkhangelsk (коды SWIFT/BIC) — 9 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 9 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

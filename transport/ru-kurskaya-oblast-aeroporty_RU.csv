@@ -1,0 +1,6 @@
+﻿"Id","Ident","Type","Name","Latitude Deg","Longitude Deg","Elevation Ft","Continent","Iso Country","Iso Region","Region Local Code","Region Name","Municipality","Scheduled Service","Icao Code","Iata Code","Gps Code","Local Code","Home Link","Wikipedia Link","Keywords"
+"46153","RU-0325","small_airport","Ryshkovo Airfield","51.6561578589","36.1818408966","","EU","RU","RU-KRS","KRS","Kursk Oblast","Kursk","no","","","","","","","Аэродром Рышково"
+"355155","RU-0919","heliport","Usad'ba Mansurovo Helicopter Base","51.774107","37.430463","676","EU","RU","RU-KRS","KRS","Kursk Oblast","","no","","","","HH9Y","","",""
+"516871","RU-0955","heliport","Pogrebki Heliport","51.371166","35.216835","640","EU","RU","RU-KRS","KRS","Kursk Oblast","Pogrebki","no","","","","HA45","","","ХА45"
+"542653","RU-10040","closed","Sudzha Airfield","51.212486","35.347897","635","EU","RU","RU-KRS","KRS","Kursk Oblast","Sudzha","no","","","","","","","ZB35, ЗБ35, Су́джа"
+"26399","UUOK","medium_airport","Kursk East Airport","51.7505989074707","36.29560089111328","686","EU","RU","RU-KRS","KRS","Kursk Oblast","Kursk","yes","UUOK","URS","UUOK","","","https://en.wikipedia.org/wiki/Kursk_Vostochny_Airport","Kursk Vostochny Airport"

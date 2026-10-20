@@ -1,0 +1,223 @@
+{
+  "id": "ru-kirovskaya-oblast-goroda",
+  "name": "Города — Кировская область",
+  "title": "Города — Кировская область",
+  "description": "18 городов региона «Кировская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Белая Холуница",
+      "population_thousands": 10.1,
+      "latitude": 58.8415239,
+      "longitude": 50.8460699,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Вятские Поляны",
+      "population_thousands": 31.9,
+      "latitude": 56.2284817,
+      "longitude": 51.0614855,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Зуевка",
+      "population_thousands": 10.2,
+      "latitude": 58.4032152,
+      "longitude": 51.1331606,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Киров",
+      "population_thousands": 518.3,
+      "latitude": 58.6035264,
+      "longitude": 49.6679304,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Кирово-Чепецк",
+      "population_thousands": 69.8,
+      "latitude": 58.5559424,
+      "longitude": 50.0316848,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Кирс",
+      "population_thousands": 9.2,
+      "latitude": 59.340056,
+      "longitude": 52.2414437,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Котельнич",
+      "population_thousands": 22.9,
+      "latitude": 58.3034832,
+      "longitude": 48.3475597,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Луза",
+      "population_thousands": 9.9,
+      "latitude": 60.6290609,
+      "longitude": 47.2612445,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Малмыж",
+      "population_thousands": 7.2,
+      "latitude": 56.5243844,
+      "longitude": 50.6782739,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Мураши",
+      "population_thousands": 5.9,
+      "latitude": 59.3955383,
+      "longitude": 48.9638417,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Нолинск",
+      "population_thousands": 9.6,
+      "latitude": 57.5597284,
+      "longitude": 49.93575,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Омутнинск",
+      "population_thousands": 21.6,
+      "latitude": 58.6698913,
+      "longitude": 52.1894564,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Орлов",
+      "population_thousands": 6.4,
+      "latitude": 58.5389776,
+      "longitude": 48.8927723,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Слободской",
+      "population_thousands": 31.9,
+      "latitude": 58.7311574,
+      "longitude": 50.1669249,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Советск",
+      "population_thousands": 15.2,
+      "latitude": 57.584196,
+      "longitude": 48.9590272,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Сосновка",
+      "population_thousands": 10.7,
+      "latitude": 56.2532741,
+      "longitude": 51.2833642,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Уржум",
+      "population_thousands": 9.8,
+      "latitude": 57.1097477,
+      "longitude": 50.0058097,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Яранск",
+      "population_thousands": 15.5,
+      "latitude": 57.3040326,
+      "longitude": 47.8478737,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Кировская область - Бесплатная загрузка",
+    "description": "18 городов региона «Кировская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 18 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Кировская область | ListBase",
+    "seo_description": "Скачать Города — Кировская область — 18 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 18 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

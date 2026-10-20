@@ -1,0 +1,268 @@
+{
+  "id": "ru-rostovskaya-oblast-goroda",
+  "name": "Города — Ростовская область",
+  "title": "Города — Ростовская область",
+  "description": "23 городов региона «Ростовская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Азов",
+      "population_thousands": 80.4,
+      "latitude": 47.1121589,
+      "longitude": 39.4232555,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Аксай",
+      "population_thousands": 46,
+      "latitude": 47.2676314,
+      "longitude": 39.8756872,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Батайск",
+      "population_thousands": 127.9,
+      "latitude": 47.1383299,
+      "longitude": 39.7507179,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Белая Калитва",
+      "population_thousands": 39.3,
+      "latitude": 48.1769737,
+      "longitude": 40.8033529,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Волгодонск",
+      "population_thousands": 171.4,
+      "latitude": 47.5165338,
+      "longitude": 42.1984951,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Гуково",
+      "population_thousands": 63.2,
+      "latitude": 48.0448904,
+      "longitude": 39.9484672,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Донецк",
+      "population_thousands": 46.7,
+      "latitude": 48.3350706,
+      "longitude": 39.945891,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Зверево",
+      "population_thousands": 18,
+      "latitude": 48.0435487,
+      "longitude": 40.1265822,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Зерноград",
+      "population_thousands": 24.1,
+      "latitude": 46.8495958,
+      "longitude": 40.312837,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Каменск-Шахтинский",
+      "population_thousands": 87.8,
+      "latitude": 48.3205326,
+      "longitude": 40.2689583,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Константиновск",
+      "population_thousands": 16.9,
+      "latitude": 47.5773717,
+      "longitude": 41.0967445,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Красный Сулин",
+      "population_thousands": 37.6,
+      "latitude": 47.8831311,
+      "longitude": 40.0781298,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Миллерово",
+      "population_thousands": 34.5,
+      "latitude": 48.9260077,
+      "longitude": 40.3984087,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Морозовск",
+      "population_thousands": 24.6,
+      "latitude": 48.3511807,
+      "longitude": 41.8309225,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Новочеркасск",
+      "population_thousands": 168,
+      "latitude": 47.411919,
+      "longitude": 40.1042098,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Новошахтинск",
+      "population_thousands": 106.6,
+      "latitude": 47.757773,
+      "longitude": 39.9363697,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Пролетарск",
+      "population_thousands": 18.7,
+      "latitude": 46.7038963,
+      "longitude": 41.727594,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Ростов-на-Дону",
+      "population_thousands": 1137.9,
+      "latitude": 47.2224566,
+      "longitude": 39.718803,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Сальск",
+      "population_thousands": 56.8,
+      "latitude": 46.4752095,
+      "longitude": 41.5410415,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Семикаракорск",
+      "population_thousands": 21.9,
+      "latitude": 47.5177337,
+      "longitude": 40.8114167,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Таганрог",
+      "population_thousands": 248.6,
+      "latitude": 47.2094917,
+      "longitude": 38.9350989,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Цимлянск",
+      "population_thousands": 14.4,
+      "latitude": 47.6477448,
+      "longitude": 42.0931505,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Шахты",
+      "population_thousands": 230.3,
+      "latitude": 47.7085287,
+      "longitude": 40.2159846,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Ростовская область - Бесплатная загрузка",
+    "description": "23 городов региона «Ростовская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 23 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Ростовская область | ListBase",
+    "seo_description": "Скачать Города — Ростовская область — 23 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 23 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

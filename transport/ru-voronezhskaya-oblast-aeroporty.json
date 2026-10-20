@@ -1,0 +1,338 @@
+{
+  "id": "ru-voronezhskaya-oblast-aeroporty",
+  "name": "Аэропорты — Voronezh Oblast (RU-VOR)",
+  "title": "Аэропорты — Voronezh Oblast (RU-VOR)",
+  "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Voronezh Oblast (ISO 3166-2 RU-VOR) — 9 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"medium_airport\": 4, \"heliport\": 3, \"small_airport\": 2}. Извлечено из OurAirports.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 34953,
+      "ident": "RU-0014",
+      "type": "medium_airport",
+      "name": "Borisoglebsk Air Base",
+      "latitude_deg": 51.366699,
+      "longitude_deg": 42.178299,
+      "elevation_ft": 390,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-VOR",
+      "region_local_code": "VOR",
+      "region_name": "Voronezh Oblast",
+      "municipality": "Borisoglebsk",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "XUOB",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Borisoglebsk_%28air_base%29",
+      "keywords": "Аэродром Борисоглебск"
+    },
+    {
+      "id": 34960,
+      "ident": "RU-0018",
+      "type": "medium_airport",
+      "name": "Buturlinovka Air Base",
+      "latitude_deg": 50.79221,
+      "longitude_deg": 40.606155,
+      "elevation_ft": 505,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-VOR",
+      "region_local_code": "VOR",
+      "region_name": "Voronezh Oblast",
+      "municipality": "Buturlinovka",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "XUOI",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Buturlinovka_(air_base)",
+      "keywords": "ЬУОИ, Бутурлиновка"
+    },
+    {
+      "id": 46127,
+      "ident": "RU-0302",
+      "type": "heliport",
+      "name": "Pridachinskaya Damba Heliport",
+      "latitude_deg": 51.674092,
+      "longitude_deg": 39.238755,
+      "elevation_ft": 302,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-VOR",
+      "region_local_code": "VOR",
+      "region_name": "Voronezh Oblast",
+      "municipality": "Voronezh",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "HA43",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "ХА43, Pridachenskaya Damba Heliport, Вертодром Придачинская Дамба, Вертодром Придаченская Дамба"
+    },
+    {
+      "id": 341657,
+      "ident": "RU-0656",
+      "type": "heliport",
+      "name": "Voronezh Dairy Helipad",
+      "latitude_deg": 51.69251,
+      "longitude_deg": 39.13949,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-VOR",
+      "region_local_code": "VOR",
+      "region_name": "Voronezh Oblast",
+      "municipality": "Voronezh",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "HJU2",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Vkusnoteevo,Вкуснотеево"
+    },
+    {
+      "id": 599547,
+      "ident": "RU-10114",
+      "type": "heliport",
+      "name": "Yamnoye Heliport",
+      "latitude_deg": 51.792439,
+      "longitude_deg": 39.141417,
+      "elevation_ft": 436,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-VOR",
+      "region_local_code": "VOR",
+      "region_name": "Voronezh Oblast",
+      "municipality": "Yamnoye",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "HA6H",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "ХА6Х, Ямное"
+    },
+    {
+      "id": 35115,
+      "ident": "RU-8363",
+      "type": "medium_airport",
+      "name": "Voronezh Baltimore Air Base",
+      "latitude_deg": 51.62,
+      "longitude_deg": 39.14,
+      "elevation_ft": 502,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-VOR",
+      "region_local_code": "VOR",
+      "region_name": "Voronezh Oblast",
+      "municipality": "Voronezh",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "XUOW",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Voronezh_Malshevo",
+      "keywords": "Malshevo, Malyshevo, Voronezh Southwest, Аэродром Балтимор, ЬУОВ"
+    },
+    {
+      "id": 42995,
+      "ident": "UUOD",
+      "type": "small_airport",
+      "name": "Pridacha Airport",
+      "latitude_deg": 51.652861,
+      "longitude_deg": 39.256244,
+      "elevation_ft": 344,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-VOR",
+      "region_local_code": "VOR",
+      "region_name": "Voronezh Oblast",
+      "municipality": "Voronezh",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "UUOD",
+      "local_code": "",
+      "home_link": "http://www.vaso.ru/",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Pridacha_Airport",
+      "keywords": "УУОД, Аэропорт Придача, Repnoe Airport, Voronezh East Airport"
+    },
+    {
+      "id": 26400,
+      "ident": "UUOO",
+      "type": "medium_airport",
+      "name": "Voronezh International Airport",
+      "latitude_deg": 51.814324,
+      "longitude_deg": 39.230948,
+      "elevation_ft": 514,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-VOR",
+      "region_local_code": "VOR",
+      "region_name": "Voronezh Oblast",
+      "municipality": "Voronezh",
+      "scheduled_service": "yes",
+      "icao_code": "UUOO",
+      "iata_code": "VOZ",
+      "gps_code": "UUOO",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Voronezh_International_Airport",
+      "keywords": "УУОО, Chertovitskoye Airport, Chertovitskoe Airport, Аэропорт Воронеж, Аэропорт Чертовицкое"
+    },
+    {
+      "id": 604037,
+      "ident": "UUOQ",
+      "type": "small_airport",
+      "name": "Parus Airfield",
+      "latitude_deg": 51.587233,
+      "longitude_deg": 39.490063,
+      "elevation_ft": 366,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-VOR",
+      "region_local_code": "VOR",
+      "region_name": "Voronezh Oblast",
+      "municipality": "Parusnoye",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "UUOQ",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "УУОЯ, Парус, Парусное"
+    }
+  ],
+  "meta": {
+    "title": "Аэропорты — Voronezh Oblast (RU-VOR) - Бесплатная загрузка",
+    "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Voronezh Oblast (ISO 3166-2 RU-VOR) — 9 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"medium_airport\": 4, \"heliport\": 3, \"small_airport\": 2}. Извлечено из OurAirports. Содержит 9 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Аэропорты — Voronezh Oblast (RU-VOR) | ListBase",
+    "seo_description": "Скачать Аэропорты — Voronezh Oblast (RU-VOR) — 9 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 9 записей / 21 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

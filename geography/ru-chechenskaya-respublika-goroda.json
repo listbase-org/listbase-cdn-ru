@@ -1,0 +1,115 @@
+{
+  "id": "ru-chechenskaya-respublika-goroda",
+  "name": "Города — Чеченская Республика",
+  "title": "Города — Чеченская Республика",
+  "description": "6 городов региона «Чеченская Республика» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Аргун",
+      "population_thousands": 39.3,
+      "latitude": 43.2916774,
+      "longitude": 45.8723105,
+      "region_name": "Чеченская Республика",
+      "region_iso_code": "RU-CE",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Грозный",
+      "population_thousands": 305.9,
+      "latitude": 43.3180145,
+      "longitude": 45.698291,
+      "region_name": "Чеченская Республика",
+      "region_iso_code": "RU-CE",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Гудермес",
+      "population_thousands": 55.9,
+      "latitude": 43.3519142,
+      "longitude": 46.1035645,
+      "region_name": "Чеченская Республика",
+      "region_iso_code": "RU-CE",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Курчалой",
+      "population_thousands": 26.6,
+      "latitude": 43.2046547,
+      "longitude": 46.0889364,
+      "region_name": "Чеченская Республика",
+      "region_iso_code": "RU-CE",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Урус-Мартан",
+      "population_thousands": 62.7,
+      "latitude": 43.120175,
+      "longitude": 45.539276,
+      "region_name": "Чеченская Республика",
+      "region_iso_code": "RU-CE",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Шали",
+      "population_thousands": 55.1,
+      "latitude": 43.1488691,
+      "longitude": 45.9009629,
+      "region_name": "Чеченская Республика",
+      "region_iso_code": "RU-CE",
+      "federal_district": "Северо-Кавказский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Чеченская Республика - Бесплатная загрузка",
+    "description": "6 городов региона «Чеченская Республика» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 6 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Чеченская Республика | ListBase",
+    "seo_description": "Скачать Города — Чеченская Республика — 6 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 6 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

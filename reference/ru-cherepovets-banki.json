@@ -1,0 +1,79 @@
+{
+  "id": "ru-cherepovets-banki",
+  "name": "Банки — Cherepovets (коды SWIFT/BIC)",
+  "title": "Банки — Cherepovets (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in CHEREPOVETS (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 250,
+      "bank": "'BANK SGB' PJSC",
+      "city": "CHEREPOVETS",
+      "branch": "(CHEREPOVETS BRANCH)",
+      "swift_code": "SGAZRU21CHE"
+    },
+    {
+      "id": 537,
+      "bank": "INDUSTRIAL ENERGY BANK",
+      "city": "CHEREPOVETS",
+      "branch": "",
+      "swift_code": "IENCRU21"
+    },
+    {
+      "id": 957,
+      "bank": "NATIONAL BANK TRUST",
+      "city": "CHEREPOVETS",
+      "branch": "(CHEREPOVETS BRANCH)",
+      "swift_code": "NBTRRUM1CHV"
+    },
+    {
+      "id": 1421,
+      "bank": "STOCK COMMERCIAL BANK AGROCREDBANK ZAO",
+      "city": "CHEREPOVETS",
+      "branch": "",
+      "swift_code": "JSAGRU21"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Cherepovets (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in CHEREPOVETS (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 4 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Cherepovets (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Cherepovets (коды SWIFT/BIC) — 4 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 4 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

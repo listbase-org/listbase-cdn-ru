@@ -1,0 +1,107 @@
+{
+  "id": "ru-barnaul-banki",
+  "name": "Банки — Barnaul (коды SWIFT/BIC)",
+  "title": "Банки — Barnaul (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in BARNAUL (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 94,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "BARNAUL",
+      "branch": "(BARNAUL BRANCH)",
+      "swift_code": "MOBWRUM1BRN"
+    },
+    {
+      "id": 681,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "BARNAUL",
+      "branch": "(ALTAYSKY BRANCH )",
+      "swift_code": "RUAGRUM1018"
+    },
+    {
+      "id": 955,
+      "bank": "NATIONAL BANK TRUST",
+      "city": "BARNAUL",
+      "branch": "(BARNAUL BRANCH)",
+      "swift_code": "NBTRRUM1BAR"
+    },
+    {
+      "id": 1044,
+      "bank": "OOO KB 'ALTAYKAPITALBANK'",
+      "city": "BARNAUL",
+      "branch": "",
+      "swift_code": "ALOORU51"
+    },
+    {
+      "id": 1357,
+      "bank": "SIBSOCBANK",
+      "city": "BARNAUL",
+      "branch": "",
+      "swift_code": "SISNRU55"
+    },
+    {
+      "id": 1373,
+      "bank": "SOBINBANK",
+      "city": "BARNAUL",
+      "branch": "(BARNAUL BRANCH)",
+      "swift_code": "SBBARUM1004"
+    },
+    {
+      "id": 1642,
+      "bank": "'ZERNOBANK' COMMERCIAL BANK ZAO",
+      "city": "BARNAUL",
+      "branch": "(ZHELEZNODOROZHNY)",
+      "swift_code": "ZJSCRU51ZMD"
+    },
+    {
+      "id": 1643,
+      "bank": "'ZERNOBANK' COMMERCIAL BANK ZAO",
+      "city": "BARNAUL",
+      "branch": "",
+      "swift_code": "ZJSCRU51"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Barnaul (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in BARNAUL (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 8 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Barnaul (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Barnaul (коды SWIFT/BIC) — 8 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 8 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

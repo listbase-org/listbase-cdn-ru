@@ -1,0 +1,896 @@
+{
+  "id": "ru-sobory",
+  "name": "Соборы России (Cathedrals of Russia)",
+  "title": "Соборы России (Cathedrals of Russia)",
+  "description": "Список объектов категории «соборы», расположенных на территории России. Сортировка по русскому названию (по алфавиту). Источник — публичная конечная точка SPARQL Wikidata (query.wikidata.org). Для каждого объекта приводятся русское название (rdfs:label@ru), английская метка, административно-территориальная принадлежность (P131), координаты (WGS84, P625) и ссылка на русскую Википедию. Объекты без русской метки исключены согласно правилу сохранения языка оригинала. Лицензия CC0-1.0.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 83,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ru",
+      "label": "Name Ru",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ru",
+      "label": "Wikipedia Ru",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q2498635",
+      "name_ru": "Александро-Невский собор",
+      "name_en": "Alexander Nevsky Cathedral",
+      "located_in_at": "Первомайский район",
+      "latitude": 56.8441,
+      "longitude": 53.2011,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0_%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_(%D0%98%D0%B6%D0%B5%D0%B2%D1%81%D0%BA)"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q4425910",
+      "name_ru": "Александро-Невский собор",
+      "name_en": "Cathedral of St. Alexander Nevsky",
+      "located_in_at": "Обоянь",
+      "latitude": 51.211608,
+      "longitude": 36.279335,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%B0%D0%BC_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0_%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_(%D0%9E%D0%B1%D0%BE%D1%8F%D0%BD%D1%8C)"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q21843554",
+      "name_ru": "Александро-Невский собор",
+      "name_en": "Alexander Nevsky Cathedral",
+      "located_in_at": "Забайкальский край",
+      "latitude": 52.033387,
+      "longitude": 113.500726,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE-%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%A7%D0%B8%D1%82%D0%B0)"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q152271",
+      "name_ru": "Андреевский собор",
+      "name_en": "Saint Andrew's Cathedral, St Petersburg",
+      "located_in_at": "Василеостровский район",
+      "latitude": 59.939722,
+      "longitude": 30.283056,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3)"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q4069756",
+      "name_ru": "Армянский храмовый комплекс (Москва)",
+      "name_en": "Armenian Cathedral of Moscow",
+      "located_in_at": "Москва",
+      "latitude": 55.788056,
+      "longitude": 37.621194,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%BC%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q96850295",
+      "name_ru": "Архангельский собор (Рязань)",
+      "name_en": "Cathedral of Archangel Michael, Ryazan",
+      "located_in_at": "Рязань",
+      "latitude": 54.63657,
+      "longitude": 39.749218,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%A0%D1%8F%D0%B7%D0%B0%D0%BD%D1%8C)"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q85858428",
+      "name_ru": "Благовещенский собор",
+      "name_en": "Annunciation Cathedral",
+      "located_in_at": "Воткинск",
+      "latitude": 57.0522,
+      "longitude": 53.9866,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%92%D0%BE%D1%82%D0%BA%D0%B8%D0%BD%D1%81%D0%BA)"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q110318940",
+      "name_ru": "Благовещенский собор",
+      "name_en": "Cathedral of the Annunciation in Pskov",
+      "located_in_at": "Псков",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%9F%D1%81%D0%BA%D0%BE%D0%B2)"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q18400786",
+      "name_ru": "Благовещенский собор",
+      "name_en": "Annunciation Cathedral in Shlisselburg",
+      "located_in_at": "Шлиссельбург",
+      "latitude": 59.9441,
+      "longitude": 31.0314,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%A8%D0%BB%D0%B8%D1%81%D1%81%D0%B5%D0%BB%D1%8C%D0%B1%D1%83%D1%80%D0%B3)"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q106918044",
+      "name_ru": "Борисоглебский собор (Старица)",
+      "name_en": "Saints Boris and Gleb Church",
+      "located_in_at": "Старица",
+      "latitude": 56.509421,
+      "longitude": 34.927641,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B3%D0%BB%D0%B5%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%A1%D1%82%D0%B0%D1%80%D0%B8%D1%86%D0%B0)"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q19907989",
+      "name_ru": "Введенский собор",
+      "name_en": "Presentation Cathedral in Karpinsk",
+      "located_in_at": "Карпинск",
+      "latitude": 59.751996,
+      "longitude": 60.009406,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%9A%D0%B0%D1%80%D0%BF%D0%B8%D0%BD%D1%81%D0%BA)"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q2415106",
+      "name_ru": "Владимирский собор",
+      "name_en": "Cathedral of the Vladimir Icon of the Mother of God",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.928056,
+      "longitude": 30.348333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3)"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q110318961",
+      "name_ru": "Воронцовский собор",
+      "name_en": "Annunciation church, Vorontsovo",
+      "located_in_at": "Воронцово",
+      "latitude": 56.804454,
+      "longitude": 30.945144,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q4126223",
+      "name_ru": "Воскресенский войсковой собор",
+      "name_en": "Resurrection Cathedral, Starocherkasskaya",
+      "located_in_at": "Старочеркасская",
+      "latitude": 47.236985,
+      "longitude": 40.042966,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B9%D1%81%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q4126242",
+      "name_ru": "Воскресенский собор Новоиерусалимского монастыря",
+      "name_en": "Resurrection Cathedral in Istra",
+      "located_in_at": "Истра",
+      "latitude": 55.92145,
+      "longitude": 36.84508,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%9D%D0%BE%D0%B2%D0%BE%D0%B8%D0%B5%D1%80%D1%83%D1%81%D0%B0%D0%BB%D0%B8%D0%BC%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8F"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q30890563",
+      "name_ru": "Временный деревянный Вознесенский кафедральный собор",
+      "name_en": "",
+      "located_in_at": "Новочеркасск",
+      "latitude": 47.412778,
+      "longitude": 40.111667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%92%D0%BE%D0%B7%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q1969907",
+      "name_ru": "Георгиевский собор (Юрьев-Польский)",
+      "name_en": "Saint George Cathedral",
+      "located_in_at": "Юрьев-Польский",
+      "latitude": 56.496449,
+      "longitude": 39.679929,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%AE%D1%80%D1%8C%D0%B5%D0%B2-%D0%9F%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9)"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q4202547",
+      "name_ru": "Иоанно-Предтеченский собор (Екатеринбург)",
+      "name_en": "St. John the Baptist Cathedral",
+      "located_in_at": "Екатеринбург",
+      "latitude": 56.829375,
+      "longitude": 60.575256,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D0%BE%D0%B0%D0%BD%D0%BD%D0%BE-%D0%9F%D1%80%D0%B5%D0%B4%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3)"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q52774246",
+      "name_ru": "Кафедральный собор Петра и Павла",
+      "name_en": "Peter and Paul Church",
+      "located_in_at": "Салехард",
+      "latitude": 66.524844,
+      "longitude": 66.591524,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%B0%D0%BC_%D0%9F%D0%B5%D1%82%D1%80%D0%B0_%D0%B8_%D0%9F%D0%B0%D0%B2%D0%BB%D0%B0_(%D0%A1%D0%B0%D0%BB%D0%B5%D1%85%D0%B0%D1%80%D0%B4)"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q225459",
+      "name_ru": "Кёнигсбергский собор",
+      "name_en": "Königsberg Cathedral",
+      "located_in_at": "Калининград",
+      "latitude": 54.706389,
+      "longitude": 20.511667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%91%D0%BD%D0%B8%D0%B3%D1%81%D0%B1%D0%B5%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q110318951",
+      "name_ru": "Михаило-Архангельский собор",
+      "name_en": "Cathedral of St. Michael Archangel",
+      "located_in_at": "Пятигорск",
+      "latitude": 44.038013,
+      "longitude": 43.052091,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%BE-%D0%90%D1%80%D1%85%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%9F%D1%8F%D1%82%D0%B8%D0%B3%D0%BE%D1%80%D1%81%D0%BA)"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q7590826",
+      "name_ru": "Никольский Казачий собор",
+      "name_en": "St. Nicholas Cossack Cathedral",
+      "located_in_at": "Омск",
+      "latitude": 54.977785,
+      "longitude": 73.379728,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D0%B0%D0%B7%D0%B0%D1%87%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q3663712",
+      "name_ru": "Никольский собор",
+      "name_en": "St. Nicholas Cathedral (Kazan)",
+      "located_in_at": "Казань",
+      "latitude": 55.794,
+      "longitude": 49.109028,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C)"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q4320928",
+      "name_ru": "Никольский собор",
+      "name_en": "Saint Nicholas Orthodox cathedral in Orenburg",
+      "located_in_at": "Оренбург",
+      "latitude": 51.766306,
+      "longitude": 55.121294,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%9E%D1%80%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3)"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q47471885",
+      "name_ru": "Никольский собор Николо-Шартомского монастыря",
+      "name_en": "Nikolsky Cathedral of Nikolo-Shartomsky Monastery",
+      "located_in_at": "Введенье",
+      "latitude": 56.96611,
+      "longitude": 41.33833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%BE-%D0%A8%D0%B0%D1%80%D1%82%D0%BE%D0%BC%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8F"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q52192270",
+      "name_ru": "Оковецкий кафедральный собор (Ржев)",
+      "name_en": "Cathedral of the Theotokos of Okovtsy",
+      "located_in_at": "Ржев",
+      "latitude": 56.255096,
+      "longitude": 34.33652,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D0%BE%D0%B2%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q2655072",
+      "name_ru": "Петропавловский собор",
+      "name_en": "Saints Peter and Paul Cathedral",
+      "located_in_at": "Казань",
+      "latitude": 55.793611,
+      "longitude": 49.113206,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C)"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q4361578",
+      "name_ru": "Петропавловский собор",
+      "name_en": "Saint Peter & Paul Cathedral (Perm)",
+      "located_in_at": "Пермь",
+      "latitude": 58.019167,
+      "longitude": 56.255556,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%9F%D0%B5%D1%80%D0%BC%D1%8C)"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q21843467",
+      "name_ru": "Петропавловский собор",
+      "name_en": "Peter and Paul Cathedral",
+      "located_in_at": "Орёл",
+      "latitude": 52.9741,
+      "longitude": 36.066,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%9E%D1%80%D1%91%D0%BB)"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q53624257",
+      "name_ru": "Покровский кафедральный собор (Урюпинск)",
+      "name_en": "Church of Intercession of the Theotokos in Uryupinsk",
+      "located_in_at": "Урюпинск",
+      "latitude": 50.8078,
+      "longitude": 41.992177,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D0%B0_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B_(%D0%A3%D1%80%D1%8E%D0%BF%D0%B8%D0%BD%D1%81%D0%BA)"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q4369378",
+      "name_ru": "Покровский собор",
+      "name_en": "Cathedral of Intercession of the Theotokos",
+      "located_in_at": "Севастополь",
+      "latitude": 44.605,
+      "longitude": 33.521944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C)"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q4369373",
+      "name_ru": "Покровский собор (Брянск)",
+      "name_en": "Old Church of the Protection of the Theotokos",
+      "located_in_at": "Брянск",
+      "latitude": 53.24575,
+      "longitude": 34.373889,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%91%D1%80%D1%8F%D0%BD%D1%81%D0%BA)"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q4369375",
+      "name_ru": "Покровский собор на Рогожском кладбище",
+      "name_en": "Protection Cathedral",
+      "located_in_at": "Нижегородский район",
+      "latitude": 55.739444,
+      "longitude": 37.702778,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%BD%D0%B0_%D0%A0%D0%BE%D0%B3%D0%BE%D0%B6%D1%81%D0%BA%D0%BE%D0%BC_%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q130901815",
+      "name_ru": "Преображенский собор (Салехард)",
+      "name_en": "",
+      "located_in_at": "Салехард",
+      "latitude": 66.539444,
+      "longitude": 66.623889,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%A1%D0%B0%D0%BB%D0%B5%D1%85%D0%B0%D1%80%D0%B4)"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q1990726",
+      "name_ru": "Сампсониевский собор",
+      "name_en": "Saint Sampson's Cathedral",
+      "located_in_at": "Выборгский район",
+      "latitude": 59.968369,
+      "longitude": 30.34281,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%BF%D1%81%D0%BE%D0%BD%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q2221961",
+      "name_ru": "Свято-Георгиевский кафедральный собор (Владикавказ)",
+      "name_en": "Saint George Church",
+      "located_in_at": "Владикавказ",
+      "latitude": 43.030157,
+      "longitude": 44.661794,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BA%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7)"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q16695483",
+      "name_ru": "Свято-Троицкий собор",
+      "name_en": "Holy Trinity Cathedral",
+      "located_in_at": "Шарыпово",
+      "latitude": 55.541333,
+      "longitude": 89.179667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%A8%D0%B0%D1%80%D1%8B%D0%BF%D0%BE%D0%B2%D0%BE)"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q52229415",
+      "name_ru": "Свято-Троицкий собор (Каменск-Уральский)",
+      "name_en": "Holy Trinity Church",
+      "located_in_at": "Каменск-Уральский",
+      "latitude": 56.417621,
+      "longitude": 61.89289,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA-%D0%A3%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9)"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q15405499",
+      "name_ru": "Сергиевский собор",
+      "name_en": "St. Serge's Cathedral (Saint Petersburg)",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.947147,
+      "longitude": 30.349647,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D1%81%D0%B5%D0%B9_%D0%B0%D1%80%D1%82%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%D0%B8%D0%B8_%D1%81%D0%BE%D0%B1%D0%BE%D1%80"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q55659397",
+      "name_ru": "Собор Воздвижения Креста Господня (Верхотурье)",
+      "name_en": "Church of the descent from the Cross",
+      "located_in_at": "Верхотурье",
+      "latitude": 58.86318,
+      "longitude": 60.80994,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%92%D0%BE%D0%B7%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9A%D1%80%D0%B5%D1%81%D1%82%D0%B0_%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%BD%D1%8F_(%D0%92%D0%B5%D1%80%D1%85%D0%BE%D1%82%D1%83%D1%80%D1%8C%D0%B5)"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q124569726",
+      "name_ru": "Собор Казанской иконы Божией Матери",
+      "name_en": "Kazan Cathedral",
+      "located_in_at": "Серафимович",
+      "latitude": 49.566444,
+      "longitude": 42.696522,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%B0%D0%BC_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B_%D0%91%D0%BE%D0%B6%D0%B8%D0%B5%D0%B9_%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8_(%D0%A1%D0%B5%D1%80%D0%B0%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%D1%87)"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q107740106",
+      "name_ru": "Собор Михаила Архангела (Бронницы)",
+      "name_en": "Cathedral of Archangel Michael",
+      "located_in_at": "Бронницы",
+      "latitude": 55.426552,
+      "longitude": 38.264722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%B0_%D0%90%D1%80%D1%85%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B0_(%D0%91%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D1%86%D1%8B)"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q107499833",
+      "name_ru": "Собор Покрова Пресвятой Богородицы (Елабуга)",
+      "name_en": "Church of the Protection of the Theotokos, Elabuga",
+      "located_in_at": "Елабуга",
+      "latitude": 55.752583,
+      "longitude": 52.070861,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D0%B0_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B_(%D0%95%D0%BB%D0%B0%D0%B1%D1%83%D0%B3%D0%B0)"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q18920906",
+      "name_ru": "Собор Рождества Богородицы",
+      "name_en": "Katholikon of the Antoniev Monastery",
+      "located_in_at": "Великий Новгород",
+      "latitude": 58.5404,
+      "longitude": 31.2882,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%B5%D0%B2%D0%B0_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8F"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q108218718",
+      "name_ru": "Собор Рождества Пресвятой Богородицы (Бобренев монастырь)",
+      "name_en": "Church of the Nativity of the Most Holy Theotokos",
+      "located_in_at": "Старое Бобренево",
+      "latitude": 55.119145,
+      "longitude": 38.760197,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B0_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B_(%D0%91%D0%BE%D0%B1%D1%80%D0%B5%D0%BD%D0%B5%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C)"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q108057151",
+      "name_ru": "Собор Рождества Пресвятой Богородицы (Можайск)",
+      "name_en": "Church of the Nativity of the Theotokos in the Luzhetsky Monastery",
+      "located_in_at": "Можайск",
+      "latitude": 55.521363,
+      "longitude": 36.00815,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B0_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B_(%D0%9C%D0%BE%D0%B6%D0%B0%D0%B9%D1%81%D0%BA)"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q18400929",
+      "name_ru": "Собор Святого Георгия Победоносца",
+      "name_en": "Saint George Orthodox church in Derbent",
+      "located_in_at": "Дербент",
+      "latitude": 40.057778,
+      "longitude": 48.288333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D1%8F_%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D0%BE%D0%BD%D0%BE%D1%81%D1%86%D0%B0_(%D0%94%D0%B5%D1%80%D0%B1%D0%B5%D0%BD%D1%82)"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q1329512",
+      "name_ru": "Собор Святых Апостолов Петра и Павла",
+      "name_en": "St. Peter and St. Paul Cathedral, Saratov",
+      "located_in_at": "Саратов",
+      "latitude": 51.5275,
+      "longitude": 46.044722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%9F%D0%B5%D1%82%D1%80%D0%B0_%D0%B8_%D0%9F%D0%B0%D0%B2%D0%BB%D0%B0_(%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2)"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q110318954",
+      "name_ru": "Собор Святых Константина и Елены",
+      "name_en": "Cathedral of Saint Constantine and Helena",
+      "located_in_at": "Медынь",
+      "latitude": 54.96827,
+      "longitude": 35.85408,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%A1%D0%B2%D1%8F%D1%82%D1%8B%D1%85_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%B0_%D0%B8_%D0%95%D0%BB%D0%B5%D0%BD%D1%8B_(%D0%9C%D0%B5%D0%B4%D1%8B%D0%BD%D1%8C)"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q115204863",
+      "name_ru": "Собор Троицы Живоначальной (Краснодар)",
+      "name_en": "Holy Trinity Church, Krasnodar",
+      "located_in_at": "Краснодар",
+      "latitude": 45.030303,
+      "longitude": 38.96295,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D1%8B_%D0%96%D0%B8%D0%B2%D0%BE%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_(%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B4%D0%B0%D1%80)"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q13584516",
+      "name_ru": "Собор в честь иконы Державной Божией Матери",
+      "name_en": "Church of Dzerzhavnaya Icon of Our Lady in Gdov",
+      "located_in_at": "Гдов",
+      "latitude": 58.740294,
+      "longitude": 27.819764,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%94%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%BE%D0%B9_%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B_%D0%91%D0%BE%D0%B6%D0%B8%D0%B5%D0%B9_%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8_(%D0%93%D0%B4%D0%BE%D0%B2)"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q41080422",
+      "name_ru": "Собор во имя святых равноапостольных Кирилла и Мефодия",
+      "name_en": "Cathedral of Saints Cyril and Methodius Equal to the Apostles",
+      "located_in_at": "Сальск",
+      "latitude": 46.480347,
+      "longitude": 41.537946,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%B0%D0%BC_%D0%A1%D0%B2%D1%8F%D1%82%D1%8B%D1%85_%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB%D0%B0_%D0%B8_%D0%9C%D0%B5%D1%84%D0%BE%D0%B4%D0%B8%D1%8F_(%D0%A1%D0%B0%D0%BB%D1%8C%D1%81%D0%BA)"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q886918",
+      "name_ru": "Софийско-Успенский собор",
+      "name_en": "Saint Sophia and Dormition Cathedral (Tobolsk)",
+      "located_in_at": "Тобольск",
+      "latitude": 58.1995,
+      "longitude": 68.2517,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%84%D0%B8%D0%B9%D1%81%D0%BA%D0%BE-%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q18409088",
+      "name_ru": "Спасо-Вознесенский кафедральный собор",
+      "name_en": "Ascension Cathedral, Ulyanovsk",
+      "located_in_at": "Ульяновск",
+      "latitude": 54.307527,
+      "longitude": 48.376839,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%92%D0%BE%D0%B7%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA)"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q27430447",
+      "name_ru": "Спасо-Преображенская церковь (Нижняя Синячиха)",
+      "name_en": "Nizhnaya Sinyachikha Church",
+      "located_in_at": "Нижняя Синячиха",
+      "latitude": 57.948,
+      "longitude": 61.766,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%BD%D1%8F_(%D0%9D%D0%B8%D0%B6%D0%BD%D1%8F%D1%8F_%D0%A1%D0%B8%D0%BD%D1%8F%D1%87%D0%B8%D1%85%D0%B0)"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q1336613",
+      "name_ru": "Спасо-Преображенский собор",
+      "name_en": "Transfiguration Cathedral",
+      "located_in_at": "Тольятти",
+      "latitude": 53.521011,
+      "longitude": 49.278014,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%A2%D0%BE%D0%BB%D1%8C%D1%8F%D1%82%D1%82%D0%B8)"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q2780851",
+      "name_ru": "Спасо-Преображенский собор",
+      "name_en": "Transfiguration Cathedral",
+      "located_in_at": "Углич",
+      "latitude": 57.528914,
+      "longitude": 38.317414,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%A3%D0%B3%D0%BB%D0%B8%D1%87)"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q3893581",
+      "name_ru": "Спасо-Преображенский собор",
+      "name_en": "church of the Transfiguration",
+      "located_in_at": "Торжок",
+      "latitude": 57.038769,
+      "longitude": 34.958347,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%A2%D0%BE%D1%80%D0%B6%D0%BE%D0%BA)"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q29996423",
+      "name_ru": "Спасо-Преображенский собор (Новозыбков)",
+      "name_en": "Transfiguration Church, Novozybkov",
+      "located_in_at": "Новозыбков",
+      "latitude": 52.535583,
+      "longitude": 31.929083,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%9D%D0%BE%D0%B2%D0%BE%D0%B7%D1%8B%D0%B1%D0%BA%D0%BE%D0%B2)"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q4430842",
+      "name_ru": "Спасо-Преображенский собор (Хутынский монастырь)",
+      "name_en": "Transfiguration Cathedral, Khutynsky Monastery",
+      "located_in_at": "Хутынь",
+      "latitude": 58.587639,
+      "longitude": 31.395351,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%A5%D1%83%D1%82%D1%8B%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C)"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q130481756",
+      "name_ru": "Спасо-Преображенский собор (Яренск)",
+      "name_en": "Cathedral of the Transfiguration, Yarensk",
+      "located_in_at": "Яренск",
+      "latitude": 62.167139,
+      "longitude": 49.079569,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%AF%D1%80%D0%B5%D0%BD%D1%81%D0%BA)"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q4426036",
+      "name_ru": "Спасо-Преображенский собор Спасо-Евфимиева монастыря",
+      "name_en": "Transfiguration Cathedral in Spaso-Yevfimiyev Monastery",
+      "located_in_at": "Суздаль",
+      "latitude": 56.433294,
+      "longitude": 40.439067,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%95%D0%B2%D1%84%D0%B8%D0%BC%D0%B8%D0%B5%D0%B2%D0%B0_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8F"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q644102",
+      "name_ru": "Спасо-Преображенский собор, Санкт-Петербург",
+      "name_en": "Transfiguration Cathedral",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.94306,
+      "longitude": 30.3525,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3)"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q111668026",
+      "name_ru": "Спасский собор (Спасо-Влахернский монастырь)",
+      "name_en": "Church of the Holy Mandylion (Dedenevo)",
+      "located_in_at": "Деденёво",
+      "latitude": 56.240556,
+      "longitude": 37.519722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%92%D0%BB%D0%B0%D1%85%D0%B5%D1%80%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C)"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q48955431",
+      "name_ru": "Спасский собор Заиконоспасского монастыря",
+      "name_en": "Church of the Holy Mandylion at Zaikonospassky Monastery (Moscow)",
+      "located_in_at": "Тверской район",
+      "latitude": 55.75639,
+      "longitude": 37.62056,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%97%D0%B0%D0%B8%D0%BA%D0%BE%D0%BD%D0%BE%D1%81%D0%BF%D0%B0%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8F"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q4463417",
+      "name_ru": "Троице-Петровский собор",
+      "name_en": "Old Trinity Cathedral",
+      "located_in_at": "Петроградский район",
+      "latitude": 59.953611,
+      "longitude": 30.326667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B5-%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q2256084",
+      "name_ru": "Троицкий кафедральный собор с колокольней",
+      "name_en": "Trinity Cathedral in Pskov",
+      "located_in_at": "Псков",
+      "latitude": 57.82216,
+      "longitude": 28.32904,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%9F%D1%81%D0%BA%D0%BE%D0%B2)"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q110318958",
+      "name_ru": "Троицкий собор",
+      "name_en": "Trinity church of the Uspensky Monastery, Staritsa",
+      "located_in_at": "Старица",
+      "latitude": 56.513822,
+      "longitude": 34.928668,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%A1%D1%82%D0%B0%D1%80%D0%B8%D1%86%D0%B0)"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q34452955",
+      "name_ru": "Троицкий собор (Галич)",
+      "name_en": "Holy Trinity Cathedral (Galich)",
+      "located_in_at": "Галич",
+      "latitude": 58.389206,
+      "longitude": 42.355815,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%93%D0%B0%D0%BB%D0%B8%D1%87)"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q4463552",
+      "name_ru": "Троицкий собор (Екатеринбург)",
+      "name_en": "Trinity Cathedral",
+      "located_in_at": "Екатеринбург",
+      "latitude": 56.82733,
+      "longitude": 60.61448,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3)"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q108806187",
+      "name_ru": "Троицкий собор (Осташков)",
+      "name_en": "Holy Trinity Cathedral, Ostashkov",
+      "located_in_at": "Осташков",
+      "latitude": 57.161535,
+      "longitude": 33.102006,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%9E%D1%81%D1%82%D0%B0%D1%88%D0%BA%D0%BE%D0%B2)"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q21559167",
+      "name_ru": "Троицкий собор (Якутск)",
+      "name_en": "Holy Trinity Cathedral (Yakutsk)",
+      "located_in_at": "Якутск",
+      "latitude": 62.022522,
+      "longitude": 129.718374,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%AF%D0%BA%D1%83%D1%82%D1%81%D0%BA)"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q98381062",
+      "name_ru": "Троицкий собор (Яхрома)",
+      "name_en": "Church of the Holy Trinity (Yakhroma)",
+      "located_in_at": "Яхрома",
+      "latitude": 56.28566,
+      "longitude": 37.48081,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%AF%D1%85%D1%80%D0%BE%D0%BC%D0%B0)"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q4463570",
+      "name_ru": "Троицкий собор Троице-Сергиева монастыря",
+      "name_en": "Old Katholikon of the Trinity Lavra",
+      "located_in_at": "Сергиево-Посадский район",
+      "latitude": 56.309722,
+      "longitude": 38.129444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B5-%D0%A1%D0%B5%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D0%BE%D0%B9_%D0%BB%D0%B0%D0%B2%D1%80%D1%8B"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q2231015",
+      "name_ru": "Успенский собор",
+      "name_en": "Assumption Cathedral in Smolensk",
+      "located_in_at": "Смоленск",
+      "latitude": 54.788889,
+      "longitude": 32.054444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA)"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q4478063",
+      "name_ru": "Успенский собор",
+      "name_en": "Cathedral of the Dormition of the Theotokos",
+      "located_in_at": "Ростов Великий",
+      "latitude": 57.185617,
+      "longitude": 39.415522,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9)"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q4478064",
+      "name_ru": "Успенский собор (Рыльск)",
+      "name_en": "Cathedral of the Dormition, Rylsk",
+      "located_in_at": "Рыльск",
+      "latitude": 51.574676,
+      "longitude": 34.687188,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%A0%D1%8B%D0%BB%D1%8C%D1%81%D0%BA)"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q17056916",
+      "name_ru": "Успенский собор Троице-Сергиевой лавры",
+      "name_en": "Assumption Cathedral in Sergiev Posad",
+      "located_in_at": "Сергиево-Посадский район",
+      "latitude": 56.31031,
+      "longitude": 38.13067,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q21634963",
+      "name_ru": "Храм Казанского образа Пресвятой Богородицы",
+      "name_en": "Church of the Theotokos of Kazan, Samara",
+      "located_in_at": "Самара",
+      "latitude": 53.193451,
+      "longitude": 50.090986,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B0_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B_(%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%B0)"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q4501086",
+      "name_ru": "Храм Христа Спасителя (Самара)",
+      "name_en": "Cathedral of Christ the Saviour",
+      "located_in_at": "Самара",
+      "latitude": 53.19556,
+      "longitude": 50.10222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%B0%D0%BC_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B0_%D0%A1%D0%BF%D0%B0%D1%81%D0%B8%D1%82%D0%B5%D0%BB%D1%8F_(%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D0%B0)"
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q19916169",
+      "name_ru": "Христорождественский собор",
+      "name_en": "Nativity of Christ Cathedral",
+      "located_in_at": "Челябинск",
+      "latitude": 55.1666,
+      "longitude": 61.402,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_(%D0%A7%D0%B5%D0%BB%D1%8F%D0%B1%D0%B8%D0%BD%D1%81%D0%BA)"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q3663717",
+      "name_ru": "Церковь Петра и Павла",
+      "name_en": "Cathedral of St. Paul",
+      "located_in_at": "Лодейное Поле",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q128758168",
+      "name_ru": "кафедральный собор Андрея Первозванного в Геленджике",
+      "name_en": "Saint Andrew Cathedral (Gelendzhik)",
+      "located_in_at": "Геленджик",
+      "latitude": 44.601162,
+      "longitude": 38.036973,
+      "wikipedia_ru": ""
+    }
+  ],
+  "meta": {
+    "title": "Соборы России (Cathedrals of Russia) - Бесплатная загрузка",
+    "description": "Список объектов категории «соборы», расположенных на территории России. Сортировка по русскому названию (по алфавиту). Источник — публичная конечная точка SPARQL Wikidata (query.wikidata.org). Для каждого объекта приводятся русское название (rdfs:label@ru), английская метка, административно-территориальная принадлежность (P131), координаты (WGS84, P625) и ссылка на русскую Википедию. Объекты без русской метки исключены согласно правилу сохранения языка оригинала. Лицензия CC0-1.0. Содержит 83 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Соборы России (Cathedrals of Russia) | ListBase",
+    "seo_description": "Скачать Соборы России (Cathedrals of Russia) — 83 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 83 записей / 8 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

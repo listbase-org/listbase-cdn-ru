@@ -1,0 +1,7 @@
+﻿"Id","Ident","Type","Name","Latitude Deg","Longitude Deg","Elevation Ft","Continent","Iso Country","Iso Region","Region Local Code","Region Name","Municipality","Scheduled Service","Icao Code","Iata Code","Gps Code","Local Code","Home Link","Wikipedia Link","Keywords"
+"325862","RU-0484","small_airport","Kotovo Airfield","51.3146773","38.0090673","","EU","RU","RU-BEL","BEL","Belgorod Oblast","Kotovo","no","","","","","","","kotovo, dosaaf"
+"328341","RU-0488","small_airport","Belgorod-Severniy Airstrip","50.657376","36.529791","","EU","RU","RU-BEL","BEL","Belgorod Oblast","Belgorod","no","","","","","","",""
+"42922","RU-10052","small_airport","Stary Oskol Airfield","51.329216","37.768848","719","EU","RU","RU-BEL","BEL","Belgorod Oblast","Stary Oskol","no","","","","UUOS","","https://en.wikipedia.org/wiki/Stary_Oskol_Airport","УУОС, Старый Оскол, Staryy Oskol, RU-10052"
+"342078","RU-10083","small_airport","Tomarovka Aerodrome","50.6945","36.2922","656","EU","RU","RU-BEL","BEL","Belgorod Oblast","Pushkarnoye","no","","","","XUOP","","","Томаровка, ЬУОП, RU-10083"
+"26398","UUOB","medium_airport","Belgorod International Airport","50.643798828125","36.5900993347168","735","EU","RU","RU-BEL","BEL","Belgorod Oblast","Belgorod","yes","UUOB","EGO","UUOB","","","https://en.wikipedia.org/wiki/Belgorod_Airport",""
+"600077","UUOW","small_airport","Valuyki  Airfield","50.224929","38.110891","593","EU","RU","RU-BEL","BEL","Belgorod Oblast","Valuyki","no","","","UUOW","","","","УУОВ, Валуйки"

@@ -1,0 +1,3733 @@
+{
+  "id": "ru-moscow-banki",
+  "name": "Банки — Moscow (коды SWIFT/BIC)",
+  "title": "Банки — Moscow (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in MOSCOW (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 526,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 2,
+      "bank": "ABSOLUT BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ABSLRUMM"
+    },
+    {
+      "id": 3,
+      "bank": "AC BANK",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "ELKARU3SMOS"
+    },
+    {
+      "id": 7,
+      "bank": "AGRICULTURAL BANK OF CHINA (MOSCOW) LIMITED",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ABOCRUMM"
+    },
+    {
+      "id": 8,
+      "bank": "AGROKHIM BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "AGHIRUM1"
+    },
+    {
+      "id": 9,
+      "bank": "AGROSOYUZ BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "AGRYRUM1"
+    },
+    {
+      "id": 10,
+      "bank": "AGROSOYUZ BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "AGSZRU33"
+    },
+    {
+      "id": 21,
+      "bank": "AK BARS BANK",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "ARRSRU21MOS"
+    },
+    {
+      "id": 36,
+      "bank": "ALEF-BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ALEFRUMM"
+    },
+    {
+      "id": 38,
+      "bank": "ALEKSANDROVSKY BANK",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "ITEHRU21300"
+    },
+    {
+      "id": 41,
+      "bank": "ALFA CAPITAL",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ALCPRUM1"
+    },
+    {
+      "id": 44,
+      "bank": "ALFA-BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ALFARUMM"
+    },
+    {
+      "id": 50,
+      "bank": "ALJBA ALLIANCE",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ALALRUMM"
+    },
+    {
+      "id": 51,
+      "bank": "ALMA BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "FRIBRUMM"
+    },
+    {
+      "id": 53,
+      "bank": "AMERICAN EXPRESS BANK LLC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "AEGBRUMM"
+    },
+    {
+      "id": 55,
+      "bank": "AO BANK OF TOKYO-MITSUBISHI UFJ (EURASIA)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "BOTKRUMM"
+    },
+    {
+      "id": 57,
+      "bank": "AO CITIBANK, MOSCOW",
+      "city": "MOSCOW",
+      "branch": "(CITI RUSSIA TREASURY OPERATIONS)",
+      "swift_code": "CITIRUMXBON"
+    },
+    {
+      "id": 58,
+      "bank": "AO CITIBANK, MOSCOW",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "CITIRUMX"
+    },
+    {
+      "id": 61,
+      "bank": "AO MIZUHO BANK (MOSCOW)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MHCCRUMM"
+    },
+    {
+      "id": 62,
+      "bank": "AO 'M-REESTR'",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MREERUM1"
+    },
+    {
+      "id": 63,
+      "bank": "AO RAIFFEISENBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RZBMRUMM"
+    },
+    {
+      "id": 64,
+      "bank": "AO WOORI BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "HVBKRUMM"
+    },
+    {
+      "id": 66,
+      "bank": "APABANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "APABRUMM"
+    },
+    {
+      "id": 67,
+      "bank": "ARBAT BANK COMMERCIAL BANK LTD.",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ARBORUM1"
+    },
+    {
+      "id": 68,
+      "bank": "ARESBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ARESRUMM"
+    },
+    {
+      "id": 69,
+      "bank": "ASIA-INVEST BANK JSC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ASIJRUMM"
+    },
+    {
+      "id": 74,
+      "bank": "ATB BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ATBTRUMM"
+    },
+    {
+      "id": 75,
+      "bank": "ATON",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ATONRUM1"
+    },
+    {
+      "id": 76,
+      "bank": "ATON INVESTMENT COMPANY",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ATIMRUM1"
+    },
+    {
+      "id": 77,
+      "bank": "AVANGARD BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "AVJSRUMM"
+    },
+    {
+      "id": 80,
+      "bank": "AVTOTORGBANK OOO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SLAKRUM1"
+    },
+    {
+      "id": 83,
+      "bank": "AVTOVAZBANK JOINT-STOCK COMPANY",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "AVBKRU31MOS"
+    },
+    {
+      "id": 91,
+      "bank": "AZIMUT BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "AZIMRUM1"
+    },
+    {
+      "id": 109,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "MOSCOW",
+      "branch": "(BRANCH B AND N BANK IN MOSCOW)",
+      "swift_code": "BINORU21MOS"
+    },
+    {
+      "id": 110,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "MOSCOW",
+      "branch": "(OPERATIONAL DEPARTMENT)",
+      "swift_code": "MOBWRUMMTRS"
+    },
+    {
+      "id": 111,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "BINORU21"
+    },
+    {
+      "id": 112,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "BINORUMM"
+    },
+    {
+      "id": 113,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MOBWRU21"
+    },
+    {
+      "id": 114,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MOBWRUMM"
+    },
+    {
+      "id": 146,
+      "bank": "B AND N BANK CREDIT CARDS (CLOSED JOINT-STOCK COMPANY)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MPRIRUMM"
+    },
+    {
+      "id": 152,
+      "bank": "BANCA INTESA",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "KMBBRUMM"
+    },
+    {
+      "id": 155,
+      "bank": "BANK BASMANNY",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "BSSMRUM1"
+    },
+    {
+      "id": 156,
+      "bank": "BANK BCC-MOSCOW",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "BCCMRUMM"
+    },
+    {
+      "id": 159,
+      "bank": "BANK FININVEST LIMITED LIABILITY COMPANY",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "FIIYRUM1"
+    },
+    {
+      "id": 160,
+      "bank": "BANK FINSERVICE JSC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "KOMXRUMM"
+    },
+    {
+      "id": 161,
+      "bank": "BANK FOR INNOVATION AND DEVELOPMENT",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "FEIDRUMM"
+    },
+    {
+      "id": 162,
+      "bank": "BANK FREEDOM FINANCE LLC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "FRFLRUMM"
+    },
+    {
+      "id": 163,
+      "bank": "BANK ICBC (JSC)",
+      "city": "MOSCOW",
+      "branch": "(CLEARING OFFICE)",
+      "swift_code": "ICBKRUMMCLR"
+    },
+    {
+      "id": 164,
+      "bank": "BANK ICBC (JSC)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ICBKRUMM"
+    },
+    {
+      "id": 165,
+      "bank": "BANK IDM (PJSC)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "JCFORUMM"
+    },
+    {
+      "id": 166,
+      "bank": "BANK INFORMPROGRESS",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "INOGRUM1"
+    },
+    {
+      "id": 167,
+      "bank": "BANK JSC MMA",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MOMGRUMM"
+    },
+    {
+      "id": 171,
+      "bank": "BANK KHOVANSKIY",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "KHOVRUMM"
+    },
+    {
+      "id": 172,
+      "bank": "BANK KITEZH",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "KITZRUM1"
+    },
+    {
+      "id": 175,
+      "bank": "BANK MOSKVA",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RJSCRUMM"
+    },
+    {
+      "id": 177,
+      "bank": "BANK NATIONAL CLEARING CENTRE (JOINT-STOCK COMPANY)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "NCCBRUMM"
+    },
+    {
+      "id": 179,
+      "bank": "BANK OF AMERICA, N.A. (MOSCOW)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "BOFARUM1"
+    },
+    {
+      "id": 181,
+      "bank": "BANK OF CHINA (RUSSIA)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "BKCHRUMM"
+    },
+    {
+      "id": 184,
+      "bank": "BANK OF REGION DEVELOPMENT",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "REDVRU21"
+    },
+    {
+      "id": 195,
+      "bank": "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "JSNMRUMM"
+    },
+    {
+      "id": 196,
+      "bank": "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "PTRBRUMM"
+    },
+    {
+      "id": 204,
+      "bank": "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY) (FORMERLY KHANTY-MANSIYSK BANK OTKRITIE)",
+      "city": "MOSCOW",
+      "branch": "(TOCHKA BRANCH)",
+      "swift_code": "RUDLRUM1BNL"
+    },
+    {
+      "id": 205,
+      "bank": "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY) (FORMERLY KHANTY-MANSIYSK BANK OTKRITIE)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RUDLRUMM"
+    },
+    {
+      "id": 214,
+      "bank": "BANK 'RATIBOR' (LTD)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RAOORUM1"
+    },
+    {
+      "id": 215,
+      "bank": "BANK RESO CREDIT",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RETLRUMM"
+    },
+    {
+      "id": 222,
+      "bank": "BANK ''ROSSIYA''",
+      "city": "MOSCOW",
+      "branch": "(CENTRAL BRANCH)",
+      "swift_code": "ROSYRU21CNT"
+    },
+    {
+      "id": 223,
+      "bank": "BANK ''ROSSIYA''",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "ROSYRU21MSK"
+    },
+    {
+      "id": 237,
+      "bank": "BANK ROSSIYSKY CAPITAL",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ROSKRUMM"
+    },
+    {
+      "id": 238,
+      "bank": "BANK ROUND LLC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SVIBRUMM"
+    },
+    {
+      "id": 240,
+      "bank": "BANK RRDB (JSC)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RRDBRUMM"
+    },
+    {
+      "id": 248,
+      "bank": "BANK SERVICE RESERVE (JOINT-STOCK COMPANY)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SEZARUM1"
+    },
+    {
+      "id": 267,
+      "bank": "BANK 'SOFRINO' AO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SFRNRUM1"
+    },
+    {
+      "id": 272,
+      "bank": "BANK SOYUZ",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "JCAMRUMM"
+    },
+    {
+      "id": 276,
+      "bank": "BANK STARIY KREML",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "STKRRUM1"
+    },
+    {
+      "id": 277,
+      "bank": "BANK 'TROIKA'",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "TROYRUM1"
+    },
+    {
+      "id": 278,
+      "bank": "BANK UCB",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "UCBCRUM1"
+    },
+    {
+      "id": 280,
+      "bank": "BANK URAL FD",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "JSCORU4PMSK"
+    },
+    {
+      "id": 286,
+      "bank": "BANKHAUS ERBE",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "WBCCRUMM"
+    },
+    {
+      "id": 287,
+      "bank": "BASHCOMSNABBANK",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW)",
+      "swift_code": "BKSBRU41MSK"
+    },
+    {
+      "id": 289,
+      "bank": "BASHINVESTBANK",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "BAHNRU41MSK"
+    },
+    {
+      "id": 295,
+      "bank": "BEST EFFORTS BANK, PJSC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RTSBRUMM"
+    },
+    {
+      "id": 297,
+      "bank": "BM-BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MOSWRUM2"
+    },
+    {
+      "id": 298,
+      "bank": "BMW BANK OOO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "BMWFRUMM"
+    },
+    {
+      "id": 299,
+      "bank": "BNP PARIBAS BANK JSC, MOSCOW",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "BNPARUMM"
+    },
+    {
+      "id": 301,
+      "bank": "BRITISH AMERICAN TOBACCO RUSSIA LIMITED",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "BATSRU31"
+    },
+    {
+      "id": 302,
+      "bank": "BROKERCREDITSERVICE COMPANY LLC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "BRKCRUM1"
+    },
+    {
+      "id": 303,
+      "bank": "BRUNSWICK RUSSIA (JERSEY) LIMITED",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "BRRJRUM1"
+    },
+    {
+      "id": 306,
+      "bank": "BUSINESS AND CULTURE DEVELOPMENT BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "BUCDRUM1"
+    },
+    {
+      "id": 307,
+      "bank": "BUSINESS MOSCOW, JOINT STOCK BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "BMJSRUM1"
+    },
+    {
+      "id": 309,
+      "bank": "BYSTROBANK",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "BYJSRU33MOS"
+    },
+    {
+      "id": 310,
+      "bank": "CAPITAL KREDIT LTD",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "CINGRUMM"
+    },
+    {
+      "id": 311,
+      "bank": "CB 'AKROPOL' AO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "COAKRUM1"
+    },
+    {
+      "id": 312,
+      "bank": "CB ALTERNATIVA",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ALNORUM1"
+    },
+    {
+      "id": 313,
+      "bank": "CB B2B",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "CBBTRU21MOS"
+    },
+    {
+      "id": 315,
+      "bank": "CB DELTACREDIT",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "DETARUMM"
+    },
+    {
+      "id": 316,
+      "bank": "CB EURO-ASIAN INVESTMENT BANK LLC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "EABIRUMM"
+    },
+    {
+      "id": 317,
+      "bank": "CB GEOBANK LTD",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "COGKRUM1"
+    },
+    {
+      "id": 319,
+      "bank": "CB INTERREGIONAL POST BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ITTGRUM1"
+    },
+    {
+      "id": 320,
+      "bank": "CB ''J.P. MORGAN BANK INTERNATIONAL'' (LLC)",
+      "city": "MOSCOW",
+      "branch": "(TELEX AND S.W.I.F.T. MESSAGE ENQUIRIES)",
+      "swift_code": "CHASRUMXENQ"
+    },
+    {
+      "id": 321,
+      "bank": "CB ''J.P. MORGAN BANK INTERNATIONAL'' (LLC)",
+      "city": "MOSCOW",
+      "branch": "(TEST KEY AND BKE ADMINISTRATION)",
+      "swift_code": "CHASRUMXKEY"
+    },
+    {
+      "id": 322,
+      "bank": "CB ''J.P. MORGAN BANK INTERNATIONAL'' (LLC)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "CHASRUMX"
+    },
+    {
+      "id": 325,
+      "bank": "CB MIKHAYLOVSKY PZHSB",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "PGSBRUM1"
+    },
+    {
+      "id": 326,
+      "bank": "CB MOSKOMMERTSBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "IVDCRUMM"
+    },
+    {
+      "id": 328,
+      "bank": "CB PULS STOLITSY",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "PSBMRUM1"
+    },
+    {
+      "id": 329,
+      "bank": "CB 'RIAL-CREDIT'(LTD.)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "REAERUMM"
+    },
+    {
+      "id": 330,
+      "bank": "CB 'RUSREGIONBANK' JSC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RRBKRU21"
+    },
+    {
+      "id": 332,
+      "bank": "CB RUSSIAN MORTGAGE BANK (LLC)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RUMORUMM"
+    },
+    {
+      "id": 333,
+      "bank": "CB 'VITYAZ' LTD",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "VITYRUM1"
+    },
+    {
+      "id": 335,
+      "bank": "CBI 'ENTUZIASTBANK' OOO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ENTURUM1"
+    },
+    {
+      "id": 337,
+      "bank": "CENTRAL BANK OF RUSSIAN FEDERATION",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "CBRFRUMM"
+    },
+    {
+      "id": 339,
+      "bank": "CENTREINVEST SECURITIES OOO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "CESERUM1"
+    },
+    {
+      "id": 340,
+      "bank": "CENTROKREDIT BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "CKBBRUMM"
+    },
+    {
+      "id": 341,
+      "bank": "CETELEM BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "CETBRUMM"
+    },
+    {
+      "id": 342,
+      "bank": "CFC BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "CFCFRUM1"
+    },
+    {
+      "id": 358,
+      "bank": "CJSC INTERNATIONAL TOBACCO MARKETING SERVICES",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "BATSRUM1"
+    },
+    {
+      "id": 359,
+      "bank": "CLOSED JOINT STOCK COMPANY HOUSING FINANCE BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "UITBRUMM"
+    },
+    {
+      "id": 363,
+      "bank": "COMMERCIAL BANK AGORA",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RUECRUMM"
+    },
+    {
+      "id": 365,
+      "bank": "COMMERCIAL BANK BUILDING INDUSTRY 'STROYINDBANK'",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "STKBRUM1"
+    },
+    {
+      "id": 368,
+      "bank": "COMMERCIAL BANK 'FEDERAL DEPOSIT BANK LTD.'",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "FEDCRUM1"
+    },
+    {
+      "id": 369,
+      "bank": "COMMERCIAL BANK ''GLOBUS''",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "GCOJRUM1"
+    },
+    {
+      "id": 375,
+      "bank": "COMMERCIAL BANK 'LANTA-BANK'",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "COLKRUMM"
+    },
+    {
+      "id": 381,
+      "bank": "COMMERCIAL BANK 'MAXIMA' OOO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MAXMRUM1"
+    },
+    {
+      "id": 382,
+      "bank": "COMMERCIAL BANK 'MEZHREGIONBANK' OOO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MEZRRUM1"
+    },
+    {
+      "id": 383,
+      "bank": "COMMERCIAL BANK 'NATIONAL INDUSTRIAL BANK' ZAO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "NAIDRUM1"
+    },
+    {
+      "id": 385,
+      "bank": "COMMERCIAL BANK NEW TIME",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "NTCRRUMX"
+    },
+    {
+      "id": 386,
+      "bank": "COMMERCIAL BANK OF DEVELOPMENT (LIMITED LIABILITY COMPANY)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "CODVRUM1"
+    },
+    {
+      "id": 388,
+      "bank": "COMMERCIAL BANK 'RBA' (LIMITED LIABILITY COMPANY)",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "IRBARU22MSK"
+    },
+    {
+      "id": 389,
+      "bank": "COMMERCIAL BANK 'RBA' (LIMITED LIABILITY COMPANY)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "IRBARU22"
+    },
+    {
+      "id": 391,
+      "bank": "COMMERCIAL BANK 'RUSSIAN REGIONAL BANK' ZAO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RUSRRUM1"
+    },
+    {
+      "id": 393,
+      "bank": "COMMERCIAL BANK STAR ALLIANCE, LIMITED",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "CCTNRUM1"
+    },
+    {
+      "id": 397,
+      "bank": "COMMERCIAL BANK VRB (LLC)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "VRBMRUMM"
+    },
+    {
+      "id": 399,
+      "bank": "COMMERCIAL BANK ZHILCREDIT LLC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ZHCBRUMM"
+    },
+    {
+      "id": 400,
+      "bank": "COMMERCIAL INDO BANK LLC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "CODLRUMM"
+    },
+    {
+      "id": 401,
+      "bank": "COMMERZBANK (EURASIJA) AO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "COBARUMM"
+    },
+    {
+      "id": 404,
+      "bank": "CORPORATE FINANCE BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "FABARUMM"
+    },
+    {
+      "id": 407,
+      "bank": "CREDIT AGRICOLE CIB AO",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "CRLYRU2PMSC"
+    },
+    {
+      "id": 409,
+      "bank": "CREDIT BANK OF MOSCOW (PUBLIC JOINT STOCK COMPANY)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MCRBRUMM"
+    },
+    {
+      "id": 410,
+      "bank": "CREDIT EUROPE BANK LTD",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "FMOSRUMM"
+    },
+    {
+      "id": 416,
+      "bank": "CROSNA-BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "CROSRUMM"
+    },
+    {
+      "id": 420,
+      "bank": "DENIZBANK MOSCOW JSC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "IKBARUMM"
+    },
+    {
+      "id": 421,
+      "bank": "DERZHAVA PJSCB",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "DERZRUMM"
+    },
+    {
+      "id": 422,
+      "bank": "DEUTSCHE BANK OOO",
+      "city": "MOSCOW",
+      "branch": "(IB OPERATIONS)",
+      "swift_code": "DEUTRUMMGME"
+    },
+    {
+      "id": 423,
+      "bank": "DEUTSCHE BANK OOO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "DEUTRUMM"
+    },
+    {
+      "id": 424,
+      "bank": "DEVELOPMENT CAPITAL BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "VIZIRUMM"
+    },
+    {
+      "id": 429,
+      "bank": "DRESDNER KLEINWORT BENSON 000",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "DRKBRUM1"
+    },
+    {
+      "id": 430,
+      "bank": "ECO-INVEST",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ECOERUM1"
+    },
+    {
+      "id": 431,
+      "bank": "ECONOMICS-BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ECOBRUM1"
+    },
+    {
+      "id": 437,
+      "bank": "ENERGOTRANSBANK",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "ENGORU21MOS"
+    },
+    {
+      "id": 439,
+      "bank": "ENERGY BUSINESS",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ENBURUM1"
+    },
+    {
+      "id": 442,
+      "bank": "ETALONBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ETZARUM1"
+    },
+    {
+      "id": 444,
+      "bank": "EVRAZHOLDING",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "EVRZRUMM"
+    },
+    {
+      "id": 446,
+      "bank": "EVROFINANCE MOSNARBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "EVRFRUMM"
+    },
+    {
+      "id": 455,
+      "bank": "EVRORASCHYOT BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "EVRRRUM1"
+    },
+    {
+      "id": 456,
+      "bank": "EVROSOYUZ",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "EVRYRUM1"
+    },
+    {
+      "id": 457,
+      "bank": "EXIMBANK OF RUSSIA",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "EXIRRUMM"
+    },
+    {
+      "id": 458,
+      "bank": "EXPERT BANK",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "SIKPRUS1MSK"
+    },
+    {
+      "id": 460,
+      "bank": "EXPOBANK LLC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "EXPNRUMM"
+    },
+    {
+      "id": 463,
+      "bank": "FEDERAL BANK OF DEVELOPMENT JOINT-STOCK COMMERCIAL BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "FDJSRUM1"
+    },
+    {
+      "id": 464,
+      "bank": "FINAM BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "FNMMRUMM"
+    },
+    {
+      "id": 465,
+      "bank": "FINANCE BUSINESS BANK, LLC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "FBBARU3G"
+    },
+    {
+      "id": 467,
+      "bank": "FINANCIAL CREDIT BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "FIDORUM1"
+    },
+    {
+      "id": 468,
+      "bank": "FINANSOVO-PROMYSHLENYI KAPITAL",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "FIKIRUMM"
+    },
+    {
+      "id": 469,
+      "bank": "FINNET-SERVICE",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "FIEVRUM1"
+    },
+    {
+      "id": 471,
+      "bank": "FITCH RATINGS CIS LIMITED (MOSCOW BRANCH)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "FRIPRUM1"
+    },
+    {
+      "id": 472,
+      "bank": "FLEXINVESTBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "FLEXRUM1"
+    },
+    {
+      "id": 473,
+      "bank": "FLORA-MOSCOW OAO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "CFLORUMM"
+    },
+    {
+      "id": 474,
+      "bank": "FORA-BANK AO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "FOJSRUMM"
+    },
+    {
+      "id": 478,
+      "bank": "FUNDSERVICEBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "FONBRUMM"
+    },
+    {
+      "id": 481,
+      "bank": "GARANT-INVEST BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "GAINRUMM"
+    },
+    {
+      "id": 489,
+      "bank": "GAZENERGOBANK",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "GAZARU21MF1"
+    },
+    {
+      "id": 497,
+      "bank": "GAZPROMBANK (JOINT - STOCK COMPANY)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "GAZPRUMM"
+    },
+    {
+      "id": 514,
+      "bank": "GLOBEXBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "GLOBRUMM"
+    },
+    {
+      "id": 520,
+      "bank": "GRAND INVEST BANK JSC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "GRINRUMM"
+    },
+    {
+      "id": 522,
+      "bank": "GREENCOMBANK",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "GRECRU61002"
+    },
+    {
+      "id": 524,
+      "bank": "GRIS-BANK",
+      "city": "MOSCOW",
+      "branch": "(FILIAL MOSKOVSKIJ GRIS-BANK)",
+      "swift_code": "GRIBRU21MOS"
+    },
+    {
+      "id": 527,
+      "bank": "HCF BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "HCFBRUMM"
+    },
+    {
+      "id": 529,
+      "bank": "HOLDINVESTBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "HOLNRUM1"
+    },
+    {
+      "id": 530,
+      "bank": "HSBC BANK (RR) OOO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "BLICRUMM"
+    },
+    {
+      "id": 531,
+      "bank": "IBDIT LTD",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "IRITRUM1"
+    },
+    {
+      "id": 533,
+      "bank": "INBANK, LTD",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "INKNRUM2"
+    },
+    {
+      "id": 535,
+      "bank": "INDUSTRIAL AGRICULTURAL BANK LIMITED (PROMSELHOZBANK LTD.)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "PSHBRUMM"
+    },
+    {
+      "id": 536,
+      "bank": "INDUSTRIAL DEVELOPMENT BANK OOO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "INPORUM1"
+    },
+    {
+      "id": 538,
+      "bank": "INDUSTRIAL SAVINGS BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RISBRUMM"
+    },
+    {
+      "id": 539,
+      "bank": "ING BANK (EURASIA) JSC",
+      "city": "MOSCOW",
+      "branch": "(TREASURY BACKOFFICE)",
+      "swift_code": "INGBRUMMTMK"
+    },
+    {
+      "id": 540,
+      "bank": "ING BANK (EURASIA) JSC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "INGBRUMM"
+    },
+    {
+      "id": 541,
+      "bank": "ING BANK (EURASIA) JSC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "INGBRUMML28"
+    },
+    {
+      "id": 543,
+      "bank": "INKAKHRAN NKO (AO)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "HRANRUMM"
+    },
+    {
+      "id": 544,
+      "bank": "INKAROBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "INKARUMM"
+    },
+    {
+      "id": 545,
+      "bank": "INRESBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "INKKRUM1"
+    },
+    {
+      "id": 546,
+      "bank": "INSTROYBANK LTD",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "INOYRUM1"
+    },
+    {
+      "id": 547,
+      "bank": "INTERBANK CREDIT UNION",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ITCURUMM"
+    },
+    {
+      "id": 548,
+      "bank": "INTERNATIONAL ACCOUNTING BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "INUGRUM1"
+    },
+    {
+      "id": 549,
+      "bank": "INTERNATIONAL BANK FOR ECONOMIC CO-OPERATION",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "IBECRUMM"
+    },
+    {
+      "id": 550,
+      "bank": "INTERNATIONAL BANK OF ST.PETERSBURG PLC",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "LBAPRU2PMOS"
+    },
+    {
+      "id": 553,
+      "bank": "INTERNATIONAL COMMERCIAL BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ICBMRUMM"
+    },
+    {
+      "id": 554,
+      "bank": "INTERNATIONAL INVESTMENT BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "IIBMRUMM"
+    },
+    {
+      "id": 555,
+      "bank": "INTERPROGRESSBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "INTPRUMM"
+    },
+    {
+      "id": 556,
+      "bank": "INTERPROMBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "IPBARUMM"
+    },
+    {
+      "id": 557,
+      "bank": "INTERREGIONAL CLEARING CENTRE",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "INLCRUM1"
+    },
+    {
+      "id": 558,
+      "bank": "INTERSTATE BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "INEARUMM"
+    },
+    {
+      "id": 559,
+      "bank": "INTERSTATE CLEARING BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ICLERUM1"
+    },
+    {
+      "id": 560,
+      "bank": "INVESTMENT BANK VESTA (LIMITED LIABILITY COMPANY)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "VSTARUMM"
+    },
+    {
+      "id": 562,
+      "bank": "INVESTMENT COMPANY ''RICOM-TRUST'' ZAO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "CIBGRUMM"
+    },
+    {
+      "id": 563,
+      "bank": "INVESTMENT COMPANY TROIKA DIALOG ZAO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ZAOKRUM1"
+    },
+    {
+      "id": 574,
+      "bank": "INVESTMENT TRADE BANK PJSC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "INVJRUMM"
+    },
+    {
+      "id": 588,
+      "bank": "INVESTSOCBANK OOO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "IVSSRUMM"
+    },
+    {
+      "id": 590,
+      "bank": "IRON BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "IRONRUM1"
+    },
+    {
+      "id": 591,
+      "bank": "IRS-BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "IRSBRUMM"
+    },
+    {
+      "id": 593,
+      "bank": "ISBANK JOINT STOCK COMPANY",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ISBKRUMM"
+    },
+    {
+      "id": 596,
+      "bank": "IVY BANK (JOINT-STOCK COMPANY)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "KVJSRUM1"
+    },
+    {
+      "id": 598,
+      "bank": "J AND T BANK, AO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "TRRYRUMM"
+    },
+    {
+      "id": 602,
+      "bank": "JOINT STOCK COMMERCIAL BANK TENDER-BANK AO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "TEJCRUM1"
+    },
+    {
+      "id": 604,
+      "bank": "JOINT STOCK COMPANY BBR BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "BADJRUMM"
+    },
+    {
+      "id": 609,
+      "bank": "JOINT STOCK COMPANY CONSERVATIVE COMMERCIAL BANK",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "KRASRU3AMOS"
+    },
+    {
+      "id": 614,
+      "bank": "JOINT STOCK COMPANY 'OTP BANK'",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "OTPVRUMM"
+    },
+    {
+      "id": 619,
+      "bank": "JOINT STOCK COMPANY SURGUTNEFTEGASBANK",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "SGUBRU5S052"
+    },
+    {
+      "id": 623,
+      "bank": "JOINT-STOCK BANK CAPITAL",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "JSBCRU4N"
+    },
+    {
+      "id": 625,
+      "bank": "JOINT-STOCK COMMERCIAL BANK AGROPROMCREDIT",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "AGCORUMM"
+    },
+    {
+      "id": 628,
+      "bank": "JOINT-STOCK COMPANY COMMERCIAL BANK ''COSMOS''",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "CSMMRUMM"
+    },
+    {
+      "id": 632,
+      "bank": "JSB ASPECT BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ASPTRUMM"
+    },
+    {
+      "id": 636,
+      "bank": "JSB ROSEVROBANK (JSC)",
+      "city": "MOSCOW",
+      "branch": "(DOCUMENTARY BUSINESS)",
+      "swift_code": "COMKRUMMDOC"
+    },
+    {
+      "id": 637,
+      "bank": "JSB ROSEVROBANK (JSC)",
+      "city": "MOSCOW",
+      "branch": "(INTERNATIONAL BUSINESS DEVELOPMENT DEPARTMENT)",
+      "swift_code": "COMKRUMMIBD"
+    },
+    {
+      "id": 638,
+      "bank": "JSB ROSEVROBANK (JSC)",
+      "city": "MOSCOW",
+      "branch": "(INTERNATIONAL SETTLEMENT DIVISION)",
+      "swift_code": "COMKRUMMISD"
+    },
+    {
+      "id": 639,
+      "bank": "JSB ROSEVROBANK (JSC)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "COMKRUMM"
+    },
+    {
+      "id": 645,
+      "bank": "JSC BANK CREDIT SUISSE (MOSCOW)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "CRESRUMM"
+    },
+    {
+      "id": 646,
+      "bank": "JSC BANK CREDIT SUISSE (MOSCOW)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "CRESRUMML21"
+    },
+    {
+      "id": 647,
+      "bank": "JSC BANK MASTER-CAPITAL",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MSTRRUMS"
+    },
+    {
+      "id": 650,
+      "bank": "JSC BANK RESERVE FINANCE AND INVESTMENTS",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RIIRRUMM"
+    },
+    {
+      "id": 651,
+      "bank": "JSC BANK SOVETSKY",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "SOZARU21MMM"
+    },
+    {
+      "id": 653,
+      "bank": "JSC CB POIDEM",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "INCBRU55"
+    },
+    {
+      "id": 667,
+      "bank": "JSC FOREBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "FORARUMM"
+    },
+    {
+      "id": 668,
+      "bank": "JSC GENBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "GEOORUMM"
+    },
+    {
+      "id": 669,
+      "bank": "JSC IRCOL",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "IRCORUM1"
+    },
+    {
+      "id": 671,
+      "bank": "JSC JSCB 'INTERNATIONAL FINANCIAL CLUB'",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ICFIRUMM"
+    },
+    {
+      "id": 673,
+      "bank": "JSC MC BANK RUS",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "CAIWRUMM"
+    },
+    {
+      "id": 675,
+      "bank": "JSC MIR BUSINESS BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MRBBRUMM"
+    },
+    {
+      "id": 676,
+      "bank": "JSC MOSCOMBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "CBMWRUMM"
+    },
+    {
+      "id": 677,
+      "bank": "JSC NATIONAL RESERVE BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "NARNRUMM"
+    },
+    {
+      "id": 678,
+      "bank": "JSC NORDEA BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "NDEARUMM"
+    },
+    {
+      "id": 712,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "MOSCOW",
+      "branch": "(CENTRE CORPORATE BUSINESS BRANCH)",
+      "swift_code": "RUAGRUM1079"
+    },
+    {
+      "id": 713,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "RUAGRUM1063"
+    },
+    {
+      "id": 714,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RUAGRUMM"
+    },
+    {
+      "id": 752,
+      "bank": "JSC RUSSIAN BANK FOR SMALL AND MEDIUM ENTERPRISES SUPPORT",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RUDVRUMM"
+    },
+    {
+      "id": 753,
+      "bank": "JSC SEVASTOPOLSKIY MORSKOY  BANK - MOSCOW",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MORKRUMM"
+    },
+    {
+      "id": 754,
+      "bank": "JSC SUMITOMO MITSUI RUS BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SMBCRUMM"
+    },
+    {
+      "id": 756,
+      "bank": "JSC TAATTA BANK",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "TAAARU81MSK"
+    },
+    {
+      "id": 760,
+      "bank": "JSC TROIKA-D BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SBLLRUMM"
+    },
+    {
+      "id": 762,
+      "bank": "JSC VTB CAPITAL",
+      "city": "MOSCOW",
+      "branch": "(CUSTODY)",
+      "swift_code": "VTCARUMMCUS"
+    },
+    {
+      "id": 763,
+      "bank": "JSC VTB CAPITAL",
+      "city": "MOSCOW",
+      "branch": "(TECHNICAL BIC)",
+      "swift_code": "VTCARUMMMT9"
+    },
+    {
+      "id": 764,
+      "bank": "JSC VTB CAPITAL",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "VTCARUMM"
+    },
+    {
+      "id": 780,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "MOSCOW",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "MINNRUMM"
+    },
+    {
+      "id": 781,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "MOSCOW",
+      "branch": "(KIEVSKIY OFFICE)",
+      "swift_code": "MINNRUM1006"
+    },
+    {
+      "id": 782,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "MOSCOW",
+      "branch": "(KIROVSKIY OFFICE)",
+      "swift_code": "MINNRUM1004"
+    },
+    {
+      "id": 783,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "MOSCOW",
+      "branch": "(KUIBYSHEVSKIY OFFICE)",
+      "swift_code": "MINNRUM1018"
+    },
+    {
+      "id": 784,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "MOSCOW",
+      "branch": "(KUNTSEVSKIY OFFICE)",
+      "swift_code": "MINNRUM1016"
+    },
+    {
+      "id": 785,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "MOSCOW",
+      "branch": "(LENINGRADSKIY OFFICE)",
+      "swift_code": "MINNRUM1001"
+    },
+    {
+      "id": 786,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "MOSCOW",
+      "branch": "(LUBLINSKIY OFFICE)",
+      "swift_code": "MINNRUM1008"
+    },
+    {
+      "id": 787,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW AREA REGIONAL DEPARTMENT)",
+      "swift_code": "MINNRUM1005"
+    },
+    {
+      "id": 788,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW CITY REGIONAL DEPARTMENT)",
+      "swift_code": "MINNRUM1007"
+    },
+    {
+      "id": 789,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "MOSCOW",
+      "branch": "(MOSKVORETZKIY OFFICE)",
+      "swift_code": "MINNRUM1002"
+    },
+    {
+      "id": 790,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "MOSCOW",
+      "branch": "(OKTYABR'SKIY OFFICE)",
+      "swift_code": "MINNRUM1010"
+    },
+    {
+      "id": 791,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "MOSCOW",
+      "branch": "(OPERATIONS DEPARTMENT)",
+      "swift_code": "MINNRUM1099"
+    },
+    {
+      "id": 792,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "MOSCOW",
+      "branch": "(PEROVSKIY OFFICE)",
+      "swift_code": "MINNRUM1014"
+    },
+    {
+      "id": 793,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "MOSCOW",
+      "branch": "(PERVOMAYSKIY OFFICE)",
+      "swift_code": "MINNRUM1013"
+    },
+    {
+      "id": 794,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "MOSCOW",
+      "branch": "(PROLETARSKIY OFFICE)",
+      "swift_code": "MINNRUM1020"
+    },
+    {
+      "id": 795,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "MOSCOW",
+      "branch": "(PROMYSHLENNOE OPERU OFFICE)",
+      "swift_code": "MINNRUM1009"
+    },
+    {
+      "id": 796,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "MOSCOW",
+      "branch": "(SOKOLNICHESKIY OFFICE)",
+      "swift_code": "MINNRUM1003"
+    },
+    {
+      "id": 797,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "MOSCOW",
+      "branch": "(TAGANSKIY OFFICE)",
+      "swift_code": "MINNRUM1012"
+    },
+    {
+      "id": 798,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "MOSCOW",
+      "branch": "(TRANSPORTNY OFFICE)",
+      "swift_code": "MINNRUM1011"
+    },
+    {
+      "id": 799,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "MOSCOW",
+      "branch": "(TUSHINSKIY OFFICE)",
+      "swift_code": "MINNRUM1019"
+    },
+    {
+      "id": 800,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "MOSCOW",
+      "branch": "(VELOZAVODSKIY OFFICE)",
+      "swift_code": "MINNRUM1017"
+    },
+    {
+      "id": 801,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "MOSCOW",
+      "branch": "(VOLGOGRADSKIY OFFICE)",
+      "swift_code": "MINNRUM1015"
+    },
+    {
+      "id": 819,
+      "bank": "JSCB NASH DOM",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "NDOMRUMM"
+    },
+    {
+      "id": 820,
+      "bank": "JSCB NATIONAL BANK OF MUTUAL CREDIT",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "NAMDRUMM"
+    },
+    {
+      "id": 821,
+      "bank": "JSCB 'YAPI KREDI BANK MOSCOW' (JSC)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "YKBMRUMM"
+    },
+    {
+      "id": 827,
+      "bank": "KASKAD",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "KASKRUM1"
+    },
+    {
+      "id": 830,
+      "bank": "KEB HNB RUS LLC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "KOEXRUMM"
+    },
+    {
+      "id": 834,
+      "bank": "KLIENTSKY BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "KLKORUM1"
+    },
+    {
+      "id": 839,
+      "bank": "KRANBANK ZAO",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "KRANRU21MSW"
+    },
+    {
+      "id": 840,
+      "bank": "KREMLYOVSKIY COMMERCIAL BANK LTD",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "KREMRUMM"
+    },
+    {
+      "id": 843,
+      "bank": "KRYLOVSKY BANK",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "KRYLRU21MSK"
+    },
+    {
+      "id": 850,
+      "bank": "KUZNETSKY MOST BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "INIBRUMM"
+    },
+    {
+      "id": 853,
+      "bank": "LEADER",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "VMTNRUMM"
+    },
+    {
+      "id": 854,
+      "bank": "LEGPROMBANK COMMERCIAL BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "CLIDRUM1"
+    },
+    {
+      "id": 856,
+      "bank": "LIGHTBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "LIGHRUMM"
+    },
+    {
+      "id": 857,
+      "bank": "LIMITED LIABILITY COMPANY MOSCOW INVESTMENT BANK DALENA",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "DLNBRUMM"
+    },
+    {
+      "id": 860,
+      "bank": "LIPETSKCOMBANK PJSC",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "LIPERU21002"
+    },
+    {
+      "id": 862,
+      "bank": "LIPETSKOBLBANK",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "LIPKRU21MOS"
+    },
+    {
+      "id": 866,
+      "bank": "LLC 'CHINA CONSTRUCTION BANK'",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "PCBCRUMM"
+    },
+    {
+      "id": 867,
+      "bank": "LLC CREDIT SUISSE SECURITIES (MOSCOW)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "CRESRUMS"
+    },
+    {
+      "id": 869,
+      "bank": "LLC. SETTLEMENT NON-BANK CREDIT ORGANIZATION 'WALLET ONE'",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "LSNCRUM1"
+    },
+    {
+      "id": 871,
+      "bank": "LOCKO BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "CLOKRUMM"
+    },
+    {
+      "id": 872,
+      "bank": "LOGOS OOO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "LGOORUM1"
+    },
+    {
+      "id": 873,
+      "bank": "LONG TERM CREDIT BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "LCJCRUM1"
+    },
+    {
+      "id": 875,
+      "bank": "MARITIME BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MJSBRUMM"
+    },
+    {
+      "id": 880,
+      "bank": "MASS MEDIA BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "JCMMRUM1"
+    },
+    {
+      "id": 882,
+      "bank": "MCIB BANK LLC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ICICRUMM"
+    },
+    {
+      "id": 883,
+      "bank": "MEDINVESTBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MEDNRUM1"
+    },
+    {
+      "id": 884,
+      "bank": "MERCEDES-BENZ BANK RUS",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "DCBRRUM1"
+    },
+    {
+      "id": 885,
+      "bank": "METALLURG COMMERCIAL BANK LTD.",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MECCRUM1"
+    },
+    {
+      "id": 886,
+      "bank": "MEZHTORGBANK ZAO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MEOORUM1"
+    },
+    {
+      "id": 887,
+      "bank": "MFBANK OOO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MFOORUM1"
+    },
+    {
+      "id": 891,
+      "bank": "'MOBILBANK' OAO",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "MOBLRU31MSC"
+    },
+    {
+      "id": 893,
+      "bank": "MOBIS PARTS CIS, LLC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "HYMORUM1"
+    },
+    {
+      "id": 894,
+      "bank": "'MODERN STANDARDS OF BUSINESS' COMMERCIAL BANK LLC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "STMORUM1"
+    },
+    {
+      "id": 897,
+      "bank": "MORGAN STANLEY BANK",
+      "city": "MOSCOW",
+      "branch": "(CONVERSIONS AND CORPORATE ACTIONS)",
+      "swift_code": "MSBKRUMMCOR"
+    },
+    {
+      "id": 898,
+      "bank": "MORGAN STANLEY BANK",
+      "city": "MOSCOW",
+      "branch": "(FOREIGN EXCHANGE OFFICE)",
+      "swift_code": "MSBKRUMMFXO"
+    },
+    {
+      "id": 899,
+      "bank": "MORGAN STANLEY BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MSBKRUMM"
+    },
+    {
+      "id": 901,
+      "bank": "MOSCOW BILL BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "JSMBRUMM"
+    },
+    {
+      "id": 903,
+      "bank": "MOSCOW CENTRAL DEPOSITORY OAO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MOCORUM1"
+    },
+    {
+      "id": 904,
+      "bank": "MOSCOW CENTRAL STOCK EXCHANGE",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "XMOSRUM1"
+    },
+    {
+      "id": 905,
+      "bank": "MOSCOW CLEARING CENTRE",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MOCCRUMM"
+    },
+    {
+      "id": 906,
+      "bank": "MOSCOW INTERBANK CURRENCY EXCHANGE (MICEX)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "XMICRUM1"
+    },
+    {
+      "id": 907,
+      "bank": "MOSCOW NEFTECHEMICAL BANK OAO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MNHBRUMM"
+    },
+    {
+      "id": 908,
+      "bank": "MOSCOW-PARIS BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MPSORUMM"
+    },
+    {
+      "id": 909,
+      "bank": "MOSCOWSKO-URALSKY JOINT-STOCK COMMERCIAL BANK     (JOINT-STOCK COMPANY)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MOSRRUM1"
+    },
+    {
+      "id": 910,
+      "bank": "MOSKVA-CITY BANK OAO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MOCSRUM1"
+    },
+    {
+      "id": 921,
+      "bank": "MOSOBLBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MOBKRUMM"
+    },
+    {
+      "id": 935,
+      "bank": "MOSOBLINVESTBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MOSLRUM1"
+    },
+    {
+      "id": 936,
+      "bank": "'MOSTRANSBANK' AO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MOTRRUM1"
+    },
+    {
+      "id": 937,
+      "bank": "MTI-BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MTIBRUMM"
+    },
+    {
+      "id": 940,
+      "bank": "MTS BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MBRDRUMM"
+    },
+    {
+      "id": 953,
+      "bank": "NADYOZHNYJ BANK",
+      "city": "MOSCOW",
+      "branch": "(MOSKOVSKIJ FILIAL)",
+      "swift_code": "NADYRU91MO1"
+    },
+    {
+      "id": 954,
+      "bank": "NARODNY DOVERITELNY BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "NADORUMM"
+    },
+    {
+      "id": 959,
+      "bank": "NATIONAL BANK TRUST",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "NBTRRUMMMOS"
+    },
+    {
+      "id": 960,
+      "bank": "NATIONAL BANK TRUST",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "NBTRRUMM"
+    },
+    {
+      "id": 967,
+      "bank": "NATIONAL FACTORING COMPANY JSC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "NFCBRUMM"
+    },
+    {
+      "id": 970,
+      "bank": "NATIONAL REGISTRY COMPANY, THE",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "NARCRUM1"
+    },
+    {
+      "id": 971,
+      "bank": "NATIONAL SETTLEMENT DEPOSITORY",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MICURUMM"
+    },
+    {
+      "id": 972,
+      "bank": "NATIONAL SETTLEMENT DEPOSITORY (DEPOSITORY OFFICE)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "NADCRU21"
+    },
+    {
+      "id": 973,
+      "bank": "NATIONAL SETTLEMENT DEPOSITORY (DEPOSITORY OFFICE)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "NADCRUMM"
+    },
+    {
+      "id": 974,
+      "bank": "NATIONAL STANDARD BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "CBNNRUMM"
+    },
+    {
+      "id": 977,
+      "bank": "NATIXIS BANK JSC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "NATXRUMM"
+    },
+    {
+      "id": 978,
+      "bank": "NATSINVESTPROMBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "NIIZRUMM"
+    },
+    {
+      "id": 979,
+      "bank": "NBC CH SCIEX JSC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "NBSXRUMM"
+    },
+    {
+      "id": 980,
+      "bank": "NBCO BRINKS",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "BRNSRUM1"
+    },
+    {
+      "id": 983,
+      "bank": "NBK-BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "HSBKRU4C"
+    },
+    {
+      "id": 984,
+      "bank": "NCO RUSSIAN FINANCIAL SOCIETY LLC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RUFORUMM"
+    },
+    {
+      "id": 985,
+      "bank": "NCO WESTERN UNION MT EAST, LTD",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "WUMTRUMM"
+    },
+    {
+      "id": 987,
+      "bank": "NECKLACE BANK OOO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "BNECRUMM"
+    },
+    {
+      "id": 989,
+      "bank": "NEFTEPROMBANK",
+      "city": "MOSCOW",
+      "branch": "(DONSKOY BRANCH)",
+      "swift_code": "INDMRUM1DON"
+    },
+    {
+      "id": 990,
+      "bank": "NEFTEPROMBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "INDMRUMM"
+    },
+    {
+      "id": 994,
+      "bank": "NEW CREDIT UNION BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "NCRNRUM1"
+    },
+    {
+      "id": 995,
+      "bank": "NEW INDUSTRIAL BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "NEIDRUM1"
+    },
+    {
+      "id": 997,
+      "bank": "NEW MOSCOW BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "NEWMRUMM"
+    },
+    {
+      "id": 998,
+      "bank": "NEW SYMBOL BANK AO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "NSKBRUMM"
+    },
+    {
+      "id": 1002,
+      "bank": "NK BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "NASPRUMM"
+    },
+    {
+      "id": 1003,
+      "bank": "NKB",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "NKBNRUM1"
+    },
+    {
+      "id": 1008,
+      "bank": "NOVIKOMBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "CNOVRUMM"
+    },
+    {
+      "id": 1016,
+      "bank": "NOVOPOKROVSKIJ",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "NOVPRU24MOS"
+    },
+    {
+      "id": 1017,
+      "bank": "NOVYJ VEK BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "NOVKRUM1"
+    },
+    {
+      "id": 1018,
+      "bank": "NS BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "INUORUMM"
+    },
+    {
+      "id": 1021,
+      "bank": "OAO COMMERCIAL BANK 'INDUSTRIAL DEVELOPMENT BANK'",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "IDPJRUM1"
+    },
+    {
+      "id": 1026,
+      "bank": "OAO 'SPECIALIZED DEPOSITARY' INFINITUM",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SPEDRUM1"
+    },
+    {
+      "id": 1031,
+      "bank": "OBSHIJ BANK, THE JOINT STOCK COMMERCIAL BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "OJSIRUM1"
+    },
+    {
+      "id": 1034,
+      "bank": "OJSC 'MVKB'",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MOJSRUM1"
+    },
+    {
+      "id": 1037,
+      "bank": "OOO ATOH",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ATCGRUM1"
+    },
+    {
+      "id": 1039,
+      "bank": "OOO CB 'MEGAPOLICE'",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "MEGPRU21MOS"
+    },
+    {
+      "id": 1040,
+      "bank": "OOO CB PREODOLENIE",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "OOPERUM1"
+    },
+    {
+      "id": 1041,
+      "bank": "OOO CBI 'SUDKOMBANK'",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ICOSRUM1"
+    },
+    {
+      "id": 1042,
+      "bank": "OOO GOLDMAN SACHS",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "GLDMRUMM"
+    },
+    {
+      "id": 1043,
+      "bank": "OOO GOLDMAN SACHS BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "GOLDRUMM"
+    },
+    {
+      "id": 1045,
+      "bank": "OOO MEJPROMBANK PLUS",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MPLSRUM1"
+    },
+    {
+      "id": 1046,
+      "bank": "OOO MERRILL LYNCH SECURITIES",
+      "city": "MOSCOW",
+      "branch": "(CUSTODY SERVICES)",
+      "swift_code": "MLSORUMMCUS"
+    },
+    {
+      "id": 1047,
+      "bank": "OOO MERRILL LYNCH SECURITIES",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MLSORUMM"
+    },
+    {
+      "id": 1048,
+      "bank": "OOO MERRILL LYNCH SECURITIES",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MLSORUMMMOS"
+    },
+    {
+      "id": 1049,
+      "bank": "OOO 'NATIONAL COMMERCIAL BANK'",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "NCOBRUM1"
+    },
+    {
+      "id": 1050,
+      "bank": "OOO UBS BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "UBSWRUMM"
+    },
+    {
+      "id": 1055,
+      "bank": "ORGBANK INTERBANK ASSOCIATION",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "MBOGRUMM"
+    },
+    {
+      "id": 1057,
+      "bank": "OTKRITIE BROKERAGE HOUSE JSC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "OTKRRUM1"
+    },
+    {
+      "id": 1059,
+      "bank": "PARTNERCAPITALBANK (JOINT-STOCK COMPANY)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "NCJCRUM1"
+    },
+    {
+      "id": 1060,
+      "bank": "PAYMENT CLEARING HOUSE CLOSE CORPORATION, THE",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "PALHRUM1"
+    },
+    {
+      "id": 1061,
+      "bank": "PERESVET BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "PERSRUMM"
+    },
+    {
+      "id": 1062,
+      "bank": "PERVIY KLIENTSKIY BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "FCBRRUMM"
+    },
+    {
+      "id": 1067,
+      "bank": "PFC-BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "PFCBRUM1"
+    },
+    {
+      "id": 1068,
+      "bank": "PIR BANK, LLC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "BPIRRUMM"
+    },
+    {
+      "id": 1105,
+      "bank": "PJSC EURASIAN BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ERSNRUMM"
+    },
+    {
+      "id": 1106,
+      "bank": "PJSC INTER RAO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "IRAORUMM"
+    },
+    {
+      "id": 1108,
+      "bank": "PJSC METKOMBANK",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "MTKCRUMM"
+    },
+    {
+      "id": 1118,
+      "bank": "PJSC ROSBANK",
+      "city": "MOSCOW",
+      "branch": "(CUSTODY DIVISION)",
+      "swift_code": "RSBNRUMMCUS"
+    },
+    {
+      "id": 1119,
+      "bank": "PJSC ROSBANK",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH (FOR STATEMENTS ONLY))",
+      "swift_code": "RSBNRUMMSGV"
+    },
+    {
+      "id": 1120,
+      "bank": "PJSC ROSBANK",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "RSBNRUM1001"
+    },
+    {
+      "id": 1121,
+      "bank": "PJSC ROSBANK",
+      "city": "MOSCOW",
+      "branch": "(TRUST OPERATIONS)",
+      "swift_code": "RSBNRUMMTRS"
+    },
+    {
+      "id": 1122,
+      "bank": "PJSC ROSBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RSBNRUMM"
+    },
+    {
+      "id": 1139,
+      "bank": "PLATINA BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "PLATRUMM"
+    },
+    {
+      "id": 1141,
+      "bank": "POST BANK PJSC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "POSBRUMM"
+    },
+    {
+      "id": 1142,
+      "bank": "PREMIER MCB ZAO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "PRMZRUM1"
+    },
+    {
+      "id": 1146,
+      "bank": "PRINT BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "PITNRUM1"
+    },
+    {
+      "id": 1148,
+      "bank": "PRIVATE HOLDING BANK LTD, COMMERCIAL BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "PRHCRUM1"
+    },
+    {
+      "id": 1149,
+      "bank": "PROCOMMERCEBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "PROKRUMM"
+    },
+    {
+      "id": 1150,
+      "bank": "PROFESSIONAL CREDIT BANK LTD",
+      "city": "MOSCOW",
+      "branch": "(BRANCH MOSKOVSKIY)",
+      "swift_code": "REGVRU21001"
+    },
+    {
+      "id": 1152,
+      "bank": "PROFIT BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "PRFFRUM1"
+    },
+    {
+      "id": 1157,
+      "bank": "PROMINVESTBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "PRMIRUMM"
+    },
+    {
+      "id": 1160,
+      "bank": "PROMSVYAZBANK PJSC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "PRMSRUMM"
+    },
+    {
+      "id": 1167,
+      "bank": "PROSPECT INVESTMENT COMPANY",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "PRICRUM1"
+    },
+    {
+      "id": 1170,
+      "bank": "PUBLIC BANK",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "PUBBRU3CMSK"
+    },
+    {
+      "id": 1173,
+      "bank": "PUBLIC JOINT STOCK COMPANY 'OIL COMPANY LUKOIL'",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "LUKORUMM"
+    },
+    {
+      "id": 1176,
+      "bank": "QIWI BANK (JOINT-STOCK COMPANY)",
+      "city": "MOSCOW",
+      "branch": "(BRANCH ROCKETBANK)",
+      "swift_code": "BELERUA1RCT"
+    },
+    {
+      "id": 1177,
+      "bank": "QIWI BANK (JOINT-STOCK COMPANY)",
+      "city": "MOSCOW",
+      "branch": "(BRANCH TOCHKA)",
+      "swift_code": "BELERUA1TCH"
+    },
+    {
+      "id": 1178,
+      "bank": "QIWI BANK (JOINT-STOCK COMPANY)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "BELERUA1"
+    },
+    {
+      "id": 1179,
+      "bank": "QIWI BANK (JOINT-STOCK COMPANY)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "BELERUMM"
+    },
+    {
+      "id": 1180,
+      "bank": "QIWI BANK (JOINT-STOCK COMPANY) (FORMERLY RAPIDA LTD)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RPDARUMM"
+    },
+    {
+      "id": 1182,
+      "bank": "RASCHETNO-KREDITNY BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RASHRUMM"
+    },
+    {
+      "id": 1185,
+      "bank": "REGION BROKER COMPANY LLC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RBRORUMM"
+    },
+    {
+      "id": 1188,
+      "bank": "REGISTAR NICOIL COMPANY - JSK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RNCJRUM1"
+    },
+    {
+      "id": 1189,
+      "bank": "REGISTRAR-COMMUNICATION JSC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "REJSRUM1"
+    },
+    {
+      "id": 1190,
+      "bank": "REGISTRATSIONNO-DEPOZITARNIY TSENTR PARITET",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RETNRUM1"
+    },
+    {
+      "id": 1191,
+      "bank": "RENAISSANCE BROKER LIMITED",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "REBRRUMM"
+    },
+    {
+      "id": 1192,
+      "bank": "RENAISSANCE CAPITAL ASSET MANAGEMENT COMPANY",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RCAMRUM1"
+    },
+    {
+      "id": 1193,
+      "bank": "RENAISSANCE CAPITAL ZAO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RECGRUM1"
+    },
+    {
+      "id": 1194,
+      "bank": "RENAISSANCE CREDIT COMMERCIAL BANK OOO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ALILRUMM"
+    },
+    {
+      "id": 1195,
+      "bank": "REPUBLIC CREDIT ALLIANCE COMMERCIAL BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RCACRUMM"
+    },
+    {
+      "id": 1196,
+      "bank": "REPUBLIC RESERVE BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RRBORUM1"
+    },
+    {
+      "id": 1197,
+      "bank": "RFC-BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RFCBRUMM"
+    },
+    {
+      "id": 1198,
+      "bank": "RFI BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RIIRRUM1"
+    },
+    {
+      "id": 1199,
+      "bank": "RINK BANK JOINT STOCK BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RINKRUM1"
+    },
+    {
+      "id": 1200,
+      "bank": "RN BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RNBKRUMM"
+    },
+    {
+      "id": 1202,
+      "bank": "ROSBUSINESSBANK OAO ARKB",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RSBZRUMM"
+    },
+    {
+      "id": 1203,
+      "bank": "ROSDORBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ROSORUMM"
+    },
+    {
+      "id": 1206,
+      "bank": "ROSGOSSTRAKH BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RUIDRUMM"
+    },
+    {
+      "id": 1214,
+      "bank": "ROSNEFT",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ROSNRUMM"
+    },
+    {
+      "id": 1215,
+      "bank": "ROSSWIFT",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RNMGRUM1"
+    },
+    {
+      "id": 1233,
+      "bank": "ROST BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "JORORUMM"
+    },
+    {
+      "id": 1268,
+      "bank": "RSI BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RSIRRUM1"
+    },
+    {
+      "id": 1269,
+      "bank": "RTBK LLC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SPEIRUM2"
+    },
+    {
+      "id": 1271,
+      "bank": "RUBLEV BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "COUERUMM"
+    },
+    {
+      "id": 1272,
+      "bank": "'RUBLEVSKY' COMMERCIAL BANK OOO",
+      "city": "MOSCOW",
+      "branch": "(GOSTINY DVOR BRANCH)",
+      "swift_code": "ROUCRUM1GDB"
+    },
+    {
+      "id": 1273,
+      "bank": "'RUBLEVSKY' COMMERCIAL BANK OOO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ROUCRUM1"
+    },
+    {
+      "id": 1274,
+      "bank": "RUNA BANK,JSCB",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "PYHARUMM"
+    },
+    {
+      "id": 1275,
+      "bank": "RUNETBANK ZAO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RUNERUM1"
+    },
+    {
+      "id": 1278,
+      "bank": "RUSNARBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RUNBRUMM"
+    },
+    {
+      "id": 1279,
+      "bank": "RUSSIAN EXCHANGE",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "XRUSRUM1"
+    },
+    {
+      "id": 1280,
+      "bank": "RUSSIAN NATIONAL COMMERCIAL BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RNCORUMM"
+    },
+    {
+      "id": 1281,
+      "bank": "RUSSIAN REGISTRY OF CARBON UNITS",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RRCNRUM1"
+    },
+    {
+      "id": 1282,
+      "bank": "RUSSIAN STANDARD BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RSJSRUMM"
+    },
+    {
+      "id": 1283,
+      "bank": "RUSSITA BANK INTERNATIONAL COMMERCIAL INVESTMENT BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RICIRUMM"
+    },
+    {
+      "id": 1284,
+      "bank": "RUSSKY GENERALNY BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RUGERUM1"
+    },
+    {
+      "id": 1286,
+      "bank": "RUSSOBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "JSRRRUMM"
+    },
+    {
+      "id": 1287,
+      "bank": "RUSUNIVERSALBANK OOO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RUNIRUMM"
+    },
+    {
+      "id": 1289,
+      "bank": "RYE, MAN AND GOR SECURITIES",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "RMGSRUM1"
+    },
+    {
+      "id": 1291,
+      "bank": "SAKHA DIAMOND BANK AO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SADCRUM1"
+    },
+    {
+      "id": 1294,
+      "bank": "SAMSUNG ELECTRONICS RUS COMPANY",
+      "city": "MOSCOW",
+      "branch": "(SER)",
+      "swift_code": "SECTRUM1940"
+    },
+    {
+      "id": 1295,
+      "bank": "SAMSUNG ELECTRONICS RUS COMPANY",
+      "city": "MOSCOW",
+      "branch": "(SERC)",
+      "swift_code": "SECTRUM1941"
+    },
+    {
+      "id": 1296,
+      "bank": "SAMSUNG ELECTRONICS RUS COMPANY",
+      "city": "MOSCOW",
+      "branch": "(SRSC)",
+      "swift_code": "SECTRUM19E0"
+    },
+    {
+      "id": 1297,
+      "bank": "SAMSUNG ELECTRONICS RUS COMPANY",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SECTRUM1"
+    },
+    {
+      "id": 1299,
+      "bank": "SAROVBUSINESSBANK",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "SARORU21MOS"
+    },
+    {
+      "id": 1304,
+      "bank": "SBERBANK",
+      "city": "MOSCOW",
+      "branch": "(HEAD OFFICE - ALL BRANCHES AND OFFICES IN RUSSIA)",
+      "swift_code": "SABRRUMM"
+    },
+    {
+      "id": 1305,
+      "bank": "SBERBANK",
+      "city": "MOSCOW",
+      "branch": "(MAIN SETTLEMENT CENTRE - RUBLE SETTLEMENTS ONLY)",
+      "swift_code": "SABRRUMM012"
+    },
+    {
+      "id": 1306,
+      "bank": "SBERBANK",
+      "city": "MOSCOW",
+      "branch": "(OPERATIONS DEPARTMENT)",
+      "swift_code": "SABRRUMM011"
+    },
+    {
+      "id": 1307,
+      "bank": "SBERBANK",
+      "city": "MOSCOW",
+      "branch": "(S.W.I.F.T. AND TEST KEYS CENTRE)",
+      "swift_code": "SABRRUMMKEY"
+    },
+    {
+      "id": 1308,
+      "bank": "SBERBANK",
+      "city": "MOSCOW",
+      "branch": "(SETTLEMENT - BANKNOTES DEALS)",
+      "swift_code": "SABRRUMMBNT"
+    },
+    {
+      "id": 1309,
+      "bank": "SBERBANK",
+      "city": "MOSCOW",
+      "branch": "(SETTLEMENT - COMMODITIES DEALS)",
+      "swift_code": "SABRRUMMCOM"
+    },
+    {
+      "id": 1310,
+      "bank": "SBERBANK",
+      "city": "MOSCOW",
+      "branch": "(SETTLEMENT - DERIVATIVES DEALS)",
+      "swift_code": "SABRRUMMDRV"
+    },
+    {
+      "id": 1311,
+      "bank": "SBERBANK",
+      "city": "MOSCOW",
+      "branch": "(SETTLEMENT - FX DEALS)",
+      "swift_code": "SABRRUMMFXT"
+    },
+    {
+      "id": 1312,
+      "bank": "SBERBANK",
+      "city": "MOSCOW",
+      "branch": "(SETTLEMENT - MONEY MARKET DEALS)",
+      "swift_code": "SABRRUMMMMT"
+    },
+    {
+      "id": 1313,
+      "bank": "SBERBANK",
+      "city": "MOSCOW",
+      "branch": "(SETTLEMENT - SECURITIES DEALS)",
+      "swift_code": "SABRRUMMSMT"
+    },
+    {
+      "id": 1314,
+      "bank": "SBERBANK",
+      "city": "MOSCOW",
+      "branch": "(TRD SETTLEMENT  - TRADE FINANCE DEALS)",
+      "swift_code": "SABRRUMMTRD"
+    },
+    {
+      "id": 1332,
+      "bank": "SBERBANK (SREDNERUSSKY HEAD OFFICE)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SABRRUM3"
+    },
+    {
+      "id": 1333,
+      "bank": "SBERBANK CIB",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "TDICRUMM"
+    },
+    {
+      "id": 1334,
+      "bank": "SCB METALLINVESTBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SCBMRUMM"
+    },
+    {
+      "id": 1338,
+      "bank": "SDM-BANK PJSC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SJSCRUMM"
+    },
+    {
+      "id": 1350,
+      "bank": "SETTLEMENT DEPOSITORY COMPANY",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SEDMRUMM"
+    },
+    {
+      "id": 1354,
+      "bank": "SIBBROK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SIBRRUM1"
+    },
+    {
+      "id": 1360,
+      "bank": "SINKO-BANK, LTD",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SNKBRUMM"
+    },
+    {
+      "id": 1361,
+      "bank": "SISTEMA COMMERCIAL BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SISERUMM"
+    },
+    {
+      "id": 1363,
+      "bank": "SKS BANK, LLC, MOSCOW",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SKSBRUMM"
+    },
+    {
+      "id": 1365,
+      "bank": "SLAVIA BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SJSMRUMM"
+    },
+    {
+      "id": 1370,
+      "bank": "SLAVYANSKI CREDIT BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SLACRUMM"
+    },
+    {
+      "id": 1371,
+      "bank": "SMP BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SMBKRUMM"
+    },
+    {
+      "id": 1380,
+      "bank": "SOBINBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SBBARUMM"
+    },
+    {
+      "id": 1395,
+      "bank": "SOCIUM-BANK (LIMITED LIABILITY COMPANY)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "AMOORUM1"
+    },
+    {
+      "id": 1396,
+      "bank": "SODRUZHESTVO - BANK OAO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SODRRUM1"
+    },
+    {
+      "id": 1397,
+      "bank": "SOKOLOVSKY BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SOKORUM1"
+    },
+    {
+      "id": 1398,
+      "bank": "SOLID BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SLDBRUMM"
+    },
+    {
+      "id": 1399,
+      "bank": "SOLID INVESTMENT AND FINANCIAL COMPANY",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SIFMRUM1"
+    },
+    {
+      "id": 1400,
+      "bank": "SOLIDARITY BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SOLIRUMM"
+    },
+    {
+      "id": 1401,
+      "bank": "SOTSINVESTBANK",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "CSIBRU4U909"
+    },
+    {
+      "id": 1406,
+      "bank": "SOVCOMBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SOMRRUMM"
+    },
+    {
+      "id": 1411,
+      "bank": "SOVLINK OOO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SOLLRUM1"
+    },
+    {
+      "id": 1414,
+      "bank": "SOYUZNYJ OOO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SOYZRUMM"
+    },
+    {
+      "id": 1416,
+      "bank": "SPECSTROYBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SPETRUM1"
+    },
+    {
+      "id": 1417,
+      "bank": "SPETSINVEST BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SPEIRUM1"
+    },
+    {
+      "id": 1419,
+      "bank": "STAL BANK (LLC)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ENEORUM1"
+    },
+    {
+      "id": 1436,
+      "bank": "SVIAZ-BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "SVIZRUMM"
+    },
+    {
+      "id": 1451,
+      "bank": "TANDEMBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "TANBRUM1"
+    },
+    {
+      "id": 1453,
+      "bank": "TARKHANY REGIONAL BANK OAO",
+      "city": "MOSCOW",
+      "branch": "(MOSCOW BRANCH)",
+      "swift_code": "TARYRU21MOS"
+    },
+    {
+      "id": 1457,
+      "bank": "TASKBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "TASKRUM1"
+    },
+    {
+      "id": 1462,
+      "bank": "TEMBR-BANK (JSC)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "TEMBRUMM"
+    },
+    {
+      "id": 1465,
+      "bank": "THE BANK 'IBA-MOSCOW' LLC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "IBAZRUMM"
+    },
+    {
+      "id": 1473,
+      "bank": "THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)",
+      "city": "MOSCOW",
+      "branch": "(MOSKOVSKIJ BRANCH)",
+      "swift_code": "UBRDRU41MOS"
+    },
+    {
+      "id": 1482,
+      "bank": "TIME BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "DONTRU21"
+    },
+    {
+      "id": 1484,
+      "bank": "TINKOFF BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "TICSRUMM"
+    },
+    {
+      "id": 1485,
+      "bank": "TKB CAPITAL CJSC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "TKCCRUM1"
+    },
+    {
+      "id": 1487,
+      "bank": "TOYOTA BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "TOYBRUMM"
+    },
+    {
+      "id": 1488,
+      "bank": "TRADE FINANCE BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "TFBCRUMM"
+    },
+    {
+      "id": 1496,
+      "bank": "TRANSKAPITALBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "TJSCRUMM"
+    },
+    {
+      "id": 1509,
+      "bank": "TRANSSTROIBANK, JOINT STOCK COMMERCIAL BANK (JOINT STOCK COMPANY)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "TRSNRUMM"
+    },
+    {
+      "id": 1513,
+      "bank": "UFC BANK PJSC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "CLJARUMM"
+    },
+    {
+      "id": 1515,
+      "bank": "UM-BANK LLC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "UMBARUMM"
+    },
+    {
+      "id": 1516,
+      "bank": "UNICREDIT BANK AO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "IMBKRUMM"
+    },
+    {
+      "id": 1517,
+      "bank": "UNICREDIT BANK AO",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "IMBKRUMMIBO"
+    },
+    {
+      "id": 1519,
+      "bank": "UNISTREAM COMMERCIAL BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "UMTNRUMM"
+    },
+    {
+      "id": 1520,
+      "bank": "UNITED REGISTERHOLDING COMPANY",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "UNRCRUM1"
+    },
+    {
+      "id": 1521,
+      "bank": "UNITED RESERVE BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "UNRSRUM1"
+    },
+    {
+      "id": 1522,
+      "bank": "UNITED SETTLEMENT SYSTEM NBCO JSC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "NCOURUMM"
+    },
+    {
+      "id": 1523,
+      "bank": "UNIVERSAL STOCK BANK LTD",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "UNSKRUMM"
+    },
+    {
+      "id": 1532,
+      "bank": "URALSIB BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "AVTBRUMM"
+    },
+    {
+      "id": 1547,
+      "bank": "VNESHECONOMBANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "BFEARUMM"
+    },
+    {
+      "id": 1551,
+      "bank": "VOLKSWAGEN BANK RUS",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "VOWARUMM"
+    },
+    {
+      "id": 1563,
+      "bank": "VOZROZHDENIE BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "VBNKRUMM"
+    },
+    {
+      "id": 1579,
+      "bank": "VTB 24 (PJSC)",
+      "city": "MOSCOW",
+      "branch": "(N 7777)",
+      "swift_code": "CBGURUMMZUB"
+    },
+    {
+      "id": 1580,
+      "bank": "VTB 24 (PJSC)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "CBGURUMM"
+    },
+    {
+      "id": 1589,
+      "bank": "VTB BANK (PJSC)",
+      "city": "MOSCOW",
+      "branch": "(CUSTODY DEPARTMENT)",
+      "swift_code": "VTBRRUMMCSD"
+    },
+    {
+      "id": 1590,
+      "bank": "VTB BANK (PJSC)",
+      "city": "MOSCOW",
+      "branch": "(SECURITIES DEPARTMENT)",
+      "swift_code": "VTBRRUMMSEC"
+    },
+    {
+      "id": 1591,
+      "bank": "VTB BANK (PJSC)",
+      "city": "MOSCOW",
+      "branch": "(TSENTRALNYI BRANCH, MOSCOW)",
+      "swift_code": "VTBRRUM2MS2"
+    },
+    {
+      "id": 1592,
+      "bank": "VTB BANK (PJSC)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "VTBRRUM2MSK"
+    },
+    {
+      "id": 1593,
+      "bank": "VTB BANK (PJSC)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "VTBRRUMM"
+    },
+    {
+      "id": 1594,
+      "bank": "VTB BANK (PJSC)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "VTBRRUMML29"
+    },
+    {
+      "id": 1613,
+      "bank": "YANDEX.MONEY, NBCO LLC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "YNDMRUM1"
+    },
+    {
+      "id": 1614,
+      "bank": "YAR BANK LTD.",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "OBIBRUMM"
+    },
+    {
+      "id": 1616,
+      "bank": "YAROSLAVL JOINT STOCK CREDPROMBANK OPEN JOINT STO CK COMPANY",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "KRPBRU2YMSK"
+    },
+    {
+      "id": 1625,
+      "bank": "ZAO CITIGROUP GLOBAL MARKETS",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ZCGMRUM1"
+    },
+    {
+      "id": 1626,
+      "bank": "ZAO DEUTSCHE SECURITIES",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "UFGRRUM1"
+    },
+    {
+      "id": 1635,
+      "bank": "ZENIT BANK",
+      "city": "MOSCOW",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "ZENIRUMM001"
+    },
+    {
+      "id": 1636,
+      "bank": "ZENIT BANK",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ZENIRUMM"
+    },
+    {
+      "id": 1644,
+      "bank": "ZIRAAT BANK (MOSCOW)",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "TCZBRUMM"
+    },
+    {
+      "id": 1646,
+      "bank": "ZLATCOMBANK, JSC",
+      "city": "MOSCOW",
+      "branch": "",
+      "swift_code": "ZLATRUMM"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Moscow (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in MOSCOW (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 526 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Moscow (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Moscow (коды SWIFT/BIC) — 526 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 526 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

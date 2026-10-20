@@ -1,0 +1,160 @@
+{
+  "id": "ru-yaroslavskaya-oblast-goroda",
+  "name": "Города — Ярославская область",
+  "title": "Города — Ярославская область",
+  "description": "11 городов региона «Ярославская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Гаврилов-Ям",
+      "population_thousands": 16.5,
+      "latitude": 57.3091058,
+      "longitude": 39.8546444,
+      "region_name": "Ярославская область",
+      "region_iso_code": "RU-YAR",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Данилов",
+      "population_thousands": 14.5,
+      "latitude": 58.1860098,
+      "longitude": 40.1795067,
+      "region_name": "Ярославская область",
+      "region_iso_code": "RU-YAR",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Любим",
+      "population_thousands": 5,
+      "latitude": 58.3620228,
+      "longitude": 40.686841,
+      "region_name": "Ярославская область",
+      "region_iso_code": "RU-YAR",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Мышкин",
+      "population_thousands": 5.5,
+      "latitude": 57.7881684,
+      "longitude": 38.4544224,
+      "region_name": "Ярославская область",
+      "region_iso_code": "RU-YAR",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Переславль-Залесский",
+      "population_thousands": 37.9,
+      "latitude": 56.7360544,
+      "longitude": 38.8543617,
+      "region_name": "Ярославская область",
+      "region_iso_code": "RU-YAR",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Пошехонье",
+      "population_thousands": 5.7,
+      "latitude": 58.5062879,
+      "longitude": 39.1208434,
+      "region_name": "Ярославская область",
+      "region_iso_code": "RU-YAR",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Ростов",
+      "population_thousands": 30.5,
+      "latitude": 57.2051315,
+      "longitude": 39.4378622,
+      "region_name": "Ярославская область",
+      "region_iso_code": "RU-YAR",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Рыбинск",
+      "population_thousands": 184.6,
+      "latitude": 58.0485495,
+      "longitude": 38.8584119,
+      "region_name": "Ярославская область",
+      "region_iso_code": "RU-YAR",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Тутаев",
+      "population_thousands": 39.8,
+      "latitude": 57.8674993,
+      "longitude": 39.5369627,
+      "region_name": "Ярославская область",
+      "region_iso_code": "RU-YAR",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Углич",
+      "population_thousands": 31.8,
+      "latitude": 57.5224249,
+      "longitude": 38.3020044,
+      "region_name": "Ярославская область",
+      "region_iso_code": "RU-YAR",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Ярославль",
+      "population_thousands": 608.4,
+      "latitude": 57.6215477,
+      "longitude": 39.8977411,
+      "region_name": "Ярославская область",
+      "region_iso_code": "RU-YAR",
+      "federal_district": "Центральный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Ярославская область - Бесплатная загрузка",
+    "description": "11 городов региона «Ярославская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 11 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Ярославская область | ListBase",
+    "seo_description": "Скачать Города — Ярославская область — 11 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 11 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

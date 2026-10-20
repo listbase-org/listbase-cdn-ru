@@ -1,0 +1,107 @@
+{
+  "id": "ru-penza-banki",
+  "name": "Банки — Penza (коды SWIFT/BIC)",
+  "title": "Банки — Penza (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in PENZA (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 123,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "PENZA",
+      "branch": "(PENZA BRANCH)",
+      "swift_code": "MOBWRUM1PNZ"
+    },
+    {
+      "id": 226,
+      "bank": "BANK ''ROSSIYA''",
+      "city": "PENZA",
+      "branch": "(PENZA BRANCH)",
+      "swift_code": "ROSYRU21PNZ"
+    },
+    {
+      "id": 576,
+      "bank": "INVESTMENT TRADE BANK PJSC",
+      "city": "PENZA",
+      "branch": "(PENZENSKY BRANCH)",
+      "swift_code": "INVJRUM1PEN"
+    },
+    {
+      "id": 723,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "PENZA",
+      "branch": "(PENZENSKY BRANCH)",
+      "swift_code": "RUAGRUM1015"
+    },
+    {
+      "id": 902,
+      "bank": "MOSCOW BILL BANK",
+      "city": "PENZA",
+      "branch": "(PENZA BRANCH)",
+      "swift_code": "JSMBRUMMPNZ"
+    },
+    {
+      "id": 1032,
+      "bank": "OJSC BANK KUZNETSKY",
+      "city": "PENZA",
+      "branch": "",
+      "swift_code": "BKUZRU2P"
+    },
+    {
+      "id": 1240,
+      "bank": "ROST BANK",
+      "city": "PENZA",
+      "branch": "(ROST BANK PENZA BRANCH)",
+      "swift_code": "JORORU21PNZ"
+    },
+    {
+      "id": 1454,
+      "bank": "TARKHANY REGIONAL BANK OAO",
+      "city": "PENZA",
+      "branch": "",
+      "swift_code": "TARYRU21"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Penza (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in PENZA (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 8 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Penza (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Penza (коды SWIFT/BIC) — 8 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 8 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

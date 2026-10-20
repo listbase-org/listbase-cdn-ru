@@ -1,0 +1,93 @@
+{
+  "id": "ru-saransk-banki",
+  "name": "Банки — Saransk (коды SWIFT/BIC)",
+  "title": "Банки — Saransk (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in SARANSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 31,
+      "bank": "AKTIV BANK",
+      "city": "SARANSK",
+      "branch": "",
+      "swift_code": "AKTVRU21"
+    },
+    {
+      "id": 731,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "SARANSK",
+      "branch": "(MORDOVSKY BRANCH)",
+      "swift_code": "RUAGRUM1020"
+    },
+    {
+      "id": 844,
+      "bank": "KS BANK",
+      "city": "SARANSK",
+      "branch": "",
+      "swift_code": "KSBARU21"
+    },
+    {
+      "id": 896,
+      "bank": "MORDOVSOTSBANK",
+      "city": "SARANSK",
+      "branch": "",
+      "swift_code": "MORDRU21"
+    },
+    {
+      "id": 1174,
+      "bank": "PUBLIC JOINT-STOCK COMPANY INTERREGIONAL INDUSTRIAL AND CONSTRUCTION BANK",
+      "city": "SARANSK",
+      "branch": "",
+      "swift_code": "MORPRU2D"
+    },
+    {
+      "id": 1569,
+      "bank": "VOZROZHDENIE BANK",
+      "city": "SARANSK",
+      "branch": "(SARANSK BRANCH)",
+      "swift_code": "VBNKRUM1SRN"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Saransk (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in SARANSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 6 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Saransk (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Saransk (коды SWIFT/BIC) — 6 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 6 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

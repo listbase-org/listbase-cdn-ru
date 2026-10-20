@@ -1,0 +1,196 @@
+{
+  "id": "ru-morya",
+  "name": "Моря России",
+  "title": "Моря России",
+  "description": "Список географических объектов класса «море», расположенных в России. Источник — Wikidata через публичный SPARQL-эндпоинт (instance of/subclass of Q165, страна Россия Q159). Для каждого объекта приведены русское название (rdfs:label@ru), английское название, географические координаты (WGS84, P625) и ссылка на статью русской Википедии. Записи отсортированы по алфавиту русского названия. Записи без русскоязычной (кириллической) этикетки отфильтрованы согласно правилу проекта о сохранении родного текста. Каспийское море (Q5484) исключено как уже представленное в наборе ru-ozyora (классифицируется как озеро). Всего 15 уникальных QID; координаты доступны для 14.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ru",
+      "label": "Name Ru",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ru",
+      "label": "Wikipedia Ru",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q545",
+      "name_ru": "Балтийское море",
+      "name_en": "Baltic Sea",
+      "latitude": 58,
+      "longitude": 20,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q45823",
+      "name_ru": "Баренцево море",
+      "name_en": "Barents Sea",
+      "latitude": 75,
+      "longitude": 40,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%B5%D0%BD%D1%86%D0%B5%D0%B2%D0%BE_%D0%BC%D0%BE%D1%80%D0%B5"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q44133",
+      "name_ru": "Белое море",
+      "name_en": "White Sea",
+      "latitude": 65.8,
+      "longitude": 39,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q44725",
+      "name_ru": "Берингово море",
+      "name_en": "Bering Sea",
+      "latitude": 58,
+      "longitude": -178,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%BE_%D0%BC%D0%BE%D1%80%D0%B5"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q118383320",
+      "name_ru": "Восточная Балтика",
+      "name_en": "Eastern Baltic",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q163434",
+      "name_ru": "Восточно-Сибирское море",
+      "name_en": "East Siberian Sea",
+      "latitude": 72,
+      "longitude": 163,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%BE-%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q33629",
+      "name_ru": "Карское море",
+      "name_en": "Kara Sea",
+      "latitude": 77,
+      "longitude": 77,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q28059689",
+      "name_ru": "Море Королевы Виктории",
+      "name_en": "Queen Victoria Sea",
+      "latitude": 81.5,
+      "longitude": 38,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q41602",
+      "name_ru": "Охотское море",
+      "name_en": "Sea of Okhotsk",
+      "latitude": 55,
+      "longitude": 150,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%85%D0%BE%D1%82%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q217501",
+      "name_ru": "Печорское море",
+      "name_en": "Pechora Sea",
+      "latitude": 69.75,
+      "longitude": 54,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%87%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q159252",
+      "name_ru": "Чукотское море",
+      "name_en": "Chukchi Sea",
+      "latitude": 69.51,
+      "longitude": -171.29,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D1%83%D0%BA%D0%BE%D1%82%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q166",
+      "name_ru": "Чёрное море",
+      "name_en": "Black Sea",
+      "latitude": 43.41,
+      "longitude": 34.26,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D1%91%D1%80%D0%BD%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q13402972",
+      "name_ru": "Шантарское море",
+      "name_en": "Shantar Sea",
+      "latitude": 54.66666667,
+      "longitude": 137,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%BD%D1%82%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q27092",
+      "name_ru": "Японское море",
+      "name_en": "Sea of Japan",
+      "latitude": 40,
+      "longitude": 135,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q7988",
+      "name_ru": "море Лаптевых",
+      "name_en": "Laptev Sea",
+      "latitude": 76,
+      "longitude": 125,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D0%B5_%D0%9B%D0%B0%D0%BF%D1%82%D0%B5%D0%B2%D1%8B%D1%85"
+    }
+  ],
+  "meta": {
+    "title": "Моря России - Бесплатная загрузка",
+    "description": "Список географических объектов класса «море», расположенных в России. Источник — Wikidata через публичный SPARQL-эндпоинт (instance of/subclass of Q165, страна Россия Q159). Для каждого объекта приведены русское название (rdfs:label@ru), английское название, географические координаты (WGS84, P625) и ссылка на статью русской Википедии. Записи отсортированы по алфавиту русского названия. Записи без русскоязычной (кириллической) этикетки отфильтрованы согласно правилу проекта о сохранении родного текста. Каспийское море (Q5484) исключено как уже представленное в наборе ru-ozyora (классифицируется как озеро). Всего 15 уникальных QID; координаты доступны для 14. Содержит 15 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Моря России | ListBase",
+    "seo_description": "Скачать Моря России — 15 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 15 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

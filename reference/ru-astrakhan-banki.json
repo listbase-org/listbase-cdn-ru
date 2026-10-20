@@ -1,0 +1,93 @@
+{
+  "id": "ru-astrakhan-banki",
+  "name": "Банки — Astrakhan (коды SWIFT/BIC)",
+  "title": "Банки — Astrakhan (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in ASTRAKHAN (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 608,
+      "bank": "JOINT STOCK COMPANY CONSERVATIVE COMMERCIAL BANK",
+      "city": "ASTRAKHAN",
+      "branch": "",
+      "swift_code": "KRASRU3A"
+    },
+    {
+      "id": 674,
+      "bank": "JSC MIR BUSINESS BANK",
+      "city": "ASTRAKHAN",
+      "branch": "(ASTRAKHAN BRANCH)",
+      "swift_code": "MRBBRUMMAST"
+    },
+    {
+      "id": 767,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "ASTRAKHAN",
+      "branch": "(REGIONAL DEPARTMENT OFFICE IN THE CITY OF ASTRAKHAN)",
+      "swift_code": "MINNRUM1047"
+    },
+    {
+      "id": 912,
+      "bank": "MOSOBLBANK",
+      "city": "ASTRAKHAN",
+      "branch": "(BRANCH NO.4)",
+      "swift_code": "MOBKRUM1004"
+    },
+    {
+      "id": 1217,
+      "bank": "ROST BANK",
+      "city": "ASTRAKHAN",
+      "branch": "(ASTRAHAN BRANCH)",
+      "swift_code": "JORORU21ASB"
+    },
+    {
+      "id": 1539,
+      "bank": "VCABANK",
+      "city": "ASTRAKHAN",
+      "branch": "",
+      "swift_code": "VCJVRU3A"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Astrakhan (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in ASTRAKHAN (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 6 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Astrakhan (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Astrakhan (коды SWIFT/BIC) — 6 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 6 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

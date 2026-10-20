@@ -1,0 +1,2644 @@
+{
+  "id": "ru-rodniki",
+  "name": "Родники и источники России",
+  "title": "Родники и источники России",
+  "description": "Список природных водных объектов класса «источник» (родник), расположенных в России. Источник — Wikidata через публичный SPARQL-эндпоинт (instance of/subclass of Q124714, страна Россия Q159). Для каждого объекта приведены русское название (rdfs:label@ru), английское название, географические координаты (WGS84, P625) и ссылка на статью русской Википедии. Записи отсортированы по алфавиту русского названия. Записи без русскоязычной (кириллической) этикетки отфильтрованы согласно правилу проекта о сохранении родного текста. Всего 287 уникальных QID; координаты доступны для 274.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 287,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ru",
+      "label": "Name Ru",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ru",
+      "label": "Wikipedia Ru",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q4054132",
+      "name_ru": "Аагские источники",
+      "name_en": "",
+      "latitude": 53.436111,
+      "longitude": 158.699722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%B0%D0%B3%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q109241232",
+      "name_ru": "Азменын-Чокрак",
+      "name_en": "",
+      "latitude": 44.5529,
+      "longitude": 34.0725,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%B7%D0%BC%D0%B5%D0%BD%D1%8B%D0%BD-%D0%A7%D0%BE%D0%BA%D1%80%D0%B0%D0%BA"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q103928097",
+      "name_ru": "Ай-Алексий",
+      "name_en": "",
+      "latitude": 44.828889,
+      "longitude": 34.485833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%B9-%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B8%D0%B9"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q108829686",
+      "name_ru": "Ай-Илья",
+      "name_en": "",
+      "latitude": 44.6386,
+      "longitude": 34.3429,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%B9-%D0%98%D0%BB%D1%8C%D1%8F"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q20072624",
+      "name_ru": "Ай-Йори",
+      "name_en": "",
+      "latitude": 44.673056,
+      "longitude": 34.336667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%B9-%D0%99%D0%BE%D1%80%D0%B8_(%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q108829684",
+      "name_ru": "Ай-Йорий",
+      "name_en": "",
+      "latitude": 44.775556,
+      "longitude": 34.460833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%B9-%D0%99%D0%BE%D1%80%D0%B8%D0%B9"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q104172881",
+      "name_ru": "Ай-Эндрит",
+      "name_en": "Ay-Andrit",
+      "latitude": 44.773333,
+      "longitude": 34.469167,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%B9-%D0%AD%D0%BD%D0%B4%D1%80%D0%B8%D1%82"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q4059095",
+      "name_ru": "Ак-Чокрак (родник)",
+      "name_en": "",
+      "latitude": 44.648261,
+      "longitude": 34.325996,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BA-%D0%A7%D0%BE%D0%BA%D1%80%D0%B0%D0%BA_(%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q4060627",
+      "name_ru": "Алга (минеральный источник)",
+      "name_en": "",
+      "latitude": 54.59,
+      "longitude": 54.294,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%B0_(%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q4064702",
+      "name_ru": "Анавгайские источники",
+      "name_en": "",
+      "latitude": 56.0459,
+      "longitude": 158.9943,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D0%B2%D0%B3%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q104177612",
+      "name_ru": "Анастасия",
+      "name_en": "Anastasia",
+      "latitude": 44.789444,
+      "longitude": 34.466944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F_(%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q4067936",
+      "name_ru": "Апапельские горячие источники",
+      "name_en": "",
+      "latitude": 56.2948,
+      "longitude": 159.2008,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BF%D0%B0%D0%BF%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5_%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q4067968",
+      "name_ru": "Апачинские источники",
+      "name_en": "",
+      "latitude": 52.8725,
+      "longitude": 157.3433,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BF%D0%B0%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q28149853",
+      "name_ru": "Аракамчеченские источники",
+      "name_en": "",
+      "latitude": 64.7567,
+      "longitude": -172.3864,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B0%D0%BA%D0%B0%D0%BC%D1%87%D0%B5%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q31889992",
+      "name_ru": "Аржаков Ключ",
+      "name_en": "Arzhakov Klyuch",
+      "latitude": 56.226111,
+      "longitude": 92.888889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q4069751",
+      "name_ru": "Армянский фонтан",
+      "name_en": "Armenian Fountain",
+      "latitude": 45.020667,
+      "longitude": 35.390389,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%BC%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D0%BE%D0%BD%D1%82%D0%B0%D0%BD"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q104086271",
+      "name_ru": "Ассиох",
+      "name_en": "",
+      "latitude": 44.767778,
+      "longitude": 34.468611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%81%D0%B8%D0%BE%D1%85"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q108829678",
+      "name_ru": "Аян",
+      "name_en": "",
+      "latitude": 44.826,
+      "longitude": 34.2917,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%8F%D0%BD_(%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q30888634",
+      "name_ru": "Бабинский целебный источник",
+      "name_en": "",
+      "latitude": 47.482222,
+      "longitude": 39.446667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B1%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%86%D0%B5%D0%BB%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q30888559",
+      "name_ru": "Бабушкины Очки",
+      "name_en": "",
+      "latitude": 65.9939,
+      "longitude": -173.5955,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B1%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%8B_%D0%9E%D1%87%D0%BA%D0%B8"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q12081178",
+      "name_ru": "Баталинский источник",
+      "name_en": "Batalinsky mineral spring",
+      "latitude": 44.100734,
+      "longitude": 43.124656,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%82%D0%B0%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q4082279",
+      "name_ru": "Беловские источники",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q122791543",
+      "name_ru": "Биюк-Узень",
+      "name_en": "",
+      "latitude": 44.624167,
+      "longitude": 34.241667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%8E%D0%BA-%D0%A3%D0%B7%D0%B5%D0%BD%D1%8C_(%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q4092074",
+      "name_ru": "Больше-Банные источники",
+      "name_en": "",
+      "latitude": 52.863,
+      "longitude": 157.8413,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B5-%D0%91%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q4094792",
+      "name_ru": "Бортха (родник)",
+      "name_en": "Bortkha",
+      "latitude": 46.30765,
+      "longitude": 44.2526,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D1%82%D1%85%D0%B0_(%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q28667326",
+      "name_ru": "Брагунские минеральные источники",
+      "name_en": "",
+      "latitude": 43.4,
+      "longitude": 46.025,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B3%D1%83%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BC%D0%B8%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q64943663",
+      "name_ru": "Бугузунский источник",
+      "name_en": "Buguzun Spring",
+      "latitude": 50.1213,
+      "longitude": 89.4445,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%B3%D1%83%D0%B7%D1%83%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q108829680",
+      "name_ru": "Бурчу-Чокрак",
+      "name_en": "",
+      "latitude": 44.7417,
+      "longitude": 34.3362,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D1%87%D1%83-%D0%A7%D0%BE%D0%BA%D1%80%D0%B0%D0%BA"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q4101128",
+      "name_ru": "Быстринские источники",
+      "name_en": "",
+      "latitude": 56.023,
+      "longitude": 159.09,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q108829679",
+      "name_ru": "Вересь-Чокрак",
+      "name_en": "",
+      "latitude": 44.874444,
+      "longitude": 34.65,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%80%D0%B5%D1%81%D1%8C-%D0%A7%D0%BE%D0%BA%D1%80%D0%B0%D0%BA"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q4108280",
+      "name_ru": "Верхне-Кошелевские парогидротермы",
+      "name_en": "",
+      "latitude": 51.355556,
+      "longitude": 156.75,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%80%D1%85%D0%BD%D0%B5-%D0%9A%D0%BE%D1%88%D0%B5%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%B0%D1%80%D0%BE%D0%B3%D0%B8%D0%B4%D1%80%D0%BE%D1%82%D0%B5%D1%80%D0%BC%D1%8B"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q4108291",
+      "name_ru": "Верхне-Паратунские источники",
+      "name_en": "",
+      "latitude": 52.8237,
+      "longitude": 158.1634,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%80%D1%85%D0%BD%D0%B5-%D0%9F%D0%B0%D1%80%D0%B0%D1%82%D1%83%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q4108294",
+      "name_ru": "Верхнесемлячинские горячие источники",
+      "name_en": "Verkhnesemlyachinskie",
+      "latitude": 54.326667,
+      "longitude": 159.966389,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%80%D1%85%D0%BD%D0%B5%D1%81%D0%B5%D0%BC%D0%BB%D1%8F%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q4111439",
+      "name_ru": "Вилючинские горячие источники",
+      "name_en": "Vilyuchinskiye springs",
+      "latitude": 52.705556,
+      "longitude": 158.2775,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BB%D1%8E%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q4122661",
+      "name_ru": "Войновские источники",
+      "name_en": "",
+      "latitude": 52.5689,
+      "longitude": 158.2992,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B9%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q108829683",
+      "name_ru": "Вриси",
+      "name_en": "",
+      "latitude": 44.6488,
+      "longitude": 34.3595,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D1%80%D0%B8%D1%81%D0%B8"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q123475967",
+      "name_ru": "Гаврель-Чокрак",
+      "name_en": "",
+      "latitude": 44.652833,
+      "longitude": 34.278444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B2%D1%80%D0%B5%D0%BB%D1%8C-%D0%A7%D0%BE%D0%BA%D1%80%D0%B0%D0%BA"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q4140867",
+      "name_ru": "Говенские горячие источники",
+      "name_en": "",
+      "latitude": 60.2864,
+      "longitude": 166.8896,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q16637841",
+      "name_ru": "Голыгинские горячие источники",
+      "name_en": "",
+      "latitude": 51.863056,
+      "longitude": 157.0325,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D1%8B%D0%B3%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%9A%D0%BB%D1%8E%D1%87%D0%B8"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q4146307",
+      "name_ru": "Горячереченские горячие источники",
+      "name_en": "",
+      "latitude": 53.5073,
+      "longitude": 158.7634,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D1%8F%D1%87%D0%B5%D1%80%D0%B5%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q4146323",
+      "name_ru": "Горячий ключ (Абаканский Аржан)",
+      "name_en": "",
+      "latitude": 51.7983,
+      "longitude": 88.2503,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%B9_%D0%BA%D0%BB%D1%8E%D1%87_(%D0%90%D0%B1%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%90%D1%80%D0%B6%D0%B0%D0%BD)"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q135249094",
+      "name_ru": "Горячинский источник",
+      "name_en": "Goryachinsky Springs",
+      "latitude": 52.987222,
+      "longitude": 108.3075,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q30890760",
+      "name_ru": "Гремучий родник",
+      "name_en": "Gremuchiy Spring",
+      "latitude": 47.206111,
+      "longitude": 39.693333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D0%BC%D1%83%D1%87%D0%B8%D0%B9_(%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q4150249",
+      "name_ru": "Громовой ключ",
+      "name_en": "",
+      "latitude": 55.905019,
+      "longitude": 37.784462,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%BE%D0%BC%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BA%D0%BB%D1%8E%D1%87"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q110497972",
+      "name_ru": "Гяур-Чешме",
+      "name_en": "",
+      "latitude": 44.9311,
+      "longitude": 35.22,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D1%8F%D1%83%D1%80-%D0%A7%D0%B5%D1%88%D0%BC%D0%B5"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q108829676",
+      "name_ru": "Дамчи-Кая-Чокрак",
+      "name_en": "",
+      "latitude": 44.78,
+      "longitude": 34.2672,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%BC%D1%87%D0%B8-%D0%9A%D0%B0%D1%8F-%D0%A7%D0%BE%D0%BA%D1%80%D0%B0%D0%BA"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q4155454",
+      "name_ru": "Дачные горячие источники",
+      "name_en": "Dachnye Hot Springs",
+      "latitude": 52.453,
+      "longitude": 158.195,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D1%87%D0%BD%D1%8B%D0%B5_%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q23956802",
+      "name_ru": "Двенадцать ключей",
+      "name_en": "Dvenadtsat Klyuchey",
+      "latitude": 55.4067,
+      "longitude": 55.7407,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%B5%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%B9"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q4156188",
+      "name_ru": "Двухюрточные горячие источники",
+      "name_en": "",
+      "latitude": 56.8207,
+      "longitude": 159.9984,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D1%83%D1%85%D1%8E%D1%80%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B5_%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q28667093",
+      "name_ru": "Дежнёвские источники",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B6%D0%BD%D1%91%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q130343387",
+      "name_ru": "Деспита (источник)",
+      "name_en": "",
+      "latitude": 44.420312,
+      "longitude": 33.7864,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D1%81%D0%BF%D0%B8%D1%82%D0%B0_(%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q4167710",
+      "name_ru": "Дранкинские источники",
+      "name_en": "",
+      "latitude": 58.8621,
+      "longitude": 161.7447,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%B0%D0%BD%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q4179168",
+      "name_ru": "Желтореченские горячие источники",
+      "name_en": "",
+      "latitude": 53.5187,
+      "longitude": 158.7788,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BB%D1%82%D0%BE%D1%80%D0%B5%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q4180581",
+      "name_ru": "Жировские источники",
+      "name_en": "",
+      "latitude": 52.6182,
+      "longitude": 158.2957,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q4188694",
+      "name_ru": "Захаров колодец (родник, Аннинский район)",
+      "name_en": "",
+      "latitude": 51.422483,
+      "longitude": 40.653942,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D1%85%D0%B0%D1%80%D0%BE%D0%B2_%D0%BA%D0%BE%D0%BB%D0%BE%D0%B4%D0%B5%D1%86"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q111133553",
+      "name_ru": "Зелёное Сердце",
+      "name_en": "Green Heart",
+      "latitude": 57.2511,
+      "longitude": 60.0448,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q137656999",
+      "name_ru": "Иверский источник в Горячем Ключе",
+      "name_en": "Iverskiy Spring (Goryachy Klyuch)",
+      "latitude": 44.620734,
+      "longitude": 39.093779,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q30888563",
+      "name_ru": "Ионийские источники",
+      "name_en": "",
+      "latitude": 65.8033,
+      "longitude": -173.5113,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D0%BE%D0%BD%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q108367715",
+      "name_ru": "Исток Днепра",
+      "name_en": "Source of the Dnieper River",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D0%BA_%D0%94%D0%BD%D0%B5%D0%BF%D1%80%D0%B0"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q83388639",
+      "name_ru": "Исток Западной Двины",
+      "name_en": "Source of the Daugava",
+      "latitude": 56.854167,
+      "longitude": 32.538611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D0%BA_%D0%97%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%BE%D0%B9_%D0%94%D0%B2%D0%B8%D0%BD%D1%8B"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q4204395",
+      "name_ru": "Исток реки Урал",
+      "name_en": "Source of the Ural River",
+      "latitude": 54.694444,
+      "longitude": 59.4125,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D0%BA_%D1%80%D0%B5%D0%BA%D0%B8_%D0%A3%D1%80%D0%B0%D0%BB"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q35468396",
+      "name_ru": "Источник Белый",
+      "name_en": "Istochnik Belyy",
+      "latitude": 44.065278,
+      "longitude": 42.016944,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q35468409",
+      "name_ru": "Источник Белый Ключ",
+      "name_en": "Istochnik Belyy Klyuch",
+      "latitude": 44.022222,
+      "longitude": 42.241389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q35468856",
+      "name_ru": "Источник Вдовин",
+      "name_en": "Istochnik Vdovin",
+      "latitude": 44.773611,
+      "longitude": 42.971944,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q35468506",
+      "name_ru": "Источник Генеральский",
+      "name_en": "Istochnik General'skiy",
+      "latitude": 44.531389,
+      "longitude": 43.027778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q35468478",
+      "name_ru": "Источник Джуркало",
+      "name_en": "Istochnik Dzhurkalo",
+      "latitude": 44.313333,
+      "longitude": 41.090278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q35468549",
+      "name_ru": "Источник Казанок",
+      "name_en": "Istochnik Kazanok",
+      "latitude": 44.8475,
+      "longitude": 37.617222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q35468606",
+      "name_ru": "Источник Кислый",
+      "name_en": "Istochnik Kislyy",
+      "latitude": 51.698056,
+      "longitude": 111.718056,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q35468620",
+      "name_ru": "Источник Кочетуй",
+      "name_en": "Istochnik Kochetuy",
+      "latitude": 50.583611,
+      "longitude": 118.048056,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q35468661",
+      "name_ru": "Источник Лежнёв",
+      "name_en": "Istochnik Lezhnëv",
+      "latitude": 48.078611,
+      "longitude": 40.6425,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q35468648",
+      "name_ru": "Источник Лесной",
+      "name_en": "Istochnik Lesnoy",
+      "latitude": 50.511667,
+      "longitude": 118.053056,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q35468688",
+      "name_ru": "Источник Мазанбулак",
+      "name_en": "Istochnik Mazanbulak",
+      "latitude": 42.217778,
+      "longitude": 48.04,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q35468674",
+      "name_ru": "Источник Макаренко",
+      "name_en": "Istochnik Makarenko",
+      "latitude": 44.976667,
+      "longitude": 37.587222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q35468703",
+      "name_ru": "Источник Мельников",
+      "name_en": "Istochnik Mel'nikov",
+      "latitude": 44.944444,
+      "longitude": 37.618611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q35468731",
+      "name_ru": "Источник Ольховский",
+      "name_en": "Istochnik Ol'khovskiy",
+      "latitude": 48.031944,
+      "longitude": 40.512778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q35468762",
+      "name_ru": "Источник Романов",
+      "name_en": "Istochnik Romanov",
+      "latitude": 50.548056,
+      "longitude": 118.025278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q35468801",
+      "name_ru": "Источник Свиной",
+      "name_en": "Istochnik Svinoy",
+      "latitude": 44.844167,
+      "longitude": 42.923333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q35468815",
+      "name_ru": "Источник Талый",
+      "name_en": "Istochnik Talyy",
+      "latitude": 50.535,
+      "longitude": 118.058056,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q35468842",
+      "name_ru": "Источник Токачи",
+      "name_en": "Istochnik Tokachi",
+      "latitude": 42.472222,
+      "longitude": 47.869722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q35468492",
+      "name_ru": "Источник Филенков",
+      "name_en": "Istochnik Filenkov",
+      "latitude": 44.311944,
+      "longitude": 41.143056,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q35468578",
+      "name_ru": "Источник Холодный",
+      "name_en": "Istochnik Kholodnyy",
+      "latitude": 48.006111,
+      "longitude": 40.316667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q35468592",
+      "name_ru": "Источник Холодный",
+      "name_en": "Istochnik Kholodnyy",
+      "latitude": 44.815556,
+      "longitude": 41.995833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q35468424",
+      "name_ru": "Источник Чабанов",
+      "name_en": "Istochnik Chabanov",
+      "latitude": 44.944444,
+      "longitude": 37.635,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q35468465",
+      "name_ru": "Источник Чапбилак",
+      "name_en": "Istochnik Chapbilak",
+      "latitude": 42.356111,
+      "longitude": 47.679722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q35468787",
+      "name_ru": "Источник Шинкаренко",
+      "name_en": "Istochnik Shinkarenko",
+      "latitude": 44.933333,
+      "longitude": 37.630278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q35468870",
+      "name_ru": "Источник Юменкин",
+      "name_en": "Istochnik Yumenkin",
+      "latitude": 44.948611,
+      "longitude": 37.606389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q4205085",
+      "name_ru": "Источник святого Пантелеимона Целителя (Старый Крым)",
+      "name_en": "",
+      "latitude": 45.020556,
+      "longitude": 35.096667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B0%D0%BD%D1%82%D0%B5%D0%BB%D0%B5%D0%B8%D0%BC%D0%BE%D0%BD%D0%B0_%D0%A6%D0%B5%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8F_(%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9_%D0%9A%D1%80%D1%8B%D0%BC)"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q4205086",
+      "name_ru": "Источники Академии Наук",
+      "name_en": "",
+      "latitude": 53.96,
+      "longitude": 159.46,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%B8_%D0%9D%D0%B0%D1%83%D0%BA"
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q4205094",
+      "name_ru": "Источники вулканов Ааг и Арик",
+      "name_en": "",
+      "latitude": 53.4696,
+      "longitude": 158.7271,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B2%D1%83%D0%BB%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2_%D0%90%D0%B0%D0%B3_%D0%B8_%D0%90%D1%80%D0%B8%D0%BA"
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q4205380",
+      "name_ru": "Иултинские источники",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D1%83%D0%BB%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q35473126",
+      "name_ru": "Караулка Каменная",
+      "name_en": "Karaulka Kamennaya",
+      "latitude": 44.835,
+      "longitude": 41.984167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q4216406",
+      "name_ru": "Карымчинские горячие источники",
+      "name_en": "Karymchinsky hot springs",
+      "latitude": 52.784502,
+      "longitude": 157.825287,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D1%8B%D0%BC%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q4219876",
+      "name_ru": "Кехкуйские источники",
+      "name_en": "",
+      "latitude": 53.5151,
+      "longitude": 158.5169,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%85%D0%BA%D1%83%D0%B9%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q28137267",
+      "name_ru": "Кивакские источники",
+      "name_en": "",
+      "latitude": 64.2674,
+      "longitude": -172.9482,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%B2%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q4221022",
+      "name_ru": "Кипелые источники",
+      "name_en": "",
+      "latitude": 54.666667,
+      "longitude": 161,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BF%D0%B5%D0%BB%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q4221258",
+      "name_ru": "Киреунские источники",
+      "name_en": "",
+      "latitude": 56.7187,
+      "longitude": 159.8667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B5%D1%83%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q35476877",
+      "name_ru": "Ключ Батуевский",
+      "name_en": "Klyuch Batuyevskiy",
+      "latitude": 54.829167,
+      "longitude": 60.044444,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q35476890",
+      "name_ru": "Ключ Бочкарёв",
+      "name_en": "Klyuch Bochkarëv",
+      "latitude": 55.527222,
+      "longitude": 85.621667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 99,
+      "wikidata_id": "Q35476914",
+      "name_ru": "Ключ Горький",
+      "name_en": "Klyuch Gor'kiy",
+      "latitude": 53.447222,
+      "longitude": 105.964444,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 100,
+      "wikidata_id": "Q35476905",
+      "name_ru": "Ключ Дырбылкей",
+      "name_en": "Klyuch Dyrbylkey",
+      "latitude": 50.265556,
+      "longitude": 117.421667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 101,
+      "wikidata_id": "Q35476951",
+      "name_ru": "Ключ Кислая Вода",
+      "name_en": "Klyuch Kislaya Voda",
+      "latitude": 53.500556,
+      "longitude": 119.673889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 102,
+      "wikidata_id": "Q35476964",
+      "name_ru": "Ключ Мельничный",
+      "name_en": "Klyuch Mel'nichnyy",
+      "latitude": 57.114722,
+      "longitude": 103.025556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 103,
+      "wikidata_id": "Q35476978",
+      "name_ru": "Ключ Моряка",
+      "name_en": "Klyuch Moryaka",
+      "latitude": 42.819444,
+      "longitude": 130.727222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 104,
+      "wikidata_id": "Q125750410",
+      "name_ru": "Ключевские сероводородные источники (Свердловская область)",
+      "name_en": "",
+      "latitude": 57.9106,
+      "longitude": 62.2945,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D0%B5%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_(%D0%A1%D0%B2%D0%B5%D1%80%D0%B4%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 105,
+      "wikidata_id": "Q4225326",
+      "name_ru": "Ковавлинские источник",
+      "name_en": "",
+      "latitude": 55.9895,
+      "longitude": 159.1775,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B2%D0%B0%D0%B2%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 106,
+      "wikidata_id": "Q137799164",
+      "name_ru": "Кодинский тёплый ключ",
+      "name_en": "",
+      "latitude": 56.4385,
+      "longitude": 61.7903,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%91%D0%BF%D0%BB%D1%8B%D0%B9_%D0%BA%D0%BB%D1%8E%D1%87"
+    },
+    {
+      "id": 107,
+      "wikidata_id": "Q109278625",
+      "name_ru": "Коз-Яманташ",
+      "name_en": "",
+      "latitude": 44.5789,
+      "longitude": 34.132,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B7-%D0%AF%D0%BC%D0%B0%D0%BD%D1%82%D0%B0%D1%88"
+    },
+    {
+      "id": 108,
+      "wikidata_id": "Q86671307",
+      "name_ru": "Колодец Марья Святая",
+      "name_en": "",
+      "latitude": 57.0026,
+      "longitude": 38.9052,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D0%B4%D0%B5%D1%86_%D0%9C%D0%B0%D1%80%D1%8C%D1%8F_%D0%A1%D0%B2%D1%8F%D1%82%D0%B0%D1%8F"
+    },
+    {
+      "id": 109,
+      "wikidata_id": "Q4233120",
+      "name_ru": "Коркаваямские источники",
+      "name_en": "",
+      "latitude": 58.8065,
+      "longitude": 161.1917,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BA%D0%B0%D0%B2%D0%B0%D1%8F%D0%BC%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 110,
+      "wikidata_id": "Q4237417",
+      "name_ru": "Краеведческие горячие источники",
+      "name_en": "Krayevedcheskiye Hot Springs",
+      "latitude": 53.5747,
+      "longitude": 158.837,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D0%B5%D0%B2%D0%B5%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 111,
+      "wikidata_id": "Q4239477",
+      "name_ru": "Красный Ключ (родник)",
+      "name_en": "Krasny Klyuch",
+      "latitude": 55.37666,
+      "longitude": 56.679615,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9_%D0%9A%D0%BB%D1%8E%D1%87_(%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 112,
+      "wikidata_id": "Q16667412",
+      "name_ru": "Крошнозерский родник",
+      "name_en": "Kroshnozersky Spring",
+      "latitude": 61.631601,
+      "longitude": 33.187057,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D1%88%D0%BD%D0%BE%D0%B7%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 113,
+      "wikidata_id": "Q4243364",
+      "name_ru": "Ксудачинские источники",
+      "name_en": "",
+      "latitude": 51.8027,
+      "longitude": 157.5257,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%81%D1%83%D0%B4%D0%B0%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 114,
+      "wikidata_id": "Q4244711",
+      "name_ru": "Кужетенские горячие источники",
+      "name_en": "",
+      "latitude": 51.835361,
+      "longitude": 157.145,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B6%D0%B5%D1%82%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 115,
+      "wikidata_id": "Q4247966",
+      "name_ru": "Кургазак",
+      "name_en": "Kurgazak Mineral Spring",
+      "latitude": 55.273611,
+      "longitude": 58.135833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%B7%D0%B0%D0%BA"
+    },
+    {
+      "id": 116,
+      "wikidata_id": "Q30888308",
+      "name_ru": "Куройский углекислый источник",
+      "name_en": "",
+      "latitude": 42.683,
+      "longitude": 45.458,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D0%BE%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%B3%D0%BB%D0%B5%D0%BA%D0%B8%D1%81%D0%BB%D1%8B%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 117,
+      "wikidata_id": "Q109244241",
+      "name_ru": "Кучук-Узенбаш",
+      "name_en": "",
+      "latitude": 44.555,
+      "longitude": 34.075,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%87%D1%83%D0%BA-%D0%A3%D0%B7%D0%B5%D0%BD%D0%B1%D0%B0%D1%88_(%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 118,
+      "wikidata_id": "Q28666958",
+      "name_ru": "Леушинские источники",
+      "name_en": "",
+      "latitude": 53.817,
+      "longitude": 56.0263,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%83%D1%88%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 119,
+      "wikidata_id": "Q18401233",
+      "name_ru": "Лоринские источники",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 120,
+      "wikidata_id": "Q17057231",
+      "name_ru": "Лососинский родник",
+      "name_en": "Lososinsky",
+      "latitude": 61.735941,
+      "longitude": 34.338567,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D1%81%D0%BE%D1%81%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_(%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 121,
+      "wikidata_id": "Q124129912",
+      "name_ru": "Майдалинский ключ",
+      "name_en": "",
+      "latitude": 56.3287,
+      "longitude": 58.9062,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B9%D0%B4%D0%B0%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%BB%D1%8E%D1%87"
+    },
+    {
+      "id": 122,
+      "wikidata_id": "Q4277966",
+      "name_ru": "Малиновый родник",
+      "name_en": "",
+      "latitude": 51.555667,
+      "longitude": 45.886278,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9_%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 123,
+      "wikidata_id": "Q4278012",
+      "name_ru": "Малкинские источники",
+      "name_en": "Malkino Mineral Water Springs",
+      "latitude": 53.323,
+      "longitude": 157.538,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5"
+    },
+    {
+      "id": 124,
+      "wikidata_id": "Q4278552",
+      "name_ru": "Малые Банные источники",
+      "name_en": "",
+      "latitude": 52.882,
+      "longitude": 157.7672,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8B%D0%B5_%D0%91%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 125,
+      "wikidata_id": "Q108367062",
+      "name_ru": "Манджил-Чокрак",
+      "name_en": "",
+      "latitude": 44.862222,
+      "longitude": 35.021667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B4%D0%B6%D0%B8%D0%BB-%D0%A7%D0%BE%D0%BA%D1%80%D0%B0%D0%BA"
+    },
+    {
+      "id": 126,
+      "wikidata_id": "Q122173188",
+      "name_ru": "Маришка",
+      "name_en": "Marishka Spring",
+      "latitude": 54.3396,
+      "longitude": 48.3932,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%B8%D1%88%D0%BA%D0%B0_(%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 127,
+      "wikidata_id": "Q65172811",
+      "name_ru": "Марьин источник",
+      "name_en": "",
+      "latitude": 56.9972,
+      "longitude": 38.9258,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%8C%D0%B8%D0%BD_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 128,
+      "wikidata_id": "Q30890497",
+      "name_ru": "Мелчхи",
+      "name_en": "",
+      "latitude": 43.286,
+      "longitude": 46.1623,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BB%D1%87%D1%85%D0%B8_(%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 129,
+      "wikidata_id": "Q18147603",
+      "name_ru": "Мечигменские источники",
+      "name_en": "",
+      "latitude": 65.8033,
+      "longitude": -173.4173,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%87%D0%B8%D0%B3%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 130,
+      "wikidata_id": "Q30888357",
+      "name_ru": "Минеральные воды курорта Серноводск-Кавказский",
+      "name_en": "",
+      "latitude": 43.333,
+      "longitude": 45.158,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B2%D0%BE%D0%B4%D1%8B_%D0%BA%D1%83%D1%80%D0%BE%D1%80%D1%82%D0%B0_%D0%A1%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D0%BA-%D0%9A%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7%D1%81%D0%BA%D0%B8%D0%B9"
+    },
+    {
+      "id": 131,
+      "wikidata_id": "Q30888367",
+      "name_ru": "Минеральные источники Чанты-Аргуна",
+      "name_en": "",
+      "latitude": 42.958,
+      "longitude": 45.725,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A7%D0%B0%D0%BD%D1%82%D1%8B-%D0%90%D1%80%D0%B3%D1%83%D0%BD%D0%B0"
+    },
+    {
+      "id": 132,
+      "wikidata_id": "Q35489372",
+      "name_ru": "Минеральный Источник Аршан",
+      "name_en": "Mineral'nyy Istochnik Arshan",
+      "latitude": 52.138889,
+      "longitude": 108.426667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 133,
+      "wikidata_id": "Q35489386",
+      "name_ru": "Минеральный Источник Аршан",
+      "name_en": "Mineral'nyy Istochnik Arshan",
+      "latitude": 53.199722,
+      "longitude": 110.295278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 134,
+      "wikidata_id": "Q35489399",
+      "name_ru": "Минеральный Источник Былыринский Горячий Ключ",
+      "name_en": "Mineral'nyy Istochnik Bylyrinskiy Goryachiy Klyuch",
+      "latitude": 50.021944,
+      "longitude": 111.728611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 135,
+      "wikidata_id": "Q35489413",
+      "name_ru": "Минеральный Источник Двенадцаты Ключей",
+      "name_en": "Mineral'nyy Istochnik Dvenadtsaty Klyuchey",
+      "latitude": 50.146944,
+      "longitude": 111.634444,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 136,
+      "wikidata_id": "Q35489606",
+      "name_ru": "Минеральный Источник Зимний Горячий Ключ",
+      "name_en": "Mineral'nyy Istochnik Zimniy Goryachiy Klyuch",
+      "latitude": 50.028611,
+      "longitude": 111.533889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 137,
+      "wikidata_id": "Q35489517",
+      "name_ru": "Минеральный Источник Кислый",
+      "name_en": "Mineral'nyy Istochnik Kislyy",
+      "latitude": 49.369722,
+      "longitude": 111.359722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 138,
+      "wikidata_id": "Q35489532",
+      "name_ru": "Минеральный Источник Кислый",
+      "name_en": "Mineral'nyy Istochnik Kislyy",
+      "latitude": 51.884722,
+      "longitude": 118.168611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 139,
+      "wikidata_id": "Q35489562",
+      "name_ru": "Минеральный Источник Кислый Ключ",
+      "name_en": "Mineral'nyy Istochnik Kislyy Klyuch",
+      "latitude": 50.5125,
+      "longitude": 118.920278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 140,
+      "wikidata_id": "Q35489577",
+      "name_ru": "Минеральный Источник Ларьга",
+      "name_en": "Mineral'nyy Istochnik Lar'ga",
+      "latitude": 51.238611,
+      "longitude": 118.633333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 141,
+      "wikidata_id": "Q35489591",
+      "name_ru": "Минеральный Источник Ласточка",
+      "name_en": "Mineral'nyy Istochnik Lastochka",
+      "latitude": 46.382778,
+      "longitude": 134.144167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 142,
+      "wikidata_id": "Q35489442",
+      "name_ru": "Минеральный Источник Халун-Ухан",
+      "name_en": "Mineral'nyy Istochnik Khalun-Ukhan",
+      "latitude": 52.59,
+      "longitude": 99.171944,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 143,
+      "wikidata_id": "Q35489471",
+      "name_ru": "Минеральный Источник Хойто-Гол",
+      "name_en": "Mineral'nyy Istochnik Khoyto-Gol",
+      "latitude": 52.621389,
+      "longitude": 99.013056,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 144,
+      "wikidata_id": "Q35489456",
+      "name_ru": "Минеральный Источник Холодный Ключ",
+      "name_en": "Mineral'nyy Istochnik Kholodnyy Klyuch",
+      "latitude": 49.846667,
+      "longitude": 111.776944,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 145,
+      "wikidata_id": "Q35489486",
+      "name_ru": "Минеральный Источник Хульск",
+      "name_en": "Mineral'nyy Istochnik Khul'sk",
+      "latitude": 52.259167,
+      "longitude": 110.724167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 146,
+      "wikidata_id": "Q35489502",
+      "name_ru": "Минеральный Источник Хурета",
+      "name_en": "Mineral'nyy Istochnik Khureta",
+      "latitude": 53.161389,
+      "longitude": 112.454167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 147,
+      "wikidata_id": "Q4300045",
+      "name_ru": "Мокрая вершина (родник, Аннинский район)",
+      "name_en": "",
+      "latitude": 51.4194,
+      "longitude": 40.7013,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BA%D1%80%D0%B0%D1%8F_%D0%92%D0%B5%D1%80%D1%88%D0%B8%D0%BD%D0%B0"
+    },
+    {
+      "id": 148,
+      "wikidata_id": "Q4307775",
+      "name_ru": "Муравьёвский фонтан",
+      "name_en": "Muravievskiy fontan",
+      "latitude": 57.985676,
+      "longitude": 31.368793,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%80%D0%B0%D0%B2%D1%8C%D1%91%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D0%BE%D0%BD%D1%82%D0%B0%D0%BD"
+    },
+    {
+      "id": 149,
+      "wikidata_id": "Q108829688",
+      "name_ru": "Мурза-Чокрак",
+      "name_en": "",
+      "latitude": 44.8062,
+      "longitude": 34.2552,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%80%D0%B7%D0%B0-%D0%A7%D0%BE%D0%BA%D1%80%D0%B0%D0%BA"
+    },
+    {
+      "id": 150,
+      "wikidata_id": "Q4312697",
+      "name_ru": "Налычевские горячие источники",
+      "name_en": "Nalychevo Hot Springs",
+      "latitude": 53.508333,
+      "longitude": 158.763889,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BB%D1%8B%D1%87%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 151,
+      "wikidata_id": "Q47068127",
+      "name_ru": "Нарцисс (источник)",
+      "name_en": "Narcissus Spring in Monrepos",
+      "latitude": 60.734722,
+      "longitude": 28.721389,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D1%86%D0%B8%D1%81%D1%81_(%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 152,
+      "wikidata_id": "Q4314753",
+      "name_ru": "Нахот",
+      "name_en": "",
+      "latitude": 56.7384,
+      "longitude": 125.1485,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%85%D0%BE%D1%82"
+    },
+    {
+      "id": 153,
+      "wikidata_id": "Q4315180",
+      "name_ru": "Начикинские источники",
+      "name_en": "",
+      "latitude": 53.1264,
+      "longitude": 157.7605,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%87%D0%B8%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 154,
+      "wikidata_id": "Q21643428",
+      "name_ru": "Нежинский водозабор",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B6%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%B7%D0%B0%D0%B1%D0%BE%D1%80"
+    },
+    {
+      "id": 155,
+      "wikidata_id": "Q30888371",
+      "name_ru": "Нефтяной горячий",
+      "name_en": "",
+      "latitude": 43.2915,
+      "longitude": 46.1765,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%84%D1%82%D1%8F%D0%BD%D0%BE%D0%B9_%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%B9"
+    },
+    {
+      "id": 156,
+      "wikidata_id": "Q16680595",
+      "name_ru": "Нижне-Кошелевские парогидротермы",
+      "name_en": "",
+      "latitude": 51.3625,
+      "longitude": 156.634444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D0%BC%D1%83%D1%87%D0%B8%D0%B5_%D0%9A%D0%BB%D1%8E%D1%87%D0%B8"
+    },
+    {
+      "id": 157,
+      "wikidata_id": "Q4318711",
+      "name_ru": "Нижне-Опальские холодные минеральные источники",
+      "name_en": "",
+      "latitude": 52.4328,
+      "longitude": 157.3237,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B6%D0%BD%D0%B5-%D0%9E%D0%BF%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5_%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B8%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 158,
+      "wikidata_id": "Q4318712",
+      "name_ru": "Нижне-Паратунские источники",
+      "name_en": "",
+      "latitude": 52.9784,
+      "longitude": 158.2604,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B6%D0%BD%D0%B5-%D0%9F%D0%B0%D1%80%D0%B0%D1%82%D1%83%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 159,
+      "wikidata_id": "Q4318714",
+      "name_ru": "Нижне-Семячикские горячие источники",
+      "name_en": "",
+      "latitude": 54.2094,
+      "longitude": 160.0419,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B6%D0%BD%D0%B5-%D0%A1%D0%B5%D0%BC%D1%8F%D1%87%D0%B8%D0%BA%D1%81%D0%BA%D0%B8%D0%B5_%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 160,
+      "wikidata_id": "Q4320084",
+      "name_ru": "Никола-ключ",
+      "name_en": "Nikola-Klyuch",
+      "latitude": 56.794167,
+      "longitude": 43.558611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0-%D0%BA%D0%BB%D1%8E%D1%87"
+    },
+    {
+      "id": 161,
+      "wikidata_id": "Q99573372",
+      "name_ru": "Обручева (источник)",
+      "name_en": "",
+      "latitude": 44.681,
+      "longitude": 33.9065,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%80%D1%83%D1%87%D0%B5%D0%B2%D0%B0_(%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 162,
+      "wikidata_id": "Q4332062",
+      "name_ru": "Озерновские горячие источники",
+      "name_en": "",
+      "latitude": 51.5144,
+      "longitude": 156.7128,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B7%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 163,
+      "wikidata_id": "Q4332613",
+      "name_ru": "Оковецкий Ключ",
+      "name_en": "",
+      "latitude": 56.6631,
+      "longitude": 33.5056,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D0%BE%D0%B2%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%9A%D0%BB%D1%8E%D1%87"
+    },
+    {
+      "id": 164,
+      "wikidata_id": "Q4332890",
+      "name_ru": "Оксинские источники",
+      "name_en": "",
+      "latitude": 56.2852,
+      "longitude": 159.1831,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D1%81%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 165,
+      "wikidata_id": "Q17057190",
+      "name_ru": "Онежский родник",
+      "name_en": "Onezhsky Spring",
+      "latitude": 61.746605,
+      "longitude": 34.433798,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BD%D0%B5%D0%B6%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 166,
+      "wikidata_id": "Q4340091",
+      "name_ru": "Отряд (родник, Аннинский район)",
+      "name_en": "",
+      "latitude": 51.4347,
+      "longitude": 40.6538,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D1%80%D1%8F%D0%B4_(%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 167,
+      "wikidata_id": "Q122329409",
+      "name_ru": "Павло-чокрак",
+      "name_en": "Pavlo-Chokrak",
+      "latitude": 44.964167,
+      "longitude": 34.630278,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE-%D0%A7%D0%BE%D0%BA%D1%80%D0%B0%D0%BA"
+    },
+    {
+      "id": 168,
+      "wikidata_id": "Q4342441",
+      "name_ru": "Паланские геотермальные источники",
+      "name_en": "",
+      "latitude": 58.8451,
+      "longitude": 161.325,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%9A%D0%BB%D1%8E%D1%87%D0%B8"
+    },
+    {
+      "id": 169,
+      "wikidata_id": "Q4347145",
+      "name_ru": "Паужетские источники",
+      "name_en": "",
+      "latitude": 51.4635,
+      "longitude": 156.8083,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%83%D0%B6%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 170,
+      "wikidata_id": "Q122661796",
+      "name_ru": "Петровский фонтан",
+      "name_en": "Petrovsky fountain (Ceshme Kalga-Sarayu)",
+      "latitude": 44.947778,
+      "longitude": 34.116389,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D0%BE%D0%BD%D1%82%D0%B0%D0%BD"
+    },
+    {
+      "id": 171,
+      "wikidata_id": "Q135257518",
+      "name_ru": "Питателевский источник",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 172,
+      "wikidata_id": "Q21643974",
+      "name_ru": "Подземные водозаборы Северо-Крымского канала",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B4%D0%B7%D0%B5%D0%BC%D0%BD%D1%8B%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D0%B7%D0%B0%D0%B1%D0%BE%D1%80%D1%8B_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BE-%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0"
+    },
+    {
+      "id": 173,
+      "wikidata_id": "Q30888892",
+      "name_ru": "Псынашхибль",
+      "name_en": "Psinashkhibl",
+      "latitude": 43.7344,
+      "longitude": 42.9964,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%81%D1%8B%D0%BD%D0%B0%D1%88%D1%85%D0%B8%D0%B1%D0%BB%D1%8C"
+    },
+    {
+      "id": 174,
+      "wikidata_id": "Q4384895",
+      "name_ru": "Пущинские источники",
+      "name_en": "Puschinskie",
+      "latitude": 54.05,
+      "longitude": 158.05,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5"
+    },
+    {
+      "id": 175,
+      "wikidata_id": "Q18408808",
+      "name_ru": "Пыкелюнвээмские источники",
+      "name_en": "",
+      "latitude": 66.1429,
+      "longitude": -170.2695,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%8B%D0%BA%D0%B5%D0%BB%D1%8E%D0%BD%D0%B2%D1%8D%D1%8D%D0%BC%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 176,
+      "wikidata_id": "Q35506261",
+      "name_ru": "Родник Аршан",
+      "name_en": "Rodnik Arshan",
+      "latitude": 51.988889,
+      "longitude": 110.085278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 177,
+      "wikidata_id": "Q35506389",
+      "name_ru": "Родник Барминцев",
+      "name_en": "Rodnik Barmintsev",
+      "latitude": 53.160556,
+      "longitude": 56.403889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 178,
+      "wikidata_id": "Q35506488",
+      "name_ru": "Родник Бездонный",
+      "name_en": "Rodnik Bezdonnyy",
+      "latitude": 44.003889,
+      "longitude": 42.475833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 179,
+      "wikidata_id": "Q35506511",
+      "name_ru": "Родник Большой",
+      "name_en": "Rodnik Bol'shoy",
+      "latitude": 52.578333,
+      "longitude": 59.100833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 180,
+      "wikidata_id": "Q35509175",
+      "name_ru": "Родник Воробьёв",
+      "name_en": "Rodnik Vorob'yëv",
+      "latitude": 52.515,
+      "longitude": 59.748889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 181,
+      "wikidata_id": "Q35506948",
+      "name_ru": "Родник Гани-Мотон-Булак",
+      "name_en": "Rodnik Gani-Moton-Bulak",
+      "latitude": 50.086389,
+      "longitude": 95.645833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 182,
+      "wikidata_id": "Q35507006",
+      "name_ru": "Родник Голова",
+      "name_en": "Rodnik Golova",
+      "latitude": 50.786389,
+      "longitude": 118.251111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 183,
+      "wikidata_id": "Q35507047",
+      "name_ru": "Родник Гремучий",
+      "name_en": "Rodnik Gremuchiy",
+      "latitude": 44.948333,
+      "longitude": 42.080833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 184,
+      "wikidata_id": "Q35506681",
+      "name_ru": "Родник Дэлюн-Булак",
+      "name_en": "Rodnik Delyun-Bulak",
+      "latitude": 51.152778,
+      "longitude": 115.045833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 185,
+      "wikidata_id": "Q35509464",
+      "name_ru": "Родник Зола-Булак",
+      "name_en": "Rodnik Zola-Bulak",
+      "latitude": 51.336389,
+      "longitude": 108.264722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 186,
+      "wikidata_id": "Q35507146",
+      "name_ru": "Родник Ильнач",
+      "name_en": "Rodnik Il'nach",
+      "latitude": 54.731944,
+      "longitude": 56.237222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 187,
+      "wikidata_id": "Q35507516",
+      "name_ru": "Родник Казачий",
+      "name_en": "Rodnik Kazachiy",
+      "latitude": 44.836944,
+      "longitude": 42.925,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 188,
+      "wikidata_id": "Q35507772",
+      "name_ru": "Родник Кордон",
+      "name_en": "Rodnik Kordon",
+      "latitude": 52.932222,
+      "longitude": 55.646667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 189,
+      "wikidata_id": "Q35507973",
+      "name_ru": "Родник Лохматы",
+      "name_en": "Rodnik Lokhmaty",
+      "latitude": 50.766944,
+      "longitude": 110.278889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 190,
+      "wikidata_id": "Q35508142",
+      "name_ru": "Родник Молочный",
+      "name_en": "Rodnik Molochnyy",
+      "latitude": 50.740278,
+      "longitude": 118.427778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 191,
+      "wikidata_id": "Q4395907",
+      "name_ru": "Родник Наполеона",
+      "name_en": "",
+      "latitude": 54.6125,
+      "longitude": 21.247,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA_%D0%9D%D0%B0%D0%BF%D0%BE%D0%BB%D0%B5%D0%BE%D0%BD%D0%B0"
+    },
+    {
+      "id": 192,
+      "wikidata_id": "Q35508295",
+      "name_ru": "Родник Песчаный",
+      "name_en": "Rodnik Peschanyy",
+      "latitude": 52.524167,
+      "longitude": 59.8775,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 193,
+      "wikidata_id": "Q35508344",
+      "name_ru": "Родник Поповский Ключ",
+      "name_en": "Rodnik Popovskiy Klyuch",
+      "latitude": 50.496667,
+      "longitude": 119.1675,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 194,
+      "wikidata_id": "Q35508391",
+      "name_ru": "Родник Роглазумтлин",
+      "name_en": "Rodnik Roglazumtlin",
+      "latitude": 42.676667,
+      "longitude": 46.087222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 195,
+      "wikidata_id": "Q28860570",
+      "name_ru": "Родник Салых-Су",
+      "name_en": "Salykh-Su",
+      "latitude": 47.287748,
+      "longitude": 39.488003,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D1%8B%D1%85-%D0%A1%D1%83"
+    },
+    {
+      "id": 196,
+      "wikidata_id": "Q35508455",
+      "name_ru": "Родник Сальтиту",
+      "name_en": "Rodnik Sal'titu",
+      "latitude": 50.380556,
+      "longitude": 117.035278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 197,
+      "wikidata_id": "Q35508851",
+      "name_ru": "Родник Светлый Колодец",
+      "name_en": "Rodnik Svetlyy Kolodets",
+      "latitude": 53.215278,
+      "longitude": 59.431389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 198,
+      "wikidata_id": "Q35508873",
+      "name_ru": "Родник Святой Колодец",
+      "name_en": "Rodnik Svyatoy Kolodets",
+      "latitude": 44.966111,
+      "longitude": 41.919444,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 199,
+      "wikidata_id": "Q35508718",
+      "name_ru": "Родник Сладкий",
+      "name_en": "Rodnik Sladkiy",
+      "latitude": 44.901389,
+      "longitude": 42.168333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 200,
+      "wikidata_id": "Q35508723",
+      "name_ru": "Родник Солдатский",
+      "name_en": "Rodnik Soldatskiy",
+      "latitude": 50.522222,
+      "longitude": 117.824722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 201,
+      "wikidata_id": "Q35508770",
+      "name_ru": "Родник Студенец",
+      "name_en": "Rodnik Studenets",
+      "latitude": 55.553056,
+      "longitude": 43.291944,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 202,
+      "wikidata_id": "Q35508932",
+      "name_ru": "Родник Тасбулак",
+      "name_en": "Rodnik Tasbulak",
+      "latitude": 50.970833,
+      "longitude": 60.273056,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 203,
+      "wikidata_id": "Q35507677",
+      "name_ru": "Родник Холодный",
+      "name_en": "Rodnik Kholodnyy",
+      "latitude": 44.417222,
+      "longitude": 40.315,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 204,
+      "wikidata_id": "Q106239876",
+      "name_ru": "Родник Хыусыккан",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 205,
+      "wikidata_id": "Q35506886",
+      "name_ru": "Родник Эке-Булаг",
+      "name_en": "Rodnik Eke-Bulag",
+      "latitude": 50.389722,
+      "longitude": 117.051111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 206,
+      "wikidata_id": "Q20870884",
+      "name_ru": "Родник в окрестностях села Чубовка",
+      "name_en": "Water spring in Chubovka",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA_%D0%B2_%D0%BE%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8F%D1%85_%D1%81%D0%B5%D0%BB%D0%B0_%D0%A7%D1%83%D0%B1%D0%BE%D0%B2%D0%BA%D0%B0"
+    },
+    {
+      "id": 207,
+      "wikidata_id": "Q97577539",
+      "name_ru": "Родник в урочище Петровская Дача",
+      "name_en": "Spring in Petrovskaya Dacha",
+      "latitude": 51.1421,
+      "longitude": 36.9775,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA_%D0%B2_%D1%83%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B5_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%94%D0%B0%D1%87%D0%B0"
+    },
+    {
+      "id": 208,
+      "wikidata_id": "Q136651364",
+      "name_ru": "Родник и озеро в Битцевском лесу",
+      "name_en": "",
+      "latitude": 55.5931,
+      "longitude": 37.5581,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 209,
+      "wikidata_id": "Q108769898",
+      "name_ru": "Родник у железнодорожной платформы «Красногорская»",
+      "name_en": "Krasnogorsk station spring",
+      "latitude": 55.81336,
+      "longitude": 37.30443,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA_%D1%83_%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D0%BE%D0%B9_%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D1%8B_%C2%AB%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F%C2%BB"
+    },
+    {
+      "id": 210,
+      "wikidata_id": "Q120651317",
+      "name_ru": "Родник церкви Сурб Хач",
+      "name_en": "Surb Khach spring (Rostov-on-Don)",
+      "latitude": 47.290814,
+      "longitude": 39.723566,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%A1%D1%83%D1%80%D0%B1_%D0%A5%D0%B0%D1%87"
+    },
+    {
+      "id": 211,
+      "wikidata_id": "Q35509673",
+      "name_ru": "Романовский Ключ",
+      "name_en": "Romanovskiy Klyuch",
+      "latitude": 55.7725,
+      "longitude": 84.850278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 212,
+      "wikidata_id": "Q4400235",
+      "name_ru": "Русаковские источники",
+      "name_en": "Rusakovskie Hot Springs",
+      "latitude": 58.518611,
+      "longitude": 161.276389,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D0%B0%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 213,
+      "wikidata_id": "Q4402155",
+      "name_ru": "Рычалсу",
+      "name_en": "",
+      "latitude": 41.7004,
+      "longitude": 48.0205,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A0%D1%8B%D1%87%D0%B0%D0%BB%D1%81%D1%83"
+    },
+    {
+      "id": 214,
+      "wikidata_id": "Q4403668",
+      "name_ru": "Саванские источники",
+      "name_en": "",
+      "latitude": 52.2447,
+      "longitude": 157.3544,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B2%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 215,
+      "wikidata_id": "Q4404165",
+      "name_ru": "Савлух-Су (источник)",
+      "name_en": "",
+      "latitude": 44.664167,
+      "longitude": 34.269167,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B2%D0%BB%D1%83%D1%85-%D0%A1%D1%83"
+    },
+    {
+      "id": 216,
+      "wikidata_id": "Q4405954",
+      "name_ru": "Салолейка",
+      "name_en": "Forty springs",
+      "latitude": 53.654,
+      "longitude": 43.8115,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D0%BE%D0%BB%D0%B5%D0%B9%D0%BA%D0%B0"
+    },
+    {
+      "id": 217,
+      "wikidata_id": "Q47496585",
+      "name_ru": "Саурган",
+      "name_en": "",
+      "latitude": 44.7271,
+      "longitude": 34.3006,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%83%D1%80%D0%B3%D0%B0%D0%BD"
+    },
+    {
+      "id": 218,
+      "wikidata_id": "Q35512791",
+      "name_ru": "Саянский Ключ",
+      "name_en": "Sayanskiy Klyuch",
+      "latitude": 55.766389,
+      "longitude": 84.825556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 219,
+      "wikidata_id": "Q86669391",
+      "name_ru": "Свиридов родник",
+      "name_en": "",
+      "latitude": 53.1221,
+      "longitude": 54.792,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B8%D1%80%D0%B8%D0%B4%D0%BE%D0%B2_%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 220,
+      "wikidata_id": "Q111803960",
+      "name_ru": "Святой источник Почаевской Божией Матери",
+      "name_en": "Spring of the Theotokos of Pochayiv",
+      "latitude": 49.5453,
+      "longitude": 43.7417,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 221,
+      "wikidata_id": "Q135485830",
+      "name_ru": "Святой ключ",
+      "name_en": "Holy Well",
+      "latitude": 55.00915,
+      "longitude": 50.34035,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 222,
+      "wikidata_id": "Q18400413",
+      "name_ru": "Сенявинские источники",
+      "name_en": "",
+      "latitude": 64.737,
+      "longitude": -172.8558,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D1%8F%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 223,
+      "wikidata_id": "Q108829677",
+      "name_ru": "Серна",
+      "name_en": "",
+      "latitude": 44.7556,
+      "longitude": 34.333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%BD%D0%B0_(%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 224,
+      "wikidata_id": "Q4418528",
+      "name_ru": "Сивучинсие горячие истоники",
+      "name_en": "",
+      "latitude": 51.3481,
+      "longitude": 156.5845,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B2%D1%83%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 225,
+      "wikidata_id": "Q99512283",
+      "name_ru": "Скельский источник",
+      "name_en": "Skelskiy source",
+      "latitude": 44.463889,
+      "longitude": 33.859722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 226,
+      "wikidata_id": "Q86662428",
+      "name_ru": "Скоттат",
+      "name_en": "",
+      "latitude": 42.9454,
+      "longitude": 43.8064,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%BE%D1%82%D1%82%D0%B0%D1%82"
+    },
+    {
+      "id": 227,
+      "wikidata_id": "Q114083321",
+      "name_ru": "Словенские ключи",
+      "name_en": "Slovensky Springs",
+      "latitude": 57.7146,
+      "longitude": 27.8598,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BA%D0%BB%D1%8E%D1%87%D0%B8"
+    },
+    {
+      "id": 228,
+      "wikidata_id": "Q17057340",
+      "name_ru": "Соляная яма",
+      "name_en": "",
+      "latitude": 62.26883,
+      "longitude": 35.04052,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D1%8F%D0%BD%D0%B0%D1%8F_%D1%8F%D0%BC%D0%B0_(%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 229,
+      "wikidata_id": "Q30888467",
+      "name_ru": "Солёный родник",
+      "name_en": "",
+      "latitude": 43.0235,
+      "longitude": 45.5828,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D1%91%D0%BD%D1%8B%D0%B9_%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 230,
+      "wikidata_id": "Q4438480",
+      "name_ru": "Средне-Паратунские источники",
+      "name_en": "",
+      "latitude": 52.9172,
+      "longitude": 158.2293,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B5-%D0%9F%D0%B0%D1%80%D0%B0%D1%82%D1%83%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 231,
+      "wikidata_id": "Q108829675",
+      "name_ru": "Старый Су-Ат",
+      "name_en": "",
+      "latitude": 44.7697,
+      "longitude": 34.2688,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9_%D0%A1%D1%83-%D0%90%D1%82"
+    },
+    {
+      "id": 232,
+      "wikidata_id": "Q4443123",
+      "name_ru": "Сторожевские источники",
+      "name_en": "",
+      "latitude": 55.1951,
+      "longitude": 160.6787,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 233,
+      "wikidata_id": "Q102825912",
+      "name_ru": "Суан-Чокрак",
+      "name_en": "Suan-Cokrak",
+      "latitude": 44.656667,
+      "longitude": 34.346667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%B0%D0%BD-%D0%A7%D0%BE%D0%BA%D1%80%D0%B0%D0%BA"
+    },
+    {
+      "id": 234,
+      "wikidata_id": "Q136498791",
+      "name_ru": "Суарские минеральные источники",
+      "name_en": "",
+      "latitude": 43.010356,
+      "longitude": 44.039868,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B5_%D0%BC%D0%B8%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 235,
+      "wikidata_id": "Q48066330",
+      "name_ru": "Суат (источник)",
+      "name_en": "Source Suat",
+      "latitude": 44.51861,
+      "longitude": 34.12833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%B0%D1%82_(%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 236,
+      "wikidata_id": "Q4444934",
+      "name_ru": "Субашские источники",
+      "name_en": "",
+      "latitude": 45.096944,
+      "longitude": 35.11,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%B1%D0%B0%D1%88%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 237,
+      "wikidata_id": "Q17057197",
+      "name_ru": "Сулажгорский родник",
+      "name_en": "Sulazhgorsky Spring",
+      "latitude": 61.794032,
+      "longitude": 34.27275,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%BB%D0%B0%D0%B6%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 238,
+      "wikidata_id": "Q135271413",
+      "name_ru": "Сухинская терма",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D1%85%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%82%D0%B5%D1%80%D0%BC%D0%B0"
+    },
+    {
+      "id": 239,
+      "wikidata_id": "Q132171380",
+      "name_ru": "Таицкие ключи",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 240,
+      "wikidata_id": "Q4450539",
+      "name_ru": "Талма (родник)",
+      "name_en": "Talma",
+      "latitude": 44.629772,
+      "longitude": 34.322638,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BB%D0%BC%D0%B0"
+    },
+    {
+      "id": 241,
+      "wikidata_id": "Q16656458",
+      "name_ru": "Текучий",
+      "name_en": "Tekuchiy spring",
+      "latitude": 49.2206,
+      "longitude": 43.5737,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BA%D1%83%D1%87%D0%B8%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 242,
+      "wikidata_id": "Q4457536",
+      "name_ru": "Тимоновские источники",
+      "name_en": "Timonovskiye Hot Springs",
+      "latitude": 53.806944,
+      "longitude": 158.165833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 243,
+      "wikidata_id": "Q127420603",
+      "name_ru": "Тобе-Чокрак",
+      "name_en": "",
+      "latitude": 45.0489,
+      "longitude": 33.9542,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%B1%D0%B5-%D0%A7%D0%BE%D0%BA%D1%80%D0%B0%D0%BA_(%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 244,
+      "wikidata_id": "Q113816307",
+      "name_ru": "Травертиновый источник в Русской лесной даче",
+      "name_en": "",
+      "latitude": 45.0471,
+      "longitude": 41.8925,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 245,
+      "wikidata_id": "Q16707440",
+      "name_ru": "Три Ивана",
+      "name_en": "",
+      "latitude": 62.435637,
+      "longitude": 34.879167,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8_%D0%98%D0%B2%D0%B0%D0%BD%D0%B0"
+    },
+    {
+      "id": 246,
+      "wikidata_id": "Q28169452",
+      "name_ru": "Туманные источники",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%BC%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 247,
+      "wikidata_id": "Q4465427",
+      "name_ru": "Тумрокские горячие источники",
+      "name_en": "",
+      "latitude": 54.666667,
+      "longitude": 161,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%BC%D1%80%D0%BE%D0%BA%D1%81%D0%BA%D0%B8%D0%B5_%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 248,
+      "wikidata_id": "Q4467046",
+      "name_ru": "Тымлатские источники",
+      "name_en": "",
+      "latitude": 59.5781,
+      "longitude": 162.4908,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%8B%D0%BC%D0%BB%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 249,
+      "wikidata_id": "Q4467339",
+      "name_ru": "Тюба (источник)",
+      "name_en": "Tyuba",
+      "latitude": 55.449863,
+      "longitude": 56.6643,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%8E%D0%B1%D0%B0_(%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 250,
+      "wikidata_id": "Q4467806",
+      "name_ru": "Тюшевские источники",
+      "name_en": "",
+      "latitude": 54.744809,
+      "longitude": 161.249914,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%8E%D1%88%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 251,
+      "wikidata_id": "Q39212314",
+      "name_ru": "Тёплый",
+      "name_en": "",
+      "latitude": 49.911111,
+      "longitude": 111.184444,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 252,
+      "wikidata_id": "Q65159807",
+      "name_ru": "Тёплый Ключ",
+      "name_en": "Tyoply Klyuch",
+      "latitude": 49.458333,
+      "longitude": 88.052778,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%91%D0%BF%D0%BB%D1%8B%D0%B9_%D0%9A%D0%BB%D1%8E%D1%87_(%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 253,
+      "wikidata_id": "Q4469897",
+      "name_ru": "Узонские источники",
+      "name_en": "",
+      "latitude": 54.5053,
+      "longitude": 159.9873,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B7%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 254,
+      "wikidata_id": "Q116217755",
+      "name_ru": "Уржумские минеральные источники",
+      "name_en": "",
+      "latitude": 55.3825,
+      "longitude": 55.907778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 255,
+      "wikidata_id": "Q116446627",
+      "name_ru": "Усольский соляной источник",
+      "name_en": "",
+      "latitude": 52.766174,
+      "longitude": 103.675879,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 256,
+      "wikidata_id": "Q4491755",
+      "name_ru": "Фонтан Савопуло",
+      "name_en": "Fontaine Savopulo",
+      "latitude": 44.952741,
+      "longitude": 34.105155,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BD%D1%82%D0%B0%D0%BD_%D0%A1%D0%B0%D0%B2%D0%BE%D0%BF%D1%83%D0%BB%D0%BE"
+    },
+    {
+      "id": 257,
+      "wikidata_id": "Q20095956",
+      "name_ru": "Фонтаны монастыря Сурб-Хач",
+      "name_en": "Surb Khach of Solkhat - fountains",
+      "latitude": 45.000883,
+      "longitude": 35.062447,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BD%D1%82%D0%B0%D0%BD%D1%8B_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8F_%D0%A1%D1%83%D1%80%D0%B1-%D0%A5%D0%B0%D1%87"
+    },
+    {
+      "id": 258,
+      "wikidata_id": "Q108829687",
+      "name_ru": "Хаста-Баш",
+      "name_en": "",
+      "latitude": 44.4407,
+      "longitude": 34.0578,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%81%D1%82%D0%B0-%D0%91%D0%B0%D1%88_(%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 259,
+      "wikidata_id": "Q108829685",
+      "name_ru": "Хачамар",
+      "name_en": "",
+      "latitude": 44.7706,
+      "longitude": 34.4688,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%87%D0%B0%D0%BC%D0%B0%D1%80"
+    },
+    {
+      "id": 260,
+      "wikidata_id": "Q4498813",
+      "name_ru": "Ходуткинские горячие источники",
+      "name_en": "Khodutkinskie Springs",
+      "latitude": 52.1086,
+      "longitude": 157.66,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%B4%D1%83%D1%82%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 261,
+      "wikidata_id": "Q132526907",
+      "name_ru": "Холмечский родник",
+      "name_en": "",
+      "latitude": 52.503023,
+      "longitude": 34.343945,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 262,
+      "wikidata_id": "Q4499352",
+      "name_ru": "Холодный Ключ (родник, Аннинский район)",
+      "name_en": "",
+      "latitude": 51.4225,
+      "longitude": 40.6539,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%9A%D0%BB%D1%8E%D1%87_(%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA,_%D0%90%D0%BD%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD)"
+    },
+    {
+      "id": 263,
+      "wikidata_id": "Q4502612",
+      "name_ru": "Хухлотваямские источники",
+      "name_en": "",
+      "latitude": 58.551,
+      "longitude": 161.2942,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D1%83%D1%85%D0%BB%D0%BE%D1%82%D0%B2%D0%B0%D1%8F%D0%BC%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 264,
+      "wikidata_id": "Q16723397",
+      "name_ru": "Чабан-Чокрак (источник)",
+      "name_en": "",
+      "latitude": 44.771167,
+      "longitude": 34.424639,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D0%B1%D0%B0%D0%BD-%D0%A7%D0%BE%D0%BA%D1%80%D0%B0%D0%BA_(%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 265,
+      "wikidata_id": "Q65158878",
+      "name_ru": "Чаган-Узунский источник",
+      "name_en": "",
+      "latitude": 50.0978,
+      "longitude": 88.3779,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D0%B3%D0%B0%D0%BD-%D0%A3%D0%B7%D1%83%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 266,
+      "wikidata_id": "Q30888551",
+      "name_ru": "Чанты-Аргунский пресный источник",
+      "name_en": "",
+      "latitude": 42.942,
+      "longitude": 45.717,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D0%BD%D1%82%D1%8B-%D0%90%D1%80%D0%B3%D1%83%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%B5%D1%81%D0%BD%D1%8B%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 267,
+      "wikidata_id": "Q18405848",
+      "name_ru": "Чаплинские источники",
+      "name_en": "",
+      "latitude": 64.4334,
+      "longitude": -172.5216,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D0%BF%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 268,
+      "wikidata_id": "Q108829682",
+      "name_ru": "Чаш-Бурна",
+      "name_en": "",
+      "latitude": 44.6763,
+      "longitude": 34.3279,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D1%88-%D0%91%D1%83%D1%80%D0%BD%D0%B0"
+    },
+    {
+      "id": 269,
+      "wikidata_id": "Q97162830",
+      "name_ru": "Чобан-Суат",
+      "name_en": "",
+      "latitude": 44.902,
+      "longitude": 34.36,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%BE%D0%B1%D0%B0%D0%BD-%D0%A1%D1%83%D0%B0%D1%82"
+    },
+    {
+      "id": 270,
+      "wikidata_id": "Q30889844",
+      "name_ru": "Чулышманский источник",
+      "name_en": "Chulyshman Spring",
+      "latitude": 51.338611,
+      "longitude": 87.743333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D1%83%D0%BB%D1%8B%D1%88%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 271,
+      "wikidata_id": "Q86679250",
+      "name_ru": "Шадринское месторождение минеральных вод",
+      "name_en": "",
+      "latitude": 56.1008,
+      "longitude": 63.5511,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B4%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BC%D0%B8%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D0%B2%D0%BE%D0%B4"
+    },
+    {
+      "id": 272,
+      "wikidata_id": "Q4519413",
+      "name_ru": "Шайбинские источники",
+      "name_en": "",
+      "latitude": 53.5355,
+      "longitude": 158.8282,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B9%D0%B1%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 273,
+      "wikidata_id": "Q21645682",
+      "name_ru": "Шаляпинский родник",
+      "name_en": "",
+      "latitude": 55.585,
+      "longitude": 37.3357,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%BB%D1%8F%D0%BF%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 274,
+      "wikidata_id": "Q4527672",
+      "name_ru": "Шумакские источники",
+      "name_en": "Shumak Springs",
+      "latitude": 51.965833,
+      "longitude": 101.866667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D1%83%D0%BC%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 275,
+      "wikidata_id": "Q4294166",
+      "name_ru": "Шумнинские минеральные источники",
+      "name_en": "",
+      "latitude": 53.4227,
+      "longitude": 158.7418,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BD%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A8%D1%83%D0%BC%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5"
+    },
+    {
+      "id": 276,
+      "wikidata_id": "Q20819257",
+      "name_ru": "Шёнбруннские родники",
+      "name_en": "Schonbrunn Springs",
+      "latitude": 48.506389,
+      "longitude": 44.508611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D1%91%D0%BD%D0%B1%D1%80%D1%83%D0%BD%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 277,
+      "wikidata_id": "Q123484778",
+      "name_ru": "Эмиров родник",
+      "name_en": "",
+      "latitude": 44.783889,
+      "longitude": 33.993056,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BC%D0%B8%D1%80%D0%BE%D0%B2_%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 278,
+      "wikidata_id": "Q109288696",
+      "name_ru": "Эпсари",
+      "name_en": "",
+      "latitude": 44.573889,
+      "longitude": 34.129444,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 279,
+      "wikidata_id": "Q109288564",
+      "name_ru": "Эпсари",
+      "name_en": "",
+      "latitude": 44.573889,
+      "longitude": 34.129444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BF%D1%81%D0%B0%D1%80%D0%B8"
+    },
+    {
+      "id": 280,
+      "wikidata_id": "Q30888385",
+      "name_ru": "Эпхе",
+      "name_en": "",
+      "latitude": 43.325,
+      "longitude": 46.2,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BF%D1%85%D0%B5"
+    },
+    {
+      "id": 281,
+      "wikidata_id": "Q108829681",
+      "name_ru": "Эски-Кайнун-Су",
+      "name_en": "",
+      "latitude": 44.7533,
+      "longitude": 34.3932,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AD%D1%81%D0%BA%D0%B8_%D0%9A%D0%B0%D0%B9%D0%BD%D1%83%D0%BD-%D0%A1%D1%83"
+    },
+    {
+      "id": 282,
+      "wikidata_id": "Q4532817",
+      "name_ru": "Эссовские источники",
+      "name_en": "Esso wells",
+      "latitude": 55.925278,
+      "longitude": 158.716389,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AD%D1%81%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 283,
+      "wikidata_id": "Q30889055",
+      "name_ru": "Янтарненские термальные источники",
+      "name_en": "",
+      "latitude": 43.7547,
+      "longitude": 43.8807,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AF%D0%BD%D1%82%D0%B0%D1%80%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D1%82%D0%B5%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 284,
+      "wikidata_id": "Q4204390",
+      "name_ru": "исток Волги",
+      "name_en": "Volga source",
+      "latitude": 57.25133,
+      "longitude": 32.46797,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D0%BA_%D0%92%D0%BE%D0%BB%D0%B3%D0%B8"
+    },
+    {
+      "id": 285,
+      "wikidata_id": "Q121367297",
+      "name_ru": "родник из трубы в Берёзовском ущелье",
+      "name_en": "Tube Spring at Beryozovsky gorge",
+      "latitude": 43.878153,
+      "longitude": 42.685664,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 286,
+      "wikidata_id": "Q123820671",
+      "name_ru": "скважина «Рождественская»",
+      "name_en": "",
+      "latitude": 45.024486,
+      "longitude": 38.904564,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 287,
+      "wikidata_id": "Q123820942",
+      "name_ru": "скважина питьевой воды у церкви Матроны Московской в Немецкой деревне",
+      "name_en": "",
+      "latitude": 45.121389,
+      "longitude": 38.923403,
+      "wikipedia_ru": ""
+    }
+  ],
+  "meta": {
+    "title": "Родники и источники России - Бесплатная загрузка",
+    "description": "Список природных водных объектов класса «источник» (родник), расположенных в России. Источник — Wikidata через публичный SPARQL-эндпоинт (instance of/subclass of Q124714, страна Россия Q159). Для каждого объекта приведены русское название (rdfs:label@ru), английское название, географические координаты (WGS84, P625) и ссылка на статью русской Википедии. Записи отсортированы по алфавиту русского названия. Записи без русскоязычной (кириллической) этикетки отфильтрованы согласно правилу проекта о сохранении родного текста. Всего 287 уникальных QID; координаты доступны для 274. Содержит 287 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Родники и источники России | ListBase",
+    "seo_description": "Скачать Родники и источники России — 287 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 287 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

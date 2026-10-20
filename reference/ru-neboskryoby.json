@@ -1,0 +1,456 @@
+{
+  "id": "ru-neboskryoby",
+  "name": "Skyscrapers in Russia",
+  "title": "Skyscrapers in Russia",
+  "description": "Skyscrapers in Russia with coordinates, sourced from Wikidata (CC0).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ru",
+      "label": "Name Ru",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ru",
+      "label": "Admin Area Ru",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q111668839",
+      "name_ru": "башня «Восток»",
+      "name_en": "Tower Vostok",
+      "admin_area_ru": "",
+      "admin_area_en": "",
+      "latitude": 55.749861111,
+      "longitude": 37.537777777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111668839"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q111668840",
+      "name_ru": "башня «Запад»",
+      "name_en": "Tower Zapad",
+      "admin_area_ru": "",
+      "admin_area_en": "",
+      "latitude": 55.749416666,
+      "longitude": 37.537,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111668840"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q112222333",
+      "name_ru": "Wellton Towers",
+      "name_en": "Wellton Towers",
+      "admin_area_ru": "",
+      "admin_area_en": "",
+      "latitude": 55.773662,
+      "longitude": 37.474336,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112222333"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q127070187",
+      "name_ru": "Пресня-Сити",
+      "name_en": "Presnya City",
+      "admin_area_ru": "Пресненский район",
+      "admin_area_en": "Presnensky District",
+      "latitude": 55.7705,
+      "longitude": 37.5645,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q127070187"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q131395684",
+      "name_ru": "Первая башня",
+      "name_en": "The First Tower",
+      "admin_area_ru": "Красноярск",
+      "admin_area_en": "Krasnoyarsk",
+      "latitude": 56.0435,
+      "longitude": 92.908,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131395684"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q133707944",
+      "name_ru": "здание КАТЭК НИИ  Уголь",
+      "name_en": "",
+      "admin_area_ru": "Красноярск",
+      "admin_area_en": "Krasnoyarsk",
+      "latitude": 56.014,
+      "longitude": 92.893,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q133707944"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q133708567",
+      "name_ru": "здание управления Енисейского речного пароходства",
+      "name_en": "",
+      "admin_area_ru": "Красноярск",
+      "admin_area_en": "Krasnoyarsk",
+      "latitude": 56.0084,
+      "longitude": 92.8745,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q133708567"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q134308376",
+      "name_ru": "Зиларт Тауэр",
+      "name_en": "Zilart Tower",
+      "admin_area_ru": "Даниловский район",
+      "admin_area_en": "Danilovsky District",
+      "latitude": 55.699072,
+      "longitude": 37.640731,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134308376"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q134672288",
+      "name_ru": "Five Towers",
+      "name_en": "Five Towers",
+      "admin_area_ru": "Донской район",
+      "admin_area_en": "Donskoy District",
+      "latitude": 55.703125,
+      "longitude": 37.592773,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134672288"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q1374287",
+      "name_ru": "Евразия (здание ММДЦ)",
+      "name_en": "Eurasia",
+      "admin_area_ru": "Москва",
+      "admin_area_en": "Moscow",
+      "latitude": 55.748823,
+      "longitude": 37.535304,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1374287"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q138616537",
+      "name_ru": "Диспетчерский центр управления перевозками",
+      "name_en": "",
+      "admin_area_ru": "Екатеринбург",
+      "admin_area_en": "Yekaterinburg",
+      "latitude": 56.8554,
+      "longitude": 60.5987,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138616537"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q16250343",
+      "name_ru": "Ахмат Тауэр",
+      "name_en": "Akhmat Tower",
+      "admin_area_ru": "Грозный",
+      "admin_area_en": "Grozny",
+      "latitude": 43.3137,
+      "longitude": 45.6952,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16250343"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q1923811",
+      "name_ru": "Стражи Урала",
+      "name_en": "Guardians of the Urals",
+      "admin_area_ru": "Екатеринбург",
+      "admin_area_en": "Yekaterinburg",
+      "latitude": 56.835438888,
+      "longitude": 60.575575,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1923811"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q1985903",
+      "name_ru": "Evolution Tower",
+      "name_en": "Evolution Tower",
+      "admin_area_ru": "Москва",
+      "admin_area_en": "Moscow",
+      "latitude": 55.74847,
+      "longitude": 37.541827,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1985903"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q1992056",
+      "name_ru": "Высотное здание на площади Красных Ворот",
+      "name_en": "Red Gate Building",
+      "admin_area_ru": "Красносельский район",
+      "admin_area_en": "Krasnoselsky District",
+      "latitude": 55.7693928,
+      "longitude": 37.64953442,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1992056"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q21026850",
+      "name_ru": "Neva Towers",
+      "name_en": "Neva Towers",
+      "admin_area_ru": "Московский международный деловой центр",
+      "admin_area_en": "Moscow International Business Center",
+      "latitude": 55.75138889,
+      "longitude": 37.53444444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21026850"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q21644828",
+      "name_ru": "Уралсиб",
+      "name_en": "Uralsib",
+      "admin_area_ru": "Уфа",
+      "admin_area_en": "Ufa",
+      "latitude": 54.73667,
+      "longitude": 55.94972,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q21644828"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q2379770",
+      "name_ru": "Башня 2000",
+      "name_en": "Tower 2000",
+      "admin_area_ru": "Москва",
+      "admin_area_en": "Moscow",
+      "latitude": 55.7464,
+      "longitude": 37.5461,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2379770"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q2493262",
+      "name_ru": "Комплекс «Imperia Tower»",
+      "name_en": "Imperia Tower",
+      "admin_area_ru": "Москва",
+      "admin_area_en": "Moscow",
+      "latitude": 55.7475,
+      "longitude": 37.540833333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2493262"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q28053434",
+      "name_ru": "Capital Towers",
+      "name_en": "Capital Towers",
+      "admin_area_ru": "Москва",
+      "admin_area_en": "Moscow",
+      "latitude": 55.751489,
+      "longitude": 37.548586,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28053434"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q32361114",
+      "name_ru": "Moscow Towers",
+      "name_en": "Moscow Towers",
+      "admin_area_ru": "Москва",
+      "admin_area_en": "Moscow",
+      "latitude": 55.75098,
+      "longitude": 37.540914,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q32361114"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q3954120",
+      "name_ru": "Здание Министерства иностранных дел России",
+      "name_en": "Ministry of Foreign Affairs of Russia main building",
+      "admin_area_ru": "Арбат",
+      "admin_area_en": "Arbat District",
+      "latitude": 55.745833333,
+      "longitude": 37.584166666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3954120"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q4057816",
+      "name_ru": "Административное здание в Зарядье",
+      "name_en": "Eighth Sister",
+      "admin_area_ru": "Зарядье",
+      "admin_area_en": "Zaryadye",
+      "latitude": 55.751388888,
+      "longitude": 37.628888888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4057816"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q4063260",
+      "name_ru": "Алые Паруса",
+      "name_en": "Alye Parusa",
+      "admin_area_ru": "Москва",
+      "admin_area_en": "Moscow",
+      "latitude": 55.806388888,
+      "longitude": 37.449444444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4063260"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q4080245",
+      "name_ru": "Башня Исеть",
+      "name_en": "Iset Tower",
+      "admin_area_ru": "Екатеринбург",
+      "admin_area_en": "Yekaterinburg",
+      "latitude": 56.843461,
+      "longitude": 60.590622,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4080245"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q4255374",
+      "name_ru": "Лахта-центр",
+      "name_en": "Lakhta Centre",
+      "admin_area_ru": "Санкт-Петербург",
+      "admin_area_en": "Saint Petersburg",
+      "latitude": 59.98703,
+      "longitude": 30.17814,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4255374"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q4402193",
+      "name_ru": "Рэдиссон САС Екатеринбург",
+      "name_en": "Opera Tower",
+      "admin_area_ru": "Екатеринбург",
+      "admin_area_en": "Yekaterinburg",
+      "latitude": 56.836388888,
+      "longitude": 60.616944444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4402193"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q4462136",
+      "name_ru": "IQ-квартал",
+      "name_en": "IQ-quarter",
+      "admin_area_ru": "Пресненский район",
+      "admin_area_en": "Presnensky District",
+      "latitude": 55.747446,
+      "longitude": 37.534569,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4462136"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q521935",
+      "name_ru": "сталинские высотки",
+      "name_en": "Seven Sisters",
+      "admin_area_ru": "Москва",
+      "admin_area_en": "Moscow",
+      "latitude": 55.703055555,
+      "longitude": 37.530277777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q521935"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q59483",
+      "name_ru": "Меркурий Сити Тауэр",
+      "name_en": "Mercury City Tower",
+      "admin_area_ru": "Москва",
+      "admin_area_en": "Moscow",
+      "latitude": 55.750555555,
+      "longitude": 37.539444444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q59483"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q604001",
+      "name_ru": "Здание штаб-квартиры «Газпрома»",
+      "name_en": "Gazprom Headquarters",
+      "admin_area_ru": "Москва",
+      "admin_area_en": "Moscow",
+      "latitude": 55.658804,
+      "longitude": 37.556902,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q604001"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q65157615",
+      "name_ru": "Многофункциональный комплекс на участке № 20 в «Москва Сити»",
+      "name_en": "Sezar Tower",
+      "admin_area_ru": "Москва",
+      "admin_area_en": "Moscow",
+      "latitude": 55.752109995,
+      "longitude": 37.542209714,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65157615"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q65926775",
+      "name_ru": "Высоцкий (небоскрёб)",
+      "name_en": "Vysotsky",
+      "admin_area_ru": "Октябрьский район",
+      "admin_area_en": "Oktyabrski district",
+      "latitude": 56.836089,
+      "longitude": 60.614597,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65926775"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q80367",
+      "name_ru": "Триумф-Палас",
+      "name_en": "Triumph Palace",
+      "admin_area_ru": "Москва",
+      "admin_area_en": "Moscow",
+      "latitude": 55.798333333,
+      "longitude": 37.520833333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q80367"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q96072166",
+      "name_ru": "iCITY",
+      "name_en": "iCITY",
+      "admin_area_ru": "Москва",
+      "admin_area_en": "Moscow",
+      "latitude": 55.754861,
+      "longitude": 37.530409,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q96072166"
+    }
+  ],
+  "meta": {
+    "title": "Skyscrapers in Russia - Бесплатная загрузка",
+    "description": "Skyscrapers in Russia with coordinates, sourced from Wikidata (CC0). Содержит 35 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Skyscrapers in Russia | ListBase",
+    "seo_description": "Скачать Skyscrapers in Russia — 35 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 35 записей / 9 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

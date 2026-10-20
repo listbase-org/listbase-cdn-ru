@@ -1,0 +1,115 @@
+{
+  "id": "ru-tomskaya-oblast-goroda",
+  "name": "Города — Томская область",
+  "title": "Города — Томская область",
+  "description": "6 городов региона «Томская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Асино",
+      "population_thousands": 24.4,
+      "latitude": 56.9907085,
+      "longitude": 86.1765257,
+      "region_name": "Томская область",
+      "region_iso_code": "RU-TOM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Кедровый",
+      "population_thousands": 1.9,
+      "latitude": 57.561869,
+      "longitude": 79.5677821,
+      "region_name": "Томская область",
+      "region_iso_code": "RU-TOM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Колпашево",
+      "population_thousands": 22.9,
+      "latitude": 58.3114253,
+      "longitude": 82.9025829,
+      "region_name": "Томская область",
+      "region_iso_code": "RU-TOM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Северск",
+      "population_thousands": 106.5,
+      "latitude": 56.6031285,
+      "longitude": 84.8809926,
+      "region_name": "Томская область",
+      "region_iso_code": "RU-TOM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Стрежевой",
+      "population_thousands": 40.8,
+      "latitude": 60.732895,
+      "longitude": 77.604122,
+      "region_name": "Томская область",
+      "region_iso_code": "RU-TOM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Томск",
+      "population_thousands": 576.6,
+      "latitude": 56.4845804,
+      "longitude": 84.9481582,
+      "region_name": "Томская область",
+      "region_iso_code": "RU-TOM",
+      "federal_district": "Сибирский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Томская область - Бесплатная загрузка",
+    "description": "6 городов региона «Томская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 6 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Томская область | ListBase",
+    "seo_description": "Скачать Города — Томская область — 6 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 6 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

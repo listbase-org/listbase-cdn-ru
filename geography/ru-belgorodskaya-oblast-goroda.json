@@ -1,0 +1,160 @@
+{
+  "id": "ru-belgorodskaya-oblast-goroda",
+  "name": "Города — Белгородская область",
+  "title": "Города — Белгородская область",
+  "description": "11 городов региона «Белгородская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Алексеевка",
+      "population_thousands": 37.8,
+      "latitude": 50.6299647,
+      "longitude": 38.6880342,
+      "region_name": "Белгородская область",
+      "region_iso_code": "RU-BEL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Белгород",
+      "population_thousands": 394.1,
+      "latitude": 50.5976472,
+      "longitude": 36.5856652,
+      "region_name": "Белгородская область",
+      "region_iso_code": "RU-BEL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Бирюч",
+      "population_thousands": 7.5,
+      "latitude": 50.6484585,
+      "longitude": 38.4005083,
+      "region_name": "Белгородская область",
+      "region_iso_code": "RU-BEL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Валуйки",
+      "population_thousands": 34.2,
+      "latitude": 50.2111207,
+      "longitude": 38.0998772,
+      "region_name": "Белгородская область",
+      "region_iso_code": "RU-BEL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Грайворон",
+      "population_thousands": 6.5,
+      "latitude": 50.4862958,
+      "longitude": 35.6663877,
+      "region_name": "Белгородская область",
+      "region_iso_code": "RU-BEL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Губкин",
+      "population_thousands": 86.2,
+      "latitude": 51.2837123,
+      "longitude": 37.5347759,
+      "region_name": "Белгородская область",
+      "region_iso_code": "RU-BEL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Короча",
+      "population_thousands": 5.8,
+      "latitude": 50.8129041,
+      "longitude": 37.1896436,
+      "region_name": "Белгородская область",
+      "region_iso_code": "RU-BEL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Новый Оскол",
+      "population_thousands": 18.5,
+      "latitude": 50.7633747,
+      "longitude": 37.8775484,
+      "region_name": "Белгородская область",
+      "region_iso_code": "RU-BEL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Старый Оскол",
+      "population_thousands": 223.9,
+      "latitude": 51.2967101,
+      "longitude": 37.8350182,
+      "region_name": "Белгородская область",
+      "region_iso_code": "RU-BEL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Строитель",
+      "population_thousands": 24.1,
+      "latitude": 50.7845099,
+      "longitude": 36.4887648,
+      "region_name": "Белгородская область",
+      "region_iso_code": "RU-BEL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Шебекино",
+      "population_thousands": 40.9,
+      "latitude": 50.4004883,
+      "longitude": 36.8877889,
+      "region_name": "Белгородская область",
+      "region_iso_code": "RU-BEL",
+      "federal_district": "Центральный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Белгородская область - Бесплатная загрузка",
+    "description": "11 городов региона «Белгородская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 11 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Белгородская область | ListBase",
+    "seo_description": "Скачать Города — Белгородская область — 11 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 11 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

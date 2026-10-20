@@ -1,0 +1,115 @@
+{
+  "id": "ru-astrakhanskaya-oblast-goroda",
+  "name": "Города — Астраханская область",
+  "title": "Города — Астраханская область",
+  "description": "6 городов региона «Астраханская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Астрахань",
+      "population_thousands": 529.8,
+      "latitude": 46.3655652,
+      "longitude": 48.0559236,
+      "region_name": "Астраханская область",
+      "region_iso_code": "RU-AST",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Ахтубинск",
+      "population_thousands": 36.5,
+      "latitude": 48.2752034,
+      "longitude": 46.1906462,
+      "region_name": "Астраханская область",
+      "region_iso_code": "RU-AST",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Знаменск",
+      "population_thousands": 26.7,
+      "latitude": 48.5866291,
+      "longitude": 45.7368019,
+      "region_name": "Астраханская область",
+      "region_iso_code": "RU-AST",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Камызяк",
+      "population_thousands": 15.7,
+      "latitude": 46.110579,
+      "longitude": 48.07333,
+      "region_name": "Астраханская область",
+      "region_iso_code": "RU-AST",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Нариманов",
+      "population_thousands": 10.8,
+      "latitude": 46.6916565,
+      "longitude": 47.8502476,
+      "region_name": "Астраханская область",
+      "region_iso_code": "RU-AST",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Харабали",
+      "population_thousands": 17.5,
+      "latitude": 47.408999,
+      "longitude": 47.2525345,
+      "region_name": "Астраханская область",
+      "region_iso_code": "RU-AST",
+      "federal_district": "Южный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Астраханская область - Бесплатная загрузка",
+    "description": "6 городов региона «Астраханская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 6 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Астраханская область | ListBase",
+    "seo_description": "Скачать Города — Астраханская область — 6 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 6 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

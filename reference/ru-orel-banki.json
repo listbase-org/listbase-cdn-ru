@@ -1,0 +1,100 @@
+{
+  "id": "ru-orel-banki",
+  "name": "Банки — Orel (коды SWIFT/BIC)",
+  "title": "Банки — Orel (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in OREL (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 122,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "OREL",
+      "branch": "(OREL BRANCH)",
+      "swift_code": "MOBWRUM1ORL"
+    },
+    {
+      "id": 225,
+      "bank": "BANK ''ROSSIYA''",
+      "city": "OREL",
+      "branch": "(OREL BRANCH)",
+      "swift_code": "ROSYRU21ORL"
+    },
+    {
+      "id": 378,
+      "bank": "COMMERCIAL BANK 'LANTA-BANK'",
+      "city": "OREL",
+      "branch": "(OREL BRANCH)",
+      "swift_code": "COLKRUM1ORL"
+    },
+    {
+      "id": 721,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "OREL",
+      "branch": "(ORLOVSKY BRANCH )",
+      "swift_code": "RUAGRUM1010"
+    },
+    {
+      "id": 1239,
+      "bank": "ROST BANK",
+      "city": "OREL",
+      "branch": "(OREL BRANCH)",
+      "swift_code": "JORORU21ORB"
+    },
+    {
+      "id": 1393,
+      "bank": "SOCBANK",
+      "city": "OREL",
+      "branch": "",
+      "swift_code": "SOCKRU21"
+    },
+    {
+      "id": 1440,
+      "bank": "SVIAZ-BANK",
+      "city": "OREL",
+      "branch": "(OREL BRANCH)",
+      "swift_code": "SVIZRUM1ORL"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Orel (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in OREL (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 7 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Orel (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Orel (коды SWIFT/BIC) — 7 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 7 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

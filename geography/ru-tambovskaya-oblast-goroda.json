@@ -1,0 +1,133 @@
+{
+  "id": "ru-tambovskaya-oblast-goroda",
+  "name": "Города — Тамбовская область",
+  "title": "Города — Тамбовская область",
+  "description": "8 городов региона «Тамбовская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Жердевка",
+      "population_thousands": 14,
+      "latitude": 51.8422192,
+      "longitude": 41.4617687,
+      "region_name": "Тамбовская область",
+      "region_iso_code": "RU-TAM",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Кирсанов",
+      "population_thousands": 16.1,
+      "latitude": 52.6506335,
+      "longitude": 42.7286445,
+      "region_name": "Тамбовская область",
+      "region_iso_code": "RU-TAM",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Котовск",
+      "population_thousands": 28.9,
+      "latitude": 52.5924489,
+      "longitude": 41.5101237,
+      "region_name": "Тамбовская область",
+      "region_iso_code": "RU-TAM",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Мичуринск",
+      "population_thousands": 90.7,
+      "latitude": 52.8912389,
+      "longitude": 40.5104443,
+      "region_name": "Тамбовская область",
+      "region_iso_code": "RU-TAM",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Моршанск",
+      "population_thousands": 38,
+      "latitude": 53.4436216,
+      "longitude": 41.8115478,
+      "region_name": "Тамбовская область",
+      "region_iso_code": "RU-TAM",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Рассказово",
+      "population_thousands": 42.7,
+      "latitude": 52.6538833,
+      "longitude": 41.874285,
+      "region_name": "Тамбовская область",
+      "region_iso_code": "RU-TAM",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Тамбов",
+      "population_thousands": 292.1,
+      "latitude": 52.7213154,
+      "longitude": 41.452264,
+      "region_name": "Тамбовская область",
+      "region_iso_code": "RU-TAM",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Уварово",
+      "population_thousands": 23.1,
+      "latitude": 51.9767841,
+      "longitude": 42.2529799,
+      "region_name": "Тамбовская область",
+      "region_iso_code": "RU-TAM",
+      "federal_district": "Центральный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Тамбовская область - Бесплатная загрузка",
+    "description": "8 городов региона «Тамбовская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 8 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Тамбовская область | ListBase",
+    "seo_description": "Скачать Города — Тамбовская область — 8 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 8 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

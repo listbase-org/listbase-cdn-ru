@@ -1,0 +1,1556 @@
+{
+  "id": "ru-kreposti",
+  "name": "Крепости России (Fortresses of Russia)",
+  "title": "Крепости России (Fortresses of Russia)",
+  "description": "Список объектов категории «крепости», расположенных на территории России. Сортировка по русскому названию (по алфавиту). Источник — публичная конечная точка SPARQL Wikidata (query.wikidata.org). Для каждого объекта приводятся русское название (rdfs:label@ru), английская метка, административно-территориальная принадлежность (P131), координаты (WGS84, P625) и ссылка на русскую Википедию. Объекты без русской метки исключены согласно правилу сохранения языка оригинала. Лицензия CC0-1.0.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 149,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ru",
+      "label": "Name Ru",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ru",
+      "label": "Wikipedia Ru",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q28667168",
+      "name_ru": "Азовская крепость",
+      "name_en": "Azov Fortress",
+      "located_in_at": "Азов",
+      "latitude": 47.115956,
+      "longitude": 39.421581,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%B7%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q109322982",
+      "name_ru": "Ай-Йори (крепость)",
+      "name_en": "Ai-yori fortress",
+      "located_in_at": "Алушта (муниципальный округ)",
+      "latitude": 44.6734,
+      "longitude": 34.3391,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%B9-%D0%99%D0%BE%D1%80%D0%B8_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q109329538",
+      "name_ru": "Ай-Тодор II",
+      "name_en": "Ay-TodorII",
+      "located_in_at": "Крымский полуостров",
+      "latitude": 44.618056,
+      "longitude": 34.3575,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%B9-%D0%A2%D0%BE%D0%B4%D0%BE%D1%80_II"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q20018457",
+      "name_ru": "Ак-Тюбе",
+      "name_en": "Ak-Tyube",
+      "located_in_at": "Тургайская область",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BA-%D0%A2%D1%8E%D0%B1%D0%B5"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q28666361",
+      "name_ru": "Алдам-Гези",
+      "name_en": "",
+      "located_in_at": "Чеберлоевский район",
+      "latitude": 42.76,
+      "longitude": 46.11,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B4%D0%B0%D0%BC-%D0%93%D0%B5%D0%B7%D0%B8_(%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA)"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q4061874",
+      "name_ru": "Алексеевская крепость",
+      "name_en": "Alekseevskaya Fortress",
+      "located_in_at": "Алексеевка",
+      "latitude": 53.243299,
+      "longitude": 50.489883,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q108810328",
+      "name_ru": "Алупка-Исар",
+      "name_en": "Alupka Isar",
+      "located_in_at": "городской округ Ялта",
+      "latitude": 44.431944,
+      "longitude": 34.055556,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%83%D0%BF%D0%BA%D0%B0-%D0%98%D1%81%D0%B0%D1%80"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q4067678",
+      "name_ru": "Ануйская крепость",
+      "name_en": "Anui Fortress",
+      "located_in_at": "",
+      "latitude": 52.302089,
+      "longitude": 84.859425,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%83%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q4068363",
+      "name_ru": "Арабатская крепость",
+      "name_en": "Arabat Fortress",
+      "located_in_at": "Ленинский район",
+      "latitude": 45.295833,
+      "longitude": 35.478333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B0%D0%B1%D0%B0%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q123983894",
+      "name_ru": "Арзамасский кремль",
+      "name_en": "Arzamas Kremlin",
+      "located_in_at": "",
+      "latitude": 55.390642,
+      "longitude": 43.813047,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B7%D0%B0%D0%BC%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q134607794",
+      "name_ru": "Арская крепость",
+      "name_en": "",
+      "located_in_at": "Арск",
+      "latitude": 56.085117,
+      "longitude": 49.869327,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q127420458",
+      "name_ru": "Архангельский кремль",
+      "name_en": "",
+      "located_in_at": "Архангельск",
+      "latitude": 64.52797,
+      "longitude": 40.556975,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q108898897",
+      "name_ru": "Асаране-Бурун",
+      "name_en": "Asarane Burun",
+      "located_in_at": "Бахчисарайский район",
+      "latitude": 44.498611,
+      "longitude": 33.772222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%81%D0%B0%D1%80%D0%B0%D0%BD%D0%B5-%D0%91%D1%83%D1%80%D1%83%D0%BD"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q109422838",
+      "name_ru": "Аю-Даг",
+      "name_en": "Ayu-Dag Fortress",
+      "located_in_at": "",
+      "latitude": 44.561667,
+      "longitude": 34.330556,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%8E-%D0%94%D0%B0%D0%B3_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q109026932",
+      "name_ru": "Бага",
+      "name_en": "Isar Baga",
+      "located_in_at": "Крымский полуостров",
+      "latitude": 44.506944,
+      "longitude": 33.85,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B3%D0%B0_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q109321387",
+      "name_ru": "Басман",
+      "name_en": "Basman Fortress",
+      "located_in_at": "Бахчисарайский район",
+      "latitude": 44.6085,
+      "longitude": 34.1682,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%81%D0%BC%D0%B0%D0%BD_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q106267611",
+      "name_ru": "Батарея №330",
+      "name_en": "Battery 330",
+      "located_in_at": "",
+      "latitude": 44.514444,
+      "longitude": 33.475556,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%82%D0%B0%D1%80%D0%B5%D1%8F_%E2%84%96330"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q15629291",
+      "name_ru": "Белгородская крепость",
+      "name_en": "Belgorod Fortress",
+      "located_in_at": "Белгород",
+      "latitude": 50.608333,
+      "longitude": 36.633333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q136440689",
+      "name_ru": "Белоярская крепость",
+      "name_en": "",
+      "located_in_at": "Новоалтайск",
+      "latitude": 53.407671,
+      "longitude": 83.88098,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D1%8F%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q110259765",
+      "name_ru": "Белёвская крепость",
+      "name_en": "Belevskaya Fortress",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D1%91%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q4086546",
+      "name_ru": "Бийская крепость",
+      "name_en": "Biysk Fortress",
+      "located_in_at": "Бийск",
+      "latitude": 52.549896,
+      "longitude": 85.237115,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q110259767",
+      "name_ru": "Боровский кремль",
+      "name_en": "Borovsk Kremlin",
+      "located_in_at": "Боровск",
+      "latitude": 55.209556,
+      "longitude": 36.486139,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q4095961",
+      "name_ru": "Братский острог",
+      "name_en": "Bratsk Ostrog",
+      "located_in_at": "",
+      "latitude": 56.039085,
+      "longitude": 101.834084,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B3"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q1797358",
+      "name_ru": "Бронебашенная батарея-30",
+      "name_en": "Shore Battery No. 30",
+      "located_in_at": "",
+      "latitude": 44.663611,
+      "longitude": 33.559167,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/30-%D1%8F_%D0%B1%D1%80%D0%BE%D0%BD%D0%B5%D0%B1%D0%B0%D1%88%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B0%D1%82%D0%B0%D1%80%D0%B5%D1%8F"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q108933434",
+      "name_ru": "Бурун-Кая",
+      "name_en": "Burun Kaia",
+      "located_in_at": "Крымский полуостров",
+      "latitude": 44.681944,
+      "longitude": 33.8875,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D1%83%D0%BD-%D0%9A%D0%B0%D1%8F"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q138005110",
+      "name_ru": "Владимирец",
+      "name_en": "Vladimirets",
+      "located_in_at": "Владимирец",
+      "latitude": 57.38162,
+      "longitude": 29.16913,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%B5%D1%86_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q16630724",
+      "name_ru": "Внезапная",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 43.155833,
+      "longitude": 46.644167,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BD%D0%B5%D0%B7%D0%B0%D0%BF%D0%BD%D0%B0%D1%8F"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q4113888",
+      "name_ru": "Вовнушки",
+      "name_en": "Vovnushki",
+      "located_in_at": "Джейрахский район",
+      "latitude": 42.800533,
+      "longitude": 44.995279,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B2%D0%BD%D1%83%D1%88%D0%BA%D0%B8"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q12093136",
+      "name_ru": "Военно-морской музей «Михайловская батарея»",
+      "name_en": "Museum Mikhailovskaya battery",
+      "located_in_at": "Севастополь",
+      "latitude": 44.627778,
+      "longitude": 33.525833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B0%D1%82%D0%B0%D1%80%D0%B5%D1%8F"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q18404894",
+      "name_ru": "Воронежская крепость",
+      "name_en": "",
+      "located_in_at": "Воронеж",
+      "latitude": 51.654041,
+      "longitude": 39.206064,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q4126483",
+      "name_ru": "Восточно-Выборгские укрепления",
+      "name_en": "East Vyborg Fortress",
+      "located_in_at": "Выборг",
+      "latitude": 60.704185,
+      "longitude": 28.759524,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%BE-%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B5_%D1%83%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q138189207",
+      "name_ru": "Выбор",
+      "name_en": "Vybor",
+      "located_in_at": "Выбор",
+      "latitude": 57.227582,
+      "longitude": 29.169863,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q124426216",
+      "name_ru": "Вышгород Псковский",
+      "name_en": "Vyshgrod fort",
+      "located_in_at": "Вышгородок",
+      "latitude": 57.041851,
+      "longitude": 28.016167,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D1%88%D0%B3%D0%BE%D1%80%D0%BE%D0%B4_%D0%9F%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q109538708",
+      "name_ru": "Гелин-Кая",
+      "name_en": "Gelin-Kaya",
+      "located_in_at": "Крымский полуостров",
+      "latitude": 44.569722,
+      "longitude": 34.285833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BB%D0%B8%D0%BD-%D0%9A%D0%B0%D1%8F"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q4135566",
+      "name_ru": "Генуэзская крепость",
+      "name_en": "Kaffa genoese fortress",
+      "located_in_at": "Автономная Республика Крым",
+      "latitude": 45.022035,
+      "longitude": 35.4001,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D1%83%D1%8D%D0%B7%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C_(%D0%A4%D0%B5%D0%BE%D0%B4%D0%BE%D1%81%D0%B8%D1%8F)"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q4135567",
+      "name_ru": "Генуэзская крепость",
+      "name_en": "Genoese Fortress",
+      "located_in_at": "Судак",
+      "latitude": 44.841554,
+      "longitude": 34.957852,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D1%83%D1%8D%D0%B7%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C_(%D0%A1%D1%83%D0%B4%D0%B0%D0%BA)"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q25443404",
+      "name_ru": "Генуэзская крепость (Гурзуф)",
+      "name_en": "Gurzuf Fortress",
+      "located_in_at": "Гурзуф",
+      "latitude": 44.5425,
+      "longitude": 34.283889,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D1%83%D1%8D%D0%B7%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C_(%D0%93%D1%83%D1%80%D0%B7%D1%83%D1%84)"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q38879381",
+      "name_ru": "Герзель-аул",
+      "name_en": "Gerzel-aul",
+      "located_in_at": "",
+      "latitude": 43.241685,
+      "longitude": 46.40684,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%B7%D0%B5%D0%BB%D1%8C-%D0%B0%D1%83%D0%BB_(%D1%83%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q4141155",
+      "name_ru": "Годлик",
+      "name_en": "Godlik",
+      "located_in_at": "Волконка",
+      "latitude": 43.86134,
+      "longitude": 39.395836,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%B4%D0%BB%D0%B8%D0%BA_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q137994477",
+      "name_ru": "Городище «Воронич»",
+      "name_en": "Voronich archaeological site",
+      "located_in_at": "Воронич",
+      "latitude": 57.054911,
+      "longitude": 28.874538,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D1%87_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q112048111",
+      "name_ru": "Городище «Малоярославецкое» (Малоярославец)",
+      "name_en": "",
+      "located_in_at": "Малоярославец",
+      "latitude": 55.018298,
+      "longitude": 36.460629,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%BE%D1%8F%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B5%D1%82%D0%B8%D0%BD%D0%B5%D1%86"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q137973172",
+      "name_ru": "Городище и посад \"Велье\"",
+      "name_en": "Vel'e hillfort",
+      "located_in_at": "Велье",
+      "latitude": 56.967708,
+      "longitude": 28.57078,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D1%8C%D0%B5_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q122225560",
+      "name_ru": "Городские валы (Ростов)",
+      "name_en": "Rostov City Walls",
+      "located_in_at": "Ростов Великий",
+      "latitude": 57.183389,
+      "longitude": 39.413729,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q86685516",
+      "name_ru": "Грозная",
+      "name_en": "Groznaya",
+      "located_in_at": "Грозный",
+      "latitude": 43.312,
+      "longitude": 45.6889,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%BE%D0%B7%D0%BD%D0%B0%D1%8F"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q110259770",
+      "name_ru": "Гунибская крепость",
+      "name_en": "Gunib Fortress",
+      "located_in_at": "Гуниб",
+      "latitude": 42.391194,
+      "longitude": 46.955514,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D1%83%D0%BD%D0%B8%D0%B1%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q97188396",
+      "name_ru": "Дакан-чу",
+      "name_en": "Dakan-chu",
+      "located_in_at": "Итум-Калинский район",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%BA%D0%B0%D0%BD-%D0%A7%D1%83"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q108864875",
+      "name_ru": "Демерджи II",
+      "name_en": "Demerdji Isar",
+      "located_in_at": "Крымский полуостров",
+      "latitude": 44.745833,
+      "longitude": 34.4125,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BC%D0%B5%D1%80%D0%B4%D0%B6%D0%B8_II"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q4172627",
+      "name_ru": "Дёре",
+      "name_en": "Dora",
+      "located_in_at": "Итум-Калинский район",
+      "latitude": 42.711787,
+      "longitude": 45.580415,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D1%91%D1%80%D0%B5"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q106784865",
+      "name_ru": "Дёре II",
+      "name_en": "Dore II",
+      "located_in_at": "Итум-Калинский район",
+      "latitude": 42.711602,
+      "longitude": 45.583643,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D1%91%D1%80%D0%B5_II"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q110259763",
+      "name_ru": "Елецкая крепость",
+      "name_en": "Yelets Fortress",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%95%D0%BB%D0%B5%D1%86%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q4183286",
+      "name_ru": "Заволочье",
+      "name_en": "Zavolochye",
+      "located_in_at": "Пустошкинский район",
+      "latitude": 56.408861,
+      "longitude": 29.451194,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B2%D0%BE%D0%BB%D0%BE%D1%87%D1%8C%D0%B5_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q4189482",
+      "name_ru": "Звенигородский городок",
+      "name_en": "Gorodok",
+      "located_in_at": "Звенигород",
+      "latitude": 55.733056,
+      "longitude": 36.84,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B2%D0%B5%D0%BD%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%BA"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q110259768",
+      "name_ru": "Злобный Окоп",
+      "name_en": "Evil Trench Fortress",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%BB%D0%BE%D0%B1%D0%BD%D1%8B%D0%B9_%D0%9E%D0%BA%D0%BE%D0%BF"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q123484623",
+      "name_ru": "Змеиногорская крепость",
+      "name_en": "",
+      "located_in_at": "Змеиногорск",
+      "latitude": 51.157926,
+      "longitude": 82.189496,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%BC%D0%B5%D0%B8%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q1408916",
+      "name_ru": "Ивангородская крепость",
+      "name_en": "Ivangorod Fortress",
+      "located_in_at": "Ивангород",
+      "latitude": 59.37472,
+      "longitude": 28.20778,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D0%B2%D0%B0%D0%BD%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q4198341",
+      "name_ru": "Изборская крепость",
+      "name_en": "Fortress of Izborsk",
+      "located_in_at": "Изборск",
+      "latitude": 57.710282,
+      "longitude": 27.860765,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D0%B7%D0%B1%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q97660876",
+      "name_ru": "Итал-чу",
+      "name_en": "",
+      "located_in_at": "Итум-Калинский район",
+      "latitude": 42.7373,
+      "longitude": 45.212,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D1%82%D0%B0%D0%BB-%D1%87%D1%83"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q111287054",
+      "name_ru": "Калиера",
+      "name_en": "",
+      "located_in_at": "Крымский полуостров",
+      "latitude": 44.909,
+      "longitude": 35.181,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q30889641",
+      "name_ru": "Каракули-Кая",
+      "name_en": "Karakuli",
+      "located_in_at": "городской округ Ялта",
+      "latitude": 44.45,
+      "longitude": 34.115278,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%BA%D1%83%D0%BB%D0%B8-%D0%9A%D0%B0%D1%8F"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q4217511",
+      "name_ru": "Катунская крепость",
+      "name_en": "Katun Fortress",
+      "located_in_at": "",
+      "latitude": 52.418056,
+      "longitude": 85.108056,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D1%83%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q130391962",
+      "name_ru": "Каширский кремль",
+      "name_en": "",
+      "located_in_at": "Кашира",
+      "latitude": 54.840679,
+      "longitude": 38.149682,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%88%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q108531451",
+      "name_ru": "Керменчик",
+      "name_en": "Kermenchik",
+      "located_in_at": "Бахчисарайский район",
+      "latitude": 44.628889,
+      "longitude": 33.951111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D0%BC%D0%B5%D0%BD%D1%87%D0%B8%D0%BA_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q4219730",
+      "name_ru": "Керченская крепость",
+      "name_en": "Kerch",
+      "located_in_at": "Керчь",
+      "latitude": 45.31496,
+      "longitude": 36.479754,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q4220359",
+      "name_ru": "Кизлярская крепость",
+      "name_en": "Kizlyar Fortress",
+      "located_in_at": "",
+      "latitude": 43.849,
+      "longitude": 46.708,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%B7%D0%BB%D1%8F%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q110319493",
+      "name_ru": "Кипиа",
+      "name_en": "Kipia",
+      "located_in_at": "Крымский полуостров",
+      "latitude": 44.570833,
+      "longitude": 34.090833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BF%D0%B8%D0%B0"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q113410826",
+      "name_ru": "Кольский острог",
+      "name_en": "",
+      "located_in_at": "Кола",
+      "latitude": 68.881731,
+      "longitude": 33.020094,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B3"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q79337728",
+      "name_ru": "Константиновская батарея",
+      "name_en": "Konstantin Battery",
+      "located_in_at": "Севастополь",
+      "latitude": 44.626667,
+      "longitude": 33.512222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B0%D1%82%D0%B0%D1%80%D0%B5%D1%8F_(%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C)"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q16665517",
+      "name_ru": "Константиногорская крепость",
+      "name_en": "Constantinogorsk Fortress",
+      "located_in_at": "",
+      "latitude": 44.038553,
+      "longitude": 43.019092,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q1402157",
+      "name_ru": "Копорская крепость",
+      "name_en": "Koporye",
+      "located_in_at": "Копорье",
+      "latitude": 59.70917,
+      "longitude": 29.03222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BF%D0%BE%D1%80%D1%8C%D0%B5_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q136389310",
+      "name_ru": "Крапивенская крепость",
+      "name_en": "",
+      "located_in_at": "Тульская область",
+      "latitude": 53.940754,
+      "longitude": 37.156183,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q4239226",
+      "name_ru": "Красноярская крепость",
+      "name_en": "Krasnoyarskaya Fortress",
+      "located_in_at": "Красный Яр",
+      "latitude": 53.496944,
+      "longitude": 50.401944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%8F%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C_(%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q124617594",
+      "name_ru": "Красный Городец",
+      "name_en": "Krasnyi Gorodets",
+      "located_in_at": "Красногородск",
+      "latitude": 56.8305,
+      "longitude": 28.2782,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9_%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B5%D1%86"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q113866917",
+      "name_ru": "Крепостной ансамбль Мангупа",
+      "name_en": "fortress ensemble of Mangup",
+      "located_in_at": "Крымский полуостров",
+      "latitude": 44.593056,
+      "longitude": 33.801389,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D0%BD%D0%BE%D0%B9_%D0%B0%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C_%D0%9C%D0%B0%D0%BD%D0%B3%D1%83%D0%BF%D0%B0"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q16667122",
+      "name_ru": "Крепость Бип",
+      "name_en": "Bip Fortress",
+      "located_in_at": "Павловск",
+      "latitude": 59.6807,
+      "longitude": 30.443324,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BF_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q48951815",
+      "name_ru": "Крепость Бурная",
+      "name_en": "Stormy Fortress",
+      "located_in_at": "Дагестан",
+      "latitude": 42.9409,
+      "longitude": 47.4447,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%BD%D0%B0%D1%8F_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q21102880",
+      "name_ru": "Крепость Назрань",
+      "name_en": "Nazran Fortress",
+      "located_in_at": "Назрань",
+      "latitude": 43.246994,
+      "longitude": 44.810086,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C_%D0%9D%D0%B0%D0%B7%D1%80%D0%B0%D0%BD%D1%8C"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q137637052",
+      "name_ru": "Крепость Псыфабэ",
+      "name_en": "",
+      "located_in_at": "Горячий Ключ",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q47288980",
+      "name_ru": "Крепость Святого Креста",
+      "name_en": "Fortress of the Holy Cross",
+      "located_in_at": "Бабаюртовский район",
+      "latitude": 43.360281,
+      "longitude": 47.150189,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B5%D1%81%D1%82%D0%B0"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q28667237",
+      "name_ru": "Крепость Святой Анны",
+      "name_en": "",
+      "located_in_at": "Старочеркасская",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%90%D0%BD%D0%BD%D1%8B"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q4241657",
+      "name_ru": "Кронштадтская крепость",
+      "name_en": "Kronstadt Fortress",
+      "located_in_at": "Кронштадт",
+      "latitude": 59.9937,
+      "longitude": 29.789,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D0%BD%D1%88%D1%82%D0%B0%D0%B4%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q4244866",
+      "name_ru": "Кузнецкая крепость",
+      "name_en": "Kuznetsk Fortress",
+      "located_in_at": "Новокузнецк",
+      "latitude": 53.774568,
+      "longitude": 87.183844,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B7%D0%BD%D0%B5%D1%86%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q104758836",
+      "name_ru": "Курский кремль",
+      "name_en": "Kursk Kremlin",
+      "located_in_at": "Курск",
+      "latitude": 51.724028,
+      "longitude": 36.191583,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C"
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q108838371",
+      "name_ru": "Лимена-Кале",
+      "name_en": "Limena Kale",
+      "located_in_at": "Крымский полуостров",
+      "latitude": 44.404167,
+      "longitude": 33.993056,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0-%D0%9A%D0%B0%D0%BB%D0%B5"
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q16672867",
+      "name_ru": "Лютик",
+      "name_en": "Lutic Fortress",
+      "located_in_at": "Мясниковский район",
+      "latitude": 47.26137,
+      "longitude": 39.39187,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D1%8E%D1%82%D0%B8%D0%BA_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q108555934",
+      "name_ru": "Макажойский историко-архитектурный комплекс",
+      "name_en": "Makazhoy Historical and Architectural Complex",
+      "located_in_at": "Макажой",
+      "latitude": 42.74,
+      "longitude": 46.05861,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D0%B0%D0%B6%D0%BE%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%BE-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81"
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q104869256",
+      "name_ru": "Мердвень-Исар",
+      "name_en": "Merdven-Isar",
+      "located_in_at": "Крымский полуостров",
+      "latitude": 44.423056,
+      "longitude": 33.856667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%80%D0%B4%D0%B2%D0%B5%D0%BD%D1%8C-%D0%98%D1%81%D0%B0%D1%80"
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q16680141",
+      "name_ru": "Нежегольск",
+      "name_en": "Nezhegolsk",
+      "located_in_at": "Нежеголь",
+      "latitude": 50.428611,
+      "longitude": 37.027778,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B6%D0%B5%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D0%BA"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q110259766",
+      "name_ru": "Николаевская крепость",
+      "name_en": "Nicholas Fortress",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%BD%D1%8B%D1%80%D1%80%D0%B0%D1%85_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q4320436",
+      "name_ru": "Николаевская крепость",
+      "name_en": "Nicholas Fortress",
+      "located_in_at": "Николаевка",
+      "latitude": 55.023205,
+      "longitude": 71.618212,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q16682724",
+      "name_ru": "Окольный город",
+      "name_en": "Fortifications in Pskov",
+      "located_in_at": "Псков",
+      "latitude": 57.804722,
+      "longitude": 28.333611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4_(%D0%9F%D1%81%D0%BA%D0%BE%D0%B2)"
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q100741822",
+      "name_ru": "Олонецкая крепость",
+      "name_en": "Olonets Fortress",
+      "located_in_at": "Олонец",
+      "latitude": 60.978333,
+      "longitude": 32.966623,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BB%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q4334703",
+      "name_ru": "Омская крепость",
+      "name_en": "Omsk Fortress",
+      "located_in_at": "Омск",
+      "latitude": 54.985561,
+      "longitude": 73.362831,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q48952050",
+      "name_ru": "Опаков",
+      "name_en": "Opakov Fortress",
+      "located_in_at": "Палатки",
+      "latitude": 54.752728,
+      "longitude": 35.362823,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B0%D0%BA%D0%BE%D0%B2"
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q138005064",
+      "name_ru": "Опока",
+      "name_en": "Opoka",
+      "located_in_at": "Заполье Речное",
+      "latitude": 57.96446,
+      "longitude": 29.696168,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BF%D0%BE%D0%BA%D0%B0_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q14690",
+      "name_ru": "Орешек",
+      "name_en": "Oreshek Fortress",
+      "located_in_at": "Шлиссельбург",
+      "latitude": 59.953829,
+      "longitude": 31.038866,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%B5%D1%88%D0%B5%D0%BA_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q48950708",
+      "name_ru": "Островская крепость",
+      "name_en": "",
+      "located_in_at": "Остров",
+      "latitude": 57.339348,
+      "longitude": 28.352522,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q137114692",
+      "name_ru": "Острогожская крепость",
+      "name_en": "",
+      "located_in_at": "Острогожск",
+      "latitude": 50.858777,
+      "longitude": 39.081436,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B3%D0%BE%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q20108585",
+      "name_ru": "Палакион (крепость)",
+      "name_en": "Palakion",
+      "located_in_at": "Таврика",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D0%BA%D0%B8%D0%BE%D0%BD_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 99,
+      "wikidata_id": "Q109752566",
+      "name_ru": "Палеокастрон",
+      "name_en": "Paleokastron",
+      "located_in_at": "Крымский полуостров",
+      "latitude": 44.520278,
+      "longitude": 34.226667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D0%BE%D0%BA%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%BD"
+    },
+    {
+      "id": 100,
+      "wikidata_id": "Q109321452",
+      "name_ru": "Пампук-Кая",
+      "name_en": "Pampuk-Kaya",
+      "located_in_at": "Бахчисарайский район",
+      "latitude": 44.601389,
+      "longitude": 33.881944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BC%D0%BF%D1%83%D0%BA-%D0%9A%D0%B0%D1%8F"
+    },
+    {
+      "id": 101,
+      "wikidata_id": "Q4350408",
+      "name_ru": "Перекопская крепость",
+      "name_en": "Or Qapi",
+      "located_in_at": "Армянск (муниципальный округ)",
+      "latitude": 46.152222,
+      "longitude": 33.7015,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BA%D0%BE%D0%BF%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 102,
+      "wikidata_id": "Q110319554",
+      "name_ru": "Плака",
+      "name_en": "",
+      "located_in_at": "Алушта",
+      "latitude": 44.591667,
+      "longitude": 34.368333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D0%BA%D0%B0_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 103,
+      "wikidata_id": "Q4369244",
+      "name_ru": "Покровская крепость",
+      "name_en": "Intercession Fortress",
+      "located_in_at": "Марьяновский район",
+      "latitude": 54.934372,
+      "longitude": 72.211936,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 104,
+      "wikidata_id": "Q1580447",
+      "name_ru": "Пор-Бажин",
+      "name_en": "Por-Bazhyn",
+      "located_in_at": "Тыва",
+      "latitude": 50.615,
+      "longitude": 97.384722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80-%D0%91%D0%B0%D0%B6%D1%8B%D0%BD"
+    },
+    {
+      "id": 105,
+      "wikidata_id": "Q4377283",
+      "name_ru": "Преображенская крепость",
+      "name_en": "Preobragenskaya Fortress",
+      "located_in_at": "Нижнее Инхело",
+      "latitude": 42.640818,
+      "longitude": 46.241066,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 106,
+      "wikidata_id": "Q92161762",
+      "name_ru": "Пхакоч",
+      "name_en": "Itum-Kale Fortress",
+      "located_in_at": "Итум-Кали",
+      "latitude": 42.728575,
+      "longitude": 45.572128,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%85%D0%B0%D0%BA%D0%BE%D1%87"
+    },
+    {
+      "id": 107,
+      "wikidata_id": "Q4401959",
+      "name_ru": "Рыльская крепость",
+      "name_en": "Rila Fortress",
+      "located_in_at": "Рыльск",
+      "latitude": 51.570218,
+      "longitude": 34.690999,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A0%D1%8B%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 108,
+      "wikidata_id": "Q127420417",
+      "name_ru": "Самарская крепость",
+      "name_en": "",
+      "located_in_at": "Самара",
+      "latitude": 53.176452,
+      "longitude": 50.078881,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 109,
+      "wikidata_id": "Q55094648",
+      "name_ru": "Сандык-Кая",
+      "name_en": "Sandyk-Kaya",
+      "located_in_at": "Крымский полуостров",
+      "latitude": 44.532222,
+      "longitude": 33.901944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%B4%D1%8B%D0%BA-%D0%9A%D0%B0%D1%8F_(%D0%B8%D1%81%D0%B0%D1%80)"
+    },
+    {
+      "id": 110,
+      "wikidata_id": "Q127420465",
+      "name_ru": "Саратовская крепость",
+      "name_en": "",
+      "located_in_at": "Саратов",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 111,
+      "wikidata_id": "Q108775455",
+      "name_ru": "Сарымамбаш-Кермен",
+      "name_en": "Sarymambash",
+      "located_in_at": "Крымский полуостров",
+      "latitude": 44.773611,
+      "longitude": 34.018056,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D1%8B%D0%BC%D0%B0%D0%BC%D0%B1%D0%B0%D1%88-%D0%9A%D0%B5%D1%80%D0%BC%D0%B5%D0%BD"
+    },
+    {
+      "id": 112,
+      "wikidata_id": "Q4413552",
+      "name_ru": "Селенгинский острог",
+      "name_en": "Selenginsky Fort",
+      "located_in_at": "",
+      "latitude": 51.106944,
+      "longitude": 106.686944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D0%B5%D0%BD%D0%B3%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B3"
+    },
+    {
+      "id": 113,
+      "wikidata_id": "Q29043080",
+      "name_ru": "Семёновская крепость",
+      "name_en": "Semyonovsky Fortress",
+      "located_in_at": "Ростовская область",
+      "latitude": 47.13833,
+      "longitude": 38.49389,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BC%D1%91%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 114,
+      "wikidata_id": "Q125122511",
+      "name_ru": "Симбирский кремль",
+      "name_en": "",
+      "located_in_at": "Ульяновск",
+      "latitude": 54.31706,
+      "longitude": 48.404445,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BC%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C"
+    },
+    {
+      "id": 115,
+      "wikidata_id": "Q110259769",
+      "name_ru": "Солигаличская крепость",
+      "name_en": "Soligalich Fortress",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%B8%D0%B3%D0%B0%D0%BB%D0%B8%D1%87%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 116,
+      "wikidata_id": "Q122974902",
+      "name_ru": "Старогородская крепость",
+      "name_en": "Old Town Fortress",
+      "located_in_at": "Старый Город",
+      "latitude": 52.10778,
+      "longitude": 35.07694,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B5_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%89%D0%B5"
+    },
+    {
+      "id": 117,
+      "wikidata_id": "Q4440460",
+      "name_ru": "Староладожская крепость",
+      "name_en": "Staraya Ladoga Fortress",
+      "located_in_at": "Старая Ладога",
+      "latitude": 59.997771,
+      "longitude": 32.298085,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%BB%D0%B0%D0%B4%D0%BE%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 118,
+      "wikidata_id": "Q4445412",
+      "name_ru": "Суджук-кале",
+      "name_en": "Sujuk-Qale",
+      "located_in_at": "Новороссийск",
+      "latitude": 44.687778,
+      "longitude": 37.795833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%B4%D0%B6%D1%83%D0%BA-%D0%BA%D0%B0%D0%BB%D0%B5"
+    },
+    {
+      "id": 119,
+      "wikidata_id": "Q4448500",
+      "name_ru": "Сюйреньская крепость",
+      "name_en": "Suiren Fortress",
+      "located_in_at": "Бахчисарайский район",
+      "latitude": 44.6325,
+      "longitude": 33.83528,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%8E%D0%B9%D1%80%D0%B5%D0%BD%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 120,
+      "wikidata_id": "Q97203218",
+      "name_ru": "Тал-кали",
+      "name_en": "Tal-kali",
+      "located_in_at": "Итум-Кали",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BB-%D0%BA%D0%B0%D0%BB%D0%B8"
+    },
+    {
+      "id": 121,
+      "wikidata_id": "Q97316032",
+      "name_ru": "Терта",
+      "name_en": "",
+      "located_in_at": "Итум-Калинский район",
+      "latitude": 42.74829,
+      "longitude": 45.19554,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D1%82%D0%B0_(%D0%B1%D0%B0%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81)"
+    },
+    {
+      "id": 122,
+      "wikidata_id": "Q7675155",
+      "name_ru": "Троицкая крепость",
+      "name_en": "Taganrog Fortress",
+      "located_in_at": "Таганрог",
+      "latitude": 47.203525,
+      "longitude": 38.941536,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 123,
+      "wikidata_id": "Q13668634",
+      "name_ru": "Тронгзунд (крепость)",
+      "name_en": "Trångsund Fortress",
+      "located_in_at": "Выборг",
+      "latitude": 60.635278,
+      "longitude": 28.574444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%BD%D0%B3%D0%B7%D1%83%D0%BD%D0%B4_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 124,
+      "wikidata_id": "Q110259760",
+      "name_ru": "Укрепление Кишень-Аух",
+      "name_en": "Kishen Aukh Fortress",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BA%D1%80%D0%B5%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9A%D0%B8%D1%88%D0%B5%D0%BD%D1%8C-%D0%90%D1%83%D1%85"
+    },
+    {
+      "id": 125,
+      "wikidata_id": "Q110280585",
+      "name_ru": "Учансу-Исар",
+      "name_en": "Uchan-su-isar",
+      "located_in_at": "Крымский полуостров",
+      "latitude": 44.492222,
+      "longitude": 34.105556,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%87%D0%B0%D0%BD%D1%81%D1%83-%D0%98%D1%81%D0%B0%D1%80"
+    },
+    {
+      "id": 126,
+      "wikidata_id": "Q4492021",
+      "name_ru": "Форт № 1 — Штайн",
+      "name_en": "Fort I in Kaliningrad",
+      "located_in_at": "Большое Исаково",
+      "latitude": 54.706111,
+      "longitude": 20.605833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D1%82_%E2%84%96_1_%E2%80%94_%D0%A8%D1%82%D0%B0%D0%B9%D0%BD"
+    },
+    {
+      "id": 127,
+      "wikidata_id": "Q4493365",
+      "name_ru": "Фуна (крепость)",
+      "name_en": "Funa Fortress",
+      "located_in_at": "Лучистое",
+      "latitude": 44.751667,
+      "longitude": 34.388333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D0%BD%D0%B0"
+    },
+    {
+      "id": 128,
+      "wikidata_id": "Q97206378",
+      "name_ru": "Хазкалинский башенный поселок",
+      "name_en": "Khazkala tower settlement",
+      "located_in_at": "Тазбичи",
+      "latitude": 42.7237,
+      "longitude": 45.6057,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B7%D0%BA%D0%B0%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%B0%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D1%81%D1%91%D0%BB%D0%BE%D0%BA"
+    },
+    {
+      "id": 129,
+      "wikidata_id": "Q108441175",
+      "name_ru": "Химойский историко-архитектурный комплекс",
+      "name_en": "Khimoi Historical and Architectural Complex",
+      "located_in_at": "Химой",
+      "latitude": 42.655485,
+      "longitude": 45.851355,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BC%D0%BE%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%BE-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81"
+    },
+    {
+      "id": 130,
+      "wikidata_id": "Q108456555",
+      "name_ru": "Хойский историко-архитектурный комплекс",
+      "name_en": "Khoi Historical and Architectural Complex",
+      "located_in_at": "Веденский район",
+      "latitude": 42.75306,
+      "longitude": 46.13194,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%BE-%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81"
+    },
+    {
+      "id": 131,
+      "wikidata_id": "Q110259761",
+      "name_ru": "Холмогорский кремль",
+      "name_en": "Kremlin de Kholmogory",
+      "located_in_at": "",
+      "latitude": 64.21889,
+      "longitude": 41.66083,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D0%BC%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C"
+    },
+    {
+      "id": 132,
+      "wikidata_id": "Q4500278",
+      "name_ru": "Хоста (крепость)",
+      "name_en": "Khosta Fortress",
+      "located_in_at": "Хостинский район",
+      "latitude": 43.54002,
+      "longitude": 39.88033,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D1%81%D1%82%D0%B0_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 133,
+      "wikidata_id": "Q60852903",
+      "name_ru": "Хунзахская крепость",
+      "name_en": "Khunzakh Fortress",
+      "located_in_at": "Арани",
+      "latitude": 42.556306,
+      "longitude": 46.721727,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D1%83%D0%BD%D0%B7%D0%B0%D1%85%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 134,
+      "wikidata_id": "Q21640714",
+      "name_ru": "Хучнинская крепость",
+      "name_en": "Khuchni Fortress",
+      "located_in_at": "Хучни",
+      "latitude": 41.96444,
+      "longitude": 47.95694,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D1%83%D1%87%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 135,
+      "wikidata_id": "Q124743951",
+      "name_ru": "Царевококшайский кремль",
+      "name_en": "Tsarevokokshaysk Kremlin",
+      "located_in_at": "Йошкар-Ола",
+      "latitude": 56.637222,
+      "longitude": 47.903,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B0%D1%80%D0%B5%D0%B2%D0%BE%D0%BA%D0%BE%D0%BA%D1%88%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C"
+    },
+    {
+      "id": 136,
+      "wikidata_id": "Q136464740",
+      "name_ru": "Царицынская крепость",
+      "name_en": "",
+      "located_in_at": "Волгоград",
+      "latitude": 48.702185,
+      "longitude": 44.515482,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B0%D1%80%D0%B8%D1%86%D1%8B%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 137,
+      "wikidata_id": "Q21645212",
+      "name_ru": "Царёв-Борисов городок",
+      "name_en": "Tsarev-Borisov town",
+      "located_in_at": "Борисово",
+      "latitude": 55.416405,
+      "longitude": 36.053441,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%BA"
+    },
+    {
+      "id": 138,
+      "wikidata_id": "Q110995292",
+      "name_ru": "Цитадель",
+      "name_en": "Citadel",
+      "located_in_at": "Крымский полуостров",
+      "latitude": 44.594444,
+      "longitude": 33.808333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%82%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C_(%D0%9C%D0%B0%D0%BD%D0%B3%D1%83%D0%BF)"
+    },
+    {
+      "id": 139,
+      "wikidata_id": "Q15110694",
+      "name_ru": "Цитадель «Пиллау»",
+      "name_en": "Citadelle Pillau",
+      "located_in_at": "Балтийск",
+      "latitude": 54.642751,
+      "longitude": 19.887264,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BB%D0%BB%D0%B0%D1%83_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 140,
+      "wikidata_id": "Q4507943",
+      "name_ru": "Чебаки (крепость)",
+      "name_en": "Chebaki fortress",
+      "located_in_at": "",
+      "latitude": 54.62889,
+      "longitude": 89.25028,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%B1%D0%B0%D0%BA%D0%B8_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 141,
+      "wikidata_id": "Q21645296",
+      "name_ru": "Чебоксарский кремль",
+      "name_en": "Cheboksary kremlin",
+      "located_in_at": "Чебоксары",
+      "latitude": 56.15167,
+      "longitude": 47.24667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%B1%D0%BE%D0%BA%D1%81%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C"
+    },
+    {
+      "id": 142,
+      "wikidata_id": "Q4516998",
+      "name_ru": "Чобан-Кале",
+      "name_en": "Choban-Kule",
+      "located_in_at": "Судакский городской совет",
+      "latitude": 44.81139,
+      "longitude": 34.745754,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%BE%D0%B1%D0%B0%D0%BD-%D0%9A%D1%83%D0%BB%D0%B5"
+    },
+    {
+      "id": 143,
+      "wikidata_id": "Q110259762",
+      "name_ru": "Чугуевская крепость",
+      "name_en": "Chuguev Fortress",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D1%83%D0%B3%D1%83%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 144,
+      "wikidata_id": "Q1017178",
+      "name_ru": "Чуфут-Кале",
+      "name_en": "Chufut-Kale",
+      "located_in_at": "Бахчисарайский район",
+      "latitude": 44.741028,
+      "longitude": 33.924467,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D1%83%D1%84%D1%83%D1%82-%D0%9A%D0%B0%D0%BB%D0%B5"
+    },
+    {
+      "id": 145,
+      "wikidata_id": "Q110259764",
+      "name_ru": "Шуаиб-Капу",
+      "name_en": "Shuaib-Kapu Fortress",
+      "located_in_at": "Северо-Кавказский имамат",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D1%83%D0%B0%D0%B8%D0%B1-%D0%9A%D0%B0%D0%BF%D1%83"
+    },
+    {
+      "id": 146,
+      "wikidata_id": "Q68280223",
+      "name_ru": "Яблонов крепость",
+      "name_en": "Yablonov Fortress",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 147,
+      "wikidata_id": "Q124606283",
+      "name_ru": "Якутский острог",
+      "name_en": "Yakutsk Ostrog",
+      "located_in_at": "Якутская область",
+      "latitude": 62.024897,
+      "longitude": 129.735269,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AF%D0%BA%D1%83%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B3"
+    },
+    {
+      "id": 148,
+      "wikidata_id": "Q73549950",
+      "name_ru": "Ям",
+      "name_en": "Yam Fortress",
+      "located_in_at": "Кингисепп",
+      "latitude": 59.376586,
+      "longitude": 28.595009,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AF%D0%BC_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 149,
+      "wikidata_id": "Q109269714",
+      "name_ru": "Яманташ (крепость)",
+      "name_en": "Yamantash Fortress",
+      "located_in_at": "Бахчисарайский район",
+      "latitude": 44.577026,
+      "longitude": 34.14002,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AF%D0%BC%D0%B0%D0%BD%D1%82%D0%B0%D1%88_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    }
+  ],
+  "meta": {
+    "title": "Крепости России (Fortresses of Russia) - Бесплатная загрузка",
+    "description": "Список объектов категории «крепости», расположенных на территории России. Сортировка по русскому названию (по алфавиту). Источник — публичная конечная точка SPARQL Wikidata (query.wikidata.org). Для каждого объекта приводятся русское название (rdfs:label@ru), английская метка, административно-территориальная принадлежность (P131), координаты (WGS84, P625) и ссылка на русскую Википедию. Объекты без русской метки исключены согласно правилу сохранения языка оригинала. Лицензия CC0-1.0. Содержит 149 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Крепости России (Fortresses of Russia) | ListBase",
+    "seo_description": "Скачать Крепости России (Fortresses of Russia) — 149 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 149 записей / 8 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

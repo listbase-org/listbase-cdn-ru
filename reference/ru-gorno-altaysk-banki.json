@@ -1,0 +1,79 @@
+{
+  "id": "ru-gorno-altaysk-banki",
+  "name": "Банки — Gorno-Altaysk (коды SWIFT/BIC)",
+  "title": "Банки — Gorno-Altaysk (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in GORNO-ALTAYSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 380,
+      "bank": "COMMERCIAL BANK MAIMA LTD",
+      "city": "GORNO-ALTAYSK",
+      "branch": "",
+      "swift_code": "CMAARU51"
+    },
+    {
+      "id": 432,
+      "bank": "EL BANK COMMERCHESKIJ BANK OOO",
+      "city": "GORNO-ALTAYSK",
+      "branch": "",
+      "swift_code": "CMOORU51"
+    },
+    {
+      "id": 914,
+      "bank": "MOSOBLBANK",
+      "city": "GORNO-ALTAYSK",
+      "branch": "",
+      "swift_code": "MOBKRUM1021"
+    },
+    {
+      "id": 1006,
+      "bank": "NOOSFERA-BANK",
+      "city": "GORNO-ALTAYSK",
+      "branch": "",
+      "swift_code": "NOFRRU21"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Gorno-Altaysk (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in GORNO-ALTAYSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 4 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Gorno-Altaysk (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Gorno-Altaysk (коды SWIFT/BIC) — 4 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 4 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "id": "ru-bashkortostan-respublika-goroda",
+  "name": "Города — Республика Башкортостан",
+  "title": "Города — Республика Башкортостан",
+  "description": "21 городов региона «Республика Башкортостан» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Агидель",
+      "population_thousands": 14.2,
+      "latitude": 55.8999056,
+      "longitude": 53.9220144,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Баймак",
+      "population_thousands": 17.2,
+      "latitude": 52.5912896,
+      "longitude": 58.3110998,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Белебей",
+      "population_thousands": 59.2,
+      "latitude": 54.1034582,
+      "longitude": 54.1113129,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Белорецк",
+      "population_thousands": 64.9,
+      "latitude": 53.9676488,
+      "longitude": 58.4100419,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Бирск",
+      "population_thousands": 46.5,
+      "latitude": 55.4155753,
+      "longitude": 55.5582214,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Благовещенск",
+      "population_thousands": 34.8,
+      "latitude": 55.0499867,
+      "longitude": 55.9553186,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Давлеканово",
+      "population_thousands": 23.4,
+      "latitude": 54.2226707,
+      "longitude": 55.0312373,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Дюртюли",
+      "population_thousands": 31,
+      "latitude": 55.4848318,
+      "longitude": 54.8524765,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Ишимбай",
+      "population_thousands": 64.4,
+      "latitude": 53.4545764,
+      "longitude": 56.0438751,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Кумертау",
+      "population_thousands": 59.5,
+      "latitude": 52.7564939,
+      "longitude": 55.7970197,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Межгорье",
+      "population_thousands": 15.5,
+      "latitude": 54.2397689,
+      "longitude": 57.9614547,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Мелеуз",
+      "population_thousands": 56.7,
+      "latitude": 52.9589532,
+      "longitude": 55.9282838,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Нефтекамск",
+      "population_thousands": 131.1,
+      "latitude": 56.088377,
+      "longitude": 54.2483061,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Октябрьский",
+      "population_thousands": 114.1,
+      "latitude": 54.4815311,
+      "longitude": 53.4655972,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Салават",
+      "population_thousands": 150.5,
+      "latitude": 53.3616974,
+      "longitude": 55.9245224,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Сибай",
+      "population_thousands": 60.8,
+      "latitude": 52.7204651,
+      "longitude": 58.6663783,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Стерлитамак",
+      "population_thousands": 276.4,
+      "latitude": 53.6300864,
+      "longitude": 55.9317089,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Туймазы",
+      "population_thousands": 68.2,
+      "latitude": 54.5999224,
+      "longitude": 53.6950623,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Уфа",
+      "population_thousands": 1128.8,
+      "latitude": 54.734944,
+      "longitude": 55.9578468,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Учалы",
+      "population_thousands": 37.9,
+      "latitude": 54.3067375,
+      "longitude": 59.4125461,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Янаул",
+      "population_thousands": 25.1,
+      "latitude": 56.2650146,
+      "longitude": 54.929907,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Республика Башкортостан - Бесплатная загрузка",
+    "description": "21 городов региона «Республика Башкортостан» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 21 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Республика Башкортостан | ListBase",
+    "seo_description": "Скачать Города — Республика Башкортостан — 21 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 21 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

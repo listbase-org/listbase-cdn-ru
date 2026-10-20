@@ -1,0 +1,107 @@
+{
+  "id": "ru-murmansk-banki",
+  "name": "Банки — Murmansk (коды SWIFT/BIC)",
+  "title": "Банки — Murmansk (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in MURMANSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 39,
+      "bank": "ALEKSANDROVSKY BANK",
+      "city": "MURMANSK",
+      "branch": "(MURMANSK BRANCH)",
+      "swift_code": "ITEHRU21100"
+    },
+    {
+      "id": 115,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "MURMANSK",
+      "branch": "(MURMANSK BRANCH)",
+      "swift_code": "MOBWRUM1MRM"
+    },
+    {
+      "id": 948,
+      "bank": "MURMANSK SOCIAL COMMERCIAL BANK OAO",
+      "city": "MURMANSK",
+      "branch": "",
+      "swift_code": "MSCJRU21"
+    },
+    {
+      "id": 949,
+      "bank": "MURMANSK TRANSFER CENTRE",
+      "city": "MURMANSK",
+      "branch": "",
+      "swift_code": "MTEORU21"
+    },
+    {
+      "id": 1234,
+      "bank": "ROST BANK",
+      "city": "MURMANSK",
+      "branch": "(MURMANSK BRANCH)",
+      "swift_code": "JORORU21MUB"
+    },
+    {
+      "id": 1381,
+      "bank": "SOBINBANK",
+      "city": "MURMANSK",
+      "branch": "(MURMANSK BRANCH)",
+      "swift_code": "SBBARUM1017"
+    },
+    {
+      "id": 1564,
+      "bank": "VOZROZHDENIE BANK",
+      "city": "MURMANSK",
+      "branch": "(MURMANSK BRANCH)",
+      "swift_code": "VBNKRUM1MRM"
+    },
+    {
+      "id": 1622,
+      "bank": "ZAO 'BARENTSBANK'",
+      "city": "MURMANSK",
+      "branch": "",
+      "swift_code": "BROORU21"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Murmansk (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in MURMANSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 8 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Murmansk (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Murmansk (коды SWIFT/BIC) — 8 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 8 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

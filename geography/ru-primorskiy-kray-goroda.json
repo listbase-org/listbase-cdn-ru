@@ -1,0 +1,169 @@
+{
+  "id": "ru-primorskiy-kray-goroda",
+  "name": "Города — Приморский край",
+  "title": "Города — Приморский край",
+  "description": "12 городов региона «Приморский край» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Арсеньев",
+      "population_thousands": 52.2,
+      "latitude": 44.1622031,
+      "longitude": 133.2696209,
+      "region_name": "Приморский край",
+      "region_iso_code": "RU-PRI",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Артем",
+      "population_thousands": 105.7,
+      "latitude": 43.3501675,
+      "longitude": 132.1596175,
+      "region_name": "Приморский край",
+      "region_iso_code": "RU-PRI",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Большой Камень",
+      "population_thousands": 39.1,
+      "latitude": 43.1111742,
+      "longitude": 132.3480082,
+      "region_name": "Приморский край",
+      "region_iso_code": "RU-PRI",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Владивосток",
+      "population_thousands": 606.6,
+      "latitude": 43.1164904,
+      "longitude": 131.8823937,
+      "region_name": "Приморский край",
+      "region_iso_code": "RU-PRI",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Дальнегорск",
+      "population_thousands": 34.1,
+      "latitude": 44.5539457,
+      "longitude": 135.5662716,
+      "region_name": "Приморский край",
+      "region_iso_code": "RU-PRI",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Дальнереченск",
+      "population_thousands": 25.1,
+      "latitude": 45.9308483,
+      "longitude": 133.7316907,
+      "region_name": "Приморский край",
+      "region_iso_code": "RU-PRI",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Лесозаводск",
+      "population_thousands": 35.1,
+      "latitude": 45.4780092,
+      "longitude": 133.4186199,
+      "region_name": "Приморский край",
+      "region_iso_code": "RU-PRI",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Находка",
+      "population_thousands": 145.2,
+      "latitude": 42.8239372,
+      "longitude": 132.8927361,
+      "region_name": "Приморский край",
+      "region_iso_code": "RU-PRI",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Партизанск",
+      "population_thousands": 36.6,
+      "latitude": 43.1280578,
+      "longitude": 133.1264567,
+      "region_name": "Приморский край",
+      "region_iso_code": "RU-PRI",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Спасск-Дальний",
+      "population_thousands": 39.8,
+      "latitude": 44.5901175,
+      "longitude": 132.8157288,
+      "region_name": "Приморский край",
+      "region_iso_code": "RU-PRI",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Уссурийск",
+      "population_thousands": 173.6,
+      "latitude": 43.7971818,
+      "longitude": 131.9518229,
+      "region_name": "Приморский край",
+      "region_iso_code": "RU-PRI",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Фокино",
+      "population_thousands": 22.9,
+      "latitude": 42.9706317,
+      "longitude": 132.4110196,
+      "region_name": "Приморский край",
+      "region_iso_code": "RU-PRI",
+      "federal_district": "Дальневосточный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Приморский край - Бесплатная загрузка",
+    "description": "12 городов региона «Приморский край» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 12 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Приморский край | ListBase",
+    "seo_description": "Скачать Города — Приморский край — 12 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 12 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

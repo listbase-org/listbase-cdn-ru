@@ -1,0 +1,292 @@
+{
+  "id": "ru-dagestan-respublika-aeroporty",
+  "name": "Аэропорты — Republic of Dagestan (RU-DA)",
+  "title": "Аэропорты — Republic of Dagestan (RU-DA)",
+  "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Republic of Dagestan (ISO 3166-2 RU-DA) — 7 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"small_airport\": 4, \"heliport\": 2, \"large_airport\": 1}. Извлечено из OurAirports.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 44978,
+      "ident": "RU-0235",
+      "type": "small_airport",
+      "name": "Akhty Airfield",
+      "latitude_deg": 41.4744544227,
+      "longitude_deg": 47.7015209198,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-DA",
+      "region_local_code": "DA",
+      "region_name": "Republic of Dagestan",
+      "municipality": "",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "id": 46248,
+      "ident": "RU-0377",
+      "type": "small_airport",
+      "name": "Makhachkala-1 Airfield",
+      "latitude_deg": 43.0126495066,
+      "longitude_deg": 47.4357461929,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-DA",
+      "region_local_code": "DA",
+      "region_name": "Republic of Dagestan",
+      "municipality": "Makhachkala",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Аэродром Махачкала-1"
+    },
+    {
+      "id": 46249,
+      "ident": "RU-0378",
+      "type": "small_airport",
+      "name": "Khunzakh Alart Airport",
+      "latitude_deg": 42.570339,
+      "longitude_deg": 46.729059,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-DA",
+      "region_local_code": "DA",
+      "region_name": "Republic of Dagestan",
+      "municipality": "Khunzakh",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Аэропорт Хунзах"
+    },
+    {
+      "id": 46250,
+      "ident": "RU-0379",
+      "type": "heliport",
+      "name": "Tlyarata Helipad",
+      "latitude_deg": 42.1167563323,
+      "longitude_deg": 46.3519728184,
+      "elevation_ft": 4921,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-DA",
+      "region_local_code": "DA",
+      "region_name": "Republic of Dagestan",
+      "municipality": "Tlyarata",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Вертолётная площадка Тлярата"
+    },
+    {
+      "id": 351201,
+      "ident": "RU-0777",
+      "type": "small_airport",
+      "name": "Novokayakent Airport",
+      "latitude_deg": 42.33369,
+      "longitude_deg": 48.02926,
+      "elevation_ft": -39,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-DA",
+      "region_local_code": "DA",
+      "region_name": "Republic of Dagestan",
+      "municipality": "Kichi-Istisu",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Kurort Kayakent"
+    },
+    {
+      "id": 351202,
+      "ident": "RU-0778",
+      "type": "heliport",
+      "name": "Derbent Central City Hospital Heliport",
+      "latitude_deg": 42.02743,
+      "longitude_deg": 48.32866,
+      "elevation_ft": -79,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-DA",
+      "region_local_code": "DA",
+      "region_name": "Republic of Dagestan",
+      "municipality": "Derbent",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "id": 6513,
+      "ident": "URML",
+      "type": "large_airport",
+      "name": "Makhachkala Uytash International Airport",
+      "latitude_deg": 42.816799,
+      "longitude_deg": 47.652302,
+      "elevation_ft": 12,
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-DA",
+      "region_local_code": "DA",
+      "region_name": "Republic of Dagestan",
+      "municipality": "Makhachkala",
+      "scheduled_service": "yes",
+      "icao_code": "URML",
+      "iata_code": "MCX",
+      "gps_code": "URML",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Uytash_airport",
+      "keywords": ""
+    }
+  ],
+  "meta": {
+    "title": "Аэропорты — Republic of Dagestan (RU-DA) - Бесплатная загрузка",
+    "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Republic of Dagestan (ISO 3166-2 RU-DA) — 7 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"small_airport\": 4, \"heliport\": 2, \"large_airport\": 1}. Извлечено из OurAirports. Содержит 7 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Аэропорты — Republic of Dagestan (RU-DA) | ListBase",
+    "seo_description": "Скачать Аэропорты — Republic of Dagestan (RU-DA) — 7 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 7 записей / 21 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

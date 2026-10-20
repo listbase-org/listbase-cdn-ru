@@ -1,0 +1,352 @@
+{
+  "id": "ru-almaty-metro-stantsii",
+  "name": "Станции метро — Алматы",
+  "title": "Станции метро — Алматы",
+  "description": "11 станций метро города Алматы (Казахстан) — единственная действующая линия метрополитена. Русские и латинизированные названия, координаты, линия, порядок следования. Источник: nalgeon/metro (коммит e368582).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_localized",
+      "label": "Name Localized",
+      "type": "string"
+    },
+    {
+      "key": "name_romanized",
+      "label": "Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "line_id",
+      "label": "Line Id",
+      "type": "number"
+    },
+    {
+      "key": "line_name_localized",
+      "label": "Line Name Localized",
+      "type": "string"
+    },
+    {
+      "key": "line_name_romanized",
+      "label": "Line Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "line_color",
+      "label": "Line Color",
+      "type": "string"
+    },
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_name_localized",
+      "label": "City Name Localized",
+      "type": "string"
+    },
+    {
+      "key": "city_name_romanized",
+      "label": "City Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "city_name_source_localized",
+      "label": "City Name Source Localized",
+      "type": "string"
+    },
+    {
+      "key": "city_name_source_romanized",
+      "label": "City Name Source Romanized",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "station_order",
+      "label": "Station Order",
+      "type": "number"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_localized",
+      "label": "Country Localized",
+      "type": "string"
+    },
+    {
+      "key": "country_romanized",
+      "label": "Country Romanized",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "64.430",
+      "name_localized": "Райымбек батыра",
+      "name_romanized": "Raiymbek Batyr",
+      "line_id": "64",
+      "line_name_localized": "Первая",
+      "line_name_romanized": "Pervaya",
+      "line_color": "CD0505",
+      "city_id": "160",
+      "city_slug": "almaty",
+      "city_name_localized": "Алматы",
+      "city_name_romanized": "Almaty",
+      "city_name_source_localized": "Алматы",
+      "city_name_source_romanized": "Almaty",
+      "latitude": 43.271201,
+      "longitude": 76.9448,
+      "station_order": 0,
+      "country_code": "KZ",
+      "country_localized": "Казахстан",
+      "country_romanized": "Kazakhstan"
+    },
+    {
+      "id": "64.431",
+      "name_localized": "Жибек Жолы",
+      "name_romanized": "Zhibek Zholy",
+      "line_id": "64",
+      "line_name_localized": "Первая",
+      "line_name_romanized": "Pervaya",
+      "line_color": "CD0505",
+      "city_id": "160",
+      "city_slug": "almaty",
+      "city_name_localized": "Алматы",
+      "city_name_romanized": "Almaty",
+      "city_name_source_localized": "Алматы",
+      "city_name_source_romanized": "Almaty",
+      "latitude": 43.260199,
+      "longitude": 76.946103,
+      "station_order": 1,
+      "country_code": "KZ",
+      "country_localized": "Казахстан",
+      "country_romanized": "Kazakhstan"
+    },
+    {
+      "id": "64.432",
+      "name_localized": "Алмалы",
+      "name_romanized": "Almaly",
+      "line_id": "64",
+      "line_name_localized": "Первая",
+      "line_name_romanized": "Pervaya",
+      "line_color": "CD0505",
+      "city_id": "160",
+      "city_slug": "almaty",
+      "city_name_localized": "Алматы",
+      "city_name_romanized": "Almaty",
+      "city_name_source_localized": "Алматы",
+      "city_name_source_romanized": "Almaty",
+      "latitude": 43.251295,
+      "longitude": 76.945456,
+      "station_order": 2,
+      "country_code": "KZ",
+      "country_localized": "Казахстан",
+      "country_romanized": "Kazakhstan"
+    },
+    {
+      "id": "64.433",
+      "name_localized": "Абая",
+      "name_romanized": "Abay",
+      "line_id": "64",
+      "line_name_localized": "Первая",
+      "line_name_romanized": "Pervaya",
+      "line_color": "CD0505",
+      "city_id": "160",
+      "city_slug": "almaty",
+      "city_name_localized": "Алматы",
+      "city_name_romanized": "Almaty",
+      "city_name_source_localized": "Алматы",
+      "city_name_source_romanized": "Almaty",
+      "latitude": 43.242548,
+      "longitude": 76.949588,
+      "station_order": 3,
+      "country_code": "KZ",
+      "country_localized": "Казахстан",
+      "country_romanized": "Kazakhstan"
+    },
+    {
+      "id": "64.434",
+      "name_localized": "Байконур",
+      "name_romanized": "Baikonur",
+      "line_id": "64",
+      "line_name_localized": "Первая",
+      "line_name_romanized": "Pervaya",
+      "line_color": "CD0505",
+      "city_id": "160",
+      "city_slug": "almaty",
+      "city_name_localized": "Алматы",
+      "city_name_romanized": "Almaty",
+      "city_name_source_localized": "Алматы",
+      "city_name_source_romanized": "Almaty",
+      "latitude": 43.240401,
+      "longitude": 76.927696,
+      "station_order": 4,
+      "country_code": "KZ",
+      "country_localized": "Казахстан",
+      "country_romanized": "Kazakhstan"
+    },
+    {
+      "id": "64.435",
+      "name_localized": "Театр имени Ауэзова",
+      "name_romanized": "Auezov Theater",
+      "line_id": "64",
+      "line_name_localized": "Первая",
+      "line_name_romanized": "Pervaya",
+      "line_color": "CD0505",
+      "city_id": "160",
+      "city_slug": "almaty",
+      "city_name_localized": "Алматы",
+      "city_name_romanized": "Almaty",
+      "city_name_source_localized": "Алматы",
+      "city_name_source_romanized": "Almaty",
+      "latitude": 43.240362,
+      "longitude": 76.917519,
+      "station_order": 5,
+      "country_code": "KZ",
+      "country_localized": "Казахстан",
+      "country_romanized": "Kazakhstan"
+    },
+    {
+      "id": "64.436",
+      "name_localized": "Алатау",
+      "name_romanized": "Alatau",
+      "line_id": "64",
+      "line_name_localized": "Первая",
+      "line_name_romanized": "Pervaya",
+      "line_color": "CD0505",
+      "city_id": "160",
+      "city_slug": "almaty",
+      "city_name_localized": "Алматы",
+      "city_name_romanized": "Almaty",
+      "city_name_source_localized": "Алматы",
+      "city_name_source_romanized": "Almaty",
+      "latitude": 43.239041,
+      "longitude": 76.897612,
+      "station_order": 6,
+      "country_code": "KZ",
+      "country_localized": "Казахстан",
+      "country_romanized": "Kazakhstan"
+    },
+    {
+      "id": "64.510",
+      "name_localized": "Сайран",
+      "name_romanized": "Sayran",
+      "line_id": "64",
+      "line_name_localized": "Первая",
+      "line_name_romanized": "Pervaya",
+      "line_color": "CD0505",
+      "city_id": "160",
+      "city_slug": "almaty",
+      "city_name_localized": "Алматы",
+      "city_name_romanized": "Almaty",
+      "city_name_source_localized": "Алматы",
+      "city_name_source_romanized": "Almaty",
+      "latitude": 43.2362,
+      "longitude": 76.8764,
+      "station_order": 7,
+      "country_code": "KZ",
+      "country_localized": "Казахстан",
+      "country_romanized": "Kazakhstan"
+    },
+    {
+      "id": "64.511",
+      "name_localized": "Москва",
+      "name_romanized": "Moscow",
+      "line_id": "64",
+      "line_name_localized": "Первая",
+      "line_name_romanized": "Pervaya",
+      "line_color": "CD0505",
+      "city_id": "160",
+      "city_slug": "almaty",
+      "city_name_localized": "Алматы",
+      "city_name_romanized": "Almaty",
+      "city_name_source_localized": "Алматы",
+      "city_name_source_romanized": "Almaty",
+      "latitude": 43.23,
+      "longitude": 76.867,
+      "station_order": 8,
+      "country_code": "KZ",
+      "country_localized": "Казахстан",
+      "country_romanized": "Kazakhstan"
+    },
+    {
+      "id": "64.819",
+      "name_localized": "Сары-Арка",
+      "name_romanized": "Sary-Arka",
+      "line_id": "64",
+      "line_name_localized": "Первая",
+      "line_name_romanized": "Pervaya",
+      "line_color": "CD0505",
+      "city_id": "160",
+      "city_slug": "almaty",
+      "city_name_localized": "Алматы",
+      "city_name_romanized": "Almaty",
+      "city_name_source_localized": "Алматы",
+      "city_name_source_romanized": "Almaty",
+      "latitude": 43.22,
+      "longitude": 76.851111,
+      "station_order": 9,
+      "country_code": "KZ",
+      "country_localized": "Казахстан",
+      "country_romanized": "Kazakhstan"
+    },
+    {
+      "id": "64.820",
+      "name_localized": "Бауыржан Момышулы",
+      "name_romanized": "Bauyrzhan Momyshuly",
+      "line_id": "64",
+      "line_name_localized": "Первая",
+      "line_name_romanized": "Pervaya",
+      "line_color": "CD0505",
+      "city_id": "160",
+      "city_slug": "almaty",
+      "city_name_localized": "Алматы",
+      "city_name_romanized": "Almaty",
+      "city_name_source_localized": "Алматы",
+      "city_name_source_romanized": "Almaty",
+      "latitude": 43.216389,
+      "longitude": 76.838056,
+      "station_order": 10,
+      "country_code": "KZ",
+      "country_localized": "Казахстан",
+      "country_romanized": "Kazakhstan"
+    }
+  ],
+  "meta": {
+    "title": "Станции метро — Алматы - Бесплатная загрузка",
+    "description": "11 станций метро города Алматы (Казахстан) — единственная действующая линия метрополитена. Русские и латинизированные названия, координаты, линия, порядок следования. Источник: nalgeon/metro (коммит e368582). Содержит 11 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Станции метро — Алматы | ListBase",
+    "seo_description": "Скачать Станции метро — Алматы — 11 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 11 записей / 19 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

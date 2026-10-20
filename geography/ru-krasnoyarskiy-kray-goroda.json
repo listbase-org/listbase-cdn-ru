@@ -1,0 +1,268 @@
+{
+  "id": "ru-krasnoyarskiy-kray-goroda",
+  "name": "Города — Красноярский край",
+  "title": "Города — Красноярский край",
+  "description": "23 городов региона «Красноярский край» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Артемовск",
+      "population_thousands": 1.6,
+      "latitude": 54.3473075,
+      "longitude": 93.4358377,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Ачинск",
+      "population_thousands": 105.5,
+      "latitude": 56.253907,
+      "longitude": 90.4794397,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Боготол",
+      "population_thousands": 19.6,
+      "latitude": 56.2098468,
+      "longitude": 89.5299336,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Бородино",
+      "population_thousands": 16.1,
+      "latitude": 55.9054121,
+      "longitude": 94.9020967,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Дивногорск",
+      "population_thousands": 29.2,
+      "latitude": 55.9576784,
+      "longitude": 92.3800687,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Дудинка",
+      "population_thousands": 20.8,
+      "latitude": 69.4031364,
+      "longitude": 86.1907218,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Енисейск",
+      "population_thousands": 17.8,
+      "latitude": 58.4485261,
+      "longitude": 92.1651083,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Железногорск",
+      "population_thousands": 82.6,
+      "latitude": 56.2529035,
+      "longitude": 93.532273,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Заозерный",
+      "population_thousands": 10.2,
+      "latitude": 55.9617752,
+      "longitude": 94.7091491,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Зеленогорск",
+      "population_thousands": 61.6,
+      "latitude": 56.1131564,
+      "longitude": 94.5888103,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Игарка",
+      "population_thousands": 4.3,
+      "latitude": 67.4666901,
+      "longitude": 86.5812794,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Иланский",
+      "population_thousands": 14.9,
+      "latitude": 56.2374037,
+      "longitude": 96.067267,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Канск",
+      "population_thousands": 88.9,
+      "latitude": 56.2051282,
+      "longitude": 95.7051096,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Кодинск",
+      "population_thousands": 15.7,
+      "latitude": 58.6032644,
+      "longitude": 99.1797962,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Красноярск",
+      "population_thousands": 1093.8,
+      "latitude": 56.0093879,
+      "longitude": 92.8524806,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Лесосибирск",
+      "population_thousands": 59.3,
+      "latitude": 58.221681,
+      "longitude": 92.5037872,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Минусинск",
+      "population_thousands": 67.9,
+      "latitude": 53.7104586,
+      "longitude": 91.6872907,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Назарово",
+      "population_thousands": 49.7,
+      "latitude": 56.0113799,
+      "longitude": 90.4168775,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Норильск",
+      "population_thousands": 181.8,
+      "latitude": 69.3489978,
+      "longitude": 88.2009846,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Сосновоборск",
+      "population_thousands": 41.1,
+      "latitude": 56.1202647,
+      "longitude": 93.3354121,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Ужур",
+      "population_thousands": 15.3,
+      "latitude": 55.3141969,
+      "longitude": 89.8333918,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Уяр",
+      "population_thousands": 11.9,
+      "latitude": 55.8131263,
+      "longitude": 94.3282601,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Шарыпово",
+      "population_thousands": 36.7,
+      "latitude": 55.5389739,
+      "longitude": 89.1801044,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Красноярский край - Бесплатная загрузка",
+    "description": "23 городов региона «Красноярский край» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 23 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Красноярский край | ListBase",
+    "seo_description": "Скачать Города — Красноярский край — 23 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 23 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

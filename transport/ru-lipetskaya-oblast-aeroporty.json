@@ -1,0 +1,246 @@
+{
+  "id": "ru-lipetskaya-oblast-aeroporty",
+  "name": "Аэропорты — Lipetsk Oblast (RU-LIP)",
+  "title": "Аэропорты — Lipetsk Oblast (RU-LIP)",
+  "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Lipetsk Oblast (ISO 3166-2 RU-LIP) — 5 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"medium_airport\": 2, \"small_airport\": 2, \"heliport\": 1}. Извлечено из OurAirports.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 41136,
+      "ident": "RU-0016",
+      "type": "medium_airport",
+      "name": "Lipetsk Air Base",
+      "latitude_deg": 52.634998,
+      "longitude_deg": 39.445,
+      "elevation_ft": 636,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-LIP",
+      "region_local_code": "LIP",
+      "region_name": "Lipetsk Oblast",
+      "municipality": "Lipetsk",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "XUWL",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Lipetsk_Air_Base",
+      "keywords": "ЬУВЛ, Липецк-2"
+    },
+    {
+      "id": 44419,
+      "ident": "RU-0140",
+      "type": "small_airport",
+      "name": "Gryazi Airfield",
+      "latitude_deg": 52.43299865722656,
+      "longitude_deg": 39.900001525878906,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-LIP",
+      "region_local_code": "LIP",
+      "region_name": "Lipetsk Oblast",
+      "municipality": "Gryazi",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Аэродром Грязи"
+    },
+    {
+      "id": 46151,
+      "ident": "RU-0323",
+      "type": "small_airport",
+      "name": "Usman Airfield",
+      "latitude_deg": 52.025,
+      "longitude_deg": 39.675,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-LIP",
+      "region_local_code": "LIP",
+      "region_name": "Lipetsk Oblast",
+      "municipality": "Usman",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "XUOU",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Аэродром Усмань, Сапсан, Sapsan"
+    },
+    {
+      "id": 341658,
+      "ident": "RU-0657",
+      "type": "heliport",
+      "name": "Topki Heliport",
+      "latitude_deg": 53.33984,
+      "longitude_deg": 39.58225,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-LIP",
+      "region_local_code": "LIP",
+      "region_name": "Lipetsk Oblast",
+      "municipality": "Topki",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "id": 31846,
+      "ident": "UUOL",
+      "type": "medium_airport",
+      "name": "Lipetsk Airport",
+      "latitude_deg": 52.70280075073242,
+      "longitude_deg": 39.53779983520508,
+      "elevation_ft": 584,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-LIP",
+      "region_local_code": "LIP",
+      "region_name": "Lipetsk Oblast",
+      "municipality": "Lipetsk",
+      "scheduled_service": "yes",
+      "icao_code": "UUOL",
+      "iata_code": "LPK",
+      "gps_code": "UUOL",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Lipetsk_Airport",
+      "keywords": ""
+    }
+  ],
+  "meta": {
+    "title": "Аэропорты — Lipetsk Oblast (RU-LIP) - Бесплатная загрузка",
+    "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Lipetsk Oblast (ISO 3166-2 RU-LIP) — 5 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"medium_airport\": 2, \"small_airport\": 2, \"heliport\": 1}. Извлечено из OurAirports. Содержит 5 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Аэропорты — Lipetsk Oblast (RU-LIP) | ListBase",
+    "seo_description": "Скачать Аэропорты — Lipetsk Oblast (RU-LIP) — 5 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 5 записей / 21 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

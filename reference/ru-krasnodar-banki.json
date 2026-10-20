@@ -1,0 +1,275 @@
+{
+  "id": "ru-krasnodar-banki",
+  "name": "Банки — Krasnodar (коды SWIFT/BIC)",
+  "title": "Банки — Krasnodar (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in KRASNODAR (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 32,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 20,
+      "bank": "AK BARS BANK",
+      "city": "KRASNODAR",
+      "branch": "(KRASNODAR BRANCH)",
+      "swift_code": "ARRSRU21KRD"
+    },
+    {
+      "id": 194,
+      "bank": "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "KRASNODAR",
+      "branch": "(KRASNODAR BRANCH)",
+      "swift_code": "JSNMRUMMKRD"
+    },
+    {
+      "id": 211,
+      "bank": "BANK PERVOMAISKY (PJSC)",
+      "city": "KRASNODAR",
+      "branch": "",
+      "swift_code": "PEJCRU21"
+    },
+    {
+      "id": 219,
+      "bank": "BANK ''ROSSIYA''",
+      "city": "KRASNODAR",
+      "branch": "(KRASNODAR BRANCH)",
+      "swift_code": "ROSYRU21KRD"
+    },
+    {
+      "id": 239,
+      "bank": "BANK RRDB (JSC)",
+      "city": "KRASNODAR",
+      "branch": "(KRASNODAR BRANCH)",
+      "swift_code": "RRDBRUM1KND"
+    },
+    {
+      "id": 270,
+      "bank": "BANK SOYUZ",
+      "city": "KRASNODAR",
+      "branch": "(KRASNODAR BRANCH)",
+      "swift_code": "JCAMRUM1KRD"
+    },
+    {
+      "id": 318,
+      "bank": "CB GT BANK LLC",
+      "city": "KRASNODAR",
+      "branch": "",
+      "swift_code": "LLCLRUM2"
+    },
+    {
+      "id": 323,
+      "bank": "CB 'KUBAN CREDIT' LTD",
+      "city": "KRASNODAR",
+      "branch": "",
+      "swift_code": "KUKRRU21"
+    },
+    {
+      "id": 324,
+      "bank": "CB 'KUBAN CREDIT' LTD",
+      "city": "KRASNODAR",
+      "branch": "",
+      "swift_code": "KUKRRU22"
+    },
+    {
+      "id": 495,
+      "bank": "GAZPROMBANK (JOINT - STOCK COMPANY)",
+      "city": "KRASNODAR",
+      "branch": "(YUZHNY BRANCH)",
+      "swift_code": "GAZPRUMM007"
+    },
+    {
+      "id": 532,
+      "bank": "IDEA BANK",
+      "city": "KRASNODAR",
+      "branch": "",
+      "swift_code": "KUBBRU21"
+    },
+    {
+      "id": 624,
+      "bank": "JOINT-STOCK BANK YUG-INVESTBANK (JOINT-STOCK COMPANY)",
+      "city": "KRASNODAR",
+      "branch": "",
+      "swift_code": "YJSCRU22"
+    },
+    {
+      "id": 654,
+      "bank": "JSC CDBBANK",
+      "city": "KRASNODAR",
+      "branch": "",
+      "swift_code": "IBKKRU22"
+    },
+    {
+      "id": 703,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "KRASNODAR",
+      "branch": "(KRASNODARSKY BRANCH)",
+      "swift_code": "RUAGRUM1003"
+    },
+    {
+      "id": 777,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "KRASNODAR",
+      "branch": "(REGIONAL DEPARTMENT OFFICE IN THE CITY OF KRASNODAR)",
+      "swift_code": "MINNRUM1051"
+    },
+    {
+      "id": 842,
+      "bank": "KRYLOVSKY BANK",
+      "city": "KRASNODAR",
+      "branch": "",
+      "swift_code": "KRYLRU21"
+    },
+    {
+      "id": 845,
+      "bank": "KUBANSKIJ UNIVERSALNYJ BANK",
+      "city": "KRASNODAR",
+      "branch": "",
+      "swift_code": "KUUNRU21"
+    },
+    {
+      "id": 846,
+      "bank": "KUBANTORGBANK ZAO",
+      "city": "KRASNODAR",
+      "branch": "",
+      "swift_code": "KUZARU21"
+    },
+    {
+      "id": 986,
+      "bank": "NECKLACE BANK OOO",
+      "city": "KRASNODAR",
+      "branch": "",
+      "swift_code": "BNECRUMM023"
+    },
+    {
+      "id": 988,
+      "bank": "NEFTEPROMBANK",
+      "city": "KRASNODAR",
+      "branch": "(KRASNODAR BRANCH)",
+      "swift_code": "INDMRUM1KRD"
+    },
+    {
+      "id": 1015,
+      "bank": "NOVOPOKROVSKIJ",
+      "city": "KRASNODAR",
+      "branch": "",
+      "swift_code": "NOVPRU24"
+    },
+    {
+      "id": 1175,
+      "bank": "PUBLIC JOINT-STOCK COMPANY KRASNODAR REGIONAL INVESTMENT BANK",
+      "city": "KRASNODAR",
+      "branch": "",
+      "swift_code": "KRRIRU22"
+    },
+    {
+      "id": 1228,
+      "bank": "ROST BANK",
+      "city": "KRASNODAR",
+      "branch": "(KRASNODAR BRANCH)",
+      "swift_code": "JORORU21KRB"
+    },
+    {
+      "id": 1379,
+      "bank": "SOBINBANK",
+      "city": "KRASNODAR",
+      "branch": "(KRASNODAR BRANCH)",
+      "swift_code": "SBBARUM1021"
+    },
+    {
+      "id": 1433,
+      "bank": "SVIAZ-BANK",
+      "city": "KRASNODAR",
+      "branch": "(KRASNODAR BRANCH)",
+      "swift_code": "SVIZRUM1KRN"
+    },
+    {
+      "id": 1472,
+      "bank": "THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)",
+      "city": "KRASNODAR",
+      "branch": "(KRASNODARSKIJ BRANCH)",
+      "swift_code": "UBRDRU41KRS"
+    },
+    {
+      "id": 1495,
+      "bank": "TRANSKAPITALBANK",
+      "city": "KRASNODAR",
+      "branch": "(KRASNODAR BRANCH)",
+      "swift_code": "TJSCRUM1KRD"
+    },
+    {
+      "id": 1531,
+      "bank": "URALSIB BANK",
+      "city": "KRASNODAR",
+      "branch": "(YUZHNIY BRANCH)",
+      "swift_code": "AVTBRUM1048"
+    },
+    {
+      "id": 1548,
+      "bank": "VNESHFINBANK",
+      "city": "KRASNODAR",
+      "branch": "",
+      "swift_code": "VNESRU21"
+    },
+    {
+      "id": 1560,
+      "bank": "VOZROZHDENIE BANK",
+      "city": "KRASNODAR",
+      "branch": "(KRASNODAR BRANCH)",
+      "swift_code": "VBNKRUM1KRD"
+    },
+    {
+      "id": 1578,
+      "bank": "VTB 24 (PJSC)",
+      "city": "KRASNODAR",
+      "branch": "(N 2351)",
+      "swift_code": "CBGURUMMKRD"
+    },
+    {
+      "id": 1619,
+      "bank": "YMK BANK",
+      "city": "KRASNODAR",
+      "branch": "",
+      "swift_code": "YMKYRU21"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Krasnodar (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in KRASNODAR (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 32 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Krasnodar (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Krasnodar (коды SWIFT/BIC) — 32 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 32 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

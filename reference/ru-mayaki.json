@@ -1,0 +1,988 @@
+{
+  "id": "ru-mayaki",
+  "name": "Маяки России",
+  "title": "Маяки России",
+  "description": "Список географических объектов класса «маяк», расположенных в России. Источник — Wikidata через публичный SPARQL-эндпоинт (instance of/subclass of Q39715, страна Россия Q159). Для каждого объекта приведены русское название (rdfs:label@ru), английское название, географические координаты (WGS84, P625) и ссылка на статью русской Википедии. Записи отсортированы по алфавиту русского названия. Записи без русскоязычной (кириллической) этикетки отфильтрованы согласно правилу проекта о сохранении родного текста. Первый набор этого класса в русской коллекции. Всего 103 уникальных QID; координаты доступны для 86.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 103,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ru",
+      "label": "Name Ru",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ru",
+      "label": "Wikipedia Ru",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q4058664",
+      "name_ru": "Ай-Тодорский маяк",
+      "name_en": "Ai-Todorsky lighthouse",
+      "latitude": 44.428455,
+      "longitude": 34.122465,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%B9-%D0%A2%D0%BE%D0%B4%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q26257034",
+      "name_ru": "Анапский маяк",
+      "name_en": "Anapa lighthouse",
+      "latitude": 44.888025,
+      "longitude": 37.299208,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D0%BF%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q21635815",
+      "name_ru": "Бакальский маяк",
+      "name_en": "Bakalsky lighthouse",
+      "latitude": 45.8043958,
+      "longitude": 33.1746578,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BA%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q11753149",
+      "name_ru": "Балтийский маяк",
+      "name_en": "Baltiysky lighthouse",
+      "latitude": 54.6388083,
+      "longitude": 19.8933281,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q106632441",
+      "name_ru": "Башня РЦУДС «Раскат»",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q18682760",
+      "name_ru": "Большой Тютерс",
+      "name_en": "Bolshoy Tyuters",
+      "latitude": 59.85431,
+      "longitude": 27.18671,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q33231890",
+      "name_ru": "Вайдагубский маяк",
+      "name_en": "Vaidagubsky lighthouse",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q130545227",
+      "name_ru": "Вуохенсало",
+      "name_en": "",
+      "latitude": 60.975951,
+      "longitude": 30.305575,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q33231910",
+      "name_ru": "Гавриловский маяк",
+      "name_en": "Gavrilovsky lighthouse",
+      "latitude": 69.201111111,
+      "longitude": 35.816666666,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q26257037",
+      "name_ru": "Геленджикский маяк",
+      "name_en": "",
+      "latitude": 44.550277777,
+      "longitude": 38.050277777,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BB%D0%B5%D0%BD%D0%B4%D0%B6%D0%B8%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q24937319",
+      "name_ru": "Дербентский маяк",
+      "name_en": "Derbent Lighthouse",
+      "latitude": 42.06134,
+      "longitude": 48.29601,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D1%80%D0%B1%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q28375444",
+      "name_ru": "Дообский маяк",
+      "name_en": "Doob Lighthouse",
+      "latitude": 44.62726,
+      "longitude": 37.91045,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q21639186",
+      "name_ru": "Евпаторийский маяк",
+      "name_en": "Yevpatoriya Lighthouse",
+      "latitude": 45.151111111,
+      "longitude": 33.268888888,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%95%D0%B2%D0%BF%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q33231850",
+      "name_ru": "Жужмуйский маяк",
+      "name_en": "Zhuzhmuysky lighthouse",
+      "latitude": 64.679444444,
+      "longitude": 35.560555555,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q33133902",
+      "name_ru": "Задний маяк створа Кронштадтских маяков (бывший Большой верхний Николаевский створный маяк) (Кронштадт)",
+      "name_en": "Lomonosov Canal Range Rear",
+      "latitude": 59.972092,
+      "longitude": 29.789182,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q33231957",
+      "name_ru": "Задний маяк створа Санкт-Петербургского Морского канала (Кронштадт)",
+      "name_en": "Lower Sea Channel range light",
+      "latitude": 59.975749,
+      "longitude": 29.73095,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q33133895",
+      "name_ru": "Задний створный маяк Кронштадтского рейда (деревянный) (Кронштадт)",
+      "name_en": "Kabotazhnaya Gavan Range Rear Lighthouse",
+      "latitude": 59.983983,
+      "longitude": 29.762116,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q106449838",
+      "name_ru": "Задний створный маяк Морского канала",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q33231860",
+      "name_ru": "Зимнегорский маяк",
+      "name_en": "Zimnegorsky lighthouse",
+      "latitude": 65.477777777,
+      "longitude": 39.709166666,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q21639906",
+      "name_ru": "Ильинский маяк",
+      "name_en": "Ilyinsky lighthouse",
+      "latitude": 45.0125,
+      "longitude": 35.42222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D0%BB%D1%8C%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q21639918",
+      "name_ru": "Инкерманские маяки",
+      "name_en": "",
+      "latitude": 44.61833333,
+      "longitude": 33.58833333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%BA%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BC%D0%B0%D1%8F%D0%BA%D0%B8"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q33231897",
+      "name_ru": "Канинский маяк",
+      "name_en": "Kaninsky lighthouse",
+      "latitude": 68.655277777,
+      "longitude": 43.294166666,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q132154083",
+      "name_ru": "Кастрикум",
+      "name_en": "",
+      "latitude": 46.23,
+      "longitude": 150.566666666,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%81%D1%82%D1%80%D0%B8%D0%BA%D1%83%D0%BC_(%D0%BC%D0%B0%D1%8F%D0%BA)"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q33231881",
+      "name_ru": "Кашкаранцевский маяк",
+      "name_en": "Kashkarantsy lighthouse",
+      "latitude": 66.335,
+      "longitude": 36.018055555,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%88%D0%BA%D0%B0%D1%80%D0%B0%D0%BD%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q106258734",
+      "name_ru": "Колонна-маяк в парке трехсотлетия Санкт-Петербурга",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q86669799",
+      "name_ru": "Красный партизан",
+      "name_en": "",
+      "latitude": 48.97542,
+      "longitude": 140.38871,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D0%BD_(%D0%BC%D0%B0%D1%8F%D0%BA)"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q4241024",
+      "name_ru": "Крильон (маяк)",
+      "name_en": "Cape Crillon Lighthouse",
+      "latitude": 45.89595278,
+      "longitude": 142.0803028,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%BB%D1%8C%D0%BE%D0%BD_(%D0%BC%D0%B0%D1%8F%D0%BA)"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q3236734",
+      "name_ru": "Лесной Мол Створный Задний",
+      "name_en": "Lesnoy Mole Rear Range Light",
+      "latitude": 59.87783333,
+      "longitude": 30.21637778,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%81%D0%BD%D0%BE%D0%B9_%D0%9C%D0%BE%D0%BB_%D0%A1%D1%82%D0%B2%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%97%D0%B0%D0%B4%D0%BD%D0%B8%D0%B9"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q33231886",
+      "name_ru": "Летне-Орловский маяк",
+      "name_en": "Letne-Orlovsky lighthouse",
+      "latitude": 64.921388888,
+      "longitude": 36.437777777,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q68075624",
+      "name_ru": "Махачкалинский маяк",
+      "name_en": "Makhachkala Lighthouse",
+      "latitude": 42.98553,
+      "longitude": 47.49878,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%85%D0%B0%D1%87%D0%BA%D0%B0%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q29959008",
+      "name_ru": "Маяк \"Большерецкий\".",
+      "name_en": "",
+      "latitude": 52.5625,
+      "longitude": 156.30833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B5%D1%80%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q106393203",
+      "name_ru": "Маяк \"Красная Горка\"",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q3739749",
+      "name_ru": "Маяк Анива",
+      "name_en": "Aniva lighthouse",
+      "latitude": 46.018885,
+      "longitude": 143.414077,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B8%D0%B2%D0%B0_(%D0%BC%D0%B0%D1%8F%D0%BA)"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q135913646",
+      "name_ru": "Маяк Белый",
+      "name_en": "",
+      "latitude": 73.468333333,
+      "longitude": 70.93,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D1%8B%D0%B9_(%D0%BC%D0%B0%D1%8F%D0%BA)"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q106856486",
+      "name_ru": "Маяк Лабагинена",
+      "name_en": "",
+      "latitude": 54.90137,
+      "longitude": 21.058189,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q106394648",
+      "name_ru": "Маяк Мыс Флотский",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q106258736",
+      "name_ru": "Маяк Невских ворот",
+      "name_en": "",
+      "latitude": 59.913067,
+      "longitude": 30.23816,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q111236743",
+      "name_ru": "Маяк Палагубский",
+      "name_en": "Mayak Palagubskiy",
+      "latitude": 69.22049,
+      "longitude": 33.41892,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q111236576",
+      "name_ru": "Маяк Седловатый",
+      "name_en": "Mayak Sedlovatyy",
+      "latitude": 69.2592,
+      "longitude": 33.47789,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q117378125",
+      "name_ru": "Маяк Слепиковского",
+      "name_en": "Slepikovsky Lighthouse",
+      "latitude": 47.302765,
+      "longitude": 141.967327,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D0%B5%D0%BF%D0%B8%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_(%D0%BC%D0%B0%D1%8F%D0%BA)"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q110259647",
+      "name_ru": "Маяк Токаревского",
+      "name_en": "Tokarev Lighthouse",
+      "latitude": 43.0731,
+      "longitude": 131.84311,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%8F%D0%BA_%D0%A2%D0%BE%D0%BA%D0%B0%D1%80%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q16273185",
+      "name_ru": "Маяк Толбухин",
+      "name_en": "Tolbukhin Lighthouse on Tolbukhin Island",
+      "latitude": 60.04238889,
+      "longitude": 29.54203889,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BB%D0%B1%D1%83%D1%85%D0%B8%D0%BD_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q97662037",
+      "name_ru": "Маяк Чеченский",
+      "name_en": "Chechen Lighthouse",
+      "latitude": 43.971223,
+      "longitude": 47.639422,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q125932508",
+      "name_ru": "Маяк Шпанберга",
+      "name_en": "Shpanberg Lighthouse",
+      "latitude": 43.836511,
+      "longitude": 146.919053,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q33231924",
+      "name_ru": "Маяк в Цып-Наволоке",
+      "name_en": "Tsypnavoloksky lighthouse",
+      "latitude": 69.7275,
+      "longitude": 35.096944444,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q33022888",
+      "name_ru": "Маяк на Эгершельде",
+      "name_en": "Lighthouse at Egersheld cape",
+      "latitude": 43.0845216,
+      "longitude": 131.8547237,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q125794565",
+      "name_ru": "Маяк на мысе Жонкьер",
+      "name_en": "Jonquiere Lighthouse",
+      "latitude": 50.888753,
+      "longitude": 142.118274,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q33231948",
+      "name_ru": "Маяк острова Сескар",
+      "name_en": "Seskar lighthouse",
+      "latitude": 60.035277777,
+      "longitude": 28.362222222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q106291758",
+      "name_ru": "Маяки Крестовского острова",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q106303438",
+      "name_ru": "Маяки Санкт-Петербурга",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q106417888",
+      "name_ru": "Маяки форта Кроншлот",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q12122083",
+      "name_ru": "Меганомский маяк",
+      "name_en": "Meganom lighthouse",
+      "latitude": 44.7937669,
+      "longitude": 35.0777632,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BD%D0%BE%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q56649208",
+      "name_ru": "Никодимский маяк",
+      "name_en": "",
+      "latitude": 66.106631,
+      "longitude": 39.096758,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q3378135",
+      "name_ru": "Осиновецкий маяк",
+      "name_en": "Osinovetsky Light",
+      "latitude": 60.1187511,
+      "longitude": 31.0806753,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D0%B8%D0%BD%D0%BE%D0%B2%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q4338902",
+      "name_ru": "Острова Виргины",
+      "name_en": "Virginy Islands",
+      "latitude": 59.94916667,
+      "longitude": 26.85388889,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%92%D0%B8%D1%80%D0%B3%D0%B8%D0%BD%D1%8B"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q29947615",
+      "name_ru": "Павловский маяк",
+      "name_en": "Pavlov Front Lighthouse",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q33231928",
+      "name_ru": "Палагубский маяк",
+      "name_en": "Palagubsky lighthouse",
+      "latitude": 69.220833333,
+      "longitude": 33.414444444,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q48946923",
+      "name_ru": "Памятник Семёну Дежнёву",
+      "name_en": "Monument to Semyon Dezhnev",
+      "latitude": 66.0192979,
+      "longitude": -169.7095808,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%A1%D0%B5%D0%BC%D1%91%D0%BD%D1%83_%D0%94%D0%B5%D0%B6%D0%BD%D1%91%D0%B2%D1%83"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q33231961",
+      "name_ru": "Передний маяк створа Санкт-Петербургского Морского канала (Кронштадт)",
+      "name_en": "Upper Sea Channel range light",
+      "latitude": 59.968856,
+      "longitude": 29.765664,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D1%81%D1%82%D0%B2%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA_%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q106419773",
+      "name_ru": "Петергофский южный маяк",
+      "name_en": "",
+      "latitude": 59.887387,
+      "longitude": 29.914198,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B3%D0%BE%D1%84%D1%81%D0%BA%D0%B8%D0%B9_%D1%8E%D0%B6%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q135875358",
+      "name_ru": "Петропавловский маяк",
+      "name_en": "Petropavlovsky Lighthouse",
+      "latitude": 52.898333333,
+      "longitude": 158.706666666,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q33231856",
+      "name_ru": "Ромбакский маяк",
+      "name_en": "Rombaksky lighthouse",
+      "latitude": 65.030833333,
+      "longitude": 35.026388888,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q4398576",
+      "name_ru": "Ростральные колонны",
+      "name_en": "Rostral columns on Spit of the Vasilievsky Island",
+      "latitude": 59.943888888,
+      "longitude": 30.305833333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%BD%D1%8B_(%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3)"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q75322595",
+      "name_ru": "Сарыч (маяк)",
+      "name_en": "Sarych Light",
+      "latitude": 44.387777777,
+      "longitude": 33.738888888,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D1%8B%D1%87_(%D0%BC%D0%B0%D1%8F%D0%BA)"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q4411604",
+      "name_ru": "Святоносский маяк",
+      "name_en": "Svyatonossky lighthouse",
+      "latitude": 68.1362388,
+      "longitude": 39.767493,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%BD%D0%BE%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q33231938",
+      "name_ru": "Северный Гогландский маяк",
+      "name_en": "Gogland North lighthouse",
+      "latitude": 60.104722222,
+      "longitude": 26.957222222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%93%D0%BE%D0%B3%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q33231906",
+      "name_ru": "Сет-Наволоцкий маяк",
+      "name_en": "Set-Navolocky lighthouse",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q33231846",
+      "name_ru": "Соловецкий маяк",
+      "name_en": "Solovetsky lighthouse",
+      "latitude": 65.104533333,
+      "longitude": 35.585947222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q2976258",
+      "name_ru": "Соммерс",
+      "name_en": "Sommers Light",
+      "latitude": 60.207166666,
+      "longitude": 27.641166666,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%8F%D0%BA_%D0%A1%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%81"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q33231864",
+      "name_ru": "Сосновецкий маяк",
+      "name_en": "Sosnovecky lighthouse",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q56612832",
+      "name_ru": "Сочинский маяк",
+      "name_en": "Sochinskiy lighthouse",
+      "latitude": 43.5791,
+      "longitude": 39.72085,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q28966963",
+      "name_ru": "Старый таганрогский маяк",
+      "name_en": "Taganrog old lighthouse",
+      "latitude": 47.202236,
+      "longitude": 38.945939,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B3%D0%B0%D0%BD%D1%80%D0%BE%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q26257038",
+      "name_ru": "Створный маяк Геленджика",
+      "name_en": "",
+      "latitude": 44.574552,
+      "longitude": 38.068162,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B2%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA_%D0%93%D0%B5%D0%BB%D0%B5%D0%BD%D0%B4%D0%B6%D0%B8%D0%BA%D0%B0"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q4442641",
+      "name_ru": "Стирсудден",
+      "name_en": "Stirsudden lighthouse",
+      "latitude": 60.185,
+      "longitude": 29.02888889,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B8%D1%80%D1%81%D1%83%D0%B4%D0%B4%D0%B5%D0%BD"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q3378413",
+      "name_ru": "Стороженский маяк",
+      "name_en": "Storozhenskiy Light",
+      "latitude": 60.531385,
+      "longitude": 32.626072,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q4445417",
+      "name_ru": "Суджукский маяк",
+      "name_en": "Sudzhuksky Lighthouse",
+      "latitude": 44.66388889,
+      "longitude": 37.82388889,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%B4%D0%B6%D1%83%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q45023833",
+      "name_ru": "Таран",
+      "name_en": "Taran Lighthouse",
+      "latitude": 54.960203,
+      "longitude": 19.978755,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%80%D0%B0%D0%BD_(%D0%BC%D0%B0%D1%8F%D0%BA)"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q4452231",
+      "name_ru": "Тарханкутский маяк",
+      "name_en": "Tarkhankut Lighthouse",
+      "latitude": 45.346944444,
+      "longitude": 32.494166666,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%80%D1%85%D0%B0%D0%BD%D0%BA%D1%83%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q26257040",
+      "name_ru": "Темрюкский маяк",
+      "name_en": "",
+      "latitude": 45.330555555,
+      "longitude": 37.231111111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BC%D1%80%D1%8E%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q33231915",
+      "name_ru": "Териберский маяк",
+      "name_en": "Teribersky lighthouse",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q4456308",
+      "name_ru": "Терско-Орловский Маяк",
+      "name_en": "Tersko-Orlovsky Mayak",
+      "latitude": 67.199166666,
+      "longitude": 41.3275,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D1%81%D0%BA%D0%BE-%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%9C%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q135256630",
+      "name_ru": "Устьянский маяк",
+      "name_en": "Ustyansky lighthouse",
+      "latitude": 51.872538,
+      "longitude": 104.806081,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D1%82%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q26257035",
+      "name_ru": "Утришский маяк",
+      "name_en": "Utrish lighthouse",
+      "latitude": 44.758611111,
+      "longitude": 37.378055555,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%82%D1%80%D0%B8%D1%88%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q33231920",
+      "name_ru": "Харловский маяк",
+      "name_en": "Harlovsky lighthouse",
+      "latitude": 68.815833333,
+      "longitude": 37.331666666,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q19916081",
+      "name_ru": "Херсонесский маяк",
+      "name_en": "Chersonese Lighthouse",
+      "latitude": 44.58306,
+      "longitude": 33.37861,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B5%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q137659356",
+      "name_ru": "Часовня Николая Чудотворца в Большом Утрише",
+      "name_en": "Old Utrish lighthouse",
+      "latitude": 44.758613,
+      "longitude": 37.377513,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q107745732",
+      "name_ru": "Четырёхбугорный маяк",
+      "name_en": "",
+      "latitude": 45.603464,
+      "longitude": 47.638829,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%82%D1%8B%D1%80%D1%91%D1%85%D0%B1%D1%83%D0%B3%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q33231877",
+      "name_ru": "Чисменский маяк",
+      "name_en": "Chesmensky lighthouse",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q4522956",
+      "name_ru": "Шепелёвский маяк",
+      "name_en": "Shepelyovsky lighthouse",
+      "latitude": 59.98555556,
+      "longitude": 29.12777778,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B5%D0%BF%D0%B5%D0%BB%D1%91%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q11729786",
+      "name_ru": "Южный Гогландский",
+      "name_en": "Gogland South lighthouse",
+      "latitude": 60.010755,
+      "longitude": 27.007279,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AE%D0%B6%D0%BD%D1%8B%D0%B9_%D0%93%D0%BE%D0%B3%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q20816300",
+      "name_ru": "Ялтинский маяк",
+      "name_en": "Yalta lighthouse",
+      "latitude": 44.491554,
+      "longitude": 34.169111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AF%D0%BB%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA"
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q111236924",
+      "name_ru": "маяк Белокаменный",
+      "name_en": "Mayak Belokamennyy",
+      "latitude": 69.07531,
+      "longitude": 33.17695,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q111236907",
+      "name_ru": "маяк Великий",
+      "name_en": "Mayak Velikiy",
+      "latitude": 69.08469,
+      "longitude": 33.27831,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q33231902",
+      "name_ru": "маяк Кильдинский-Северный",
+      "name_en": "Kildinsky-North lighthouse",
+      "latitude": 69.381944444,
+      "longitude": 34.148333333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q106485369",
+      "name_ru": "маяк Кронштадтского Корабельного фарватера",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q33231868",
+      "name_ru": "маяк Моржовский",
+      "name_en": "Morzhovecky lighthouse",
+      "latitude": 66.723611111,
+      "longitude": 42.476111111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q11890870",
+      "name_ru": "маяк Мыс Крестовый",
+      "name_en": "",
+      "latitude": 69.13731,
+      "longitude": 33.51072,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q11884849",
+      "name_ru": "маяк Мыс Романовский",
+      "name_en": "",
+      "latitude": 69.673333333,
+      "longitude": 31.473333333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 99,
+      "wikidata_id": "Q43390689",
+      "name_ru": "маяк Нерва",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 100,
+      "wikidata_id": "Q18682452",
+      "name_ru": "маяк Похйоисриви",
+      "name_en": "",
+      "latitude": 60.1,
+      "longitude": 26.98333333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 101,
+      "wikidata_id": "Q33083313",
+      "name_ru": "маяк Ханхипаси",
+      "name_en": "Hanhipaasi Lighthouse",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 102,
+      "wikidata_id": "Q33083311",
+      "name_ru": "маяк Хейнялуото",
+      "name_en": "Heinäluoto Lighthouse",
+      "latitude": 61.276666666,
+      "longitude": 31.661666666,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 103,
+      "wikidata_id": "Q29856289",
+      "name_ru": "маяк на острове Матвеев",
+      "name_en": "Matveev Island Lighthouse",
+      "latitude": 69.469935,
+      "longitude": 58.545608,
+      "wikipedia_ru": ""
+    }
+  ],
+  "meta": {
+    "title": "Маяки России - Бесплатная загрузка",
+    "description": "Список географических объектов класса «маяк», расположенных в России. Источник — Wikidata через публичный SPARQL-эндпоинт (instance of/subclass of Q39715, страна Россия Q159). Для каждого объекта приведены русское название (rdfs:label@ru), английское название, географические координаты (WGS84, P625) и ссылка на статью русской Википедии. Записи отсортированы по алфавиту русского названия. Записи без русскоязычной (кириллической) этикетки отфильтрованы согласно правилу проекта о сохранении родного текста. Первый набор этого класса в русской коллекции. Всего 103 уникальных QID; координаты доступны для 86. Содержит 103 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Маяки России | ListBase",
+    "seo_description": "Скачать Маяки России — 103 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 103 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

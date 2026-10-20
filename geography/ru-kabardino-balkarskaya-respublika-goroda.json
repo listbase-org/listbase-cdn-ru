@@ -1,0 +1,133 @@
+{
+  "id": "ru-kabardino-balkarskaya-respublika-goroda",
+  "name": "Города — Кабардино-Балкарская Республика",
+  "title": "Города — Кабардино-Балкарская Республика",
+  "description": "8 городов региона «Кабардино-Балкарская Республика» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Баксан",
+      "population_thousands": 38.5,
+      "latitude": 43.6819137,
+      "longitude": 43.5345036,
+      "region_name": "Кабардино-Балкарская Республика",
+      "region_iso_code": "RU-KB",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Майский",
+      "population_thousands": 26.7,
+      "latitude": 43.6281516,
+      "longitude": 44.0517314,
+      "region_name": "Кабардино-Балкарская Республика",
+      "region_iso_code": "RU-KB",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Нальчик",
+      "population_thousands": 239.6,
+      "latitude": 43.4845464,
+      "longitude": 43.60713,
+      "region_name": "Кабардино-Балкарская Республика",
+      "region_iso_code": "RU-KB",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Нарткала",
+      "population_thousands": 30.6,
+      "latitude": 43.5578075,
+      "longitude": 43.8575925,
+      "region_name": "Кабардино-Балкарская Республика",
+      "region_iso_code": "RU-KB",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Прохладный",
+      "population_thousands": 58.2,
+      "latitude": 43.7589602,
+      "longitude": 44.0102409,
+      "region_name": "Кабардино-Балкарская Республика",
+      "region_iso_code": "RU-KB",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Терек",
+      "population_thousands": 19.5,
+      "latitude": 43.4839358,
+      "longitude": 44.1402161,
+      "region_name": "Кабардино-Балкарская Республика",
+      "region_iso_code": "RU-KB",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Тырныауз",
+      "population_thousands": 20.6,
+      "latitude": 43.3981585,
+      "longitude": 42.9213582,
+      "region_name": "Кабардино-Балкарская Республика",
+      "region_iso_code": "RU-KB",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Чегем",
+      "population_thousands": 18.4,
+      "latitude": 43.5671525,
+      "longitude": 43.5865792,
+      "region_name": "Кабардино-Балкарская Республика",
+      "region_iso_code": "RU-KB",
+      "federal_district": "Северо-Кавказский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Кабардино-Балкарская Республика - Бесплатная загрузка",
+    "description": "8 городов региона «Кабардино-Балкарская Республика» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 8 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Кабардино-Балкарская Республика | ListBase",
+    "seo_description": "Скачать Города — Кабардино-Балкарская Республика — 8 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 8 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

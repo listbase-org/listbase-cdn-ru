@@ -1,0 +1,86 @@
+{
+  "id": "ru-vladikavkaz-banki",
+  "name": "Банки — Vladikavkaz (коды SWIFT/BIC)",
+  "title": "Банки — Vladikavkaz (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in VLADIKAVKAZ (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 426,
+      "bank": "DIG-BANK",
+      "city": "VLADIKAVKAZ",
+      "branch": "",
+      "swift_code": "DIGBRU31"
+    },
+    {
+      "id": 744,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "VLADIKAVKAZ",
+      "branch": "(SEVERO-OSETINSKY BRANCH)",
+      "swift_code": "RUAGRUM1026"
+    },
+    {
+      "id": 814,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "VLADIKAVKAZ",
+      "branch": "(REGIONAL DEPARTMENT OFFICE IN THE CITY OF VLADIKAVKAZ)",
+      "swift_code": "MINNRUM1044"
+    },
+    {
+      "id": 1036,
+      "bank": "ONEBANK",
+      "city": "VLADIKAVKAZ",
+      "branch": "",
+      "swift_code": "ADAMRU81"
+    },
+    {
+      "id": 1446,
+      "bank": "SVIAZ-BANK",
+      "city": "VLADIKAVKAZ",
+      "branch": "(SEVERO-OSETINSKIY BRANCH)",
+      "swift_code": "SVIZRUM1VLK"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Vladikavkaz (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in VLADIKAVKAZ (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 5 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Vladikavkaz (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Vladikavkaz (коды SWIFT/BIC) — 5 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 5 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

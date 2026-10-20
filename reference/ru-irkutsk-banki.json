@@ -1,0 +1,142 @@
+{
+  "id": "ru-irkutsk-banki",
+  "name": "Банки — Irkutsk (коды SWIFT/BIC)",
+  "title": "Банки — Irkutsk (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in IRKUTSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 99,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "IRKUTSK",
+      "branch": "(IRKUTSK BRANCH)",
+      "swift_code": "MOBWRUM1IRK"
+    },
+    {
+      "id": 147,
+      "bank": "BAIKALCREDOBANK",
+      "city": "IRKUTSK",
+      "branch": "",
+      "swift_code": "BACKRU61"
+    },
+    {
+      "id": 187,
+      "bank": "BANK ORANGE (LLC)",
+      "city": "IRKUTSK",
+      "branch": "(IRKUTSK BRANCH)",
+      "swift_code": "PRSBRU21IRK"
+    },
+    {
+      "id": 269,
+      "bank": "BANK SOYUZ",
+      "city": "IRKUTSK",
+      "branch": "(IRKUTSK BRANCH)",
+      "swift_code": "JCAMRUM1IRK"
+    },
+    {
+      "id": 521,
+      "bank": "GREENCOMBANK",
+      "city": "IRKUTSK",
+      "branch": "(IRKUTSK BRANCH)",
+      "swift_code": "GRECRU61001"
+    },
+    {
+      "id": 644,
+      "bank": "JSC BAIKALINVESTBANK",
+      "city": "IRKUTSK",
+      "branch": "",
+      "swift_code": "BIJORU66"
+    },
+    {
+      "id": 692,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "IRKUTSK",
+      "branch": "(IRKUTSKY BRANCH)",
+      "swift_code": "RUAGRUM1066"
+    },
+    {
+      "id": 841,
+      "bank": "KRONA-BANK",
+      "city": "IRKUTSK",
+      "branch": "",
+      "swift_code": "TRUKRU61"
+    },
+    {
+      "id": 1325,
+      "bank": "SBERBANK (BAIKALSKY HEAD OFFICE)",
+      "city": "IRKUTSK",
+      "branch": "",
+      "swift_code": "SABRRU66"
+    },
+    {
+      "id": 1413,
+      "bank": "SOYUZNYJ OOO",
+      "city": "IRKUTSK",
+      "branch": "(IRKUTSK BRANCH)",
+      "swift_code": "SOYZRUM1IRK"
+    },
+    {
+      "id": 1429,
+      "bank": "SVIAZ-BANK",
+      "city": "IRKUTSK",
+      "branch": "(IRKUTSK BRANCH)",
+      "swift_code": "SVIZRUM1IRK"
+    },
+    {
+      "id": 1545,
+      "bank": "VLBANK",
+      "city": "IRKUTSK",
+      "branch": "(IRKUTSK BRANCH)",
+      "swift_code": "VLBARU61IRK"
+    },
+    {
+      "id": 1558,
+      "bank": "VOSTSIBTRANSKOMBANK OAO",
+      "city": "IRKUTSK",
+      "branch": "",
+      "swift_code": "VOOARU61"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Irkutsk (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in IRKUTSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 13 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Irkutsk (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Irkutsk (коды SWIFT/BIC) — 13 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 13 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

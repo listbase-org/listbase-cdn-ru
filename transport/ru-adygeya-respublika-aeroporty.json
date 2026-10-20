@@ -1,0 +1,338 @@
+{
+  "id": "ru-adygeya-respublika-aeroporty",
+  "name": "Аэропорты — Republic of Adygea (RU-AD)",
+  "title": "Аэропорты — Republic of Adygea (RU-AD)",
+  "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Republic of Adygea (ISO 3166-2 RU-AD) — 9 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"small_airport\": 5, \"closed\": 3, \"medium_airport\": 1}. Извлечено из OurAirports.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 44322,
+      "ident": "RU-0097",
+      "type": "small_airport",
+      "name": "Oktyabrskiy Airfield",
+      "latitude_deg": 44.64500045776367,
+      "longitude_deg": 40.22200012207031,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-AD",
+      "region_local_code": "AD",
+      "region_name": "Republic of Adygea",
+      "municipality": "Maykop",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Oktyabrsky Airfield, Аэродром Октябрьский"
+    },
+    {
+      "id": 44621,
+      "ident": "RU-0166",
+      "type": "closed",
+      "name": "Giaginskaya Air Base",
+      "latitude_deg": 44.887001,
+      "longitude_deg": 39.965,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-AD",
+      "region_local_code": "AD",
+      "region_name": "Republic of Adygea",
+      "municipality": "Giaginskaya",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Giaginskaya Northwest Airfield, Аэродром Гиагинская, XRKG"
+    },
+    {
+      "id": 46324,
+      "ident": "RU-0399",
+      "type": "closed",
+      "name": "Yablonovskiy Airstrip",
+      "latitude_deg": 44.970461,
+      "longitude_deg": 38.993847,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-AD",
+      "region_local_code": "AD",
+      "region_name": "Republic of Adygea",
+      "municipality": "Yablonovskiy",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Yablonovsky Airstrip, ВПП Яблоновский, ZA62"
+    },
+    {
+      "id": 334131,
+      "ident": "RU-0524",
+      "type": "small_airport",
+      "name": "Southern Sky Airfield",
+      "latitude_deg": 44.937911,
+      "longitude_deg": 38.929186,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-AD",
+      "region_local_code": "AD",
+      "region_name": "Republic of Adygea",
+      "municipality": "Enem",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "XRKD",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Southern Sky"
+    },
+    {
+      "id": 44321,
+      "ident": "RU-10062",
+      "type": "medium_airport",
+      "name": "Khanskaya Air Base",
+      "latitude_deg": 44.68,
+      "longitude_deg": 40.035,
+      "elevation_ft": 600,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-AD",
+      "region_local_code": "AD",
+      "region_name": "Republic of Adygea",
+      "municipality": "Maykop",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "XRKH",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Hanskaya Airport, Аэропорт Ханская, RU-10062"
+    },
+    {
+      "id": 570167,
+      "ident": "RU-1065",
+      "type": "small_airport",
+      "name": "Progress Airfield",
+      "latitude_deg": 44.881707,
+      "longitude_deg": 40.232148,
+      "elevation_ft": 522,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-AD",
+      "region_local_code": "AD",
+      "region_name": "Republic of Adygea",
+      "municipality": "Progress",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "id": 570168,
+      "ident": "RU-1066",
+      "type": "small_airport",
+      "name": "Takhtamukay Airfield",
+      "latitude_deg": 44.89457,
+      "longitude_deg": 39.01931,
+      "elevation_ft": 118,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-AD",
+      "region_local_code": "AD",
+      "region_name": "Republic of Adygea",
+      "municipality": "Takhtamukay",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "id": 30125,
+      "ident": "RU-9993",
+      "type": "closed",
+      "name": "Maykop Airport",
+      "latitude_deg": 44.649374,
+      "longitude_deg": 40.096908,
+      "elevation_ft": 679,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-AD",
+      "region_local_code": "AD",
+      "region_name": "Republic of Adygea",
+      "municipality": "Maykop",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "URKM, URKM"
+    },
+    {
+      "id": 44300,
+      "ident": "URKS",
+      "type": "small_airport",
+      "name": "Enem Airfield",
+      "latitude_deg": 44.945999,
+      "longitude_deg": 38.931999,
+      "elevation_ft": 62,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-AD",
+      "region_local_code": "AD",
+      "region_name": "Republic of Adygea",
+      "municipality": "Enem",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "URKS",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B5%D0%BC_(%D0%B0%D1%8D%D1%80%D0%BE%D0%BF%D0%BE%D1%80%D1%82)",
+      "keywords": "Аэропорт Энем"
+    }
+  ],
+  "meta": {
+    "title": "Аэропорты — Republic of Adygea (RU-AD) - Бесплатная загрузка",
+    "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Republic of Adygea (ISO 3166-2 RU-AD) — 9 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"small_airport\": 5, \"closed\": 3, \"medium_airport\": 1}. Извлечено из OurAirports. Содержит 9 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Аэропорты — Republic of Adygea (RU-AD) | ListBase",
+    "seo_description": "Скачать Аэропорты — Republic of Adygea (RU-AD) — 9 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 9 записей / 21 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "ru-orenburg-banki",
+  "name": "Банки — Orenburg (коды SWIFT/BIC)",
+  "title": "Банки — Orenburg (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in ORENBURG (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 11,
+      "bank": "AGROSOYUZ BANK",
+      "city": "ORENBURG",
+      "branch": "(ORENBURG BRANCH)",
+      "swift_code": "AGSZRU31ORB"
+    },
+    {
+      "id": 85,
+      "bank": "AVTOVAZBANK JOINT-STOCK COMPANY",
+      "city": "ORENBURG",
+      "branch": "(ORENBURG OPERATING OFFICE)",
+      "swift_code": "AVBKRU31ORN"
+    },
+    {
+      "id": 649,
+      "bank": "JSC BANK ORENBURG",
+      "city": "ORENBURG",
+      "branch": "",
+      "swift_code": "ORBGRU3S"
+    },
+    {
+      "id": 722,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "ORENBURG",
+      "branch": "(ORENBURGSKY BRANCH)",
+      "swift_code": "RUAGRUM1005"
+    },
+    {
+      "id": 765,
+      "bank": "JSCB FORSHTADT",
+      "city": "ORENBURG",
+      "branch": "",
+      "swift_code": "FORHRU33"
+    },
+    {
+      "id": 996,
+      "bank": "'NEW INVESTMENT-COMMERCIAL ORENBURG BANK OF INDUSTRY DEVELOPMENT' OAO",
+      "city": "ORENBURG",
+      "branch": "",
+      "swift_code": "JCNIRU51"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Orenburg (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in ORENBURG (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 6 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Orenburg (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Orenburg (коды SWIFT/BIC) — 6 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 6 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

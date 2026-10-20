@@ -1,0 +1,196 @@
+{
+  "id": "ru-baykonur-pochtovye-indeksy",
+  "name": "Почтовые индексы — Байконур",
+  "title": "Почтовые индексы — Байконур",
+  "description": "7 почтовых индексов в субъекте Байконур (GeoNames, 2026-04-22).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "zipcode",
+      "label": "Zipcode",
+      "type": "number"
+    },
+    {
+      "key": "place",
+      "label": "Place",
+      "type": "string"
+    },
+    {
+      "key": "place_slug",
+      "label": "Place Slug",
+      "type": "string"
+    },
+    {
+      "key": "state",
+      "label": "State",
+      "type": "string"
+    },
+    {
+      "key": "state_slug",
+      "label": "State Slug",
+      "type": "string"
+    },
+    {
+      "key": "state_code",
+      "label": "State Code",
+      "type": "number"
+    },
+    {
+      "key": "federal_district_slug",
+      "label": "Federal District Slug",
+      "type": "string"
+    },
+    {
+      "key": "province",
+      "label": "Province",
+      "type": "string"
+    },
+    {
+      "key": "province_code",
+      "label": "Province Code",
+      "type": "string"
+    },
+    {
+      "key": "community",
+      "label": "Community",
+      "type": "string"
+    },
+    {
+      "key": "community_code",
+      "label": "Community Code",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "zipcode": "468320",
+      "place": "Байконур",
+      "place_slug": "baykonur",
+      "state": "Байконур",
+      "state_slug": "baykonur",
+      "state_code": "08",
+      "federal_district_slug": "",
+      "province": "",
+      "province_code": "",
+      "community": "",
+      "community_code": "",
+      "latitude": 52.4044,
+      "longitude": 54.6062
+    },
+    {
+      "zipcode": "468321",
+      "place": "Байконур 1",
+      "place_slug": "baykonur-1",
+      "state": "Байконур",
+      "state_slug": "baykonur",
+      "state_code": "08",
+      "federal_district_slug": "",
+      "province": "",
+      "province_code": "",
+      "community": "",
+      "community_code": "",
+      "latitude": 52.4044,
+      "longitude": 54.6062
+    },
+    {
+      "zipcode": "468322",
+      "place": "Байконур 2",
+      "place_slug": "baykonur-2",
+      "state": "Байконур",
+      "state_slug": "baykonur",
+      "state_code": "08",
+      "federal_district_slug": "",
+      "province": "",
+      "province_code": "",
+      "community": "",
+      "community_code": "",
+      "latitude": 52.4044,
+      "longitude": 54.6062
+    },
+    {
+      "zipcode": "468323",
+      "place": "Байконур 3",
+      "place_slug": "baykonur-3",
+      "state": "Байконур",
+      "state_slug": "baykonur",
+      "state_code": "08",
+      "federal_district_slug": "",
+      "province": "",
+      "province_code": "",
+      "community": "",
+      "community_code": "",
+      "latitude": 52.4044,
+      "longitude": 54.6062
+    },
+    {
+      "zipcode": "468324",
+      "place": "Байконур 4",
+      "place_slug": "baykonur-4",
+      "state": "Байконур",
+      "state_slug": "baykonur",
+      "state_code": "08",
+      "federal_district_slug": "",
+      "province": "",
+      "province_code": "",
+      "community": "",
+      "community_code": "",
+      "latitude": 52.4044,
+      "longitude": 54.6062
+    },
+    {
+      "zipcode": "468325",
+      "place": "Байконур 5",
+      "place_slug": "baykonur-5",
+      "state": "Байконур",
+      "state_slug": "baykonur",
+      "state_code": "08",
+      "federal_district_slug": "",
+      "province": "",
+      "province_code": "",
+      "community": "",
+      "community_code": "",
+      "latitude": 52.4044,
+      "longitude": 54.6062
+    },
+    {
+      "zipcode": "468700",
+      "place": "Гуп Байконурсвязьинформ",
+      "place_slug": "gup-baykonursvyazinform",
+      "state": "Байконур",
+      "state_slug": "baykonur",
+      "state_code": "08",
+      "federal_district_slug": "",
+      "province": "",
+      "province_code": "",
+      "community": "",
+      "community_code": "",
+      "latitude": 52.4044,
+      "longitude": 54.6062
+    }
+  ],
+  "meta": {
+    "title": "Почтовые индексы — Байконур - Бесплатная загрузка",
+    "description": "7 почтовых индексов в субъекте Байконур (GeoNames, 2026-04-22). Содержит 7 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Почтовые индексы — Байконур | ListBase",
+    "seo_description": "Скачать Почтовые индексы — Байконур — 7 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 7 записей / 13 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

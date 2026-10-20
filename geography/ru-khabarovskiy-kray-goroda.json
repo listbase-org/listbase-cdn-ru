@@ -1,0 +1,124 @@
+{
+  "id": "ru-khabarovskiy-kray-goroda",
+  "name": "Города — Хабаровский край",
+  "title": "Города — Хабаровский край",
+  "description": "7 городов региона «Хабаровский край» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Амурск",
+      "population_thousands": 38.9,
+      "latitude": 50.2344147,
+      "longitude": 136.8792444,
+      "region_name": "Хабаровский край",
+      "region_iso_code": "RU-KHA",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Бикин",
+      "population_thousands": 16.1,
+      "latitude": 46.8185743,
+      "longitude": 134.2550718,
+      "region_name": "Хабаровский край",
+      "region_iso_code": "RU-KHA",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Вяземский",
+      "population_thousands": 13,
+      "latitude": 47.5353379,
+      "longitude": 134.7553856,
+      "region_name": "Хабаровский край",
+      "region_iso_code": "RU-KHA",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Комсомольск-на-Амуре",
+      "population_thousands": 244.8,
+      "latitude": 50.5498936,
+      "longitude": 137.0079408,
+      "region_name": "Хабаровский край",
+      "region_iso_code": "RU-KHA",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Николаевск-на-Амуре",
+      "population_thousands": 17.9,
+      "latitude": 53.1460657,
+      "longitude": 140.7111367,
+      "region_name": "Хабаровский край",
+      "region_iso_code": "RU-KHA",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Советская Гавань",
+      "population_thousands": 23.6,
+      "latitude": 48.9664966,
+      "longitude": 140.285174,
+      "region_name": "Хабаровский край",
+      "region_iso_code": "RU-KHA",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Хабаровск",
+      "population_thousands": 616.4,
+      "latitude": 48.4647258,
+      "longitude": 135.0598942,
+      "region_name": "Хабаровский край",
+      "region_iso_code": "RU-KHA",
+      "federal_district": "Дальневосточный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Хабаровский край - Бесплатная загрузка",
+    "description": "7 городов региона «Хабаровский край» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 7 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Хабаровский край | ListBase",
+    "seo_description": "Скачать Города — Хабаровский край — 7 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 7 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

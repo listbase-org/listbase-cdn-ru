@@ -1,0 +1,93 @@
+{
+  "id": "ru-cherkessk-banki",
+  "name": "Банки — Cherkessk (коды SWIFT/BIC)",
+  "title": "Банки — Cherkessk (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in CHERKESSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 687,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "CHERKESSK",
+      "branch": "(KARACHAEVO-CHERKESSKY BRANCH)",
+      "swift_code": "RUAGRUM1031"
+    },
+    {
+      "id": 771,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "CHERKESSK",
+      "branch": "(REGIONAL DEPARTMENT OFFICE IN THE CITY OF CHERKESSK)",
+      "swift_code": "MINNRUM1042"
+    },
+    {
+      "id": 1052,
+      "bank": "OPEN JOINT STOCK COMPANY 'SAUBER BANK'",
+      "city": "CHERKESSK",
+      "branch": "",
+      "swift_code": "KAOORU3C"
+    },
+    {
+      "id": 1169,
+      "bank": "PUBLIC BANK",
+      "city": "CHERKESSK",
+      "branch": "",
+      "swift_code": "PUBBRU3C"
+    },
+    {
+      "id": 1426,
+      "bank": "SVIAZ-BANK",
+      "city": "CHERKESSK",
+      "branch": "(SEVERO-KAVKAZSKIY BRANCH)",
+      "swift_code": "SVIZRUM1KCH"
+    },
+    {
+      "id": 1463,
+      "bank": "TEXBANK",
+      "city": "CHERKESSK",
+      "branch": "",
+      "swift_code": "TEXBRU22"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Cherkessk (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in CHERKESSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 6 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Cherkessk (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Cherkessk (коды SWIFT/BIC) — 6 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 6 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

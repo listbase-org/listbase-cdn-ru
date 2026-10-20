@@ -1,0 +1,6 @@
+﻿"Id","Ident","Type","Name","Latitude Deg","Longitude Deg","Elevation Ft","Continent","Iso Country","Iso Region","Region Local Code","Region Name","Municipality","Scheduled Service","Icao Code","Iata Code","Gps Code","Local Code","Home Link","Wikipedia Link","Keywords"
+"46204","RU-0349","heliport","Shadrinsk Helipad","56.0982493243","63.7331163883","","EU","RU","RU-KGN","KGN","Kurgan Oblast","Shadrinsk","no","","","","","","","Вертолётная площадка Шадринск"
+"44868","RU-10022","closed","Kurtamysh Airfield","54.918263","64.471722","","AS","RU","RU-KGN","KGN","Kurgan Oblast","Kurtamysh","no","","","","","","","Аэропорт Куртамыш, USUK"
+"35014","RU-2070","small_airport","Logovushka Airfield","55.4109992980957","64.94300079345703","499","AS","RU","RU-KGN","KGN","Kurgan Oblast","Kurgan","no","","","","","http://kack.narod.ru/","https://en.wikipedia.org/wiki/Kurgan_West","Аэродром Логовушка"
+"35077","RU-3095","small_airport","Shadrinsk Air Base","56.039207","63.681995","459","AS","RU","RU-KGN","KGN","Kurgan Oblast","Shadrinsk","no","","","XSCD","","","https://en.wikipedia.org/wiki/Shadrinsk_(air_base)",""
+"31773","USUU","medium_airport","Kurgan Airport","55.4753","65.415604","240","AS","RU","RU-KGN","KGN","Kurgan Oblast","Kurgan","yes","USUU","KRO","USUU","","","https://en.wikipedia.org/wiki/Kurgan_Airport",""

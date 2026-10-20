@@ -1,0 +1,1540 @@
+{
+  "id": "ru-strany-emoji-flagi",
+  "name": "Эмодзи-флаги стран мира",
+  "title": "Эмодзи-флаги стран мира",
+  "description": "Эмодзи-флаги всех стран и территорий согласно последовательностям Unicode regional-indicator-letter (выводятся из кода ISO 3166-1 alpha-2).",
+  "category": "tech",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 249,
+  "columns": [
+    {
+      "key": "iso_3166_1_alpha_2",
+      "label": "Iso 3166 1 Alpha 2",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_1_alpha_3",
+      "label": "Iso 3166 1 Alpha 3",
+      "type": "string"
+    },
+    {
+      "key": "country_name_ru",
+      "label": "Country Name Ru",
+      "type": "string"
+    },
+    {
+      "key": "emoji_flag",
+      "label": "Emoji Flag",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_3166_1_alpha_2": "AD",
+      "iso_3166_1_alpha_3": "AND",
+      "country_name_ru": "Андорра",
+      "emoji_flag": "🇦🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "AE",
+      "iso_3166_1_alpha_3": "ARE",
+      "country_name_ru": "Объединенные Арабские Эмираты",
+      "emoji_flag": "🇦🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "AF",
+      "iso_3166_1_alpha_3": "AFG",
+      "country_name_ru": "Афганистан",
+      "emoji_flag": "🇦🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "AG",
+      "iso_3166_1_alpha_3": "ATG",
+      "country_name_ru": "Антигуа и Барбуда",
+      "emoji_flag": "🇦🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "AI",
+      "iso_3166_1_alpha_3": "AIA",
+      "country_name_ru": "Ангилья",
+      "emoji_flag": "🇦🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "AL",
+      "iso_3166_1_alpha_3": "ALB",
+      "country_name_ru": "Албания",
+      "emoji_flag": "🇦🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "AM",
+      "iso_3166_1_alpha_3": "ARM",
+      "country_name_ru": "Армения",
+      "emoji_flag": "🇦🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "AO",
+      "iso_3166_1_alpha_3": "AGO",
+      "country_name_ru": "Ангола",
+      "emoji_flag": "🇦🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "AQ",
+      "iso_3166_1_alpha_3": "ATA",
+      "country_name_ru": "Антарктике",
+      "emoji_flag": "🇦🇶"
+    },
+    {
+      "iso_3166_1_alpha_2": "AR",
+      "iso_3166_1_alpha_3": "ARG",
+      "country_name_ru": "Аргентина",
+      "emoji_flag": "🇦🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "AS",
+      "iso_3166_1_alpha_3": "ASM",
+      "country_name_ru": "Американское Самоа",
+      "emoji_flag": "🇦🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "AT",
+      "iso_3166_1_alpha_3": "AUT",
+      "country_name_ru": "Австрия",
+      "emoji_flag": "🇦🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "AU",
+      "iso_3166_1_alpha_3": "AUS",
+      "country_name_ru": "Австралия",
+      "emoji_flag": "🇦🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "AW",
+      "iso_3166_1_alpha_3": "ABW",
+      "country_name_ru": "Аруба",
+      "emoji_flag": "🇦🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "AX",
+      "iso_3166_1_alpha_3": "ALA",
+      "country_name_ru": "Аландских островов",
+      "emoji_flag": "🇦🇽"
+    },
+    {
+      "iso_3166_1_alpha_2": "AZ",
+      "iso_3166_1_alpha_3": "AZE",
+      "country_name_ru": "Азербайджан",
+      "emoji_flag": "🇦🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "BA",
+      "iso_3166_1_alpha_3": "BIH",
+      "country_name_ru": "Босния и Герцеговина",
+      "emoji_flag": "🇧🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "BB",
+      "iso_3166_1_alpha_3": "BRB",
+      "country_name_ru": "Барбадос",
+      "emoji_flag": "🇧🇧"
+    },
+    {
+      "iso_3166_1_alpha_2": "BD",
+      "iso_3166_1_alpha_3": "BGD",
+      "country_name_ru": "Бангладеш",
+      "emoji_flag": "🇧🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "BE",
+      "iso_3166_1_alpha_3": "BEL",
+      "country_name_ru": "Бельгия",
+      "emoji_flag": "🇧🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "BF",
+      "iso_3166_1_alpha_3": "BFA",
+      "country_name_ru": "Буркина-Фасо",
+      "emoji_flag": "🇧🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "BG",
+      "iso_3166_1_alpha_3": "BGR",
+      "country_name_ru": "Болгария",
+      "emoji_flag": "🇧🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "BH",
+      "iso_3166_1_alpha_3": "BHR",
+      "country_name_ru": "Бахрейн",
+      "emoji_flag": "🇧🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "BI",
+      "iso_3166_1_alpha_3": "BDI",
+      "country_name_ru": "Бурунди",
+      "emoji_flag": "🇧🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "BJ",
+      "iso_3166_1_alpha_3": "BEN",
+      "country_name_ru": "Бенин",
+      "emoji_flag": "🇧🇯"
+    },
+    {
+      "iso_3166_1_alpha_2": "BL",
+      "iso_3166_1_alpha_3": "BLM",
+      "country_name_ru": "Сен-Бартелеми",
+      "emoji_flag": "🇧🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "BM",
+      "iso_3166_1_alpha_3": "BMU",
+      "country_name_ru": "Бермудские острова",
+      "emoji_flag": "🇧🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "BN",
+      "iso_3166_1_alpha_3": "BRN",
+      "country_name_ru": "Бруней-Даруссалам",
+      "emoji_flag": "🇧🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "BO",
+      "iso_3166_1_alpha_3": "BOL",
+      "country_name_ru": "Боливия (Многонациональное Государство)",
+      "emoji_flag": "🇧🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "BQ",
+      "iso_3166_1_alpha_3": "BES",
+      "country_name_ru": "Бонайре, Синт-Эстатиус и Саба",
+      "emoji_flag": "🇧🇶"
+    },
+    {
+      "iso_3166_1_alpha_2": "BR",
+      "iso_3166_1_alpha_3": "BRA",
+      "country_name_ru": "Бразилия",
+      "emoji_flag": "🇧🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "BS",
+      "iso_3166_1_alpha_3": "BHS",
+      "country_name_ru": "Багамские Острова",
+      "emoji_flag": "🇧🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "BT",
+      "iso_3166_1_alpha_3": "BTN",
+      "country_name_ru": "Бутан",
+      "emoji_flag": "🇧🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "BV",
+      "iso_3166_1_alpha_3": "BVT",
+      "country_name_ru": "Остров Буве",
+      "emoji_flag": "🇧🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "BW",
+      "iso_3166_1_alpha_3": "BWA",
+      "country_name_ru": "Ботсвана",
+      "emoji_flag": "🇧🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "BY",
+      "iso_3166_1_alpha_3": "BLR",
+      "country_name_ru": "Беларусь",
+      "emoji_flag": "🇧🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "BZ",
+      "iso_3166_1_alpha_3": "BLZ",
+      "country_name_ru": "Белиз",
+      "emoji_flag": "🇧🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "CA",
+      "iso_3166_1_alpha_3": "CAN",
+      "country_name_ru": "Канада",
+      "emoji_flag": "🇨🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "CC",
+      "iso_3166_1_alpha_3": "CCK",
+      "country_name_ru": "Кокосовых (Килинг) островов",
+      "emoji_flag": "🇨🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "CD",
+      "iso_3166_1_alpha_3": "COD",
+      "country_name_ru": "Демократическая Республика Конго",
+      "emoji_flag": "🇨🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "CF",
+      "iso_3166_1_alpha_3": "CAF",
+      "country_name_ru": "Центральноафриканская Республика",
+      "emoji_flag": "🇨🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "CG",
+      "iso_3166_1_alpha_3": "COG",
+      "country_name_ru": "Конго",
+      "emoji_flag": "🇨🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "CH",
+      "iso_3166_1_alpha_3": "CHE",
+      "country_name_ru": "Швейцария",
+      "emoji_flag": "🇨🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "CI",
+      "iso_3166_1_alpha_3": "CIV",
+      "country_name_ru": "Кот-д'Ивуар",
+      "emoji_flag": "🇨🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "CK",
+      "iso_3166_1_alpha_3": "COK",
+      "country_name_ru": "Острова Кука **",
+      "emoji_flag": "🇨🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "CL",
+      "iso_3166_1_alpha_3": "CHL",
+      "country_name_ru": "Чили",
+      "emoji_flag": "🇨🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "CM",
+      "iso_3166_1_alpha_3": "CMR",
+      "country_name_ru": "Камерун",
+      "emoji_flag": "🇨🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "CN",
+      "iso_3166_1_alpha_3": "CHN",
+      "country_name_ru": "Китай",
+      "emoji_flag": "🇨🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "CO",
+      "iso_3166_1_alpha_3": "COL",
+      "country_name_ru": "Колумбия",
+      "emoji_flag": "🇨🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "CR",
+      "iso_3166_1_alpha_3": "CRI",
+      "country_name_ru": "Коста-Рика",
+      "emoji_flag": "🇨🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "CU",
+      "iso_3166_1_alpha_3": "CUB",
+      "country_name_ru": "Куба",
+      "emoji_flag": "🇨🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "CV",
+      "iso_3166_1_alpha_3": "CPV",
+      "country_name_ru": "Кабо-Верде",
+      "emoji_flag": "🇨🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "CW",
+      "iso_3166_1_alpha_3": "CUW",
+      "country_name_ru": "Кюрасао",
+      "emoji_flag": "🇨🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "CX",
+      "iso_3166_1_alpha_3": "CXR",
+      "country_name_ru": "остров Рождества",
+      "emoji_flag": "🇨🇽"
+    },
+    {
+      "iso_3166_1_alpha_2": "CY",
+      "iso_3166_1_alpha_3": "CYP",
+      "country_name_ru": "Кипр",
+      "emoji_flag": "🇨🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "CZ",
+      "iso_3166_1_alpha_3": "CZE",
+      "country_name_ru": "Чехия",
+      "emoji_flag": "🇨🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "DE",
+      "iso_3166_1_alpha_3": "DEU",
+      "country_name_ru": "Германия",
+      "emoji_flag": "🇩🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "DJ",
+      "iso_3166_1_alpha_3": "DJI",
+      "country_name_ru": "Джибути",
+      "emoji_flag": "🇩🇯"
+    },
+    {
+      "iso_3166_1_alpha_2": "DK",
+      "iso_3166_1_alpha_3": "DNK",
+      "country_name_ru": "Дания",
+      "emoji_flag": "🇩🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "DM",
+      "iso_3166_1_alpha_3": "DMA",
+      "country_name_ru": "Доминика",
+      "emoji_flag": "🇩🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "DO",
+      "iso_3166_1_alpha_3": "DOM",
+      "country_name_ru": "Доминиканская Республика",
+      "emoji_flag": "🇩🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "DZ",
+      "iso_3166_1_alpha_3": "DZA",
+      "country_name_ru": "Алжир",
+      "emoji_flag": "🇩🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "EC",
+      "iso_3166_1_alpha_3": "ECU",
+      "country_name_ru": "Эквадор",
+      "emoji_flag": "🇪🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "EE",
+      "iso_3166_1_alpha_3": "EST",
+      "country_name_ru": "Эстония",
+      "emoji_flag": "🇪🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "EG",
+      "iso_3166_1_alpha_3": "EGY",
+      "country_name_ru": "Египет",
+      "emoji_flag": "🇪🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "EH",
+      "iso_3166_1_alpha_3": "ESH",
+      "country_name_ru": "Западная Сахара",
+      "emoji_flag": "🇪🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "ER",
+      "iso_3166_1_alpha_3": "ERI",
+      "country_name_ru": "Эритрея",
+      "emoji_flag": "🇪🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "ES",
+      "iso_3166_1_alpha_3": "ESP",
+      "country_name_ru": "Испания",
+      "emoji_flag": "🇪🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "ET",
+      "iso_3166_1_alpha_3": "ETH",
+      "country_name_ru": "Эфиопия",
+      "emoji_flag": "🇪🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "FI",
+      "iso_3166_1_alpha_3": "FIN",
+      "country_name_ru": "Финляндия",
+      "emoji_flag": "🇫🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "FJ",
+      "iso_3166_1_alpha_3": "FJI",
+      "country_name_ru": "Фиджи",
+      "emoji_flag": "🇫🇯"
+    },
+    {
+      "iso_3166_1_alpha_2": "FK",
+      "iso_3166_1_alpha_3": "FLK",
+      "country_name_ru": "Фолклендские (Мальвинские) острова",
+      "emoji_flag": "🇫🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "FM",
+      "iso_3166_1_alpha_3": "FSM",
+      "country_name_ru": "Микронезия (Федеративные Штаты)",
+      "emoji_flag": "🇫🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "FO",
+      "iso_3166_1_alpha_3": "FRO",
+      "country_name_ru": "Фарерские острова",
+      "emoji_flag": "🇫🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "FR",
+      "iso_3166_1_alpha_3": "FRA",
+      "country_name_ru": "Франция",
+      "emoji_flag": "🇫🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "GA",
+      "iso_3166_1_alpha_3": "GAB",
+      "country_name_ru": "Габон",
+      "emoji_flag": "🇬🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "GB",
+      "iso_3166_1_alpha_3": "GBR",
+      "country_name_ru": "Соединенное Королевство Великобритании и Северной Ирландии",
+      "emoji_flag": "🇬🇧"
+    },
+    {
+      "iso_3166_1_alpha_2": "GD",
+      "iso_3166_1_alpha_3": "GRD",
+      "country_name_ru": "Гренада",
+      "emoji_flag": "🇬🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "GE",
+      "iso_3166_1_alpha_3": "GEO",
+      "country_name_ru": "Грузия",
+      "emoji_flag": "🇬🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "GF",
+      "iso_3166_1_alpha_3": "GUF",
+      "country_name_ru": "Французская Гвиана",
+      "emoji_flag": "🇬🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "GG",
+      "iso_3166_1_alpha_3": "GGY",
+      "country_name_ru": "Гернси",
+      "emoji_flag": "🇬🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "GH",
+      "iso_3166_1_alpha_3": "GHA",
+      "country_name_ru": "Гана",
+      "emoji_flag": "🇬🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "GI",
+      "iso_3166_1_alpha_3": "GIB",
+      "country_name_ru": "Гибралтар",
+      "emoji_flag": "🇬🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "GL",
+      "iso_3166_1_alpha_3": "GRL",
+      "country_name_ru": "Гренландия",
+      "emoji_flag": "🇬🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "GM",
+      "iso_3166_1_alpha_3": "GMB",
+      "country_name_ru": "Гамбия",
+      "emoji_flag": "🇬🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "GN",
+      "iso_3166_1_alpha_3": "GIN",
+      "country_name_ru": "Гвинея",
+      "emoji_flag": "🇬🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "GP",
+      "iso_3166_1_alpha_3": "GLP",
+      "country_name_ru": "Гваделупа",
+      "emoji_flag": "🇬🇵"
+    },
+    {
+      "iso_3166_1_alpha_2": "GQ",
+      "iso_3166_1_alpha_3": "GNQ",
+      "country_name_ru": "Экваториальная Гвинея",
+      "emoji_flag": "🇬🇶"
+    },
+    {
+      "iso_3166_1_alpha_2": "GR",
+      "iso_3166_1_alpha_3": "GRC",
+      "country_name_ru": "Греция",
+      "emoji_flag": "🇬🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "GS",
+      "iso_3166_1_alpha_3": "SGS",
+      "country_name_ru": "Южная Джорджия и Южные Сандвичевы острова",
+      "emoji_flag": "🇬🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "GT",
+      "iso_3166_1_alpha_3": "GTM",
+      "country_name_ru": "Гватемала",
+      "emoji_flag": "🇬🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "GU",
+      "iso_3166_1_alpha_3": "GUM",
+      "country_name_ru": "Гуам",
+      "emoji_flag": "🇬🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "GW",
+      "iso_3166_1_alpha_3": "GNB",
+      "country_name_ru": "Гвинея-Бисау",
+      "emoji_flag": "🇬🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "GY",
+      "iso_3166_1_alpha_3": "GUY",
+      "country_name_ru": "Гайана",
+      "emoji_flag": "🇬🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "HK",
+      "iso_3166_1_alpha_3": "HKG",
+      "country_name_ru": "Китай, Специальный административный район Гонконг",
+      "emoji_flag": "🇭🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "HM",
+      "iso_3166_1_alpha_3": "HMD",
+      "country_name_ru": "Остров Херд и острова Макдональд",
+      "emoji_flag": "🇭🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "HN",
+      "iso_3166_1_alpha_3": "HND",
+      "country_name_ru": "Гондурас",
+      "emoji_flag": "🇭🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "HR",
+      "iso_3166_1_alpha_3": "HRV",
+      "country_name_ru": "Хорватия",
+      "emoji_flag": "🇭🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "HT",
+      "iso_3166_1_alpha_3": "HTI",
+      "country_name_ru": "Гаити",
+      "emoji_flag": "🇭🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "HU",
+      "iso_3166_1_alpha_3": "HUN",
+      "country_name_ru": "Венгрия",
+      "emoji_flag": "🇭🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "ID",
+      "iso_3166_1_alpha_3": "IDN",
+      "country_name_ru": "Индонезия",
+      "emoji_flag": "🇮🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "IE",
+      "iso_3166_1_alpha_3": "IRL",
+      "country_name_ru": "Ирландия",
+      "emoji_flag": "🇮🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "IL",
+      "iso_3166_1_alpha_3": "ISR",
+      "country_name_ru": "Израиль",
+      "emoji_flag": "🇮🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "IM",
+      "iso_3166_1_alpha_3": "IMN",
+      "country_name_ru": "Остров Мэн",
+      "emoji_flag": "🇮🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "IN",
+      "iso_3166_1_alpha_3": "IND",
+      "country_name_ru": "Индия",
+      "emoji_flag": "🇮🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "IO",
+      "iso_3166_1_alpha_3": "IOT",
+      "country_name_ru": "Британская территория в Индийском океане",
+      "emoji_flag": "🇮🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "IQ",
+      "iso_3166_1_alpha_3": "IRQ",
+      "country_name_ru": "Ирак",
+      "emoji_flag": "🇮🇶"
+    },
+    {
+      "iso_3166_1_alpha_2": "IR",
+      "iso_3166_1_alpha_3": "IRN",
+      "country_name_ru": "Иран (Исламская Республика)",
+      "emoji_flag": "🇮🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "IS",
+      "iso_3166_1_alpha_3": "ISL",
+      "country_name_ru": "Исландия",
+      "emoji_flag": "🇮🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "IT",
+      "iso_3166_1_alpha_3": "ITA",
+      "country_name_ru": "Италия",
+      "emoji_flag": "🇮🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "JE",
+      "iso_3166_1_alpha_3": "JEY",
+      "country_name_ru": "Джерси",
+      "emoji_flag": "🇯🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "JM",
+      "iso_3166_1_alpha_3": "JAM",
+      "country_name_ru": "Ямайка",
+      "emoji_flag": "🇯🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "JO",
+      "iso_3166_1_alpha_3": "JOR",
+      "country_name_ru": "Иордания",
+      "emoji_flag": "🇯🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "JP",
+      "iso_3166_1_alpha_3": "JPN",
+      "country_name_ru": "Япония",
+      "emoji_flag": "🇯🇵"
+    },
+    {
+      "iso_3166_1_alpha_2": "KE",
+      "iso_3166_1_alpha_3": "KEN",
+      "country_name_ru": "Кения",
+      "emoji_flag": "🇰🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "KG",
+      "iso_3166_1_alpha_3": "KGZ",
+      "country_name_ru": "Кыргызстан",
+      "emoji_flag": "🇰🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "KH",
+      "iso_3166_1_alpha_3": "KHM",
+      "country_name_ru": "Камбоджа",
+      "emoji_flag": "🇰🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "KI",
+      "iso_3166_1_alpha_3": "KIR",
+      "country_name_ru": "Кирибати",
+      "emoji_flag": "🇰🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "KM",
+      "iso_3166_1_alpha_3": "COM",
+      "country_name_ru": "Коморские Острова",
+      "emoji_flag": "🇰🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "KN",
+      "iso_3166_1_alpha_3": "KNA",
+      "country_name_ru": "Сент-Китс и Невис",
+      "emoji_flag": "🇰🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "KP",
+      "iso_3166_1_alpha_3": "PRK",
+      "country_name_ru": "Корейская Народно-Демократическая Республика",
+      "emoji_flag": "🇰🇵"
+    },
+    {
+      "iso_3166_1_alpha_2": "KR",
+      "iso_3166_1_alpha_3": "KOR",
+      "country_name_ru": "Республика Корея",
+      "emoji_flag": "🇰🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "KW",
+      "iso_3166_1_alpha_3": "KWT",
+      "country_name_ru": "Кувейт",
+      "emoji_flag": "🇰🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "KY",
+      "iso_3166_1_alpha_3": "CYM",
+      "country_name_ru": "Кайман острова",
+      "emoji_flag": "🇰🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "KZ",
+      "iso_3166_1_alpha_3": "KAZ",
+      "country_name_ru": "Казахстан",
+      "emoji_flag": "🇰🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "LA",
+      "iso_3166_1_alpha_3": "LAO",
+      "country_name_ru": "Лаосская Народно-Демократическая Республика",
+      "emoji_flag": "🇱🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "LB",
+      "iso_3166_1_alpha_3": "LBN",
+      "country_name_ru": "Ливан",
+      "emoji_flag": "🇱🇧"
+    },
+    {
+      "iso_3166_1_alpha_2": "LC",
+      "iso_3166_1_alpha_3": "LCA",
+      "country_name_ru": "Сент-Люсия",
+      "emoji_flag": "🇱🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "LI",
+      "iso_3166_1_alpha_3": "LIE",
+      "country_name_ru": "Лихтенштейн",
+      "emoji_flag": "🇱🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "LK",
+      "iso_3166_1_alpha_3": "LKA",
+      "country_name_ru": "Шри-Ланка",
+      "emoji_flag": "🇱🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "LR",
+      "iso_3166_1_alpha_3": "LBR",
+      "country_name_ru": "Либерия",
+      "emoji_flag": "🇱🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "LS",
+      "iso_3166_1_alpha_3": "LSO",
+      "country_name_ru": "Лесото",
+      "emoji_flag": "🇱🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "LT",
+      "iso_3166_1_alpha_3": "LTU",
+      "country_name_ru": "Литва",
+      "emoji_flag": "🇱🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "LU",
+      "iso_3166_1_alpha_3": "LUX",
+      "country_name_ru": "Люксембург",
+      "emoji_flag": "🇱🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "LV",
+      "iso_3166_1_alpha_3": "LVA",
+      "country_name_ru": "Латвия",
+      "emoji_flag": "🇱🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "LY",
+      "iso_3166_1_alpha_3": "LBY",
+      "country_name_ru": "Ливия",
+      "emoji_flag": "🇱🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "MA",
+      "iso_3166_1_alpha_3": "MAR",
+      "country_name_ru": "Марокко",
+      "emoji_flag": "🇲🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "MC",
+      "iso_3166_1_alpha_3": "MCO",
+      "country_name_ru": "Монако",
+      "emoji_flag": "🇲🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "MD",
+      "iso_3166_1_alpha_3": "MDA",
+      "country_name_ru": "Республика Молдова",
+      "emoji_flag": "🇲🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "ME",
+      "iso_3166_1_alpha_3": "MNE",
+      "country_name_ru": "Черногория",
+      "emoji_flag": "🇲🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "MF",
+      "iso_3166_1_alpha_3": "MAF",
+      "country_name_ru": "Сен-Мартен (французская часть)",
+      "emoji_flag": "🇲🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "MG",
+      "iso_3166_1_alpha_3": "MDG",
+      "country_name_ru": "Мадагаскар",
+      "emoji_flag": "🇲🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "MH",
+      "iso_3166_1_alpha_3": "MHL",
+      "country_name_ru": "Маршалловы Острова",
+      "emoji_flag": "🇲🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "MK",
+      "iso_3166_1_alpha_3": "MKD",
+      "country_name_ru": "Северная Македония",
+      "emoji_flag": "🇲🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "ML",
+      "iso_3166_1_alpha_3": "MLI",
+      "country_name_ru": "Мали",
+      "emoji_flag": "🇲🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "MM",
+      "iso_3166_1_alpha_3": "MMR",
+      "country_name_ru": "Мьянма",
+      "emoji_flag": "🇲🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "MN",
+      "iso_3166_1_alpha_3": "MNG",
+      "country_name_ru": "Монголия",
+      "emoji_flag": "🇲🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "MO",
+      "iso_3166_1_alpha_3": "MAC",
+      "country_name_ru": "Китай, Специальный административный район Макао",
+      "emoji_flag": "🇲🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "MP",
+      "iso_3166_1_alpha_3": "MNP",
+      "country_name_ru": "Северные Марианские острова",
+      "emoji_flag": "🇲🇵"
+    },
+    {
+      "iso_3166_1_alpha_2": "MQ",
+      "iso_3166_1_alpha_3": "MTQ",
+      "country_name_ru": "Мартиника",
+      "emoji_flag": "🇲🇶"
+    },
+    {
+      "iso_3166_1_alpha_2": "MR",
+      "iso_3166_1_alpha_3": "MRT",
+      "country_name_ru": "Мавритания",
+      "emoji_flag": "🇲🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "MS",
+      "iso_3166_1_alpha_3": "MSR",
+      "country_name_ru": "Монтсеррат",
+      "emoji_flag": "🇲🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "MT",
+      "iso_3166_1_alpha_3": "MLT",
+      "country_name_ru": "Мальта",
+      "emoji_flag": "🇲🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "MU",
+      "iso_3166_1_alpha_3": "MUS",
+      "country_name_ru": "Маврикий",
+      "emoji_flag": "🇲🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "MV",
+      "iso_3166_1_alpha_3": "MDV",
+      "country_name_ru": "Мальдивские Острова",
+      "emoji_flag": "🇲🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "MW",
+      "iso_3166_1_alpha_3": "MWI",
+      "country_name_ru": "Малави",
+      "emoji_flag": "🇲🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "MX",
+      "iso_3166_1_alpha_3": "MEX",
+      "country_name_ru": "Мексика",
+      "emoji_flag": "🇲🇽"
+    },
+    {
+      "iso_3166_1_alpha_2": "MY",
+      "iso_3166_1_alpha_3": "MYS",
+      "country_name_ru": "Малайзия",
+      "emoji_flag": "🇲🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "MZ",
+      "iso_3166_1_alpha_3": "MOZ",
+      "country_name_ru": "Мозамбик",
+      "emoji_flag": "🇲🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "NA",
+      "iso_3166_1_alpha_3": "NAM",
+      "country_name_ru": "Намибия",
+      "emoji_flag": "🇳🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "NC",
+      "iso_3166_1_alpha_3": "NCL",
+      "country_name_ru": "Новая Каледония",
+      "emoji_flag": "🇳🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "NE",
+      "iso_3166_1_alpha_3": "NER",
+      "country_name_ru": "Нигер",
+      "emoji_flag": "🇳🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "NF",
+      "iso_3166_1_alpha_3": "NFK",
+      "country_name_ru": "Остров Норфолк",
+      "emoji_flag": "🇳🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "NG",
+      "iso_3166_1_alpha_3": "NGA",
+      "country_name_ru": "Нигерия",
+      "emoji_flag": "🇳🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "NI",
+      "iso_3166_1_alpha_3": "NIC",
+      "country_name_ru": "Никарагуа",
+      "emoji_flag": "🇳🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "NL",
+      "iso_3166_1_alpha_3": "NLD",
+      "country_name_ru": "Нидерланды",
+      "emoji_flag": "🇳🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "NO",
+      "iso_3166_1_alpha_3": "NOR",
+      "country_name_ru": "Норвегия",
+      "emoji_flag": "🇳🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "NP",
+      "iso_3166_1_alpha_3": "NPL",
+      "country_name_ru": "Непал",
+      "emoji_flag": "🇳🇵"
+    },
+    {
+      "iso_3166_1_alpha_2": "NR",
+      "iso_3166_1_alpha_3": "NRU",
+      "country_name_ru": "Науру",
+      "emoji_flag": "🇳🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "NU",
+      "iso_3166_1_alpha_3": "NIU",
+      "country_name_ru": "Ниуэ **",
+      "emoji_flag": "🇳🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "NZ",
+      "iso_3166_1_alpha_3": "NZL",
+      "country_name_ru": "Новая Зеландия",
+      "emoji_flag": "🇳🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "OM",
+      "iso_3166_1_alpha_3": "OMN",
+      "country_name_ru": "Оман",
+      "emoji_flag": "🇴🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "PA",
+      "iso_3166_1_alpha_3": "PAN",
+      "country_name_ru": "Панама",
+      "emoji_flag": "🇵🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "PE",
+      "iso_3166_1_alpha_3": "PER",
+      "country_name_ru": "Перу",
+      "emoji_flag": "🇵🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "PF",
+      "iso_3166_1_alpha_3": "PYF",
+      "country_name_ru": "Французская Полинезия",
+      "emoji_flag": "🇵🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "PG",
+      "iso_3166_1_alpha_3": "PNG",
+      "country_name_ru": "Папуа — Новая Гвинея",
+      "emoji_flag": "🇵🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "PH",
+      "iso_3166_1_alpha_3": "PHL",
+      "country_name_ru": "Филиппины",
+      "emoji_flag": "🇵🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "PK",
+      "iso_3166_1_alpha_3": "PAK",
+      "country_name_ru": "Пакистан",
+      "emoji_flag": "🇵🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "PL",
+      "iso_3166_1_alpha_3": "POL",
+      "country_name_ru": "Польша",
+      "emoji_flag": "🇵🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "PM",
+      "iso_3166_1_alpha_3": "SPM",
+      "country_name_ru": "Сен-Пьер и Микелон",
+      "emoji_flag": "🇵🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "PN",
+      "iso_3166_1_alpha_3": "PCN",
+      "country_name_ru": "Питкэрн",
+      "emoji_flag": "🇵🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "PR",
+      "iso_3166_1_alpha_3": "PRI",
+      "country_name_ru": "Пуэрто-Рико",
+      "emoji_flag": "🇵🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "PS",
+      "iso_3166_1_alpha_3": "PSE",
+      "country_name_ru": "Государство Палестина *",
+      "emoji_flag": "🇵🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "PT",
+      "iso_3166_1_alpha_3": "PRT",
+      "country_name_ru": "Португалия",
+      "emoji_flag": "🇵🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "PW",
+      "iso_3166_1_alpha_3": "PLW",
+      "country_name_ru": "Палау",
+      "emoji_flag": "🇵🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "PY",
+      "iso_3166_1_alpha_3": "PRY",
+      "country_name_ru": "Парагвай",
+      "emoji_flag": "🇵🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "QA",
+      "iso_3166_1_alpha_3": "QAT",
+      "country_name_ru": "Катар",
+      "emoji_flag": "🇶🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "RE",
+      "iso_3166_1_alpha_3": "REU",
+      "country_name_ru": "Реюньон",
+      "emoji_flag": "🇷🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "RO",
+      "iso_3166_1_alpha_3": "ROU",
+      "country_name_ru": "Румыния",
+      "emoji_flag": "🇷🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "RS",
+      "iso_3166_1_alpha_3": "SRB",
+      "country_name_ru": "Сербия",
+      "emoji_flag": "🇷🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "RU",
+      "iso_3166_1_alpha_3": "RUS",
+      "country_name_ru": "Российская Федерация",
+      "emoji_flag": "🇷🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "RW",
+      "iso_3166_1_alpha_3": "RWA",
+      "country_name_ru": "Руанда",
+      "emoji_flag": "🇷🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "SA",
+      "iso_3166_1_alpha_3": "SAU",
+      "country_name_ru": "Саудовская Аравия",
+      "emoji_flag": "🇸🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "SB",
+      "iso_3166_1_alpha_3": "SLB",
+      "country_name_ru": "Соломоновы Острова",
+      "emoji_flag": "🇸🇧"
+    },
+    {
+      "iso_3166_1_alpha_2": "SC",
+      "iso_3166_1_alpha_3": "SYC",
+      "country_name_ru": "Сейшельские Острова",
+      "emoji_flag": "🇸🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "SD",
+      "iso_3166_1_alpha_3": "SDN",
+      "country_name_ru": "Судан",
+      "emoji_flag": "🇸🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "SE",
+      "iso_3166_1_alpha_3": "SWE",
+      "country_name_ru": "Швеция",
+      "emoji_flag": "🇸🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "SG",
+      "iso_3166_1_alpha_3": "SGP",
+      "country_name_ru": "Сингапур",
+      "emoji_flag": "🇸🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "SH",
+      "iso_3166_1_alpha_3": "SHN",
+      "country_name_ru": "Остров Святой Елены",
+      "emoji_flag": "🇸🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "SI",
+      "iso_3166_1_alpha_3": "SVN",
+      "country_name_ru": "Словения",
+      "emoji_flag": "🇸🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "SJ",
+      "iso_3166_1_alpha_3": "SJM",
+      "country_name_ru": "Острова Свальбард и Ян-Майен",
+      "emoji_flag": "🇸🇯"
+    },
+    {
+      "iso_3166_1_alpha_2": "SK",
+      "iso_3166_1_alpha_3": "SVK",
+      "country_name_ru": "Словакия",
+      "emoji_flag": "🇸🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "SL",
+      "iso_3166_1_alpha_3": "SLE",
+      "country_name_ru": "Сьерра-Леоне",
+      "emoji_flag": "🇸🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "SM",
+      "iso_3166_1_alpha_3": "SMR",
+      "country_name_ru": "Сан-Марино",
+      "emoji_flag": "🇸🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "SN",
+      "iso_3166_1_alpha_3": "SEN",
+      "country_name_ru": "Сенегал",
+      "emoji_flag": "🇸🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "SO",
+      "iso_3166_1_alpha_3": "SOM",
+      "country_name_ru": "Сомали",
+      "emoji_flag": "🇸🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "SR",
+      "iso_3166_1_alpha_3": "SUR",
+      "country_name_ru": "Суринам",
+      "emoji_flag": "🇸🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "SS",
+      "iso_3166_1_alpha_3": "SSD",
+      "country_name_ru": "Южный Судан",
+      "emoji_flag": "🇸🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "ST",
+      "iso_3166_1_alpha_3": "STP",
+      "country_name_ru": "Сан-Томе и Принсипи",
+      "emoji_flag": "🇸🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "SV",
+      "iso_3166_1_alpha_3": "SLV",
+      "country_name_ru": "Сальвадор",
+      "emoji_flag": "🇸🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "SX",
+      "iso_3166_1_alpha_3": "SXM",
+      "country_name_ru": "Синт-Мартен (нидерландская часть)",
+      "emoji_flag": "🇸🇽"
+    },
+    {
+      "iso_3166_1_alpha_2": "SY",
+      "iso_3166_1_alpha_3": "SYR",
+      "country_name_ru": "Сирийская Арабская Республика",
+      "emoji_flag": "🇸🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "SZ",
+      "iso_3166_1_alpha_3": "SWZ",
+      "country_name_ru": "Эсватини",
+      "emoji_flag": "🇸🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "TC",
+      "iso_3166_1_alpha_3": "TCA",
+      "country_name_ru": "Острова Теркс и Кайкос",
+      "emoji_flag": "🇹🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "TD",
+      "iso_3166_1_alpha_3": "TCD",
+      "country_name_ru": "Чад",
+      "emoji_flag": "🇹🇩"
+    },
+    {
+      "iso_3166_1_alpha_2": "TF",
+      "iso_3166_1_alpha_3": "ATF",
+      "country_name_ru": "Южные земли (французская заморская территория)",
+      "emoji_flag": "🇹🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "TG",
+      "iso_3166_1_alpha_3": "TGO",
+      "country_name_ru": "Того",
+      "emoji_flag": "🇹🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "TH",
+      "iso_3166_1_alpha_3": "THA",
+      "country_name_ru": "Таиланд",
+      "emoji_flag": "🇹🇭"
+    },
+    {
+      "iso_3166_1_alpha_2": "TJ",
+      "iso_3166_1_alpha_3": "TJK",
+      "country_name_ru": "Таджикистан",
+      "emoji_flag": "🇹🇯"
+    },
+    {
+      "iso_3166_1_alpha_2": "TK",
+      "iso_3166_1_alpha_3": "TKL",
+      "country_name_ru": "Токелау",
+      "emoji_flag": "🇹🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "TL",
+      "iso_3166_1_alpha_3": "TLS",
+      "country_name_ru": "Тимор-Лешти",
+      "emoji_flag": "🇹🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "TM",
+      "iso_3166_1_alpha_3": "TKM",
+      "country_name_ru": "Туркменистан",
+      "emoji_flag": "🇹🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "TN",
+      "iso_3166_1_alpha_3": "TUN",
+      "country_name_ru": "Тунис",
+      "emoji_flag": "🇹🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "TO",
+      "iso_3166_1_alpha_3": "TON",
+      "country_name_ru": "Тонга",
+      "emoji_flag": "🇹🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "TR",
+      "iso_3166_1_alpha_3": "TUR",
+      "country_name_ru": "Турция",
+      "emoji_flag": "🇹🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "TT",
+      "iso_3166_1_alpha_3": "TTO",
+      "country_name_ru": "Тринидад и Тобаго",
+      "emoji_flag": "🇹🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "TV",
+      "iso_3166_1_alpha_3": "TUV",
+      "country_name_ru": "Тувалу",
+      "emoji_flag": "🇹🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "TW",
+      "iso_3166_1_alpha_3": "TWN",
+      "country_name_ru": "Тайвань",
+      "emoji_flag": "🇹🇼"
+    },
+    {
+      "iso_3166_1_alpha_2": "TZ",
+      "iso_3166_1_alpha_3": "TZA",
+      "country_name_ru": "Объединенная Республика Танзания",
+      "emoji_flag": "🇹🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "UA",
+      "iso_3166_1_alpha_3": "UKR",
+      "country_name_ru": "Украина",
+      "emoji_flag": "🇺🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "UG",
+      "iso_3166_1_alpha_3": "UGA",
+      "country_name_ru": "Уганда",
+      "emoji_flag": "🇺🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "UM",
+      "iso_3166_1_alpha_3": "UMI",
+      "country_name_ru": "Внешние малые острова Соединенных Штатов",
+      "emoji_flag": "🇺🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "US",
+      "iso_3166_1_alpha_3": "USA",
+      "country_name_ru": "Соединенные Штаты Америки",
+      "emoji_flag": "🇺🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "UY",
+      "iso_3166_1_alpha_3": "URY",
+      "country_name_ru": "Уругвай",
+      "emoji_flag": "🇺🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "UZ",
+      "iso_3166_1_alpha_3": "UZB",
+      "country_name_ru": "Узбекистан",
+      "emoji_flag": "🇺🇿"
+    },
+    {
+      "iso_3166_1_alpha_2": "VA",
+      "iso_3166_1_alpha_3": "VAT",
+      "country_name_ru": "Святой Престол *",
+      "emoji_flag": "🇻🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "VC",
+      "iso_3166_1_alpha_3": "VCT",
+      "country_name_ru": "Сент-Винсент и Гренадины",
+      "emoji_flag": "🇻🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "VE",
+      "iso_3166_1_alpha_3": "VEN",
+      "country_name_ru": "Венесуэла (Боливарианская Республика)",
+      "emoji_flag": "🇻🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "VG",
+      "iso_3166_1_alpha_3": "VGB",
+      "country_name_ru": "Британские Виргинские острова",
+      "emoji_flag": "🇻🇬"
+    },
+    {
+      "iso_3166_1_alpha_2": "VI",
+      "iso_3166_1_alpha_3": "VIR",
+      "country_name_ru": "Виргинские острова Соединенных Штатов",
+      "emoji_flag": "🇻🇮"
+    },
+    {
+      "iso_3166_1_alpha_2": "VN",
+      "iso_3166_1_alpha_3": "VNM",
+      "country_name_ru": "Вьетнам",
+      "emoji_flag": "🇻🇳"
+    },
+    {
+      "iso_3166_1_alpha_2": "VU",
+      "iso_3166_1_alpha_3": "VUT",
+      "country_name_ru": "Вануату",
+      "emoji_flag": "🇻🇺"
+    },
+    {
+      "iso_3166_1_alpha_2": "WF",
+      "iso_3166_1_alpha_3": "WLF",
+      "country_name_ru": "Острова Уоллис и Футуна",
+      "emoji_flag": "🇼🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "WS",
+      "iso_3166_1_alpha_3": "WSM",
+      "country_name_ru": "Самоа",
+      "emoji_flag": "🇼🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "YE",
+      "iso_3166_1_alpha_3": "YEM",
+      "country_name_ru": "Йемен",
+      "emoji_flag": "🇾🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "YT",
+      "iso_3166_1_alpha_3": "MYT",
+      "country_name_ru": "Остров Майотта",
+      "emoji_flag": "🇾🇹"
+    },
+    {
+      "iso_3166_1_alpha_2": "ZA",
+      "iso_3166_1_alpha_3": "ZAF",
+      "country_name_ru": "Южная Африка",
+      "emoji_flag": "🇿🇦"
+    },
+    {
+      "iso_3166_1_alpha_2": "ZM",
+      "iso_3166_1_alpha_3": "ZMB",
+      "country_name_ru": "Замбия",
+      "emoji_flag": "🇿🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "ZW",
+      "iso_3166_1_alpha_3": "ZWE",
+      "country_name_ru": "Зимбабве",
+      "emoji_flag": "🇿🇼"
+    }
+  ],
+  "meta": {
+    "title": "Эмодзи-флаги стран мира - Бесплатная загрузка",
+    "description": "Эмодзи-флаги всех стран и территорий согласно последовательностям Unicode regional-indicator-letter (выводятся из кода ISO 3166-1 alpha-2). Содержит 249 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Эмодзи-флаги стран мира | ListBase",
+    "seo_description": "Скачать Эмодзи-флаги стран мира — 249 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 249 записей / 4 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

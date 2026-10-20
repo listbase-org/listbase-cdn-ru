@@ -1,0 +1,115 @@
+{
+  "id": "ru-buryatiya-respublika-goroda",
+  "name": "Города — Республика Бурятия",
+  "title": "Города — Республика Бурятия",
+  "description": "6 городов региона «Республика Бурятия» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Бабушкин",
+      "population_thousands": 4.5,
+      "latitude": 51.7112755,
+      "longitude": 105.8673219,
+      "region_name": "Республика Бурятия",
+      "region_iso_code": "RU-BU",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Гусиноозерск",
+      "population_thousands": 23,
+      "latitude": 51.2865048,
+      "longitude": 106.5230319,
+      "region_name": "Республика Бурятия",
+      "region_iso_code": "RU-BU",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Закаменск",
+      "population_thousands": 11.2,
+      "latitude": 50.372713,
+      "longitude": 103.286699,
+      "region_name": "Республика Бурятия",
+      "region_iso_code": "RU-BU",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Кяхта",
+      "population_thousands": 20.3,
+      "latitude": 50.346543,
+      "longitude": 106.4533516,
+      "region_name": "Республика Бурятия",
+      "region_iso_code": "RU-BU",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Северобайкальск",
+      "population_thousands": 23.2,
+      "latitude": 55.635614,
+      "longitude": 109.3361505,
+      "region_name": "Республика Бурятия",
+      "region_iso_code": "RU-BU",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Улан-Удэ",
+      "population_thousands": 439.1,
+      "latitude": 51.8335853,
+      "longitude": 107.5842223,
+      "region_name": "Республика Бурятия",
+      "region_iso_code": "RU-BU",
+      "federal_district": "Дальневосточный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Республика Бурятия - Бесплатная загрузка",
+    "description": "6 городов региона «Республика Бурятия» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 6 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Республика Бурятия | ListBase",
+    "seo_description": "Скачать Города — Республика Бурятия — 6 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 6 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

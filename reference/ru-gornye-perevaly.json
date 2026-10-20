@@ -1,0 +1,2986 @@
+{
+  "id": "ru-gornye-perevaly",
+  "name": "Горные перевалы России",
+  "title": "Горные перевалы России",
+  "description": "Список географических объектов класса «горный перевал», расположенных в России. Источник — Wikidata через публичный SPARQL-эндпоинт (instance of/subclass of Q133056, страна Россия Q159). Для каждого объекта приведены русское название (rdfs:label@ru), английское название, географические координаты (WGS84, P625) и ссылка на статью русской Википедии. Записи отсортированы по алфавиту русского названия. Записи без русскоязычной (кириллической) этикетки отфильтрованы согласно правилу проекта о сохранении родного текста. Всего 325 уникальных QID; координаты доступны для 323.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 325,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ru",
+      "label": "Name Ru",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ru",
+      "label": "Wikipedia Ru",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q108038198",
+      "name_ru": "Адзапш",
+      "name_en": "Adzapsh pass",
+      "latitude": 43.456444,
+      "longitude": 40.894583,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q12862094",
+      "name_ru": "Аксу (Перевал)",
+      "name_en": "",
+      "latitude": 43.171111,
+      "longitude": 42.594167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q124261423",
+      "name_ru": "Алакат-Богаз",
+      "name_en": "",
+      "latitude": 44.879461,
+      "longitude": 34.649428,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B0%D0%BA%D0%B0%D1%82-%D0%91%D0%BE%D0%B3%D0%B0%D0%B7"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q927387",
+      "name_ru": "Ангарский перевал",
+      "name_en": "Angarskyi Pass",
+      "latitude": 44.758333,
+      "longitude": 34.340833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q7618326",
+      "name_ru": "Багаташ",
+      "name_en": "Bagatash Pass",
+      "latitude": 51.4675,
+      "longitude": 86.3814,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B3%D0%B0%D1%82%D0%B0%D1%88"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q2634270",
+      "name_ru": "Байдарские ворота",
+      "name_en": "Baydar Gate",
+      "latitude": 44.406944,
+      "longitude": 33.782778,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B9%D0%B4%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%B0"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q3646878",
+      "name_ru": "Бахфандаг",
+      "name_en": "Bakhfandag",
+      "latitude": 42.59275,
+      "longitude": 44.014908,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%85%D1%84%D0%B0%D0%BD%D0%B4%D0%B0%D0%B3"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q28927660",
+      "name_ru": "Бечку",
+      "name_en": "Bechku Pass",
+      "latitude": 44.536389,
+      "longitude": 33.864444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%87%D0%BA%D1%83"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q12862630",
+      "name_ru": "Бечо (перевал)",
+      "name_en": "Becho Pass",
+      "latitude": 43.175,
+      "longitude": 42.57722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%87%D0%BE_(%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB)"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q110570492",
+      "name_ru": "Большие ворота",
+      "name_en": "Big Gate Pass",
+      "latitude": 44.853889,
+      "longitude": 34.6,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%B5_%D0%92%D0%BE%D1%80%D0%BE%D1%82%D0%B0_(%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB)"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q4098434",
+      "name_ru": "Буйбинский перевал",
+      "name_en": "Buybinsky pass",
+      "latitude": 52.856966,
+      "longitude": 93.25942,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%B9%D0%B1%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q125246098",
+      "name_ru": "Ворон (перевал)",
+      "name_en": "",
+      "latitude": 44.928045,
+      "longitude": 34.827971,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%80%D0%BE%D0%BD_(%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB)"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q134521945",
+      "name_ru": "Восточный Суат (перевал)",
+      "name_en": "",
+      "latitude": 44.834584,
+      "longitude": 34.472611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%A1%D1%83%D0%B0%D1%82_(%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB)"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q30889236",
+      "name_ru": "Высокогорский перевал",
+      "name_en": "Vysokogorsky",
+      "latitude": 44.494167,
+      "longitude": 135.385833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q12863084",
+      "name_ru": "Гезевцек",
+      "name_en": "Gezevtsek Pass",
+      "latitude": 42.890278,
+      "longitude": 43.352222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%B7%D0%B5%D0%B2%D1%86%D0%B5%D0%BA"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q4141268",
+      "name_ru": "Гойтхский перевал",
+      "name_en": "",
+      "latitude": 44.263611,
+      "longitude": 39.263333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%B9%D1%82%D1%85%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q134411729",
+      "name_ru": "Горуча",
+      "name_en": "",
+      "latitude": 44.891654,
+      "longitude": 34.699451,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D1%83%D1%87%D0%B0"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q125225566",
+      "name_ru": "Грушевский перевал",
+      "name_en": "",
+      "latitude": 44.964374,
+      "longitude": 34.961389,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D1%83%D1%88%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q4151642",
+      "name_ru": "Гудурдаг (перевал)",
+      "name_en": "Gudurdag Pass",
+      "latitude": 41.776689,
+      "longitude": 46.792708,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D1%83%D0%B4%D1%83%D1%80%D0%B4%D0%B0%D0%B3_(%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB)"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q12098520",
+      "name_ru": "Гурзуфское седло",
+      "name_en": "Gurzufsk Saddle",
+      "latitude": 44.59412,
+      "longitude": 34.20604,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D1%83%D1%80%D0%B7%D1%83%D1%84%D1%81%D0%BA%D0%BE%D0%B5_%D0%A1%D0%B5%D0%B4%D0%BB%D0%BE"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q4153559",
+      "name_ru": "Даван",
+      "name_en": "Davan",
+      "latitude": 55.677139,
+      "longitude": 108.785611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%B2%D0%B0%D0%BD"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q3651602",
+      "name_ru": "Донгузорун (перевал)",
+      "name_en": "Nakra Pass",
+      "latitude": 43.214444,
+      "longitude": 42.455278,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B3%D1%83%D0%B7%D0%BE%D1%80%D1%83%D0%BD_(%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB)"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q28667015",
+      "name_ru": "Дыхныауш",
+      "name_en": "Dykhnyaush",
+      "latitude": 43.023889,
+      "longitude": 43.160278,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D1%8B%D1%85%D0%BD%D1%8B%D0%B0%D1%83%D1%88"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q3646898",
+      "name_ru": "Зекарский перевал (Большой Кавказ)",
+      "name_en": "Zekara Pass",
+      "latitude": 42.551944,
+      "longitude": 43.957778,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB_(%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%9A%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7)"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q39161607",
+      "name_ru": "Кайтанакский Перевал",
+      "name_en": "",
+      "latitude": 50.159722,
+      "longitude": 85.36,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q30890653",
+      "name_ru": "Карагем",
+      "name_en": "Karagem",
+      "latitude": 49.969444,
+      "longitude": 87.763333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%B3%D0%B5%D0%BC_(%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB)"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q3192969",
+      "name_ru": "Каратюрек (перевал)",
+      "name_en": "",
+      "latitude": 49.934608,
+      "longitude": 86.505908,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D1%82%D1%8E%D1%80%D0%B5%D0%BA_(%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB)"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q4222471",
+      "name_ru": "Китлод (перевал)",
+      "name_en": "Kvitlodi Pass",
+      "latitude": 43.123611,
+      "longitude": 42.945,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%82%D0%BB%D0%BE%D0%B4_(%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB)"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q3646487",
+      "name_ru": "Клухорский перевал",
+      "name_en": "Klukhorski Pass",
+      "latitude": 43.244167,
+      "longitude": 41.866944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D1%83%D1%85%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q3652706",
+      "name_ru": "Кодорский перевал",
+      "name_en": "Kodori Pass",
+      "latitude": 42.126981,
+      "longitude": 45.751931,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B4%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q110259412",
+      "name_ru": "Кок-Асан-Богаз",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BA-%D0%90%D1%81%D0%B0%D0%BD-%D0%91%D0%BE%D0%B3%D0%B0%D0%B7"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q3201008",
+      "name_ru": "Кызылбалхаш",
+      "name_en": "",
+      "latitude": 51.553889,
+      "longitude": 88.773889,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%8B%D0%B7%D1%8B%D0%BB%D0%B1%D0%B0%D0%BB%D1%85%D0%B0%D1%88"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q39161999",
+      "name_ru": "Кырк",
+      "name_en": "",
+      "latitude": 42.883056,
+      "longitude": 46.613333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q7245626",
+      "name_ru": "Лаба (перевал)",
+      "name_en": "Laba Pass",
+      "latitude": 43.387778,
+      "longitude": 41.099167,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B1%D0%B0_(%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB)"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q2377800",
+      "name_ru": "Ласпинский перевал",
+      "name_en": "Laspi Pass",
+      "latitude": 44.43,
+      "longitude": 33.705833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%81%D0%BF%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q3651595",
+      "name_ru": "Ласхедар (перевал)",
+      "name_en": "",
+      "latitude": 43.157778,
+      "longitude": 42.891111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%81%D1%85%D0%B5%D0%B4%D0%B0%D1%80_(%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB)"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q21980504",
+      "name_ru": "Мала-Россо",
+      "name_en": "Mala-Rosso",
+      "latitude": 41.82112,
+      "longitude": 46.55861,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B0-%D0%A0%D0%BE%D1%81%D1%81%D0%BE"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q2981976",
+      "name_ru": "Мамисонский перевал",
+      "name_en": "Mamison Pass",
+      "latitude": 42.705556,
+      "longitude": 43.794444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BC%D0%B8%D1%81%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q108000024",
+      "name_ru": "Марух",
+      "name_en": "",
+      "latitude": 43.366111,
+      "longitude": 41.383889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q3651427",
+      "name_ru": "Марухский перевал",
+      "name_en": "Marukhi Pass",
+      "latitude": 43.366111,
+      "longitude": 41.383889,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%83%D1%85%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q124325774",
+      "name_ru": "Маски (перевал)",
+      "name_en": "",
+      "latitude": 44.9214,
+      "longitude": 34.840347,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%BA%D0%B8_(%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB)"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q110259405",
+      "name_ru": "Муруринский перевал",
+      "name_en": "Mururinsky",
+      "latitude": 57.016944,
+      "longitude": 119.3475,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%80%D1%83%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q110896099",
+      "name_ru": "Нахарский перевал",
+      "name_en": "",
+      "latitude": 43.22521,
+      "longitude": 41.92176,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q4314739",
+      "name_ru": "Находкинский перевал",
+      "name_en": "Nakhodinsky",
+      "latitude": 42.883333,
+      "longitude": 132.883333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%85%D0%BE%D0%B4%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q39160526",
+      "name_ru": "Перевал Агойский",
+      "name_en": "",
+      "latitude": 44.1325,
+      "longitude": 39.046667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q39160703",
+      "name_ru": "Перевал Азишский",
+      "name_en": "",
+      "latitude": 44.0825,
+      "longitude": 40.006111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q39160591",
+      "name_ru": "Перевал Ангинский",
+      "name_en": "",
+      "latitude": 50.312778,
+      "longitude": 111.125278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q39160568",
+      "name_ru": "Перевал Андийские Ворота",
+      "name_en": "",
+      "latitude": 42.790278,
+      "longitude": 46.360833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q39160575",
+      "name_ru": "Перевал Андреевский",
+      "name_en": "",
+      "latitude": 44.727222,
+      "longitude": 37.868333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q39160600",
+      "name_ru": "Перевал Анисимова",
+      "name_en": "",
+      "latitude": 43.193333,
+      "longitude": 132.835833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q39160609",
+      "name_ru": "Перевал Антиготинский",
+      "name_en": "",
+      "latitude": 52.241389,
+      "longitude": 112.310556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q39160618",
+      "name_ru": "Перевал Арашентуйский",
+      "name_en": "",
+      "latitude": 50.038611,
+      "longitude": 111.711667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q39160630",
+      "name_ru": "Перевал Арбат",
+      "name_en": "",
+      "latitude": 49.570833,
+      "longitude": 108.526111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q39160650",
+      "name_ru": "Перевал Арибамеэр",
+      "name_en": "",
+      "latitude": 42.393889,
+      "longitude": 46.273611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q39160668",
+      "name_ru": "Перевал Архонский",
+      "name_en": "",
+      "latitude": 42.828889,
+      "longitude": 44.211667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q39160639",
+      "name_ru": "Перевал Арчиб-Худун",
+      "name_en": "",
+      "latitude": 41.924444,
+      "longitude": 46.923611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q39160712",
+      "name_ru": "Перевал Бабича",
+      "name_en": "",
+      "latitude": 44.6625,
+      "longitude": 38.078611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q39160785",
+      "name_ru": "Перевал Байри",
+      "name_en": "",
+      "latitude": 51.146667,
+      "longitude": 104.143056,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q39160796",
+      "name_ru": "Перевал Байцаганский",
+      "name_en": "",
+      "latitude": 49.795556,
+      "longitude": 112.573333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q39160739",
+      "name_ru": "Перевал Бакланова",
+      "name_en": "",
+      "latitude": 50.7575,
+      "longitude": 109.683889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q39160769",
+      "name_ru": "Перевал Батайраг",
+      "name_en": "",
+      "latitude": 42.931667,
+      "longitude": 44.442778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q39160844",
+      "name_ru": "Перевал Берёзовый",
+      "name_en": "",
+      "latitude": 43.648889,
+      "longitude": 134.004722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q39160852",
+      "name_ru": "Перевал Берёзовый",
+      "name_en": "",
+      "latitude": 44.074722,
+      "longitude": 135.151667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q39161003",
+      "name_ru": "Перевал Бжидский",
+      "name_en": "",
+      "latitude": 44.369722,
+      "longitude": 38.629722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q39160871",
+      "name_ru": "Перевал Большая Седлина",
+      "name_en": "",
+      "latitude": 44.204167,
+      "longitude": 40.941667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q39160883",
+      "name_ru": "Перевал Большой Урал",
+      "name_en": "",
+      "latitude": 57.895,
+      "longitude": 59.565,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q39160923",
+      "name_ru": "Перевал Борзинский",
+      "name_en": "",
+      "latitude": 50.488611,
+      "longitude": 117.023333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q39160910",
+      "name_ru": "Перевал Боруянский",
+      "name_en": "",
+      "latitude": 50.268889,
+      "longitude": 112.381111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q39160942",
+      "name_ru": "Перевал Бухточинский",
+      "name_en": "",
+      "latitude": 53.583056,
+      "longitude": 118.1525,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q39160989",
+      "name_ru": "Перевал Былыра-Джилинский",
+      "name_en": "",
+      "latitude": 50.377222,
+      "longitude": 112.3075,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q39163296",
+      "name_ru": "Перевал Везучий",
+      "name_en": "",
+      "latitude": 43.170278,
+      "longitude": 132.985833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q30889288",
+      "name_ru": "Перевал Венюкова",
+      "name_en": "Venyukov Pass",
+      "latitude": 44.284722,
+      "longitude": 134.891667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB_%D0%92%D0%B5%D0%BD%D1%8E%D0%BA%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q39163280",
+      "name_ru": "Перевал Верхний Хундуй",
+      "name_en": "",
+      "latitude": 51.856667,
+      "longitude": 108.601389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q39163288",
+      "name_ru": "Перевал Вершинский",
+      "name_en": "",
+      "latitude": 53.5475,
+      "longitude": 158.680833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q39163309",
+      "name_ru": "Перевал Волчьи Ворота",
+      "name_en": "",
+      "latitude": 44.807778,
+      "longitude": 37.649722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q39163318",
+      "name_ru": "Перевал Волчьи Ворота",
+      "name_en": "",
+      "latitude": 44.326667,
+      "longitude": 40.081667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q39163326",
+      "name_ru": "Перевал Волчьи Ворота",
+      "name_en": "",
+      "latitude": 44.434722,
+      "longitude": 40.240833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q39163368",
+      "name_ru": "Перевал Вуланокий",
+      "name_en": "",
+      "latitude": 44.506667,
+      "longitude": 38.631944,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q39161333",
+      "name_ru": "Перевал Гарал-Кал",
+      "name_en": "",
+      "latitude": 41.985833,
+      "longitude": 46.684167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q39161345",
+      "name_ru": "Перевал Гарзигуль",
+      "name_en": "",
+      "latitude": 41.784167,
+      "longitude": 47.936944,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q39161357",
+      "name_ru": "Перевал Герчеч",
+      "name_en": "",
+      "latitude": 42.839722,
+      "longitude": 44.771389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q39161370",
+      "name_ru": "Перевал Гилямуш",
+      "name_en": "",
+      "latitude": 41.793333,
+      "longitude": 46.973889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q39161385",
+      "name_ru": "Перевал Голубево",
+      "name_en": "",
+      "latitude": 45.054444,
+      "longitude": 131.68,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q39161378",
+      "name_ru": "Перевал Гольдоний",
+      "name_en": "",
+      "latitude": 49.455556,
+      "longitude": 136.871667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q39161396",
+      "name_ru": "Перевал Горбуша",
+      "name_en": "",
+      "latitude": 44.6775,
+      "longitude": 135.679444,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q39161407",
+      "name_ru": "Перевал Грачевский",
+      "name_en": "",
+      "latitude": 44.007222,
+      "longitude": 39.652778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q39161413",
+      "name_ru": "Перевал Гребневый",
+      "name_en": "",
+      "latitude": 48.221944,
+      "longitude": 134.906944,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q39161419",
+      "name_ru": "Перевал Грядовский",
+      "name_en": "",
+      "latitude": 51.484444,
+      "longitude": 119.649444,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q39161434",
+      "name_ru": "Перевал Гуммакал",
+      "name_en": "",
+      "latitude": 41.941944,
+      "longitude": 46.728333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q39161440",
+      "name_ru": "Перевал Гунтуца",
+      "name_en": "",
+      "latitude": 41.844167,
+      "longitude": 47.038889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q39161461",
+      "name_ru": "Перевал Гыр-Голунский",
+      "name_en": "",
+      "latitude": 50.081111,
+      "longitude": 111.651389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q39161139",
+      "name_ru": "Перевал Дабан",
+      "name_en": "",
+      "latitude": 51.262222,
+      "longitude": 133.004722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q39161157",
+      "name_ru": "Перевал Дакитуйский",
+      "name_en": "",
+      "latitude": 49.696389,
+      "longitude": 109.340833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q39161161",
+      "name_ru": "Перевал Дальнегорский",
+      "name_en": "",
+      "latitude": 44.290556,
+      "longitude": 135.595556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q39161167",
+      "name_ru": "Перевал Дамалда",
+      "name_en": "",
+      "latitude": 41.910556,
+      "longitude": 46.571111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q39161280",
+      "name_ru": "Перевал Джеинджаре",
+      "name_en": "",
+      "latitude": 42.661389,
+      "longitude": 45.725833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q28666615",
+      "name_ru": "Перевал Дидковского",
+      "name_en": "",
+      "latitude": 59.54167,
+      "longitude": 59.09056,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB_%D0%94%D0%B8%D0%B4%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE"
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q39161207",
+      "name_ru": "Перевал Долгий",
+      "name_en": "",
+      "latitude": 48.426111,
+      "longitude": 132.889722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 99,
+      "wikidata_id": "Q39161234",
+      "name_ru": "Перевал Дурзуме",
+      "name_en": "",
+      "latitude": 42.696389,
+      "longitude": 45.676389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 100,
+      "wikidata_id": "Q39161243",
+      "name_ru": "Перевал Душкинский",
+      "name_en": "",
+      "latitude": 43.011389,
+      "longitude": 132.584167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 101,
+      "wikidata_id": "Q4349969",
+      "name_ru": "Перевал Дятлова",
+      "name_en": "Dyatlov Pass",
+      "latitude": 61.754722,
+      "longitude": 59.462778,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB_%D0%94%D1%8F%D1%82%D0%BB%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 102,
+      "wikidata_id": "Q39163449",
+      "name_ru": "Перевал Евлантиевский",
+      "name_en": "",
+      "latitude": 44.820278,
+      "longitude": 135.88,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 103,
+      "wikidata_id": "Q39163440",
+      "name_ru": "Перевал Еловый",
+      "name_en": "",
+      "latitude": 44.269444,
+      "longitude": 133.706667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 104,
+      "wikidata_id": "Q39163515",
+      "name_ru": "Перевал Жиримка",
+      "name_en": "",
+      "latitude": 52.241667,
+      "longitude": 108.320278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 105,
+      "wikidata_id": "Q39163476",
+      "name_ru": "Перевал Заганский",
+      "name_en": "",
+      "latitude": 50.058333,
+      "longitude": 111.385,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 106,
+      "wikidata_id": "Q39163491",
+      "name_ru": "Перевал Западный",
+      "name_en": "",
+      "latitude": 55.255,
+      "longitude": 94.186111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 107,
+      "wikidata_id": "Q39161510",
+      "name_ru": "Перевал Ивановский",
+      "name_en": "",
+      "latitude": 43.860833,
+      "longitude": 132.554444,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 108,
+      "wikidata_id": "Q39161489",
+      "name_ru": "Перевал Иовеная Ворота",
+      "name_en": "",
+      "latitude": 59.626389,
+      "longitude": 59.170278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 109,
+      "wikidata_id": "Q39161498",
+      "name_ru": "Перевал Иовений Провал",
+      "name_en": "",
+      "latitude": 59.633333,
+      "longitude": 59.174167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 110,
+      "wikidata_id": "Q39161616",
+      "name_ru": "Перевал Казарминское Седло",
+      "name_en": "",
+      "latitude": 51.046944,
+      "longitude": 84.103611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 111,
+      "wikidata_id": "Q39161543",
+      "name_ru": "Перевал Каменистый",
+      "name_en": "",
+      "latitude": 52.446667,
+      "longitude": 112.138611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 112,
+      "wikidata_id": "Q39161553",
+      "name_ru": "Перевал Каменный",
+      "name_en": "",
+      "latitude": 48.871389,
+      "longitude": 132.356667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 113,
+      "wikidata_id": "Q39161560",
+      "name_ru": "Перевал Капитанка",
+      "name_en": "",
+      "latitude": 50.565278,
+      "longitude": 104.673333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 114,
+      "wikidata_id": "Q39161521",
+      "name_ru": "Перевал Карабадинский",
+      "name_en": "",
+      "latitude": 44.683611,
+      "longitude": 37.953611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 115,
+      "wikidata_id": "Q39161566",
+      "name_ru": "Перевал Карагайский",
+      "name_en": "",
+      "latitude": 50.401667,
+      "longitude": 84.469444,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 116,
+      "wikidata_id": "Q39161585",
+      "name_ru": "Перевал Карасьи Горы",
+      "name_en": "",
+      "latitude": 57.8975,
+      "longitude": 59.660833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 117,
+      "wikidata_id": "Q39161590",
+      "name_ru": "Перевал Караульский",
+      "name_en": "",
+      "latitude": 50.374722,
+      "longitude": 112.161667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 118,
+      "wikidata_id": "Q4349973",
+      "name_ru": "Перевал Кату-Ярык",
+      "name_en": "Katu-Yaryk Pass",
+      "latitude": 50.913611,
+      "longitude": 88.215278,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D1%83-%D0%AF%D1%80%D1%8B%D0%BA"
+    },
+    {
+      "id": 119,
+      "wikidata_id": "Q39161529",
+      "name_ru": "Перевал Качаловский",
+      "name_en": "",
+      "latitude": 54.3675,
+      "longitude": 120.007778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 120,
+      "wikidata_id": "Q39161596",
+      "name_ru": "Перевал Каштак",
+      "name_en": "",
+      "latitude": 56.563056,
+      "longitude": 106.35,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 121,
+      "wikidata_id": "Q39161625",
+      "name_ru": "Перевал Кедровый",
+      "name_en": "",
+      "latitude": 44.263889,
+      "longitude": 133.7525,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 122,
+      "wikidata_id": "Q39161633",
+      "name_ru": "Перевал Кедровый",
+      "name_en": "",
+      "latitude": 50.928333,
+      "longitude": 104.281111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 123,
+      "wikidata_id": "Q39161647",
+      "name_ru": "Перевал Келейский",
+      "name_en": "",
+      "latitude": 51.127778,
+      "longitude": 84.7575,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 124,
+      "wikidata_id": "Q39161640",
+      "name_ru": "Перевал Кехкуй",
+      "name_en": "",
+      "latitude": 53.471944,
+      "longitude": 158.647222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 125,
+      "wikidata_id": "Q39161926",
+      "name_ru": "Перевал Коенцевский",
+      "name_en": "",
+      "latitude": 53.528889,
+      "longitude": 119.086389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 126,
+      "wikidata_id": "Q39161933",
+      "name_ru": "Перевал Козлы",
+      "name_en": "",
+      "latitude": 44.961944,
+      "longitude": 135.838056,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 127,
+      "wikidata_id": "Q39161882",
+      "name_ru": "Перевал Копунский",
+      "name_en": "",
+      "latitude": 51.766667,
+      "longitude": 117.633889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 128,
+      "wikidata_id": "Q37846186",
+      "name_ru": "Перевал Кора",
+      "name_en": "",
+      "latitude": 42.82306,
+      "longitude": 44.23556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 129,
+      "wikidata_id": "Q39161894",
+      "name_ru": "Перевал Корой",
+      "name_en": "",
+      "latitude": 42.213889,
+      "longitude": 46.217778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 130,
+      "wikidata_id": "Q39161888",
+      "name_ru": "Перевал Королёвский",
+      "name_en": "",
+      "latitude": 56.834444,
+      "longitude": 106.162222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 131,
+      "wikidata_id": "Q39161907",
+      "name_ru": "Перевал Корявый",
+      "name_en": "",
+      "latitude": 43.343056,
+      "longitude": 134.608611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 132,
+      "wikidata_id": "Q39161901",
+      "name_ru": "Перевал Корякский",
+      "name_en": "",
+      "latitude": 53.355556,
+      "longitude": 158.685833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 133,
+      "wikidata_id": "Q39161914",
+      "name_ru": "Перевал Котиковский",
+      "name_en": "",
+      "latitude": 47.389444,
+      "longitude": 134.550833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 134,
+      "wikidata_id": "Q39161938",
+      "name_ru": "Перевал Красный",
+      "name_en": "",
+      "latitude": 44.655278,
+      "longitude": 38.552778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 135,
+      "wikidata_id": "Q39161949",
+      "name_ru": "Перевал Кресты",
+      "name_en": "",
+      "latitude": 53.336944,
+      "longitude": 101.011389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 136,
+      "wikidata_id": "Q39161956",
+      "name_ru": "Перевал Крутой",
+      "name_en": "",
+      "latitude": 44.175,
+      "longitude": 135.389722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 137,
+      "wikidata_id": "Q39161968",
+      "name_ru": "Перевал Курепин",
+      "name_en": "",
+      "latitude": 49.849722,
+      "longitude": 108.8075,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 138,
+      "wikidata_id": "Q39161975",
+      "name_ru": "Перевал Курлинский",
+      "name_en": "",
+      "latitude": 52.108333,
+      "longitude": 112.343056,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 139,
+      "wikidata_id": "Q39161978",
+      "name_ru": "Перевал Куртатинский",
+      "name_en": "",
+      "latitude": 42.689444,
+      "longitude": 44.173889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 140,
+      "wikidata_id": "Q39161983",
+      "name_ru": "Перевал Курунзулайский",
+      "name_en": "",
+      "latitude": 51.025556,
+      "longitude": 117.06,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 141,
+      "wikidata_id": "Q39162005",
+      "name_ru": "Перевал Кырлыкский",
+      "name_en": "",
+      "latitude": 50.661667,
+      "longitude": 84.985278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 142,
+      "wikidata_id": "Q39162033",
+      "name_ru": "Перевал Лазовский",
+      "name_en": "",
+      "latitude": 43.493889,
+      "longitude": 133.579167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 143,
+      "wikidata_id": "Q39162019",
+      "name_ru": "Перевал Лаказани",
+      "name_en": "",
+      "latitude": 41.927222,
+      "longitude": 46.976944,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 144,
+      "wikidata_id": "Q39162027",
+      "name_ru": "Перевал Лангутайские Ворота",
+      "name_en": "",
+      "latitude": 51.263611,
+      "longitude": 104.152778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 145,
+      "wikidata_id": "Q11006918",
+      "name_ru": "Перевал Лехзырский",
+      "name_en": "",
+      "latitude": 43.158056,
+      "longitude": 42.878056,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 146,
+      "wikidata_id": "Q39162047",
+      "name_ru": "Перевал Лидовский",
+      "name_en": "",
+      "latitude": 44.403056,
+      "longitude": 135.835278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 147,
+      "wikidata_id": "Q39162070",
+      "name_ru": "Перевал Лувач",
+      "name_en": "",
+      "latitude": 55.082778,
+      "longitude": 110.616667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 148,
+      "wikidata_id": "Q39162063",
+      "name_ru": "Перевал Луганский",
+      "name_en": "",
+      "latitude": 43.731944,
+      "longitude": 40.693333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 149,
+      "wikidata_id": "Q39162058",
+      "name_ru": "Перевал Лха",
+      "name_en": "",
+      "latitude": 43.421944,
+      "longitude": 43.101667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 150,
+      "wikidata_id": "Q30966420",
+      "name_ru": "Перевал МАН",
+      "name_en": "",
+      "latitude": 44.777785,
+      "longitude": 34.372811,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB_%D0%9C%D0%90%D0%9D"
+    },
+    {
+      "id": 151,
+      "wikidata_id": "Q39162080",
+      "name_ru": "Перевал Магишо",
+      "name_en": "",
+      "latitude": 43.775833,
+      "longitude": 40.744167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 152,
+      "wikidata_id": "Q39162096",
+      "name_ru": "Перевал Малое Хасуко",
+      "name_en": "",
+      "latitude": 43.581111,
+      "longitude": 42.189167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 153,
+      "wikidata_id": "Q39162106",
+      "name_ru": "Перевал Малютка",
+      "name_en": "",
+      "latitude": 55.228889,
+      "longitude": 161.391111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 154,
+      "wikidata_id": "Q39162113",
+      "name_ru": "Перевал Манса-Арасхан",
+      "name_en": "",
+      "latitude": 53.15,
+      "longitude": 96.55,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 155,
+      "wikidata_id": "Q39162121",
+      "name_ru": "Перевал Маркотх",
+      "name_en": "",
+      "latitude": 44.756389,
+      "longitude": 37.806667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 156,
+      "wikidata_id": "Q39162089",
+      "name_ru": "Перевал Махарочили",
+      "name_en": "",
+      "latitude": 42.468889,
+      "longitude": 46.200833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 157,
+      "wikidata_id": "Q39162153",
+      "name_ru": "Перевал Мготинский",
+      "name_en": "",
+      "latitude": 52.113056,
+      "longitude": 112.199722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 158,
+      "wikidata_id": "Q39162127",
+      "name_ru": "Перевал Медвежий",
+      "name_en": "",
+      "latitude": 71.17723,
+      "longitude": -177.80205,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 159,
+      "wikidata_id": "Q39162134",
+      "name_ru": "Перевал Мельден",
+      "name_en": "",
+      "latitude": 61.189167,
+      "longitude": 155.308611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 160,
+      "wikidata_id": "Q39162141",
+      "name_ru": "Перевал Мельников",
+      "name_en": "",
+      "latitude": 56.411667,
+      "longitude": 106.298889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 161,
+      "wikidata_id": "Q11002494",
+      "name_ru": "Перевал Местиа",
+      "name_en": "",
+      "latitude": 43.178333,
+      "longitude": 42.850556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 162,
+      "wikidata_id": "Q39162159",
+      "name_ru": "Перевал Михайловский",
+      "name_en": "",
+      "latitude": 44.53,
+      "longitude": 38.275556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 163,
+      "wikidata_id": "Q39162166",
+      "name_ru": "Перевал Монгол-Дабан",
+      "name_en": "",
+      "latitude": 52.6,
+      "longitude": 98.833333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 164,
+      "wikidata_id": "Q39162187",
+      "name_ru": "Перевал Муравьёв-Амурский",
+      "name_en": "",
+      "latitude": 48.2,
+      "longitude": 137.483333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 165,
+      "wikidata_id": "Q39162194",
+      "name_ru": "Перевал Муркин",
+      "name_en": "Pass Murkin",
+      "latitude": 44.799444,
+      "longitude": 37.373056,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 166,
+      "wikidata_id": "Q39162203",
+      "name_ru": "Перевал Муртайский",
+      "name_en": "",
+      "latitude": 51.166667,
+      "longitude": 106.166667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 167,
+      "wikidata_id": "Q39162210",
+      "name_ru": "Перевал Муруджу",
+      "name_en": "",
+      "latitude": 43.260278,
+      "longitude": 41.873333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 168,
+      "wikidata_id": "Q39162222",
+      "name_ru": "Перевал Мустаг-Дабан",
+      "name_en": "",
+      "latitude": 53.7,
+      "longitude": 96.916667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 169,
+      "wikidata_id": "Q39162173",
+      "name_ru": "Перевал Мухай-Хутэл-Дабан",
+      "name_en": "",
+      "latitude": 52.323889,
+      "longitude": 99.163056,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 170,
+      "wikidata_id": "Q39162180",
+      "name_ru": "Перевал Мухинский",
+      "name_en": "",
+      "latitude": 43.4775,
+      "longitude": 41.609444,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 171,
+      "wikidata_id": "Q39162215",
+      "name_ru": "Перевал Мушак",
+      "name_en": "",
+      "latitude": 42.03056,
+      "longitude": 46.08111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 172,
+      "wikidata_id": "Q39162236",
+      "name_ru": "Перевал Нагрелабек",
+      "name_en": "",
+      "latitude": 42.429722,
+      "longitude": 47.420278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 173,
+      "wikidata_id": "Q39162229",
+      "name_ru": "Перевал Надежды",
+      "name_en": "",
+      "latitude": 55.152778,
+      "longitude": 161.210833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 174,
+      "wikidata_id": "Q39162250",
+      "name_ru": "Перевал Налгимский",
+      "name_en": "",
+      "latitude": 63.980833,
+      "longitude": 168.999722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 175,
+      "wikidata_id": "Q39162258",
+      "name_ru": "Перевал Нам-Дабан",
+      "name_en": "",
+      "latitude": 50.806944,
+      "longitude": 104.346389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 176,
+      "wikidata_id": "Q39162266",
+      "name_ru": "Перевал Нарин-Дабан",
+      "name_en": "",
+      "latitude": 51.404167,
+      "longitude": 108.089167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 177,
+      "wikidata_id": "Q39162274",
+      "name_ru": "Перевал Наур",
+      "name_en": "",
+      "latitude": 43.384722,
+      "longitude": 41.176667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 178,
+      "wikidata_id": "Q39162281",
+      "name_ru": "Перевал Неберджаевский",
+      "name_en": "",
+      "latitude": 44.771944,
+      "longitude": 37.768889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 179,
+      "wikidata_id": "Q39162290",
+      "name_ru": "Перевал Нексиканский",
+      "name_en": "",
+      "latitude": 62.883333,
+      "longitude": 147.816667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 180,
+      "wikidata_id": "Q39162302",
+      "name_ru": "Перевал Никабаркулме",
+      "name_en": "",
+      "latitude": 42.013333,
+      "longitude": 47.498889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 181,
+      "wikidata_id": "Q39162310",
+      "name_ru": "Перевал Нилан-Сарам",
+      "name_en": "",
+      "latitude": 52.25,
+      "longitude": 102.166667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 182,
+      "wikidata_id": "Q39162322",
+      "name_ru": "Перевал Ноль",
+      "name_en": "",
+      "latitude": 43.790278,
+      "longitude": 39.660556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 183,
+      "wikidata_id": "Q39162352",
+      "name_ru": "Перевал Нужда",
+      "name_en": "",
+      "latitude": 44.36,
+      "longitude": 133.565556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 184,
+      "wikidata_id": "Q39162337",
+      "name_ru": "Перевал Нунтальский",
+      "name_en": "",
+      "latitude": 42.145556,
+      "longitude": 46.555556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 185,
+      "wikidata_id": "Q39162345",
+      "name_ru": "Перевал Нусса",
+      "name_en": "",
+      "latitude": 41.85293,
+      "longitude": 47.24373,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 186,
+      "wikidata_id": "Q39162329",
+      "name_ru": "Перевал Нухен-Дабан",
+      "name_en": "",
+      "latitude": 51.212222,
+      "longitude": 104.145278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 187,
+      "wikidata_id": "Q39162360",
+      "name_ru": "Перевал Нюлки",
+      "name_en": "",
+      "latitude": 65.783333,
+      "longitude": 160.983333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 188,
+      "wikidata_id": "Q39162373",
+      "name_ru": "Перевал Обогальский",
+      "name_en": "",
+      "latitude": 52.196944,
+      "longitude": 99.0725,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 189,
+      "wikidata_id": "Q39162366",
+      "name_ru": "Перевал Ободыни",
+      "name_en": "",
+      "latitude": 50.289722,
+      "longitude": 95.603611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 190,
+      "wikidata_id": "Q39162387",
+      "name_ru": "Перевал Оганчи",
+      "name_en": "",
+      "latitude": 55.1,
+      "longitude": 157.8,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 191,
+      "wikidata_id": "Q39162395",
+      "name_ru": "Перевал Оглок-Ихин-Дабан",
+      "name_en": "",
+      "latitude": 50.983333,
+      "longitude": 104.166667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 192,
+      "wikidata_id": "Q39162381",
+      "name_ru": "Перевал Одырейский",
+      "name_en": "",
+      "latitude": 50.141389,
+      "longitude": 111.384167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 193,
+      "wikidata_id": "Q39162402",
+      "name_ru": "Перевал Оло",
+      "name_en": "",
+      "latitude": 47.528611,
+      "longitude": 135.945833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 194,
+      "wikidata_id": "Q39162408",
+      "name_ru": "Перевал Орток",
+      "name_en": "",
+      "latitude": 51.108611,
+      "longitude": 104.136944,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 195,
+      "wikidata_id": "Q39162415",
+      "name_ru": "Перевал Осиновый",
+      "name_en": "",
+      "latitude": 51.161111,
+      "longitude": 82.807778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 196,
+      "wikidata_id": "Q39162420",
+      "name_ru": "Перевал Осиновый",
+      "name_en": "",
+      "latitude": 52.243056,
+      "longitude": 112.495278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 197,
+      "wikidata_id": "Q39162430",
+      "name_ru": "Перевал Остряк",
+      "name_en": "",
+      "latitude": 56.951111,
+      "longitude": 162.333056,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 198,
+      "wikidata_id": "Q39162456",
+      "name_ru": "Перевал Палкбаши",
+      "name_en": "",
+      "latitude": 43.391111,
+      "longitude": 42.403889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 199,
+      "wikidata_id": "Q39162448",
+      "name_ru": "Перевал Пальтолах",
+      "name_en": "",
+      "latitude": 66.983333,
+      "longitude": 157.75,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 200,
+      "wikidata_id": "Q39162462",
+      "name_ru": "Перевал Папайский",
+      "name_en": "",
+      "latitude": 44.642222,
+      "longitude": 38.368056,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 201,
+      "wikidata_id": "Q39162470",
+      "name_ru": "Перевал Пареньский",
+      "name_en": "",
+      "latitude": 63.5,
+      "longitude": 161.35,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 202,
+      "wikidata_id": "Q39162478",
+      "name_ru": "Перевал Партизанский",
+      "name_en": "",
+      "latitude": 44.738056,
+      "longitude": 135.685833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 203,
+      "wikidata_id": "Q39162486",
+      "name_ru": "Перевал Перерваный",
+      "name_en": "",
+      "latitude": 44.285278,
+      "longitude": 41.288333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 204,
+      "wikidata_id": "Q39162493",
+      "name_ru": "Перевал Песчаный",
+      "name_en": "",
+      "latitude": 43.573611,
+      "longitude": 133.9425,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 205,
+      "wikidata_id": "Q39162502",
+      "name_ru": "Перевал Пиначевский",
+      "name_en": "",
+      "latitude": 53.443056,
+      "longitude": 158.636389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 206,
+      "wikidata_id": "Q39162511",
+      "name_ru": "Перевал Пограничный",
+      "name_en": "",
+      "latitude": 52.2,
+      "longitude": 93.833333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 207,
+      "wikidata_id": "Q39162520",
+      "name_ru": "Перевал Пржевальского",
+      "name_en": "",
+      "latitude": 43.72,
+      "longitude": 132.541389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 208,
+      "wikidata_id": "Q39162528",
+      "name_ru": "Перевал Псеашхо",
+      "name_en": "",
+      "latitude": 43.730556,
+      "longitude": 40.388333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 209,
+      "wikidata_id": "Q39162542",
+      "name_ru": "Перевал Пуринский",
+      "name_en": "",
+      "latitude": 50.864722,
+      "longitude": 117.997222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 210,
+      "wikidata_id": "Q39162535",
+      "name_ru": "Перевал Пшадский",
+      "name_en": "",
+      "latitude": 44.465,
+      "longitude": 38.439444,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 211,
+      "wikidata_id": "Q39162438",
+      "name_ru": "Перевал Пьяный",
+      "name_en": "",
+      "latitude": 49.778611,
+      "longitude": 108.094444,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 212,
+      "wikidata_id": "Q39162550",
+      "name_ru": "Перевал Пятигорский",
+      "name_en": "",
+      "latitude": 44.646667,
+      "longitude": 38.975,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 213,
+      "wikidata_id": "Q39162559",
+      "name_ru": "Перевал Рахуни-Дериль-Габурхи",
+      "name_en": "",
+      "latitude": 42.7275,
+      "longitude": 46.92,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 214,
+      "wikidata_id": "Q39162566",
+      "name_ru": "Перевал Рискованный",
+      "name_en": "",
+      "latitude": 46.161111,
+      "longitude": 150.354167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 215,
+      "wikidata_id": "Q39162574",
+      "name_ru": "Перевал Рушуха",
+      "name_en": "",
+      "latitude": 42.7175,
+      "longitude": 46.280278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 216,
+      "wikidata_id": "Q39162582",
+      "name_ru": "Перевал Сабын-Даба",
+      "name_en": "",
+      "latitude": 52.2,
+      "longitude": 90.5,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 217,
+      "wikidata_id": "Q39162590",
+      "name_ru": "Перевал Садомский",
+      "name_en": "",
+      "latitude": 48.420278,
+      "longitude": 136.830556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 218,
+      "wikidata_id": "Q39162629",
+      "name_ru": "Перевал Сайхен-Дабан",
+      "name_en": "",
+      "latitude": 52.35,
+      "longitude": 98.766667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 219,
+      "wikidata_id": "Q39162599",
+      "name_ru": "Перевал Сангин Даба",
+      "name_en": "",
+      "latitude": 51.083333,
+      "longitude": 103.3,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 220,
+      "wikidata_id": "Q39162607",
+      "name_ru": "Перевал Сангитуй-Дюктю",
+      "name_en": "",
+      "latitude": 50.833333,
+      "longitude": 103.833333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 221,
+      "wikidata_id": "Q39162615",
+      "name_ru": "Перевал Сардах",
+      "name_en": "",
+      "latitude": 55.65,
+      "longitude": 135.933333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 222,
+      "wikidata_id": "Q39162622",
+      "name_ru": "Перевал Сарын-Дабан",
+      "name_en": "",
+      "latitude": 52.816667,
+      "longitude": 99.583333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 223,
+      "wikidata_id": "Q39162926",
+      "name_ru": "Перевал Сваловское Седло",
+      "name_en": "",
+      "latitude": 51.498333,
+      "longitude": 83.705,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 224,
+      "wikidata_id": "Q39162635",
+      "name_ru": "Перевал Седелка",
+      "name_en": "",
+      "latitude": 52.814167,
+      "longitude": 158.475556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 225,
+      "wikidata_id": "Q39162641",
+      "name_ru": "Перевал Седелко",
+      "name_en": "",
+      "latitude": 55.065556,
+      "longitude": 96.340833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 226,
+      "wikidata_id": "Q39162649",
+      "name_ru": "Перевал Семи",
+      "name_en": "",
+      "latitude": 43.111389,
+      "longitude": 42.98,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 227,
+      "wikidata_id": "Q39162662",
+      "name_ru": "Перевал Сердах",
+      "name_en": "",
+      "latitude": 55.833333,
+      "longitude": 133.6,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 228,
+      "wikidata_id": "Q39162805",
+      "name_ru": "Перевал Сильвийский",
+      "name_en": "",
+      "latitude": 51.25,
+      "longitude": 106.166667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 229,
+      "wikidata_id": "Q39162799",
+      "name_ru": "Перевал Сихоте-Алинь",
+      "name_en": "",
+      "latitude": 49.685556,
+      "longitude": 139.372222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 230,
+      "wikidata_id": "Q39162831",
+      "name_ru": "Перевал Сказочный",
+      "name_en": "",
+      "latitude": 43.345,
+      "longitude": 133.215278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 231,
+      "wikidata_id": "Q39162821",
+      "name_ru": "Перевал Скалистый",
+      "name_en": "",
+      "latitude": 56.762222,
+      "longitude": 162.011944,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 232,
+      "wikidata_id": "Q39162840",
+      "name_ru": "Перевал Смирнова",
+      "name_en": "",
+      "latitude": 67.216667,
+      "longitude": 157.316667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 233,
+      "wikidata_id": "Q39162847",
+      "name_ru": "Перевал Снежный",
+      "name_en": "",
+      "latitude": 50.395,
+      "longitude": 155.845556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 234,
+      "wikidata_id": "Q39162869",
+      "name_ru": "Перевал Соломенный",
+      "name_en": "",
+      "latitude": 42.890833,
+      "longitude": 133.253611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 235,
+      "wikidata_id": "Q39162861",
+      "name_ru": "Перевал Солох-Аульский",
+      "name_en": "",
+      "latitude": 43.781111,
+      "longitude": 39.695278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 236,
+      "wikidata_id": "Q39162855",
+      "name_ru": "Перевал Сохондинский",
+      "name_en": "",
+      "latitude": 49.724444,
+      "longitude": 111.110278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 237,
+      "wikidata_id": "Q39162879",
+      "name_ru": "Перевал Спартакиады",
+      "name_en": "",
+      "latitude": 43.25,
+      "longitude": 42.85,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 238,
+      "wikidata_id": "Q39162888",
+      "name_ru": "Перевал Средний",
+      "name_en": "",
+      "latitude": 47.106944,
+      "longitude": 152.201667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 239,
+      "wikidata_id": "Q39162904",
+      "name_ru": "Перевал Становой",
+      "name_en": "",
+      "latitude": 60.833333,
+      "longitude": 152.316667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 240,
+      "wikidata_id": "Q39162895",
+      "name_ru": "Перевал Становок",
+      "name_en": "",
+      "latitude": 60.6,
+      "longitude": 149.6,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 241,
+      "wikidata_id": "Q39162910",
+      "name_ru": "Перевал Столбовский",
+      "name_en": "",
+      "latitude": 56.620833,
+      "longitude": 162.977778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 242,
+      "wikidata_id": "Q39162919",
+      "name_ru": "Перевал Суарык",
+      "name_en": "",
+      "latitude": 43.382222,
+      "longitude": 42.7875,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 243,
+      "wikidata_id": "Q39162934",
+      "name_ru": "Перевал Тальцы",
+      "name_en": "",
+      "latitude": 51.832778,
+      "longitude": 108.886944,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 244,
+      "wikidata_id": "Q39162950",
+      "name_ru": "Перевал Тарху",
+      "name_en": "",
+      "latitude": 42.498333,
+      "longitude": 46.280278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 245,
+      "wikidata_id": "Q39162957",
+      "name_ru": "Перевал Тас-Балаган",
+      "name_en": "",
+      "latitude": 55.741111,
+      "longitude": 130.771111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 246,
+      "wikidata_id": "Q39162971",
+      "name_ru": "Перевал Тележанское Седло",
+      "name_en": "",
+      "latitude": 51.443889,
+      "longitude": 84.163889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 247,
+      "wikidata_id": "Q39162979",
+      "name_ru": "Перевал Тетёрихинский",
+      "name_en": "",
+      "latitude": 50.451111,
+      "longitude": 112.278611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 248,
+      "wikidata_id": "Q39163082",
+      "name_ru": "Перевал Убэр-Булан",
+      "name_en": "",
+      "latitude": 51.071111,
+      "longitude": 115.286389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 249,
+      "wikidata_id": "Q39163106",
+      "name_ru": "Перевал Удобный",
+      "name_en": "",
+      "latitude": 46.585,
+      "longitude": 135.508056,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 250,
+      "wikidata_id": "Q39163153",
+      "name_ru": "Перевал Улан-Хаданский",
+      "name_en": "",
+      "latitude": 52.03,
+      "longitude": 112.151389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 251,
+      "wikidata_id": "Q39163163",
+      "name_ru": "Перевал Улентуй",
+      "name_en": "",
+      "latitude": 51.847778,
+      "longitude": 108.756667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 252,
+      "wikidata_id": "Q39163181",
+      "name_ru": "Перевал Улурийский",
+      "name_en": "",
+      "latitude": 50.258611,
+      "longitude": 111.668889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 253,
+      "wikidata_id": "Q39163233",
+      "name_ru": "Перевал Усмаркал",
+      "name_en": "",
+      "latitude": 42.131667,
+      "longitude": 46.636111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 254,
+      "wikidata_id": "Q4349976",
+      "name_ru": "Перевал Ферсмана",
+      "name_en": "Fersman Pass",
+      "latitude": 67.737883,
+      "longitude": 33.429067,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB_%D0%A4%D0%B5%D1%80%D1%81%D0%BC%D0%B0%D0%BD%D0%B0"
+    },
+    {
+      "id": 255,
+      "wikidata_id": "Q39161316",
+      "name_ru": "Перевал Форточка",
+      "name_en": "",
+      "latitude": 44.984722,
+      "longitude": 133.653056,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 256,
+      "wikidata_id": "Q39161326",
+      "name_ru": "Перевал Фрешфильда",
+      "name_en": "",
+      "latitude": 43.216667,
+      "longitude": 42.9,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 257,
+      "wikidata_id": "Q39161675",
+      "name_ru": "Перевал Халахуркац",
+      "name_en": "",
+      "latitude": 41.887778,
+      "longitude": 46.800833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BB%D0%B0%D1%85%D1%83%D1%80%D0%BA%D0%B0%D1%86"
+    },
+    {
+      "id": 258,
+      "wikidata_id": "Q39161699",
+      "name_ru": "Перевал Хара-Дабан",
+      "name_en": "",
+      "latitude": 52.593889,
+      "longitude": 99.86,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 259,
+      "wikidata_id": "Q39161713",
+      "name_ru": "Перевал Харами",
+      "name_en": "",
+      "latitude": 42.806944,
+      "longitude": 46.159444,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 260,
+      "wikidata_id": "Q39161730",
+      "name_ru": "Перевал Хатабалу",
+      "name_en": "",
+      "latitude": 41.81214,
+      "longitude": 47.15638,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 261,
+      "wikidata_id": "Q39161738",
+      "name_ru": "Перевал Хатын-Ага",
+      "name_en": "",
+      "latitude": 50.054444,
+      "longitude": 95.486111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 262,
+      "wikidata_id": "Q39161762",
+      "name_ru": "Перевал Хенгриктин-Торелчи",
+      "name_en": "",
+      "latitude": 50.072778,
+      "longitude": 95.902778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 263,
+      "wikidata_id": "Q39161748",
+      "name_ru": "Перевал Хехцир",
+      "name_en": "",
+      "latitude": 48.298611,
+      "longitude": 135.081111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 264,
+      "wikidata_id": "Q39161777",
+      "name_ru": "Перевал Химрик",
+      "name_en": "",
+      "latitude": 41.98284,
+      "longitude": 46.26187,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 265,
+      "wikidata_id": "Q39161782",
+      "name_ru": "Перевал Хобелбетер",
+      "name_en": "",
+      "latitude": 41.886111,
+      "longitude": 46.609722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 266,
+      "wikidata_id": "Q39161787",
+      "name_ru": "Перевал Ходский",
+      "name_en": "",
+      "latitude": 42.902222,
+      "longitude": 44.029722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 267,
+      "wikidata_id": "Q39161805",
+      "name_ru": "Перевал Холинский",
+      "name_en": "",
+      "latitude": 52.112778,
+      "longitude": 111.890278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 268,
+      "wikidata_id": "Q39161816",
+      "name_ru": "Перевал Хребтовый",
+      "name_en": "",
+      "latitude": 44.498333,
+      "longitude": 38.904722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 269,
+      "wikidata_id": "Q39161822",
+      "name_ru": "Перевал Хубыты",
+      "name_en": "",
+      "latitude": 51.869167,
+      "longitude": 101.648889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 270,
+      "wikidata_id": "Q39161847",
+      "name_ru": "Перевал Хузун",
+      "name_en": "",
+      "latitude": 49.7775,
+      "longitude": 109.148611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 271,
+      "wikidata_id": "Q39161828",
+      "name_ru": "Перевал Хулаанклухамаидан",
+      "name_en": "",
+      "latitude": 41.8975,
+      "longitude": 47.554722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 272,
+      "wikidata_id": "Q39161756",
+      "name_ru": "Перевал Хэнгэлин-Даба",
+      "name_en": "",
+      "latitude": 50.598333,
+      "longitude": 98.073611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 273,
+      "wikidata_id": "Q39163008",
+      "name_ru": "Перевал Цагир",
+      "name_en": "",
+      "latitude": 50.215556,
+      "longitude": 95.2575,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 274,
+      "wikidata_id": "Q39163025",
+      "name_ru": "Перевал Цейлахан",
+      "name_en": "",
+      "latitude": 41.458333,
+      "longitude": 47.379167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 275,
+      "wikidata_id": "Q39163043",
+      "name_ru": "Перевал Цимирцы",
+      "name_en": "",
+      "latitude": 41.499722,
+      "longitude": 47.294722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 276,
+      "wikidata_id": "Q39163049",
+      "name_ru": "Перевал Цунтинский",
+      "name_en": "",
+      "latitude": 42.284722,
+      "longitude": 46.103611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 277,
+      "wikidata_id": "Q39161008",
+      "name_ru": "Перевал Чантыбарз",
+      "name_en": "",
+      "latitude": 42.674722,
+      "longitude": 45.691389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 278,
+      "wikidata_id": "Q39161030",
+      "name_ru": "Перевал Чегонский",
+      "name_en": "",
+      "latitude": 51.421111,
+      "longitude": 84.777778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 279,
+      "wikidata_id": "Q39161047",
+      "name_ru": "Перевал Черемховский",
+      "name_en": "",
+      "latitude": 50.723333,
+      "longitude": 110.268056,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 280,
+      "wikidata_id": "Q39161056",
+      "name_ru": "Перевал Черемшанский",
+      "name_en": "",
+      "latitude": 44.693056,
+      "longitude": 135.665556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 281,
+      "wikidata_id": "Q39161111",
+      "name_ru": "Перевал Чонгольский",
+      "name_en": "",
+      "latitude": 53.546111,
+      "longitude": 118.103611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 282,
+      "wikidata_id": "Q39161122",
+      "name_ru": "Перевал Чульты",
+      "name_en": "",
+      "latitude": 41.855556,
+      "longitude": 47.195556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 283,
+      "wikidata_id": "Q39161022",
+      "name_ru": "Перевал Чээрен-Арт",
+      "name_en": "",
+      "latitude": 50.484167,
+      "longitude": 95.003333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 284,
+      "wikidata_id": "Q39161130",
+      "name_ru": "Перевал Чёрный",
+      "name_en": "",
+      "latitude": 51.9075,
+      "longitude": 104.9775,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 285,
+      "wikidata_id": "Q39162668",
+      "name_ru": "Перевал Шабановский",
+      "name_en": "",
+      "latitude": 44.368889,
+      "longitude": 38.683611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 286,
+      "wikidata_id": "Q39162677",
+      "name_ru": "Перевал Шабановский",
+      "name_en": "",
+      "latitude": 44.505278,
+      "longitude": 38.769167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 287,
+      "wikidata_id": "Q39162685",
+      "name_ru": "Перевал Шабартуйский",
+      "name_en": "",
+      "latitude": 52.035,
+      "longitude": 112.095278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 288,
+      "wikidata_id": "Q39162693",
+      "name_ru": "Перевал Шалабольский",
+      "name_en": "",
+      "latitude": 55.048889,
+      "longitude": 89.923333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 289,
+      "wikidata_id": "Q39162710",
+      "name_ru": "Перевал Шапшал",
+      "name_en": "",
+      "latitude": 50.516667,
+      "longitude": 89.966667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 290,
+      "wikidata_id": "Q39162719",
+      "name_ru": "Перевал Шаукам",
+      "name_en": "",
+      "latitude": 43.416944,
+      "longitude": 42.7175,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 291,
+      "wikidata_id": "Q39162728",
+      "name_ru": "Перевал Шаумянский",
+      "name_en": "",
+      "latitude": 44.347222,
+      "longitude": 39.296111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 292,
+      "wikidata_id": "Q39162750",
+      "name_ru": "Перевал Шебелик-Дабан",
+      "name_en": "",
+      "latitude": 52.625,
+      "longitude": 99.794167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 293,
+      "wikidata_id": "Q39162758",
+      "name_ru": "Перевал Широкий",
+      "name_en": "",
+      "latitude": 49.838889,
+      "longitude": 109.177778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 294,
+      "wikidata_id": "Q39162764",
+      "name_ru": "Перевал Шонуй",
+      "name_en": "",
+      "latitude": 49.544167,
+      "longitude": 108.583056,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 295,
+      "wikidata_id": "Q39162771",
+      "name_ru": "Перевал Штернберга",
+      "name_en": "",
+      "latitude": 43.266667,
+      "longitude": 42.916667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 296,
+      "wikidata_id": "Q39162779",
+      "name_ru": "Перевал Шулакиченский",
+      "name_en": "",
+      "latitude": 49.823611,
+      "longitude": 112.569722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 297,
+      "wikidata_id": "Q39162788",
+      "name_ru": "Перевал Шумак",
+      "name_en": "",
+      "latitude": 51.880833,
+      "longitude": 101.756111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 298,
+      "wikidata_id": "Q39162793",
+      "name_ru": "Перевал Шурмакский",
+      "name_en": "",
+      "latitude": 50.623889,
+      "longitude": 95.1875,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 299,
+      "wikidata_id": "Q39162739",
+      "name_ru": "Перевал Щучий",
+      "name_en": "",
+      "latitude": 64.854167,
+      "longitude": 169.5525,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 300,
+      "wikidata_id": "Q39161302",
+      "name_ru": "Перевал Эницала",
+      "name_en": "",
+      "latitude": 42.315556,
+      "longitude": 47.422778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 301,
+      "wikidata_id": "Q39161310",
+      "name_ru": "Перевал Эпчик",
+      "name_en": "",
+      "latitude": 43.471111,
+      "longitude": 41.895278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 302,
+      "wikidata_id": "Q39163383",
+      "name_ru": "Перевал Яблочный",
+      "name_en": "",
+      "latitude": 44.298333,
+      "longitude": 134.7925,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 303,
+      "wikidata_id": "Q39163400",
+      "name_ru": "Перевал Ябоганский",
+      "name_en": "",
+      "latitude": 50.876667,
+      "longitude": 85.238611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 304,
+      "wikidata_id": "Q39163407",
+      "name_ru": "Перевал Ягодак",
+      "name_en": "",
+      "latitude": 42.543889,
+      "longitude": 45.921389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 305,
+      "wikidata_id": "Q39163416",
+      "name_ru": "Перевал Ямный",
+      "name_en": "",
+      "latitude": 49.808333,
+      "longitude": 109.019444,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 306,
+      "wikidata_id": "Q39174522",
+      "name_ru": "Проход Маргуцек",
+      "name_en": "",
+      "latitude": 50.5,
+      "longitude": 117.833333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 307,
+      "wikidata_id": "Q2604922",
+      "name_ru": "Рокский перевал",
+      "name_en": "Roki Pass",
+      "latitude": 42.611941,
+      "longitude": 44.134942,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB"
+    },
+    {
+      "id": 308,
+      "wikidata_id": "Q39181238",
+      "name_ru": "Садонский Перевал",
+      "name_en": "",
+      "latitude": 42.816667,
+      "longitude": 43.966667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 309,
+      "wikidata_id": "Q21979470",
+      "name_ru": "Салаватский перевал",
+      "name_en": "Salavatsky Pass",
+      "latitude": 41.40017,
+      "longitude": 47.22221,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D0%B0%D0%B2%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB"
+    },
+    {
+      "id": 310,
+      "wikidata_id": "Q12868808",
+      "name_ru": "Санчарский перевал",
+      "name_en": "Sancharo",
+      "latitude": 43.428056,
+      "longitude": 40.929722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D1%87%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB"
+    },
+    {
+      "id": 311,
+      "wikidata_id": "Q2213426",
+      "name_ru": "Саянский перевал",
+      "name_en": "Sayansky Pass",
+      "latitude": 51.699167,
+      "longitude": 89.893056,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB"
+    },
+    {
+      "id": 312,
+      "wikidata_id": "Q1478092",
+      "name_ru": "Семинский перевал",
+      "name_en": "Seminsky Pass",
+      "latitude": 51.045278,
+      "longitude": 85.604167,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB"
+    },
+    {
+      "id": 313,
+      "wikidata_id": "Q124253490",
+      "name_ru": "Синор (перевал)",
+      "name_en": "Sinor pass",
+      "latitude": 44.888924,
+      "longitude": 35.069708,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%BE%D1%80_(%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB)"
+    },
+    {
+      "id": 314,
+      "wikidata_id": "Q3649126",
+      "name_ru": "Трусо (перевал)",
+      "name_en": "",
+      "latitude": 42.65,
+      "longitude": 44.239167,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D1%83%D1%81%D0%BE_(%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB)"
+    },
+    {
+      "id": 315,
+      "wikidata_id": "Q2383783",
+      "name_ru": "Улаганский перевал",
+      "name_en": "Ulagansky Pass",
+      "latitude": 50.482449,
+      "longitude": 87.629823,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D0%B0%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB"
+    },
+    {
+      "id": 316,
+      "wikidata_id": "Q125217621",
+      "name_ru": "Урбаш (перевал)",
+      "name_en": "",
+      "latitude": 44.909399,
+      "longitude": 35.102512,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%80%D0%B1%D0%B0%D1%88_(%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB)"
+    },
+    {
+      "id": 317,
+      "wikidata_id": "Q39163241",
+      "name_ru": "Утулик-Дабан",
+      "name_en": "",
+      "latitude": 51.2,
+      "longitude": 103.266667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 318,
+      "wikidata_id": "Q4494977",
+      "name_ru": "Халахуркац",
+      "name_en": "",
+      "latitude": 42.432778,
+      "longitude": 47.072222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 319,
+      "wikidata_id": "Q11568682",
+      "name_ru": "Холмский перевал",
+      "name_en": "Kholmsk Pass",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 320,
+      "wikidata_id": "Q3648969",
+      "name_ru": "Цаннер (перевал)",
+      "name_en": "Tsaneri Pass",
+      "latitude": 43.08,
+      "longitude": 43.027222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B0%D0%BD%D0%BD%D0%B5%D1%80_(%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB)"
+    },
+    {
+      "id": 321,
+      "wikidata_id": "Q61715291",
+      "name_ru": "Чивруай",
+      "name_en": "",
+      "latitude": 67.75368,
+      "longitude": 34.714222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 322,
+      "wikidata_id": "Q134541056",
+      "name_ru": "Чигенитра-Богаз",
+      "name_en": "",
+      "latitude": 44.859523,
+      "longitude": 34.595392,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B8%D0%B3%D0%B5%D0%BD%D0%B8%D1%82%D1%80%D0%B0-%D0%91%D0%BE%D0%B3%D0%B0%D0%B7"
+    },
+    {
+      "id": 323,
+      "wikidata_id": "Q13667772",
+      "name_ru": "Чике-Таман",
+      "name_en": "Chike-Taman Pass",
+      "latitude": 50.644931,
+      "longitude": 86.312306,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B8%D0%BA%D0%B5-%D0%A2%D0%B0%D0%BC%D0%B0%D0%BD"
+    },
+    {
+      "id": 324,
+      "wikidata_id": "Q65290940",
+      "name_ru": "Шаривцек",
+      "name_en": "Sharivtsek Pass",
+      "latitude": 42.910586,
+      "longitude": 43.305308,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 325,
+      "wikidata_id": "Q124318157",
+      "name_ru": "Шеленские перевалы",
+      "name_en": "",
+      "latitude": 44.909986,
+      "longitude": 34.742294,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B5%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB%D1%8B"
+    }
+  ],
+  "meta": {
+    "title": "Горные перевалы России - Бесплатная загрузка",
+    "description": "Список географических объектов класса «горный перевал», расположенных в России. Источник — Wikidata через публичный SPARQL-эндпоинт (instance of/subclass of Q133056, страна Россия Q159). Для каждого объекта приведены русское название (rdfs:label@ru), английское название, географические координаты (WGS84, P625) и ссылка на статью русской Википедии. Записи отсортированы по алфавиту русского названия. Записи без русскоязычной (кириллической) этикетки отфильтрованы согласно правилу проекта о сохранении родного текста. Всего 325 уникальных QID; координаты доступны для 323. Содержит 325 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Горные перевалы России | ListBase",
+    "seo_description": "Скачать Горные перевалы России — 325 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 325 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

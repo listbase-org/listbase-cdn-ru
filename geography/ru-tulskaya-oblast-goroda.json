@@ -1,0 +1,232 @@
+{
+  "id": "ru-tulskaya-oblast-goroda",
+  "name": "Города — Тульская область",
+  "title": "Города — Тульская область",
+  "description": "19 городов региона «Тульская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Алексин",
+      "population_thousands": 57.5,
+      "latitude": 54.5083349,
+      "longitude": 37.0478067,
+      "region_name": "Тульская область",
+      "region_iso_code": "RU-TUL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Белев",
+      "population_thousands": 12.6,
+      "latitude": 53.8114179,
+      "longitude": 36.1382247,
+      "region_name": "Тульская область",
+      "region_iso_code": "RU-TUL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Богородицк",
+      "population_thousands": 30.4,
+      "latitude": 53.7701014,
+      "longitude": 38.1225152,
+      "region_name": "Тульская область",
+      "region_iso_code": "RU-TUL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Болохово",
+      "population_thousands": 8.8,
+      "latitude": 54.0820349,
+      "longitude": 37.826724,
+      "region_name": "Тульская область",
+      "region_iso_code": "RU-TUL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Венев",
+      "population_thousands": 13.9,
+      "latitude": 54.3542315,
+      "longitude": 38.2642236,
+      "region_name": "Тульская область",
+      "region_iso_code": "RU-TUL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Донской",
+      "population_thousands": 62.6,
+      "latitude": 53.9678944,
+      "longitude": 38.3371824,
+      "region_name": "Тульская область",
+      "region_iso_code": "RU-TUL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Ефремов",
+      "population_thousands": 34.4,
+      "latitude": 53.1464766,
+      "longitude": 38.0921657,
+      "region_name": "Тульская область",
+      "region_iso_code": "RU-TUL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Кимовск",
+      "population_thousands": 25.6,
+      "latitude": 53.9698378,
+      "longitude": 38.5380808,
+      "region_name": "Тульская область",
+      "region_iso_code": "RU-TUL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Киреевск",
+      "population_thousands": 26.3,
+      "latitude": 53.9319555,
+      "longitude": 37.9220351,
+      "region_name": "Тульская область",
+      "region_iso_code": "RU-TUL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Липки",
+      "population_thousands": 8.1,
+      "latitude": 53.9417551,
+      "longitude": 37.7020148,
+      "region_name": "Тульская область",
+      "region_iso_code": "RU-TUL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Новомосковск",
+      "population_thousands": 122.3,
+      "latitude": 54.0109075,
+      "longitude": 38.2914024,
+      "region_name": "Тульская область",
+      "region_iso_code": "RU-TUL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Плавск",
+      "population_thousands": 15.7,
+      "latitude": 53.7096415,
+      "longitude": 37.2862352,
+      "region_name": "Тульская область",
+      "region_iso_code": "RU-TUL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Советск",
+      "population_thousands": 7.3,
+      "latitude": 53.9338874,
+      "longitude": 37.6316141,
+      "region_name": "Тульская область",
+      "region_iso_code": "RU-TUL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Суворов",
+      "population_thousands": 17.2,
+      "latitude": 54.1343585,
+      "longitude": 36.4807419,
+      "region_name": "Тульская область",
+      "region_iso_code": "RU-TUL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Тула",
+      "population_thousands": 475.2,
+      "latitude": 54.1920559,
+      "longitude": 37.6153842,
+      "region_name": "Тульская область",
+      "region_iso_code": "RU-TUL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Узловая",
+      "population_thousands": 49.7,
+      "latitude": 53.9730452,
+      "longitude": 38.1763201,
+      "region_name": "Тульская область",
+      "region_iso_code": "RU-TUL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Чекалин",
+      "population_thousands": 0.9,
+      "latitude": 54.0984438,
+      "longitude": 36.2474142,
+      "region_name": "Тульская область",
+      "region_iso_code": "RU-TUL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Щекино",
+      "population_thousands": 57.1,
+      "latitude": 54.0020652,
+      "longitude": 37.5176288,
+      "region_name": "Тульская область",
+      "region_iso_code": "RU-TUL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Ясногорск",
+      "population_thousands": 15.4,
+      "latitude": 54.4795484,
+      "longitude": 37.6896048,
+      "region_name": "Тульская область",
+      "region_iso_code": "RU-TUL",
+      "federal_district": "Центральный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Тульская область - Бесплатная загрузка",
+    "description": "19 городов региона «Тульская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 19 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Тульская область | ListBase",
+    "seo_description": "Скачать Города — Тульская область — 19 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 19 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

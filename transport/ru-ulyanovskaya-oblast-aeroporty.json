@@ -1,0 +1,246 @@
+{
+  "id": "ru-ulyanovskaya-oblast-aeroporty",
+  "name": "Аэропорты — Ulyanovsk Oblast (RU-ULY)",
+  "title": "Аэропорты — Ulyanovsk Oblast (RU-ULY)",
+  "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Ulyanovsk Oblast (ISO 3166-2 RU-ULY) — 5 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"small_airport\": 3, \"medium_airport\": 2}. Извлечено из OurAirports.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 45173,
+      "ident": "RU-0281",
+      "type": "small_airport",
+      "name": "Bely Klyuch Airfield",
+      "latitude_deg": 54.1965,
+      "longitude_deg": 48.321,
+      "elevation_ft": 526,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-ULY",
+      "region_local_code": "ULY",
+      "region_name": "Ulyanovsk Oblast",
+      "municipality": "Ulyanovsk",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "XWWN",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "ЬВВН, Beliy Klyuch Airfield, Аэродром Белый Ключ, Ульянаўск"
+    },
+    {
+      "id": 46260,
+      "ident": "RU-0386",
+      "type": "small_airport",
+      "name": "Novosyolki Airport",
+      "latitude_deg": 53.9099000326,
+      "longitude_deg": 49.7357082367,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-ULY",
+      "region_local_code": "ULY",
+      "region_name": "Ulyanovsk Oblast",
+      "municipality": "Novosyolki",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Novoselki Airport, Аэропорт Новосёлки, Аэропорт Новоселки, УВЛН"
+    },
+    {
+      "id": 35104,
+      "ident": "UWLL",
+      "type": "medium_airport",
+      "name": "Ulyanovsk Baratayevka Airport",
+      "latitude_deg": 54.27016,
+      "longitude_deg": 48.225569,
+      "elevation_ft": 449,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-ULY",
+      "region_local_code": "ULY",
+      "region_name": "Ulyanovsk Oblast",
+      "municipality": "Ulyanovsk",
+      "scheduled_service": "yes",
+      "icao_code": "UWLL",
+      "iata_code": "ULV",
+      "gps_code": "UWLL",
+      "local_code": "",
+      "home_link": "http://ulk.aero/",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Ulyanovsk_Baratayevka_Airport",
+      "keywords": ""
+    },
+    {
+      "id": 46256,
+      "ident": "UWLS",
+      "type": "small_airport",
+      "name": "Soldatskaya Tashla Airfield",
+      "latitude_deg": 54.015284,
+      "longitude_deg": 48.306026,
+      "elevation_ft": 673,
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-ULY",
+      "region_local_code": "ULY",
+      "region_name": "Ulyanovsk Oblast",
+      "municipality": "",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "UWLS",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Аэродром Солдатская Ташла, УВЛС"
+    },
+    {
+      "id": 26407,
+      "ident": "UWLW",
+      "type": "medium_airport",
+      "name": "Ulyanovsk Vostochny Airport",
+      "latitude_deg": 54.401001,
+      "longitude_deg": 48.8027,
+      "elevation_ft": 252,
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-ULY",
+      "region_local_code": "ULY",
+      "region_name": "Ulyanovsk Oblast",
+      "municipality": "Cherdakly",
+      "scheduled_service": "yes",
+      "icao_code": "UWLW",
+      "iata_code": "ULY",
+      "gps_code": "UWLW",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Ulyanovsk_Vostochny_Airport",
+      "keywords": "Ulyanovsk Vostochny Airport"
+    }
+  ],
+  "meta": {
+    "title": "Аэропорты — Ulyanovsk Oblast (RU-ULY) - Бесплатная загрузка",
+    "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Ulyanovsk Oblast (ISO 3166-2 RU-ULY) — 5 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"small_airport\": 3, \"medium_airport\": 2}. Извлечено из OurAirports. Содержит 5 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Аэропорты — Ulyanovsk Oblast (RU-ULY) | ListBase",
+    "seo_description": "Скачать Аэропорты — Ulyanovsk Oblast (RU-ULY) — 5 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 5 записей / 21 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

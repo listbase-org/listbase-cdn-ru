@@ -1,0 +1,163 @@
+{
+  "id": "ru-volgograd-banki",
+  "name": "Банки — Volgograd (коды SWIFT/BIC)",
+  "title": "Банки — Volgograd (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in VOLGOGRAD (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 29,
+      "bank": "AKB VOLGO-DON BANK",
+      "city": "VOLGOGRAD",
+      "branch": "",
+      "swift_code": "AKBVRU21"
+    },
+    {
+      "id": 143,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "VOLGOGRAD",
+      "branch": "(VOLGOGRAD BRANCH)",
+      "swift_code": "MOBWRUM1VOL"
+    },
+    {
+      "id": 235,
+      "bank": "BANK ''ROSSIYA''",
+      "city": "VOLGOGRAD",
+      "branch": "(VOLGOGRAD BRANCH)",
+      "swift_code": "ROSYRU21VLG"
+    },
+    {
+      "id": 403,
+      "bank": "COR JOINT STOCK COMMERCIAL BANK",
+      "city": "VOLGOGRAD",
+      "branch": "",
+      "swift_code": "CJSORU21"
+    },
+    {
+      "id": 453,
+      "bank": "EVROFINANCE MOSNARBANK",
+      "city": "VOLGOGRAD",
+      "branch": "(VOLGOGRAD BRANCH)",
+      "swift_code": "EVRFRUM1VLG"
+    },
+    {
+      "id": 585,
+      "bank": "INVESTMENT TRADE BANK PJSC",
+      "city": "VOLGOGRAD",
+      "branch": "(VOLGOGRADSKY BRANCH)",
+      "swift_code": "INVJRUM1VLG"
+    },
+    {
+      "id": 592,
+      "bank": "IRS-BANK",
+      "city": "VOLGOGRAD",
+      "branch": "(VOLGOGRAD BRANCH IRS BRANCH)",
+      "swift_code": "IRSBRUM1VOL"
+    },
+    {
+      "id": 747,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "VOLGOGRAD",
+      "branch": "(VOLGOGRADSKY BRANCH)",
+      "swift_code": "RUAGRUM1046"
+    },
+    {
+      "id": 816,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "VOLGOGRAD",
+      "branch": "(REGIONAL DEPARTMENT OFFICE IN THE CITY OF VOLGOGRAD)",
+      "swift_code": "MINNRUM1021"
+    },
+    {
+      "id": 1004,
+      "bank": "NOKSSBANK",
+      "city": "VOLGOGRAD",
+      "branch": "",
+      "swift_code": "NOKSRU2V"
+    },
+    {
+      "id": 1110,
+      "bank": "PJSC METKOMBANK",
+      "city": "VOLGOGRAD",
+      "branch": "(VOLGOGRAD BANCH)",
+      "swift_code": "MTKCRUM1VG4"
+    },
+    {
+      "id": 1165,
+      "bank": "PROMSVYAZBANK PJSC",
+      "city": "VOLGOGRAD",
+      "branch": "(YUJNIY BRANCH)",
+      "swift_code": "PRMSRUMMVGG"
+    },
+    {
+      "id": 1259,
+      "bank": "ROST BANK",
+      "city": "VOLGOGRAD",
+      "branch": "(VOLGOGRAD BRANCH)",
+      "swift_code": "JORORU21VLB"
+    },
+    {
+      "id": 1288,
+      "bank": "RUSYUGBANK OAO",
+      "city": "VOLGOGRAD",
+      "branch": "",
+      "swift_code": "JCCYRU21"
+    },
+    {
+      "id": 1391,
+      "bank": "SOBINBANK",
+      "city": "VOLGOGRAD",
+      "branch": "(VOLGOGRAD BRANCH)",
+      "swift_code": "SBBARUM1008"
+    },
+    {
+      "id": 1574,
+      "bank": "VOZROZHDENIE BANK",
+      "city": "VOLGOGRAD",
+      "branch": "(VOLGOGRAD BRANCH)",
+      "swift_code": "VBNKRUM1VGR"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Volgograd (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in VOLGOGRAD (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 16 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Volgograd (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Volgograd (коды SWIFT/BIC) — 16 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 16 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

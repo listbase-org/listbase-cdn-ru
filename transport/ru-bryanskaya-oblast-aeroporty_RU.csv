@@ -1,0 +1,8 @@
+﻿"Id","Ident","Type","Name","Latitude Deg","Longitude Deg","Elevation Ft","Continent","Iso Country","Iso Region","Region Local Code","Region Name","Municipality","Scheduled Service","Icao Code","Iata Code","Gps Code","Local Code","Home Link","Wikipedia Link","Keywords"
+"44379","RU-0127","closed","Bryansk Airport","53.269328","34.336638","702","EU","RU","RU-BRY","BRY","Bryansk Oblast","Bryansk","no","","","","","","","ZA20, ЗА20, Аэропорт Брянск"
+"44927","RU-0232","small_airport","Bezhitsa Airfield","53.338657","34.23419","532","EU","RU","RU-BRY","BRY","Bryansk Oblast","Bryansk","no","","","","XUBB","","","ЬУББ, Bordovichi Airfield, Аэродром Бежица, Аэродром Бордовичи"
+"44996","RU-0239","small_airport","Starodub Airfield","52.566687","32.799629","551","EU","RU","RU-BRY","BRY","Bryansk Oblast","Starodub","no","","","","UUFS","","","Аэропорт Стародуб, УУФС"
+"44998","RU-0240","medium_airport","Seshcha Air Base","53.715258","33.339083","692","EU","RU","RU-BRY","BRY","Bryansk Oblast","Dubrovka","no","","","","XUWD","","","ЬУВД, Sescha Air Base, Аэродром Сеща, Дубровка"
+"508492","RU-0938","heliport","Staroe Lavshino Helicopter Base","53.56009","33.93643","","EU","RU","RU-BRY","BRY","Bryansk Oblast","Staroe Lavshino","no","","","","","","",""
+"35003","RU-7673","closed","Klimovo Air Base","52.34","32.169998","594","EU","RU","RU-BRY","BRY","Bryansk Oblast","Klimovo","no","","","","","","","XUWI, ЬУВИ, Климово, Кли́мово"
+"26393","UUBP","medium_airport","Bryansk International Airport","53.214403","34.175965","663","EU","RU","RU-BRY","BRY","Bryansk Oblast","Bryansk","yes","UUBP","BZK","UUBP","","https://bzk.aero/","https://en.wikipedia.org/wiki/Bryansk_International_Airport","Аэропорт Брянск, УУБП"

@@ -1,0 +1,1087 @@
+{
+  "id": "ru-sibirskiy-federalnyy-okrug-goroda",
+  "name": "Города — Сибирский федеральный округ",
+  "title": "Города — Сибирский федеральный округ",
+  "description": "114 городов в Сибирский федеральный округ с координатами, населением (тыс. чел., Росстат 2020), регионом и ISO-кодом региона.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 114,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Абаза",
+      "population_thousands": 15,
+      "latitude": 52.6516647,
+      "longitude": 90.0885686,
+      "region_name": "Республика Хакасия",
+      "region_iso_code": "RU-KK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Абакан",
+      "population_thousands": 186.8,
+      "latitude": 53.7223325,
+      "longitude": 91.4436721,
+      "region_name": "Республика Хакасия",
+      "region_iso_code": "RU-KK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Ак-Довурак",
+      "population_thousands": 13.6,
+      "latitude": 51.178452,
+      "longitude": 90.5985129,
+      "region_name": "Республика Тыва",
+      "region_iso_code": "RU-TY",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Алейск",
+      "population_thousands": 29,
+      "latitude": 52.4922513,
+      "longitude": 82.7793606,
+      "region_name": "Алтайский край",
+      "region_iso_code": "RU-ALT",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Алзамай",
+      "population_thousands": 5.7,
+      "latitude": 55.5551233,
+      "longitude": 98.6643699,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Ангарск",
+      "population_thousands": 224.6,
+      "latitude": 52.544879,
+      "longitude": 103.888543,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Анжеро-Судженск",
+      "population_thousands": 68.1,
+      "latitude": 56.0786281,
+      "longitude": 86.0201278,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Артемовск",
+      "population_thousands": 1.6,
+      "latitude": 54.3473075,
+      "longitude": 93.4358377,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Асино",
+      "population_thousands": 24.4,
+      "latitude": 56.9907085,
+      "longitude": 86.1765257,
+      "region_name": "Томская область",
+      "region_iso_code": "RU-TOM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Ачинск",
+      "population_thousands": 105.5,
+      "latitude": 56.253907,
+      "longitude": 90.4794397,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Байкальск",
+      "population_thousands": 12.5,
+      "latitude": 51.5230393,
+      "longitude": 104.1487532,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Барабинск",
+      "population_thousands": 28.7,
+      "latitude": 55.35146,
+      "longitude": 78.3464506,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Барнаул",
+      "population_thousands": 632.4,
+      "latitude": 53.3479968,
+      "longitude": 83.7798064,
+      "region_name": "Алтайский край",
+      "region_iso_code": "RU-ALT",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Белово",
+      "population_thousands": 71.2,
+      "latitude": 54.4220968,
+      "longitude": 86.3037373,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Белокуриха",
+      "population_thousands": 15.2,
+      "latitude": 51.996152,
+      "longitude": 84.9839604,
+      "region_name": "Алтайский край",
+      "region_iso_code": "RU-ALT",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Бердск",
+      "population_thousands": 104.3,
+      "latitude": 54.7582156,
+      "longitude": 83.1070605,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Березовский",
+      "population_thousands": 45.6,
+      "latitude": 55.6693513,
+      "longitude": 86.2744459,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Бийск",
+      "population_thousands": 199.5,
+      "latitude": 52.5393864,
+      "longitude": 85.2138453,
+      "region_name": "Алтайский край",
+      "region_iso_code": "RU-ALT",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Бирюсинск",
+      "population_thousands": 8.4,
+      "latitude": 55.9609167,
+      "longitude": 97.8205348,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Боготол",
+      "population_thousands": 19.6,
+      "latitude": 56.2098468,
+      "longitude": 89.5299336,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Бодайбо",
+      "population_thousands": 12,
+      "latitude": 57.8468636,
+      "longitude": 114.1866287,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Болотное",
+      "population_thousands": 15.5,
+      "latitude": 55.6692421,
+      "longitude": 84.3906889,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Бородино",
+      "population_thousands": 16.1,
+      "latitude": 55.9054121,
+      "longitude": 94.9020967,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Братск",
+      "population_thousands": 226.3,
+      "latitude": 56.1513108,
+      "longitude": 101.6340035,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Вихоревка",
+      "population_thousands": 20.8,
+      "latitude": 56.1208145,
+      "longitude": 101.1702926,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Горно-Алтайск",
+      "population_thousands": 64.5,
+      "latitude": 51.9581028,
+      "longitude": 85.9603235,
+      "region_name": "Республика Алтай",
+      "region_iso_code": "RU-AL",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Горняк",
+      "population_thousands": 12.3,
+      "latitude": 50.9979622,
+      "longitude": 81.4643358,
+      "region_name": "Алтайский край",
+      "region_iso_code": "RU-ALT",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Гурьевск",
+      "population_thousands": 22.4,
+      "latitude": 54.2859263,
+      "longitude": 85.9475985,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Дивногорск",
+      "population_thousands": 29.2,
+      "latitude": 55.9576784,
+      "longitude": 92.3800687,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Дудинка",
+      "population_thousands": 20.8,
+      "latitude": 69.4031364,
+      "longitude": 86.1907218,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Енисейск",
+      "population_thousands": 17.8,
+      "latitude": 58.4485261,
+      "longitude": 92.1651083,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Железногорск",
+      "population_thousands": 82.6,
+      "latitude": 56.2529035,
+      "longitude": 93.532273,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Железногорск-Илимский",
+      "population_thousands": 22.9,
+      "latitude": 56.5847888,
+      "longitude": 104.114275,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Заозерный",
+      "population_thousands": 10.2,
+      "latitude": 55.9617752,
+      "longitude": 94.7091491,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Заринск",
+      "population_thousands": 45.9,
+      "latitude": 53.7063476,
+      "longitude": 84.9315081,
+      "region_name": "Алтайский край",
+      "region_iso_code": "RU-ALT",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Зеленогорск",
+      "population_thousands": 61.6,
+      "latitude": 56.1131564,
+      "longitude": 94.5888103,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Зима",
+      "population_thousands": 30.5,
+      "latitude": 53.920693,
+      "longitude": 102.0491772,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Змеиногорск",
+      "population_thousands": 10.2,
+      "latitude": 51.1581094,
+      "longitude": 82.1872547,
+      "region_name": "Алтайский край",
+      "region_iso_code": "RU-ALT",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Игарка",
+      "population_thousands": 4.3,
+      "latitude": 67.4666901,
+      "longitude": 86.5812794,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Иланский",
+      "population_thousands": 14.9,
+      "latitude": 56.2374037,
+      "longitude": 96.067267,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Иркутск",
+      "population_thousands": 623.6,
+      "latitude": 52.2864036,
+      "longitude": 104.2807466,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Исилькуль",
+      "population_thousands": 22.4,
+      "latitude": 54.9096002,
+      "longitude": 71.2816284,
+      "region_name": "Омская область",
+      "region_iso_code": "RU-OMS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Искитим",
+      "population_thousands": 56,
+      "latitude": 54.6267603,
+      "longitude": 83.2951244,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Калачинск",
+      "population_thousands": 22.6,
+      "latitude": 55.0598155,
+      "longitude": 74.5653644,
+      "region_name": "Омская область",
+      "region_iso_code": "RU-OMS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Калтан",
+      "population_thousands": 20.4,
+      "latitude": 53.5210919,
+      "longitude": 87.2771636,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Камень-на-Оби",
+      "population_thousands": 40.5,
+      "latitude": 53.7913974,
+      "longitude": 81.3545053,
+      "region_name": "Алтайский край",
+      "region_iso_code": "RU-ALT",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Канск",
+      "population_thousands": 88.9,
+      "latitude": 56.2051282,
+      "longitude": 95.7051096,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Карасук",
+      "population_thousands": 26.8,
+      "latitude": 53.7343189,
+      "longitude": 78.0422967,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Каргат",
+      "population_thousands": 9,
+      "latitude": 55.1945666,
+      "longitude": 80.2829495,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Кедровый",
+      "population_thousands": 1.9,
+      "latitude": 57.561869,
+      "longitude": 79.5677821,
+      "region_name": "Томская область",
+      "region_iso_code": "RU-TOM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Кемерово",
+      "population_thousands": 556.4,
+      "latitude": 55.3910651,
+      "longitude": 86.0467781,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Киренск",
+      "population_thousands": 11,
+      "latitude": 57.7756595,
+      "longitude": 108.1109412,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Киселевск",
+      "population_thousands": 86.6,
+      "latitude": 54.0059999,
+      "longitude": 86.6366116,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Кодинск",
+      "population_thousands": 15.7,
+      "latitude": 58.6032644,
+      "longitude": 99.1797962,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Колпашево",
+      "population_thousands": 22.9,
+      "latitude": 58.3114253,
+      "longitude": 82.9025829,
+      "region_name": "Томская область",
+      "region_iso_code": "RU-TOM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Красноярск",
+      "population_thousands": 1093.8,
+      "latitude": 56.0093879,
+      "longitude": 92.8524806,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Куйбышев",
+      "population_thousands": 43.5,
+      "latitude": 55.4685094,
+      "longitude": 78.3242048,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Купино",
+      "population_thousands": 13.8,
+      "latitude": 54.366055,
+      "longitude": 77.2973368,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Кызыл",
+      "population_thousands": 119.4,
+      "latitude": 51.7191047,
+      "longitude": 94.4376882,
+      "region_name": "Республика Тыва",
+      "region_iso_code": "RU-TY",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Ленинск-Кузнецкий",
+      "population_thousands": 94.4,
+      "latitude": 54.6674492,
+      "longitude": 86.1797324,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Лесосибирск",
+      "population_thousands": 59.3,
+      "latitude": 58.221681,
+      "longitude": 92.5037872,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Мариинск",
+      "population_thousands": 37.9,
+      "latitude": 56.2127383,
+      "longitude": 87.7454924,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Междуреченск",
+      "population_thousands": 96.3,
+      "latitude": 53.6865289,
+      "longitude": 88.0702754,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Минусинск",
+      "population_thousands": 67.9,
+      "latitude": 53.7104586,
+      "longitude": 91.6872907,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Мыски",
+      "population_thousands": 40.8,
+      "latitude": 53.7125695,
+      "longitude": 87.8055646,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Назарово",
+      "population_thousands": 49.7,
+      "latitude": 56.0113799,
+      "longitude": 90.4168775,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Называевск",
+      "population_thousands": 10.9,
+      "latitude": 55.5689323,
+      "longitude": 71.3503426,
+      "region_name": "Омская область",
+      "region_iso_code": "RU-OMS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Нижнеудинск",
+      "population_thousands": 33.6,
+      "latitude": 54.8968931,
+      "longitude": 99.0314056,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Новоалтайск",
+      "population_thousands": 74.6,
+      "latitude": 53.4119759,
+      "longitude": 83.9311069,
+      "region_name": "Алтайский край",
+      "region_iso_code": "RU-ALT",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Новокузнецк",
+      "population_thousands": 549.4,
+      "latitude": 53.794315,
+      "longitude": 87.2142745,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Новосибирск",
+      "population_thousands": 1625.6,
+      "latitude": 55.028191,
+      "longitude": 82.9211489,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Норильск",
+      "population_thousands": 181.8,
+      "latitude": 69.3489978,
+      "longitude": 88.2009846,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Обь",
+      "population_thousands": 29.9,
+      "latitude": 54.9945576,
+      "longitude": 82.6937181,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Омск",
+      "population_thousands": 1154.5,
+      "latitude": 54.9848566,
+      "longitude": 73.3674517,
+      "region_name": "Омская область",
+      "region_iso_code": "RU-OMS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Осинники",
+      "population_thousands": 41.7,
+      "latitude": 53.5988055,
+      "longitude": 87.3371272,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Полысаево",
+      "population_thousands": 25.9,
+      "latitude": 54.6055,
+      "longitude": 86.2809208,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Прокопьевск",
+      "population_thousands": 190.3,
+      "latitude": 53.8604265,
+      "longitude": 86.7183577,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Рубцовск",
+      "population_thousands": 141.6,
+      "latitude": 51.5012067,
+      "longitude": 81.2078695,
+      "region_name": "Алтайский край",
+      "region_iso_code": "RU-ALT",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Салаир",
+      "population_thousands": 7.3,
+      "latitude": 54.2351735,
+      "longitude": 85.8030733,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Саяногорск",
+      "population_thousands": 46,
+      "latitude": 53.1008083,
+      "longitude": 91.4122454,
+      "region_name": "Республика Хакасия",
+      "region_iso_code": "RU-KK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Саянск",
+      "population_thousands": 38.8,
+      "latitude": 54.1107238,
+      "longitude": 102.18015,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Свирск",
+      "population_thousands": 12.7,
+      "latitude": 53.0842668,
+      "longitude": 103.3364093,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Северск",
+      "population_thousands": 106.5,
+      "latitude": 56.6031285,
+      "longitude": 84.8809926,
+      "region_name": "Томская область",
+      "region_iso_code": "RU-TOM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Славгород",
+      "population_thousands": 29.1,
+      "latitude": 52.999463,
+      "longitude": 78.6459232,
+      "region_name": "Алтайский край",
+      "region_iso_code": "RU-ALT",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Слюдянка",
+      "population_thousands": 18.2,
+      "latitude": 51.6563983,
+      "longitude": 103.7187545,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Сорск",
+      "population_thousands": 11.2,
+      "latitude": 54.0002888,
+      "longitude": 90.2594446,
+      "region_name": "Республика Хакасия",
+      "region_iso_code": "RU-KK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Сосновоборск",
+      "population_thousands": 41.1,
+      "latitude": 56.1202647,
+      "longitude": 93.3354121,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Стрежевой",
+      "population_thousands": 40.8,
+      "latitude": 60.732895,
+      "longitude": 77.604122,
+      "region_name": "Томская область",
+      "region_iso_code": "RU-TOM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Тайга",
+      "population_thousands": 23.1,
+      "latitude": 56.0622131,
+      "longitude": 85.6207182,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Тайшет",
+      "population_thousands": 32.7,
+      "latitude": 55.9405334,
+      "longitude": 98.0030145,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Тара",
+      "population_thousands": 28.2,
+      "latitude": 56.9160511,
+      "longitude": 74.3649194,
+      "region_name": "Омская область",
+      "region_iso_code": "RU-OMS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Татарск",
+      "population_thousands": 23.4,
+      "latitude": 55.2146167,
+      "longitude": 75.9739914,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Таштагол",
+      "population_thousands": 22.9,
+      "latitude": 52.759313,
+      "longitude": 87.8476546,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Тогучин",
+      "population_thousands": 20.8,
+      "latitude": 55.2251631,
+      "longitude": 84.4104118,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Томск",
+      "population_thousands": 576.6,
+      "latitude": 56.4845804,
+      "longitude": 84.9481582,
+      "region_name": "Томская область",
+      "region_iso_code": "RU-TOM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Топки",
+      "population_thousands": 27.8,
+      "latitude": 55.2764707,
+      "longitude": 85.6152619,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Тулун",
+      "population_thousands": 39.7,
+      "latitude": 54.557162,
+      "longitude": 100.5780603,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Туран",
+      "population_thousands": 4.9,
+      "latitude": 52.1449619,
+      "longitude": 93.9173396,
+      "region_name": "Республика Тыва",
+      "region_iso_code": "RU-TY",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Тюкалинск",
+      "population_thousands": 10.3,
+      "latitude": 55.8703415,
+      "longitude": 72.1954747,
+      "region_name": "Омская область",
+      "region_iso_code": "RU-OMS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Ужур",
+      "population_thousands": 15.3,
+      "latitude": 55.3141969,
+      "longitude": 89.8333918,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Усолье-Сибирское",
+      "population_thousands": 76,
+      "latitude": 52.7565808,
+      "longitude": 103.6388109,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Усть-Илимск",
+      "population_thousands": 80.4,
+      "latitude": 57.9430504,
+      "longitude": 102.7415734,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Усть-Кут",
+      "population_thousands": 40.8,
+      "latitude": 56.7928178,
+      "longitude": 105.7757343,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Уяр",
+      "population_thousands": 11.9,
+      "latitude": 55.8131263,
+      "longitude": 94.3282601,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Чадан",
+      "population_thousands": 9.4,
+      "latitude": 51.2844502,
+      "longitude": 91.5788609,
+      "region_name": "Республика Тыва",
+      "region_iso_code": "RU-TY",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Черемхово",
+      "population_thousands": 50.1,
+      "latitude": 53.1369095,
+      "longitude": 103.0901268,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Черепаново",
+      "population_thousands": 19.1,
+      "latitude": 54.2206476,
+      "longitude": 83.3724521,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Черногорск",
+      "population_thousands": 75.4,
+      "latitude": 53.8259342,
+      "longitude": 91.3260229,
+      "region_name": "Республика Хакасия",
+      "region_iso_code": "RU-KK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Чулым",
+      "population_thousands": 11,
+      "latitude": 55.0906867,
+      "longitude": 80.9592508,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Шагонар",
+      "population_thousands": 11.2,
+      "latitude": 51.5346393,
+      "longitude": 92.9199675,
+      "region_name": "Республика Тыва",
+      "region_iso_code": "RU-TY",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Шарыпово",
+      "population_thousands": 36.7,
+      "latitude": 55.5389739,
+      "longitude": 89.1801044,
+      "region_name": "Красноярский край",
+      "region_iso_code": "RU-KYA",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Шелехов",
+      "population_thousands": 48.4,
+      "latitude": 52.2102538,
+      "longitude": 104.0973294,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Юрга",
+      "population_thousands": 80.8,
+      "latitude": 55.7202694,
+      "longitude": 84.8886399,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Яровое",
+      "population_thousands": 18.1,
+      "latitude": 52.9252146,
+      "longitude": 78.5729775,
+      "region_name": "Алтайский край",
+      "region_iso_code": "RU-ALT",
+      "federal_district": "Сибирский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Сибирский федеральный округ - Бесплатная загрузка",
+    "description": "114 городов в Сибирский федеральный округ с координатами, населением (тыс. чел., Росстат 2020), регионом и ISO-кодом региона. Содержит 114 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Сибирский федеральный округ | ListBase",
+    "seo_description": "Скачать Города — Сибирский федеральный округ — 114 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 114 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "id": "ru-saratov-banki",
+  "name": "Банки — Saratov (коды SWIFT/BIC)",
+  "title": "Банки — Saratov (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in SARATOV (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 60,
+      "bank": "AO CRA EXPRESS-VOLGA",
+      "city": "SARATOV",
+      "branch": "",
+      "swift_code": "EXVORU21"
+    },
+    {
+      "id": 154,
+      "bank": "BANK 'AGROROS' ZAO",
+      "city": "SARATOV",
+      "branch": "",
+      "swift_code": "AGZARUM1"
+    },
+    {
+      "id": 209,
+      "bank": "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY) (FORMERLY KHANTY-MANSIYSK BANK OTKRITIE)",
+      "city": "SARATOV",
+      "branch": "(SARATOV BRANCH)",
+      "swift_code": "RUDLRUM1SAR"
+    },
+    {
+      "id": 327,
+      "bank": "CB NOVOPOKROVSKIJ LLC",
+      "city": "SARATOV",
+      "branch": "",
+      "swift_code": "NOVPRU31"
+    },
+    {
+      "id": 490,
+      "bank": "GAZNEFTBANK",
+      "city": "SARATOV",
+      "branch": "",
+      "swift_code": "GAZNRUM1"
+    },
+    {
+      "id": 580,
+      "bank": "INVESTMENT TRADE BANK PJSC",
+      "city": "SARATOV",
+      "branch": "(SARATOVSKY BRANCH)",
+      "swift_code": "INVJRUM1SAR"
+    },
+    {
+      "id": 660,
+      "bank": "JSC ECONOMBANK",
+      "city": "SARATOV",
+      "branch": "(LENINSKY BRANCH)",
+      "swift_code": "BRECRU21LEN"
+    },
+    {
+      "id": 661,
+      "bank": "JSC ECONOMBANK",
+      "city": "SARATOV",
+      "branch": "(OCTYABRSKY BRANCH)",
+      "swift_code": "BRECRU21OCT"
+    },
+    {
+      "id": 662,
+      "bank": "JSC ECONOMBANK",
+      "city": "SARATOV",
+      "branch": "(VOLZHSKY BRANCH)",
+      "swift_code": "BRECRU21VLZ"
+    },
+    {
+      "id": 663,
+      "bank": "JSC ECONOMBANK",
+      "city": "SARATOV",
+      "branch": "(ZAVODSKOY BRANCH)",
+      "swift_code": "BRECRU21ZAV"
+    },
+    {
+      "id": 664,
+      "bank": "JSC ECONOMBANK",
+      "city": "SARATOV",
+      "branch": "",
+      "swift_code": "BRECRU2S"
+    },
+    {
+      "id": 732,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "SARATOV",
+      "branch": "(SARATOVSKY BRANCH)",
+      "swift_code": "RUAGRUM1052"
+    },
+    {
+      "id": 1000,
+      "bank": "NIZHNEVOLZHSKY COMMERCIAL BANK",
+      "city": "SARATOV",
+      "branch": "",
+      "swift_code": "NVOARU21"
+    },
+    {
+      "id": 1246,
+      "bank": "ROST BANK",
+      "city": "SARATOV",
+      "branch": "(SARATOV BRANCH)",
+      "swift_code": "JORORU21SVB"
+    },
+    {
+      "id": 1298,
+      "bank": "SARATOV REGIONAL COMMERCIAL BANK FOR SOCIAL SPHERECONTO",
+      "city": "SARATOV",
+      "branch": "",
+      "swift_code": "CKONRU21"
+    },
+    {
+      "id": 1359,
+      "bank": "SINERGIYA BANK",
+      "city": "SARATOV",
+      "branch": "",
+      "swift_code": "SINYRU21"
+    },
+    {
+      "id": 1455,
+      "bank": "TARKHANY REGIONAL BANK OAO",
+      "city": "SARATOV",
+      "branch": "(SARATOV BRANCH)",
+      "swift_code": "TARYRU21SAR"
+    },
+    {
+      "id": 1549,
+      "bank": "VOLGOINVESTBANK",
+      "city": "SARATOV",
+      "branch": "",
+      "swift_code": "VOLIRU21"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Saratov (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in SARATOV (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 18 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Saratov (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Saratov (коды SWIFT/BIC) — 18 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 18 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

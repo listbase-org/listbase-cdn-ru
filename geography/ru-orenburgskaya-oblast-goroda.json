@@ -1,0 +1,169 @@
+{
+  "id": "ru-orenburgskaya-oblast-goroda",
+  "name": "Города — Оренбургская область",
+  "title": "Города — Оренбургская область",
+  "description": "12 городов региона «Оренбургская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Абдулино",
+      "population_thousands": 18.6,
+      "latitude": 53.6778906,
+      "longitude": 53.6472483,
+      "region_name": "Оренбургская область",
+      "region_iso_code": "RU-ORE",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Бугуруслан",
+      "population_thousands": 48.5,
+      "latitude": 53.6523728,
+      "longitude": 52.4326853,
+      "region_name": "Оренбургская область",
+      "region_iso_code": "RU-ORE",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Бузулук",
+      "population_thousands": 86.1,
+      "latitude": 52.7881277,
+      "longitude": 52.2624877,
+      "region_name": "Оренбургская область",
+      "region_iso_code": "RU-ORE",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Гай",
+      "population_thousands": 33.8,
+      "latitude": 51.4649189,
+      "longitude": 58.4436875,
+      "region_name": "Оренбургская область",
+      "region_iso_code": "RU-ORE",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Кувандык",
+      "population_thousands": 23.3,
+      "latitude": 51.4783857,
+      "longitude": 57.3612636,
+      "region_name": "Оренбургская область",
+      "region_iso_code": "RU-ORE",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Медногорск",
+      "population_thousands": 24.6,
+      "latitude": 51.4037617,
+      "longitude": 57.583163,
+      "region_name": "Оренбургская область",
+      "region_iso_code": "RU-ORE",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Новотроицк",
+      "population_thousands": 83.7,
+      "latitude": 51.1964202,
+      "longitude": 58.3018192,
+      "region_name": "Оренбургская область",
+      "region_iso_code": "RU-ORE",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Оренбург",
+      "population_thousands": 572.2,
+      "latitude": 51.7875092,
+      "longitude": 55.1018828,
+      "region_name": "Оренбургская область",
+      "region_iso_code": "RU-ORE",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Орск",
+      "population_thousands": 226.5,
+      "latitude": 51.2294282,
+      "longitude": 58.4752777,
+      "region_name": "Оренбургская область",
+      "region_iso_code": "RU-ORE",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Соль-Илецк",
+      "population_thousands": 26.9,
+      "latitude": 51.1633736,
+      "longitude": 54.9896726,
+      "region_name": "Оренбургская область",
+      "region_iso_code": "RU-ORE",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Сорочинск",
+      "population_thousands": 27.1,
+      "latitude": 52.426685,
+      "longitude": 53.1542745,
+      "region_name": "Оренбургская область",
+      "region_iso_code": "RU-ORE",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Ясный",
+      "population_thousands": 15.3,
+      "latitude": 51.036838,
+      "longitude": 59.874344,
+      "region_name": "Оренбургская область",
+      "region_iso_code": "RU-ORE",
+      "federal_district": "Приволжский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Оренбургская область - Бесплатная загрузка",
+    "description": "12 городов региона «Оренбургская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 12 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Оренбургская область | ListBase",
+    "seo_description": "Скачать Города — Оренбургская область — 12 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 12 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

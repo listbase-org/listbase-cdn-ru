@@ -1,0 +1,187 @@
+{
+  "id": "ru-arkhangelskaya-oblast-goroda",
+  "name": "Города — Архангельская область",
+  "title": "Города — Архангельская область",
+  "description": "14 городов региона «Архангельская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Архангельск",
+      "population_thousands": 347,
+      "latitude": 64.5394289,
+      "longitude": 40.5169606,
+      "region_name": "Архангельская область",
+      "region_iso_code": "RU-ARK",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Вельск",
+      "population_thousands": 22.3,
+      "latitude": 61.066,
+      "longitude": 42.1032789,
+      "region_name": "Архангельская область",
+      "region_iso_code": "RU-ARK",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Каргополь",
+      "population_thousands": 10,
+      "latitude": 61.5009724,
+      "longitude": 38.9636966,
+      "region_name": "Архангельская область",
+      "region_iso_code": "RU-ARK",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Коряжма",
+      "population_thousands": 35.7,
+      "latitude": 61.2885948,
+      "longitude": 47.1003015,
+      "region_name": "Архангельская область",
+      "region_iso_code": "RU-ARK",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Котлас",
+      "population_thousands": 62,
+      "latitude": 61.2528972,
+      "longitude": 46.633242,
+      "region_name": "Архангельская область",
+      "region_iso_code": "RU-ARK",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Мезень",
+      "population_thousands": 3.2,
+      "latitude": 65.8398078,
+      "longitude": 44.2532273,
+      "region_name": "Архангельская область",
+      "region_iso_code": "RU-ARK",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Мирный",
+      "population_thousands": 32.9,
+      "latitude": 62.7645265,
+      "longitude": 40.3360076,
+      "region_name": "Архангельская область",
+      "region_iso_code": "RU-ARK",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Нарьян-Мар",
+      "population_thousands": 25.1,
+      "latitude": 67.63777777777779,
+      "longitude": 53.00666666666667,
+      "region_name": "Архангельская область",
+      "region_iso_code": "RU-ARK",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Новодвинск",
+      "population_thousands": 37.7,
+      "latitude": 64.4136851,
+      "longitude": 40.8208143,
+      "region_name": "Архангельская область",
+      "region_iso_code": "RU-ARK",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Няндома",
+      "population_thousands": 19.1,
+      "latitude": 61.6654674,
+      "longitude": 40.2062947,
+      "region_name": "Архангельская область",
+      "region_iso_code": "RU-ARK",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Онега",
+      "population_thousands": 18.5,
+      "latitude": 63.9162928,
+      "longitude": 38.0805031,
+      "region_name": "Архангельская область",
+      "region_iso_code": "RU-ARK",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Северодвинск",
+      "population_thousands": 182,
+      "latitude": 64.5625385,
+      "longitude": 39.8180934,
+      "region_name": "Архангельская область",
+      "region_iso_code": "RU-ARK",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Сольвычегодск",
+      "population_thousands": 1.9,
+      "latitude": 61.3319616,
+      "longitude": 46.920441,
+      "region_name": "Архангельская область",
+      "region_iso_code": "RU-ARK",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Шенкурск",
+      "population_thousands": 4.7,
+      "latitude": 62.1057272,
+      "longitude": 42.8996973,
+      "region_name": "Архангельская область",
+      "region_iso_code": "RU-ARK",
+      "federal_district": "Северо-Западный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Архангельская область - Бесплатная загрузка",
+    "description": "14 городов региона «Архангельская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 14 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Архангельская область | ListBase",
+    "seo_description": "Скачать Города — Архангельская область — 14 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 14 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "id": "ru-kaluzhskaya-oblast-aeroporty",
+  "name": "Аэропорты — Kaluga Oblast (RU-KLU)",
+  "title": "Аэропорты — Kaluga Oblast (RU-KLU)",
+  "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Kaluga Oblast (ISO 3166-2 RU-KLU) — 8 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"closed\": 3, \"medium_airport\": 4, \"small_airport\": 1}. Извлечено из OurAirports.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 44994,
+      "ident": "RU-0237",
+      "type": "closed",
+      "name": "Kozelsk Heliport",
+      "latitude_deg": 54.054,
+      "longitude_deg": 35.757,
+      "elevation_ft": 551,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KLU",
+      "region_local_code": "KLU",
+      "region_name": "Kaluga Oblast",
+      "municipality": "Kozelsk",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Вертодром Козельск, XUBI, ЬУБИ"
+    },
+    {
+      "id": 44995,
+      "ident": "RU-0238",
+      "type": "closed",
+      "name": "Medyn Airfield",
+      "latitude_deg": 54.946,
+      "longitude_deg": 35.861,
+      "elevation_ft": 676,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KLU",
+      "region_local_code": "KLU",
+      "region_name": "Kaluga Oblast",
+      "municipality": "Medyn",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://cyclowiki.org/wiki/%D0%9C%D0%B5%D0%B4%D1%8B%D0%BD%D1%8C_(%D0%B0%D1%8D%D1%80%D0%BE%D0%B4%D1%80%D0%BE%D0%BC)",
+      "keywords": "Аэродром Медынь, XUBE, ЬУБЕ"
+    },
+    {
+      "id": 42933,
+      "ident": "RU-10053",
+      "type": "medium_airport",
+      "name": "Yermolino Air Base",
+      "latitude_deg": 55.228627,
+      "longitude_deg": 36.608609,
+      "elevation_ft": 640,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KLU",
+      "region_local_code": "KLU",
+      "region_name": "Kaluga Oblast",
+      "municipality": "Balabanovo",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "UUWE",
+      "local_code": "XUWE",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Ermolino_Airport",
+      "keywords": "Ermolino Airport, Аэропорт Ермолино, УУВЕ, ЬУВЕ"
+    },
+    {
+      "id": 35116,
+      "ident": "RU-3686",
+      "type": "medium_airport",
+      "name": "Oreshkovo Airfield",
+      "latitude_deg": 54.467731,
+      "longitude_deg": 36.073685,
+      "elevation_ft": 545,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KLU",
+      "region_local_code": "KLU",
+      "region_name": "Kaluga Oblast",
+      "municipality": "Kaluga",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "UUFO",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Vorotynsk_(air_base)",
+      "keywords": "УУФО, Oreshkovo Air Base, Аэродром Воротынск, Аэродром Орешково"
+    },
+    {
+      "id": 35034,
+      "ident": "RU-9561",
+      "type": "closed",
+      "name": "Medyn-Aduyevo Air Base",
+      "latitude_deg": 55.003299713134766,
+      "longitude_deg": 35.994998931884766,
+      "elevation_ft": 636,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KLU",
+      "region_local_code": "KLU",
+      "region_name": "Kaluga Oblast",
+      "municipality": "Kaluga",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Medyn-Aduyevo",
+      "keywords": ""
+    },
+    {
+      "id": 35080,
+      "ident": "RU-9942",
+      "type": "medium_airport",
+      "name": "Shaykovka Air Base",
+      "latitude_deg": 54.2267,
+      "longitude_deg": 34.3717,
+      "elevation_ft": 666,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KLU",
+      "region_local_code": "KLU",
+      "region_name": "Kaluga Oblast",
+      "municipality": "Kirov",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "XUBJ",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Shaykovka",
+      "keywords": "Шайковка, ЬУБЙ"
+    },
+    {
+      "id": 42934,
+      "ident": "UUBC",
+      "type": "medium_airport",
+      "name": "Grabtsevo Airport",
+      "latitude_deg": 54.5499992371,
+      "longitude_deg": 36.3666687012,
+      "elevation_ft": 656,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KLU",
+      "region_local_code": "KLU",
+      "region_name": "Kaluga Oblast",
+      "municipality": "Kaluga",
+      "scheduled_service": "no",
+      "icao_code": "UUBC",
+      "iata_code": "KLF",
+      "gps_code": "UUBC",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Grabtsevo_Airport",
+      "keywords": "Аэропорт Грабцево"
+    },
+    {
+      "id": 352883,
+      "ident": "UUWK",
+      "type": "small_airport",
+      "name": "Kudinovo Airfield",
+      "latitude_deg": 55.023839,
+      "longitude_deg": 36.244583,
+      "elevation_ft": 600,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KLU",
+      "region_local_code": "KLU",
+      "region_name": "Kaluga Oblast",
+      "municipality": "Kudinovo",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "UUWK",
+      "local_code": "",
+      "home_link": "http://www.uuwk.ru/",
+      "wikipedia_link": "",
+      "keywords": "Кудиново"
+    }
+  ],
+  "meta": {
+    "title": "Аэропорты — Kaluga Oblast (RU-KLU) - Бесплатная загрузка",
+    "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Kaluga Oblast (ISO 3166-2 RU-KLU) — 8 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"closed\": 3, \"medium_airport\": 4, \"small_airport\": 1}. Извлечено из OurAirports. Содержит 8 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Аэропорты — Kaluga Oblast (RU-KLU) | ListBase",
+    "seo_description": "Скачать Аэропорты — Kaluga Oblast (RU-KLU) — 8 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 8 записей / 21 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

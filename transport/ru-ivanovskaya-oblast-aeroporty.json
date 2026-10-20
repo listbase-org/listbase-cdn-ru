@@ -1,0 +1,338 @@
+{
+  "id": "ru-ivanovskaya-oblast-aeroporty",
+  "name": "Аэропорты — Ivanovo Oblast (RU-IVA)",
+  "title": "Аэропорты — Ivanovo Oblast (RU-IVA)",
+  "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Ivanovo Oblast (ISO 3166-2 RU-IVA) — 9 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"small_airport\": 1, \"heliport\": 1, \"closed\": 5, \"medium_airport\": 2}. Извлечено из OurAirports.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 45001,
+      "ident": "RU-0243",
+      "type": "small_airport",
+      "name": "Ivanovo Yasyunikha Airfield",
+      "latitude_deg": 56.963853,
+      "longitude_deg": 41.072424,
+      "elevation_ft": 408,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-IVA",
+      "region_local_code": "IVA",
+      "region_name": "Ivanovo Oblast",
+      "municipality": "Ivanovo",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "XUDN",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "ЬУДН, Аэродром Иваново Ясюниха"
+    },
+    {
+      "id": 45002,
+      "ident": "RU-0244",
+      "type": "heliport",
+      "name": "Krasnyye Sosenki Heliport",
+      "latitude_deg": 56.843,
+      "longitude_deg": 40.485,
+      "elevation_ft": 417,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-IVA",
+      "region_local_code": "IVA",
+      "region_name": "Ivanovo Oblast",
+      "municipality": "Teykovo",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "XUDT",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "ЬУДТ, Вертодром Тейково"
+    },
+    {
+      "id": 45230,
+      "ident": "RU-0290",
+      "type": "closed",
+      "name": "Kineshma Airport",
+      "latitude_deg": 57.416,
+      "longitude_deg": 42.19,
+      "elevation_ft": 415,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-IVA",
+      "region_local_code": "IVA",
+      "region_name": "Ivanovo Oblast",
+      "municipality": "Kineshma",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "ZB6E, ЗБ6Е, Аэропорт Кинешма"
+    },
+    {
+      "id": 45231,
+      "ident": "RU-0291",
+      "type": "closed",
+      "name": "Nezhitino Airport",
+      "latitude_deg": 57.4813,
+      "longitude_deg": 43.2863,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-IVA",
+      "region_local_code": "IVA",
+      "region_name": "Ivanovo Oblast",
+      "municipality": "Nezhitino",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Аэропорт Нежитино"
+    },
+    {
+      "id": 45232,
+      "ident": "RU-0292",
+      "type": "closed",
+      "name": "Yuryevets Airport",
+      "latitude_deg": 57.3373,
+      "longitude_deg": 43.0966,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-IVA",
+      "region_local_code": "IVA",
+      "region_name": "Ivanovo Oblast",
+      "municipality": "Yuryevets",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Аэропорт Юрьевец, UUIC"
+    },
+    {
+      "id": 596566,
+      "ident": "RU-10103",
+      "type": "closed",
+      "name": "Peremilovo Airfield",
+      "latitude_deg": 56.891053,
+      "longitude_deg": 41.418455,
+      "elevation_ft": 327,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-IVA",
+      "region_local_code": "IVA",
+      "region_name": "Ivanovo Oblast",
+      "municipality": "Peremilovo",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "ZDG9, ЗДГ9, Перемилово"
+    },
+    {
+      "id": 35062,
+      "ident": "RU-2504",
+      "type": "closed",
+      "name": "Reshma Air Base",
+      "latitude_deg": 57.426700592041016,
+      "longitude_deg": 42.43000030517578,
+      "elevation_ft": 410,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-IVA",
+      "region_local_code": "IVA",
+      "region_name": "Ivanovo Oblast",
+      "municipality": "Kinesma",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Reshma_(air_base)",
+      "keywords": ""
+    },
+    {
+      "id": 34993,
+      "ident": "RU-5672",
+      "type": "medium_airport",
+      "name": "Ivanovo North Air Base",
+      "latitude_deg": 57.0583,
+      "longitude_deg": 40.981701,
+      "elevation_ft": 449,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-IVA",
+      "region_local_code": "IVA",
+      "region_name": "Ivanovo Oblast",
+      "municipality": "Ivanovo",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "XUDI",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Ivanovo_Severny",
+      "keywords": "Ivanovo Severny Air Base, Zhukovka, ЬУДИ"
+    },
+    {
+      "id": 31690,
+      "ident": "UUBI",
+      "type": "medium_airport",
+      "name": "Ivanovo South Airport",
+      "latitude_deg": 56.93939971923828,
+      "longitude_deg": 40.940799713134766,
+      "elevation_ft": 410,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-IVA",
+      "region_local_code": "IVA",
+      "region_name": "Ivanovo Oblast",
+      "municipality": "Ivanovo",
+      "scheduled_service": "yes",
+      "icao_code": "UUBI",
+      "iata_code": "IWA",
+      "gps_code": "UUBI",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Ivanovo_Yuzhny_Airport",
+      "keywords": "Ivanovo Yuzhniy Airport, Ivanovo Yuzhny Airport, Аэропорт Иваново Южный"
+    }
+  ],
+  "meta": {
+    "title": "Аэропорты — Ivanovo Oblast (RU-IVA) - Бесплатная загрузка",
+    "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Ivanovo Oblast (ISO 3166-2 RU-IVA) — 9 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"small_airport\": 1, \"heliport\": 1, \"closed\": 5, \"medium_airport\": 2}. Извлечено из OurAirports. Содержит 9 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Аэропорты — Ivanovo Oblast (RU-IVA) | ListBase",
+    "seo_description": "Скачать Аэропорты — Ivanovo Oblast (RU-IVA) — 9 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 9 записей / 21 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

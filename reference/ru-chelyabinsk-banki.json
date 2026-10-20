@@ -1,0 +1,226 @@
+{
+  "id": "ru-chelyabinsk-banki",
+  "name": "Банки — Chelyabinsk (коды SWIFT/BIC)",
+  "title": "Банки — Chelyabinsk (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in CHELYABINSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 95,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "CHELYABINSK",
+      "branch": "(CHELYABINSK BRANCH)",
+      "swift_code": "MOBWRUM1CHL"
+    },
+    {
+      "id": 266,
+      "bank": "BANK SNEZHINSKIY JSC",
+      "city": "CHELYABINSK",
+      "branch": "",
+      "swift_code": "SNEZRU4C"
+    },
+    {
+      "id": 343,
+      "bank": "CHELYABCOMZEM BANK",
+      "city": "CHELYABINSK",
+      "branch": "",
+      "swift_code": "CHZBRU41"
+    },
+    {
+      "id": 344,
+      "bank": "CHELYABINVESTBANK",
+      "city": "CHELYABINSK",
+      "branch": "(KHMELNITSKY FILIAL)",
+      "swift_code": "CHINRU41KHM"
+    },
+    {
+      "id": 345,
+      "bank": "CHELYABINVESTBANK",
+      "city": "CHELYABINSK",
+      "branch": "(TRACTOROZAVODSKY BRANCH)",
+      "swift_code": "CHINRU4CTRK"
+    },
+    {
+      "id": 346,
+      "bank": "CHELYABINVESTBANK",
+      "city": "CHELYABINSK",
+      "branch": "(VASILEVSKY FILIAL)",
+      "swift_code": "CHINRU41VAS"
+    },
+    {
+      "id": 347,
+      "bank": "CHELYABINVESTBANK",
+      "city": "CHELYABINSK",
+      "branch": "",
+      "swift_code": "CHINRU4C"
+    },
+    {
+      "id": 360,
+      "bank": "COALMETBANK",
+      "city": "CHELYABINSK",
+      "branch": "",
+      "swift_code": "UGZARU55"
+    },
+    {
+      "id": 396,
+      "bank": "COMMERCIAL BANK 'URALLIGA'",
+      "city": "CHELYABINSK",
+      "branch": "",
+      "swift_code": "URLGRU41"
+    },
+    {
+      "id": 611,
+      "bank": "JOINT STOCK COMPANY 'OTP BANK'",
+      "city": "CHELYABINSK",
+      "branch": "(CHELYABINSKY  BRANCH)",
+      "swift_code": "OTPVRUM1CHE"
+    },
+    {
+      "id": 634,
+      "bank": "JSB ROSEVROBANK (JSC)",
+      "city": "CHELYABINSK",
+      "branch": "(CHELYABINSK BRANCH)",
+      "swift_code": "COMKRUMM040"
+    },
+    {
+      "id": 686,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "CHELYABINSK",
+      "branch": "(CHELYABINSKY BRANCH)",
+      "swift_code": "RUAGRUM1078"
+    },
+    {
+      "id": 956,
+      "bank": "NATIONAL BANK TRUST",
+      "city": "CHELYABINSK",
+      "branch": "(CHELYABINSK BRANCH)",
+      "swift_code": "NBTRRUM1CHL"
+    },
+    {
+      "id": 1029,
+      "bank": "OAO URALPROMBANK",
+      "city": "CHELYABINSK",
+      "branch": "",
+      "swift_code": "UPBCRU41"
+    },
+    {
+      "id": 1075,
+      "bank": "PJSC 'CHELINDBANK'",
+      "city": "CHELYABINSK",
+      "branch": "(KALININSKIJ BRANCH)",
+      "swift_code": "CHLBRU41KLN"
+    },
+    {
+      "id": 1076,
+      "bank": "PJSC 'CHELINDBANK'",
+      "city": "CHELYABINSK",
+      "branch": "(LENINSKIJ BRANCH)",
+      "swift_code": "CHLBRU41LEN"
+    },
+    {
+      "id": 1077,
+      "bank": "PJSC 'CHELINDBANK'",
+      "city": "CHELYABINSK",
+      "branch": "(METALLURGICHESKIJ BRANCH)",
+      "swift_code": "CHLBRU41MET"
+    },
+    {
+      "id": 1078,
+      "bank": "PJSC 'CHELINDBANK'",
+      "city": "CHELYABINSK",
+      "branch": "(RUSSIAN ROUBLES OPERATIONS)",
+      "swift_code": "CHLBRU4CRUR"
+    },
+    {
+      "id": 1079,
+      "bank": "PJSC 'CHELINDBANK'",
+      "city": "CHELYABINSK",
+      "branch": "(SOVETSKIJ BRANCH)",
+      "swift_code": "CHLBRU41SOV"
+    },
+    {
+      "id": 1080,
+      "bank": "PJSC 'CHELINDBANK'",
+      "city": "CHELYABINSK",
+      "branch": "(TRAKTOROZAVODSKIJ BRANCH)",
+      "swift_code": "CHLBRU41TRK"
+    },
+    {
+      "id": 1081,
+      "bank": "PJSC 'CHELINDBANK'",
+      "city": "CHELYABINSK",
+      "branch": "(TRANSPORTNYJ BRANCH)",
+      "swift_code": "CHLBRU41TSP"
+    },
+    {
+      "id": 1082,
+      "bank": "PJSC 'CHELINDBANK'",
+      "city": "CHELYABINSK",
+      "branch": "",
+      "swift_code": "CHLBRU4C"
+    },
+    {
+      "id": 1219,
+      "bank": "ROST BANK",
+      "city": "CHELYABINSK",
+      "branch": "(CHELYABINSK BRANCH)",
+      "swift_code": "JORORU21CLB"
+    },
+    {
+      "id": 1374,
+      "bank": "SOBINBANK",
+      "city": "CHELYABINSK",
+      "branch": "(CHELYABINSK BRANCH)",
+      "swift_code": "SBBARUM1026"
+    },
+    {
+      "id": 1468,
+      "bank": "THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)",
+      "city": "CHELYABINSK",
+      "branch": "(YUZHNO-URALSKIJ BRANCH)",
+      "swift_code": "UBRDRU41CHE"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Chelyabinsk (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in CHELYABINSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 25 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Chelyabinsk (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Chelyabinsk (коды SWIFT/BIC) — 25 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 25 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "id": "ru-stavropol-banki",
+  "name": "Банки — Stavropol (коды SWIFT/BIC)",
+  "title": "Банки — Stavropol (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in STAVROPOL (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 49,
+      "bank": "ALFA-BANK",
+      "city": "STAVROPOL",
+      "branch": "",
+      "swift_code": "ALFARUM1037"
+    },
+    {
+      "id": 132,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "STAVROPOL",
+      "branch": "(STAVROPOL BRANCH  2 B AND N BANK)",
+      "swift_code": "BINORU21STV"
+    },
+    {
+      "id": 133,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "STAVROPOL",
+      "branch": "(STAVROPOL BRANCH)",
+      "swift_code": "MOBWRUM1STV"
+    },
+    {
+      "id": 451,
+      "bank": "EVROFINANCE MOSNARBANK",
+      "city": "STAVROPOL",
+      "branch": "(STAVROPOL BRANCH)",
+      "swift_code": "EVRFRUM1STV"
+    },
+    {
+      "id": 505,
+      "bank": "GAZPROMBANK (JOINT - STOCK COMPANY)",
+      "city": "STAVROPOL",
+      "branch": "(SEVERO-KAVKAZSKY BRANCH)",
+      "swift_code": "GAZPRUMM024"
+    },
+    {
+      "id": 582,
+      "bank": "INVESTMENT TRADE BANK PJSC",
+      "city": "STAVROPOL",
+      "branch": "(STAVROPOLSKY BRANCH)",
+      "swift_code": "INVJRUM1STV"
+    },
+    {
+      "id": 734,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "STAVROPOL",
+      "branch": "(STAVROPOLSKY BRANCH)",
+      "swift_code": "RUAGRUM1006"
+    },
+    {
+      "id": 812,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "STAVROPOL",
+      "branch": "(SEVERO-KAVKAZSKOE REGIONAL DEPARTMENT)",
+      "swift_code": "MINNRUM1045"
+    },
+    {
+      "id": 944,
+      "bank": "MTS BANK",
+      "city": "STAVROPOL",
+      "branch": "(MBRD STAVROPOL BRANCH)",
+      "swift_code": "MBRDRUM1STV"
+    },
+    {
+      "id": 1127,
+      "bank": "PJSC ROSBANK",
+      "city": "STAVROPOL",
+      "branch": "(STAVROPOL BRANCH)",
+      "swift_code": "RSBNRUM1STR"
+    },
+    {
+      "id": 1164,
+      "bank": "PROMSVYAZBANK PJSC",
+      "city": "STAVROPOL",
+      "branch": "(STAVROPOL BRANCH)",
+      "swift_code": "PRMSRUM1STV"
+    },
+    {
+      "id": 1211,
+      "bank": "ROSGOSSTRAKH BANK",
+      "city": "STAVROPOL",
+      "branch": "(STAVROPOL BRANCH)",
+      "swift_code": "RUIDRUM1STA"
+    },
+    {
+      "id": 1249,
+      "bank": "ROST BANK",
+      "city": "STAVROPOL",
+      "branch": "(STAVROPOL BRANCH)",
+      "swift_code": "JORORU21STB"
+    },
+    {
+      "id": 1320,
+      "bank": "SBERBANK",
+      "city": "STAVROPOL",
+      "branch": "(YUGO-ZAPADNY HEAD OFFICE)",
+      "swift_code": "SABRRUMMSP1"
+    },
+    {
+      "id": 1389,
+      "bank": "SOBINBANK",
+      "city": "STAVROPOL",
+      "branch": "(STAVROPOL BRANCH)",
+      "swift_code": "SBBARUM1025"
+    },
+    {
+      "id": 1420,
+      "bank": "STAVROPOLPROMSTROYBANK",
+      "city": "STAVROPOL",
+      "branch": "",
+      "swift_code": "STAJRU22"
+    },
+    {
+      "id": 1535,
+      "bank": "URALSIB BANK",
+      "city": "STAVROPOL",
+      "branch": "(STAVROPOL BRANCH)",
+      "swift_code": "AVTBRUM1021"
+    },
+    {
+      "id": 1571,
+      "bank": "VOZROZHDENIE BANK",
+      "city": "STAVROPOL",
+      "branch": "(STAVROPOL BRANCH)",
+      "swift_code": "VBNKRUM1STA"
+    },
+    {
+      "id": 1602,
+      "bank": "VTB BANK (PJSC)",
+      "city": "STAVROPOL",
+      "branch": "(SEVERO-KAVKAZSKIY BRANCH, STAVROPOL)",
+      "swift_code": "VTBRRUM2ST2"
+    },
+    {
+      "id": 1603,
+      "bank": "VTB BANK (PJSC)",
+      "city": "STAVROPOL",
+      "branch": "(STAVROPOL BRANCH)",
+      "swift_code": "VTBRRUM2STA"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Stavropol (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in STAVROPOL (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 20 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Stavropol (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Stavropol (коды SWIFT/BIC) — 20 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 20 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

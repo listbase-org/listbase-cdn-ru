@@ -1,0 +1,178 @@
+{
+  "id": "ru-sakha-yakutiya-respublika-goroda",
+  "name": "Города — Республика Саха (Якутия)",
+  "title": "Города — Республика Саха (Якутия)",
+  "description": "13 городов региона «Республика Саха (Якутия)» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Алдан",
+      "population_thousands": 20.6,
+      "latitude": 58.6094283,
+      "longitude": 125.3817188,
+      "region_name": "Республика Саха (Якутия)",
+      "region_iso_code": "RU-SA",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Верхоянск",
+      "population_thousands": 1.1,
+      "latitude": 67.5502451,
+      "longitude": 133.390735,
+      "region_name": "Республика Саха (Якутия)",
+      "region_iso_code": "RU-SA",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Вилюйск",
+      "population_thousands": 11.3,
+      "latitude": 63.7517616,
+      "longitude": 121.627284,
+      "region_name": "Республика Саха (Якутия)",
+      "region_iso_code": "RU-SA",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Ленск",
+      "population_thousands": 23.2,
+      "latitude": 60.7276196,
+      "longitude": 114.9548255,
+      "region_name": "Республика Саха (Якутия)",
+      "region_iso_code": "RU-SA",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Мирный",
+      "population_thousands": 35.4,
+      "latitude": 62.536232,
+      "longitude": 113.9667728,
+      "region_name": "Республика Саха (Якутия)",
+      "region_iso_code": "RU-SA",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Нерюнгри",
+      "population_thousands": 57.9,
+      "latitude": 56.6599953,
+      "longitude": 124.7202403,
+      "region_name": "Республика Саха (Якутия)",
+      "region_iso_code": "RU-SA",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Нюрба",
+      "population_thousands": 9.7,
+      "latitude": 63.2828955,
+      "longitude": 118.3242437,
+      "region_name": "Республика Саха (Якутия)",
+      "region_iso_code": "RU-SA",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Олекминск",
+      "population_thousands": 9.2,
+      "latitude": 60.3758006,
+      "longitude": 120.4060878,
+      "region_name": "Республика Саха (Якутия)",
+      "region_iso_code": "RU-SA",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Покровск",
+      "population_thousands": 9.4,
+      "latitude": 61.4843503,
+      "longitude": 129.1482392,
+      "region_name": "Республика Саха (Якутия)",
+      "region_iso_code": "RU-SA",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Среднеколымск",
+      "population_thousands": 3.5,
+      "latitude": 67.4582218,
+      "longitude": 153.7069425,
+      "region_name": "Республика Саха (Якутия)",
+      "region_iso_code": "RU-SA",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Томмот",
+      "population_thousands": 6.8,
+      "latitude": 58.9586859,
+      "longitude": 126.2875462,
+      "region_name": "Республика Саха (Якутия)",
+      "region_iso_code": "RU-SA",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Удачный",
+      "population_thousands": 12,
+      "latitude": 66.4071765,
+      "longitude": 112.3061555,
+      "region_name": "Республика Саха (Якутия)",
+      "region_iso_code": "RU-SA",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Якутск",
+      "population_thousands": 323,
+      "latitude": 62.0281405,
+      "longitude": 129.7325887,
+      "region_name": "Республика Саха (Якутия)",
+      "region_iso_code": "RU-SA",
+      "federal_district": "Дальневосточный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Республика Саха (Якутия) - Бесплатная загрузка",
+    "description": "13 городов региона «Республика Саха (Якутия)» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 13 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Республика Саха (Якутия) | ListBase",
+    "seo_description": "Скачать Города — Республика Саха (Якутия) — 13 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 13 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

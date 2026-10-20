@@ -1,0 +1,268 @@
+{
+  "id": "ru-vladimirskaya-oblast-goroda",
+  "name": "Города — Владимирская область",
+  "title": "Города — Владимирская область",
+  "description": "23 городов региона «Владимирская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Александров",
+      "population_thousands": 57.9,
+      "latitude": 56.391819,
+      "longitude": 38.7111123,
+      "region_name": "Владимирская область",
+      "region_iso_code": "RU-VLA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Владимир",
+      "population_thousands": 356.9,
+      "latitude": 56.1280804,
+      "longitude": 40.4084376,
+      "region_name": "Владимирская область",
+      "region_iso_code": "RU-VLA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Вязники",
+      "population_thousands": 34.5,
+      "latitude": 56.29773,
+      "longitude": 42.2687398,
+      "region_name": "Владимирская область",
+      "region_iso_code": "RU-VLA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Гороховец",
+      "population_thousands": 12.6,
+      "latitude": 56.2021036,
+      "longitude": 42.6926111,
+      "region_name": "Владимирская область",
+      "region_iso_code": "RU-VLA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Гусь-Хрустальный",
+      "population_thousands": 52.8,
+      "latitude": 55.6198751,
+      "longitude": 40.6579929,
+      "region_name": "Владимирская область",
+      "region_iso_code": "RU-VLA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Камешково",
+      "population_thousands": 12,
+      "latitude": 56.3490152,
+      "longitude": 40.9955183,
+      "region_name": "Владимирская область",
+      "region_iso_code": "RU-VLA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Карабаново",
+      "population_thousands": 14.9,
+      "latitude": 56.3131822,
+      "longitude": 38.7034257,
+      "region_name": "Владимирская область",
+      "region_iso_code": "RU-VLA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Киржач",
+      "population_thousands": 26.7,
+      "latitude": 56.1486863,
+      "longitude": 38.8635701,
+      "region_name": "Владимирская область",
+      "region_iso_code": "RU-VLA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Ковров",
+      "population_thousands": 135.7,
+      "latitude": 56.3554349,
+      "longitude": 41.3170576,
+      "region_name": "Владимирская область",
+      "region_iso_code": "RU-VLA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Кольчугино",
+      "population_thousands": 42,
+      "latitude": 56.3327254,
+      "longitude": 39.391336,
+      "region_name": "Владимирская область",
+      "region_iso_code": "RU-VLA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Костерево",
+      "population_thousands": 8.1,
+      "latitude": 55.9337222,
+      "longitude": 39.6247398,
+      "region_name": "Владимирская область",
+      "region_iso_code": "RU-VLA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Курлово",
+      "population_thousands": 5.8,
+      "latitude": 55.452698,
+      "longitude": 40.6124108,
+      "region_name": "Владимирская область",
+      "region_iso_code": "RU-VLA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Лакинск",
+      "population_thousands": 14.1,
+      "latitude": 56.0180587,
+      "longitude": 39.956551,
+      "region_name": "Владимирская область",
+      "region_iso_code": "RU-VLA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Меленки",
+      "population_thousands": 13.5,
+      "latitude": 55.3387515,
+      "longitude": 41.6340046,
+      "region_name": "Владимирская область",
+      "region_iso_code": "RU-VLA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Муром",
+      "population_thousands": 107,
+      "latitude": 55.5630311,
+      "longitude": 42.0231362,
+      "region_name": "Владимирская область",
+      "region_iso_code": "RU-VLA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Петушки",
+      "population_thousands": 12.5,
+      "latitude": 55.9298134,
+      "longitude": 39.4508075,
+      "region_name": "Владимирская область",
+      "region_iso_code": "RU-VLA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Покров",
+      "population_thousands": 16.7,
+      "latitude": 55.9166398,
+      "longitude": 39.1734526,
+      "region_name": "Владимирская область",
+      "region_iso_code": "RU-VLA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Радужный",
+      "population_thousands": 18.3,
+      "latitude": 55.9960277,
+      "longitude": 40.3321855,
+      "region_name": "Владимирская область",
+      "region_iso_code": "RU-VLA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Собинка",
+      "population_thousands": 17.3,
+      "latitude": 55.9939169,
+      "longitude": 40.0179653,
+      "region_name": "Владимирская область",
+      "region_iso_code": "RU-VLA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Струнино",
+      "population_thousands": 12.9,
+      "latitude": 56.3749967,
+      "longitude": 38.5839667,
+      "region_name": "Владимирская область",
+      "region_iso_code": "RU-VLA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Судогда",
+      "population_thousands": 10.1,
+      "latitude": 55.9498056,
+      "longitude": 40.8562939,
+      "region_name": "Владимирская область",
+      "region_iso_code": "RU-VLA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Суздаль",
+      "population_thousands": 9.6,
+      "latitude": 56.4274441,
+      "longitude": 40.4525692,
+      "region_name": "Владимирская область",
+      "region_iso_code": "RU-VLA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Юрьев-Польский",
+      "population_thousands": 18.1,
+      "latitude": 56.4937757,
+      "longitude": 39.6680539,
+      "region_name": "Владимирская область",
+      "region_iso_code": "RU-VLA",
+      "federal_district": "Центральный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Владимирская область - Бесплатная загрузка",
+    "description": "23 городов региона «Владимирская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 23 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Владимирская область | ListBase",
+    "seo_description": "Скачать Города — Владимирская область — 23 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 23 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

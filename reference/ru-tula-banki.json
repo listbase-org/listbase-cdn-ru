@@ -1,0 +1,121 @@
+{
+  "id": "ru-tula-banki",
+  "name": "Банки — Tula (коды SWIFT/BIC)",
+  "title": "Банки — Tula (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in TULA (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 232,
+      "bank": "BANK ''ROSSIYA''",
+      "city": "TULA",
+      "branch": "(TULA BRANCH)",
+      "swift_code": "ROSYRU21TUL"
+    },
+    {
+      "id": 395,
+      "bank": "COMMERCIAL BANK TULSKY PROMYSHLENNIK OAO",
+      "city": "TULA",
+      "branch": "",
+      "swift_code": "TUPRRU21"
+    },
+    {
+      "id": 508,
+      "bank": "GAZPROMBANK (JOINT - STOCK COMPANY)",
+      "city": "TULA",
+      "branch": "(SREDNERUSSKY BRANCH)",
+      "swift_code": "GAZPRUMM004"
+    },
+    {
+      "id": 738,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "TULA",
+      "branch": "(TULSKY BRANCH)",
+      "swift_code": "RUAGRUM1001"
+    },
+    {
+      "id": 759,
+      "bank": "JSC TELECOMMERCE BANK",
+      "city": "TULA",
+      "branch": "",
+      "swift_code": "TELBRU22"
+    },
+    {
+      "id": 813,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "TULA",
+      "branch": "(TULSKOE REGIONAL DEPARTMENT OFFICE)",
+      "swift_code": "MINNRUM1049"
+    },
+    {
+      "id": 1013,
+      "bank": "NOVIKOMBANK",
+      "city": "TULA",
+      "branch": "(TULA OPERATIONAL OFFICE)",
+      "swift_code": "CNOVRUM1TUL"
+    },
+    {
+      "id": 1027,
+      "bank": "OAO SPIRITBANK",
+      "city": "TULA",
+      "branch": "",
+      "swift_code": "SPOJRU21"
+    },
+    {
+      "id": 1467,
+      "bank": "THE FIRST EXPRESS BANK",
+      "city": "TULA",
+      "branch": "",
+      "swift_code": "EXTURU21"
+    },
+    {
+      "id": 1572,
+      "bank": "VOZROZHDENIE BANK",
+      "city": "TULA",
+      "branch": "(TULA BRANCH)",
+      "swift_code": "VBNKRUM1TUL"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Tula (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in TULA (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 10 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Tula (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Tula (коды SWIFT/BIC) — 10 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 10 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

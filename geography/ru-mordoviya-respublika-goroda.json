@@ -1,0 +1,124 @@
+{
+  "id": "ru-mordoviya-respublika-goroda",
+  "name": "Города — Республика Мордовия",
+  "title": "Города — Республика Мордовия",
+  "description": "7 городов региона «Республика Мордовия» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ардатов",
+      "population_thousands": 8.3,
+      "latitude": 54.8465544,
+      "longitude": 46.2411232,
+      "region_name": "Республика Мордовия",
+      "region_iso_code": "RU-MO",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Инсар",
+      "population_thousands": 7.7,
+      "latitude": 53.8770022,
+      "longitude": 44.3696566,
+      "region_name": "Республика Мордовия",
+      "region_iso_code": "RU-MO",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Ковылкино",
+      "population_thousands": 18.9,
+      "latitude": 54.0391072,
+      "longitude": 43.9191539,
+      "region_name": "Республика Мордовия",
+      "region_iso_code": "RU-MO",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Краснослободск",
+      "population_thousands": 9.2,
+      "latitude": 54.4248207,
+      "longitude": 43.7845011,
+      "region_name": "Республика Мордовия",
+      "region_iso_code": "RU-MO",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Рузаевка",
+      "population_thousands": 44.3,
+      "latitude": 54.0581967,
+      "longitude": 44.9490466,
+      "region_name": "Республика Мордовия",
+      "region_iso_code": "RU-MO",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Саранск",
+      "population_thousands": 320.6,
+      "latitude": 54.1809332,
+      "longitude": 45.1862632,
+      "region_name": "Республика Мордовия",
+      "region_iso_code": "RU-MO",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Темников",
+      "population_thousands": 5.8,
+      "latitude": 54.6310583,
+      "longitude": 43.2161099,
+      "region_name": "Республика Мордовия",
+      "region_iso_code": "RU-MO",
+      "federal_district": "Приволжский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Республика Мордовия - Бесплатная загрузка",
+    "description": "7 городов региона «Республика Мордовия» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 7 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Республика Мордовия | ListBase",
+    "seo_description": "Скачать Города — Республика Мордовия — 7 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 7 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

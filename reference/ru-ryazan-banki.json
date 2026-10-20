@@ -1,0 +1,100 @@
+{
+  "id": "ru-ryazan-banki",
+  "name": "Банки — Ryazan (коды SWIFT/BIC)",
+  "title": "Банки — Ryazan (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in RYAZAN (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 228,
+      "bank": "BANK ''ROSSIYA''",
+      "city": "RYAZAN",
+      "branch": "(RYAZAN BRANCH)",
+      "swift_code": "ROSYRU21RZN"
+    },
+    {
+      "id": 599,
+      "bank": "JIVAGO-BANK",
+      "city": "RYAZAN",
+      "branch": "",
+      "swift_code": "JIVARU21"
+    },
+    {
+      "id": 729,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "RYAZAN",
+      "branch": "(RYAZANSKY BRANCH)",
+      "swift_code": "RUAGRUM1058"
+    },
+    {
+      "id": 926,
+      "bank": "MOSOBLBANK",
+      "city": "RYAZAN",
+      "branch": "(BRANCH NO.24)",
+      "swift_code": "MOBKRUM1024"
+    },
+    {
+      "id": 1147,
+      "bank": "PRIO-VNESHTORGBANK",
+      "city": "RYAZAN",
+      "branch": "",
+      "swift_code": "PRIORU2J"
+    },
+    {
+      "id": 1244,
+      "bank": "ROST BANK",
+      "city": "RYAZAN",
+      "branch": "(RYAZAN BRANCH)",
+      "swift_code": "JORORU21RZB"
+    },
+    {
+      "id": 1502,
+      "bank": "TRANSKAPITALBANK",
+      "city": "RYAZAN",
+      "branch": "(RYAZAN BRANCH)",
+      "swift_code": "TJSCRUM1RZN"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Ryazan (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in RYAZAN (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 7 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Ryazan (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Ryazan (коды SWIFT/BIC) — 7 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 7 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

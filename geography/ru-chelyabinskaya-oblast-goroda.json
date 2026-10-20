@@ -1,0 +1,331 @@
+{
+  "id": "ru-chelyabinskaya-oblast-goroda",
+  "name": "Города — Челябинская область",
+  "title": "Города — Челябинская область",
+  "description": "30 городов региона «Челябинская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Аша",
+      "population_thousands": 29.1,
+      "latitude": 54.9906527,
+      "longitude": 57.2783953,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Бакал",
+      "population_thousands": 18.7,
+      "latitude": 54.9406399,
+      "longitude": 58.8051698,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Верхнеуральск",
+      "population_thousands": 9.3,
+      "latitude": 53.8760961,
+      "longitude": 59.2169852,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Верхний Уфалей",
+      "population_thousands": 26.7,
+      "latitude": 56.0487158,
+      "longitude": 60.2318886,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Еманжелинск",
+      "population_thousands": 28.2,
+      "latitude": 54.7554548,
+      "longitude": 61.3243477,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Златоуст",
+      "population_thousands": 163.9,
+      "latitude": 55.1714905,
+      "longitude": 59.6725549,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Карабаш",
+      "population_thousands": 10.8,
+      "latitude": 55.4852323,
+      "longitude": 60.2358881,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Карталы",
+      "population_thousands": 28.2,
+      "latitude": 53.0536197,
+      "longitude": 60.6478408,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Касли",
+      "population_thousands": 15.7,
+      "latitude": 55.8868784,
+      "longitude": 60.7421663,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Катав-Ивановск",
+      "population_thousands": 15.5,
+      "latitude": 54.7521438,
+      "longitude": 58.1983648,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Копейск",
+      "population_thousands": 147.6,
+      "latitude": 55.116665,
+      "longitude": 61.6179185,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Коркино",
+      "population_thousands": 34,
+      "latitude": 54.8903147,
+      "longitude": 61.4034576,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Куса",
+      "population_thousands": 16.7,
+      "latitude": 55.3386053,
+      "longitude": 59.4385778,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Кыштым",
+      "population_thousands": 36.2,
+      "latitude": 55.7061276,
+      "longitude": 60.5563781,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Магнитогорск",
+      "population_thousands": 413.3,
+      "latitude": 53.4072153,
+      "longitude": 58.9791437,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Миасс",
+      "population_thousands": 151.5,
+      "latitude": 55.0456457,
+      "longitude": 60.1077572,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Миньяр",
+      "population_thousands": 8.9,
+      "latitude": 55.0709557,
+      "longitude": 57.548478,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Нязепетровск",
+      "population_thousands": 11.4,
+      "latitude": 56.0536895,
+      "longitude": 59.6097202,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Озерск",
+      "population_thousands": 78.4,
+      "latitude": 55.763154,
+      "longitude": 60.7076198,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Пласт",
+      "population_thousands": 17.3,
+      "latitude": 54.3692764,
+      "longitude": 60.8151894,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Сатка",
+      "population_thousands": 41.3,
+      "latitude": 55.0405288,
+      "longitude": 59.0288975,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Сим",
+      "population_thousands": 12.5,
+      "latitude": 54.9907827,
+      "longitude": 57.6900155,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Снежинск",
+      "population_thousands": 51.8,
+      "latitude": 56.0851495,
+      "longitude": 60.7324914,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Трехгорный",
+      "population_thousands": 32.7,
+      "latitude": 54.8178249,
+      "longitude": 58.4464194,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Троицк",
+      "population_thousands": 73.4,
+      "latitude": 54.0843745,
+      "longitude": 61.5586831,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Усть-Катав",
+      "population_thousands": 21.8,
+      "latitude": 54.9260812,
+      "longitude": 58.152805,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Чебаркуль",
+      "population_thousands": 41.3,
+      "latitude": 54.9818567,
+      "longitude": 60.3773121,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Челябинск",
+      "population_thousands": 1196.7,
+      "latitude": 55.1602624,
+      "longitude": 61.4008078,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Южноуральск",
+      "population_thousands": 37.6,
+      "latitude": 54.448927,
+      "longitude": 61.2581158,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Юрюзань",
+      "population_thousands": 10.9,
+      "latitude": 54.854662,
+      "longitude": 58.4226698,
+      "region_name": "Челябинская область",
+      "region_iso_code": "RU-CHE",
+      "federal_district": "Уральский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Челябинская область - Бесплатная загрузка",
+    "description": "30 городов региона «Челябинская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 30 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Челябинская область | ListBase",
+    "seo_description": "Скачать Города — Челябинская область — 30 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 30 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

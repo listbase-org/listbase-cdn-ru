@@ -1,0 +1,72 @@
+{
+  "id": "ru-velikiy-novgorod-banki",
+  "name": "Банки — Velikiy Novgorod (коды SWIFT/BIC)",
+  "title": "Банки — Velikiy Novgorod (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in VELIKIY NOVGOROD (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 259,
+      "bank": "'BANK SGB' PJSC",
+      "city": "VELIKIY NOVGOROD",
+      "branch": "(VELIKIY NOVGOROD BRANCH)",
+      "swift_code": "SGAZRU21NOV"
+    },
+    {
+      "id": 1256,
+      "bank": "ROST BANK",
+      "city": "VELIKIY NOVGOROD",
+      "branch": "(VELIKIY NOVGOROD BRANCH)",
+      "swift_code": "JORORU21VNV"
+    },
+    {
+      "id": 1369,
+      "bank": "SLAVYANBANK",
+      "city": "VELIKIY NOVGOROD",
+      "branch": "",
+      "swift_code": "SLAYRU2N"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Velikiy Novgorod (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in VELIKIY NOVGOROD (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 3 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Velikiy Novgorod (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Velikiy Novgorod (коды SWIFT/BIC) — 3 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 3 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

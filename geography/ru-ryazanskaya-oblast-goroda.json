@@ -1,0 +1,169 @@
+{
+  "id": "ru-ryazanskaya-oblast-goroda",
+  "name": "Города — Рязанская область",
+  "title": "Города — Рязанская область",
+  "description": "12 городов региона «Рязанская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Касимов",
+      "population_thousands": 29.2,
+      "latitude": 54.9373475,
+      "longitude": 41.3913211,
+      "region_name": "Рязанская область",
+      "region_iso_code": "RU-RYA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Кораблино",
+      "population_thousands": 11.1,
+      "latitude": 53.9246659,
+      "longitude": 40.0227745,
+      "region_name": "Рязанская область",
+      "region_iso_code": "RU-RYA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Михайлов",
+      "population_thousands": 9.9,
+      "latitude": 54.2297402,
+      "longitude": 39.0091481,
+      "region_name": "Рязанская область",
+      "region_iso_code": "RU-RYA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Новомичуринск",
+      "population_thousands": 16.5,
+      "latitude": 54.0376572,
+      "longitude": 39.74654,
+      "region_name": "Рязанская область",
+      "region_iso_code": "RU-RYA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Рыбное",
+      "population_thousands": 20.7,
+      "latitude": 54.7256164,
+      "longitude": 39.5134398,
+      "region_name": "Рязанская область",
+      "region_iso_code": "RU-RYA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Ряжск",
+      "population_thousands": 20.9,
+      "latitude": 53.7067584,
+      "longitude": 40.0522274,
+      "region_name": "Рязанская область",
+      "region_iso_code": "RU-RYA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Рязань",
+      "population_thousands": 539.3,
+      "latitude": 54.6254445,
+      "longitude": 39.7358609,
+      "region_name": "Рязанская область",
+      "region_iso_code": "RU-RYA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Сасово",
+      "population_thousands": 23.8,
+      "latitude": 54.3508885,
+      "longitude": 41.9117422,
+      "region_name": "Рязанская область",
+      "region_iso_code": "RU-RYA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Скопин",
+      "population_thousands": 25.7,
+      "latitude": 53.823543,
+      "longitude": 39.5492421,
+      "region_name": "Рязанская область",
+      "region_iso_code": "RU-RYA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Спас-Клепики",
+      "population_thousands": 5.2,
+      "latitude": 55.1291721,
+      "longitude": 40.1745338,
+      "region_name": "Рязанская область",
+      "region_iso_code": "RU-RYA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Спасск-Рязанский",
+      "population_thousands": 6.6,
+      "latitude": 54.4070719,
+      "longitude": 40.3763426,
+      "region_name": "Рязанская область",
+      "region_iso_code": "RU-RYA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Шацк",
+      "population_thousands": 5.8,
+      "latitude": 54.0287312,
+      "longitude": 41.7181803,
+      "region_name": "Рязанская область",
+      "region_iso_code": "RU-RYA",
+      "federal_district": "Центральный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Рязанская область - Бесплатная загрузка",
+    "description": "12 городов региона «Рязанская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 12 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Рязанская область | ListBase",
+    "seo_description": "Скачать Города — Рязанская область — 12 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 12 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "ru-udmurtskaya-respublika-goroda",
+  "name": "Города — Удмуртская Республика",
+  "title": "Города — Удмуртская Республика",
+  "description": "6 городов региона «Удмуртская Республика» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Воткинск",
+      "population_thousands": 97.2,
+      "latitude": 57.0518149,
+      "longitude": 53.9873096,
+      "region_name": "Удмуртская Республика",
+      "region_iso_code": "RU-UD",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Глазов",
+      "population_thousands": 92.3,
+      "latitude": 58.1359233,
+      "longitude": 52.6635038,
+      "region_name": "Удмуртская Республика",
+      "region_iso_code": "RU-UD",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Ижевск",
+      "population_thousands": 648.1,
+      "latitude": 56.852738,
+      "longitude": 53.2114896,
+      "region_name": "Удмуртская Республика",
+      "region_iso_code": "RU-UD",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Камбарка",
+      "population_thousands": 10.1,
+      "latitude": 56.2659916,
+      "longitude": 54.193374,
+      "region_name": "Удмуртская Республика",
+      "region_iso_code": "RU-UD",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Можга",
+      "population_thousands": 49,
+      "latitude": 56.4427774,
+      "longitude": 52.2137886,
+      "region_name": "Удмуртская Республика",
+      "region_iso_code": "RU-UD",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Сарапул",
+      "population_thousands": 95.4,
+      "latitude": 56.4615767,
+      "longitude": 53.8037657,
+      "region_name": "Удмуртская Республика",
+      "region_iso_code": "RU-UD",
+      "federal_district": "Приволжский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Удмуртская Республика - Бесплатная загрузка",
+    "description": "6 городов региона «Удмуртская Республика» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 6 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Удмуртская Республика | ListBase",
+    "seo_description": "Скачать Города — Удмуртская Республика — 6 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 6 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

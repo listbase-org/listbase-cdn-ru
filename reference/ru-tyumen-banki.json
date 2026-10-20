@@ -1,0 +1,163 @@
+{
+  "id": "ru-tyumen-banki",
+  "name": "Банки — Tyumen (коды SWIFT/BIC)",
+  "title": "Банки — Tyumen (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in TYUMEN (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 138,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "TYUMEN",
+      "branch": "(TYUMEN BRANCH)",
+      "swift_code": "MOBWRUM1TMN"
+    },
+    {
+      "id": 394,
+      "bank": "COMMERCIAL BANK 'STROYLESBANK' LIMITED",
+      "city": "TYUMEN",
+      "branch": "",
+      "swift_code": "SCSARU41"
+    },
+    {
+      "id": 583,
+      "bank": "INVESTMENT TRADE BANK PJSC",
+      "city": "TYUMEN",
+      "branch": "(TYUMENSKY BRANCH)",
+      "swift_code": "INVJRUM1TMN"
+    },
+    {
+      "id": 622,
+      "bank": "JOINT STOCK COMPANY SURGUTNEFTEGASBANK",
+      "city": "TYUMEN",
+      "branch": "(TYUMEN BRANCH)",
+      "swift_code": "SGUBRU5S053"
+    },
+    {
+      "id": 740,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "TYUMEN",
+      "branch": "(TYOMENSKY BRANCH)",
+      "swift_code": "RUAGRUM1071"
+    },
+    {
+      "id": 930,
+      "bank": "MOSOBLBANK",
+      "city": "TYUMEN",
+      "branch": "(BRANCH NO.8)",
+      "swift_code": "MOBKRUM1008"
+    },
+    {
+      "id": 991,
+      "bank": "NEFTEPROMBANK",
+      "city": "TYUMEN",
+      "branch": "(TYUMEN BRANCH)",
+      "swift_code": "INDMRUM1TMN"
+    },
+    {
+      "id": 1023,
+      "bank": "OAO JOIN-STOCK SIBERIAN OIL BANK",
+      "city": "TYUMEN",
+      "branch": "",
+      "swift_code": "SBNBRU41"
+    },
+    {
+      "id": 1253,
+      "bank": "ROST BANK",
+      "city": "TYUMEN",
+      "branch": "(TYUMEN BRANCH)",
+      "swift_code": "JORORU21TUB"
+    },
+    {
+      "id": 1321,
+      "bank": "SBERBANK",
+      "city": "TYUMEN",
+      "branch": "(ZAPADNO-SIBIRSKY HEAD OFFICE)",
+      "swift_code": "SABRRUMMTN1"
+    },
+    {
+      "id": 1355,
+      "bank": "SIBERIAN ECONOMIC BANK",
+      "city": "TYUMEN",
+      "branch": "",
+      "swift_code": "JCSERU41"
+    },
+    {
+      "id": 1390,
+      "bank": "SOBINBANK",
+      "city": "TYUMEN",
+      "branch": "(TIUMEN BRANCH)",
+      "swift_code": "SBBARUM1018"
+    },
+    {
+      "id": 1415,
+      "bank": "SOYUZNYJ OOO",
+      "city": "TYUMEN",
+      "branch": "(TYUMEN BRANCH)",
+      "swift_code": "SOYZRUM1TYM"
+    },
+    {
+      "id": 1506,
+      "bank": "TRANSKAPITALBANK",
+      "city": "TYUMEN",
+      "branch": "(TYUMEN BRANCH)",
+      "swift_code": "TJSCRUM1TYU"
+    },
+    {
+      "id": 1511,
+      "bank": "TYUMENPROFBANK",
+      "city": "TYUMEN",
+      "branch": "",
+      "swift_code": "TYUMRU41"
+    },
+    {
+      "id": 1612,
+      "bank": "WEST SIBERIAN COMMERCIAL BANK OAO",
+      "city": "TYUMEN",
+      "branch": "",
+      "swift_code": "ZWCBRU4Y"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Tyumen (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in TYUMEN (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 16 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Tyumen (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Tyumen (коды SWIFT/BIC) — 16 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 16 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

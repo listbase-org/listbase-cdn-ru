@@ -1,0 +1,178 @@
+{
+  "id": "ru-kareliya-respublika-goroda",
+  "name": "Города — Республика Карелия",
+  "title": "Города — Республика Карелия",
+  "description": "13 городов региона «Республика Карелия» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Беломорск",
+      "population_thousands": 9.2,
+      "latitude": 64.5378417,
+      "longitude": 34.7799462,
+      "region_name": "Республика Карелия",
+      "region_iso_code": "RU-KR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Кемь",
+      "population_thousands": 10.6,
+      "latitude": 64.9543539,
+      "longitude": 34.5949263,
+      "region_name": "Республика Карелия",
+      "region_iso_code": "RU-KR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Кондопога",
+      "population_thousands": 29.2,
+      "latitude": 62.2059817,
+      "longitude": 34.2682122,
+      "region_name": "Республика Карелия",
+      "region_iso_code": "RU-KR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Костомукша",
+      "population_thousands": 29.6,
+      "latitude": 64.5889398,
+      "longitude": 30.6016832,
+      "region_name": "Республика Карелия",
+      "region_iso_code": "RU-KR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Лахденпохья",
+      "population_thousands": 7.1,
+      "latitude": 61.518881,
+      "longitude": 30.1996116,
+      "region_name": "Республика Карелия",
+      "region_iso_code": "RU-KR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Медвежьегорск",
+      "population_thousands": 14.1,
+      "latitude": 62.9127626,
+      "longitude": 34.4568489,
+      "region_name": "Республика Карелия",
+      "region_iso_code": "RU-KR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Олонец",
+      "population_thousands": 8,
+      "latitude": 60.9794025,
+      "longitude": 32.9725519,
+      "region_name": "Республика Карелия",
+      "region_iso_code": "RU-KR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Петрозаводск",
+      "population_thousands": 281,
+      "latitude": 61.7891264,
+      "longitude": 34.3596434,
+      "region_name": "Республика Карелия",
+      "region_iso_code": "RU-KR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Питкяранта",
+      "population_thousands": 10.2,
+      "latitude": 61.5757191,
+      "longitude": 31.4640557,
+      "region_name": "Республика Карелия",
+      "region_iso_code": "RU-KR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Пудож",
+      "population_thousands": 8.6,
+      "latitude": 61.8058821,
+      "longitude": 36.5329941,
+      "region_name": "Республика Карелия",
+      "region_iso_code": "RU-KR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Сегежа",
+      "population_thousands": 26,
+      "latitude": 63.7437572,
+      "longitude": 34.3126982,
+      "region_name": "Республика Карелия",
+      "region_iso_code": "RU-KR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Сортавала",
+      "population_thousands": 18.8,
+      "latitude": 61.703367,
+      "longitude": 30.6916998,
+      "region_name": "Республика Карелия",
+      "region_iso_code": "RU-KR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Суоярви",
+      "population_thousands": 8.7,
+      "latitude": 62.0787293,
+      "longitude": 32.3499386,
+      "region_name": "Республика Карелия",
+      "region_iso_code": "RU-KR",
+      "federal_district": "Северо-Западный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Республика Карелия - Бесплатная загрузка",
+    "description": "13 городов региона «Республика Карелия» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 13 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Республика Карелия | ListBase",
+    "seo_description": "Скачать Города — Республика Карелия — 13 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 13 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "ru-kemerovo-banki",
+  "name": "Банки — Kemerovo (коды SWIFT/BIC)",
+  "title": "Банки — Kemerovo (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in KEMEROVO (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 103,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "KEMEROVO",
+      "branch": "(KEMEROVO BRANCH)",
+      "swift_code": "MOBWRUM1KMR"
+    },
+    {
+      "id": 494,
+      "bank": "GAZPROMBANK (JOINT - STOCK COMPANY)",
+      "city": "KEMEROVO",
+      "branch": "(KEMEROVO BRANCH)",
+      "swift_code": "GAZPRUMM036"
+    },
+    {
+      "id": 699,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "KEMEROVO",
+      "branch": "(KEMEROVSKY BRANCH)",
+      "swift_code": "RUAGRUM1056"
+    },
+    {
+      "id": 848,
+      "bank": "KUZBASSHIMBANK",
+      "city": "KEMEROVO",
+      "branch": "",
+      "swift_code": "KUZSRU51"
+    },
+    {
+      "id": 917,
+      "bank": "MOSOBLBANK",
+      "city": "KEMEROVO",
+      "branch": "(BRANCH NO.11)",
+      "swift_code": "MOBKRUM1011"
+    },
+    {
+      "id": 1376,
+      "bank": "SOBINBANK",
+      "city": "KEMEROVO",
+      "branch": "(KEMEROVO BRANCH)",
+      "swift_code": "SBBARUM1010"
+    },
+    {
+      "id": 1432,
+      "bank": "SVIAZ-BANK",
+      "city": "KEMEROVO",
+      "branch": "(KEMEROVO BRANCH)",
+      "swift_code": "SVIZRUM1KEM"
+    },
+    {
+      "id": 1449,
+      "bank": "TAIDON BANK OOO",
+      "city": "KEMEROVO",
+      "branch": "",
+      "swift_code": "TAOORU51"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Kemerovo (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in KEMEROVO (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 8 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Kemerovo (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Kemerovo (коды SWIFT/BIC) — 8 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 8 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

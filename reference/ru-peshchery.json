@@ -1,0 +1,1924 @@
+{
+  "id": "ru-peshchery",
+  "name": "Пещеры России",
+  "title": "Пещеры России",
+  "description": "Список географических объектов класса «пещера», расположенных в России. Источник — Wikidata через публичный SPARQL-эндпоинт (instance of/subclass of Q35509, страна Россия Q159). Для каждого объекта приведены русское название (rdfs:label@ru), английское название, географические координаты (WGS84, P625) и ссылка на статью русской Википедии. Записи отсортированы по алфавиту русского названия. Записи без русскоязычной (кириллической) этикетки отфильтрованы согласно правилу проекта о сохранении родного текста. Первый набор этого класса в русской коллекции. Всего 207 уникальных QID; координаты доступны для 164.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 207,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ru",
+      "label": "Name Ru",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ru",
+      "label": "Wikipedia Ru",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q29410834",
+      "name_ru": "Авилова пещера",
+      "name_en": "Avilova Cave",
+      "latitude": 48.184172,
+      "longitude": 40.8048501,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q20072573",
+      "name_ru": "Аджи-Коба",
+      "name_en": "Adji-Koba Cave",
+      "latitude": 44.915516,
+      "longitude": 34.457585,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%B6%D0%B8-%D0%9A%D0%BE%D0%B1%D0%B0"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q120473744",
+      "name_ru": "Азис-Коба",
+      "name_en": "",
+      "latitude": 44.5080103,
+      "longitude": 33.7637444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%B7%D0%B8%D1%81-%D0%9A%D0%BE%D0%B1%D0%B0"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q21635337",
+      "name_ru": "Айдашинская пещера",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%B9%D0%B4%D0%B0%D1%88%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q136654678",
+      "name_ru": "Алимова пещера",
+      "name_en": "",
+      "latitude": 44.9116048,
+      "longitude": 34.1283815,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D0%BC%D0%BE%D0%B2%D0%B0_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q4068442",
+      "name_ru": "Аракаевская",
+      "name_en": "Arakaevskaya Cave",
+      "latitude": 56.46183,
+      "longitude": 59.25359,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B0%D0%BA%D0%B0%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q97380725",
+      "name_ru": "Арка-Юрт",
+      "name_en": "Arka-Yurt",
+      "latitude": 54.127141,
+      "longitude": 56.825737,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q4362240",
+      "name_ru": "Археологическая пещера",
+      "name_en": "",
+      "latitude": 54.407139,
+      "longitude": 89.41375,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B5%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q16273374",
+      "name_ru": "Аскинская ледяная пещера",
+      "name_en": "Askyn Ice Cave",
+      "latitude": 54.25275,
+      "longitude": 56.90436111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%81%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q4072322",
+      "name_ru": "Атыш (пещера)",
+      "name_en": "",
+      "latitude": 54.555555555,
+      "longitude": 57.271111111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%82%D1%8B%D1%88_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0)"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q4073271",
+      "name_ru": "Ахштырская пещера",
+      "name_en": "Akhshtyrskaya Cave",
+      "latitude": 43.520771,
+      "longitude": 39.99591,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%85%D1%88%D1%82%D1%8B%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q106017006",
+      "name_ru": "Ашинская яма",
+      "name_en": "Ashinskaya hole",
+      "latitude": 55.008708,
+      "longitude": 57.317789,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q124308383",
+      "name_ru": "Бабуганская пещера",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B1%D1%83%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q48940510",
+      "name_ru": "Балаганская пещера",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D0%B0%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q126902890",
+      "name_ru": "Балахонинская пещера",
+      "name_en": "",
+      "latitude": 55.438694,
+      "longitude": 43.340861,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D0%B0%D1%85%D0%BE%D0%BD%D0%B8%D1%85%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q32362346",
+      "name_ru": "Баскунчакская пещера",
+      "name_en": "Baskunchakskaya Cave",
+      "latitude": 48.283,
+      "longitude": 46.7973,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%81%D0%BA%D1%83%D0%BD%D1%87%D0%B0%D0%BA%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q4080462",
+      "name_ru": "Бегемот (пещера)",
+      "name_en": "Behemoth",
+      "latitude": 43.95,
+      "longitude": 39.92194,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%B3%D0%B5%D0%BC%D0%BE%D1%82_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0)"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q25385175",
+      "name_ru": "Бедыкская пещера",
+      "name_en": "",
+      "latitude": 43.48222,
+      "longitude": 43.19333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%B4%D1%8B%D0%BA%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q109887152",
+      "name_ru": "Бездонный колодец (Агармыш)",
+      "name_en": "",
+      "latitude": 45.041111,
+      "longitude": 35.054722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%B7%D0%B4%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%9A%D0%BE%D0%BB%D0%BE%D0%B4%D0%B5%D1%86_(%D0%90%D0%B3%D0%B0%D1%80%D0%BC%D1%8B%D1%88)"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q16273970",
+      "name_ru": "Безродненские пещеры",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%B7%D1%80%D0%BE%D0%B4%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D1%8B"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q106223935",
+      "name_ru": "Бишкаинская пещера",
+      "name_en": "",
+      "latitude": 53.966666666,
+      "longitude": 56.1,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q4089013",
+      "name_ru": "Богатая Фанза",
+      "name_en": "",
+      "latitude": 43.1944,
+      "longitude": 131.3989,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3%D0%B0%D1%82%D0%B0%D1%8F_%D0%A4%D0%B0%D0%BD%D0%B7%D0%B0"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q4091164",
+      "name_ru": "Большая Азишская пещера",
+      "name_en": "Azish Caves",
+      "latitude": 44.121794444,
+      "longitude": 40.028494444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%90%D0%B7%D0%B8%D1%88%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q4091196",
+      "name_ru": "Большая Белобомская пещера",
+      "name_en": "",
+      "latitude": 50.37014,
+      "longitude": 87.045689,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%91%D0%B5%D0%BB%D0%BE%D0%B1%D0%BE%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q4091556",
+      "name_ru": "Большая Орешная",
+      "name_en": "Bolshaya Oreshnaya Cave",
+      "latitude": 55.293,
+      "longitude": 93.7357,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%9E%D1%80%D0%B5%D1%88%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q4091755",
+      "name_ru": "Большая Фанагорийская пещера",
+      "name_en": "",
+      "latitude": 44.469166666,
+      "longitude": 38.977777777,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%A4%D0%B0%D0%BD%D0%B0%D0%B3%D0%BE%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q123680700",
+      "name_ru": "Большой карстовый провал (Свердловская область)",
+      "name_en": "",
+      "latitude": 56.5019,
+      "longitude": 59.3018,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D0%B2%D0%B0%D0%BB_(%D0%A1%D0%B2%D0%B5%D1%80%D0%B4%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q4362243",
+      "name_ru": "Бородинская пещера",
+      "name_en": "Borodinskaya cave",
+      "latitude": 54.047644,
+      "longitude": 91.00309,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q4095192",
+      "name_ru": "Ботовская пещера",
+      "name_en": "",
+      "latitude": 55.3086,
+      "longitude": 105.3434,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q111666222",
+      "name_ru": "Вайдинская пещера",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%B9%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q48945108",
+      "name_ru": "Вертолётная пещера",
+      "name_en": "Vertolyotnaya Cave",
+      "latitude": 54.2361,
+      "longitude": 55.9883,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%91%D1%82%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q4125821",
+      "name_ru": "Воронцовская пещера",
+      "name_en": "Vorontsovskaya Cave",
+      "latitude": 43.612167,
+      "longitude": 39.936083,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q4138850",
+      "name_ru": "Гипсы-1",
+      "name_en": "Gipsy-1",
+      "latitude": 55.233611111,
+      "longitude": 49.233055555,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%BF%D1%81%D1%8B-1"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q20077877",
+      "name_ru": "Голубиная пещера",
+      "name_en": "Golubinnaya Cave",
+      "latitude": 44.879722222,
+      "longitude": 34.349444444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D1%83%D0%B1%D0%B8%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q4144437",
+      "name_ru": "Горло Барлога",
+      "name_en": "",
+      "latitude": 43.6632,
+      "longitude": 40.9841,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%BB%D0%BE_%D0%91%D0%B0%D1%80%D0%BB%D0%BE%D0%B3%D0%B0"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q24934698",
+      "name_ru": "Гостьковская пещера",
+      "name_en": "",
+      "latitude": 57.53333,
+      "longitude": 61.7475,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%81%D1%82%D1%8C%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q110259429",
+      "name_ru": "Гремучая пещера",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D0%BC%D1%83%D1%87%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q4148569",
+      "name_ru": "Гремячевские карстовые пещеры",
+      "name_en": "",
+      "latitude": 54.07694,
+      "longitude": 38.64667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D0%BC%D1%8F%D1%87%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D1%8B"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q20054934",
+      "name_ru": "Грот «Эхо»",
+      "name_en": "Grotto \"Echo\"",
+      "latitude": 59.565,
+      "longitude": 30.109444444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AD%D1%85%D0%BE_(%D0%B3%D1%80%D0%BE%D1%82)"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q4150349",
+      "name_ru": "Грот Лермонтова",
+      "name_en": "Lermontov Grotto",
+      "latitude": 44.039722,
+      "longitude": 43.086944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%BE%D1%82_%D0%9B%D0%B5%D1%80%D0%BC%D0%BE%D0%BD%D1%82%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q4150351",
+      "name_ru": "Грот Пушкина (Феодосия)",
+      "name_en": "Pushkin Grotto (Feodosia)",
+      "latitude": 44.546666666,
+      "longitude": 34.295555555,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%BE%D1%82_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q127420577",
+      "name_ru": "Грот Сосруко",
+      "name_en": "Sosruko grotto",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%BE%D1%82_%D0%A1%D0%BE%D1%81%D1%80%D1%83%D0%BA%D0%BE"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q110526210",
+      "name_ru": "Грот Хитрый ключ",
+      "name_en": "",
+      "latitude": 55.926233,
+      "longitude": 92.894742,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q116742510",
+      "name_ru": "Грот в саду Баумана",
+      "name_en": "Grotto in the Bauman Garden",
+      "latitude": 55.7675949,
+      "longitude": 37.658762,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q28360779",
+      "name_ru": "Грот-родник",
+      "name_en": "Grotto in Alexander Park, Tsarskoe Selo",
+      "latitude": 59.721671,
+      "longitude": 30.376241,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%BE%D1%82-%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q109783085",
+      "name_ru": "Гугерджин-Хосар",
+      "name_en": "Gugerjin",
+      "latitude": 44.7842261,
+      "longitude": 34.2868838,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D1%83%D0%B3%D0%B5%D1%80%D0%B4%D0%B6%D0%B8%D0%BD-%D0%A5%D0%BE%D1%81%D0%B0%D1%80"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q4152199",
+      "name_ru": "Гунькина пещера",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D1%83%D0%BD%D1%8C%D0%BA%D0%B8%D0%BD%D0%B0_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q4156115",
+      "name_ru": "Двуглазка (Хакасия)",
+      "name_en": "Dvuglazka Cave",
+      "latitude": 54.0796,
+      "longitude": 91.0615,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D1%83%D0%B3%D0%BB%D0%B0%D0%B7%D0%BA%D0%B0_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0)"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q1029322",
+      "name_ru": "Денисова пещера",
+      "name_en": "Denisova Cave",
+      "latitude": 51.397580555,
+      "longitude": 84.676205555,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD%D0%B8%D1%81%D0%BE%D0%B2%D0%B0_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q4161293",
+      "name_ru": "Дивья пещера",
+      "name_en": "Divya Cave",
+      "latitude": 60.809722222,
+      "longitude": 56.741666666,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B2%D1%8C%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q4164409",
+      "name_ru": "Долганская Яма",
+      "name_en": "Dolganskaya Yama",
+      "latitude": 54.4748,
+      "longitude": 113.795,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BB%D0%B3%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%AF%D0%BC%D0%B0"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q110259422",
+      "name_ru": "Егорьевская пещера",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%95%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q4179680",
+      "name_ru": "Жерновогорская пещера",
+      "name_en": "",
+      "latitude": 57.61118,
+      "longitude": 48.955832,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q4180372",
+      "name_ru": "Жилище Сокола",
+      "name_en": "",
+      "latitude": 59.607,
+      "longitude": 60.0308,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D0%BB%D0%B8%D1%89%D0%B5_%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q40181575",
+      "name_ru": "Заповедная пещера",
+      "name_en": "",
+      "latitude": 54.5557,
+      "longitude": 57.271,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q4191662",
+      "name_ru": "Зефир-Коба",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D1%84%D0%B8%D1%80-%D0%9A%D0%BE%D0%B1%D0%B0"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q13667780",
+      "name_ru": "Зигановка",
+      "name_en": "",
+      "latitude": 53.531482,
+      "longitude": 56.61029,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B8%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q41156346",
+      "name_ru": "Зигзаг",
+      "name_en": "",
+      "latitude": 53.00194,
+      "longitude": 56.50778,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B8%D0%B3%D0%B7%D0%B0%D0%B3_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0)"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q109116709",
+      "name_ru": "Золотая пещера",
+      "name_en": "Golden cave",
+      "latitude": 53.331927,
+      "longitude": 50.545202,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q1413298",
+      "name_ru": "Игнатьевская пещера",
+      "name_en": "Ignateva Cave",
+      "latitude": 54.899447,
+      "longitude": 57.781221,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D0%B3%D0%BD%D0%B0%D1%82%D1%8C%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q21639881",
+      "name_ru": "Идрисовская пещера",
+      "name_en": "Idrisovskaya Cave",
+      "latitude": 55.0428,
+      "longitude": 58.1508,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D0%B4%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q110259421",
+      "name_ru": "Изылинская пещера",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D0%B7%D1%8B%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q4198989",
+      "name_ru": "Икеньская пещера",
+      "name_en": "Ikenskaya Cave",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D0%BA%D0%B5%D0%BD%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q12074902",
+      "name_ru": "Иограф (пещера)",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D0%BE%D0%B3%D1%80%D0%B0%D1%84_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0)"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q4205548",
+      "name_ru": "Ишеевская пещерная система",
+      "name_en": "",
+      "latitude": 53.629611111,
+      "longitude": 56.143888888,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D1%88%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q4206536",
+      "name_ru": "Кабаний провал",
+      "name_en": "Kabany Proval",
+      "latitude": 43.614444444,
+      "longitude": 39.944166666,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B1%D0%B0%D0%BD%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%B2%D0%B0%D0%BB"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q28667530",
+      "name_ru": "Казачий стан",
+      "name_en": "",
+      "latitude": 54.57361,
+      "longitude": 61.105,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D1%87%D0%B8%D0%B9_%D1%81%D1%82%D0%B0%D0%BD_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0)"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q30890226",
+      "name_ru": "Каминная пещера",
+      "name_en": "",
+      "latitude": 51.517,
+      "longitude": 84.833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q109811451",
+      "name_ru": "Камнепадная",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%BD%D0%B5%D0%BF%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q1643788",
+      "name_ru": "Капова пещера",
+      "name_en": "Kapova Cave",
+      "latitude": 53.044444444,
+      "longitude": 57.063888888,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BF%D0%BE%D0%B2%D0%B0_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q4213899",
+      "name_ru": "Каракокшинская пещера",
+      "name_en": "",
+      "latitude": 51.420434,
+      "longitude": 86.594754,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%BA%D0%BE%D0%BA%D1%88%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q109860262",
+      "name_ru": "Карани-Коба",
+      "name_en": "",
+      "latitude": 44.893889,
+      "longitude": 34.553333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%BD%D0%B8-%D0%9A%D0%BE%D0%B1%D0%B0"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q4216856",
+      "name_ru": "Кастере (пещера)",
+      "name_en": "",
+      "latitude": 44.870278,
+      "longitude": 34.549444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B5_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0)"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q4218227",
+      "name_ru": "Кашкулакская пещера",
+      "name_en": "Kashkulakskaya",
+      "latitude": 54.466666666,
+      "longitude": 89.666666666,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%88%D0%BA%D1%83%D0%BB%D0%B0%D0%BA%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q123361407",
+      "name_ru": "Кваршинская пещера",
+      "name_en": "",
+      "latitude": 58.2985,
+      "longitude": 61.2007,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D1%80%D1%88%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q4220309",
+      "name_ru": "Кизеловская пещера",
+      "name_en": "",
+      "latitude": 59.088055555,
+      "longitude": 57.656388888,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%B7%D0%B5%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q13055927",
+      "name_ru": "Киндерлинская пещера",
+      "name_en": "Kinderle Cave",
+      "latitude": 54.156944444,
+      "longitude": 56.854444444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BD%D0%B4%D0%B5%D1%80%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q16663703",
+      "name_ru": "Киселёвская пещера",
+      "name_en": "",
+      "latitude": 55.02036111,
+      "longitude": 57.31430556,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%81%D0%B5%D0%BB%D1%91%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q110259392",
+      "name_ru": "Коноваловская пещера",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q12113107",
+      "name_ru": "Коровий грот",
+      "name_en": "Koroviy Grotto",
+      "latitude": 44.5301127,
+      "longitude": 34.0166017,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B3%D1%80%D0%BE%D1%82"
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q127420586",
+      "name_ru": "Крохалёвская пещера",
+      "name_en": "",
+      "latitude": 54.66097,
+      "longitude": 84.13388,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D1%85%D0%B0%D0%BB%D1%91%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q4246413",
+      "name_ru": "Кулогорская пещера",
+      "name_en": "",
+      "latitude": 64.7411,
+      "longitude": 43.4572,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BB%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q2607150",
+      "name_ru": "Кунгурская пещера",
+      "name_en": "Kungur Ice Cave",
+      "latitude": 57.440277777,
+      "longitude": 57.007222222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BD%D0%B3%D1%83%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q4247322",
+      "name_ru": "Кунцевская пещера",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BD%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q13667788",
+      "name_ru": "Кургазак (пещера)",
+      "name_en": "Kurgazak Cave",
+      "latitude": 55.138611111,
+      "longitude": 58.726111111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%B7%D0%B0%D0%BA_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0)"
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q41792526",
+      "name_ru": "Куэшта",
+      "name_en": "Kueshta Cave",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%8D%D1%88%D1%82%D0%B0"
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q100277176",
+      "name_ru": "Кызыл-Яр (пещера)",
+      "name_en": "Kyzyl-Yar",
+      "latitude": 54.072222222,
+      "longitude": 57.452777777,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%8B%D0%B7%D1%8B%D0%BB-%D0%AF%D1%80_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0)"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q4251377",
+      "name_ru": "Кёк-Таш",
+      "name_en": "",
+      "latitude": 51.7225,
+      "longitude": 85.65389,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%91%D0%BA-%D0%A2%D0%B0%D1%88_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0)"
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q19909021",
+      "name_ru": "Лаклинская пещера",
+      "name_en": "Laklinskaya Cave",
+      "latitude": 55.19888889,
+      "longitude": 58.52833333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BA%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q4258113",
+      "name_ru": "Ленинградская пещера",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q109830900",
+      "name_ru": "Лю-Хосар",
+      "name_en": "Liu-Hosar",
+      "latitude": 44.879067,
+      "longitude": 34.349717,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D1%8E-%D0%A5%D0%BE%D1%81%D0%B0%D1%80"
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q19909986",
+      "name_ru": "Малая Азишская пещера",
+      "name_en": "Small Azish Cave",
+      "latitude": 44.12255,
+      "longitude": 40.028583,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D1%8F_%D0%90%D0%B7%D0%B8%D1%88%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q106239331",
+      "name_ru": "Малая Аракаевская пещера",
+      "name_en": "Malaya Arakayevskaya cave",
+      "latitude": 56.4485,
+      "longitude": 59.258734,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q124153349",
+      "name_ru": "Малый Дружбинский провал",
+      "name_en": "",
+      "latitude": 56.5001,
+      "longitude": 59.2815,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%94%D1%80%D1%83%D0%B6%D0%B1%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%B2%D0%B0%D0%BB"
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q127420574",
+      "name_ru": "Матузка",
+      "name_en": "",
+      "latitude": 44.217065,
+      "longitude": 39.892758,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D1%83%D0%B7%D0%BA%D0%B0_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0)"
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q16675344",
+      "name_ru": "Медвежья пещера",
+      "name_en": "Medvezhya peshchera",
+      "latitude": 62,
+      "longitude": 58.733,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B6%D1%8C%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0_(%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F)"
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q34003",
+      "name_ru": "Мезмайская пещера",
+      "name_en": "Mezmaiskaya cave",
+      "latitude": 44.166666666,
+      "longitude": 40,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B7%D0%BC%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q28706216",
+      "name_ru": "Мигулинские пещеры",
+      "name_en": "",
+      "latitude": 49.71355,
+      "longitude": 41.2406,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%B3%D1%83%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D1%8B"
+    },
+    {
+      "id": 99,
+      "wikidata_id": "Q21843577",
+      "name_ru": "Мокрушинская пещера",
+      "name_en": "",
+      "latitude": 43.9525,
+      "longitude": 135.3482,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BA%D1%80%D1%83%D1%88%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 100,
+      "wikidata_id": "Q16678481",
+      "name_ru": "Музейная пещера",
+      "name_en": "",
+      "latitude": 51.284169444,
+      "longitude": 84.651938888,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 101,
+      "wikidata_id": "Q4308001",
+      "name_ru": "Мурзак-Коба",
+      "name_en": "Murzak-Koba Cave",
+      "latitude": 44.5303,
+      "longitude": 33.6995,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%80%D0%B7%D0%B0%D0%BA-%D0%9A%D0%BE%D0%B1%D0%B0"
+    },
+    {
+      "id": 102,
+      "wikidata_id": "Q97380985",
+      "name_ru": "Напорная",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 103,
+      "wikidata_id": "Q24933335",
+      "name_ru": "Новоуткинская пещера",
+      "name_en": "",
+      "latitude": 56.99826,
+      "longitude": 59.55926,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D1%83%D1%82%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 104,
+      "wikidata_id": "Q21044939",
+      "name_ru": "Олимпия (пещера, Ишимбайский район)",
+      "name_en": "Olympia Cave",
+      "latitude": 53.38806,
+      "longitude": 56.46861,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D1%8F_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0,_%D0%98%D1%88%D0%B8%D0%BC%D0%B1%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD)"
+    },
+    {
+      "id": 105,
+      "wikidata_id": "Q110259394",
+      "name_ru": "Опукская-Юбилейная",
+      "name_en": "",
+      "latitude": 45.0412,
+      "longitude": 36.22948,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BF%D1%83%D0%BA%D1%81%D0%BA%D0%B0%D1%8F-%D0%AE%D0%B1%D0%B8%D0%BB%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F"
+    },
+    {
+      "id": 106,
+      "wikidata_id": "Q4362259",
+      "name_ru": "Ординская пещера",
+      "name_en": "Orda Cave",
+      "latitude": 57.182,
+      "longitude": 56.888055555,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F"
+    },
+    {
+      "id": 107,
+      "wikidata_id": "Q24934711",
+      "name_ru": "Орлов провал",
+      "name_en": "Cave Lednik",
+      "latitude": 56.867,
+      "longitude": 59.367,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%BB%D0%BE%D0%B2_%D0%BF%D1%80%D0%BE%D0%B2%D0%B0%D0%BB"
+    },
+    {
+      "id": 108,
+      "wikidata_id": "Q4337017",
+      "name_ru": "Ороктойская пещера",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%BE%D0%BA%D1%82%D0%BE%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 109,
+      "wikidata_id": "Q139549020",
+      "name_ru": "Охотничий грот",
+      "name_en": "",
+      "latitude": 44.7900715,
+      "longitude": 34.2881399,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D1%87%D0%B8%D0%B9_%D0%B3%D1%80%D0%BE%D1%82"
+    },
+    {
+      "id": 110,
+      "wikidata_id": "Q24932745",
+      "name_ru": "Пашийская пещера",
+      "name_en": "",
+      "latitude": 58.42028,
+      "longitude": 58.21722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%88%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 111,
+      "wikidata_id": "Q106075878",
+      "name_ru": "Пещера Арианда",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 112,
+      "wikidata_id": "Q37969030",
+      "name_ru": "Пещера Берложек",
+      "name_en": "Peshchera Berlozhek",
+      "latitude": 55.0825,
+      "longitude": 96.345,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 113,
+      "wikidata_id": "Q4362242",
+      "name_ru": "Пещера Большой приз",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%BF%D1%80%D0%B8%D0%B7_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0)"
+    },
+    {
+      "id": 114,
+      "wikidata_id": "Q4362241",
+      "name_ru": "Пещера Бондаревская",
+      "name_en": "",
+      "latitude": 44.081666666,
+      "longitude": 39.998333333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BD%D0%B4%D0%B0%D1%80%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0)"
+    },
+    {
+      "id": 115,
+      "wikidata_id": "Q4362244",
+      "name_ru": "Пещера Братьев Греве",
+      "name_en": "",
+      "latitude": 53.325383333,
+      "longitude": 50.195469444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0_%D0%91%D1%80%D0%B0%D1%82%D1%8C%D0%B5%D0%B2_%D0%93%D1%80%D0%B5%D0%B2%D0%B5"
+    },
+    {
+      "id": 116,
+      "wikidata_id": "Q20091280",
+      "name_ru": "Пещера Вдовиченко",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0_%D0%92%D0%B4%D0%BE%D0%B2%D0%B8%D1%87%D0%B5%D0%BD%D0%BA%D0%BE"
+    },
+    {
+      "id": 117,
+      "wikidata_id": "Q12719462",
+      "name_ru": "Пещера Вялова",
+      "name_en": "Vyalova cave",
+      "latitude": 44.7333,
+      "longitude": 34.3,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0_%D0%92%D1%8F%D0%BB%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 118,
+      "wikidata_id": "Q20091281",
+      "name_ru": "Пещера Гебы",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0_%D0%93%D0%B5%D0%B1%D1%8B"
+    },
+    {
+      "id": 119,
+      "wikidata_id": "Q4362246",
+      "name_ru": "Пещера Геофизическая (Алтайский край)",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0_%D0%93%D0%B5%D0%BE%D1%84%D0%B8%D0%B7%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_(%D0%90%D0%BB%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B0%D0%B9)"
+    },
+    {
+      "id": 120,
+      "wikidata_id": "Q20091283",
+      "name_ru": "Пещера Грина (Крым)",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0_%D0%93%D1%80%D0%B8%D0%BD%D0%B0_(%D0%9A%D1%80%D1%8B%D0%BC)"
+    },
+    {
+      "id": 121,
+      "wikidata_id": "Q4362247",
+      "name_ru": "Пещера Долгая",
+      "name_en": "Dolgaya",
+      "latitude": 43.617,
+      "longitude": 39.823,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BB%D0%B3%D0%B0%D1%8F_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0)"
+    },
+    {
+      "id": 122,
+      "wikidata_id": "Q30888598",
+      "name_ru": "Пещера Дружба",
+      "name_en": "Cave Druzhba",
+      "latitude": 56.4988,
+      "longitude": 59.2941,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D1%80%D1%83%D0%B6%D0%B1%D0%B0_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0,_%D0%A1%D0%B2%D0%B5%D1%80%D0%B4%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 123,
+      "wikidata_id": "Q37959786",
+      "name_ru": "Пещера Духан",
+      "name_en": "Peshchera Dukhan",
+      "latitude": 44.251111111,
+      "longitude": 40.095833333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 124,
+      "wikidata_id": "Q37207303",
+      "name_ru": "Пещера Дюрк",
+      "name_en": "",
+      "latitude": 42.004166666,
+      "longitude": 47.94,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0_%D0%94%D1%8E%D1%80%D0%BA"
+    },
+    {
+      "id": 125,
+      "wikidata_id": "Q37966129",
+      "name_ru": "Пещера Ермака",
+      "name_en": "Peshchera Yermaka",
+      "latitude": 58.296944444,
+      "longitude": 61.202222222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 126,
+      "wikidata_id": "Q37968580",
+      "name_ru": "Пещера Каменные Сараи",
+      "name_en": "Peshchera Kamennyye Sarai",
+      "latitude": 44.759722222,
+      "longitude": 42.842222222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 127,
+      "wikidata_id": "Q28805618",
+      "name_ru": "Пещера Катникова",
+      "name_en": "Peshchera Katnikova",
+      "latitude": 56.578888888,
+      "longitude": 59.235833333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0_%D0%9A%D0%B0%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 128,
+      "wikidata_id": "Q110259426",
+      "name_ru": "Пещера Кирилловская",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0_%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F"
+    },
+    {
+      "id": 129,
+      "wikidata_id": "Q4362249",
+      "name_ru": "Пещера Киров-600",
+      "name_en": "",
+      "latitude": 57.4204,
+      "longitude": 48.9278,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%BE%D0%B2-600"
+    },
+    {
+      "id": 130,
+      "wikidata_id": "Q4362252",
+      "name_ru": "Пещера Крест",
+      "name_en": "Krest Cave",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D1%81%D1%82_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0)"
+    },
+    {
+      "id": 131,
+      "wikidata_id": "Q4362253",
+      "name_ru": "Пещера Лабиринтовая",
+      "name_en": "Labirint Cave",
+      "latitude": 43.60327,
+      "longitude": 39.80415,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B1%D0%B8%D1%80%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F"
+    },
+    {
+      "id": 132,
+      "wikidata_id": "Q110259428",
+      "name_ru": "Пещера Ломоносова",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0_%D0%9B%D0%BE%D0%BC%D0%BE%D0%BD%D0%BE%D1%81%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 133,
+      "wikidata_id": "Q109931534",
+      "name_ru": "Пещера Максимовича",
+      "name_en": "Maksimovich's cave",
+      "latitude": 44.4442,
+      "longitude": 33.9116,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0_%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%D1%87%D0%B0"
+    },
+    {
+      "id": 134,
+      "wikidata_id": "Q4362256",
+      "name_ru": "Пещера Мрака",
+      "name_en": "",
+      "latitude": 59.60194,
+      "longitude": 59.97944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0_%D0%9C%D1%80%D0%B0%D0%BA%D0%B0"
+    },
+    {
+      "id": 135,
+      "wikidata_id": "Q2017307",
+      "name_ru": "Пещера Окладникова",
+      "name_en": "Okladnikov Cave",
+      "latitude": 51.732126,
+      "longitude": 84.037126,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0_%D0%9E%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 136,
+      "wikidata_id": "Q4362260",
+      "name_ru": "Пещера ПКБ (Новая)",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0_%D0%9F%D0%9A%D0%91"
+    },
+    {
+      "id": 137,
+      "wikidata_id": "Q37965919",
+      "name_ru": "Пещера Партизанская",
+      "name_en": "Peshchera Partizanskaya",
+      "latitude": 44.591111111,
+      "longitude": 135.545555555,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 138,
+      "wikidata_id": "Q4362264",
+      "name_ru": "Пещера Парящая птица",
+      "name_en": "",
+      "latitude": 43.953611111,
+      "longitude": 39.903055555,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D1%8F%D1%89%D0%B0%D1%8F_%D0%9F%D1%82%D0%B8%D1%86%D0%B0"
+    },
+    {
+      "id": 139,
+      "wikidata_id": "Q106026415",
+      "name_ru": "Пещера Плутония",
+      "name_en": "Plutoniya cave",
+      "latitude": 55.01007,
+      "longitude": 57.321833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 140,
+      "wikidata_id": "Q137042204",
+      "name_ru": "Пещера Притон",
+      "name_en": "",
+      "latitude": 54.671,
+      "longitude": 61.0562,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0_%D0%9F%D1%80%D0%B8%D1%82%D0%BE%D0%BD"
+    },
+    {
+      "id": 141,
+      "wikidata_id": "Q4405601",
+      "name_ru": "Пещера Салавата Юлаева",
+      "name_en": "Salavat Yulayev Cave",
+      "latitude": 53.601194444,
+      "longitude": 56.647361111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0_%D0%A1%D0%B0%D0%BB%D0%B0%D0%B2%D0%B0%D1%82%D0%B0_%D0%AE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B0"
+    },
+    {
+      "id": 142,
+      "wikidata_id": "Q4362267",
+      "name_ru": "Пещера Сквозная (Адыгея)",
+      "name_en": "",
+      "latitude": 44.2692,
+      "longitude": 40.1844,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B2%D0%BE%D0%B7%D0%BD%D0%B0%D1%8F_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0,_%D0%90%D0%B4%D1%8B%D0%B3%D0%B5%D1%8F)"
+    },
+    {
+      "id": 143,
+      "wikidata_id": "Q114453762",
+      "name_ru": "Пещера Старая Брянь",
+      "name_en": "Staraya Bryan cave grotto",
+      "latitude": 51.553916666,
+      "longitude": 108.144166666,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%B0%D1%8F_%D0%91%D1%80%D1%8F%D0%BD%D1%8C_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0)"
+    },
+    {
+      "id": 144,
+      "wikidata_id": "Q109409265",
+      "name_ru": "Пещера Степана Разина",
+      "name_en": "Stepan Razin's Cave",
+      "latitude": 53.216679,
+      "longitude": 49.3427539,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 145,
+      "wikidata_id": "Q20091287",
+      "name_ru": "Пещера Сююрю-Кая",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%8E%D1%8E%D1%80%D1%8E-%D0%9A%D0%B0%D1%8F_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0)"
+    },
+    {
+      "id": 146,
+      "wikidata_id": "Q37968933",
+      "name_ru": "Пещера Тайн",
+      "name_en": "Peshchera Tayn",
+      "latitude": 59.417222222,
+      "longitude": 57.7625,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 147,
+      "wikidata_id": "Q106814455",
+      "name_ru": "Пещера Шемахинская-1",
+      "name_en": "Shemakhinskaya Cave",
+      "latitude": 56.271444,
+      "longitude": 59.345889,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B5%D0%BC%D0%B0%D1%85%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F-1"
+    },
+    {
+      "id": 148,
+      "wikidata_id": "Q110259425",
+      "name_ru": "Пещера имени Копчинского",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%89%D0%B5%D1%80%D0%B0_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%9A%D0%BE%D0%BF%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE"
+    },
+    {
+      "id": 149,
+      "wikidata_id": "Q4362287",
+      "name_ru": "Пещерная система Белая звёздочка",
+      "name_en": "",
+      "latitude": 43.967,
+      "longitude": 39.917,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%B0%D1%8F_%D0%B7%D0%B2%D1%91%D0%B7%D0%B4%D0%BE%D1%87%D0%BA%D0%B0"
+    },
+    {
+      "id": 150,
+      "wikidata_id": "Q116252364",
+      "name_ru": "Пещеры скалы Сабакай",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 151,
+      "wikidata_id": "Q138767181",
+      "name_ru": "Пильниковская",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F"
+    },
+    {
+      "id": 152,
+      "wikidata_id": "Q4380878",
+      "name_ru": "Пропащая Яма",
+      "name_en": "Propaschaya yama",
+      "latitude": 53.018319444,
+      "longitude": 57.200194444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BF%D0%B0%D1%89%D0%B0%D1%8F_%D1%8F%D0%BC%D0%B0"
+    },
+    {
+      "id": 153,
+      "wikidata_id": "Q4403156",
+      "name_ru": "СОАНтехническая",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%9E%D0%90%D0%9D%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F"
+    },
+    {
+      "id": 154,
+      "wikidata_id": "Q105834593",
+      "name_ru": "Сабакай",
+      "name_en": "Sabakay",
+      "latitude": 55.522017,
+      "longitude": 57.68505,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 155,
+      "wikidata_id": "Q111843880",
+      "name_ru": "Салаватская",
+      "name_en": "Salavatskaya",
+      "latitude": 55.111892,
+      "longitude": 58.154346,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D0%B0%D0%B2%D0%B0%D1%82%D1%81%D0%BA%D0%B0%D1%8F"
+    },
+    {
+      "id": 156,
+      "wikidata_id": "Q86662891",
+      "name_ru": "Сарадж-Чуко",
+      "name_en": "Saradzh-Chuko",
+      "latitude": 43.57028,
+      "longitude": 43.35861,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%B0%D0%B4%D0%B6-%D0%A7%D1%83%D0%BA%D0%BE"
+    },
+    {
+      "id": 157,
+      "wikidata_id": "Q86664437",
+      "name_ru": "Сары-Коба",
+      "name_en": "",
+      "latitude": 44.5074,
+      "longitude": 33.9661,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D1%8B-%D0%9A%D0%BE%D0%B1%D0%B0"
+    },
+    {
+      "id": 158,
+      "wikidata_id": "Q123752620",
+      "name_ru": "Светлая пещера",
+      "name_en": "Svetlaya cave",
+      "latitude": 60.4926,
+      "longitude": 60.0373,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%85%D1%82%D0%B0_%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B0%D1%8F"
+    },
+    {
+      "id": 159,
+      "wikidata_id": "Q110259391",
+      "name_ru": "Северная пещера",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 160,
+      "wikidata_id": "Q4417702",
+      "name_ru": "Серноводская пещера",
+      "name_en": "",
+      "latitude": 53.931633333,
+      "longitude": 51.275366666,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 161,
+      "wikidata_id": "Q4419038",
+      "name_ru": "Сикияз-Тамак",
+      "name_en": "",
+      "latitude": 55.1872,
+      "longitude": 58.6157,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BA%D0%B8%D1%8F%D0%B7-%D0%A2%D0%B0%D0%BC%D0%B0%D0%BA"
+    },
+    {
+      "id": 162,
+      "wikidata_id": "Q48950763",
+      "name_ru": "Сказка",
+      "name_en": "",
+      "latitude": 53.0271,
+      "longitude": 57.1248,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B0%D0%B7%D0%BA%D0%B0_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0)"
+    },
+    {
+      "id": 163,
+      "wikidata_id": "Q65705637",
+      "name_ru": "Сквозной грот (Новый свет)",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B2%D0%BE%D0%B7%D0%BD%D0%BE%D0%B9_%D0%B3%D1%80%D0%BE%D1%82_(%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D0%B2%D0%B5%D1%82)"
+    },
+    {
+      "id": 164,
+      "wikidata_id": "Q4421810",
+      "name_ru": "Скельская пещера",
+      "name_en": "Skelska Cave",
+      "latitude": 44.460555555,
+      "longitude": 33.867222222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 165,
+      "wikidata_id": "Q24936203",
+      "name_ru": "Смолинская пещера",
+      "name_en": "Smolinskaya Cave",
+      "latitude": 56.42889,
+      "longitude": 61.61222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BC%D0%BE%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 166,
+      "wikidata_id": "Q20077536",
+      "name_ru": "Солдатская пещера",
+      "name_en": "",
+      "latitude": 44.874722,
+      "longitude": 34.581667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%B4%D0%B0%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 167,
+      "wikidata_id": "Q33083806",
+      "name_ru": "Соляник (пещера)",
+      "name_en": "",
+      "latitude": 42.998611111,
+      "longitude": 132.996666666,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D1%8F%D0%BD%D0%B8%D0%BA_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0)"
+    },
+    {
+      "id": 168,
+      "wikidata_id": "Q24934699",
+      "name_ru": "Сохарёвская пещера",
+      "name_en": "",
+      "latitude": 57.47889,
+      "longitude": 61.535,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%85%D0%B0%D1%80%D1%91%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 169,
+      "wikidata_id": "Q12157466",
+      "name_ru": "Старосельская стоянка",
+      "name_en": "",
+      "latitude": 44.745,
+      "longitude": 33.897777777,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BA%D0%B0"
+    },
+    {
+      "id": 170,
+      "wikidata_id": "Q7635148",
+      "name_ru": "Сугомакская пещера",
+      "name_en": "Sugomak Cave",
+      "latitude": 55.715277777,
+      "longitude": 60.459722222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%B3%D0%BE%D0%BC%D0%B0%D0%BA%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 171,
+      "wikidata_id": "Q4445967",
+      "name_ru": "Сумган-Кутук",
+      "name_en": "Sumgan-Kutuk",
+      "latitude": 53.00055556,
+      "longitude": 56.75111111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%BC%D0%B3%D0%B0%D0%BD-%D0%9A%D1%83%D1%82%D1%83%D0%BA"
+    },
+    {
+      "id": 172,
+      "wikidata_id": "Q63139819",
+      "name_ru": "Сухая Атя (пещера)",
+      "name_en": "Sukhaya Atya Cave",
+      "latitude": 54.849166666,
+      "longitude": 57.413333333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D1%85%D0%B0%D1%8F_%D0%90%D1%82%D1%8F_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0)"
+    },
+    {
+      "id": 173,
+      "wikidata_id": "Q4448503",
+      "name_ru": "Сюкеевские пещеры",
+      "name_en": "Syukeyevo Caves",
+      "latitude": 55.0794,
+      "longitude": 49.0525,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%8E%D0%BA%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D1%8B"
+    },
+    {
+      "id": 174,
+      "wikidata_id": "Q117312987",
+      "name_ru": "Тарханкутская пещера",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%80%D1%85%D0%B0%D0%BD%D0%BA%D1%83%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 175,
+      "wikidata_id": "Q4452916",
+      "name_ru": "Таш-Ой",
+      "name_en": "",
+      "latitude": 53.720628,
+      "longitude": 56.645831,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%88-%D0%9E%D0%B9"
+    },
+    {
+      "id": 176,
+      "wikidata_id": "Q18409439",
+      "name_ru": "Темниковская пещера",
+      "name_en": "Temnikovskaya Cave",
+      "latitude": 51.04083,
+      "longitude": 106.1275,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BC%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 177,
+      "wikidata_id": "Q136675780",
+      "name_ru": "Тешкли-Коба",
+      "name_en": "",
+      "latitude": 44.8576309,
+      "longitude": 34.0813436,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%88%D0%BA%D0%BB%D0%B8-%D0%9A%D0%BE%D0%B1%D0%B0"
+    },
+    {
+      "id": 178,
+      "wikidata_id": "Q86667814",
+      "name_ru": "Тренькинская пещера",
+      "name_en": "",
+      "latitude": 60.40611,
+      "longitude": 60.01306,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 179,
+      "wikidata_id": "Q127420573",
+      "name_ru": "Треугольная пещера",
+      "name_en": "",
+      "latitude": 43.99167,
+      "longitude": 41.289521,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 180,
+      "wikidata_id": "Q116985782",
+      "name_ru": "Трёхарочный грот",
+      "name_en": "",
+      "latitude": 55.688891,
+      "longitude": 37.78808,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 181,
+      "wikidata_id": "Q125698397",
+      "name_ru": "Трёхкамерный грот",
+      "name_en": "",
+      "latitude": 55.613,
+      "longitude": 37.6798,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 182,
+      "wikidata_id": "Q18409658",
+      "name_ru": "Тут-Куш",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D1%82-%D0%9A%D1%83%D1%88"
+    },
+    {
+      "id": 183,
+      "wikidata_id": "Q139497431",
+      "name_ru": "Узун-Коба",
+      "name_en": "",
+      "latitude": 44.786421,
+      "longitude": 34.2842653,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B7%D1%83%D0%BD-%D0%9A%D0%BE%D0%B1%D0%B0"
+    },
+    {
+      "id": 184,
+      "wikidata_id": "Q105882271",
+      "name_ru": "Улуирские пещерные комплексы",
+      "name_en": "Uluir caves",
+      "latitude": 55.157013,
+      "longitude": 58.655959,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 185,
+      "wikidata_id": "Q4478429",
+      "name_ru": "Усть-Канская пещера",
+      "name_en": "Ust-Kanskaya cave",
+      "latitude": 50.9,
+      "longitude": 84.8,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D1%82%D1%8C-%D0%9A%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 186,
+      "wikidata_id": "Q109885160",
+      "name_ru": "Ухо Земли (Эчки-Даг)",
+      "name_en": "",
+      "latitude": 44.905833,
+      "longitude": 35.144722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%85%D0%BE_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8_(%D0%AD%D1%87%D0%BA%D0%B8-%D0%94%D0%B0%D0%B3)"
+    },
+    {
+      "id": 187,
+      "wikidata_id": "Q12165308",
+      "name_ru": "Фатьма-Коба",
+      "name_en": "Fatma Qoba",
+      "latitude": 44.532765,
+      "longitude": 33.800301,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D1%82%D1%8C%D0%BC%D0%B0-%D0%9A%D0%BE%D0%B1%D0%B0"
+    },
+    {
+      "id": 188,
+      "wikidata_id": "Q4494655",
+      "name_ru": "Хазинская пещера",
+      "name_en": "",
+      "latitude": 53.40611,
+      "longitude": 56.40611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 189,
+      "wikidata_id": "Q30889550",
+      "name_ru": "Чагырская пещера",
+      "name_en": "Chagyrskaya Cave",
+      "latitude": 51.442944,
+      "longitude": 83.155,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D0%B3%D1%8B%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 190,
+      "wikidata_id": "Q4517106",
+      "name_ru": "Чокурча (пещера)",
+      "name_en": "Chokurcha",
+      "latitude": 44.955952777,
+      "longitude": 34.139163888,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%BE%D0%BA%D1%83%D1%80%D1%87%D0%B0_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0)"
+    },
+    {
+      "id": 191,
+      "wikidata_id": "Q4517616",
+      "name_ru": "Чудесница",
+      "name_en": "",
+      "latitude": 58.20083,
+      "longitude": 58.14306,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D1%83%D0%B4%D0%B5%D1%81%D0%BD%D0%B8%D1%86%D0%B0"
+    },
+    {
+      "id": 192,
+      "wikidata_id": "Q30590768",
+      "name_ru": "Чёртовы Ворота",
+      "name_en": "Chertovy Vorota Cave",
+      "latitude": 44.483333,
+      "longitude": 135.383333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D1%91%D1%80%D1%82%D0%BE%D0%B2%D1%8B_%D0%92%D0%BE%D1%80%D0%BE%D1%82%D0%B0"
+    },
+    {
+      "id": 193,
+      "wikidata_id": "Q12170989",
+      "name_ru": "Шайтан-Коба",
+      "name_en": "",
+      "latitude": 44.804444,
+      "longitude": 33.980278,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B9%D1%82%D0%B0%D0%BD-%D0%9A%D0%BE%D0%B1%D0%B0"
+    },
+    {
+      "id": 194,
+      "wikidata_id": "Q12171044",
+      "name_ru": "Шан-Коба",
+      "name_en": "",
+      "latitude": 44.5198,
+      "longitude": 33.8145,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%BD-%D0%9A%D0%BE%D0%B1%D0%B0"
+    },
+    {
+      "id": 195,
+      "wikidata_id": "Q110259427",
+      "name_ru": "Шахта Вернадского",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%85%D1%82%D0%B0_%D0%92%D0%B5%D1%80%D0%BD%D0%B0%D0%B4%D1%81%D0%BA%D0%BE%D0%B3%D0%BE"
+    },
+    {
+      "id": 196,
+      "wikidata_id": "Q109853857",
+      "name_ru": "Шахта Мира",
+      "name_en": "",
+      "latitude": 44.859167,
+      "longitude": 34.543611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%85%D1%82%D0%B0_%D0%9C%D0%B8%D1%80%D0%B0"
+    },
+    {
+      "id": 197,
+      "wikidata_id": "Q110259424",
+      "name_ru": "Шахта имени 70 лет СССР",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%85%D1%82%D0%B0_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_70_%D0%BB%D0%B5%D1%82_%D0%A1%D0%A1%D0%A1%D0%A0"
+    },
+    {
+      "id": 198,
+      "wikidata_id": "Q16720640",
+      "name_ru": "Шмарненская пещера",
+      "name_en": "Shmarnenskaya cave",
+      "latitude": 51.1164,
+      "longitude": 37.8182,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D0%BC%D0%B0%D1%80%D0%BD%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 199,
+      "wikidata_id": "Q37969474",
+      "name_ru": "Шуби-Ныхасская пещера",
+      "name_en": "Shubi-Nykhasskaya Cave",
+      "latitude": 42.94087,
+      "longitude": 44.21134,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D1%83%D0%B1%D0%B8-%D0%9D%D1%8B%D1%85%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 200,
+      "wikidata_id": "Q4529387",
+      "name_ru": "Ыласын (пещера)",
+      "name_en": "Ilasin Cave",
+      "latitude": 53.3945,
+      "longitude": 56.3981,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AB%D0%BB%D0%B0%D1%81%D1%8B%D0%BD_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0)"
+    },
+    {
+      "id": 201,
+      "wikidata_id": "Q4535302",
+      "name_ru": "Юрьевская пещера",
+      "name_en": "Yurievskaya Cave",
+      "latitude": 55.2325,
+      "longitude": 49.232777777,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 202,
+      "wikidata_id": "Q20091289",
+      "name_ru": "Ялтинская пещера",
+      "name_en": "Yalta Cave",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AF%D0%BB%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 203,
+      "wikidata_id": "Q4539977",
+      "name_ru": "Ящик Пандоры (пещера)",
+      "name_en": "",
+      "latitude": 54.433333333,
+      "longitude": 89.45,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AF%D1%89%D0%B8%D0%BA_%D0%9F%D0%B0%D0%BD%D0%B4%D0%BE%D1%80%D1%8B_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0)"
+    },
+    {
+      "id": 204,
+      "wikidata_id": "Q108001406",
+      "name_ru": "грот Дианы (Пятигорск)",
+      "name_en": "Diana Grotto, Pyatigorsk",
+      "latitude": 44.035778,
+      "longitude": 43.081731,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 205,
+      "wikidata_id": "Q137971187",
+      "name_ru": "грот в Аптекарском огороде",
+      "name_en": "",
+      "latitude": 55.7792,
+      "longitude": 37.6345,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 206,
+      "wikidata_id": "Q133844630",
+      "name_ru": "грот в Летнем парке Кронштадта",
+      "name_en": "",
+      "latitude": 59.9888,
+      "longitude": 29.7776,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 207,
+      "wikidata_id": "Q110259433",
+      "name_ru": "пещера Андрусова",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D1%83%D1%81%D0%BE%D0%B2%D0%B0_(%D0%BF%D0%B5%D1%89%D0%B5%D1%80%D0%B0)"
+    }
+  ],
+  "meta": {
+    "title": "Пещеры России - Бесплатная загрузка",
+    "description": "Список географических объектов класса «пещера», расположенных в России. Источник — Wikidata через публичный SPARQL-эндпоинт (instance of/subclass of Q35509, страна Россия Q159). Для каждого объекта приведены русское название (rdfs:label@ru), английское название, географические координаты (WGS84, P625) и ссылка на статью русской Википедии. Записи отсортированы по алфавиту русского названия. Записи без русскоязычной (кириллической) этикетки отфильтрованы согласно правилу проекта о сохранении родного текста. Первый набор этого класса в русской коллекции. Всего 207 уникальных QID; координаты доступны для 164. Содержит 207 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Пещеры России | ListBase",
+    "seo_description": "Скачать Пещеры России — 207 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 207 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

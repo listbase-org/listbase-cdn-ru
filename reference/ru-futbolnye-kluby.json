@@ -1,0 +1,126 @@
+{
+  "id": "ru-futbolnye-kluby",
+  "name": "Российские футбольные клубы",
+  "title": "Российские футбольные клубы",
+  "description": "Football clubs in RU with founding year, stadium, city",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "number"
+    },
+    {
+      "key": "aliases",
+      "label": "Aliases",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Lokomotiv Moskva",
+      "founded": 1923,
+      "aliases": "Lokomotiv | FC Lokomotiv | FC Lokomotiv Moskva, Loko Moscow [en] | Lokomotiv Moscow [en] | FC Lokomotiv Moscow [en], Lokomotive Moskau [de] | Lok Moskau [de], FK Lokomotiv Moskva, Futbolniy Klub Lokomotiv (Moskva)"
+    },
+    {
+      "name": "PFC CSKA Moskva",
+      "founded": 1911,
+      "aliases": "CSKA | PFK CSCA | CSKA Moskva, CSKA Moscow [en] | PFC CSKA Moscow [en] | PFK CSKA Moscow [en], ZSKA Moskau [de], Professionalniy Futbolniy Klub Tsentralniy Sportivniy Klub Armii (Moskva)"
+    },
+    {
+      "name": "Dynamo Moskva",
+      "founded": 1923,
+      "aliases": "Dynamo | Dinamo | Dinamo Moskva | FC Dinamo Moskva, Dynamo Mosc [en] | Dynamo Moscow [en] | Dinamo Moscow [en] | FC Dynamo Moscow [en], Dinamo Moskau [de], Futbolniy Klub Dynamo (Moskva)"
+    },
+    {
+      "name": "FC Spartak Moskva",
+      "founded": 1922,
+      "aliases": "Spartak | FC Spartak | Spartak Moskva, Spartak Moscow [en] | FC Spartak Moscow [en], Spartak Moskau [de] | FC Spartak Moskau [de], FK Spartak Moskva, Futbolniy Klub Spartak (Moskva), Spartak Moskau II [de], Spartak Moskva 2, Spartak-2 Moscow, Moskva, FK Moskva, FC Moscow [en], Torpedo | FC Torpedo Moskva, T. Moscow [en] | Torpedo Moscow [en] | FC Torpedo Moscow [en], FC Torpedo Moskau [de], Torpedo Metallurg"
+    },
+    {
+      "name": "FC Chertanovo Moskva",
+      "founded": 1993,
+      "aliases": "Chertanovo Moscow [en] | FC Chertanovo Moscow [en], FC Chertanovo Mosk [de], FK Chertanovo Moskva"
+    },
+    {
+      "name": "FC Saturn Ramenskoye",
+      "founded": 1946,
+      "aliases": "FCSR | Saturn | FC Saturn, FK Saturn [de]"
+    },
+    {
+      "name": "Zenit St. Petersburg",
+      "founded": 1925,
+      "aliases": "Zenit | Zenit Petersb. | Zenit Petersburg | Zenit St. Peter | Zenit St. Petersb., Zenit Saint Petersburg, FC Zenit | FC Zenit St Petersburg | FC Zenit Saint Petersburg, FK Zenit Sankt-Petersburg | Zenit Sankt Petersburg, Futbolniy Klub Zenit (Sankt-Peterburg)"
+    },
+    {
+      "name": "PFC Sochi",
+      "founded": 2018,
+      "aliases": "Sochi | Professional Football Club Sochi, Professionalniy Futbolniy Klub Sochi, FC Sochi, FK Sochi [de]"
+    },
+    {
+      "name": "FC Rubin Kazan",
+      "founded": 1958,
+      "aliases": "Rubin | FC Rubin | Rubin Kazan, Futbolniy Klub Rubin (Kazan), Rubin Kasan [de]"
+    },
+    {
+      "name": "FC Amkar Perm",
+      "founded": 1994,
+      "aliases": "Amkar | Amkar Perm, FK Amkar Perm [de]"
+    },
+    {
+      "name": "FC Anzhi Makhachkala",
+      "founded": 1991,
+      "aliases": "Anzhi | Anzhi Makhachkala | FK Anzi Makhackala, Anji | FC Anji | FC Anji Makhachkala"
+    },
+    {
+      "name": "FK Dynamo Makhachkala",
+      "founded": 1927,
+      "aliases": "Dynamo Makhachkala, Sibir | Sibir' | FC Sibir, Sibir Novosibirsk, Alania | Alania Vladikavkaz, Alaniya, Samara, Krylya Sovetov | FK Krylya Sovetov Samara, Krylia Sovetov | Kryl'ia Sovetov | Krylia Sovetov Samara | PFC Krylia Sovetov Samara, Krylya Sovetov Samara, Kryliya Sovetov [de], Professionalniy Futbolniy Klub Krylia Sovetov (Samara), Arsenal | FC Arsenal Tula"
+    },
+    {
+      "name": "Chernomorets Novorosisk",
+      "founded": 1907,
+      "aliases": "Chernomorets, FC Chernomorets Novorossiysk, FC Chernomorets Novorossiisk, FC Chernomorets Krasnodarskiy Kray    # Novorossiysk is a city in Krasnodar Krai, Chernomorets Novorossisk, Khimki, FK Khimki [de], Krasnodar | Krasnodar Krasnodar, FK Krasnodar, Futbolniy Klub Krasnodar, FK Krasnodar 2, Krasnodar-2 | FC Krasnodar-2, Kuban | Kuban' | Kuban Krasnodar | FC Kuban Krasnodar, Baltika Kaliningrad | FC Baltika Kaliningrad, FK Baltika, Futbolniy Klub Baltika Kaliningrad, Luch | Luch-Energia | Luch Vladivostok, Luch Wladivostok [de], Mordovia | Mordovia Saransk | M. Saransk, Nalchik, Pari NN, Futbolniy Klub Pari Nizhny Novgorod, FC Pari Nizhny Novgorod, Nizhnii Novgorod, Nizhny Novgorod | FC Nizhny Novgorod, FK Nizhny Novgorod, Volga | Volga N. Novgorod, Volga Nyzhnyi, Volga Nizhniy Novgorod, Rostov | Rostov Rostov-on-Don | FK Rostov, Futbolniy Klub Rostov (Rostov-na-Donu), FK Rostow  [de], Rotor Volgograd | FC Rotor Volgograd, SC Rotor Volgograd, FC Rotor Wolgograd [de], Shinnik Yaroslavl, SKA-Energiia | SKA Energia | Energ. Khabarovsk, SKA-Energia Khabarovsk, FC SKA-Khabarovsk, Terek | FC Terek Grozny, Akhmat | FC Akhmat Grozny, FK Akhmat Grozny, FK Achmat Grozny [de], Republikanskiy Futbolniy Klub Akhmat (Grozny)"
+    },
+    {
+      "name": "Tom Tomsk",
+      "founded": 1957,
+      "aliases": "Tom | Tom' | Tomsk | FC Tom Tomsk, FK Tom Tomsk, FK Tosno, Ufa | Ufa Ufa, FK Ufa, Ural | FC Ural | FC Ural Yekaterinburg, FC Ural Sverdlovsk Oblast | Football Club Ural Sverdlovsk Oblast, FK Ural, Futbolniy Klub Ural, Ural Jekaterinburg [de]"
+    },
+    {
+      "name": "FC Tambov",
+      "founded": 2013,
+      "aliases": "Tambov, FK Tambov, FK Tambow, Orenburg | FK Orenburg, Gazovik Orenburg, Futbolniy Klub Orenburg, Spartak Vladikavkaz, FC Spartak Vladikavkaz, FC Yenisey | Yenisey Krasnoyarsk | FC Yenisey Krasnoyarsk, Enisey Krasnoyarsk, Avangard Kursk, Tekstilshchik, Tekstilshchik Ivanovo, FC Neftekhimik | FC Neftekhimik Nizhnekamsk, Chayka Peschanokopskoye | FC Chayka Peschanokopskoye, Fakel | Fakel Voronezh, Futbolniy Klub Fakel Voronezh, Fakel Worenesch [de]"
+    },
+    {
+      "name": "FC Armavir",
+      "founded": 1959,
+      "aliases": "Torpedo Armavir, FK Torpedo Armavir"
+    },
+    {
+      "name": "FC Tekstilshchik Kamyshin",
+      "founded": 1958,
+      "aliases": "Tekstilshchik, Tekstilshchik Kamyshin, Tekstilschik Kamyshin, FC Rotor Kamyshin, Kamyshin, FK Akron Togliatti"
+    }
+  ],
+  "meta": {
+    "title": "Российские футбольные клубы - Бесплатная загрузка",
+    "description": "Football clubs in RU with founding year, stadium, city Содержит 17 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Российские футбольные клубы | ListBase",
+    "seo_description": "Скачать Российские футбольные клубы — 17 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 17 записей / 3 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

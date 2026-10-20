@@ -1,0 +1,163 @@
+{
+  "id": "ru-krasnoyarsk-banki",
+  "name": "Банки — Krasnoyarsk (коды SWIFT/BIC)",
+  "title": "Банки — Krasnoyarsk (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in KRASNOYARSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 105,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "KRASNOYARSK",
+      "branch": "(KRASNOYARSK BRANCH)",
+      "swift_code": "MOBWRUM1KRS"
+    },
+    {
+      "id": 271,
+      "bank": "BANK SOYUZ",
+      "city": "KRASNOYARSK",
+      "branch": "(KRASNOYARSK BRANCH)",
+      "swift_code": "JCAMRUM1KRS"
+    },
+    {
+      "id": 334,
+      "bank": "CB YARBANK LIMITED",
+      "city": "KRASNOYARSK",
+      "branch": "",
+      "swift_code": "YARBRUM1"
+    },
+    {
+      "id": 373,
+      "bank": "COMMERCIAL BANK 'LANTA-BANK'",
+      "city": "KRASNOYARSK",
+      "branch": "(KRASNOYARSK BRANCH)",
+      "swift_code": "COLKRUMMKRA"
+    },
+    {
+      "id": 445,
+      "bank": "EVROFINANCE MOSNARBANK",
+      "city": "KRASNOYARSK",
+      "branch": "(KRASNOYARSK BRANCH)",
+      "swift_code": "EVRFRUM1KRS"
+    },
+    {
+      "id": 496,
+      "bank": "GAZPROMBANK (JOINT - STOCK COMPANY)",
+      "city": "KRASNOYARSK",
+      "branch": "(VOSTOCHNO-SIBIRSKY BRANCH)",
+      "swift_code": "GAZPRUMM034"
+    },
+    {
+      "id": 603,
+      "bank": "JOINT STOCK COMPANY BBR BANK",
+      "city": "KRASNOYARSK",
+      "branch": "(KRASNOYARSK BRANCH)",
+      "swift_code": "BADJRUM1KRS"
+    },
+    {
+      "id": 630,
+      "bank": "JOINT-STOCK INVESTMENT COMMERCIAL BANK ENISEISK UNITED BANK LTD",
+      "city": "KRASNOYARSK",
+      "branch": "",
+      "swift_code": "EUJKRU55"
+    },
+    {
+      "id": 704,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "KRASNOYARSK",
+      "branch": "(KRASNOYARSKY BRANCH)",
+      "swift_code": "RUAGRUM1049"
+    },
+    {
+      "id": 833,
+      "bank": "KLIENTSKY BANK",
+      "city": "KRASNOYARSK",
+      "branch": "(KRASNOYARSK BRANCH)",
+      "swift_code": "KLKORUM1KRS"
+    },
+    {
+      "id": 1116,
+      "bank": "PJSC ROSBANK",
+      "city": "KRASNOYARSK",
+      "branch": "(VOSTOCHNO-SIBIRSKIJ BRANCH)",
+      "swift_code": "RSBNRUM1KRY"
+    },
+    {
+      "id": 1229,
+      "bank": "ROST BANK",
+      "city": "KRASNOYARSK",
+      "branch": "(KRASNOYARSK BRANCH)",
+      "swift_code": "JORORU21KNB"
+    },
+    {
+      "id": 1302,
+      "bank": "SBERBANK",
+      "city": "KRASNOYARSK",
+      "branch": "(SIBIRSKY HEAD OFFICE)",
+      "swift_code": "SABRRUMMKR1"
+    },
+    {
+      "id": 1337,
+      "bank": "SDM-BANK PJSC",
+      "city": "KRASNOYARSK",
+      "branch": "(KRASNOYARSK BRANCH)",
+      "swift_code": "SJSCRUMMKRA"
+    },
+    {
+      "id": 1434,
+      "bank": "SVIAZ-BANK",
+      "city": "KRASNOYARSK",
+      "branch": "(KRASNOYARSK BRANCH)",
+      "swift_code": "SVIZRUMMKRS"
+    },
+    {
+      "id": 1588,
+      "bank": "VTB BANK (PJSC)",
+      "city": "KRASNOYARSK",
+      "branch": "(KRASNOYARSK BRANCH)",
+      "swift_code": "VTBRRUM2KRA"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Krasnoyarsk (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in KRASNOYARSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 16 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Krasnoyarsk (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Krasnoyarsk (коды SWIFT/BIC) — 16 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 16 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

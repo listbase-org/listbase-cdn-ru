@@ -1,0 +1,97 @@
+{
+  "id": "ru-mariy-el-respublika-goroda",
+  "name": "Города — Республика Марий Эл",
+  "title": "Города — Республика Марий Эл",
+  "description": "4 городов региона «Республика Марий Эл» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Волжск",
+      "population_thousands": 53.2,
+      "latitude": 55.8623156,
+      "longitude": 48.3715083,
+      "region_name": "Республика Марий Эл",
+      "region_iso_code": "RU-ME",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Звенигово",
+      "population_thousands": 10.9,
+      "latitude": 55.9738571,
+      "longitude": 48.0170245,
+      "region_name": "Республика Марий Эл",
+      "region_iso_code": "RU-ME",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Йошкар-Ола",
+      "population_thousands": 274.7,
+      "latitude": 56.6343662,
+      "longitude": 47.8999706,
+      "region_name": "Республика Марий Эл",
+      "region_iso_code": "RU-ME",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Козьмодемьянск",
+      "population_thousands": 20.1,
+      "latitude": 56.3334036,
+      "longitude": 46.546675,
+      "region_name": "Республика Марий Эл",
+      "region_iso_code": "RU-ME",
+      "federal_district": "Приволжский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Республика Марий Эл - Бесплатная загрузка",
+    "description": "4 городов региона «Республика Марий Эл» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 4 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Республика Марий Эл | ListBase",
+    "seo_description": "Скачать Города — Республика Марий Эл — 4 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 4 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

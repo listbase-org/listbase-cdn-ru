@@ -1,0 +1,8 @@
+﻿"Id","Ident","Type","Name","Latitude Deg","Longitude Deg","Elevation Ft","Continent","Iso Country","Iso Region","Region Local Code","Region Name","Municipality","Scheduled Service","Icao Code","Iata Code","Gps Code","Local Code","Home Link","Wikipedia Link","Keywords"
+"44978","RU-0235","small_airport","Akhty Airfield","41.4744544227","47.7015209198","","EU","RU","RU-DA","DA","Republic of Dagestan","","no","","","","","","",""
+"46248","RU-0377","small_airport","Makhachkala-1 Airfield","43.0126495066","47.4357461929","","EU","RU","RU-DA","DA","Republic of Dagestan","Makhachkala","no","","","","","","","Аэродром Махачкала-1"
+"46249","RU-0378","small_airport","Khunzakh Alart Airport","42.570339","46.729059","","EU","RU","RU-DA","DA","Republic of Dagestan","Khunzakh","no","","","","","","","Аэропорт Хунзах"
+"46250","RU-0379","heliport","Tlyarata Helipad","42.1167563323","46.3519728184","4921","EU","RU","RU-DA","DA","Republic of Dagestan","Tlyarata","no","","","","","","","Вертолётная площадка Тлярата"
+"351201","RU-0777","small_airport","Novokayakent Airport","42.33369","48.02926","-39","EU","RU","RU-DA","DA","Republic of Dagestan","Kichi-Istisu","no","","","","","","","Kurort Kayakent"
+"351202","RU-0778","heliport","Derbent Central City Hospital Heliport","42.02743","48.32866","-79","EU","RU","RU-DA","DA","Republic of Dagestan","Derbent","no","","","","","","",""
+"6513","URML","large_airport","Makhachkala Uytash International Airport","42.816799","47.652302","12","AS","RU","RU-DA","DA","Republic of Dagestan","Makhachkala","yes","URML","MCX","URML","","","https://en.wikipedia.org/wiki/Uytash_airport",""

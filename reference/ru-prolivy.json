@@ -1,0 +1,1933 @@
+{
+  "id": "ru-prolivy",
+  "name": "Проливы России",
+  "title": "Проливы России",
+  "description": "Список географических объектов класса «пролив», расположенных в России. Источник — Wikidata через публичный SPARQL-эндпоинт (instance of/subclass of Q37901, страна Россия Q159). Для каждого объекта приведены русское название (rdfs:label@ru), английское название, географические координаты (WGS84, P625) и ссылка на статью русской Википедии. Записи отсортированы по алфавиту русского названия. Записи без русскоязычной (кириллической) этикетки отфильтрованы согласно правилу проекта о сохранении родного текста. Всего 208 уникальных QID; координаты доступны для 208.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 208,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ru",
+      "label": "Name Ru",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ru",
+      "label": "Wikipedia Ru",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q4056130",
+      "name_ru": "Австрийский пролив",
+      "name_en": "Austrian Strait",
+      "latitude": 80.450673,
+      "longitude": 59.171579,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q2294354",
+      "name_ru": "Балтийский пролив",
+      "name_en": "Strait of Baltiysk",
+      "latitude": 54.641111,
+      "longitude": 19.878333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q31910994",
+      "name_ru": "Бардынинский Канал",
+      "name_en": "Bardyninskiy Kanal",
+      "latitude": 45.537778,
+      "longitude": 48.545278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q31913622",
+      "name_ru": "Белинский Канал",
+      "name_en": "Belinskiy Kanal",
+      "latitude": 46.012778,
+      "longitude": 48.739722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q11769",
+      "name_ru": "Берингов пролив",
+      "name_en": "Bering Strait",
+      "latitude": 65.75,
+      "longitude": -168.976944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q1108920",
+      "name_ru": "Благовещенский пролив",
+      "name_en": "Blagoveshchenskiy Proliv",
+      "latitude": 75.35611,
+      "longitude": 145.575,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q31918263",
+      "name_ru": "Большая Печора",
+      "name_en": "Bol'shaya Pechora",
+      "latitude": 67.855556,
+      "longitude": 53.286944,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q31918269",
+      "name_ru": "Большая Салымская Протока",
+      "name_en": "Bol'shaya Salymskaya Protoka",
+      "latitude": 61.2275,
+      "longitude": 70.210556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q715174",
+      "name_ru": "Босфор Восточный",
+      "name_en": "Eastern Bosphorus",
+      "latitude": 43.066667,
+      "longitude": 131.9,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D1%84%D0%BE%D1%80_%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q57956144",
+      "name_ru": "Британский канал",
+      "name_en": "British Channel",
+      "latitude": 80.813611,
+      "longitude": 52.303611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q11401719",
+      "name_ru": "Буссоль",
+      "name_en": "Bussol Strait",
+      "latitude": 46.695833,
+      "longitude": 151.351667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%81%D1%81%D0%BE%D0%BB%D1%8C_(%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2)"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q4101364",
+      "name_ru": "Бьёркезунд",
+      "name_en": "Björkösund",
+      "latitude": 60.379444,
+      "longitude": 28.567222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D1%8C%D1%91%D1%80%D0%BA%D0%B5%D0%B7%D1%83%D0%BD%D0%B4"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q37962074",
+      "name_ru": "Восточный пролив",
+      "name_en": "Proliv Vostochnyy",
+      "latitude": 76.191667,
+      "longitude": 96.671944,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q37962776",
+      "name_ru": "Восточный пролив",
+      "name_en": "Vostochnyy",
+      "latitude": 79.481111,
+      "longitude": 93.025833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q34860893",
+      "name_ru": "Восточный пролив",
+      "name_en": "Vostochnyy proliv",
+      "latitude": 69.492,
+      "longitude": 32.5424,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q34860921",
+      "name_ru": "Восточный пролив",
+      "name_en": "Vostochnyy Proliv",
+      "latitude": 74.104444,
+      "longitude": 111.975833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q12159066",
+      "name_ru": "Восточный пролив (Восточно-Сибирское море)",
+      "name_en": "Vostochny Strait",
+      "latitude": 70.67389,
+      "longitude": 162.00083,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_(%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%BE-%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5)"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q233274",
+      "name_ru": "Второй Курильский пролив",
+      "name_en": "Second Kuril Strait",
+      "latitude": 50.682222,
+      "longitude": 156.160833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%BE%D0%B9_%D0%9A%D1%83%D1%80%D0%B8%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q18660095",
+      "name_ru": "Гвардейский пролив",
+      "name_en": "",
+      "latitude": 60.739867,
+      "longitude": 28.690796,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q34858207",
+      "name_ru": "Гирло Ясенское",
+      "name_en": "Girlo Yasenskoye",
+      "latitude": 46.25,
+      "longitude": 38.289167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q84282",
+      "name_ru": "Гнилой Ручей",
+      "name_en": "Gniloy Ruchey",
+      "latitude": 53.098611,
+      "longitude": 49.467778,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%BD%D0%B8%D0%BB%D0%BE%D0%B9_%D0%A0%D1%83%D1%87%D0%B5%D0%B9"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q34859689",
+      "name_ru": "Горло",
+      "name_en": "Proliv Gorlo",
+      "latitude": 76.2575,
+      "longitude": 96.976667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q2045984",
+      "name_ru": "Горло Белого моря",
+      "name_en": "White Sea Throat",
+      "latitude": 66.15,
+      "longitude": 40.333333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%BB%D0%BE_%D0%91%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D1%80%D1%8F"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q37805487",
+      "name_ru": "Губа Горелая",
+      "name_en": "",
+      "latitude": 66.733333,
+      "longitude": 32.833333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q37806491",
+      "name_ru": "Губа Яндово",
+      "name_en": "",
+      "latitude": 64.629444,
+      "longitude": 39.812222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q1109819",
+      "name_ru": "Гыданский пролив",
+      "name_en": "Proliv Gydanskiy",
+      "latitude": 72.841944,
+      "longitude": 74.765278,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D1%8B%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q12106158",
+      "name_ru": "Западная Соловецкая Салма",
+      "name_en": "Zapadnaya Solovetskaya Salma",
+      "latitude": 65.021111,
+      "longitude": 35.338889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q1116598",
+      "name_ru": "Заря",
+      "name_en": "Proliv Zarya",
+      "latitude": 75.54389,
+      "longitude": 136.59222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D1%80%D1%8F_(%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2)"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q4211807",
+      "name_ru": "Камчатский пролив",
+      "name_en": "Kamchatka Strait",
+      "latitude": 55.65,
+      "longitude": 164.55,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D1%87%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q194398",
+      "name_ru": "Карские Ворота",
+      "name_en": "Kara Strait",
+      "latitude": 70.505108,
+      "longitude": 57.982177,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B5_%D0%92%D0%BE%D1%80%D0%BE%D1%82%D0%B0"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q187890",
+      "name_ru": "Керченский пролив",
+      "name_en": "Strait of Kerch",
+      "latitude": 45.35,
+      "longitude": 36.65,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q34970848",
+      "name_ru": "Кивров Пролив",
+      "name_en": "Kivrov Proliv",
+      "latitude": 63.548889,
+      "longitude": 34.804167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q4220293",
+      "name_ru": "Кижский пролив",
+      "name_en": "Kizhsky Strait",
+      "latitude": 62.01472,
+      "longitude": 35.19194,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%B6%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q513755",
+      "name_ru": "Кильдинский пролив",
+      "name_en": "Kildin Strait",
+      "latitude": 69.305556,
+      "longitude": 34.161111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BB%D1%8C%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q12111631",
+      "name_ru": "Колымский пролив",
+      "name_en": "Kolyma Strait",
+      "latitude": 70.75,
+      "longitude": 160.083333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q2128530",
+      "name_ru": "Костин Шар",
+      "name_en": "Kostin Shar",
+      "latitude": 71.424167,
+      "longitude": 52.382778,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B8%D0%BD_%D0%A8%D0%B0%D1%80"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q18660583",
+      "name_ru": "Крепостной пролив",
+      "name_en": "",
+      "latitude": 60.714444,
+      "longitude": 28.727222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q1345493",
+      "name_ru": "Кунаширский пролив",
+      "name_en": "Nemuro Strait",
+      "latitude": 44.014444,
+      "longitude": 145.411111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BD%D0%B0%D1%88%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q90893054",
+      "name_ru": "Луусалми (пролив)",
+      "name_en": "Luusalmi",
+      "latitude": 65.059444,
+      "longitude": 31.586389,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D1%83%D1%83%D1%81%D0%B0%D0%BB%D0%BC%D0%B8_(%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2)"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q2045047",
+      "name_ru": "Малое Море",
+      "name_en": "Small Sea Strait",
+      "latitude": 53.25,
+      "longitude": 107.25028,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%BE%D0%B5_%D0%9C%D0%BE%D1%80%D0%B5"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q34971490",
+      "name_ru": "Малое Онего",
+      "name_en": "Maloye Onego",
+      "latitude": 62.105833,
+      "longitude": 35.358611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q34860203",
+      "name_ru": "Малый Олений пролив",
+      "name_en": "Malyy Oleniy Proliv",
+      "latitude": 69.242778,
+      "longitude": 34.723611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q18401708",
+      "name_ru": "Малый Чаунский пролив",
+      "name_en": "Maly Chaunsky Strait",
+      "latitude": 69.64139,
+      "longitude": 168.17194,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%A7%D0%B0%D1%83%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q908356",
+      "name_ru": "Маточкин Шар",
+      "name_en": "Matochkin Strait",
+      "latitude": 73.388611,
+      "longitude": 55.215556,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%BE%D1%87%D0%BA%D0%B8%D0%BD_%D0%A8%D0%B0%D1%80"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q37959414",
+      "name_ru": "Моржовская Салма",
+      "name_en": "Morzhovskaya Salma",
+      "latitude": 66.618333,
+      "longitude": 42.419167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q37963993",
+      "name_ru": "Мурманец",
+      "name_en": "Proliv Murmanets",
+      "latitude": 76.302778,
+      "longitude": 113.452222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q96621143",
+      "name_ru": "Мурманец",
+      "name_en": "Murmanets Strait",
+      "latitude": 74.363187,
+      "longitude": 59.14619,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q37959973",
+      "name_ru": "Мурманец",
+      "name_en": "Proliv Murmanets",
+      "latitude": 79.948056,
+      "longitude": 58.889722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q4334364",
+      "name_ru": "Ольхонские Ворота",
+      "name_en": "Olkhon Gate",
+      "latitude": 53.016667,
+      "longitude": 106.916667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BB%D1%8C%D1%85%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%92%D0%BE%D1%80%D0%BE%D1%82%D0%B0"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q4347731",
+      "name_ru": "Певек (пролив)",
+      "name_en": "Proliv Pevek",
+      "latitude": 69.71166,
+      "longitude": 170.21905,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%B2%D0%B5%D0%BA_(%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2)"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q1337663",
+      "name_ru": "Первый Курильский пролив",
+      "name_en": "Kuril Strait",
+      "latitude": 50.835556,
+      "longitude": 156.584722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%9A%D1%83%D1%80%D0%B8%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q4371754",
+      "name_ru": "Поморский пролив",
+      "name_en": "Pomorsky Strait",
+      "latitude": 68.533333,
+      "longitude": 49.833333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q34858956",
+      "name_ru": "Порожков",
+      "name_en": "Porozhkov",
+      "latitude": 66.716667,
+      "longitude": 34.133333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q4380564",
+      "name_ru": "Пролив Адмирала Кузнецова",
+      "name_en": "Admiral Kuznetsov Strait",
+      "latitude": 54.775278,
+      "longitude": 167.113889,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%90%D0%B4%D0%BC%D0%B8%D1%80%D0%B0%D0%BB%D0%B0_%D0%9A%D1%83%D0%B7%D0%BD%D0%B5%D1%86%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q34859038",
+      "name_ru": "Пролив Алаид",
+      "name_en": "Proliv Alaid",
+      "latitude": 50.75,
+      "longitude": 155.75,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q34859080",
+      "name_ru": "Пролив Амурский",
+      "name_en": "Proliv Amurskiy",
+      "latitude": 42.896389,
+      "longitude": 131.690278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q34859134",
+      "name_ru": "Пролив Аскольд",
+      "name_en": "Proliv Askol'd",
+      "latitude": 42.796111,
+      "longitude": 132.357222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q727885",
+      "name_ru": "Пролив Вилькицкого",
+      "name_en": "Vilkitsky Strait",
+      "latitude": 77.961944,
+      "longitude": 103.447222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%92%D0%B8%D0%BB%D1%8C%D0%BA%D0%B8%D1%86%D0%BA%D0%BE%D0%B3%D0%BE"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q26914338",
+      "name_ru": "Пролив Воейкова",
+      "name_en": "Voeikov Strait",
+      "latitude": 43.45,
+      "longitude": 146.11667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%92%D0%BE%D0%B5%D0%B9%D0%BA%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q12159063",
+      "name_ru": "Пролив Восточная Соловецкая Салма",
+      "name_en": "Proliv Vostochnaya Solovetskaya Salma",
+      "latitude": 65.04,
+      "longitude": 36.413611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q34859608",
+      "name_ru": "Пролив Гернета",
+      "name_en": "Gernet Strait",
+      "latitude": 75.666667,
+      "longitude": 82,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q24935171",
+      "name_ru": "Пролив Головнина",
+      "name_en": "Proliv Golovnina",
+      "latitude": 48.2,
+      "longitude": 153.22944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%BD%D0%B0"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q2659631",
+      "name_ru": "Пролив Дианы",
+      "name_en": "Diana Strait",
+      "latitude": 47.25,
+      "longitude": 152.333333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%94%D0%B8%D0%B0%D0%BD%D1%8B"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q1149827",
+      "name_ru": "Пролив Дмитрия Лаптева",
+      "name_en": "Dmitry Laptev Strait",
+      "latitude": 73.083333,
+      "longitude": 140.616667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D1%8F_%D0%9B%D0%B0%D0%BF%D1%82%D0%B5%D0%B2%D0%B0"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q3063956",
+      "name_ru": "Пролив Евгенова",
+      "name_en": "Yevgenov Strait",
+      "latitude": 78.3575,
+      "longitude": 105.388056,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q18623094",
+      "name_ru": "Пролив Евреинова",
+      "name_en": "Proliv Yevreinova",
+      "latitude": 49.598056,
+      "longitude": 154.568056,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%95%D0%B2%D1%80%D0%B5%D0%B8%D0%BD%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q659608",
+      "name_ru": "Пролив Екатерины",
+      "name_en": "Yekaterina Strait",
+      "latitude": 44.416667,
+      "longitude": 146.75,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D1%8B"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q37954440",
+      "name_ru": "Пролив Железные Ворота",
+      "name_en": "Proliv Zheleznyye Vorota",
+      "latitude": 64.98056,
+      "longitude": 40.1925,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q12104504",
+      "name_ru": "Пролив Жижгинская Салма",
+      "name_en": "Proliv Zhizhginskaya Salma",
+      "latitude": 65.189722,
+      "longitude": 36.9275,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q2323744",
+      "name_ru": "Пролив Красной Армии",
+      "name_en": "Red Army Strait",
+      "latitude": 80.123056,
+      "longitude": 95.031667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B9_%D0%90%D1%80%D0%BC%D0%B8%D0%B8"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q18623146",
+      "name_ru": "Пролив Креницына",
+      "name_en": "Krenitsyn Strait",
+      "latitude": 49.216667,
+      "longitude": 154.6,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%9A%D1%80%D0%B5%D0%BD%D0%B8%D1%86%D1%8B%D0%BD%D0%B0"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q1790287",
+      "name_ru": "Пролив Крузенштерна",
+      "name_en": "Krusenstern Strait",
+      "latitude": 48.393611,
+      "longitude": 153.561389,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%9A%D1%80%D1%83%D0%B7%D0%B5%D0%BD%D1%88%D1%82%D0%B5%D1%80%D0%BD%D0%B0"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q4380569",
+      "name_ru": "Пролив Курочкина",
+      "name_en": "Kurochkin Strait",
+      "latitude": 73.8025,
+      "longitude": 84.705833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%9A%D1%83%D1%80%D0%BE%D1%87%D0%BA%D0%B8%D0%BD%D0%B0"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q34860022",
+      "name_ru": "Пролив Лаврова",
+      "name_en": "Proliv Lavrova",
+      "latitude": 80.126944,
+      "longitude": 58.752778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q34860010",
+      "name_ru": "Пролив Ландина",
+      "name_en": "Proliv Landina",
+      "latitude": 75.587222,
+      "longitude": 90.055556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q208054",
+      "name_ru": "Пролив Лаперуза",
+      "name_en": "La Pérouse Strait",
+      "latitude": 45.722222,
+      "longitude": 142.026667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%9B%D0%B0%D0%BF%D0%B5%D1%80%D1%83%D0%B7%D0%B0"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q34860071",
+      "name_ru": "Пролив Левашова",
+      "name_en": "Proliv Levashova",
+      "latitude": 50.511944,
+      "longitude": 156.215,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q34860034",
+      "name_ru": "Пролив Ледяной",
+      "name_en": "Proliv Ledyanoy",
+      "latitude": 76.141667,
+      "longitude": 93.8875,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q34860046",
+      "name_ru": "Пролив Ленина",
+      "name_en": "Proliv Lenina",
+      "latitude": 76.415,
+      "longitude": 95.998333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q34860059",
+      "name_ru": "Пролив Ленинградцев",
+      "name_en": "Proliv Leningradtsev",
+      "latitude": 74.833333,
+      "longitude": 86.25,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q34860082",
+      "name_ru": "Пролив Ли-Смита",
+      "name_en": "Proliv Li-Smita",
+      "latitude": 80.979722,
+      "longitude": 50.353889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q25104181",
+      "name_ru": "Пролив Линдгольма",
+      "name_en": "Lindholm Strait",
+      "latitude": 54.343056,
+      "longitude": 137.610833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q2465210",
+      "name_ru": "Пролив Литке",
+      "name_en": "Lütke Strait",
+      "latitude": 59,
+      "longitude": 163.416944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%9B%D0%B8%D1%82%D0%BA%D0%B5"
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q34860096",
+      "name_ru": "Пролив Лихачёва",
+      "name_en": "Proliv Likhachëva",
+      "latitude": 59.208611,
+      "longitude": 148.999722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%9B%D0%B8%D1%85%D0%B0%D1%87%D1%91%D0%B2%D0%B0"
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q2360602",
+      "name_ru": "Пролив Лонга",
+      "name_en": "Long Strait",
+      "latitude": 70.166667,
+      "longitude": 178.166667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%9B%D0%BE%D0%BD%D0%B3%D0%B0"
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q34860136",
+      "name_ru": "Пролив Лопатинский Проход",
+      "name_en": "Proliv Lopatinskiy Prokhod",
+      "latitude": 43.894722,
+      "longitude": 47.688333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q1277636",
+      "name_ru": "Пролив Лужина",
+      "name_en": "Luzhin Strait",
+      "latitude": 50.216667,
+      "longitude": 155.116667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%9B%D1%83%D0%B6%D0%B8%D0%BD%D0%B0"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q34860269",
+      "name_ru": "Пролив Майерса",
+      "name_en": "Proliv Mayyersa",
+      "latitude": 80.055833,
+      "longitude": 50.454444,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q34860162",
+      "name_ru": "Пролив Малая Ворота",
+      "name_en": "Proliv Malaya Vorota",
+      "latitude": 67.802222,
+      "longitude": 40.555556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q2246879",
+      "name_ru": "Пролив Малыгина",
+      "name_en": "Malygin Strait",
+      "latitude": 72.96,
+      "longitude": 69.98,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%9C%D0%B0%D0%BB%D1%8B%D0%B3%D0%B8%D0%BD%D0%B0"
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q34860215",
+      "name_ru": "Пролив Малые Ворота",
+      "name_en": "Proliv Malyye Vorota",
+      "latitude": 68.07361,
+      "longitude": 39.5575,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q34860174",
+      "name_ru": "Пролив Малый",
+      "name_en": "Proliv Malyy",
+      "latitude": 78.185,
+      "longitude": 106.775278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q34860148",
+      "name_ru": "Пролив Мальцева",
+      "name_en": "Proliv Mal'tseva",
+      "latitude": 76.215,
+      "longitude": 99.079722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q34860228",
+      "name_ru": "Пролив Маркациман-Сари",
+      "name_en": "Proliv Markatsiman-Sari",
+      "latitude": 61.616667,
+      "longitude": 30.75,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q60789473",
+      "name_ru": "Пролив Маркема",
+      "name_en": "Markham Sound",
+      "latitude": 80.523333,
+      "longitude": 56.208056,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D0%BC%D0%B0"
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q34860255",
+      "name_ru": "Пролив Матисена",
+      "name_en": "Proliv Matisena",
+      "latitude": 76.366667,
+      "longitude": 95.833333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q12145118",
+      "name_ru": "Пролив Мелехова",
+      "name_en": "Proliv Melekhova",
+      "latitude": 70.836944,
+      "longitude": 161.111944,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q34860296",
+      "name_ru": "Пролив Мелкий",
+      "name_en": "Proliv Melkiy",
+      "latitude": 76.625,
+      "longitude": 94.801944,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 99,
+      "wikidata_id": "Q34860309",
+      "name_ru": "Пролив Меллениуса",
+      "name_en": "Proliv Melleniusa",
+      "latitude": 80.325278,
+      "longitude": 52.585278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 100,
+      "wikidata_id": "Q34860337",
+      "name_ru": "Пролив Минина",
+      "name_en": "Proliv Minina",
+      "latitude": 73.408056,
+      "longitude": 80.570833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 101,
+      "wikidata_id": "Q34860323",
+      "name_ru": "Пролив Михеева",
+      "name_en": "Proliv Mikheyeva",
+      "latitude": 77.654167,
+      "longitude": 101.3525,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 102,
+      "wikidata_id": "Q37963991",
+      "name_ru": "Пролив Мод",
+      "name_en": "Proliv Mod",
+      "latitude": 76.406667,
+      "longitude": 113.039722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 103,
+      "wikidata_id": "Q37961706",
+      "name_ru": "Пролив Моргана",
+      "name_en": "Proliv Morgana",
+      "latitude": 80.843333,
+      "longitude": 62.3375,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 104,
+      "wikidata_id": "Q37961703",
+      "name_ru": "Пролив Морозова",
+      "name_en": "Proliv Morozova",
+      "latitude": 69.829167,
+      "longitude": 61.201111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 105,
+      "wikidata_id": "Q37959969",
+      "name_ru": "Пролив Моряна",
+      "name_en": "Proliv Moryana",
+      "latitude": 80.128611,
+      "longitude": 59.729444,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 106,
+      "wikidata_id": "Q37962781",
+      "name_ru": "Пролив Москва",
+      "name_en": "Proliv Moskva",
+      "latitude": 72.316944,
+      "longitude": 81.048611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 107,
+      "wikidata_id": "Q37961700",
+      "name_ru": "Пролив Мутный Шар",
+      "name_en": "Proliv Mutnyy Shar",
+      "latitude": 70.351389,
+      "longitude": 67.115278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 108,
+      "wikidata_id": "Q37962070",
+      "name_ru": "Пролив Мушкетова",
+      "name_en": "Proliv Mushketova",
+      "latitude": 75.964167,
+      "longitude": 92.7825,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 109,
+      "wikidata_id": "Q996807",
+      "name_ru": "Пролив Надежды",
+      "name_en": "Nadezhda Strait",
+      "latitude": 47.91,
+      "longitude": 153.137222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%9D%D0%B0%D0%B4%D0%B5%D0%B6%D0%B4%D1%8B"
+    },
+    {
+      "id": 110,
+      "wikidata_id": "Q37959409",
+      "name_ru": "Пролив Найтингейл",
+      "name_en": "Proliv Naytingeyl",
+      "latitude": 80.162778,
+      "longitude": 49.328333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 111,
+      "wikidata_id": "Q37963988",
+      "name_ru": "Пролив Находка",
+      "name_en": "Proliv Nakhodka",
+      "latitude": 43.014167,
+      "longitude": 131.770556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 112,
+      "wikidata_id": "Q715487",
+      "name_ru": "Пролив Невельского",
+      "name_en": "Nevelskoy Strait",
+      "latitude": 52.170281,
+      "longitude": 141.605281,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%9D%D0%B5%D0%B2%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE"
+    },
+    {
+      "id": 113,
+      "wikidata_id": "Q37959406",
+      "name_ru": "Пролив Негри",
+      "name_en": "Proliv Negri",
+      "latitude": 80.251389,
+      "longitude": 57.242222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 114,
+      "wikidata_id": "Q37962092",
+      "name_ru": "Пролив Незаметный",
+      "name_en": "Proliv Nezametnyy",
+      "latitude": 76.681667,
+      "longitude": 94.502778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 115,
+      "wikidata_id": "Q37959403",
+      "name_ru": "Пролив Неймайера",
+      "name_en": "Proliv Neymayyera",
+      "latitude": 81.660833,
+      "longitude": 58.465833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 116,
+      "wikidata_id": "Q37959979",
+      "name_ru": "Пролив Нижний Шар",
+      "name_en": "Proliv Nizhniy Shar",
+      "latitude": 68.495,
+      "longitude": 51.554722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 117,
+      "wikidata_id": "Q37960032",
+      "name_ru": "Пролив Низкобережный",
+      "name_en": "Proliv Nizkoberezhnyy",
+      "latitude": 81.0975,
+      "longitude": 58.475556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 118,
+      "wikidata_id": "Q37959400",
+      "name_ru": "Пролив Никольский Шар",
+      "name_en": "Proliv Nikol'skiy Shar",
+      "latitude": 70.552222,
+      "longitude": 57.061667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 119,
+      "wikidata_id": "Q37968665",
+      "name_ru": "Пролив Новая Промоина",
+      "name_en": "Proliv Novaya Promoina",
+      "latitude": 65.011389,
+      "longitude": 40.1775,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 120,
+      "wikidata_id": "Q37964005",
+      "name_ru": "Пролив Новый",
+      "name_en": "Proliv Novyy",
+      "latitude": 76.741111,
+      "longitude": 110.722222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 121,
+      "wikidata_id": "Q37959397",
+      "name_ru": "Пролив Норденшельд",
+      "name_en": "Proliv Nordenshel'd",
+      "latitude": 80.2,
+      "longitude": 57.75,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 122,
+      "wikidata_id": "Q37959388",
+      "name_ru": "Пролив Ньюкомба",
+      "name_en": "Proliv N'yukomba",
+      "latitude": 80.473333,
+      "longitude": 54.773056,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 123,
+      "wikidata_id": "Q37961694",
+      "name_ru": "Пролив Олений",
+      "name_en": "Proliv Oleniy",
+      "latitude": 72.383333,
+      "longitude": 78.333333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 124,
+      "wikidata_id": "Q37959384",
+      "name_ru": "Пролив Орловская Салма",
+      "name_en": "Proliv Orlovskaya Salma",
+      "latitude": 67.177778,
+      "longitude": 41.553056,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 125,
+      "wikidata_id": "Q37963999",
+      "name_ru": "Пролив Орто-Ары",
+      "name_en": "Proliv Orto-Ary",
+      "latitude": 73.426944,
+      "longitude": 118.746944,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 126,
+      "wikidata_id": "Q37962077",
+      "name_ru": "Пролив Паландера",
+      "name_en": "Proliv Palandera",
+      "latitude": 76.205833,
+      "longitude": 95.270833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 127,
+      "wikidata_id": "Q37959358",
+      "name_ru": "Пролив Палосарен-Селькя",
+      "name_en": "Proliv Palosaren-Sel'kya",
+      "latitude": 61.6,
+      "longitude": 30.65,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 128,
+      "wikidata_id": "Q37959306",
+      "name_ru": "Пролив Партиалан-Салми",
+      "name_en": "Proliv Partialan-Salmi",
+      "latitude": 60.35,
+      "longitude": 28.533333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 129,
+      "wikidata_id": "Q37959905",
+      "name_ru": "Пролив Пахтусова",
+      "name_en": "Proliv Pakhtusova",
+      "latitude": 75.857222,
+      "longitude": 58.813889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 130,
+      "wikidata_id": "Q37963573",
+      "name_ru": "Пролив Петра",
+      "name_en": "Proliv Petra",
+      "latitude": 76.465556,
+      "longitude": 112.303333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 131,
+      "wikidata_id": "Q37959097",
+      "name_ru": "Пролив Петуховский Шар",
+      "name_en": "Proliv Petukhovskiy Shar",
+      "latitude": 70.567778,
+      "longitude": 56.480278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 132,
+      "wikidata_id": "Q12140383",
+      "name_ru": "Пролив Печаковская Салма",
+      "name_en": "Proliv Pechakovskaya Salma",
+      "latitude": 64.986389,
+      "longitude": 35.693611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 133,
+      "wikidata_id": "Q37963567",
+      "name_ru": "Пролив Пионер",
+      "name_en": "Proliv Pioner",
+      "latitude": 74.309167,
+      "longitude": 111.356111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 134,
+      "wikidata_id": "Q24935072",
+      "name_ru": "Пролив Полонского",
+      "name_en": "Polonsky Strait",
+      "latitude": 43.56083,
+      "longitude": 146.24944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%9F%D0%BE%D0%BB%D0%BE%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE"
+    },
+    {
+      "id": 135,
+      "wikidata_id": "Q37958926",
+      "name_ru": "Пролив Пондорф",
+      "name_en": "Proliv Pondorf",
+      "latitude": 80.656389,
+      "longitude": 57.483889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 136,
+      "wikidata_id": "Q37961604",
+      "name_ru": "Пролив Превен",
+      "name_en": "Proliv Preven",
+      "latitude": 73.5,
+      "longitude": 80.5,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 137,
+      "wikidata_id": "Q37959460",
+      "name_ru": "Пролив Прямая Салма",
+      "name_en": "Proliv Pryamaya Salma",
+      "latitude": 66.29779,
+      "longitude": 33.85471,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 138,
+      "wikidata_id": "Q37958745",
+      "name_ru": "Пролив Пукша",
+      "name_en": "Proliv Puksha",
+      "latitude": 63.483333,
+      "longitude": 34.6,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 139,
+      "wikidata_id": "Q37962100",
+      "name_ru": "Пролив Пятидесятилетия Диксона",
+      "name_en": "Dixon's Fiftieth Anniversary Strait",
+      "latitude": 76.821667,
+      "longitude": 97.185,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 140,
+      "wikidata_id": "Q4380566",
+      "name_ru": "Пролив Радзеевского",
+      "name_en": "Radzeevsky Strait",
+      "latitude": 76.590278,
+      "longitude": 95.563611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%A0%D0%B0%D0%B4%D0%B7%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE"
+    },
+    {
+      "id": 141,
+      "wikidata_id": "Q37962067",
+      "name_ru": "Пролив Расторгуева",
+      "name_en": "Proliv Rastorguyeva",
+      "latitude": 75.9575,
+      "longitude": 96.856944,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 142,
+      "wikidata_id": "Q4380568",
+      "name_ru": "Пролив Рикорда",
+      "name_en": "Rikord Strait",
+      "latitude": 47.416667,
+      "longitude": 152.683333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%A0%D0%B8%D0%BA%D0%BE%D1%80%D0%B4%D0%B0"
+    },
+    {
+      "id": 143,
+      "wikidata_id": "Q37958601",
+      "name_ru": "Пролив Роберта Пила",
+      "name_en": "Proliv Roberta Pila",
+      "latitude": 80.579167,
+      "longitude": 53.687778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 144,
+      "wikidata_id": "Q37958583",
+      "name_ru": "Пролив Родса",
+      "name_en": "Proliv Rodsa",
+      "latitude": 80.897778,
+      "longitude": 57.155278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 145,
+      "wikidata_id": "Q37959772",
+      "name_ru": "Пролив Русанова",
+      "name_en": "Proliv Rusanova",
+      "latitude": 70.570556,
+      "longitude": 56.603889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 146,
+      "wikidata_id": "Q37960034",
+      "name_ru": "Пролив Руслан",
+      "name_en": "Proliv Ruslan",
+      "latitude": 81.2675,
+      "longitude": 59.551667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 147,
+      "wikidata_id": "Q37960041",
+      "name_ru": "Пролив Садко",
+      "name_en": "Proliv Sadko",
+      "latitude": 80.434444,
+      "longitude": 55.031389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 148,
+      "wikidata_id": "Q1269880",
+      "name_ru": "Пролив Санникова",
+      "name_en": "Sannikov Strait",
+      "latitude": 74.5,
+      "longitude": 140,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%A1%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 149,
+      "wikidata_id": "Q37961514",
+      "name_ru": "Пролив Сарса",
+      "name_en": "Proliv Sarsa",
+      "latitude": 81.605,
+      "longitude": 62.305833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 150,
+      "wikidata_id": "Q37964023",
+      "name_ru": "Пролив Свободной Кубы",
+      "name_en": "Free Cuba Strait",
+      "latitude": 77.336667,
+      "longitude": 106.510278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 151,
+      "wikidata_id": "Q12374923",
+      "name_ru": "Пролив Севергина",
+      "name_en": "Proliv Severgina",
+      "latitude": 48.999722,
+      "longitude": 154.333333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%B3%D0%B8%D0%BD%D0%B0"
+    },
+    {
+      "id": 152,
+      "wikidata_id": "Q37962213",
+      "name_ru": "Пролив Северо-Восточный",
+      "name_en": "Proliv Severo-Vostochnyy",
+      "latitude": 81.453056,
+      "longitude": 61.669167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 153,
+      "wikidata_id": "Q37962065",
+      "name_ru": "Пролив Семёнова",
+      "name_en": "Proliv Semënova",
+      "latitude": 75.794167,
+      "longitude": 92.806389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 154,
+      "wikidata_id": "Q4380573",
+      "name_ru": "Пролив Сенявина",
+      "name_en": "Senyavin Strait",
+      "latitude": 64.7761,
+      "longitude": -172.636,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%A1%D0%B5%D0%BD%D1%8F%D0%B2%D0%B8%D0%BD%D0%B0"
+    },
+    {
+      "id": 155,
+      "wikidata_id": "Q37960038",
+      "name_ru": "Пролив Сидорова",
+      "name_en": "Proliv Sidorova",
+      "latitude": 80.354722,
+      "longitude": 55.274444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%A1%D0%B8%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 156,
+      "wikidata_id": "Q37957512",
+      "name_ru": "Пролив Скотт-Келти",
+      "name_en": "Proliv Skott-Kelti",
+      "latitude": 81.376944,
+      "longitude": 58.543889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 157,
+      "wikidata_id": "Q37962807",
+      "name_ru": "Пролив Скуратова",
+      "name_en": "Proliv Skuratova",
+      "latitude": 73.436944,
+      "longitude": 80.266111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 158,
+      "wikidata_id": "Q37957490",
+      "name_ru": "Пролив Смицона",
+      "name_en": "Proliv Smitsona",
+      "latitude": 80.236944,
+      "longitude": 54.061944,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 159,
+      "wikidata_id": "Q2659621",
+      "name_ru": "Пролив Сноу",
+      "name_en": "Snou Strait",
+      "latitude": 46.4925,
+      "longitude": 150.827,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%A1%D0%BD%D0%BE%D1%83"
+    },
+    {
+      "id": 160,
+      "wikidata_id": "Q37960289",
+      "name_ru": "Пролив Соностровская Салма",
+      "name_en": "Proliv Sonostrovskaya Salma",
+      "latitude": 66.159444,
+      "longitude": 34.247778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 161,
+      "wikidata_id": "Q37957296",
+      "name_ru": "Пролив Сосновская Салма",
+      "name_en": "Proliv Sosnovskaya Salma",
+      "latitude": 66.492222,
+      "longitude": 40.633889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 162,
+      "wikidata_id": "Q37962097",
+      "name_ru": "Пролив Спокойный",
+      "name_en": "Proliv Spokoynyy",
+      "latitude": 76.783056,
+      "longitude": 97.587778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 163,
+      "wikidata_id": "Q37964428",
+      "name_ru": "Пролив Среднего",
+      "name_en": "Proliv Srednego",
+      "latitude": 47.63715,
+      "longitude": 152.93313,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 164,
+      "wikidata_id": "Q37964581",
+      "name_ru": "Пролив Средний",
+      "name_en": "Proliv Sredniy",
+      "latitude": 69.719167,
+      "longitude": 169.747222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 165,
+      "wikidata_id": "Q37963370",
+      "name_ru": "Пролив Старка",
+      "name_en": "Proliv Starka",
+      "latitude": 42.980278,
+      "longitude": 131.746111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 166,
+      "wikidata_id": "Q37964028",
+      "name_ru": "Пролив Створ",
+      "name_en": "Proliv Stvor",
+      "latitude": 77.153056,
+      "longitude": 100.226111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 167,
+      "wikidata_id": "Q4380571",
+      "name_ru": "Пролив Стерлегова",
+      "name_en": "Sterlegov Strait",
+      "latitude": 74.450278,
+      "longitude": 86.035833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%A1%D1%82%D0%B5%D1%80%D0%BB%D0%B5%D0%B3%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 168,
+      "wikidata_id": "Q37960256",
+      "name_ru": "Пролив Стрель-Чова",
+      "name_en": "Proliv Strel'-Chova",
+      "latitude": 80.331111,
+      "longitude": 56.181111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 169,
+      "wikidata_id": "Q37964026",
+      "name_ru": "Пролив Судоходный",
+      "name_en": "Proliv Sudokhodnyy",
+      "latitude": 77.3275,
+      "longitude": 107.6,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 170,
+      "wikidata_id": "Q26920613",
+      "name_ru": "Пролив Танфильева",
+      "name_en": "Tanfilyev Strait",
+      "latitude": 43.4,
+      "longitude": 145.983333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%A2%D0%B0%D0%BD%D1%84%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B0"
+    },
+    {
+      "id": 171,
+      "wikidata_id": "Q34859540",
+      "name_ru": "Пролив Филиппова",
+      "name_en": "Proliv Filippova",
+      "latitude": 70.929722,
+      "longitude": 66.544722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 172,
+      "wikidata_id": "Q34859554",
+      "name_ru": "Пролив Фортуны",
+      "name_en": "Proliv Fortuny",
+      "latitude": 48.583333,
+      "longitude": 153.916667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 173,
+      "wikidata_id": "Q34859567",
+      "name_ru": "Пролив Фрам",
+      "name_en": "Proliv Fram",
+      "latitude": 79.939167,
+      "longitude": 59.819722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 174,
+      "wikidata_id": "Q1462361",
+      "name_ru": "Пролив Фриза",
+      "name_en": "Vries Strait",
+      "latitude": 45.505556,
+      "longitude": 149.176667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%A4%D1%80%D0%B8%D0%B7%D0%B0"
+    },
+    {
+      "id": 175,
+      "wikidata_id": "Q37961772",
+      "name_ru": "Пролив Шарапов Шар",
+      "name_en": "Proliv Sharapov Shar",
+      "latitude": 70.985,
+      "longitude": 66.813889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 176,
+      "wikidata_id": "Q37957714",
+      "name_ru": "Пролив Широкий",
+      "name_en": "Proliv Shirokiy",
+      "latitude": 71.294167,
+      "longitude": 53.251111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 177,
+      "wikidata_id": "Q37962787",
+      "name_ru": "Пролив Школьникова",
+      "name_en": "Proliv Shkol'nikova",
+      "latitude": 74.806944,
+      "longitude": 85.639722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 178,
+      "wikidata_id": "Q24935070",
+      "name_ru": "Пролив Шпанберга",
+      "name_en": "Spanberg Strait",
+      "latitude": 43.73624,
+      "longitude": 146.43375,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%A8%D0%BF%D0%B0%D0%BD%D0%B1%D0%B5%D1%80%D0%B3%D0%B0"
+    },
+    {
+      "id": 179,
+      "wikidata_id": "Q37957657",
+      "name_ru": "Пролив Штернека",
+      "name_en": "Proliv Shterneka",
+      "latitude": 81.094444,
+      "longitude": 58.492222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 180,
+      "wikidata_id": "Q37957611",
+      "name_ru": "Пролив Шуйская Салма",
+      "name_en": "Proliv Shuyskaya Salma",
+      "latitude": 64.802222,
+      "longitude": 34.9375,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 181,
+      "wikidata_id": "Q37958015",
+      "name_ru": "Северные Железные Ворота",
+      "name_en": "Severnye Zhelezyye Vorota",
+      "latitude": 65.04,
+      "longitude": 35.868056,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 182,
+      "wikidata_id": "Q37963482",
+      "name_ru": "Северный Пролив",
+      "name_en": "Severnyy Proliv",
+      "latitude": 54.9925,
+      "longitude": 137.206944,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 183,
+      "wikidata_id": "Q4412397",
+      "name_ru": "Северный пролив (Восточно-Сибирское море)",
+      "name_en": "Severny Strait",
+      "latitude": 70.9,
+      "longitude": 161.4,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_(%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%BE-%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5)"
+    },
+    {
+      "id": 184,
+      "wikidata_id": "Q4412403",
+      "name_ru": "Северный пролив (море Лаптевых)",
+      "name_en": "Severnyy Proliv",
+      "latitude": 74.49611,
+      "longitude": 111.545,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_(%D0%BC%D0%BE%D1%80%D0%B5_%D0%9B%D0%B0%D0%BF%D1%82%D0%B5%D0%B2%D1%8B%D1%85)"
+    },
+    {
+      "id": 185,
+      "wikidata_id": "Q37963473",
+      "name_ru": "Северо-Восточный Пролив",
+      "name_en": "Severo-Vostochnyy Proliv",
+      "latitude": 54.579722,
+      "longitude": 137.6675,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 186,
+      "wikidata_id": "Q4415511",
+      "name_ru": "Семиостровский Рейд",
+      "name_en": "Semiostrovsky Reid",
+      "latitude": 68.778889,
+      "longitude": 37.409722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BC%D0%B8%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%A0%D0%B5%D0%B9%D0%B4"
+    },
+    {
+      "id": 187,
+      "wikidata_id": "Q37958095",
+      "name_ru": "Сенгейский Пролив",
+      "name_en": "Sengeyskiy Proliv",
+      "latitude": 68.411389,
+      "longitude": 51.218333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 188,
+      "wikidata_id": "Q3656218",
+      "name_ru": "Советский пролив",
+      "name_en": "Sovetsky Strait",
+      "latitude": 43.41095,
+      "longitude": 145.8439,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2"
+    },
+    {
+      "id": 189,
+      "wikidata_id": "Q37957183",
+      "name_ru": "Средняя Салма",
+      "name_en": "Srednyaya Salma",
+      "latitude": 66.3,
+      "longitude": 33.65,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 190,
+      "wikidata_id": "Q4449916",
+      "name_ru": "Таймырский пролив",
+      "name_en": "Taymyr Strait",
+      "latitude": 76.1464,
+      "longitude": 95.7967,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D0%BC%D1%8B%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2"
+    },
+    {
+      "id": 191,
+      "wikidata_id": "Q110802",
+      "name_ru": "Татарский пролив",
+      "name_en": "Strait of Tartary",
+      "latitude": 52.183333,
+      "longitude": 141.616667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%82%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2"
+    },
+    {
+      "id": 192,
+      "wikidata_id": "Q37962079",
+      "name_ru": "Торос",
+      "name_en": "Proliv Toros",
+      "latitude": 76.269722,
+      "longitude": 96.683056,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 193,
+      "wikidata_id": "Q109362770",
+      "name_ru": "Уруп",
+      "name_en": "Minami Urupsuido",
+      "latitude": 46.33383,
+      "longitude": 150.703821,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 194,
+      "wikidata_id": "Q4477349",
+      "name_ru": "Уруп (пролив)",
+      "name_en": "Proliv Urup",
+      "latitude": 46.366667,
+      "longitude": 150.721389,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%80%D1%83%D0%BF_(%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2)"
+    },
+    {
+      "id": 195,
+      "wikidata_id": "Q4492346",
+      "name_ru": "Фрам (пролив)",
+      "name_en": "Fram",
+      "latitude": 76.172222,
+      "longitude": 94.695278,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BC_(%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2)"
+    },
+    {
+      "id": 196,
+      "wikidata_id": "Q2000368",
+      "name_ru": "Четвёртый Курильский пролив",
+      "name_en": "Fourth Kuril Strait",
+      "latitude": 49.836667,
+      "longitude": 155.015556,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%82%D0%B2%D1%91%D1%80%D1%82%D1%8B%D0%B9_%D0%9A%D1%83%D1%80%D0%B8%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2"
+    },
+    {
+      "id": 197,
+      "wikidata_id": "Q16718578",
+      "name_ru": "Чонгарский пролив",
+      "name_en": "Chonhar Strait",
+      "latitude": 45.986667,
+      "longitude": 34.551944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%BE%D0%BD%D0%B3%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2"
+    },
+    {
+      "id": 198,
+      "wikidata_id": "Q2986367",
+      "name_ru": "Экарма",
+      "name_en": "Ekarma Strait",
+      "latitude": 48.913611,
+      "longitude": 154.0525,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D0%B0%D1%80%D0%BC%D0%B0_(%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2)"
+    },
+    {
+      "id": 199,
+      "wikidata_id": "Q1116606",
+      "name_ru": "Этерикан",
+      "name_en": "Eterikan Strait",
+      "latitude": 73.907222,
+      "longitude": 140.956111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AD%D1%82%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD_(%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2)"
+    },
+    {
+      "id": 200,
+      "wikidata_id": "Q1422973",
+      "name_ru": "Югорский Шар",
+      "name_en": "Yugorsky Strait",
+      "latitude": 69.75,
+      "longitude": 60.5,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%A8%D0%B0%D1%80"
+    },
+    {
+      "id": 201,
+      "wikidata_id": "Q4533972",
+      "name_ru": "Южно-Курильский пролив",
+      "name_en": "South Kuril Strait",
+      "latitude": 43.63066,
+      "longitude": 145.56087,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AE%D0%B6%D0%BD%D0%BE-%D0%9A%D1%83%D1%80%D0%B8%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2"
+    },
+    {
+      "id": 202,
+      "wikidata_id": "Q37954637",
+      "name_ru": "Южные Железные Ворота",
+      "name_en": "Yuzhnye Zheleznye Vorota",
+      "latitude": 65.020278,
+      "longitude": 35.879444,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 203,
+      "wikidata_id": "Q3739339",
+      "name_ru": "Юный",
+      "name_en": "Yuny Strait",
+      "latitude": 80.104167,
+      "longitude": 92.570556,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AE%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2"
+    },
+    {
+      "id": 204,
+      "wikidata_id": "Q26912026",
+      "name_ru": "Юрий (пролив)",
+      "name_en": "Yury",
+      "latitude": 43.39234,
+      "longitude": 146.02925,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AE%D1%80%D0%B8%D0%B9_(%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D0%B2)"
+    },
+    {
+      "id": 205,
+      "wikidata_id": "Q2661635",
+      "name_ru": "пролив Измены",
+      "name_en": "Izmena Strait",
+      "latitude": 43.636944,
+      "longitude": 145.393056,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D1%8B"
+    },
+    {
+      "id": 206,
+      "wikidata_id": "Q37961692",
+      "name_ru": "пролив Овцына",
+      "name_en": "Proliv Ovtsyna",
+      "latitude": 72.583333,
+      "longitude": 79,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%9E%D0%B2%D1%86%D1%8B%D0%BD%D0%B0"
+    },
+    {
+      "id": 207,
+      "wikidata_id": "Q34859399",
+      "name_ru": "пролив Четвёртый Курильский",
+      "name_en": "Proliv Chetvertyy Kuril'skiy",
+      "latitude": 49.833333,
+      "longitude": 154.466667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 208,
+      "wikidata_id": "Q2495518",
+      "name_ru": "пролив Шокальского",
+      "name_en": "Shokalsky Strait",
+      "latitude": 78.8,
+      "longitude": 100.066667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BB%D0%B8%D0%B2_%D0%A8%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE"
+    }
+  ],
+  "meta": {
+    "title": "Проливы России - Бесплатная загрузка",
+    "description": "Список географических объектов класса «пролив», расположенных в России. Источник — Wikidata через публичный SPARQL-эндпоинт (instance of/subclass of Q37901, страна Россия Q159). Для каждого объекта приведены русское название (rdfs:label@ru), английское название, географические координаты (WGS84, P625) и ссылка на статью русской Википедии. Записи отсортированы по алфавиту русского названия. Записи без русскоязычной (кириллической) этикетки отфильтрованы согласно правилу проекта о сохранении родного текста. Всего 208 уникальных QID; координаты доступны для 208. Содержит 208 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Проливы России | ListBase",
+    "seo_description": "Скачать Проливы России — 208 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 208 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

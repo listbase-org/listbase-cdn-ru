@@ -1,0 +1,128 @@
+{
+  "id": "ru-ivanovo-banki",
+  "name": "Банки — Ivanovo (коды SWIFT/BIC)",
+  "title": "Банки — Ivanovo (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in IVANOVO (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 56,
+      "bank": "AO CB IVANOVO",
+      "city": "IVANOVO",
+      "branch": "",
+      "swift_code": "IVAORU21"
+    },
+    {
+      "id": 59,
+      "bank": "AO COMMERCIAL INVESTMENT BANK 'EUROALLIANCE'",
+      "city": "IVANOVO",
+      "branch": "",
+      "swift_code": "ECILRU21"
+    },
+    {
+      "id": 100,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "IVANOVO",
+      "branch": "(IVANOVO BRANCH)",
+      "swift_code": "MOBWRUM1IVN"
+    },
+    {
+      "id": 252,
+      "bank": "'BANK SGB' PJSC",
+      "city": "IVANOVO",
+      "branch": "(IVANOVO BRANCH)",
+      "swift_code": "SGAZRU21IVA"
+    },
+    {
+      "id": 569,
+      "bank": "INVESTMENT TRADE BANK PJSC",
+      "city": "IVANOVO",
+      "branch": "(VOZNESENSKY BRANCH)",
+      "swift_code": "INVJRUM1IVN"
+    },
+    {
+      "id": 595,
+      "bank": "IVANOVSKIJ OBLASTNOJ BANK",
+      "city": "IVANOVO",
+      "branch": "",
+      "swift_code": "IVOLRU21"
+    },
+    {
+      "id": 693,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "IVANOVO",
+      "branch": "(IVANOVSKY BRANCH)",
+      "swift_code": "RUAGRUM1038"
+    },
+    {
+      "id": 773,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "IVANOVO",
+      "branch": "(IVANOVSKOE REGIONAL DEPARTMENT OFFICE)",
+      "swift_code": "MINNRUM1055"
+    },
+    {
+      "id": 838,
+      "bank": "KRANBANK ZAO",
+      "city": "IVANOVO",
+      "branch": "",
+      "swift_code": "KRANRU21"
+    },
+    {
+      "id": 1223,
+      "bank": "ROST BANK",
+      "city": "IVANOVO",
+      "branch": "(IVANOVO BRANCH)",
+      "swift_code": "JORORU21IVB"
+    },
+    {
+      "id": 1404,
+      "bank": "SOVCOMBANK",
+      "city": "IVANOVO",
+      "branch": "(IVANOVO BRANCH)",
+      "swift_code": "SOMRRUM1IVN"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Ivanovo (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in IVANOVO (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 11 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Ivanovo (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Ivanovo (коды SWIFT/BIC) — 11 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 11 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "ru-khanty-mansiysk-banki",
+  "name": "Банки — Khanty-Mansiysk (коды SWIFT/BIC)",
+  "title": "Банки — Khanty-Mansiysk (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in KHANTY-MANSIYSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 203,
+      "bank": "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY) (FORMERLY KHANTY-MANSIYSK BANK OTKRITIE)",
+      "city": "KHANTY-MANSIYSK",
+      "branch": "(BRANCH WEST SIBERIAN)",
+      "swift_code": "RUDLRUMMZSF"
+    },
+    {
+      "id": 618,
+      "bank": "JOINT STOCK COMPANY SURGUTNEFTEGASBANK",
+      "city": "KHANTY-MANSIYSK",
+      "branch": "(COMMERCIAL BRANCH)",
+      "swift_code": "SGUBRU5S054"
+    },
+    {
+      "id": 1377,
+      "bank": "SOBINBANK",
+      "city": "KHANTY-MANSIYSK",
+      "branch": "(KHANTY-MANSIYSK BRANCH)",
+      "swift_code": "SBBARUM1016"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Khanty-Mansiysk (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in KHANTY-MANSIYSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 3 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Khanty-Mansiysk (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Khanty-Mansiysk (коды SWIFT/BIC) — 3 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 3 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

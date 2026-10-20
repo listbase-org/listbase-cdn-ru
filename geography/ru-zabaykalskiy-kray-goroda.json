@@ -1,0 +1,151 @@
+{
+  "id": "ru-zabaykalskiy-kray-goroda",
+  "name": "Города — Забайкальский край",
+  "title": "Города — Забайкальский край",
+  "description": "10 городов региона «Забайкальский край» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Балей",
+      "population_thousands": 10.7,
+      "latitude": 51.5823759,
+      "longitude": 116.6379549,
+      "region_name": "Забайкальский край",
+      "region_iso_code": "RU-ZAB",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Борзя",
+      "population_thousands": 29.2,
+      "latitude": 50.3876058,
+      "longitude": 116.5234779,
+      "region_name": "Забайкальский край",
+      "region_iso_code": "RU-ZAB",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Краснокаменск",
+      "population_thousands": 51.4,
+      "latitude": 50.0929703,
+      "longitude": 118.0323936,
+      "region_name": "Забайкальский край",
+      "region_iso_code": "RU-ZAB",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Могоча",
+      "population_thousands": 13,
+      "latitude": 53.7361398,
+      "longitude": 119.7660867,
+      "region_name": "Забайкальский край",
+      "region_iso_code": "RU-ZAB",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Нерчинск",
+      "population_thousands": 14.7,
+      "latitude": 51.9594977,
+      "longitude": 116.5852383,
+      "region_name": "Забайкальский край",
+      "region_iso_code": "RU-ZAB",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Петровск-Забайкальский",
+      "population_thousands": 15.8,
+      "latitude": 51.2748592,
+      "longitude": 108.846681,
+      "region_name": "Забайкальский край",
+      "region_iso_code": "RU-ZAB",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Сретенск",
+      "population_thousands": 6.4,
+      "latitude": 52.2461454,
+      "longitude": 117.7117842,
+      "region_name": "Забайкальский край",
+      "region_iso_code": "RU-ZAB",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Хилок",
+      "population_thousands": 10.3,
+      "latitude": 51.3634856,
+      "longitude": 110.4590898,
+      "region_name": "Забайкальский край",
+      "region_iso_code": "RU-ZAB",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Чита",
+      "population_thousands": 351.8,
+      "latitude": 52.0340142,
+      "longitude": 113.4994,
+      "region_name": "Забайкальский край",
+      "region_iso_code": "RU-ZAB",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Шилка",
+      "population_thousands": 12.5,
+      "latitude": 51.8497035,
+      "longitude": 116.0334461,
+      "region_name": "Забайкальский край",
+      "region_iso_code": "RU-ZAB",
+      "federal_district": "Дальневосточный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Забайкальский край - Бесплатная загрузка",
+    "description": "10 городов региона «Забайкальский край» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 10 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Забайкальский край | ListBase",
+    "seo_description": "Скачать Города — Забайкальский край — 10 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 10 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

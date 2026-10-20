@@ -1,0 +1,151 @@
+{
+  "id": "ru-amurskaya-oblast-goroda",
+  "name": "Города — Амурская область",
+  "title": "Города — Амурская область",
+  "description": "10 городов региона «Амурская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Белогорск",
+      "population_thousands": 65.3,
+      "latitude": 50.9213415,
+      "longitude": 128.4739471,
+      "region_name": "Амурская область",
+      "region_iso_code": "RU-AMU",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Благовещенск",
+      "population_thousands": 226.4,
+      "latitude": 50.290659,
+      "longitude": 127.527198,
+      "region_name": "Амурская область",
+      "region_iso_code": "RU-AMU",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Завитинск",
+      "population_thousands": 10.2,
+      "latitude": 50.1064111,
+      "longitude": 129.4391813,
+      "region_name": "Амурская область",
+      "region_iso_code": "RU-AMU",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Зея",
+      "population_thousands": 23,
+      "latitude": 53.7340088,
+      "longitude": 127.265787,
+      "region_name": "Амурская область",
+      "region_iso_code": "RU-AMU",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Райчихинск",
+      "population_thousands": 16.8,
+      "latitude": 49.7941615,
+      "longitude": 129.4112492,
+      "region_name": "Амурская область",
+      "region_iso_code": "RU-AMU",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Свободный",
+      "population_thousands": 54,
+      "latitude": 51.3614103,
+      "longitude": 128.1219729,
+      "region_name": "Амурская область",
+      "region_iso_code": "RU-AMU",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Сковородино",
+      "population_thousands": 8.9,
+      "latitude": 53.9871095,
+      "longitude": 123.9437205,
+      "region_name": "Амурская область",
+      "region_iso_code": "RU-AMU",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Тында",
+      "population_thousands": 33.2,
+      "latitude": 55.1546441,
+      "longitude": 124.7468904,
+      "region_name": "Амурская область",
+      "region_iso_code": "RU-AMU",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Циолковский",
+      "population_thousands": 7.2,
+      "latitude": 51.762481,
+      "longitude": 128.1219846,
+      "region_name": "Амурская область",
+      "region_iso_code": "RU-AMU",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Шимановск",
+      "population_thousands": 18.6,
+      "latitude": 52.0051886,
+      "longitude": 127.7005458,
+      "region_name": "Амурская область",
+      "region_iso_code": "RU-AMU",
+      "federal_district": "Дальневосточный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Амурская область - Бесплатная загрузка",
+    "description": "10 городов региона «Амурская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 10 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Амурская область | ListBase",
+    "seo_description": "Скачать Города — Амурская область — 10 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 10 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

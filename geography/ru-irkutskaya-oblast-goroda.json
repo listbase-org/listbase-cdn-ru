@@ -1,0 +1,259 @@
+{
+  "id": "ru-irkutskaya-oblast-goroda",
+  "name": "Города — Иркутская область",
+  "title": "Города — Иркутская область",
+  "description": "22 городов региона «Иркутская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Алзамай",
+      "population_thousands": 5.7,
+      "latitude": 55.5551233,
+      "longitude": 98.6643699,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Ангарск",
+      "population_thousands": 224.6,
+      "latitude": 52.544879,
+      "longitude": 103.888543,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Байкальск",
+      "population_thousands": 12.5,
+      "latitude": 51.5230393,
+      "longitude": 104.1487532,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Бирюсинск",
+      "population_thousands": 8.4,
+      "latitude": 55.9609167,
+      "longitude": 97.8205348,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Бодайбо",
+      "population_thousands": 12,
+      "latitude": 57.8468636,
+      "longitude": 114.1866287,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Братск",
+      "population_thousands": 226.3,
+      "latitude": 56.1513108,
+      "longitude": 101.6340035,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Вихоревка",
+      "population_thousands": 20.8,
+      "latitude": 56.1208145,
+      "longitude": 101.1702926,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Железногорск-Илимский",
+      "population_thousands": 22.9,
+      "latitude": 56.5847888,
+      "longitude": 104.114275,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Зима",
+      "population_thousands": 30.5,
+      "latitude": 53.920693,
+      "longitude": 102.0491772,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Иркутск",
+      "population_thousands": 623.6,
+      "latitude": 52.2864036,
+      "longitude": 104.2807466,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Киренск",
+      "population_thousands": 11,
+      "latitude": 57.7756595,
+      "longitude": 108.1109412,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Нижнеудинск",
+      "population_thousands": 33.6,
+      "latitude": 54.8968931,
+      "longitude": 99.0314056,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Саянск",
+      "population_thousands": 38.8,
+      "latitude": 54.1107238,
+      "longitude": 102.18015,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Свирск",
+      "population_thousands": 12.7,
+      "latitude": 53.0842668,
+      "longitude": 103.3364093,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Слюдянка",
+      "population_thousands": 18.2,
+      "latitude": 51.6563983,
+      "longitude": 103.7187545,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Тайшет",
+      "population_thousands": 32.7,
+      "latitude": 55.9405334,
+      "longitude": 98.0030145,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Тулун",
+      "population_thousands": 39.7,
+      "latitude": 54.557162,
+      "longitude": 100.5780603,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Усолье-Сибирское",
+      "population_thousands": 76,
+      "latitude": 52.7565808,
+      "longitude": 103.6388109,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Усть-Илимск",
+      "population_thousands": 80.4,
+      "latitude": 57.9430504,
+      "longitude": 102.7415734,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Усть-Кут",
+      "population_thousands": 40.8,
+      "latitude": 56.7928178,
+      "longitude": 105.7757343,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Черемхово",
+      "population_thousands": 50.1,
+      "latitude": 53.1369095,
+      "longitude": 103.0901268,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Шелехов",
+      "population_thousands": 48.4,
+      "latitude": 52.2102538,
+      "longitude": 104.0973294,
+      "region_name": "Иркутская область",
+      "region_iso_code": "RU-IRK",
+      "federal_district": "Сибирский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Иркутская область - Бесплатная загрузка",
+    "description": "22 городов региона «Иркутская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 22 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Иркутская область | ListBase",
+    "seo_description": "Скачать Города — Иркутская область — 22 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 22 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

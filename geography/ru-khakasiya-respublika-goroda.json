@@ -1,0 +1,106 @@
+{
+  "id": "ru-khakasiya-respublika-goroda",
+  "name": "Города — Республика Хакасия",
+  "title": "Города — Республика Хакасия",
+  "description": "5 городов региона «Республика Хакасия» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Абаза",
+      "population_thousands": 15,
+      "latitude": 52.6516647,
+      "longitude": 90.0885686,
+      "region_name": "Республика Хакасия",
+      "region_iso_code": "RU-KK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Абакан",
+      "population_thousands": 186.8,
+      "latitude": 53.7223325,
+      "longitude": 91.4436721,
+      "region_name": "Республика Хакасия",
+      "region_iso_code": "RU-KK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Саяногорск",
+      "population_thousands": 46,
+      "latitude": 53.1008083,
+      "longitude": 91.4122454,
+      "region_name": "Республика Хакасия",
+      "region_iso_code": "RU-KK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Сорск",
+      "population_thousands": 11.2,
+      "latitude": 54.0002888,
+      "longitude": 90.2594446,
+      "region_name": "Республика Хакасия",
+      "region_iso_code": "RU-KK",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Черногорск",
+      "population_thousands": 75.4,
+      "latitude": 53.8259342,
+      "longitude": 91.3260229,
+      "region_name": "Республика Хакасия",
+      "region_iso_code": "RU-KK",
+      "federal_district": "Сибирский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Республика Хакасия - Бесплатная загрузка",
+    "description": "5 городов региона «Республика Хакасия» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 5 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Республика Хакасия | ListBase",
+    "seo_description": "Скачать Города — Республика Хакасия — 5 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 5 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

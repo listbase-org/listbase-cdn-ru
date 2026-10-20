@@ -1,0 +1,324 @@
+{
+  "id": "ru-nizhniy-novgorod-banki",
+  "name": "Банки — Nizhniy Novgorod (коды SWIFT/BIC)",
+  "title": "Банки — Nizhniy Novgorod (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in NIZHNIY NOVGOROD (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 24,
+      "bank": "AK BARS BANK",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(NIZHNIY NOVGOROD BRANCH)",
+      "swift_code": "ARRSRU21NNG"
+    },
+    {
+      "id": 45,
+      "bank": "ALFA-BANK",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(NIZHNIY NOVGOROD BRANCH)",
+      "swift_code": "ALFARUM1001"
+    },
+    {
+      "id": 73,
+      "bank": "ASSOTSIATSIYA BANK",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "",
+      "swift_code": "ASOJRU2N"
+    },
+    {
+      "id": 116,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(NIZHNY NOVGOROD BRANCH)",
+      "swift_code": "MOBWRUM1NZH"
+    },
+    {
+      "id": 197,
+      "bank": "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(NIZHNIY NOVGOROD BRANCH)",
+      "swift_code": "JSNMRUMMNNV"
+    },
+    {
+      "id": 224,
+      "bank": "BANK ''ROSSIYA''",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(NIZHNIY NOVGOROD BRANCH)",
+      "swift_code": "ROSYRU21NNV"
+    },
+    {
+      "id": 273,
+      "bank": "BANK SOYUZ",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(NIZHNIY NOVGOROD BRANCH)",
+      "swift_code": "JCAMRUM1NNG"
+    },
+    {
+      "id": 376,
+      "bank": "COMMERCIAL BANK 'LANTA-BANK'",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(NIZHNY NOVGOROD BRANCH)",
+      "swift_code": "COLKRUM1NNG"
+    },
+    {
+      "id": 447,
+      "bank": "EVROFINANCE MOSNARBANK",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(NIZHNIY NOVGOROD BRANCH)",
+      "swift_code": "EVRFRUM1NNG"
+    },
+    {
+      "id": 475,
+      "bank": "FORUS BANK ZAO",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "",
+      "swift_code": "FOUURU21"
+    },
+    {
+      "id": 498,
+      "bank": "GAZPROMBANK (JOINT - STOCK COMPANY)",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(PRIVOLZHSKY BRANCH)",
+      "swift_code": "GAZPRUMM001"
+    },
+    {
+      "id": 605,
+      "bank": "JOINT STOCK COMPANY BBR BANK",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(NIZHNIY NOVGOROD BRANCH)",
+      "swift_code": "BADJRUMMNNG"
+    },
+    {
+      "id": 717,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(NIZHEGORODSKY BRANCH)",
+      "swift_code": "RUAGRUM1039"
+    },
+    {
+      "id": 761,
+      "bank": "JSC VOCBANK",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "",
+      "swift_code": "VORCRU2N"
+    },
+    {
+      "id": 805,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(NIZHNIY NOVGOROD BRANCH)",
+      "swift_code": "MINNRUM1056"
+    },
+    {
+      "id": 888,
+      "bank": "MICEX VOLGA REGION ZAO",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "",
+      "swift_code": "NNCSRU21"
+    },
+    {
+      "id": 922,
+      "bank": "MOSOBLBANK",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(BRANCH NO.6)",
+      "swift_code": "MOBKRUM1006"
+    },
+    {
+      "id": 981,
+      "bank": "NBD-BANK",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "",
+      "swift_code": "NBDBRU2N"
+    },
+    {
+      "id": 1001,
+      "bank": "NIZHNY NOVGOROD SOCIAL COMMERCIAL BANK GUARANTEE",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "",
+      "swift_code": "SCBGRU21"
+    },
+    {
+      "id": 1009,
+      "bank": "NOVIKOMBANK",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(NIZHNIY NOVGOROD BRANCH)",
+      "swift_code": "CNOVRUM1NNG"
+    },
+    {
+      "id": 1024,
+      "bank": "OAO NIZHNY NOVGOROD COMMERCIAL BANK 'RADIOTEHBANK'",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "",
+      "swift_code": "ROJSRU21"
+    },
+    {
+      "id": 1123,
+      "bank": "PJSC ROSBANK",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(PRIVOLJSKIY BRANCH)",
+      "swift_code": "RSBNRUM1NNV"
+    },
+    {
+      "id": 1151,
+      "bank": "PROFESSIONAL CREDIT BANK LTD",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "",
+      "swift_code": "REGVRU21"
+    },
+    {
+      "id": 1161,
+      "bank": "PROMSVYAZBANK PJSC",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(PRIVOLZHSKIY BRANCH)",
+      "swift_code": "PRMSRUMMNNV"
+    },
+    {
+      "id": 1201,
+      "bank": "ROSBANK-VOLGA ZAO",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "",
+      "swift_code": "ROJBRU21"
+    },
+    {
+      "id": 1207,
+      "bank": "ROSGOSSTRAKH BANK",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(NIZHNIY NOVGOROD BRANCH)",
+      "swift_code": "RUIDRUM1NNG"
+    },
+    {
+      "id": 1236,
+      "bank": "ROST BANK",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(NIZHNIY-NOVGOROD BRANCH)",
+      "swift_code": "JORORU21NNB"
+    },
+    {
+      "id": 1315,
+      "bank": "SBERBANK",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(VOLGO-VYATSKY HEAD OFFICE)",
+      "swift_code": "SABRRUMMNA1"
+    },
+    {
+      "id": 1339,
+      "bank": "SDM-BANK PJSC",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(NIZHNIJ NOVGOROD BRANCH)",
+      "swift_code": "SJSCRUMMNNG"
+    },
+    {
+      "id": 1366,
+      "bank": "SLAVIA BANK",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(G.NIZHNIY NOVGOROD)",
+      "swift_code": "SJSMRUM1NNV"
+    },
+    {
+      "id": 1382,
+      "bank": "SOBINBANK",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(NIGNIY NOVGOROD BRANCH)",
+      "swift_code": "SBBARUM1024"
+    },
+    {
+      "id": 1437,
+      "bank": "SVIAZ-BANK",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(NIZHNIY NOVGOROD BRANCH)",
+      "swift_code": "SVIZRUM1NOV"
+    },
+    {
+      "id": 1497,
+      "bank": "TRANSKAPITALBANK",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(NIZHNIY NOVGOROD BRANCH)",
+      "swift_code": "TJSCRUM1NIZ"
+    },
+    {
+      "id": 1565,
+      "bank": "VOZROZHDENIE BANK",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(NIZHNIY NOVGOROD BRANCH)",
+      "swift_code": "VBNKRUM1NNG"
+    },
+    {
+      "id": 1595,
+      "bank": "VTB BANK (PJSC)",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(NIZHNIY NOVGOROD BRANCH)",
+      "swift_code": "VTBRRUM2NIN"
+    },
+    {
+      "id": 1596,
+      "bank": "VTB BANK (PJSC)",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(PRIVOLZHSKIY BRANCH, NIZHNIY NOVGOROD)",
+      "swift_code": "VTBRRUM2NI2"
+    },
+    {
+      "id": 1608,
+      "bank": "VVNB",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "",
+      "swift_code": "VVNBRU21"
+    },
+    {
+      "id": 1615,
+      "bank": "YARMAROCHNYI BANK",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "",
+      "swift_code": "YARMRU21"
+    },
+    {
+      "id": 1637,
+      "bank": "ZENIT BANK",
+      "city": "NIZHNIY NOVGOROD",
+      "branch": "(VOLGA BRANCH)",
+      "swift_code": "ZENIRUM1NNO"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Nizhniy Novgorod (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in NIZHNIY NOVGOROD (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 39 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Nizhniy Novgorod (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Nizhniy Novgorod (коды SWIFT/BIC) — 39 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 39 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

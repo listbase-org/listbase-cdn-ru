@@ -1,0 +1,107 @@
+{
+  "id": "ru-yakutsk-banki",
+  "name": "Банки — Yakutsk (коды SWIFT/BIC)",
+  "title": "Банки — Yakutsk (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in YAKUTSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 52,
+      "bank": "ALMAZERGIENBANK",
+      "city": "YAKUTSK",
+      "branch": "",
+      "swift_code": "ALMZRU8Y"
+    },
+    {
+      "id": 265,
+      "bank": "BANK 'SIR'",
+      "city": "YAKUTSK",
+      "branch": "",
+      "swift_code": "SIRSRU81"
+    },
+    {
+      "id": 749,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "YAKUTSK",
+      "branch": "(YAKUTSKY BRANCH)",
+      "swift_code": "RUAGRUM1060"
+    },
+    {
+      "id": 758,
+      "bank": "JSC TAATTA BANK",
+      "city": "YAKUTSK",
+      "branch": "",
+      "swift_code": "TAAARU8Y"
+    },
+    {
+      "id": 934,
+      "bank": "MOSOBLBANK",
+      "city": "YAKUTSK",
+      "branch": "(BRANCH NO.9)",
+      "swift_code": "MOBKRUM1009"
+    },
+    {
+      "id": 1262,
+      "bank": "ROST BANK",
+      "city": "YAKUTSK",
+      "branch": "(YAKUTSK BRANCH)",
+      "swift_code": "JORORU21YAB"
+    },
+    {
+      "id": 1392,
+      "bank": "SOBINBANK",
+      "city": "YAKUTSK",
+      "branch": "(YAKUTSK BRANCH)",
+      "swift_code": "SBBARUM1006"
+    },
+    {
+      "id": 1448,
+      "bank": "SVIAZ-BANK",
+      "city": "YAKUTSK",
+      "branch": "(YAKUTSK BRANCH)",
+      "swift_code": "SVIZRUM1YAK"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Yakutsk (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in YAKUTSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 8 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Yakutsk (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Yakutsk (коды SWIFT/BIC) — 8 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 8 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

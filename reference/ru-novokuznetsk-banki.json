@@ -1,0 +1,79 @@
+{
+  "id": "ru-novokuznetsk-banki",
+  "name": "Банки — Novokuznetsk (коды SWIFT/BIC)",
+  "title": "Банки — Novokuznetsk (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in NOVOKUZNETSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "bank": "AB OAO 'KUZNETSKBIZNESBANK'",
+      "city": "NOVOKUZNETSK",
+      "branch": "",
+      "swift_code": "KZBURU51"
+    },
+    {
+      "id": 117,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "NOVOKUZNETSK",
+      "branch": "(NOVOKUZNETSK BRANCH)",
+      "swift_code": "MOBWRUM1NVK"
+    },
+    {
+      "id": 304,
+      "bank": "BST-BANK",
+      "city": "NOVOKUZNETSK",
+      "branch": "",
+      "swift_code": "BSBBRU51"
+    },
+    {
+      "id": 849,
+      "bank": "KUZNETSKY BRANCH OF THE SAVINGS BANK",
+      "city": "NOVOKUZNETSK",
+      "branch": "",
+      "swift_code": "KRSBRU51"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Novokuznetsk (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in NOVOKUZNETSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 4 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Novokuznetsk (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Novokuznetsk (коды SWIFT/BIC) — 4 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 4 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

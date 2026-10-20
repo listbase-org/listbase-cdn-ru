@@ -1,0 +1,169 @@
+{
+  "id": "ru-kostromskaya-oblast-goroda",
+  "name": "Города — Костромская область",
+  "title": "Города — Костромская область",
+  "description": "12 городов региона «Костромская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Буй",
+      "population_thousands": 23.2,
+      "latitude": 58.4733277,
+      "longitude": 41.5306822,
+      "region_name": "Костромская область",
+      "region_iso_code": "RU-KOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Волгореченск",
+      "population_thousands": 16.3,
+      "latitude": 57.4424559,
+      "longitude": 41.1594201,
+      "region_name": "Костромская область",
+      "region_iso_code": "RU-KOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Галич",
+      "population_thousands": 16.8,
+      "latitude": 58.3828191,
+      "longitude": 42.3654013,
+      "region_name": "Костромская область",
+      "region_iso_code": "RU-KOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Кологрив",
+      "population_thousands": 2.9,
+      "latitude": 58.8269323,
+      "longitude": 44.3184927,
+      "region_name": "Костромская область",
+      "region_iso_code": "RU-KOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Кострома",
+      "population_thousands": 276.9,
+      "latitude": 57.768,
+      "longitude": 40.927,
+      "region_name": "Костромская область",
+      "region_iso_code": "RU-KOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Макарьев",
+      "population_thousands": 6.4,
+      "latitude": 57.8807152,
+      "longitude": 43.8014197,
+      "region_name": "Костромская область",
+      "region_iso_code": "RU-KOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Мантурово",
+      "population_thousands": 15,
+      "latitude": 58.3265441,
+      "longitude": 44.757494,
+      "region_name": "Костромская область",
+      "region_iso_code": "RU-KOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Нерехта",
+      "population_thousands": 20.9,
+      "latitude": 57.4543369,
+      "longitude": 40.5723598,
+      "region_name": "Костромская область",
+      "region_iso_code": "RU-KOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Нея",
+      "population_thousands": 8.6,
+      "latitude": 58.2943349,
+      "longitude": 43.8780948,
+      "region_name": "Костромская область",
+      "region_iso_code": "RU-KOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Солигалич",
+      "population_thousands": 5.9,
+      "latitude": 59.0784867,
+      "longitude": 42.2878423,
+      "region_name": "Костромская область",
+      "region_iso_code": "RU-KOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Чухлома",
+      "population_thousands": 4.9,
+      "latitude": 58.753421,
+      "longitude": 42.6884958,
+      "region_name": "Костромская область",
+      "region_iso_code": "RU-KOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Шарья",
+      "population_thousands": 23.5,
+      "latitude": 58.3760542,
+      "longitude": 45.4062414,
+      "region_name": "Костромская область",
+      "region_iso_code": "RU-KOS",
+      "federal_district": "Центральный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Костромская область - Бесплатная загрузка",
+    "description": "12 городов региона «Костромская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 12 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Костромская область | ListBase",
+    "seo_description": "Скачать Города — Костромская область — 12 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 12 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

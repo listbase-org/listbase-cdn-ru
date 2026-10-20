@@ -1,0 +1,277 @@
+{
+  "id": "ru-arkhipelagi",
+  "name": "Архипелаги России",
+  "title": "Архипелаги России",
+  "description": "Список географических объектов класса «архипелаг», расположенных в России. Источник — Wikidata через публичный SPARQL-эндпоинт (instance of/subclass of Q33837, страна Россия Q159). Для каждого объекта приведены русское название (rdfs:label@ru), английское название, географические координаты (WGS84, P625) и ссылка на статью русской Википедии. Записи отсортированы по алфавиту русского названия. Записи без русскоязычной (кириллической) этикетки отфильтрованы согласно правилу проекта о сохранении родного текста. Удалён ошибочно классифицированный объект Q18783 (Тихоокеанское вулканическое огненное кольцо). Исключены QID, уже представленные в наборе ru-ostrova. Всего 24 уникальных QID; координаты доступны для 23.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ru",
+      "label": "Name Ru",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ru",
+      "label": "Wikipedia Ru",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q1321946",
+      "name_ru": "Архипелаг Норденшельда",
+      "name_en": "Nordenskiöld Archipelago",
+      "latitude": 76.75,
+      "longitude": 96,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D0%BF%D0%B5%D0%BB%D0%B0%D0%B3_%D0%9D%D0%BE%D1%80%D0%B4%D0%B5%D0%BD%D1%88%D0%B5%D0%BB%D1%8C%D0%B4%D0%B0"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q4070769",
+      "name_ru": "Архипелаг Питкяпааси",
+      "name_en": "Pitkyapaasi Archipelago",
+      "latitude": 60.47222222,
+      "longitude": 27.88444444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%82%D0%BA%D1%8F%D0%BF%D0%B0%D0%B0%D1%81%D0%B8_(%D0%B0%D1%80%D1%85%D0%B8%D0%BF%D0%B5%D0%BB%D0%B0%D0%B3)"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q593783",
+      "name_ru": "Архипелаг Римского-Корсакова",
+      "name_en": "Rimsky-Korsakov Archipelago",
+      "latitude": 42.7,
+      "longitude": 131.433333333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D0%BF%D0%B5%D0%BB%D0%B0%D0%B3_%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%9A%D0%BE%D1%80%D1%81%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q1750178",
+      "name_ru": "Архипелаг Седова",
+      "name_en": "Sedov Archipelago",
+      "latitude": 79.43888889,
+      "longitude": 91.84416667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D0%BF%D0%B5%D0%BB%D0%B0%D0%B3_%D0%A1%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q777436",
+      "name_ru": "Архипелаг императрицы Евгении",
+      "name_en": "Eugénie Archipelago",
+      "latitude": 42.95,
+      "longitude": 131.75,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D0%BF%D0%B5%D0%BB%D0%B0%D0%B3_%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D1%80%D0%B8%D1%86%D1%8B_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B8"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q16273362",
+      "name_ru": "Асафовы горы",
+      "name_en": "Asafovy Gory",
+      "latitude": 57.29003056,
+      "longitude": 43.15913056,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%81%D0%B0%D1%84%D0%BE%D0%B2%D1%8B_%D0%93%D0%BE%D1%80%D1%8B"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q2654640",
+      "name_ru": "Берёзовые острова",
+      "name_en": "Beryozovye Islands",
+      "latitude": 60.33,
+      "longitude": 28.56,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D1%91%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q185018",
+      "name_ru": "Земля Франца-Иосифа",
+      "name_en": "Franz Josef Land",
+      "latitude": 80.566666666,
+      "longitude": 54.783333333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BC%D0%BB%D1%8F_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B0-%D0%98%D0%BE%D1%81%D0%B8%D1%84%D0%B0"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q124389099",
+      "name_ru": "Крестовые острова (Валаам)",
+      "name_en": "Krestovye Islands",
+      "latitude": 61.408194,
+      "longitude": 31.278423,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q80389",
+      "name_ru": "Курильские острова",
+      "name_en": "Kuril Islands",
+      "latitude": 47,
+      "longitude": 152.1,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D0%B8%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q1325658",
+      "name_ru": "Медвежьи острова",
+      "name_en": "Medvezhy Islands",
+      "latitude": 70.75,
+      "longitude": 161.5,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B6%D1%8C%D0%B8_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q577808",
+      "name_ru": "Острова Де-Лонга",
+      "name_en": "De Long Islands",
+      "latitude": 76.64333333,
+      "longitude": 153.65111111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%94%D0%B5-%D0%9B%D0%BE%D0%BD%D0%B3%D0%B0"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q748866",
+      "name_ru": "Острова Известий ЦИК",
+      "name_en": "Izvestiy TSIK Islands",
+      "latitude": 75.966666666,
+      "longitude": 82.35,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%98%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D0%B9_%D0%A6%D0%98%D0%9A"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q3803258",
+      "name_ru": "Острова Колосова",
+      "name_en": "Kolosov islands",
+      "latitude": 78.45806668,
+      "longitude": 93.55808334,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%9A%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q17386744",
+      "name_ru": "Острова Лопаткина",
+      "name_en": "Lopatkin Islands",
+      "latitude": 69.4492,
+      "longitude": 32.4092,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q733162",
+      "name_ru": "Острова Сергея Кирова",
+      "name_en": "Kirov Islands",
+      "latitude": 77.5,
+      "longitude": 90,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D1%8F_%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q16481854",
+      "name_ru": "Острова дельты Невы",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%B4%D0%B5%D0%BB%D1%8C%D1%82%D1%8B_%D0%9D%D0%B5%D0%B2%D1%8B"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q39166104",
+      "name_ru": "Петуховский Архипелаг",
+      "name_en": "Petukhovsky Archipelago",
+      "latitude": 70.55,
+      "longitude": 56.5,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q192281",
+      "name_ru": "Северная Земля",
+      "name_en": "Severnaya Zemlya",
+      "latitude": 79.75,
+      "longitude": 98.25,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%97%D0%B5%D0%BC%D0%BB%D1%8F"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q205711",
+      "name_ru": "Соловецкие острова",
+      "name_en": "Solovetsky Islands",
+      "latitude": 65.024444,
+      "longitude": 35.710556,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%BE%D0%B2%D0%B5%D1%86%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q4497121",
+      "name_ru": "Хейнясенмаа (острова)",
+      "name_en": "Heinäsenmaa",
+      "latitude": 61.23333333,
+      "longitude": 30.41666667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D0%B9%D0%BD%D1%8F%D1%81%D0%B5%D0%BD%D0%BC%D0%B0%D0%B0_(%D0%B0%D1%80%D1%85%D0%B8%D0%BF%D0%B5%D0%BB%D0%B0%D0%B3)"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q2465406",
+      "name_ru": "Шхеры Минина",
+      "name_en": "Minin Skerries",
+      "latitude": 74.616666666,
+      "longitude": 85.666666666,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D1%85%D0%B5%D1%80%D1%8B_%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD%D0%B0"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q11401819",
+      "name_ru": "Южные Курилы",
+      "name_en": "South Kuril Islands",
+      "latitude": 44.1,
+      "longitude": 146.7,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AE%D0%B6%D0%BD%D1%8B%D0%B5_%D0%9A%D1%83%D1%80%D0%B8%D0%BB%D1%8B"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q1112052",
+      "name_ru": "Ямские острова",
+      "name_en": "Yam Islands",
+      "latitude": 59.205277777,
+      "longitude": 155.523333333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AF%D0%BC%D1%81%D0%BA%D0%B8%D0%B5_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0"
+    }
+  ],
+  "meta": {
+    "title": "Архипелаги России - Бесплатная загрузка",
+    "description": "Список географических объектов класса «архипелаг», расположенных в России. Источник — Wikidata через публичный SPARQL-эндпоинт (instance of/subclass of Q33837, страна Россия Q159). Для каждого объекта приведены русское название (rdfs:label@ru), английское название, географические координаты (WGS84, P625) и ссылка на статью русской Википедии. Записи отсортированы по алфавиту русского названия. Записи без русскоязычной (кириллической) этикетки отфильтрованы согласно правилу проекта о сохранении родного текста. Удалён ошибочно классифицированный объект Q18783 (Тихоокеанское вулканическое огненное кольцо). Исключены QID, уже представленные в наборе ru-ostrova. Всего 24 уникальных QID; координаты доступны для 23. Содержит 24 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Архипелаги России | ListBase",
+    "seo_description": "Скачать Архипелаги России — 24 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 24 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

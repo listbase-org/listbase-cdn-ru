@@ -1,0 +1,79 @@
+{
+  "id": "ru-rostov-na-donu-banki",
+  "name": "Банки — Rostov-Na-Donu (коды SWIFT/BIC)",
+  "title": "Банки — Rostov-Na-Donu (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in ROSTOV-NA-DONU (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 757,
+      "bank": "JSC TAATTA BANK",
+      "city": "ROSTOV-NA-DONU",
+      "branch": "(ROSTOV BRANCH)",
+      "swift_code": "TAAARU81RND"
+    },
+    {
+      "id": 925,
+      "bank": "MOSOBLBANK",
+      "city": "ROSTOV-NA-DONU",
+      "branch": "(BRANCH NO.1)",
+      "swift_code": "MOBKRUM1001"
+    },
+    {
+      "id": 1010,
+      "bank": "NOVIKOMBANK",
+      "city": "ROSTOV-NA-DONU",
+      "branch": "(ROSTOV-NA-DONU BRANCH)",
+      "swift_code": "CNOVRUM1RND"
+    },
+    {
+      "id": 1441,
+      "bank": "SVIAZ-BANK",
+      "city": "ROSTOV-NA-DONU",
+      "branch": "(ROSTOV BRANCH)",
+      "swift_code": "SVIZRUM1RND"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Rostov-Na-Donu (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in ROSTOV-NA-DONU (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 4 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Rostov-Na-Donu (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Rostov-Na-Donu (коды SWIFT/BIC) — 4 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 4 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

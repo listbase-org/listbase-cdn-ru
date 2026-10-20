@@ -1,0 +1,338 @@
+{
+  "id": "ru-ekaterinburg-banki",
+  "name": "Банки — Ekaterinburg (коды SWIFT/BIC)",
+  "title": "Банки — Ekaterinburg (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in EKATERINBURG (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 41,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 15,
+      "bank": "AK BARS BANK",
+      "city": "EKATERINBURG",
+      "branch": "(EKATERINBURG BRANCH)",
+      "swift_code": "ARRSRU21EKA"
+    },
+    {
+      "id": 42,
+      "bank": "ALFA-BANK",
+      "city": "EKATERINBURG",
+      "branch": "(EKATERINBURG BRANCH)",
+      "swift_code": "ALFARUM1006"
+    },
+    {
+      "id": 97,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "EKATERINBURG",
+      "branch": "(EKATERINBURG BRANCH  2 B AND N BANK)",
+      "swift_code": "BINORU21EKB"
+    },
+    {
+      "id": 98,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "EKATERINBURG",
+      "branch": "(EKATERINBURG BRANCH)",
+      "swift_code": "MOBWRUM1EKT"
+    },
+    {
+      "id": 157,
+      "bank": "BANK EEFC-URAL AO",
+      "city": "EKATERINBURG",
+      "branch": "",
+      "swift_code": "MDURRU41"
+    },
+    {
+      "id": 178,
+      "bank": "BANK NEYVA",
+      "city": "EKATERINBURG",
+      "branch": "",
+      "swift_code": "CONYRU2N"
+    },
+    {
+      "id": 191,
+      "bank": "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "EKATERINBURG",
+      "branch": "(EKATERINBURG BRANCH)",
+      "swift_code": "JSNMRUMMEKB"
+    },
+    {
+      "id": 268,
+      "bank": "BANK SOYUZ",
+      "city": "EKATERINBURG",
+      "branch": "(EKATERINBURG BRANCH)",
+      "swift_code": "JCAMRUM1EKB"
+    },
+    {
+      "id": 491,
+      "bank": "GAZPROMBANK (JOINT - STOCK COMPANY)",
+      "city": "EKATERINBURG",
+      "branch": "(URALSKY BRANCH)",
+      "swift_code": "GAZPRUMM026"
+    },
+    {
+      "id": 519,
+      "bank": "GOLD-PLATINUM-BANK",
+      "city": "EKATERINBURG",
+      "branch": "",
+      "swift_code": "GOJSRU41"
+    },
+    {
+      "id": 542,
+      "bank": "INKAKHRAN NKO (AO)",
+      "city": "EKATERINBURG",
+      "branch": "(EKATERINBURG BRANCH)",
+      "swift_code": "HRANRUMMEKB"
+    },
+    {
+      "id": 567,
+      "bank": "INVESTMENT TRADE BANK PJSC",
+      "city": "EKATERINBURG",
+      "branch": "(URALSKY BRANCH)",
+      "swift_code": "INVJRUM1EKT"
+    },
+    {
+      "id": 635,
+      "bank": "JSB ROSEVROBANK (JSC)",
+      "city": "EKATERINBURG",
+      "branch": "(EKATERINBURG BRANCH)",
+      "swift_code": "COMKRUMM030"
+    },
+    {
+      "id": 689,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "EKATERINBURG",
+      "branch": "(SVERDLOVSKY BRANCH)",
+      "swift_code": "RUAGRUM1073"
+    },
+    {
+      "id": 835,
+      "bank": "KOLTSO URALA KB OOO",
+      "city": "EKATERINBURG",
+      "branch": "",
+      "swift_code": "KLUCRU4E"
+    },
+    {
+      "id": 938,
+      "bank": "MTS BANK",
+      "city": "EKATERINBURG",
+      "branch": "(URALSKY)",
+      "swift_code": "MBRDRUM1EKT"
+    },
+    {
+      "id": 1083,
+      "bank": "PJSC 'CHELINDBANK'",
+      "city": "EKATERINBURG",
+      "branch": "(CHKALOVSKIJ BRANCH)",
+      "swift_code": "CHLBRU41CHK"
+    },
+    {
+      "id": 1115,
+      "bank": "PJSC ROSBANK",
+      "city": "EKATERINBURG",
+      "branch": "(URALSKIY BRANCH)",
+      "swift_code": "RSBNRUM1EKT"
+    },
+    {
+      "id": 1158,
+      "bank": "PROMSVYAZBANK PJSC",
+      "city": "EKATERINBURG",
+      "branch": "(URALSKIY BRANCH)",
+      "swift_code": "PRMSRUM1EKT"
+    },
+    {
+      "id": 1204,
+      "bank": "ROSGOSSTRAKH BANK",
+      "city": "EKATERINBURG",
+      "branch": "(EKATERINBURG BRANCH)",
+      "swift_code": "RUIDRUM1EKT"
+    },
+    {
+      "id": 1221,
+      "bank": "ROST BANK",
+      "city": "EKATERINBURG",
+      "branch": "(EKATERINBURG BRANCH)",
+      "swift_code": "JORORU21EKB"
+    },
+    {
+      "id": 1301,
+      "bank": "SBERBANK",
+      "city": "EKATERINBURG",
+      "branch": "(URALSKY HEAD OFFICE)",
+      "swift_code": "SABRRUMMEA1"
+    },
+    {
+      "id": 1336,
+      "bank": "SDM-BANK PJSC",
+      "city": "EKATERINBURG",
+      "branch": "(EKATERINBURG BRANCH)",
+      "swift_code": "SJSCRUMMEKA"
+    },
+    {
+      "id": 1362,
+      "bank": "SKB-BANK",
+      "city": "EKATERINBURG",
+      "branch": "",
+      "swift_code": "SKBERU4E"
+    },
+    {
+      "id": 1428,
+      "bank": "SVIAZ-BANK",
+      "city": "EKATERINBURG",
+      "branch": "(EKATERINBURG BRANCH)",
+      "swift_code": "SVIZRUM1EKT"
+    },
+    {
+      "id": 1464,
+      "bank": "THE BANK 'IBA-MOSCOW' LLC",
+      "city": "EKATERINBURG",
+      "branch": "(EKATERINBURG BRANCH)",
+      "swift_code": "IBAZRUM1EKT"
+    },
+    {
+      "id": 1469,
+      "bank": "THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)",
+      "city": "EKATERINBURG",
+      "branch": "(SSB BRANCH)",
+      "swift_code": "UBRDRU41SSB"
+    },
+    {
+      "id": 1470,
+      "bank": "THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)",
+      "city": "EKATERINBURG",
+      "branch": "",
+      "swift_code": "UBRDRU4E"
+    },
+    {
+      "id": 1490,
+      "bank": "TRANSKAPITALBANK",
+      "city": "EKATERINBURG",
+      "branch": "(EKATERINBURG BRANCH)",
+      "swift_code": "TJSCRUM1EKT"
+    },
+    {
+      "id": 1526,
+      "bank": "URALFINANCE COMMERCIAL BANK",
+      "city": "EKATERINBURG",
+      "branch": "",
+      "swift_code": "URCORU41"
+    },
+    {
+      "id": 1527,
+      "bank": "URALFINPROMBANK",
+      "city": "EKATERINBURG",
+      "branch": "",
+      "swift_code": "UROARU41"
+    },
+    {
+      "id": 1528,
+      "bank": "URALPRIVATBANK",
+      "city": "EKATERINBURG",
+      "branch": "",
+      "swift_code": "URJCRU41"
+    },
+    {
+      "id": 1529,
+      "bank": "URALS REGIONAL CURRENCY EXCHANGE",
+      "city": "EKATERINBURG",
+      "branch": "",
+      "swift_code": "URCERU41"
+    },
+    {
+      "id": 1530,
+      "bank": "URALSIB BANK",
+      "city": "EKATERINBURG",
+      "branch": "(EKATERINBURG BRANCH)",
+      "swift_code": "AVTBRUM1032"
+    },
+    {
+      "id": 1537,
+      "bank": "URALTRANSBANK OAO",
+      "city": "EKATERINBURG",
+      "branch": "",
+      "swift_code": "UTRBRU4E"
+    },
+    {
+      "id": 1576,
+      "bank": "VTB 24 (PJSC)",
+      "city": "EKATERINBURG",
+      "branch": "(N 6602)",
+      "swift_code": "CBGURUMMEKA"
+    },
+    {
+      "id": 1585,
+      "bank": "VTB BANK (PJSC)",
+      "city": "EKATERINBURG",
+      "branch": "(EKATERINBURG BRANCH)",
+      "swift_code": "VTBRRUM2EKA"
+    },
+    {
+      "id": 1586,
+      "bank": "VTB BANK (PJSC)",
+      "city": "EKATERINBURG",
+      "branch": "(URALSKIY BRANCH, EKATERINBURG)",
+      "swift_code": "VTBRRUM2EK2"
+    },
+    {
+      "id": 1606,
+      "bank": "VUZ-BANK OAO",
+      "city": "EKATERINBURG",
+      "branch": "",
+      "swift_code": "VUZBRU41"
+    },
+    {
+      "id": 1628,
+      "bank": "ZAO 'SBERINVESTBANK'",
+      "city": "EKATERINBURG",
+      "branch": "",
+      "swift_code": "OREORU41"
+    },
+    {
+      "id": 1632,
+      "bank": "ZENIT BANK",
+      "city": "EKATERINBURG",
+      "branch": "(URAL BRANCH)",
+      "swift_code": "ZENIRUM1EKT"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Ekaterinburg (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in EKATERINBURG (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 41 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Ekaterinburg (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Ekaterinburg (коды SWIFT/BIC) — 41 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 41 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

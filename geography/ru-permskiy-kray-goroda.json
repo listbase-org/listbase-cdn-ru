@@ -1,0 +1,286 @@
+{
+  "id": "ru-permskiy-kray-goroda",
+  "name": "Города — Пермский край",
+  "title": "Города — Пермский край",
+  "description": "25 городов региона «Пермский край» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Александровск",
+      "population_thousands": 11.9,
+      "latitude": 59.1613221,
+      "longitude": 57.5763459,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Березники",
+      "population_thousands": 139.2,
+      "latitude": 59.4079923,
+      "longitude": 56.8039427,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Верещагино",
+      "population_thousands": 21.3,
+      "latitude": 58.0797571,
+      "longitude": 54.6581309,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Горнозаводск",
+      "population_thousands": 11.2,
+      "latitude": 58.3742532,
+      "longitude": 58.3231716,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Гремячинск",
+      "population_thousands": 8.2,
+      "latitude": 58.5626082,
+      "longitude": 57.8520572,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Губаха",
+      "population_thousands": 19.1,
+      "latitude": 58.8371721,
+      "longitude": 57.554533,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Добрянка",
+      "population_thousands": 32.1,
+      "latitude": 58.469685,
+      "longitude": 56.4130737,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Кизел",
+      "population_thousands": 13.5,
+      "latitude": 59.0512783,
+      "longitude": 57.6471028,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Красновишерск",
+      "population_thousands": 14.8,
+      "latitude": 60.3901321,
+      "longitude": 57.0535682,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Краснокамск",
+      "population_thousands": 52.5,
+      "latitude": 58.0822065,
+      "longitude": 55.7479936,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Кудымкар",
+      "population_thousands": 30.4,
+      "latitude": 59.0167925,
+      "longitude": 54.6572508,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Кунгур",
+      "population_thousands": 64.9,
+      "latitude": 57.4283296,
+      "longitude": 56.9438656,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Лысьва",
+      "population_thousands": 60.3,
+      "latitude": 58.0995875,
+      "longitude": 57.8086825,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Нытва",
+      "population_thousands": 18.1,
+      "latitude": 57.9336725,
+      "longitude": 55.3356084,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Оса",
+      "population_thousands": 20.8,
+      "latitude": 57.2889515,
+      "longitude": 55.4688668,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Оханск",
+      "population_thousands": 7,
+      "latitude": 57.7180034,
+      "longitude": 55.3872469,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Очер",
+      "population_thousands": 14.2,
+      "latitude": 57.8852686,
+      "longitude": 54.7161091,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Пермь",
+      "population_thousands": 1055.4,
+      "latitude": 58.0102583,
+      "longitude": 56.2342034,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Соликамск",
+      "population_thousands": 92.6,
+      "latitude": 59.6482998,
+      "longitude": 56.771009,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Усолье",
+      "population_thousands": 6.3,
+      "latitude": 59.4277573,
+      "longitude": 56.6837872,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Чайковский",
+      "population_thousands": 82.4,
+      "latitude": 56.7781501,
+      "longitude": 54.1477965,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Чердынь",
+      "population_thousands": 4.6,
+      "latitude": 60.4011933,
+      "longitude": 56.4799933,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Чермоз",
+      "population_thousands": 3.3,
+      "latitude": 58.7842834,
+      "longitude": 56.1507138,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Чернушка",
+      "population_thousands": 33.1,
+      "latitude": 56.5160768,
+      "longitude": 56.0763049,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Чусовой",
+      "population_thousands": 43.7,
+      "latitude": 58.2974596,
+      "longitude": 57.8193615,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Пермский край - Бесплатная загрузка",
+    "description": "25 городов региона «Пермский край» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 25 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Пермский край | ListBase",
+    "seo_description": "Скачать Города — Пермский край — 25 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 25 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

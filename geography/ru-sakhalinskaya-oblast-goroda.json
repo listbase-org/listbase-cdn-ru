@@ -1,0 +1,187 @@
+{
+  "id": "ru-sakhalinskaya-oblast-goroda",
+  "name": "Города — Сахалинская область",
+  "title": "Города — Сахалинская область",
+  "description": "14 городов региона «Сахалинская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Александровск-Сахалинский",
+      "population_thousands": 9.1,
+      "latitude": 50.8974378,
+      "longitude": 142.1578559,
+      "region_name": "Сахалинская область",
+      "region_iso_code": "RU-SAK",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Анива",
+      "population_thousands": 9.4,
+      "latitude": 46.713152,
+      "longitude": 142.5265804,
+      "region_name": "Сахалинская область",
+      "region_iso_code": "RU-SAK",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Долинск",
+      "population_thousands": 11.9,
+      "latitude": 47.3255783,
+      "longitude": 142.7945071,
+      "region_name": "Сахалинская область",
+      "region_iso_code": "RU-SAK",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Корсаков",
+      "population_thousands": 34,
+      "latitude": 46.6324545,
+      "longitude": 142.799445,
+      "region_name": "Сахалинская область",
+      "region_iso_code": "RU-SAK",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Курильск",
+      "population_thousands": 1.5,
+      "latitude": 45.2270954,
+      "longitude": 147.8796323,
+      "region_name": "Сахалинская область",
+      "region_iso_code": "RU-SAK",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Макаров",
+      "population_thousands": 6.3,
+      "latitude": 48.6236334,
+      "longitude": 142.7803205,
+      "region_name": "Сахалинская область",
+      "region_iso_code": "RU-SAK",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Невельск",
+      "population_thousands": 9.8,
+      "latitude": 46.6526899,
+      "longitude": 141.8630725,
+      "region_name": "Сахалинская область",
+      "region_iso_code": "RU-SAK",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Оха",
+      "population_thousands": 20,
+      "latitude": 53.5867839,
+      "longitude": 142.9412411,
+      "region_name": "Сахалинская область",
+      "region_iso_code": "RU-SAK",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Поронайск",
+      "population_thousands": 15.6,
+      "latitude": 49.238866,
+      "longitude": 143.1008333,
+      "region_name": "Сахалинская область",
+      "region_iso_code": "RU-SAK",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Северо-Курильск",
+      "population_thousands": 2.6,
+      "latitude": 50.6730577,
+      "longitude": 156.1282211,
+      "region_name": "Сахалинская область",
+      "region_iso_code": "RU-SAK",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Томари",
+      "population_thousands": 3.8,
+      "latitude": 47.7620108,
+      "longitude": 142.0615837,
+      "region_name": "Сахалинская область",
+      "region_iso_code": "RU-SAK",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Углегорск",
+      "population_thousands": 8.7,
+      "latitude": 49.0815774,
+      "longitude": 142.0692639,
+      "region_name": "Сахалинская область",
+      "region_iso_code": "RU-SAK",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Холмск",
+      "population_thousands": 27.1,
+      "latitude": 47.0408423,
+      "longitude": 142.041688,
+      "region_name": "Сахалинская область",
+      "region_iso_code": "RU-SAK",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Южно-Сахалинск",
+      "population_thousands": 200.6,
+      "latitude": 46.9591631,
+      "longitude": 142.737976,
+      "region_name": "Сахалинская область",
+      "region_iso_code": "RU-SAK",
+      "federal_district": "Дальневосточный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Сахалинская область - Бесплатная загрузка",
+    "description": "14 городов региона «Сахалинская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 14 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Сахалинская область | ListBase",
+    "seo_description": "Скачать Города — Сахалинская область — 14 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 14 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

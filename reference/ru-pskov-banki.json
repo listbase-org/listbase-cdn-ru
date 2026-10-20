@@ -1,0 +1,72 @@
+{
+  "id": "ru-pskov-banki",
+  "name": "Банки — Pskov (коды SWIFT/BIC)",
+  "title": "Банки — Pskov (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in PSKOV (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 443,
+      "bank": "EUROSIB BANK",
+      "city": "PSKOV",
+      "branch": "",
+      "swift_code": "PSKORU21"
+    },
+    {
+      "id": 727,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "PSKOV",
+      "branch": "(PSKOVSKY BRANCH)",
+      "swift_code": "RUAGRUM1068"
+    },
+    {
+      "id": 1367,
+      "bank": "SLAVIA BANK",
+      "city": "PSKOV",
+      "branch": "(PSKOV BRANCH)",
+      "swift_code": "SJSMRUM1PSV"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Pskov (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in PSKOV (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 3 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Pskov (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Pskov (коды SWIFT/BIC) — 3 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 3 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

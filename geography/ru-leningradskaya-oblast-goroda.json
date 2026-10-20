@@ -1,0 +1,358 @@
+{
+  "id": "ru-leningradskaya-oblast-goroda",
+  "name": "Города — Ленинградская область",
+  "title": "Города — Ленинградская область",
+  "description": "33 городов региона «Ленинградская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Бокситогорск",
+      "population_thousands": 15.1,
+      "latitude": 59.4734797,
+      "longitude": 33.845688,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Волосово",
+      "population_thousands": 11.8,
+      "latitude": 59.4445408,
+      "longitude": 29.4923355,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Волхов",
+      "population_thousands": 44.3,
+      "latitude": 59.9005958,
+      "longitude": 32.3520756,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Всеволожск",
+      "population_thousands": 74.7,
+      "latitude": 60.0191278,
+      "longitude": 30.6456718,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Выборг",
+      "population_thousands": 75.4,
+      "latitude": 60.7130801,
+      "longitude": 28.7328336,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Высоцк",
+      "population_thousands": 1.1,
+      "latitude": 60.6296236,
+      "longitude": 28.5709314,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Гатчина",
+      "population_thousands": 91.7,
+      "latitude": 59.565237,
+      "longitude": 30.1282473,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Ивангород",
+      "population_thousands": 9.5,
+      "latitude": 59.3766119,
+      "longitude": 28.2231659,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Каменногорск",
+      "population_thousands": 6.3,
+      "latitude": 60.950855,
+      "longitude": 29.1308372,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Кингисепп",
+      "population_thousands": 45.2,
+      "latitude": 59.3740435,
+      "longitude": 28.6112444,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Кириши",
+      "population_thousands": 50.5,
+      "latitude": 59.4742862,
+      "longitude": 32.0624947,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Кировск",
+      "population_thousands": 26.9,
+      "latitude": 59.8754216,
+      "longitude": 30.981364,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Коммунар",
+      "population_thousands": 22.2,
+      "latitude": 59.6215133,
+      "longitude": 30.3934125,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Кудрово",
+      "population_thousands": 41.1,
+      "latitude": 59.9075226,
+      "longitude": 30.5121008,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Лодейное Поле",
+      "population_thousands": 19,
+      "latitude": 60.7320936,
+      "longitude": 33.5521022,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Луга",
+      "population_thousands": 34.6,
+      "latitude": 58.7374031,
+      "longitude": 29.8465776,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Любань",
+      "population_thousands": 4.4,
+      "latitude": 59.3493847,
+      "longitude": 31.2484801,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Мурино",
+      "population_thousands": 64.9,
+      "latitude": 60.044862,
+      "longitude": 30.4571456,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Никольское",
+      "population_thousands": 22.4,
+      "latitude": 59.7043309,
+      "longitude": 30.7874571,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Новая Ладога",
+      "population_thousands": 8,
+      "latitude": 60.1100135,
+      "longitude": 32.3141203,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Отрадное",
+      "population_thousands": 25.8,
+      "latitude": 59.7726848,
+      "longitude": 30.7988557,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Пикалево",
+      "population_thousands": 19.7,
+      "latitude": 59.5132022,
+      "longitude": 34.1772776,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Подпорожье",
+      "population_thousands": 16.7,
+      "latitude": 60.9127549,
+      "longitude": 34.1567664,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Приморск",
+      "population_thousands": 5.6,
+      "latitude": 60.3660209,
+      "longitude": 28.6135772,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Приозерск",
+      "population_thousands": 17.8,
+      "latitude": 61.0330896,
+      "longitude": 30.1587851,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Светогорск",
+      "population_thousands": 15.2,
+      "latitude": 61.1111282,
+      "longitude": 28.8725865,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Сертолово",
+      "population_thousands": 56.6,
+      "latitude": 60.1446932,
+      "longitude": 30.2095918,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Сланцы",
+      "population_thousands": 32.2,
+      "latitude": 59.1178185,
+      "longitude": 28.0881475,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Сосновый Бор",
+      "population_thousands": 67.7,
+      "latitude": 59.8772884,
+      "longitude": 29.1291619,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Сясьстрой",
+      "population_thousands": 12.4,
+      "latitude": 60.1401739,
+      "longitude": 32.5601559,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Тихвин",
+      "population_thousands": 58.1,
+      "latitude": 59.6272904,
+      "longitude": 33.5072731,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Тосно",
+      "population_thousands": 36.3,
+      "latitude": 59.5407098,
+      "longitude": 30.877812,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Шлиссельбург",
+      "population_thousands": 14.9,
+      "latitude": 59.9443714,
+      "longitude": 31.0333365,
+      "region_name": "Ленинградская область",
+      "region_iso_code": "RU-LEN",
+      "federal_district": "Северо-Западный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Ленинградская область - Бесплатная загрузка",
+    "description": "33 городов региона «Ленинградская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 33 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Ленинградская область | ListBase",
+    "seo_description": "Скачать Города — Ленинградская область — 33 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 33 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

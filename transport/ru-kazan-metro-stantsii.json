@@ -1,0 +1,352 @@
+{
+  "id": "ru-kazan-metro-stantsii",
+  "name": "Станции метро — Казань",
+  "title": "Станции метро — Казань",
+  "description": "11 станций метро города Казань. Источник: HeadHunter API через nalgeon/metro (коммит e368582, 2026-04-21).",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name_localized",
+      "label": "Name Localized",
+      "type": "string"
+    },
+    {
+      "key": "name_romanized",
+      "label": "Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "line_id",
+      "label": "Line Id",
+      "type": "number"
+    },
+    {
+      "key": "line_name_localized",
+      "label": "Line Name Localized",
+      "type": "string"
+    },
+    {
+      "key": "line_name_romanized",
+      "label": "Line Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "line_color",
+      "label": "Line Color",
+      "type": "string"
+    },
+    {
+      "key": "city_id",
+      "label": "City Id",
+      "type": "number"
+    },
+    {
+      "key": "city_slug",
+      "label": "City Slug",
+      "type": "string"
+    },
+    {
+      "key": "city_name_localized",
+      "label": "City Name Localized",
+      "type": "string"
+    },
+    {
+      "key": "city_name_romanized",
+      "label": "City Name Romanized",
+      "type": "string"
+    },
+    {
+      "key": "city_name_source_localized",
+      "label": "City Name Source Localized",
+      "type": "string"
+    },
+    {
+      "key": "city_name_source_romanized",
+      "label": "City Name Source Romanized",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "station_order",
+      "label": "Station Order",
+      "type": "number"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "country_localized",
+      "label": "Country Localized",
+      "type": "string"
+    },
+    {
+      "key": "country_romanized",
+      "label": "Country Romanized",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "49.462",
+      "name_localized": "Авиастроительная ",
+      "name_romanized": "Aviastroitelnaya ",
+      "line_id": "49",
+      "line_name_localized": "Центральная",
+      "line_name_romanized": "Tsentralnaya",
+      "line_color": "CD0505",
+      "city_id": "88",
+      "city_slug": "kazan",
+      "city_name_localized": "Казань",
+      "city_name_romanized": "Kazan",
+      "city_name_source_localized": "Казань",
+      "city_name_source_romanized": "Kazan",
+      "latitude": 55.828897,
+      "longitude": 49.081403,
+      "station_order": 0,
+      "country_code": "RU",
+      "country_localized": "Россия",
+      "country_romanized": "Russia"
+    },
+    {
+      "id": "49.461",
+      "name_localized": "Северный вокзал",
+      "name_romanized": "Severny Vokzal",
+      "line_id": "49",
+      "line_name_localized": "Центральная",
+      "line_name_romanized": "Tsentralnaya",
+      "line_color": "CD0505",
+      "city_id": "88",
+      "city_slug": "kazan",
+      "city_name_localized": "Казань",
+      "city_name_romanized": "Kazan",
+      "city_name_source_localized": "Казань",
+      "city_name_source_romanized": "Kazan",
+      "latitude": 55.841519,
+      "longitude": 49.081778,
+      "station_order": 1,
+      "country_code": "RU",
+      "country_localized": "Россия",
+      "country_romanized": "Russia"
+    },
+    {
+      "id": "49.460",
+      "name_localized": "Яшьлек (Юность)",
+      "name_romanized": "Yashlek (Yunost)",
+      "line_id": "49",
+      "line_name_localized": "Центральная",
+      "line_name_romanized": "Tsentralnaya",
+      "line_color": "CD0505",
+      "city_id": "88",
+      "city_slug": "kazan",
+      "city_name_localized": "Казань",
+      "city_name_romanized": "Kazan",
+      "city_name_source_localized": "Казань",
+      "city_name_source_romanized": "Kazan",
+      "latitude": 55.827843,
+      "longitude": 49.082905,
+      "station_order": 2,
+      "country_code": "RU",
+      "country_localized": "Россия",
+      "country_romanized": "Russia"
+    },
+    {
+      "id": "49.271",
+      "name_localized": "Козья слобода",
+      "name_romanized": "Kozia Sloboda",
+      "line_id": "49",
+      "line_name_localized": "Центральная",
+      "line_name_romanized": "Tsentralnaya",
+      "line_color": "CD0505",
+      "city_id": "88",
+      "city_slug": "kazan",
+      "city_name_localized": "Казань",
+      "city_name_romanized": "Kazan",
+      "city_name_source_localized": "Казань",
+      "city_name_source_romanized": "Kazan",
+      "latitude": 55.817608,
+      "longitude": 49.097646,
+      "station_order": 3,
+      "country_code": "RU",
+      "country_localized": "Россия",
+      "country_romanized": "Russia"
+    },
+    {
+      "id": "49.272",
+      "name_localized": "Кремлевская",
+      "name_romanized": "Kremlyovskaya",
+      "line_id": "49",
+      "line_name_localized": "Центральная",
+      "line_name_romanized": "Tsentralnaya",
+      "line_color": "CD0505",
+      "city_id": "88",
+      "city_slug": "kazan",
+      "city_name_localized": "Казань",
+      "city_name_romanized": "Kazan",
+      "city_name_source_localized": "Казань",
+      "city_name_source_romanized": "Kazan",
+      "latitude": 55.795206,
+      "longitude": 49.105426,
+      "station_order": 4,
+      "country_code": "RU",
+      "country_localized": "Россия",
+      "country_romanized": "Russia"
+    },
+    {
+      "id": "49.273",
+      "name_localized": "Площадь Тукая",
+      "name_romanized": "Ploschad Tukaya",
+      "line_id": "49",
+      "line_name_localized": "Центральная",
+      "line_name_romanized": "Tsentralnaya",
+      "line_color": "CD0505",
+      "city_id": "88",
+      "city_slug": "kazan",
+      "city_name_localized": "Казань",
+      "city_name_romanized": "Kazan",
+      "city_name_source_localized": "Казань",
+      "city_name_source_romanized": "Kazan",
+      "latitude": 55.787163,
+      "longitude": 49.122126,
+      "station_order": 5,
+      "country_code": "RU",
+      "country_localized": "Россия",
+      "country_romanized": "Russia"
+    },
+    {
+      "id": "49.274",
+      "name_localized": "Суконная слобода",
+      "name_romanized": "Sukonnaya Sloboda",
+      "line_id": "49",
+      "line_name_localized": "Центральная",
+      "line_name_romanized": "Tsentralnaya",
+      "line_color": "CD0505",
+      "city_id": "88",
+      "city_slug": "kazan",
+      "city_name_localized": "Казань",
+      "city_name_romanized": "Kazan",
+      "city_name_source_localized": "Казань",
+      "city_name_source_romanized": "Kazan",
+      "latitude": 55.777094,
+      "longitude": 49.142275,
+      "station_order": 6,
+      "country_code": "RU",
+      "country_localized": "Россия",
+      "country_romanized": "Russia"
+    },
+    {
+      "id": "49.275",
+      "name_localized": "Аметьево",
+      "name_romanized": "Ametievo",
+      "line_id": "49",
+      "line_name_localized": "Центральная",
+      "line_name_romanized": "Tsentralnaya",
+      "line_color": "CD0505",
+      "city_id": "88",
+      "city_slug": "kazan",
+      "city_name_localized": "Казань",
+      "city_name_romanized": "Kazan",
+      "city_name_source_localized": "Казань",
+      "city_name_source_romanized": "Kazan",
+      "latitude": 55.765346,
+      "longitude": 49.165083,
+      "station_order": 7,
+      "country_code": "RU",
+      "country_localized": "Россия",
+      "country_romanized": "Russia"
+    },
+    {
+      "id": "49.276",
+      "name_localized": "Горки",
+      "name_romanized": "Gorky",
+      "line_id": "49",
+      "line_name_localized": "Центральная",
+      "line_name_romanized": "Tsentralnaya",
+      "line_color": "CD0505",
+      "city_id": "88",
+      "city_slug": "kazan",
+      "city_name_localized": "Казань",
+      "city_name_romanized": "Kazan",
+      "city_name_source_localized": "Казань",
+      "city_name_source_romanized": "Kazan",
+      "latitude": 55.760763,
+      "longitude": 49.189679,
+      "station_order": 8,
+      "country_code": "RU",
+      "country_localized": "Россия",
+      "country_romanized": "Russia"
+    },
+    {
+      "id": "49.277",
+      "name_localized": "Проспект Победы",
+      "name_romanized": "Prospekt Pobedy",
+      "line_id": "49",
+      "line_name_localized": "Центральная",
+      "line_name_romanized": "Tsentralnaya",
+      "line_color": "CD0505",
+      "city_id": "88",
+      "city_slug": "kazan",
+      "city_name_localized": "Казань",
+      "city_name_romanized": "Kazan",
+      "city_name_source_localized": "Казань",
+      "city_name_source_romanized": "Kazan",
+      "latitude": 55.750109,
+      "longitude": 49.207735,
+      "station_order": 9,
+      "country_code": "RU",
+      "country_localized": "Россия",
+      "country_romanized": "Russia"
+    },
+    {
+      "id": "49.640",
+      "name_localized": "Дубравная",
+      "name_romanized": "Dubravnaya",
+      "line_id": "49",
+      "line_name_localized": "Центральная",
+      "line_name_romanized": "Tsentralnaya",
+      "line_color": "CD0505",
+      "city_id": "88",
+      "city_slug": "kazan",
+      "city_name_localized": "Казань",
+      "city_name_romanized": "Kazan",
+      "city_name_source_localized": "Казань",
+      "city_name_source_romanized": "Kazan",
+      "latitude": 55.7425,
+      "longitude": 49.2197,
+      "station_order": 10,
+      "country_code": "RU",
+      "country_localized": "Россия",
+      "country_romanized": "Russia"
+    }
+  ],
+  "meta": {
+    "title": "Станции метро — Казань - Бесплатная загрузка",
+    "description": "11 станций метро города Казань. Источник: HeadHunter API через nalgeon/metro (коммит e368582, 2026-04-21). Содержит 11 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Станции метро — Казань | ListBase",
+    "seo_description": "Скачать Станции метро — Казань — 11 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 11 записей / 19 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

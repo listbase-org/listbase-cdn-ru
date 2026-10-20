@@ -1,0 +1,170 @@
+{
+  "id": "ru-voronezh-banki",
+  "name": "Банки — Voronezh (коды SWIFT/BIC)",
+  "title": "Банки — Voronezh (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in VORONEZH (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 144,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "VORONEZH",
+      "branch": "(VORONEZH BRANCH)",
+      "swift_code": "MOBWRUM1VOR"
+    },
+    {
+      "id": 236,
+      "bank": "BANK ''ROSSIYA''",
+      "city": "VORONEZH",
+      "branch": "(VORONEZH BRANCH)",
+      "swift_code": "ROSYRU21VOR"
+    },
+    {
+      "id": 284,
+      "bank": "BANK VORONEZH",
+      "city": "VORONEZH",
+      "branch": "",
+      "swift_code": "VORZRUM1"
+    },
+    {
+      "id": 511,
+      "bank": "GAZPROMBANK (JOINT - STOCK COMPANY)",
+      "city": "VORONEZH",
+      "branch": "(TSENTRALNO-CHERNOZEMNY BRANCH)",
+      "swift_code": "GAZPRUMM049"
+    },
+    {
+      "id": 586,
+      "bank": "INVESTMENT TRADE BANK PJSC",
+      "city": "VORONEZH",
+      "branch": "(VORONEZHSKY BRANCH)",
+      "swift_code": "INVJRUM1VRN"
+    },
+    {
+      "id": 748,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "VORONEZH",
+      "branch": "(VORONEZHSKY BRANCH)",
+      "swift_code": "RUAGRUM1014"
+    },
+    {
+      "id": 817,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "VORONEZH",
+      "branch": "(VORONEZHSKOE REGIONAL DEPARTMENT OFFICE)",
+      "swift_code": "MINNRUM1039"
+    },
+    {
+      "id": 1261,
+      "bank": "ROST BANK",
+      "city": "VORONEZH",
+      "branch": "(VORONEZH BRANCH)",
+      "swift_code": "JORORU21VOB"
+    },
+    {
+      "id": 1322,
+      "bank": "SBERBANK",
+      "city": "VORONEZH",
+      "branch": "(TSENTRALNO-CHERNOZEMNY HEAD OFFICE)",
+      "swift_code": "SABRRUMMVH1"
+    },
+    {
+      "id": 1345,
+      "bank": "SDM-BANK PJSC",
+      "city": "VORONEZH",
+      "branch": "(VORONEZH BRANCH)",
+      "swift_code": "SJSCRUMMVRN"
+    },
+    {
+      "id": 1409,
+      "bank": "SOVCOMBANK",
+      "city": "VORONEZH",
+      "branch": "(VORONEZH BRANCH)",
+      "swift_code": "SOMRRUM1VRN"
+    },
+    {
+      "id": 1481,
+      "bank": "THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)",
+      "city": "VORONEZH",
+      "branch": "(VORONEZHSKIJ BRANCH)",
+      "swift_code": "UBRDRU41VRN"
+    },
+    {
+      "id": 1507,
+      "bank": "TRANSKAPITALBANK",
+      "city": "VORONEZH",
+      "branch": "(VORONEZH BRANCH)",
+      "swift_code": "TJSCRUM1VRN"
+    },
+    {
+      "id": 1510,
+      "bank": "TSENTRALNO-CHERNOZEMNY BRANCH OF JOINT STOCK COMMERCIAL BANK INVESTBANK OPEN-END JSC",
+      "city": "VORONEZH",
+      "branch": "",
+      "swift_code": "VORNRU21"
+    },
+    {
+      "id": 1575,
+      "bank": "VOZROZHDENIE BANK",
+      "city": "VORONEZH",
+      "branch": "(VORONEZH BRANCH)",
+      "swift_code": "VBNKRUM1VRZ"
+    },
+    {
+      "id": 1584,
+      "bank": "VTB 24 (PJSC)",
+      "city": "VORONEZH",
+      "branch": "(N 3652)",
+      "swift_code": "CBGURUMMVOR"
+    },
+    {
+      "id": 1604,
+      "bank": "VTB BANK (PJSC)",
+      "city": "VORONEZH",
+      "branch": "(VORONEZH BRANCH)",
+      "swift_code": "VTBRRUM2VRN"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Voronezh (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in VORONEZH (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 17 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Voronezh (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Voronezh (коды SWIFT/BIC) — 17 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 17 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

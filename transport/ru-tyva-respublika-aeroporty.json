@@ -1,0 +1,269 @@
+{
+  "id": "ru-tyva-respublika-aeroporty",
+  "name": "Аэропорты — Tuva Republic (RU-TY)",
+  "title": "Аэропорты — Tuva Republic (RU-TY)",
+  "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Tuva Republic (ISO 3166-2 RU-TY) — 6 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"heliport\": 3, \"small_airport\": 2, \"medium_airport\": 1}. Извлечено из OurAirports.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 341607,
+      "ident": "RU-0644",
+      "type": "heliport",
+      "name": "Erzin Heliport",
+      "latitude_deg": 50.24946,
+      "longitude_deg": 95.15788,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-TY",
+      "region_local_code": "TY",
+      "region_name": "Tuva Republic",
+      "municipality": "Erzin",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "id": 341608,
+      "ident": "RU-0645",
+      "type": "small_airport",
+      "name": "Kyzyl-Mazhalyk Airport",
+      "latitude_deg": 51.14266,
+      "longitude_deg": 90.58967,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-TY",
+      "region_local_code": "TY",
+      "region_name": "Tuva Republic",
+      "municipality": "Kyzyl-Mazhalyk",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "UNKD",
+      "local_code": "UNKD",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "УНКД, Кызыл-Мажалык"
+    },
+    {
+      "id": 352973,
+      "ident": "RU-0849",
+      "type": "heliport",
+      "name": "Khandagayty Heliport",
+      "latitude_deg": 50.7441,
+      "longitude_deg": 92.10262,
+      "elevation_ft": 3786,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-TY",
+      "region_local_code": "TY",
+      "region_name": "Tuva Republic",
+      "municipality": "Khandagayty",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "id": 352974,
+      "ident": "RU-0850",
+      "type": "heliport",
+      "name": "Chaa-Suur Heliport",
+      "latitude_deg": 50.79463,
+      "longitude_deg": 92.74784,
+      "elevation_ft": 4111,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-TY",
+      "region_local_code": "TY",
+      "region_name": "Tuva Republic",
+      "municipality": "Chaa-Suur",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "id": 352975,
+      "ident": "RU-0851",
+      "type": "small_airport",
+      "name": "Kungurtug Airport",
+      "latitude_deg": 50.60054,
+      "longitude_deg": 97.50883,
+      "elevation_ft": 4308,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-TY",
+      "region_local_code": "TY",
+      "region_name": "Tuva Republic",
+      "municipality": "Kungurtug",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "id": 31793,
+      "ident": "UNKY",
+      "type": "medium_airport",
+      "name": "Kyzyl Airport",
+      "latitude_deg": 51.669399,
+      "longitude_deg": 94.400597,
+      "elevation_ft": 2123,
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-TY",
+      "region_local_code": "TY",
+      "region_name": "Tuva Republic",
+      "municipality": "Kyzyl",
+      "scheduled_service": "yes",
+      "icao_code": "UNKY",
+      "iata_code": "KYZ",
+      "gps_code": "UNKY",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Kyzyl_Airport",
+      "keywords": ""
+    }
+  ],
+  "meta": {
+    "title": "Аэропорты — Tuva Republic (RU-TY) - Бесплатная загрузка",
+    "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Tuva Republic (ISO 3166-2 RU-TY) — 6 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"heliport\": 3, \"small_airport\": 2, \"medium_airport\": 1}. Извлечено из OurAirports. Содержит 6 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Аэропорты — Tuva Republic (RU-TY) | ListBase",
+    "seo_description": "Скачать Аэропорты — Tuva Republic (RU-TY) — 6 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 6 записей / 21 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

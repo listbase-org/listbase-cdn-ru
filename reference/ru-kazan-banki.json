@@ -1,0 +1,198 @@
+{
+  "id": "ru-kazan-banki",
+  "name": "Банки — Kazan (коды SWIFT/BIC)",
+  "title": "Банки — Kazan (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in KAZAN (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 18,
+      "bank": "AK BARS BANK",
+      "city": "KAZAN",
+      "branch": "(KAZAN BRANCH)",
+      "swift_code": "ARRSRU21KAZ"
+    },
+    {
+      "id": 19,
+      "bank": "AK BARS BANK",
+      "city": "KAZAN",
+      "branch": "",
+      "swift_code": "ARRSRU2K"
+    },
+    {
+      "id": 78,
+      "bank": "AVERS BANK",
+      "city": "KAZAN",
+      "branch": "",
+      "swift_code": "BKAVRU2K"
+    },
+    {
+      "id": 102,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "KAZAN",
+      "branch": "(KAZAN BRANCH)",
+      "swift_code": "MOBWRUM1KAZ"
+    },
+    {
+      "id": 183,
+      "bank": "BANK OF KAZAN, KBER, OOO",
+      "city": "KAZAN",
+      "branch": "",
+      "swift_code": "KABORU2K"
+    },
+    {
+      "id": 305,
+      "bank": "BULGAR BANK ZAO",
+      "city": "KAZAN",
+      "branch": "",
+      "swift_code": "BULGRU21"
+    },
+    {
+      "id": 434,
+      "bank": "ENERGOBANK",
+      "city": "KAZAN",
+      "branch": "",
+      "swift_code": "TRCBRU2K"
+    },
+    {
+      "id": 493,
+      "bank": "GAZPROMBANK (JOINT - STOCK COMPANY)",
+      "city": "KAZAN",
+      "branch": "(KAZAN BRANCH)",
+      "swift_code": "GAZPRUMM047"
+    },
+    {
+      "id": 564,
+      "bank": "INVESTMENT COOPERATIVE BANK JSC",
+      "city": "KAZAN",
+      "branch": "",
+      "swift_code": "CECBRU2K"
+    },
+    {
+      "id": 570,
+      "bank": "INVESTMENT TRADE BANK PJSC",
+      "city": "KAZAN",
+      "branch": "(KAZANSKY BRANCH)",
+      "swift_code": "INVJRUM1KZN"
+    },
+    {
+      "id": 589,
+      "bank": "IPOTEKA-INVEST BANK",
+      "city": "KAZAN",
+      "branch": "",
+      "swift_code": "IPOTRU21"
+    },
+    {
+      "id": 600,
+      "bank": "JOINT STOCK BANK OF SOCIAL DEVELOPMENT OF TATARSTAN TATSOTSBANK",
+      "city": "KAZAN",
+      "branch": "",
+      "swift_code": "TSDBRU21"
+    },
+    {
+      "id": 648,
+      "bank": "JSC BANK OF SOCIAL DEVELOPMENT OF TATARSTAN TATSOTSBANK",
+      "city": "KAZAN",
+      "branch": "",
+      "swift_code": "TSDBRU22"
+    },
+    {
+      "id": 698,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "KAZAN",
+      "branch": "(TATARSTANSKY BRANCH)",
+      "swift_code": "RUAGRUM1067"
+    },
+    {
+      "id": 992,
+      "bank": "NETWORK CLEARING HOUSE",
+      "city": "KAZAN",
+      "branch": "",
+      "swift_code": "NECHRU2K"
+    },
+    {
+      "id": 1431,
+      "bank": "SVIAZ-BANK",
+      "city": "KAZAN",
+      "branch": "(KAZAN BRANCH)",
+      "swift_code": "SVIZRUM1KAZ"
+    },
+    {
+      "id": 1458,
+      "bank": "TAT INVEST BANK",
+      "city": "KAZAN",
+      "branch": "",
+      "swift_code": "TANVRU21"
+    },
+    {
+      "id": 1459,
+      "bank": "TATAGROPROMBANK",
+      "city": "KAZAN",
+      "branch": "",
+      "swift_code": "TATGRU21"
+    },
+    {
+      "id": 1483,
+      "bank": "TIMER BANK PJSC",
+      "city": "KAZAN",
+      "branch": "",
+      "swift_code": "TIMERU2K"
+    },
+    {
+      "id": 1629,
+      "bank": "ZARECHYE BANK",
+      "city": "KAZAN",
+      "branch": "",
+      "swift_code": "ZAJCRU2K"
+    },
+    {
+      "id": 1633,
+      "bank": "ZENIT BANK",
+      "city": "KAZAN",
+      "branch": "(TATARSTAN BRANCH)",
+      "swift_code": "ZENIRUM1KZN"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Kazan (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in KAZAN (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 21 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Kazan (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Kazan (коды SWIFT/BIC) — 21 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 21 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

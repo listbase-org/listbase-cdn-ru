@@ -1,0 +1,114 @@
+{
+  "id": "ru-vladimir-banki",
+  "name": "Банки — Vladimir (коды SWIFT/BIC)",
+  "title": "Банки — Vladimir (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in VLADIMIR (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 452,
+      "bank": "EVROFINANCE MOSNARBANK",
+      "city": "VLADIMIR",
+      "branch": "(VLADIMIR BRANCH)",
+      "swift_code": "EVRFRUM1VLD"
+    },
+    {
+      "id": 584,
+      "bank": "INVESTMENT TRADE BANK PJSC",
+      "city": "VLADIMIR",
+      "branch": "(POKROVSKY BRANCH)",
+      "swift_code": "INVJRUM1VLD"
+    },
+    {
+      "id": 745,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "VLADIMIR",
+      "branch": "(VLADIMIRSKY BRANCH)",
+      "swift_code": "RUAGRUM1041"
+    },
+    {
+      "id": 815,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "VLADIMIR",
+      "branch": "(VLADIMIRSKOE REGIONAL DEPARTMENT)",
+      "swift_code": "MINNRUM1026"
+    },
+    {
+      "id": 932,
+      "bank": "MOSOBLBANK",
+      "city": "VLADIMIR",
+      "branch": "(FILIAL 16)",
+      "swift_code": "MOBKRUM1016"
+    },
+    {
+      "id": 965,
+      "bank": "NATIONAL BANK TRUST",
+      "city": "VLADIMIR",
+      "branch": "(VLADIMIR BRANCH)",
+      "swift_code": "NBTRRUM1VLA"
+    },
+    {
+      "id": 1257,
+      "bank": "ROST BANK",
+      "city": "VLADIMIR",
+      "branch": "(VLADIMIR BRANCH)",
+      "swift_code": "JORORU21VDB"
+    },
+    {
+      "id": 1407,
+      "bank": "SOVCOMBANK",
+      "city": "VLADIMIR",
+      "branch": "(VLADIMIR BRANCH)",
+      "swift_code": "SOMRRUM1VLD"
+    },
+    {
+      "id": 1543,
+      "bank": "VLADBIZNESBANK ZAO",
+      "city": "VLADIMIR",
+      "branch": "",
+      "swift_code": "VLADRU21"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Vladimir (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in VLADIMIR (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 9 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Vladimir (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Vladimir (коды SWIFT/BIC) — 9 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 9 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "ru-surgut-banki",
+  "name": "Банки — Surgut (коды SWIFT/BIC)",
+  "title": "Банки — Surgut (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in SURGUT (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 30,
+      "bank": "AKKOBANK OAO",
+      "city": "SURGUT",
+      "branch": "",
+      "swift_code": "AKKORU51"
+    },
+    {
+      "id": 134,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "SURGUT",
+      "branch": "(SURGUT BRANCH)",
+      "swift_code": "MOBWRUM1SUR"
+    },
+    {
+      "id": 392,
+      "bank": "COMMERCIAL BANK 'SIBIRGAZBANK' AO",
+      "city": "SURGUT",
+      "branch": "",
+      "swift_code": "SIBJRU51"
+    },
+    {
+      "id": 506,
+      "bank": "GAZPROMBANK (JOINT - STOCK COMPANY)",
+      "city": "SURGUT",
+      "branch": "(SURGUT BRANCH)",
+      "swift_code": "GAZPRUMM048"
+    },
+    {
+      "id": 620,
+      "bank": "JOINT STOCK COMPANY SURGUTNEFTEGASBANK",
+      "city": "SURGUT",
+      "branch": "(TRUST DEPARTMENT)",
+      "swift_code": "SGUBRU5SDU1"
+    },
+    {
+      "id": 621,
+      "bank": "JOINT STOCK COMPANY SURGUTNEFTEGASBANK",
+      "city": "SURGUT",
+      "branch": "",
+      "swift_code": "SGUBRU5S"
+    },
+    {
+      "id": 1423,
+      "bank": "SURGUT CENTRAL COMBANK",
+      "city": "SURGUT",
+      "branch": "",
+      "swift_code": "SUCCRU51"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Surgut (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in SURGUT (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 7 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Surgut (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Surgut (коды SWIFT/BIC) — 7 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 7 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

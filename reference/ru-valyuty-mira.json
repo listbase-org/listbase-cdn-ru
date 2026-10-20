@@ -1,0 +1,1466 @@
+{
+  "id": "ru-valyuty-mira",
+  "name": "Валюты мира",
+  "title": "Валюты мира",
+  "description": "Валюты мира — коды ISO 4217 (исторические и действующие) с названиями на русском языке, одна запись на код валюты (285 записей). Включает доллар США (USD), евро (EUR), российский рубль (RUB), фунт стерлингов (GBP), японскую иену (JPY), китайский юань (CNY), украинскую гривну (UAH), казахский тенге (KZT) и другие. Сортировка по коду валюты. Источник — данные CLDR (Unicode) через репозиторий umpirsky/currency-list. FIRST currency inventory in the RU bucket.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 285,
+  "columns": [
+    {
+      "key": "kod",
+      "label": "Kod",
+      "type": "string"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kod": "ADP",
+      "nazvanie": "Андоррская песета",
+      "name_en": "Andorran Peseta"
+    },
+    {
+      "kod": "AED",
+      "nazvanie": "Дирхам ОАЭ",
+      "name_en": "United Arab Emirates Dirham"
+    },
+    {
+      "kod": "AFA",
+      "nazvanie": "Афгани (1927–2002)",
+      "name_en": "Afghan Afghani (1927–2002)"
+    },
+    {
+      "kod": "AFN",
+      "nazvanie": "Афгани",
+      "name_en": "Afghan Afghani"
+    },
+    {
+      "kod": "ALK",
+      "nazvanie": "Albanian Lek (1946–1965)",
+      "name_en": "Albanian Lek (1946–1965)"
+    },
+    {
+      "kod": "ALL",
+      "nazvanie": "Албанский лек",
+      "name_en": "Albanian Lek"
+    },
+    {
+      "kod": "AMD",
+      "nazvanie": "Армянский драм",
+      "name_en": "Armenian Dram"
+    },
+    {
+      "kod": "ANG",
+      "nazvanie": "Нидерландский антильский гульден",
+      "name_en": "Netherlands Antillean Guilder"
+    },
+    {
+      "kod": "AOA",
+      "nazvanie": "Ангольская кванза",
+      "name_en": "Angolan Kwanza"
+    },
+    {
+      "kod": "AOK",
+      "nazvanie": "Ангольская кванза (1977–1990)",
+      "name_en": "Angolan Kwanza (1977–1991)"
+    },
+    {
+      "kod": "AON",
+      "nazvanie": "Ангольская новая кванза (1990–2000)",
+      "name_en": "Angolan New Kwanza (1990–2000)"
+    },
+    {
+      "kod": "AOR",
+      "nazvanie": "Ангольская кванза реюстадо (1995–1999)",
+      "name_en": "Angolan Readjusted Kwanza (1995–1999)"
+    },
+    {
+      "kod": "ARA",
+      "nazvanie": "Аргентинский аустрал",
+      "name_en": "Argentine Austral"
+    },
+    {
+      "kod": "ARL",
+      "nazvanie": "Argentine Peso Ley (1970–1983)",
+      "name_en": "Argentine Peso Ley (1970–1983)"
+    },
+    {
+      "kod": "ARM",
+      "nazvanie": "Argentine Peso (1881–1970)",
+      "name_en": "Argentine Peso (1881–1970)"
+    },
+    {
+      "kod": "ARP",
+      "nazvanie": "Аргентинское песо (1983–1985)",
+      "name_en": "Argentine Peso (1983–1985)"
+    },
+    {
+      "kod": "ARS",
+      "nazvanie": "Аргентинское песо",
+      "name_en": "Argentine Peso"
+    },
+    {
+      "kod": "ATS",
+      "nazvanie": "Австрийский шиллинг",
+      "name_en": "Austrian Schilling"
+    },
+    {
+      "kod": "AUD",
+      "nazvanie": "Австралийский доллар",
+      "name_en": "Australian Dollar"
+    },
+    {
+      "kod": "AWG",
+      "nazvanie": "Арубанский флорин",
+      "name_en": "Aruban Florin"
+    },
+    {
+      "kod": "AZM",
+      "nazvanie": "Старый азербайджанский манат",
+      "name_en": "Azerbaijani Manat (1993–2006)"
+    },
+    {
+      "kod": "AZN",
+      "nazvanie": "Азербайджанский манат",
+      "name_en": "Azerbaijani Manat"
+    },
+    {
+      "kod": "BAD",
+      "nazvanie": "Динар Боснии и Герцеговины",
+      "name_en": "Bosnia-Herzegovina Dinar (1992–1994)"
+    },
+    {
+      "kod": "BAM",
+      "nazvanie": "Конвертируемая марка Боснии и Герцеговины",
+      "name_en": "Bosnia-Herzegovina Convertible Mark"
+    },
+    {
+      "kod": "BAN",
+      "nazvanie": "Bosnia-Herzegovina New Dinar (1994–1997)",
+      "name_en": "Bosnia-Herzegovina New Dinar (1994–1997)"
+    },
+    {
+      "kod": "BBD",
+      "nazvanie": "Барбадосский доллар",
+      "name_en": "Barbadian Dollar"
+    },
+    {
+      "kod": "BDT",
+      "nazvanie": "Бангладешская така",
+      "name_en": "Bangladeshi Taka"
+    },
+    {
+      "kod": "BEC",
+      "nazvanie": "Бельгийский франк (конвертируемый)",
+      "name_en": "Belgian Franc (convertible)"
+    },
+    {
+      "kod": "BEF",
+      "nazvanie": "Бельгийский франк",
+      "name_en": "Belgian Franc"
+    },
+    {
+      "kod": "BEL",
+      "nazvanie": "Бельгийский франк (финансовый)",
+      "name_en": "Belgian Franc (financial)"
+    },
+    {
+      "kod": "BGL",
+      "nazvanie": "Лев",
+      "name_en": "Bulgarian Hard Lev"
+    },
+    {
+      "kod": "BGM",
+      "nazvanie": "Bulgarian Socialist Lev",
+      "name_en": "Bulgarian Socialist Lev"
+    },
+    {
+      "kod": "BGN",
+      "nazvanie": "Болгарский лев",
+      "name_en": "Bulgarian Lev"
+    },
+    {
+      "kod": "BGO",
+      "nazvanie": "Bulgarian Lev (1879–1952)",
+      "name_en": "Bulgarian Lev (1879–1952)"
+    },
+    {
+      "kod": "BHD",
+      "nazvanie": "Бахрейнский динар",
+      "name_en": "Bahraini Dinar"
+    },
+    {
+      "kod": "BIF",
+      "nazvanie": "Бурундийский франк",
+      "name_en": "Burundian Franc"
+    },
+    {
+      "kod": "BMD",
+      "nazvanie": "Бермудский доллар",
+      "name_en": "Bermudan Dollar"
+    },
+    {
+      "kod": "BND",
+      "nazvanie": "Брунейский доллар",
+      "name_en": "Brunei Dollar"
+    },
+    {
+      "kod": "BOB",
+      "nazvanie": "Боливийский боливиано",
+      "name_en": "Bolivian Boliviano"
+    },
+    {
+      "kod": "BOL",
+      "nazvanie": "Bolivian Boliviano (1863–1963)",
+      "name_en": "Bolivian Boliviano (1863–1963)"
+    },
+    {
+      "kod": "BOP",
+      "nazvanie": "Боливийское песо",
+      "name_en": "Bolivian Peso"
+    },
+    {
+      "kod": "BOV",
+      "nazvanie": "Боливийский мвдол",
+      "name_en": "Bolivian Mvdol"
+    },
+    {
+      "kod": "BRB",
+      "nazvanie": "Бразильский новый крузейро (1967–1986)",
+      "name_en": "Brazilian New Cruzeiro (1967–1986)"
+    },
+    {
+      "kod": "BRC",
+      "nazvanie": "Бразильское крузадо",
+      "name_en": "Brazilian Cruzado (1986–1989)"
+    },
+    {
+      "kod": "BRE",
+      "nazvanie": "Бразильский крузейро (1990–1993)",
+      "name_en": "Brazilian Cruzeiro (1990–1993)"
+    },
+    {
+      "kod": "BRL",
+      "nazvanie": "Бразильский реал",
+      "name_en": "Brazilian Real"
+    },
+    {
+      "kod": "BRN",
+      "nazvanie": "Бразильское новое крузадо",
+      "name_en": "Brazilian New Cruzado (1989–1990)"
+    },
+    {
+      "kod": "BRR",
+      "nazvanie": "Бразильский крузейро",
+      "name_en": "Brazilian Cruzeiro (1993–1994)"
+    },
+    {
+      "kod": "BRZ",
+      "nazvanie": "Brazilian Cruzeiro (1942–1967)",
+      "name_en": "Brazilian Cruzeiro (1942–1967)"
+    },
+    {
+      "kod": "BSD",
+      "nazvanie": "Багамский доллар",
+      "name_en": "Bahamian Dollar"
+    },
+    {
+      "kod": "BTN",
+      "nazvanie": "Бутанский нгултрум",
+      "name_en": "Bhutanese Ngultrum"
+    },
+    {
+      "kod": "BUK",
+      "nazvanie": "Джа",
+      "name_en": "Burmese Kyat"
+    },
+    {
+      "kod": "BWP",
+      "nazvanie": "Ботсванская пула",
+      "name_en": "Botswanan Pula"
+    },
+    {
+      "kod": "BYB",
+      "nazvanie": "Белорусский рубль (1994–1999)",
+      "name_en": "Belarusian Ruble (1994–1999)"
+    },
+    {
+      "kod": "BYN",
+      "nazvanie": "Белорусский рубль",
+      "name_en": "Belarusian Ruble"
+    },
+    {
+      "kod": "BYR",
+      "nazvanie": "Белорусский рубль (2000–2016)",
+      "name_en": "Belarusian Ruble (2000–2016)"
+    },
+    {
+      "kod": "BZD",
+      "nazvanie": "Белизский доллар",
+      "name_en": "Belize Dollar"
+    },
+    {
+      "kod": "CAD",
+      "nazvanie": "Канадский доллар",
+      "name_en": "Canadian Dollar"
+    },
+    {
+      "kod": "CDF",
+      "nazvanie": "Конголезский франк",
+      "name_en": "Congolese Franc"
+    },
+    {
+      "kod": "CHE",
+      "nazvanie": "WIR евро",
+      "name_en": "WIR Euro"
+    },
+    {
+      "kod": "CHF",
+      "nazvanie": "Швейцарский франк",
+      "name_en": "Swiss Franc"
+    },
+    {
+      "kod": "CHW",
+      "nazvanie": "WIR франк",
+      "name_en": "WIR Franc"
+    },
+    {
+      "kod": "CLE",
+      "nazvanie": "Chilean Escudo",
+      "name_en": "Chilean Escudo"
+    },
+    {
+      "kod": "CLF",
+      "nazvanie": "Условная расчетная единица Чили",
+      "name_en": "Chilean Unit of Account (UF)"
+    },
+    {
+      "kod": "CLP",
+      "nazvanie": "Чилийское песо",
+      "name_en": "Chilean Peso"
+    },
+    {
+      "kod": "CNX",
+      "nazvanie": "Chinese People’s Bank Dollar",
+      "name_en": "Chinese People’s Bank Dollar"
+    },
+    {
+      "kod": "CNY",
+      "nazvanie": "Китайский юань",
+      "name_en": "Chinese Yuan"
+    },
+    {
+      "kod": "COP",
+      "nazvanie": "Колумбийское песо",
+      "name_en": "Colombian Peso"
+    },
+    {
+      "kod": "COU",
+      "nazvanie": "Единица реальной стоимости Колумбии",
+      "name_en": "Colombian Real Value Unit"
+    },
+    {
+      "kod": "CRC",
+      "nazvanie": "Костариканский колон",
+      "name_en": "Costa Rican Colón"
+    },
+    {
+      "kod": "CSD",
+      "nazvanie": "Старый Сербский динар",
+      "name_en": "Serbian Dinar (2002–2006)"
+    },
+    {
+      "kod": "CSK",
+      "nazvanie": "Чехословацкая твердая крона",
+      "name_en": "Czechoslovak Hard Koruna"
+    },
+    {
+      "kod": "CUC",
+      "nazvanie": "Кубинское конвертируемое песо",
+      "name_en": "Cuban Convertible Peso"
+    },
+    {
+      "kod": "CUP",
+      "nazvanie": "Кубинское песо",
+      "name_en": "Cuban Peso"
+    },
+    {
+      "kod": "CVE",
+      "nazvanie": "Эскудо Кабо-Верде",
+      "name_en": "Cape Verdean Escudo"
+    },
+    {
+      "kod": "CYP",
+      "nazvanie": "Кипрский фунт",
+      "name_en": "Cypriot Pound"
+    },
+    {
+      "kod": "CZK",
+      "nazvanie": "Чешская крона",
+      "name_en": "Czech Koruna"
+    },
+    {
+      "kod": "DDM",
+      "nazvanie": "Восточногерманская марка",
+      "name_en": "East German Mark"
+    },
+    {
+      "kod": "DEM",
+      "nazvanie": "Немецкая марка",
+      "name_en": "German Mark"
+    },
+    {
+      "kod": "DJF",
+      "nazvanie": "Франк Джибути",
+      "name_en": "Djiboutian Franc"
+    },
+    {
+      "kod": "DKK",
+      "nazvanie": "Датская крона",
+      "name_en": "Danish Krone"
+    },
+    {
+      "kod": "DOP",
+      "nazvanie": "Доминиканское песо",
+      "name_en": "Dominican Peso"
+    },
+    {
+      "kod": "DZD",
+      "nazvanie": "Алжирский динар",
+      "name_en": "Algerian Dinar"
+    },
+    {
+      "kod": "ECS",
+      "nazvanie": "Эквадорский сукре",
+      "name_en": "Ecuadorian Sucre"
+    },
+    {
+      "kod": "ECV",
+      "nazvanie": "Постоянная единица стоимости Эквадора",
+      "name_en": "Ecuadorian Unit of Constant Value"
+    },
+    {
+      "kod": "EEK",
+      "nazvanie": "Эстонская крона",
+      "name_en": "Estonian Kroon"
+    },
+    {
+      "kod": "EGP",
+      "nazvanie": "Египетский фунт",
+      "name_en": "Egyptian Pound"
+    },
+    {
+      "kod": "ERN",
+      "nazvanie": "Накфа",
+      "name_en": "Eritrean Nakfa"
+    },
+    {
+      "kod": "ESA",
+      "nazvanie": "Испанская песета (А)",
+      "name_en": "Spanish Peseta (A account)"
+    },
+    {
+      "kod": "ESB",
+      "nazvanie": "Испанская песета (конвертируемая)",
+      "name_en": "Spanish Peseta (convertible account)"
+    },
+    {
+      "kod": "ESP",
+      "nazvanie": "Испанская песета",
+      "name_en": "Spanish Peseta"
+    },
+    {
+      "kod": "ETB",
+      "nazvanie": "Эфиопский быр",
+      "name_en": "Ethiopian Birr"
+    },
+    {
+      "kod": "EUR",
+      "nazvanie": "Евро",
+      "name_en": "Euro"
+    },
+    {
+      "kod": "FIM",
+      "nazvanie": "Финская марка",
+      "name_en": "Finnish Markka"
+    },
+    {
+      "kod": "FJD",
+      "nazvanie": "Доллар Фиджи",
+      "name_en": "Fijian Dollar"
+    },
+    {
+      "kod": "FKP",
+      "nazvanie": "Фунт Фолклендских островов",
+      "name_en": "Falkland Islands Pound"
+    },
+    {
+      "kod": "FRF",
+      "nazvanie": "Французский франк",
+      "name_en": "French Franc"
+    },
+    {
+      "kod": "GBP",
+      "nazvanie": "Британский фунт стерлингов",
+      "name_en": "British Pound"
+    },
+    {
+      "kod": "GEK",
+      "nazvanie": "Грузинский купон",
+      "name_en": "Georgian Kupon Larit"
+    },
+    {
+      "kod": "GEL",
+      "nazvanie": "Грузинский лари",
+      "name_en": "Georgian Lari"
+    },
+    {
+      "kod": "GHC",
+      "nazvanie": "Ганский седи (1979–2007)",
+      "name_en": "Ghanaian Cedi (1979–2007)"
+    },
+    {
+      "kod": "GHS",
+      "nazvanie": "Ганский седи",
+      "name_en": "Ghanaian Cedi"
+    },
+    {
+      "kod": "GIP",
+      "nazvanie": "Гибралтарский фунт",
+      "name_en": "Gibraltar Pound"
+    },
+    {
+      "kod": "GMD",
+      "nazvanie": "Гамбийский даласи",
+      "name_en": "Gambian Dalasi"
+    },
+    {
+      "kod": "GNF",
+      "nazvanie": "Гвинейский франк",
+      "name_en": "Guinean Franc"
+    },
+    {
+      "kod": "GNS",
+      "nazvanie": "Гвинейская сили",
+      "name_en": "Guinean Syli"
+    },
+    {
+      "kod": "GQE",
+      "nazvanie": "Эквеле экваториальной Гвинеи",
+      "name_en": "Equatorial Guinean Ekwele"
+    },
+    {
+      "kod": "GRD",
+      "nazvanie": "Греческая драхма",
+      "name_en": "Greek Drachma"
+    },
+    {
+      "kod": "GTQ",
+      "nazvanie": "Гватемальский кетсаль",
+      "name_en": "Guatemalan Quetzal"
+    },
+    {
+      "kod": "GWE",
+      "nazvanie": "Эскудо Португальской Гвинеи",
+      "name_en": "Portuguese Guinea Escudo"
+    },
+    {
+      "kod": "GWP",
+      "nazvanie": "Песо Гвинеи-Бисау",
+      "name_en": "Guinea-Bissau Peso"
+    },
+    {
+      "kod": "GYD",
+      "nazvanie": "Гайанский доллар",
+      "name_en": "Guyanaese Dollar"
+    },
+    {
+      "kod": "HKD",
+      "nazvanie": "Гонконгский доллар",
+      "name_en": "Hong Kong Dollar"
+    },
+    {
+      "kod": "HNL",
+      "nazvanie": "Гондурасская лемпира",
+      "name_en": "Honduran Lempira"
+    },
+    {
+      "kod": "HRD",
+      "nazvanie": "Хорватский динар",
+      "name_en": "Croatian Dinar"
+    },
+    {
+      "kod": "HRK",
+      "nazvanie": "Хорватская куна",
+      "name_en": "Croatian Kuna"
+    },
+    {
+      "kod": "HTG",
+      "nazvanie": "Гаитянский гурд",
+      "name_en": "Haitian Gourde"
+    },
+    {
+      "kod": "HUF",
+      "nazvanie": "Венгерский форинт",
+      "name_en": "Hungarian Forint"
+    },
+    {
+      "kod": "IDR",
+      "nazvanie": "Индонезийская рупия",
+      "name_en": "Indonesian Rupiah"
+    },
+    {
+      "kod": "IEP",
+      "nazvanie": "Ирландский фунт",
+      "name_en": "Irish Pound"
+    },
+    {
+      "kod": "ILP",
+      "nazvanie": "Израильский фунт",
+      "name_en": "Israeli Pound"
+    },
+    {
+      "kod": "ILR",
+      "nazvanie": "Israeli Shekel (1980–1985)",
+      "name_en": "Israeli Shekel (1980–1985)"
+    },
+    {
+      "kod": "ILS",
+      "nazvanie": "Новый израильский шекель",
+      "name_en": "Israeli New Shekel"
+    },
+    {
+      "kod": "INR",
+      "nazvanie": "Индийская рупия",
+      "name_en": "Indian Rupee"
+    },
+    {
+      "kod": "IQD",
+      "nazvanie": "Иракский динар",
+      "name_en": "Iraqi Dinar"
+    },
+    {
+      "kod": "IRR",
+      "nazvanie": "Иранский риал",
+      "name_en": "Iranian Rial"
+    },
+    {
+      "kod": "ISJ",
+      "nazvanie": "Icelandic Króna (1918–1981)",
+      "name_en": "Icelandic Króna (1918–1981)"
+    },
+    {
+      "kod": "ISK",
+      "nazvanie": "Исландская крона",
+      "name_en": "Icelandic Króna"
+    },
+    {
+      "kod": "ITL",
+      "nazvanie": "Итальянская лира",
+      "name_en": "Italian Lira"
+    },
+    {
+      "kod": "JMD",
+      "nazvanie": "Ямайский доллар",
+      "name_en": "Jamaican Dollar"
+    },
+    {
+      "kod": "JOD",
+      "nazvanie": "Иорданский динар",
+      "name_en": "Jordanian Dinar"
+    },
+    {
+      "kod": "JPY",
+      "nazvanie": "Японская иена",
+      "name_en": "Japanese Yen"
+    },
+    {
+      "kod": "KES",
+      "nazvanie": "Кенийский шиллинг",
+      "name_en": "Kenyan Shilling"
+    },
+    {
+      "kod": "KGS",
+      "nazvanie": "Киргизский сом",
+      "name_en": "Kyrgystani Som"
+    },
+    {
+      "kod": "KHR",
+      "nazvanie": "Камбоджийский риель",
+      "name_en": "Cambodian Riel"
+    },
+    {
+      "kod": "KMF",
+      "nazvanie": "Франк Коморских Островов",
+      "name_en": "Comorian Franc"
+    },
+    {
+      "kod": "KPW",
+      "nazvanie": "Северокорейская вона",
+      "name_en": "North Korean Won"
+    },
+    {
+      "kod": "KRH",
+      "nazvanie": "South Korean Hwan (1953–1962)",
+      "name_en": "South Korean Hwan (1953–1962)"
+    },
+    {
+      "kod": "KRO",
+      "nazvanie": "South Korean Won (1945–1953)",
+      "name_en": "South Korean Won (1945–1953)"
+    },
+    {
+      "kod": "KRW",
+      "nazvanie": "Южнокорейская вона",
+      "name_en": "South Korean Won"
+    },
+    {
+      "kod": "KWD",
+      "nazvanie": "Кувейтский динар",
+      "name_en": "Kuwaiti Dinar"
+    },
+    {
+      "kod": "KYD",
+      "nazvanie": "Доллар Каймановых островов",
+      "name_en": "Cayman Islands Dollar"
+    },
+    {
+      "kod": "KZT",
+      "nazvanie": "Казахский тенге",
+      "name_en": "Kazakhstani Tenge"
+    },
+    {
+      "kod": "LAK",
+      "nazvanie": "Лаосский кип",
+      "name_en": "Laotian Kip"
+    },
+    {
+      "kod": "LBP",
+      "nazvanie": "Ливанский фунт",
+      "name_en": "Lebanese Pound"
+    },
+    {
+      "kod": "LKR",
+      "nazvanie": "Шри-ланкийская рупия",
+      "name_en": "Sri Lankan Rupee"
+    },
+    {
+      "kod": "LRD",
+      "nazvanie": "Либерийский доллар",
+      "name_en": "Liberian Dollar"
+    },
+    {
+      "kod": "LSL",
+      "nazvanie": "Лоти",
+      "name_en": "Lesotho Loti"
+    },
+    {
+      "kod": "LTL",
+      "nazvanie": "Литовский лит",
+      "name_en": "Lithuanian Litas"
+    },
+    {
+      "kod": "LTT",
+      "nazvanie": "Литовский талон",
+      "name_en": "Lithuanian Talonas"
+    },
+    {
+      "kod": "LUC",
+      "nazvanie": "Конвертируемый франк Люксембурга",
+      "name_en": "Luxembourgian Convertible Franc"
+    },
+    {
+      "kod": "LUF",
+      "nazvanie": "Люксембургский франк",
+      "name_en": "Luxembourgian Franc"
+    },
+    {
+      "kod": "LUL",
+      "nazvanie": "Финансовый франк Люксембурга",
+      "name_en": "Luxembourg Financial Franc"
+    },
+    {
+      "kod": "LVL",
+      "nazvanie": "Латвийский лат",
+      "name_en": "Latvian Lats"
+    },
+    {
+      "kod": "LVR",
+      "nazvanie": "Латвийский рубль",
+      "name_en": "Latvian Ruble"
+    },
+    {
+      "kod": "LYD",
+      "nazvanie": "Ливийский динар",
+      "name_en": "Libyan Dinar"
+    },
+    {
+      "kod": "MAD",
+      "nazvanie": "Марокканский дирхам",
+      "name_en": "Moroccan Dirham"
+    },
+    {
+      "kod": "MAF",
+      "nazvanie": "Марокканский франк",
+      "name_en": "Moroccan Franc"
+    },
+    {
+      "kod": "MCF",
+      "nazvanie": "Monegasque Franc",
+      "name_en": "Monegasque Franc"
+    },
+    {
+      "kod": "MDC",
+      "nazvanie": "Moldovan Cupon",
+      "name_en": "Moldovan Cupon"
+    },
+    {
+      "kod": "MDL",
+      "nazvanie": "Молдавский лей",
+      "name_en": "Moldovan Leu"
+    },
+    {
+      "kod": "MGA",
+      "nazvanie": "Малагасийский ариари",
+      "name_en": "Malagasy Ariary"
+    },
+    {
+      "kod": "MGF",
+      "nazvanie": "Малагасийский франк",
+      "name_en": "Malagasy Franc"
+    },
+    {
+      "kod": "MKD",
+      "nazvanie": "Македонский денар",
+      "name_en": "Macedonian Denar"
+    },
+    {
+      "kod": "MKN",
+      "nazvanie": "Macedonian Denar (1992–1993)",
+      "name_en": "Macedonian Denar (1992–1993)"
+    },
+    {
+      "kod": "MLF",
+      "nazvanie": "Малийский франк",
+      "name_en": "Malian Franc"
+    },
+    {
+      "kod": "MMK",
+      "nazvanie": "Мьянманский кьят",
+      "name_en": "Myanmar Kyat"
+    },
+    {
+      "kod": "MNT",
+      "nazvanie": "Монгольский тугрик",
+      "name_en": "Mongolian Tugrik"
+    },
+    {
+      "kod": "MOP",
+      "nazvanie": "Патака Макао",
+      "name_en": "Macanese Pataca"
+    },
+    {
+      "kod": "MRO",
+      "nazvanie": "Мавританская угия",
+      "name_en": "Mauritanian Ouguiya"
+    },
+    {
+      "kod": "MTL",
+      "nazvanie": "Мальтийская лира",
+      "name_en": "Maltese Lira"
+    },
+    {
+      "kod": "MTP",
+      "nazvanie": "Мальтийский фунт",
+      "name_en": "Maltese Pound"
+    },
+    {
+      "kod": "MUR",
+      "nazvanie": "Маврикийская рупия",
+      "name_en": "Mauritian Rupee"
+    },
+    {
+      "kod": "MVP",
+      "nazvanie": "Maldivian Rupee (1947–1981)",
+      "name_en": "Maldivian Rupee (1947–1981)"
+    },
+    {
+      "kod": "MVR",
+      "nazvanie": "Мальдивская руфия",
+      "name_en": "Maldivian Rufiyaa"
+    },
+    {
+      "kod": "MWK",
+      "nazvanie": "Малавийская квача",
+      "name_en": "Malawian Kwacha"
+    },
+    {
+      "kod": "MXN",
+      "nazvanie": "Мексиканское песо",
+      "name_en": "Mexican Peso"
+    },
+    {
+      "kod": "MXP",
+      "nazvanie": "Мексиканское серебряное песо (1861–1992)",
+      "name_en": "Mexican Silver Peso (1861–1992)"
+    },
+    {
+      "kod": "MXV",
+      "nazvanie": "Мексиканская пересчетная единица (UDI)",
+      "name_en": "Mexican Investment Unit"
+    },
+    {
+      "kod": "MYR",
+      "nazvanie": "Малайзийский ринггит",
+      "name_en": "Malaysian Ringgit"
+    },
+    {
+      "kod": "MZE",
+      "nazvanie": "Мозамбикское эскудо",
+      "name_en": "Mozambican Escudo"
+    },
+    {
+      "kod": "MZM",
+      "nazvanie": "Старый мозамбикский метикал",
+      "name_en": "Mozambican Metical (1980–2006)"
+    },
+    {
+      "kod": "MZN",
+      "nazvanie": "Мозамбикский метикал",
+      "name_en": "Mozambican Metical"
+    },
+    {
+      "kod": "NAD",
+      "nazvanie": "Доллар Намибии",
+      "name_en": "Namibian Dollar"
+    },
+    {
+      "kod": "NGN",
+      "nazvanie": "Нигерийская найра",
+      "name_en": "Nigerian Naira"
+    },
+    {
+      "kod": "NIC",
+      "nazvanie": "Никарагуанская кордоба (1988–1991)",
+      "name_en": "Nicaraguan Córdoba (1988–1991)"
+    },
+    {
+      "kod": "NIO",
+      "nazvanie": "Никарагуанская кордоба",
+      "name_en": "Nicaraguan Córdoba"
+    },
+    {
+      "kod": "NLG",
+      "nazvanie": "Нидерландский гульден",
+      "name_en": "Dutch Guilder"
+    },
+    {
+      "kod": "NOK",
+      "nazvanie": "Норвежская крона",
+      "name_en": "Norwegian Krone"
+    },
+    {
+      "kod": "NPR",
+      "nazvanie": "Непальская рупия",
+      "name_en": "Nepalese Rupee"
+    },
+    {
+      "kod": "NZD",
+      "nazvanie": "Новозеландский доллар",
+      "name_en": "New Zealand Dollar"
+    },
+    {
+      "kod": "OMR",
+      "nazvanie": "Оманский риал",
+      "name_en": "Omani Rial"
+    },
+    {
+      "kod": "PAB",
+      "nazvanie": "Панамское бальбоа",
+      "name_en": "Panamanian Balboa"
+    },
+    {
+      "kod": "PEI",
+      "nazvanie": "Перуанское инти",
+      "name_en": "Peruvian Inti"
+    },
+    {
+      "kod": "PEN",
+      "nazvanie": "Перуанский соль",
+      "name_en": "Peruvian Sol"
+    },
+    {
+      "kod": "PES",
+      "nazvanie": "Перуанский соль (1863–1965)",
+      "name_en": "Peruvian Sol (1863–1965)"
+    },
+    {
+      "kod": "PGK",
+      "nazvanie": "Кина Папуа – Новой Гвинеи",
+      "name_en": "Papua New Guinean Kina"
+    },
+    {
+      "kod": "PHP",
+      "nazvanie": "Филиппинское песо",
+      "name_en": "Philippine Peso"
+    },
+    {
+      "kod": "PKR",
+      "nazvanie": "Пакистанская рупия",
+      "name_en": "Pakistani Rupee"
+    },
+    {
+      "kod": "PLN",
+      "nazvanie": "Польский злотый",
+      "name_en": "Polish Zloty"
+    },
+    {
+      "kod": "PLZ",
+      "nazvanie": "Злотый",
+      "name_en": "Polish Zloty (1950–1995)"
+    },
+    {
+      "kod": "PTE",
+      "nazvanie": "Португальское эскудо",
+      "name_en": "Portuguese Escudo"
+    },
+    {
+      "kod": "PYG",
+      "nazvanie": "Парагвайский гуарани",
+      "name_en": "Paraguayan Guarani"
+    },
+    {
+      "kod": "QAR",
+      "nazvanie": "Катарский риал",
+      "name_en": "Qatari Rial"
+    },
+    {
+      "kod": "RHD",
+      "nazvanie": "Родезийский доллар",
+      "name_en": "Rhodesian Dollar"
+    },
+    {
+      "kod": "ROL",
+      "nazvanie": "Старый Румынский лей",
+      "name_en": "Romanian Leu (1952–2006)"
+    },
+    {
+      "kod": "RON",
+      "nazvanie": "Румынский лей",
+      "name_en": "Romanian Leu"
+    },
+    {
+      "kod": "RSD",
+      "nazvanie": "Сербский динар",
+      "name_en": "Serbian Dinar"
+    },
+    {
+      "kod": "RUB",
+      "nazvanie": "Российский рубль",
+      "name_en": "Russian Ruble"
+    },
+    {
+      "kod": "RUR",
+      "nazvanie": "Российский рубль (1991–1998)",
+      "name_en": "Russian Ruble (1991–1998)"
+    },
+    {
+      "kod": "RWF",
+      "nazvanie": "Франк Руанды",
+      "name_en": "Rwandan Franc"
+    },
+    {
+      "kod": "SAR",
+      "nazvanie": "Саудовский риял",
+      "name_en": "Saudi Riyal"
+    },
+    {
+      "kod": "SBD",
+      "nazvanie": "Доллар Соломоновых Островов",
+      "name_en": "Solomon Islands Dollar"
+    },
+    {
+      "kod": "SCR",
+      "nazvanie": "Сейшельская рупия",
+      "name_en": "Seychellois Rupee"
+    },
+    {
+      "kod": "SDD",
+      "nazvanie": "Суданский динар",
+      "name_en": "Sudanese Dinar (1992–2007)"
+    },
+    {
+      "kod": "SDG",
+      "nazvanie": "Суданский фунт",
+      "name_en": "Sudanese Pound"
+    },
+    {
+      "kod": "SDP",
+      "nazvanie": "Старый суданский фунт",
+      "name_en": "Sudanese Pound (1957–1998)"
+    },
+    {
+      "kod": "SEK",
+      "nazvanie": "Шведская крона",
+      "name_en": "Swedish Krona"
+    },
+    {
+      "kod": "SGD",
+      "nazvanie": "Сингапурский доллар",
+      "name_en": "Singapore Dollar"
+    },
+    {
+      "kod": "SHP",
+      "nazvanie": "Фунт острова Святой Елены",
+      "name_en": "St. Helena Pound"
+    },
+    {
+      "kod": "SIT",
+      "nazvanie": "Словенский толар",
+      "name_en": "Slovenian Tolar"
+    },
+    {
+      "kod": "SKK",
+      "nazvanie": "Словацкая крона",
+      "name_en": "Slovak Koruna"
+    },
+    {
+      "kod": "SLL",
+      "nazvanie": "Леоне",
+      "name_en": "Sierra Leonean Leone"
+    },
+    {
+      "kod": "SOS",
+      "nazvanie": "Сомалийский шиллинг",
+      "name_en": "Somali Shilling"
+    },
+    {
+      "kod": "SRD",
+      "nazvanie": "Суринамский доллар",
+      "name_en": "Surinamese Dollar"
+    },
+    {
+      "kod": "SRG",
+      "nazvanie": "Суринамский гульден",
+      "name_en": "Surinamese Guilder"
+    },
+    {
+      "kod": "SSP",
+      "nazvanie": "Южносуданский фунт",
+      "name_en": "South Sudanese Pound"
+    },
+    {
+      "kod": "STD",
+      "nazvanie": "Добра Сан-Томе и Принсипи",
+      "name_en": "São Tomé & Príncipe Dobra"
+    },
+    {
+      "kod": "SUR",
+      "nazvanie": "Рубль СССР",
+      "name_en": "Soviet Rouble"
+    },
+    {
+      "kod": "SVC",
+      "nazvanie": "Сальвадорский колон",
+      "name_en": "Salvadoran Colón"
+    },
+    {
+      "kod": "SYP",
+      "nazvanie": "Сирийский фунт",
+      "name_en": "Syrian Pound"
+    },
+    {
+      "kod": "SZL",
+      "nazvanie": "Свазилендский лилангени",
+      "name_en": "Swazi Lilangeni"
+    },
+    {
+      "kod": "THB",
+      "nazvanie": "Таиландский бат",
+      "name_en": "Thai Baht"
+    },
+    {
+      "kod": "TJR",
+      "nazvanie": "Таджикский рубль",
+      "name_en": "Tajikistani Ruble"
+    },
+    {
+      "kod": "TJS",
+      "nazvanie": "Таджикский сомони",
+      "name_en": "Tajikistani Somoni"
+    },
+    {
+      "kod": "TMM",
+      "nazvanie": "Туркменский манат",
+      "name_en": "Turkmenistani Manat (1993–2009)"
+    },
+    {
+      "kod": "TMT",
+      "nazvanie": "Новый туркменский манат",
+      "name_en": "Turkmenistani Manat"
+    },
+    {
+      "kod": "TND",
+      "nazvanie": "Тунисский динар",
+      "name_en": "Tunisian Dinar"
+    },
+    {
+      "kod": "TOP",
+      "nazvanie": "Тонганская паанга",
+      "name_en": "Tongan Paʻanga"
+    },
+    {
+      "kod": "TPE",
+      "nazvanie": "Тиморское эскудо",
+      "name_en": "Timorese Escudo"
+    },
+    {
+      "kod": "TRL",
+      "nazvanie": "Турецкая лира (1922–2005)",
+      "name_en": "Turkish Lira (1922–2005)"
+    },
+    {
+      "kod": "TRY",
+      "nazvanie": "Турецкая лира",
+      "name_en": "Turkish Lira"
+    },
+    {
+      "kod": "TTD",
+      "nazvanie": "Доллар Тринидада и Тобаго",
+      "name_en": "Trinidad & Tobago Dollar"
+    },
+    {
+      "kod": "TWD",
+      "nazvanie": "Новый тайваньский доллар",
+      "name_en": "New Taiwan Dollar"
+    },
+    {
+      "kod": "TZS",
+      "nazvanie": "Танзанийский шиллинг",
+      "name_en": "Tanzanian Shilling"
+    },
+    {
+      "kod": "UAH",
+      "nazvanie": "Украинская гривна",
+      "name_en": "Ukrainian Hryvnia"
+    },
+    {
+      "kod": "UAK",
+      "nazvanie": "Карбованец (украинский)",
+      "name_en": "Ukrainian Karbovanets"
+    },
+    {
+      "kod": "UGS",
+      "nazvanie": "Старый угандийский шиллинг",
+      "name_en": "Ugandan Shilling (1966–1987)"
+    },
+    {
+      "kod": "UGX",
+      "nazvanie": "Угандийский шиллинг",
+      "name_en": "Ugandan Shilling"
+    },
+    {
+      "kod": "USD",
+      "nazvanie": "Доллар США",
+      "name_en": "US Dollar"
+    },
+    {
+      "kod": "USN",
+      "nazvanie": "Доллар США следующего дня",
+      "name_en": "US Dollar (Next day)"
+    },
+    {
+      "kod": "USS",
+      "nazvanie": "Доллар США текущего дня",
+      "name_en": "US Dollar (Same day)"
+    },
+    {
+      "kod": "UYI",
+      "nazvanie": "Уругвайский песо (индекс инфляции)",
+      "name_en": "Uruguayan Peso (Indexed Units)"
+    },
+    {
+      "kod": "UYP",
+      "nazvanie": "Уругвайское старое песо (1975–1993)",
+      "name_en": "Uruguayan Peso (1975–1993)"
+    },
+    {
+      "kod": "UYU",
+      "nazvanie": "Уругвайское песо",
+      "name_en": "Uruguayan Peso"
+    },
+    {
+      "kod": "UZS",
+      "nazvanie": "Узбекский сум",
+      "name_en": "Uzbekistani Som"
+    },
+    {
+      "kod": "VEB",
+      "nazvanie": "Венесуэльский боливар (1871–2008)",
+      "name_en": "Venezuelan Bolívar (1871–2008)"
+    },
+    {
+      "kod": "VEF",
+      "nazvanie": "Венесуэльский боливар",
+      "name_en": "Venezuelan Bolívar"
+    },
+    {
+      "kod": "VND",
+      "nazvanie": "Вьетнамский донг",
+      "name_en": "Vietnamese Dong"
+    },
+    {
+      "kod": "VNN",
+      "nazvanie": "Vietnamese Dong (1978–1985)",
+      "name_en": "Vietnamese Dong (1978–1985)"
+    },
+    {
+      "kod": "VUV",
+      "nazvanie": "Вату Вануату",
+      "name_en": "Vanuatu Vatu"
+    },
+    {
+      "kod": "WST",
+      "nazvanie": "Самоанская тала",
+      "name_en": "Samoan Tala"
+    },
+    {
+      "kod": "XAF",
+      "nazvanie": "Франк КФА ВЕАС",
+      "name_en": "Central African CFA Franc"
+    },
+    {
+      "kod": "XCD",
+      "nazvanie": "Восточно-карибский доллар",
+      "name_en": "East Caribbean Dollar"
+    },
+    {
+      "kod": "XEU",
+      "nazvanie": "ЭКЮ (единица европейской валюты)",
+      "name_en": "European Currency Unit"
+    },
+    {
+      "kod": "XFO",
+      "nazvanie": "Французский золотой франк",
+      "name_en": "French Gold Franc"
+    },
+    {
+      "kod": "XFU",
+      "nazvanie": "Французский UIC-франк",
+      "name_en": "French UIC-Franc"
+    },
+    {
+      "kod": "XOF",
+      "nazvanie": "Франк КФА ВСЕАО",
+      "name_en": "West African CFA Franc"
+    },
+    {
+      "kod": "XPF",
+      "nazvanie": "Французский тихоокеанский франк",
+      "name_en": "CFP Franc"
+    },
+    {
+      "kod": "XRE",
+      "nazvanie": "единица RINET-фондов",
+      "name_en": "RINET Funds"
+    },
+    {
+      "kod": "YDD",
+      "nazvanie": "Йеменский динар",
+      "name_en": "Yemeni Dinar"
+    },
+    {
+      "kod": "YER",
+      "nazvanie": "Йеменский риал",
+      "name_en": "Yemeni Rial"
+    },
+    {
+      "kod": "YUD",
+      "nazvanie": "Югославский твердый динар",
+      "name_en": "Yugoslavian Hard Dinar (1966–1990)"
+    },
+    {
+      "kod": "YUM",
+      "nazvanie": "Югославский новый динар",
+      "name_en": "Yugoslavian New Dinar (1994–2002)"
+    },
+    {
+      "kod": "YUN",
+      "nazvanie": "Югославский динар",
+      "name_en": "Yugoslavian Convertible Dinar (1990–1992)"
+    },
+    {
+      "kod": "YUR",
+      "nazvanie": "Yugoslavian Reformed Dinar (1992–1993)",
+      "name_en": "Yugoslavian Reformed Dinar (1992–1993)"
+    },
+    {
+      "kod": "ZAL",
+      "nazvanie": "Южноафриканский рэнд (финансовый)",
+      "name_en": "South African Rand (financial)"
+    },
+    {
+      "kod": "ZAR",
+      "nazvanie": "Южноафриканский рэнд",
+      "name_en": "South African Rand"
+    },
+    {
+      "kod": "ZMK",
+      "nazvanie": "Квача (замбийская) (1968–2012)",
+      "name_en": "Zambian Kwacha (1968–2012)"
+    },
+    {
+      "kod": "ZMW",
+      "nazvanie": "Замбийская квача",
+      "name_en": "Zambian Kwacha"
+    },
+    {
+      "kod": "ZRN",
+      "nazvanie": "Новый заир",
+      "name_en": "Zairean New Zaire (1993–1998)"
+    },
+    {
+      "kod": "ZRZ",
+      "nazvanie": "Заир",
+      "name_en": "Zairean Zaire (1971–1993)"
+    },
+    {
+      "kod": "ZWD",
+      "nazvanie": "Доллар Зимбабве",
+      "name_en": "Zimbabwean Dollar (1980–2008)"
+    },
+    {
+      "kod": "ZWL",
+      "nazvanie": "Доллар Зимбабве (2009)",
+      "name_en": "Zimbabwean Dollar (2009)"
+    },
+    {
+      "kod": "ZWR",
+      "nazvanie": "Zimbabwean Dollar (2008)",
+      "name_en": "Zimbabwean Dollar (2008)"
+    }
+  ],
+  "meta": {
+    "title": "Валюты мира - Бесплатная загрузка",
+    "description": "Валюты мира — коды ISO 4217 (исторические и действующие) с названиями на русском языке, одна запись на код валюты (285 записей). Включает доллар США (USD), евро (EUR), российский рубль (RUB), фунт стерлингов (GBP), японскую иену (JPY), китайский юань (CNY), украинскую гривну (UAH), казахский тенге (KZT) и другие. Сортировка по коду валюты. Источник — данные CLDR (Unicode) через репозиторий umpirsky/currency-list. FIRST currency inventory in the RU bucket. Содержит 285 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Валюты мира | ListBase",
+    "seo_description": "Скачать Валюты мира — 285 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 285 записей / 3 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": "ru-dagestan-respublika-goroda",
+  "name": "Города — Республика Дагестан",
+  "title": "Города — Республика Дагестан",
+  "description": "10 городов региона «Республика Дагестан» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Буйнакск",
+      "population_thousands": 65.7,
+      "latitude": 42.8214424,
+      "longitude": 47.1165263,
+      "region_name": "Республика Дагестан",
+      "region_iso_code": "RU-DA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Дагестанские Огни",
+      "population_thousands": 29.7,
+      "latitude": 42.1152296,
+      "longitude": 48.1939354,
+      "region_name": "Республика Дагестан",
+      "region_iso_code": "RU-DA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Дербент",
+      "population_thousands": 125.8,
+      "latitude": 42.058966,
+      "longitude": 48.2907452,
+      "region_name": "Республика Дагестан",
+      "region_iso_code": "RU-DA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Избербаш",
+      "population_thousands": 60.5,
+      "latitude": 42.5650962,
+      "longitude": 47.8710051,
+      "region_name": "Республика Дагестан",
+      "region_iso_code": "RU-DA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Каспийск",
+      "population_thousands": 124,
+      "latitude": 42.8916007,
+      "longitude": 47.6367066,
+      "region_name": "Республика Дагестан",
+      "region_iso_code": "RU-DA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Кизилюрт",
+      "population_thousands": 37.7,
+      "latitude": 43.203825,
+      "longitude": 46.8729636,
+      "region_name": "Республика Дагестан",
+      "region_iso_code": "RU-DA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Кизляр",
+      "population_thousands": 49.4,
+      "latitude": 43.8484083,
+      "longitude": 46.7233699,
+      "region_name": "Республика Дагестан",
+      "region_iso_code": "RU-DA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Махачкала",
+      "population_thousands": 603.5,
+      "latitude": 42.9849159,
+      "longitude": 47.5047181,
+      "region_name": "Республика Дагестан",
+      "region_iso_code": "RU-DA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Хасавюрт",
+      "population_thousands": 145.1,
+      "latitude": 43.2504665,
+      "longitude": 46.5851292,
+      "region_name": "Республика Дагестан",
+      "region_iso_code": "RU-DA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Южно-Сухокумск",
+      "population_thousands": 10.7,
+      "latitude": 44.6602467,
+      "longitude": 45.6499523,
+      "region_name": "Республика Дагестан",
+      "region_iso_code": "RU-DA",
+      "federal_district": "Северо-Кавказский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Республика Дагестан - Бесплатная загрузка",
+    "description": "10 городов региона «Республика Дагестан» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 10 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Республика Дагестан | ListBase",
+    "seo_description": "Скачать Города — Республика Дагестан — 10 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 10 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

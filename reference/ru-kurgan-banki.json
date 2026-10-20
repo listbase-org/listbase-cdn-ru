@@ -1,0 +1,93 @@
+{
+  "id": "ru-kurgan-banki",
+  "name": "Банки — Kurgan (коды SWIFT/BIC)",
+  "title": "Банки — Kurgan (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in KURGAN (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 33,
+      "bank": "ALEF-BANK",
+      "city": "KURGAN",
+      "branch": "(KURGANSKII)",
+      "swift_code": "ALEFRUM1001"
+    },
+    {
+      "id": 106,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "KURGAN",
+      "branch": "(KURGAN BRANCH)",
+      "swift_code": "MOBWRUM1KRG"
+    },
+    {
+      "id": 705,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "KURGAN",
+      "branch": "(KURGANSKY BRANCH)",
+      "swift_code": "RUAGRUM1045"
+    },
+    {
+      "id": 822,
+      "bank": "JSCIB KURGAN",
+      "city": "KURGAN",
+      "branch": "",
+      "swift_code": "KURGRU4K"
+    },
+    {
+      "id": 919,
+      "bank": "MOSOBLBANK",
+      "city": "KURGAN",
+      "branch": "",
+      "swift_code": "MOBKRUM1017"
+    },
+    {
+      "id": 951,
+      "bank": "NADEZHNOST ZASCB OAO",
+      "city": "KURGAN",
+      "branch": "",
+      "swift_code": "NAZARU41"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Kurgan (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in KURGAN (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 6 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Kurgan (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Kurgan (коды SWIFT/BIC) — 6 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 6 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

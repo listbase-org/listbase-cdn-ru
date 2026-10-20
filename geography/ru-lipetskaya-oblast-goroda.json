@@ -1,0 +1,133 @@
+{
+  "id": "ru-lipetskaya-oblast-goroda",
+  "name": "Города — Липецкая область",
+  "title": "Города — Липецкая область",
+  "description": "8 городов региона «Липецкая область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Грязи",
+      "population_thousands": 46.7,
+      "latitude": 52.4874097,
+      "longitude": 39.9331142,
+      "region_name": "Липецкая область",
+      "region_iso_code": "RU-LIP",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Данков",
+      "population_thousands": 18.7,
+      "latitude": 53.2577411,
+      "longitude": 39.1456184,
+      "region_name": "Липецкая область",
+      "region_iso_code": "RU-LIP",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Елец",
+      "population_thousands": 102.3,
+      "latitude": 52.6152411,
+      "longitude": 38.5289342,
+      "region_name": "Липецкая область",
+      "region_iso_code": "RU-LIP",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Задонск",
+      "population_thousands": 9.5,
+      "latitude": 52.4004179,
+      "longitude": 38.9205032,
+      "region_name": "Липецкая область",
+      "region_iso_code": "RU-LIP",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Лебедянь",
+      "population_thousands": 19.2,
+      "latitude": 53.0156117,
+      "longitude": 39.143536,
+      "region_name": "Липецкая область",
+      "region_iso_code": "RU-LIP",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Липецк",
+      "population_thousands": 508.6,
+      "latitude": 52.610249,
+      "longitude": 39.5947883,
+      "region_name": "Липецкая область",
+      "region_iso_code": "RU-LIP",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Усмань",
+      "population_thousands": 19.6,
+      "latitude": 52.0442648,
+      "longitude": 39.726401,
+      "region_name": "Липецкая область",
+      "region_iso_code": "RU-LIP",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Чаплыгин",
+      "population_thousands": 11.8,
+      "latitude": 53.24048,
+      "longitude": 39.9670973,
+      "region_name": "Липецкая область",
+      "region_iso_code": "RU-LIP",
+      "federal_district": "Центральный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Липецкая область - Бесплатная загрузка",
+    "description": "8 городов региона «Липецкая область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 8 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Липецкая область | ListBase",
+    "seo_description": "Скачать Города — Липецкая область — 8 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 8 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "ru-ulyanovsk-banki",
+  "name": "Банки — Ulyanovsk (коды SWIFT/BIC)",
+  "title": "Банки — Ulyanovsk (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in ULYANOVSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 90,
+      "bank": "AVTOVAZBANK JOINT-STOCK COMPANY",
+      "city": "ULYANOVSK",
+      "branch": "(ULYANOVSK BRANCH)",
+      "swift_code": "AVBKRU31ULN"
+    },
+    {
+      "id": 140,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "ULYANOVSK",
+      "branch": "(ULYANOVSK BRANCH B AND N BANK)",
+      "swift_code": "BINORU21ULV"
+    },
+    {
+      "id": 283,
+      "bank": "BANK VENETS",
+      "city": "ULYANOVSK",
+      "branch": "",
+      "swift_code": "VEJSRU2U"
+    },
+    {
+      "id": 486,
+      "bank": "GAZBANK ZAO AKB",
+      "city": "ULYANOVSK",
+      "branch": "(ULYANOVSK BRANCH)",
+      "swift_code": "CGAZRU31856"
+    },
+    {
+      "id": 743,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "ULYANOVSK",
+      "branch": "(ULYANOVSKY BRANCH)",
+      "swift_code": "RUAGRUM1065"
+    },
+    {
+      "id": 964,
+      "bank": "NATIONAL BANK TRUST",
+      "city": "ULYANOVSK",
+      "branch": "(ULIANOVSK BRANCH)",
+      "swift_code": "NBTRRUM1ULY"
+    },
+    {
+      "id": 1358,
+      "bank": "SIMBIRSK",
+      "city": "ULYANOVSK",
+      "branch": "",
+      "swift_code": "SIIKRU21"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Ulyanovsk (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in ULYANOVSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 7 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Ulyanovsk (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Ulyanovsk (коды SWIFT/BIC) — 7 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 7 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

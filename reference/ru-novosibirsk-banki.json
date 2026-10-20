@@ -1,0 +1,303 @@
+{
+  "id": "ru-novosibirsk-banki",
+  "name": "Банки — Novosibirsk (коды SWIFT/BIC)",
+  "title": "Банки — Novosibirsk (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in NOVOSIBIRSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 25,
+      "bank": "AK BARS BANK",
+      "city": "NOVOSIBIRSK",
+      "branch": "(NOVOSIBIRSK BRANCH)",
+      "swift_code": "ARRSRU21NSB"
+    },
+    {
+      "id": 46,
+      "bank": "ALFA-BANK",
+      "city": "NOVOSIBIRSK",
+      "branch": "(NOVOSIBIRSK BRANCH)",
+      "swift_code": "ALFARUM1015"
+    },
+    {
+      "id": 118,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "NOVOSIBIRSK",
+      "branch": "(ADMINISTRATIVE)",
+      "swift_code": "MOBWRUMMNVS"
+    },
+    {
+      "id": 119,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "NOVOSIBIRSK",
+      "branch": "(NOVOSIBIRSK BRANCH 2 B AND N BANK)",
+      "swift_code": "BINORU21NVS"
+    },
+    {
+      "id": 153,
+      "bank": "BANK ACCEPT JSC",
+      "city": "NOVOSIBIRSK",
+      "branch": "",
+      "swift_code": "AJSCRU55"
+    },
+    {
+      "id": 173,
+      "bank": "BANK LEVOBEREZHNY PJSC",
+      "city": "NOVOSIBIRSK",
+      "branch": "",
+      "swift_code": "LEVBRU55"
+    },
+    {
+      "id": 198,
+      "bank": "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "NOVOSIBIRSK",
+      "branch": "(NOVOSIBIRSK BRANCH)",
+      "swift_code": "JSNMRUMMNSB"
+    },
+    {
+      "id": 207,
+      "bank": "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY) (FORMERLY KHANTY-MANSIYSK BANK OTKRITIE)",
+      "city": "NOVOSIBIRSK",
+      "branch": "(MUNICIPALNYI BRANCH)",
+      "swift_code": "RUDLRUM1NSB"
+    },
+    {
+      "id": 242,
+      "bank": "BANK RRDB (JSC)",
+      "city": "NOVOSIBIRSK",
+      "branch": "(NOVOSIBIRSK BRANCH)",
+      "swift_code": "RRDBRUM1NVS"
+    },
+    {
+      "id": 292,
+      "bank": "BCS BANK",
+      "city": "NOVOSIBIRSK",
+      "branch": "",
+      "swift_code": "BCSBRU55"
+    },
+    {
+      "id": 377,
+      "bank": "COMMERCIAL BANK 'LANTA-BANK'",
+      "city": "NOVOSIBIRSK",
+      "branch": "(NOVOSIBIRSK BRANCH)",
+      "swift_code": "COLKRUMMNSB"
+    },
+    {
+      "id": 405,
+      "bank": "CORPORATE FINANCE BANK",
+      "city": "NOVOSIBIRSK",
+      "branch": "(NOVOSIBIRSK BRANCH)",
+      "swift_code": "FABARUM1NVS"
+    },
+    {
+      "id": 411,
+      "bank": "CREDIT UNION 'PAYMENT CENTER'",
+      "city": "NOVOSIBIRSK",
+      "branch": "",
+      "swift_code": "CUPCRU55"
+    },
+    {
+      "id": 466,
+      "bank": "FINANCE HOLDING DOMINION",
+      "city": "NOVOSIBIRSK",
+      "branch": "",
+      "swift_code": "FIHDRU51"
+    },
+    {
+      "id": 500,
+      "bank": "GAZPROMBANK (JOINT - STOCK COMPANY)",
+      "city": "NOVOSIBIRSK",
+      "branch": "(ZAPADNO-SIBIRSKY BRANCH)",
+      "swift_code": "GAZPRUMM029"
+    },
+    {
+      "id": 515,
+      "bank": "GLOBEXBANK",
+      "city": "NOVOSIBIRSK",
+      "branch": "(NOVOSIBIRSKIJ BRANCH)",
+      "swift_code": "GLOBRUM1011"
+    },
+    {
+      "id": 575,
+      "bank": "INVESTMENT TRADE BANK PJSC",
+      "city": "NOVOSIBIRSK",
+      "branch": "(NOVOSIBIRSKY BRANCH)",
+      "swift_code": "INVJRUM1NVS"
+    },
+    {
+      "id": 640,
+      "bank": "JSB ROSEVROBANK (JSC)",
+      "city": "NOVOSIBIRSK",
+      "branch": "(NOVOSIBIRSK BRANCH)",
+      "swift_code": "COMKRUMM070"
+    },
+    {
+      "id": 719,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "NOVOSIBIRSK",
+      "branch": "(NOVOSIBIRSKY BRANCH)",
+      "swift_code": "RUAGRUM1025"
+    },
+    {
+      "id": 941,
+      "bank": "MTS BANK",
+      "city": "NOVOSIBIRSK",
+      "branch": "(NOVOSIBIRSKY)",
+      "swift_code": "MBRDRUM1NVS"
+    },
+    {
+      "id": 1124,
+      "bank": "PJSC ROSBANK",
+      "city": "NOVOSIBIRSK",
+      "branch": "(ZAPADNO-SIBIRSKIJ BRANCH)",
+      "swift_code": "RSBNRUM1NVS"
+    },
+    {
+      "id": 1162,
+      "bank": "PROMSVYAZBANK PJSC",
+      "city": "NOVOSIBIRSK",
+      "branch": "(SIBIRSKY BRANCH)",
+      "swift_code": "PRMSRUMMNSB"
+    },
+    {
+      "id": 1183,
+      "bank": "REESTR A-PLUS",
+      "city": "NOVOSIBIRSK",
+      "branch": "",
+      "swift_code": "REAPRU51"
+    },
+    {
+      "id": 1208,
+      "bank": "ROSGOSSTRAKH BANK",
+      "city": "NOVOSIBIRSK",
+      "branch": "(NOVOSIBIRSK BRANCH)",
+      "swift_code": "RUIDRUM1NSK"
+    },
+    {
+      "id": 1237,
+      "bank": "ROST BANK",
+      "city": "NOVOSIBIRSK",
+      "branch": "(NOVOSIBIRSK BRANCH)",
+      "swift_code": "JORORU21NOB"
+    },
+    {
+      "id": 1316,
+      "bank": "SBERBANK",
+      "city": "NOVOSIBIRSK",
+      "branch": "(SIBIRSKY HEAD OFFICE)",
+      "swift_code": "SABRRUMMNH1"
+    },
+    {
+      "id": 1356,
+      "bank": "SIBERIAN STOCK EXCHANGE",
+      "city": "NOVOSIBIRSK",
+      "branch": "",
+      "swift_code": "XSIBRU51"
+    },
+    {
+      "id": 1384,
+      "bank": "SOBINBANK",
+      "city": "NOVOSIBIRSK",
+      "branch": "(WEST-SIBERIAN BRANCH)",
+      "swift_code": "SBBARUM1003"
+    },
+    {
+      "id": 1438,
+      "bank": "SVIAZ-BANK",
+      "city": "NOVOSIBIRSK",
+      "branch": "(NOVOSIBIRSK BRANCH)",
+      "swift_code": "SVIZRUM1NSB"
+    },
+    {
+      "id": 1474,
+      "bank": "THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)",
+      "city": "NOVOSIBIRSK",
+      "branch": "(NOVOSIBIRSKIJ BRANCH)",
+      "swift_code": "UBRDRU41NVS"
+    },
+    {
+      "id": 1498,
+      "bank": "TRANSKAPITALBANK",
+      "city": "NOVOSIBIRSK",
+      "branch": "(NOVOSIBIRSK BRANCH)",
+      "swift_code": "TJSCRUM1NVS"
+    },
+    {
+      "id": 1533,
+      "bank": "URALSIB BANK",
+      "city": "NOVOSIBIRSK",
+      "branch": "(NOVOSIBIRSK BRANCH)",
+      "swift_code": "AVTBRUM1015"
+    },
+    {
+      "id": 1581,
+      "bank": "VTB 24 (PJSC)",
+      "city": "NOVOSIBIRSK",
+      "branch": "(N 5440)",
+      "swift_code": "CBGURUMMNOV"
+    },
+    {
+      "id": 1597,
+      "bank": "VTB BANK (PJSC)",
+      "city": "NOVOSIBIRSK",
+      "branch": "(SIBIRSKIY BRANCH, NOVOSIBIRSK)",
+      "swift_code": "VTBRRUM2NS2"
+    },
+    {
+      "id": 1610,
+      "bank": "VZAIMODEYSTVIE",
+      "city": "NOVOSIBIRSK",
+      "branch": "",
+      "swift_code": "BELRRU51"
+    },
+    {
+      "id": 1638,
+      "bank": "ZENIT BANK",
+      "city": "NOVOSIBIRSK",
+      "branch": "(SIBIR BRANCH)",
+      "swift_code": "ZENIRUM1NVS"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Novosibirsk (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in NOVOSIBIRSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 36 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Novosibirsk (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Novosibirsk (коды SWIFT/BIC) — 36 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 36 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

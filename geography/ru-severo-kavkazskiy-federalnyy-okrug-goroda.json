@@ -1,0 +1,583 @@
+{
+  "id": "ru-severo-kavkazskiy-federalnyy-okrug-goroda",
+  "name": "Города — Северо-Кавказский федеральный округ",
+  "title": "Города — Северо-Кавказский федеральный округ",
+  "description": "58 городов в Северо-Кавказский федеральный округ с координатами, населением (тыс. чел., Росстат 2020), регионом и ISO-кодом региона.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 58,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Алагир",
+      "population_thousands": 19.7,
+      "latitude": 43.0417684,
+      "longitude": 44.2199715,
+      "region_name": "Республика Северная Осетия – Алания",
+      "region_iso_code": "RU-SE",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Аргун",
+      "population_thousands": 39.3,
+      "latitude": 43.2916774,
+      "longitude": 45.8723105,
+      "region_name": "Чеченская Республика",
+      "region_iso_code": "RU-CE",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Ардон",
+      "population_thousands": 19.3,
+      "latitude": 43.1755152,
+      "longitude": 44.2955775,
+      "region_name": "Республика Северная Осетия – Алания",
+      "region_iso_code": "RU-SE",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Баксан",
+      "population_thousands": 38.5,
+      "latitude": 43.6819137,
+      "longitude": 43.5345036,
+      "region_name": "Кабардино-Балкарская Республика",
+      "region_iso_code": "RU-KB",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Беслан",
+      "population_thousands": 37.4,
+      "latitude": 43.1937529,
+      "longitude": 44.5338707,
+      "region_name": "Республика Северная Осетия – Алания",
+      "region_iso_code": "RU-SE",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Благодарный",
+      "population_thousands": 30.4,
+      "latitude": 45.0989782,
+      "longitude": 43.4306455,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Буденновск",
+      "population_thousands": 61.3,
+      "latitude": 44.7816067,
+      "longitude": 44.1650339,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Буйнакск",
+      "population_thousands": 65.7,
+      "latitude": 42.8214424,
+      "longitude": 47.1165263,
+      "region_name": "Республика Дагестан",
+      "region_iso_code": "RU-DA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Владикавказ",
+      "population_thousands": 303.6,
+      "latitude": 43.020588,
+      "longitude": 44.6819182,
+      "region_name": "Республика Северная Осетия – Алания",
+      "region_iso_code": "RU-SE",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Георгиевск",
+      "population_thousands": 66.4,
+      "latitude": 44.1485694,
+      "longitude": 43.4739851,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Грозный",
+      "population_thousands": 305.9,
+      "latitude": 43.3180145,
+      "longitude": 45.698291,
+      "region_name": "Чеченская Республика",
+      "region_iso_code": "RU-CE",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Гудермес",
+      "population_thousands": 55.9,
+      "latitude": 43.3519142,
+      "longitude": 46.1035645,
+      "region_name": "Чеченская Республика",
+      "region_iso_code": "RU-CE",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Дагестанские Огни",
+      "population_thousands": 29.7,
+      "latitude": 42.1152296,
+      "longitude": 48.1939354,
+      "region_name": "Республика Дагестан",
+      "region_iso_code": "RU-DA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Дербент",
+      "population_thousands": 125.8,
+      "latitude": 42.058966,
+      "longitude": 48.2907452,
+      "region_name": "Республика Дагестан",
+      "region_iso_code": "RU-DA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Дигора",
+      "population_thousands": 10.1,
+      "latitude": 43.1567628,
+      "longitude": 44.1549483,
+      "region_name": "Республика Северная Осетия – Алания",
+      "region_iso_code": "RU-SE",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Ессентуки",
+      "population_thousands": 113.1,
+      "latitude": 44.0446186,
+      "longitude": 42.8588653,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Железноводск",
+      "population_thousands": 24.9,
+      "latitude": 44.1320568,
+      "longitude": 43.0306461,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Зеленокумск",
+      "population_thousands": 34.1,
+      "latitude": 44.4032668,
+      "longitude": 43.8841877,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Избербаш",
+      "population_thousands": 60.5,
+      "latitude": 42.5650962,
+      "longitude": 47.8710051,
+      "region_name": "Республика Дагестан",
+      "region_iso_code": "RU-DA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Изобильный",
+      "population_thousands": 37.8,
+      "latitude": 45.3684296,
+      "longitude": 41.708702,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Ипатово",
+      "population_thousands": 23.2,
+      "latitude": 45.7181751,
+      "longitude": 42.8970206,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Карабулак",
+      "population_thousands": 42.7,
+      "latitude": 43.3055248,
+      "longitude": 44.9094582,
+      "region_name": "Республика Ингушетия",
+      "region_iso_code": "RU-IN",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Карачаевск",
+      "population_thousands": 20.8,
+      "latitude": 43.7732525,
+      "longitude": 41.9143472,
+      "region_name": "Карачаево-Черкесская Республика",
+      "region_iso_code": "RU-KC",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Каспийск",
+      "population_thousands": 124,
+      "latitude": 42.8916007,
+      "longitude": 47.6367066,
+      "region_name": "Республика Дагестан",
+      "region_iso_code": "RU-DA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Кизилюрт",
+      "population_thousands": 37.7,
+      "latitude": 43.203825,
+      "longitude": 46.8729636,
+      "region_name": "Республика Дагестан",
+      "region_iso_code": "RU-DA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Кизляр",
+      "population_thousands": 49.4,
+      "latitude": 43.8484083,
+      "longitude": 46.7233699,
+      "region_name": "Республика Дагестан",
+      "region_iso_code": "RU-DA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Кисловодск",
+      "population_thousands": 128.8,
+      "latitude": 43.9052044,
+      "longitude": 42.7168721,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Курчалой",
+      "population_thousands": 26.6,
+      "latitude": 43.2046547,
+      "longitude": 46.0889364,
+      "region_name": "Чеченская Республика",
+      "region_iso_code": "RU-CE",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Лермонтов",
+      "population_thousands": 22.9,
+      "latitude": 44.1054107,
+      "longitude": 42.973135,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Магас",
+      "population_thousands": 12.2,
+      "latitude": 43.1688611,
+      "longitude": 44.8131207,
+      "region_name": "Республика Ингушетия",
+      "region_iso_code": "RU-IN",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Майский",
+      "population_thousands": 26.7,
+      "latitude": 43.6281516,
+      "longitude": 44.0517314,
+      "region_name": "Кабардино-Балкарская Республика",
+      "region_iso_code": "RU-KB",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Малгобек",
+      "population_thousands": 38.6,
+      "latitude": 43.5096646,
+      "longitude": 44.5901963,
+      "region_name": "Республика Ингушетия",
+      "region_iso_code": "RU-IN",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Махачкала",
+      "population_thousands": 603.5,
+      "latitude": 42.9849159,
+      "longitude": 47.5047181,
+      "region_name": "Республика Дагестан",
+      "region_iso_code": "RU-DA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Минеральные Воды",
+      "population_thousands": 73.9,
+      "latitude": 44.2087273,
+      "longitude": 43.138408,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Михайловск",
+      "population_thousands": 95.7,
+      "latitude": 45.1297323,
+      "longitude": 42.0288443,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Моздок",
+      "population_thousands": 42,
+      "latitude": 43.7471342,
+      "longitude": 44.6569607,
+      "region_name": "Республика Северная Осетия – Алания",
+      "region_iso_code": "RU-SE",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Назрань",
+      "population_thousands": 122.3,
+      "latitude": 43.2257841,
+      "longitude": 44.7645779,
+      "region_name": "Республика Ингушетия",
+      "region_iso_code": "RU-IN",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Нальчик",
+      "population_thousands": 239.6,
+      "latitude": 43.4845464,
+      "longitude": 43.60713,
+      "region_name": "Кабардино-Балкарская Республика",
+      "region_iso_code": "RU-KB",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Нарткала",
+      "population_thousands": 30.6,
+      "latitude": 43.5578075,
+      "longitude": 43.8575925,
+      "region_name": "Кабардино-Балкарская Республика",
+      "region_iso_code": "RU-KB",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Невинномысск",
+      "population_thousands": 116.7,
+      "latitude": 44.6226031,
+      "longitude": 41.9476723,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Нефтекумск",
+      "population_thousands": 24.4,
+      "latitude": 44.7544552,
+      "longitude": 44.9865347,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Новоалександровск",
+      "population_thousands": 26.5,
+      "latitude": 45.4932733,
+      "longitude": 41.2153996,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Новопавловск",
+      "population_thousands": 26.1,
+      "latitude": 43.9617097,
+      "longitude": 43.6342865,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Прохладный",
+      "population_thousands": 58.2,
+      "latitude": 43.7589602,
+      "longitude": 44.0102409,
+      "region_name": "Кабардино-Балкарская Республика",
+      "region_iso_code": "RU-KB",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Пятигорск",
+      "population_thousands": 147.9,
+      "latitude": 44.041091,
+      "longitude": 43.0661553,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Светлоград",
+      "population_thousands": 35.4,
+      "latitude": 45.328659,
+      "longitude": 42.8565714,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Ставрополь",
+      "population_thousands": 450.7,
+      "latitude": 45.044516,
+      "longitude": 41.9689655,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Сунжа",
+      "population_thousands": 66.3,
+      "latitude": 43.3204196,
+      "longitude": 45.0476331,
+      "region_name": "Республика Ингушетия",
+      "region_iso_code": "RU-IN",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Теберда",
+      "population_thousands": 8.6,
+      "latitude": 43.4437731,
+      "longitude": 41.7415142,
+      "region_name": "Карачаево-Черкесская Республика",
+      "region_iso_code": "RU-KC",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Терек",
+      "population_thousands": 19.5,
+      "latitude": 43.4839358,
+      "longitude": 44.1402161,
+      "region_name": "Кабардино-Балкарская Республика",
+      "region_iso_code": "RU-KB",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Тырныауз",
+      "population_thousands": 20.6,
+      "latitude": 43.3981585,
+      "longitude": 42.9213582,
+      "region_name": "Кабардино-Балкарская Республика",
+      "region_iso_code": "RU-KB",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Урус-Мартан",
+      "population_thousands": 62.7,
+      "latitude": 43.120175,
+      "longitude": 45.539276,
+      "region_name": "Чеченская Республика",
+      "region_iso_code": "RU-CE",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Усть-Джегута",
+      "population_thousands": 30.6,
+      "latitude": 44.0838442,
+      "longitude": 41.9711046,
+      "region_name": "Карачаево-Черкесская Республика",
+      "region_iso_code": "RU-KC",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Хасавюрт",
+      "population_thousands": 145.1,
+      "latitude": 43.2504665,
+      "longitude": 46.5851292,
+      "region_name": "Республика Дагестан",
+      "region_iso_code": "RU-DA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Чегем",
+      "population_thousands": 18.4,
+      "latitude": 43.5671525,
+      "longitude": 43.5865792,
+      "region_name": "Кабардино-Балкарская Республика",
+      "region_iso_code": "RU-KB",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Черкесск",
+      "population_thousands": 123.2,
+      "latitude": 44.2269425,
+      "longitude": 42.0466704,
+      "region_name": "Карачаево-Черкесская Республика",
+      "region_iso_code": "RU-KC",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Шали",
+      "population_thousands": 55.1,
+      "latitude": 43.1488691,
+      "longitude": 45.9009629,
+      "region_name": "Чеченская Республика",
+      "region_iso_code": "RU-CE",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Южно-Сухокумск",
+      "population_thousands": 10.7,
+      "latitude": 44.6602467,
+      "longitude": 45.6499523,
+      "region_name": "Республика Дагестан",
+      "region_iso_code": "RU-DA",
+      "federal_district": "Северо-Кавказский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Северо-Кавказский федеральный округ - Бесплатная загрузка",
+    "description": "58 городов в Северо-Кавказский федеральный округ с координатами, населением (тыс. чел., Росстат 2020), регионом и ISO-кодом региона. Содержит 58 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Северо-Кавказский федеральный округ | ListBase",
+    "seo_description": "Скачать Города — Северо-Кавказский федеральный округ — 58 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 58 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

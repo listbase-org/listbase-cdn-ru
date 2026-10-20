@@ -1,0 +1,93 @@
+{
+  "id": "ru-chita-banki",
+  "name": "Банки — Chita (коды SWIFT/BIC)",
+  "title": "Банки — Chita (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in CHITA (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 96,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "CHITA",
+      "branch": "(CHITA BRANCH)",
+      "swift_code": "MOBWRUM1CHT"
+    },
+    {
+      "id": 688,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "CHITA",
+      "branch": "(CHITINSKY BRANCH)",
+      "swift_code": "RUAGRUM1047"
+    },
+    {
+      "id": 1220,
+      "bank": "ROST BANK",
+      "city": "CHITA",
+      "branch": "(CHITA BRANCH)",
+      "swift_code": "JORORU21CHB"
+    },
+    {
+      "id": 1324,
+      "bank": "SBERBANK (BAIKALSKY HEAD OFFICE)",
+      "city": "CHITA",
+      "branch": "(CHITA BRANCH)",
+      "swift_code": "SABRRU66CHT"
+    },
+    {
+      "id": 1412,
+      "bank": "SOYUZNYJ OOO",
+      "city": "CHITA",
+      "branch": "(CHITA BRANCH)",
+      "swift_code": "SOYZRUM1CHT"
+    },
+    {
+      "id": 1427,
+      "bank": "SVIAZ-BANK",
+      "city": "CHITA",
+      "branch": "(CHITINSKIY BRANCH)",
+      "swift_code": "SVIZRUM1CHI"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Chita (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in CHITA (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 6 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Chita (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Chita (коды SWIFT/BIC) — 6 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 6 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

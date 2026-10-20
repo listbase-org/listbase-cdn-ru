@@ -1,0 +1,79 @@
+{
+  "id": "ru-evreyskaya-avtonomnaya-oblast-goroda",
+  "name": "Города — Еврейская автономная область",
+  "title": "Города — Еврейская автономная область",
+  "description": "2 городов региона «Еврейская автономная область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Биробиджан",
+      "population_thousands": 71.8,
+      "latitude": 48.7946446,
+      "longitude": 132.9217207,
+      "region_name": "Еврейская автономная область",
+      "region_iso_code": "RU-YEV",
+      "federal_district": "Дальневосточный"
+    },
+    {
+      "name": "Облучье",
+      "population_thousands": 8.4,
+      "latitude": 49.0189345,
+      "longitude": 131.0540102,
+      "region_name": "Еврейская автономная область",
+      "region_iso_code": "RU-YEV",
+      "federal_district": "Дальневосточный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Еврейская автономная область - Бесплатная загрузка",
+    "description": "2 городов региона «Еврейская автономная область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 2 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Еврейская автономная область | ListBase",
+    "seo_description": "Скачать Города — Еврейская автономная область — 2 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 2 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

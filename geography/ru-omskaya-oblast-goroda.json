@@ -1,0 +1,115 @@
+{
+  "id": "ru-omskaya-oblast-goroda",
+  "name": "Города — Омская область",
+  "title": "Города — Омская область",
+  "description": "6 городов региона «Омская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Исилькуль",
+      "population_thousands": 22.4,
+      "latitude": 54.9096002,
+      "longitude": 71.2816284,
+      "region_name": "Омская область",
+      "region_iso_code": "RU-OMS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Калачинск",
+      "population_thousands": 22.6,
+      "latitude": 55.0598155,
+      "longitude": 74.5653644,
+      "region_name": "Омская область",
+      "region_iso_code": "RU-OMS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Называевск",
+      "population_thousands": 10.9,
+      "latitude": 55.5689323,
+      "longitude": 71.3503426,
+      "region_name": "Омская область",
+      "region_iso_code": "RU-OMS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Омск",
+      "population_thousands": 1154.5,
+      "latitude": 54.9848566,
+      "longitude": 73.3674517,
+      "region_name": "Омская область",
+      "region_iso_code": "RU-OMS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Тара",
+      "population_thousands": 28.2,
+      "latitude": 56.9160511,
+      "longitude": 74.3649194,
+      "region_name": "Омская область",
+      "region_iso_code": "RU-OMS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Тюкалинск",
+      "population_thousands": 10.3,
+      "latitude": 55.8703415,
+      "longitude": 72.1954747,
+      "region_name": "Омская область",
+      "region_iso_code": "RU-OMS",
+      "federal_district": "Сибирский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Омская область - Бесплатная загрузка",
+    "description": "6 городов региона «Омская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 6 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Омская область | ListBase",
+    "seo_description": "Скачать Города — Омская область — 6 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 6 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

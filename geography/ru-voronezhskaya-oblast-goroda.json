@@ -1,0 +1,196 @@
+{
+  "id": "ru-voronezhskaya-oblast-goroda",
+  "name": "Города — Воронежская область",
+  "title": "Города — Воронежская область",
+  "description": "15 городов региона «Воронежская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Бобров",
+      "population_thousands": 20,
+      "latitude": 51.0901649,
+      "longitude": 40.0318256,
+      "region_name": "Воронежская область",
+      "region_iso_code": "RU-VOR",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Богучар",
+      "population_thousands": 11,
+      "latitude": 49.9352454,
+      "longitude": 40.5590801,
+      "region_name": "Воронежская область",
+      "region_iso_code": "RU-VOR",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Борисоглебск",
+      "population_thousands": 59.9,
+      "latitude": 51.3655754,
+      "longitude": 42.1008334,
+      "region_name": "Воронежская область",
+      "region_iso_code": "RU-VOR",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Бутурлиновка",
+      "population_thousands": 24,
+      "latitude": 50.8311818,
+      "longitude": 40.5976923,
+      "region_name": "Воронежская область",
+      "region_iso_code": "RU-VOR",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Воронеж",
+      "population_thousands": 1058.3,
+      "latitude": 51.6593332,
+      "longitude": 39.1969229,
+      "region_name": "Воронежская область",
+      "region_iso_code": "RU-VOR",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Калач",
+      "population_thousands": 18.2,
+      "latitude": 50.4242134,
+      "longitude": 41.0162014,
+      "region_name": "Воронежская область",
+      "region_iso_code": "RU-VOR",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Лиски",
+      "population_thousands": 53.5,
+      "latitude": 50.9945626,
+      "longitude": 39.5184909,
+      "region_name": "Воронежская область",
+      "region_iso_code": "RU-VOR",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Нововоронеж",
+      "population_thousands": 31.5,
+      "latitude": 51.3091524,
+      "longitude": 39.2162843,
+      "region_name": "Воронежская область",
+      "region_iso_code": "RU-VOR",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Новохоперск",
+      "population_thousands": 5.9,
+      "latitude": 51.0952211,
+      "longitude": 41.6173404,
+      "region_name": "Воронежская область",
+      "region_iso_code": "RU-VOR",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Острогожск",
+      "population_thousands": 31.8,
+      "latitude": 50.8677905,
+      "longitude": 39.0407746,
+      "region_name": "Воронежская область",
+      "region_iso_code": "RU-VOR",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Павловск",
+      "population_thousands": 24.5,
+      "latitude": 50.453455,
+      "longitude": 40.136874,
+      "region_name": "Воронежская область",
+      "region_iso_code": "RU-VOR",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Поворино",
+      "population_thousands": 16.7,
+      "latitude": 51.1954419,
+      "longitude": 42.2472726,
+      "region_name": "Воронежская область",
+      "region_iso_code": "RU-VOR",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Россошь",
+      "population_thousands": 62.6,
+      "latitude": 50.1701949,
+      "longitude": 39.6226965,
+      "region_name": "Воронежская область",
+      "region_iso_code": "RU-VOR",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Семилуки",
+      "population_thousands": 27,
+      "latitude": 51.6951644,
+      "longitude": 39.0190454,
+      "region_name": "Воронежская область",
+      "region_iso_code": "RU-VOR",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Эртиль",
+      "population_thousands": 10.1,
+      "latitude": 51.830932,
+      "longitude": 40.8074182,
+      "region_name": "Воронежская область",
+      "region_iso_code": "RU-VOR",
+      "federal_district": "Центральный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Воронежская область - Бесплатная загрузка",
+    "description": "15 городов региона «Воронежская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 15 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Воронежская область | ListBase",
+    "seo_description": "Скачать Города — Воронежская область — 15 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 15 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

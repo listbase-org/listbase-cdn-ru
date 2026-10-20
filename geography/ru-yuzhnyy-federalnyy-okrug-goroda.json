@@ -1,0 +1,925 @@
+{
+  "id": "ru-yuzhnyy-federalnyy-okrug-goroda",
+  "name": "Города — Южный федеральный округ",
+  "title": "Города — Южный федеральный округ",
+  "description": "96 городов в Южный федеральный округ с координатами, населением (тыс. чел., Росстат 2020), регионом и ISO-кодом региона.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 96,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Абинск",
+      "population_thousands": 39.1,
+      "latitude": 44.8679655,
+      "longitude": 38.1618157,
+      "region_name": "Краснодарский край",
+      "region_iso_code": "RU-KDA",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Адыгейск",
+      "population_thousands": 12.7,
+      "latitude": 44.878414,
+      "longitude": 39.190289,
+      "region_name": "Республика Адыгея",
+      "region_iso_code": "RU-AD",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Азов",
+      "population_thousands": 80.4,
+      "latitude": 47.1121589,
+      "longitude": 39.4232555,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Аксай",
+      "population_thousands": 46,
+      "latitude": 47.2676314,
+      "longitude": 39.8756872,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Алупка",
+      "population_thousands": 8,
+      "latitude": 44.4164605,
+      "longitude": 34.0444797,
+      "region_name": "Республика Крым",
+      "region_iso_code": "UA-43",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Алушта",
+      "population_thousands": 30,
+      "latitude": 44.6764304,
+      "longitude": 34.4100624,
+      "region_name": "Республика Крым",
+      "region_iso_code": "UA-43",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Анапа",
+      "population_thousands": 88.9,
+      "latitude": 44.8950433,
+      "longitude": 37.3163282,
+      "region_name": "Краснодарский край",
+      "region_iso_code": "RU-KDA",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Апшеронск",
+      "population_thousands": 39.5,
+      "latitude": 44.4584006,
+      "longitude": 39.7299824,
+      "region_name": "Краснодарский край",
+      "region_iso_code": "RU-KDA",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Армавир",
+      "population_thousands": 189,
+      "latitude": 45.0012149,
+      "longitude": 41.1324168,
+      "region_name": "Краснодарский край",
+      "region_iso_code": "RU-KDA",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Армянск",
+      "population_thousands": 21.4,
+      "latitude": 46.1059307,
+      "longitude": 33.6910012,
+      "region_name": "Республика Крым",
+      "region_iso_code": "UA-43",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Астрахань",
+      "population_thousands": 529.8,
+      "latitude": 46.3655652,
+      "longitude": 48.0559236,
+      "region_name": "Астраханская область",
+      "region_iso_code": "RU-AST",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Ахтубинск",
+      "population_thousands": 36.5,
+      "latitude": 48.2752034,
+      "longitude": 46.1906462,
+      "region_name": "Астраханская область",
+      "region_iso_code": "RU-AST",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Батайск",
+      "population_thousands": 127.9,
+      "latitude": 47.1383299,
+      "longitude": 39.7507179,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Бахчисарай",
+      "population_thousands": 26.7,
+      "latitude": 44.7514769,
+      "longitude": 33.8752176,
+      "region_name": "Республика Крым",
+      "region_iso_code": "UA-43",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Белая Калитва",
+      "population_thousands": 39.3,
+      "latitude": 48.1769737,
+      "longitude": 40.8033529,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Белогорск",
+      "population_thousands": 16.4,
+      "latitude": 45.057202,
+      "longitude": 34.5999029,
+      "region_name": "Республика Крым",
+      "region_iso_code": "UA-43",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Белореченск",
+      "population_thousands": 51.6,
+      "latitude": 44.7651876,
+      "longitude": 39.8781494,
+      "region_name": "Краснодарский край",
+      "region_iso_code": "RU-KDA",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Волгоград",
+      "population_thousands": 1009,
+      "latitude": 48.7070042,
+      "longitude": 44.5170339,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Волгодонск",
+      "population_thousands": 171.4,
+      "latitude": 47.5165338,
+      "longitude": 42.1984951,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Волжский",
+      "population_thousands": 323.9,
+      "latitude": 48.7978209,
+      "longitude": 44.7462538,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Геленджик",
+      "population_thousands": 76.8,
+      "latitude": 44.5630007,
+      "longitude": 38.0790852,
+      "region_name": "Краснодарский край",
+      "region_iso_code": "RU-KDA",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Городовиковск",
+      "population_thousands": 8.6,
+      "latitude": 46.0875083,
+      "longitude": 41.935537,
+      "region_name": "Республика Калмыкия",
+      "region_iso_code": "RU-KL",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Горячий Ключ",
+      "population_thousands": 40.3,
+      "latitude": 44.6344864,
+      "longitude": 39.1354738,
+      "region_name": "Краснодарский край",
+      "region_iso_code": "RU-KDA",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Гуково",
+      "population_thousands": 63.2,
+      "latitude": 48.0448904,
+      "longitude": 39.9484672,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Гулькевичи",
+      "population_thousands": 34.3,
+      "latitude": 45.3605121,
+      "longitude": 40.6918389,
+      "region_name": "Краснодарский край",
+      "region_iso_code": "RU-KDA",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Джанкой",
+      "population_thousands": 38,
+      "latitude": 45.7092306,
+      "longitude": 34.3883372,
+      "region_name": "Республика Крым",
+      "region_iso_code": "UA-43",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Донецк",
+      "population_thousands": 46.7,
+      "latitude": 48.3350706,
+      "longitude": 39.945891,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Дубовка",
+      "population_thousands": 13.7,
+      "latitude": 49.0554742,
+      "longitude": 44.8270085,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Евпатория",
+      "population_thousands": 108.2,
+      "latitude": 45.190629,
+      "longitude": 33.367634,
+      "region_name": "Республика Крым",
+      "region_iso_code": "UA-43",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Ейск",
+      "population_thousands": 83.1,
+      "latitude": 46.71157,
+      "longitude": 38.2763895,
+      "region_name": "Краснодарский край",
+      "region_iso_code": "RU-KDA",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Жирновск",
+      "population_thousands": 15.5,
+      "latitude": 50.9768814,
+      "longitude": 44.7858202,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Зверево",
+      "population_thousands": 18,
+      "latitude": 48.0435487,
+      "longitude": 40.1265822,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Зерноград",
+      "population_thousands": 24.1,
+      "latitude": 46.8495958,
+      "longitude": 40.312837,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Знаменск",
+      "population_thousands": 26.7,
+      "latitude": 48.5866291,
+      "longitude": 45.7368019,
+      "region_name": "Астраханская область",
+      "region_iso_code": "RU-AST",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Калач-на-Дону",
+      "population_thousands": 23.6,
+      "latitude": 48.6889024,
+      "longitude": 43.5306303,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Каменск-Шахтинский",
+      "population_thousands": 87.8,
+      "latitude": 48.3205326,
+      "longitude": 40.2689583,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Камызяк",
+      "population_thousands": 15.7,
+      "latitude": 46.110579,
+      "longitude": 48.07333,
+      "region_name": "Астраханская область",
+      "region_iso_code": "RU-AST",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Камышин",
+      "population_thousands": 109.9,
+      "latitude": 50.0651529,
+      "longitude": 45.3844202,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Керчь",
+      "population_thousands": 151.5,
+      "latitude": 45.3562627,
+      "longitude": 36.4674513,
+      "region_name": "Республика Крым",
+      "region_iso_code": "UA-43",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Константиновск",
+      "population_thousands": 16.9,
+      "latitude": 47.5773717,
+      "longitude": 41.0967445,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Кореновск",
+      "population_thousands": 42.4,
+      "latitude": 45.4641703,
+      "longitude": 39.458949,
+      "region_name": "Краснодарский край",
+      "region_iso_code": "RU-KDA",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Котельниково",
+      "population_thousands": 20.4,
+      "latitude": 47.6310259,
+      "longitude": 43.1330872,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Котово",
+      "population_thousands": 21.4,
+      "latitude": 50.3205766,
+      "longitude": 44.8030699,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Краснодар",
+      "population_thousands": 932.6,
+      "latitude": 45.0401604,
+      "longitude": 38.9759647,
+      "region_name": "Краснодарский край",
+      "region_iso_code": "RU-KDA",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Красноперекопск",
+      "population_thousands": 24.9,
+      "latitude": 45.9537576,
+      "longitude": 33.7921939,
+      "region_name": "Республика Крым",
+      "region_iso_code": "UA-43",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Краснослободск",
+      "population_thousands": 17.1,
+      "latitude": 48.7068721,
+      "longitude": 44.5630857,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Красный Сулин",
+      "population_thousands": 37.6,
+      "latitude": 47.8831311,
+      "longitude": 40.0781298,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Кропоткин",
+      "population_thousands": 77.7,
+      "latitude": 45.4333007,
+      "longitude": 40.5727951,
+      "region_name": "Краснодарский край",
+      "region_iso_code": "RU-KDA",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Крымск",
+      "population_thousands": 57.9,
+      "latitude": 44.9344404,
+      "longitude": 37.9855795,
+      "region_name": "Краснодарский край",
+      "region_iso_code": "RU-KDA",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Курганинск",
+      "population_thousands": 48.2,
+      "latitude": 44.8877025,
+      "longitude": 40.5913245,
+      "region_name": "Краснодарский край",
+      "region_iso_code": "RU-KDA",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Лабинск",
+      "population_thousands": 59.3,
+      "latitude": 44.6354363,
+      "longitude": 40.7245341,
+      "region_name": "Краснодарский край",
+      "region_iso_code": "RU-KDA",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Лагань",
+      "population_thousands": 12.8,
+      "latitude": 45.3930912,
+      "longitude": 47.3432602,
+      "region_name": "Республика Калмыкия",
+      "region_iso_code": "RU-KL",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Ленинск",
+      "population_thousands": 14.4,
+      "latitude": 48.6936061,
+      "longitude": 45.1992692,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Майкоп",
+      "population_thousands": 141.5,
+      "latitude": 44.6098268,
+      "longitude": 40.1006606,
+      "region_name": "Республика Адыгея",
+      "region_iso_code": "RU-AD",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Миллерово",
+      "population_thousands": 34.5,
+      "latitude": 48.9260077,
+      "longitude": 40.3984087,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Михайловка",
+      "population_thousands": 57.4,
+      "latitude": 50.0708719,
+      "longitude": 43.2401512,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Морозовск",
+      "population_thousands": 24.6,
+      "latitude": 48.3511807,
+      "longitude": 41.8309225,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Нариманов",
+      "population_thousands": 10.8,
+      "latitude": 46.6916565,
+      "longitude": 47.8502476,
+      "region_name": "Астраханская область",
+      "region_iso_code": "RU-AST",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Николаевск",
+      "population_thousands": 13.4,
+      "latitude": 50.0165306,
+      "longitude": 45.4731658,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Новоаннинский",
+      "population_thousands": 15.9,
+      "latitude": 50.5296067,
+      "longitude": 42.6666439,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Новокубанск",
+      "population_thousands": 35.2,
+      "latitude": 45.1038699,
+      "longitude": 41.0475175,
+      "region_name": "Краснодарский край",
+      "region_iso_code": "RU-KDA",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Новороссийск",
+      "population_thousands": 275,
+      "latitude": 44.7235026,
+      "longitude": 37.7686135,
+      "region_name": "Краснодарский край",
+      "region_iso_code": "RU-KDA",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Новочеркасск",
+      "population_thousands": 168,
+      "latitude": 47.411919,
+      "longitude": 40.1042098,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Новошахтинск",
+      "population_thousands": 106.6,
+      "latitude": 47.757773,
+      "longitude": 39.9363697,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Палласовка",
+      "population_thousands": 14.5,
+      "latitude": 50.0500944,
+      "longitude": 46.8804277,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Петров Вал",
+      "population_thousands": 12.4,
+      "latitude": 50.1380557,
+      "longitude": 45.20914,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Приморско-Ахтарск",
+      "population_thousands": 32.3,
+      "latitude": 46.0515432,
+      "longitude": 38.1704875,
+      "region_name": "Краснодарский край",
+      "region_iso_code": "RU-KDA",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Пролетарск",
+      "population_thousands": 18.7,
+      "latitude": 46.7038963,
+      "longitude": 41.727594,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Ростов-на-Дону",
+      "population_thousands": 1137.9,
+      "latitude": 47.2224566,
+      "longitude": 39.718803,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Саки",
+      "population_thousands": 24.7,
+      "latitude": 45.1341997,
+      "longitude": 33.6033383,
+      "region_name": "Республика Крым",
+      "region_iso_code": "UA-43",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Сальск",
+      "population_thousands": 56.8,
+      "latitude": 46.4752095,
+      "longitude": 41.5410415,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Севастополь",
+      "population_thousands": 510,
+      "latitude": 44.6167013,
+      "longitude": 33.525355,
+      "region_name": "Севастополь",
+      "region_iso_code": "UA-40",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Семикаракорск",
+      "population_thousands": 21.9,
+      "latitude": 47.5177337,
+      "longitude": 40.8114167,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Серафимович",
+      "population_thousands": 8.6,
+      "latitude": 49.5663183,
+      "longitude": 42.7360402,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Симферополь",
+      "population_thousands": 342,
+      "latitude": 44.9482948,
+      "longitude": 34.1001151,
+      "region_name": "Республика Крым",
+      "region_iso_code": "UA-43",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Славянск-на-Кубани",
+      "population_thousands": 67.9,
+      "latitude": 45.2603626,
+      "longitude": 38.1259774,
+      "region_name": "Краснодарский край",
+      "region_iso_code": "RU-KDA",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Сочи",
+      "population_thousands": 443.6,
+      "latitude": 43.5854551,
+      "longitude": 39.7231548,
+      "region_name": "Краснодарский край",
+      "region_iso_code": "RU-KDA",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Старый Крым",
+      "population_thousands": 9.5,
+      "latitude": 45.029058,
+      "longitude": 35.0901474,
+      "region_name": "Республика Крым",
+      "region_iso_code": "UA-43",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Судак",
+      "population_thousands": 16.5,
+      "latitude": 44.8504679,
+      "longitude": 34.9762034,
+      "region_name": "Республика Крым",
+      "region_iso_code": "UA-43",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Суровикино",
+      "population_thousands": 18.2,
+      "latitude": 48.618917,
+      "longitude": 42.8541163,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Таганрог",
+      "population_thousands": 248.6,
+      "latitude": 47.2094917,
+      "longitude": 38.9350989,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Темрюк",
+      "population_thousands": 41.4,
+      "latitude": 45.2610949,
+      "longitude": 37.4454412,
+      "region_name": "Краснодарский край",
+      "region_iso_code": "RU-KDA",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Тимашевск",
+      "population_thousands": 50.8,
+      "latitude": 45.615923,
+      "longitude": 38.9351837,
+      "region_name": "Краснодарский край",
+      "region_iso_code": "RU-KDA",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Тихорецк",
+      "population_thousands": 57.1,
+      "latitude": 45.8546345,
+      "longitude": 40.1260267,
+      "region_name": "Краснодарский край",
+      "region_iso_code": "RU-KDA",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Туапсе",
+      "population_thousands": 61.2,
+      "latitude": 44.1105335,
+      "longitude": 39.0824904,
+      "region_name": "Краснодарский край",
+      "region_iso_code": "RU-KDA",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Урюпинск",
+      "population_thousands": 36.7,
+      "latitude": 50.7903789,
+      "longitude": 42.0288513,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Усть-Лабинск",
+      "population_thousands": 39.5,
+      "latitude": 45.2227359,
+      "longitude": 39.6929577,
+      "region_name": "Краснодарский край",
+      "region_iso_code": "RU-KDA",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Феодосия",
+      "population_thousands": 68,
+      "latitude": 45.0318393,
+      "longitude": 35.3824259,
+      "region_name": "Республика Крым",
+      "region_iso_code": "UA-43",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Фролово",
+      "population_thousands": 36.2,
+      "latitude": 49.7649148,
+      "longitude": 43.6648641,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Хадыженск",
+      "population_thousands": 22.2,
+      "latitude": 44.4122963,
+      "longitude": 39.5320258,
+      "region_name": "Краснодарский край",
+      "region_iso_code": "RU-KDA",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Харабали",
+      "population_thousands": 17.5,
+      "latitude": 47.408999,
+      "longitude": 47.2525345,
+      "region_name": "Астраханская область",
+      "region_iso_code": "RU-AST",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Цимлянск",
+      "population_thousands": 14.4,
+      "latitude": 47.6477448,
+      "longitude": 42.0931505,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Шахты",
+      "population_thousands": 230.3,
+      "latitude": 47.7085287,
+      "longitude": 40.2159846,
+      "region_name": "Ростовская область",
+      "region_iso_code": "RU-ROS",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Щелкино",
+      "population_thousands": 10.2,
+      "latitude": 45.4288991,
+      "longitude": 35.825165,
+      "region_name": "Республика Крым",
+      "region_iso_code": "UA-43",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Элиста",
+      "population_thousands": 103.1,
+      "latitude": 46.3083344,
+      "longitude": 44.2702088,
+      "region_name": "Республика Калмыкия",
+      "region_iso_code": "RU-KL",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Ялта",
+      "population_thousands": 79,
+      "latitude": 44.4953612,
+      "longitude": 34.166308,
+      "region_name": "Республика Крым",
+      "region_iso_code": "UA-43",
+      "federal_district": "Южный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Южный федеральный округ - Бесплатная загрузка",
+    "description": "96 городов в Южный федеральный округ с координатами, населением (тыс. чел., Росстат 2020), регионом и ISO-кодом региона. Содержит 96 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Южный федеральный округ | ListBase",
+    "seo_description": "Скачать Города — Южный федеральный округ — 96 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 96 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

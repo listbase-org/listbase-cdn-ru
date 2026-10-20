@@ -1,0 +1,7 @@
+﻿"Id","Ident","Type","Name","Latitude Deg","Longitude Deg","Elevation Ft","Continent","Iso Country","Iso Region","Region Local Code","Region Name","Municipality","Scheduled Service","Icao Code","Iata Code","Gps Code","Local Code","Home Link","Wikipedia Link","Keywords"
+"46195","RU-0340","heliport","Ataka Helipad","55.5901813455","84.97959136959999","","EU","RU","RU-KEM","KEM","Kemerovo Oblast","","no","","","","","","","Вертолётная площадка Атака"
+"46196","RU-0341","small_airport","Kemerovo Severny Airport","55.332720733399995","86.04554414750001","","EU","RU","RU-KEM","KEM","Kemerovo Oblast","Kemerovo","no","","","","","","","Kemerovo North Airport, Аэродром Кемерово Северный"
+"347913","RU-0765","closed","Belogorsk Airfield","55.03342","88.48534","2476","EU","RU","RU-KEM","KEM","Kemerovo Oblast","Belogorsk","no","","","","","","",""
+"546205","RU-10045","heliport","Chilisu-Anzas Heliport","52.682598","88.358185","1809","AS","RU","RU-KEM","KEM","Kemerovo Oblast","Chilisu-Anzas","no","","","","UNAZ","","","УНАЗ, Чилису-Анзас"
+"6505","UNEE","large_airport","Alexei Leonov Kemerovo International Airport","55.2701","86.107201","863","AS","RU","RU-KEM","KEM","Kemerovo Oblast","Kemerovo","yes","UNEE","KEJ","UNEE","","","https://en.wikipedia.org/wiki/Kemerovo_Airport",""
+"32045","UNWW","medium_airport","Spichenkovo Airport","53.811401","86.877197","1024","AS","RU","RU-KEM","KEM","Kemerovo Oblast","Novokuznetsk","yes","UNWW","NOZ","UNWW","","https://aerokuz.ru","https://en.wikipedia.org/wiki/Spichenkovo_Airport",""

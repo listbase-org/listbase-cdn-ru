@@ -1,0 +1,186 @@
+{
+  "id": "ru-antarktida-strany",
+  "name": "Страны: Антарктида (Antarctica countries — Russian)",
+  "title": "Страны: Антарктида (Antarctica countries — Russian)",
+  "description": "5 стран в части света Антарктида (Antarctica) с названиями на русском и английском, кодами ISO, телефонными кодами, столицей, валютами, языками и эмодзи-флагом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "iso_3166_1_alpha_2",
+      "label": "Iso 3166 1 Alpha 2",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_1_alpha_3",
+      "label": "Iso 3166 1 Alpha 3",
+      "type": "string"
+    },
+    {
+      "key": "name_ru",
+      "label": "Name Ru",
+      "type": "string"
+    },
+    {
+      "key": "name_ru_formal",
+      "label": "Name Ru Formal",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "phone_codes",
+      "label": "Phone Codes",
+      "type": "number"
+    },
+    {
+      "key": "phone_codes_formatted",
+      "label": "Phone Codes Formatted",
+      "type": "string"
+    },
+    {
+      "key": "continent_code",
+      "label": "Continent Code",
+      "type": "string"
+    },
+    {
+      "key": "continent_ru",
+      "label": "Continent Ru",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "currency_codes",
+      "label": "Currency Codes",
+      "type": "string"
+    },
+    {
+      "key": "language_codes",
+      "label": "Language Codes",
+      "type": "string"
+    },
+    {
+      "key": "tld",
+      "label": "Tld",
+      "type": "string"
+    },
+    {
+      "key": "emoji_flag",
+      "label": "Emoji Flag",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_3166_1_alpha_2": "AQ",
+      "iso_3166_1_alpha_3": "ATA",
+      "name_ru": "Антарктике",
+      "name_ru_formal": "Антарктике",
+      "name_en": "Antarctica",
+      "slug": "antarctica",
+      "phone_codes": "672",
+      "phone_codes_formatted": "+672",
+      "continent_code": "AN",
+      "continent_ru": "Антарктида",
+      "capital": "",
+      "currency_codes": "",
+      "language_codes": "",
+      "tld": ".aq",
+      "emoji_flag": "🇦🇶"
+    },
+    {
+      "iso_3166_1_alpha_2": "BV",
+      "iso_3166_1_alpha_3": "BVT",
+      "name_ru": "Остров Буве",
+      "name_ru_formal": "Остров Буве",
+      "name_en": "Bouvet Island",
+      "slug": "bouvet-island",
+      "phone_codes": "47",
+      "phone_codes_formatted": "+47",
+      "continent_code": "AN",
+      "continent_ru": "Антарктида",
+      "capital": "",
+      "currency_codes": "NOK",
+      "language_codes": "",
+      "tld": ".bv",
+      "emoji_flag": "🇧🇻"
+    },
+    {
+      "iso_3166_1_alpha_2": "GS",
+      "iso_3166_1_alpha_3": "SGS",
+      "name_ru": "Южная Джорджия и Южные Сандвичевы острова",
+      "name_ru_formal": "Южная Джорджия и Южные Сандвичевы острова",
+      "name_en": "South Georgia and the South Sandwich Islands",
+      "slug": "south-georgia-and-the-south-sandwich-islands",
+      "phone_codes": "500",
+      "phone_codes_formatted": "+500",
+      "continent_code": "AN",
+      "continent_ru": "Антарктида",
+      "capital": "Grytviken",
+      "currency_codes": "",
+      "language_codes": "en",
+      "tld": ".gs",
+      "emoji_flag": "🇬🇸"
+    },
+    {
+      "iso_3166_1_alpha_2": "HM",
+      "iso_3166_1_alpha_3": "HMD",
+      "name_ru": "Остров Херд и острова Макдональд",
+      "name_ru_formal": "Остров Херд и острова Макдональд",
+      "name_en": "Heard Island and McDonald Islands",
+      "slug": "heard-island-and-mcdonald-islands",
+      "phone_codes": "672",
+      "phone_codes_formatted": "+672",
+      "continent_code": "AN",
+      "continent_ru": "Антарктида",
+      "capital": "",
+      "currency_codes": "AUD",
+      "language_codes": "",
+      "tld": ".hm",
+      "emoji_flag": "🇭🇲"
+    },
+    {
+      "iso_3166_1_alpha_2": "TF",
+      "iso_3166_1_alpha_3": "ATF",
+      "name_ru": "Южные земли (французская заморская территория)",
+      "name_ru_formal": "Южные земли (французская заморская территория)",
+      "name_en": "French Southern Territories",
+      "slug": "french-southern-territories",
+      "phone_codes": "262",
+      "phone_codes_formatted": "+262",
+      "continent_code": "AN",
+      "continent_ru": "Антарктида",
+      "capital": "Port-aux-Francais",
+      "currency_codes": "EUR",
+      "language_codes": "fr",
+      "tld": ".tf",
+      "emoji_flag": "🇹🇫"
+    }
+  ],
+  "meta": {
+    "title": "Страны: Антарктида (Antarctica countries — Russian) - Бесплатная загрузка",
+    "description": "5 стран в части света Антарктида (Antarctica) с названиями на русском и английском, кодами ISO, телефонными кодами, столицей, валютами, языками и эмодзи-флагом. Содержит 5 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Страны: Антарктида (Antarctica countries — Russian) | ListBase",
+    "seo_description": "Скачать Страны: Антарктида (Antarctica countries — Russian) — 5 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 5 записей / 15 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

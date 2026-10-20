@@ -1,0 +1,808 @@
+{
+  "id": "ru-administrativnye-tsentry",
+  "name": "Административные центры субъектов РФ",
+  "title": "Административные центры субъектов РФ",
+  "description": "Административные центры (столицы) 83 субъектов Российской Федерации с кодами ОКАТО/ОКТМО и кодом ISO 3166-2 субъекта. Источник: arbaev/russia-cities (данные ФИАС/ОКАТО).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 83,
+  "columns": [
+    {
+      "key": "subekt",
+      "label": "Subekt",
+      "type": "string"
+    },
+    {
+      "key": "subekt_en",
+      "label": "Subekt En",
+      "type": "string"
+    },
+    {
+      "key": "subekt_kod",
+      "label": "Subekt Kod",
+      "type": "string"
+    },
+    {
+      "key": "federalnyy_okrug",
+      "label": "Federalnyy Okrug",
+      "type": "string"
+    },
+    {
+      "key": "tsentr",
+      "label": "Tsentr",
+      "type": "string"
+    },
+    {
+      "key": "okato",
+      "label": "Okato",
+      "type": "number"
+    },
+    {
+      "key": "oktmo",
+      "label": "Oktmo",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "subekt": "Алтайский край",
+      "subekt_en": "Altai Krai",
+      "subekt_kod": "RU-ALT",
+      "federalnyy_okrug": "Сибирский федеральный округ",
+      "tsentr": "Барнаул",
+      "okato": "01401000000",
+      "oktmo": "01701000001"
+    },
+    {
+      "subekt": "Амурская область",
+      "subekt_en": "Amur Oblast",
+      "subekt_kod": "RU-AMU",
+      "federalnyy_okrug": "Дальневосточный федеральный округ",
+      "tsentr": "Благовещенск",
+      "okato": "10401000000",
+      "oktmo": "10701000001"
+    },
+    {
+      "subekt": "Архангельская область",
+      "subekt_en": "Arkhangelsk Oblast",
+      "subekt_kod": "RU-ARK",
+      "federalnyy_okrug": "Северо-Западный федеральный округ",
+      "tsentr": "Архангельск",
+      "okato": "11401000000",
+      "oktmo": "11701000001"
+    },
+    {
+      "subekt": "Астраханская область",
+      "subekt_en": "Astrakhan Oblast",
+      "subekt_kod": "RU-AST",
+      "federalnyy_okrug": "Южный федеральный округ",
+      "tsentr": "Астрахань",
+      "okato": "12401000000",
+      "oktmo": "12701000001"
+    },
+    {
+      "subekt": "Белгородская область",
+      "subekt_en": "Belgorod Oblast",
+      "subekt_kod": "RU-BEL",
+      "federalnyy_okrug": "Центральный федеральный округ",
+      "tsentr": "Белгород",
+      "okato": "14401000000",
+      "oktmo": "14701000001"
+    },
+    {
+      "subekt": "Брянская область",
+      "subekt_en": "Bryansk Oblast",
+      "subekt_kod": "RU-BRY",
+      "federalnyy_okrug": "Центральный федеральный округ",
+      "tsentr": "Брянск",
+      "okato": "15401000000",
+      "oktmo": "15701000001"
+    },
+    {
+      "subekt": "Владимирская область",
+      "subekt_en": "Vladimir Oblast",
+      "subekt_kod": "RU-VLA",
+      "federalnyy_okrug": "Центральный федеральный округ",
+      "tsentr": "Владимир",
+      "okato": "17401000000",
+      "oktmo": "17701000001"
+    },
+    {
+      "subekt": "Волгоградская область",
+      "subekt_en": "Volgograd Oblast",
+      "subekt_kod": "RU-VGG",
+      "federalnyy_okrug": "Южный федеральный округ",
+      "tsentr": "Волгоград",
+      "okato": "18401000000",
+      "oktmo": "18701000001"
+    },
+    {
+      "subekt": "Вологодская область",
+      "subekt_en": "Vologda Oblast",
+      "subekt_kod": "RU-VLG",
+      "federalnyy_okrug": "Северо-Западный федеральный округ",
+      "tsentr": "Вологда",
+      "okato": "19401000000",
+      "oktmo": "19701000001"
+    },
+    {
+      "subekt": "Воронежская область",
+      "subekt_en": "Voronezh Oblast",
+      "subekt_kod": "RU-VOR",
+      "federalnyy_okrug": "Центральный федеральный округ",
+      "tsentr": "Воронеж",
+      "okato": "20401000000",
+      "oktmo": "20701000001"
+    },
+    {
+      "subekt": "Еврейская автономная область",
+      "subekt_en": "Jewish Autonomous Oblast",
+      "subekt_kod": "RU-YEV",
+      "federalnyy_okrug": "Дальневосточный федеральный округ",
+      "tsentr": "Биробиджан",
+      "okato": "99401000000",
+      "oktmo": "99701000001"
+    },
+    {
+      "subekt": "Забайкальский край",
+      "subekt_en": "Zabaykalsky Krai",
+      "subekt_kod": "RU-ZAB",
+      "federalnyy_okrug": "Дальневосточный федеральный округ",
+      "tsentr": "Чита",
+      "okato": "76401000000",
+      "oktmo": "76701000001"
+    },
+    {
+      "subekt": "Ивановская область",
+      "subekt_en": "Ivanovo Oblast",
+      "subekt_kod": "RU-IVA",
+      "federalnyy_okrug": "Центральный федеральный округ",
+      "tsentr": "Иваново",
+      "okato": "24401000000",
+      "oktmo": "24701000001"
+    },
+    {
+      "subekt": "Иркутская область",
+      "subekt_en": "Irkutsk Oblast",
+      "subekt_kod": "RU-IRK",
+      "federalnyy_okrug": "Сибирский федеральный округ",
+      "tsentr": "Иркутск",
+      "okato": "25401000000",
+      "oktmo": "25701000001"
+    },
+    {
+      "subekt": "Кабардино-Балкарская Республика",
+      "subekt_en": "Kabardino-Balkarian Republic",
+      "subekt_kod": "RU-KB",
+      "federalnyy_okrug": "Северо-Кавказский федеральный округ",
+      "tsentr": "Нальчик",
+      "okato": "83401000000",
+      "oktmo": "83701000001"
+    },
+    {
+      "subekt": "Калининградская область",
+      "subekt_en": "Kaliningrad Oblast",
+      "subekt_kod": "RU-KGD",
+      "federalnyy_okrug": "Северо-Западный федеральный округ",
+      "tsentr": "Калининград",
+      "okato": "27401000000",
+      "oktmo": "27701000001"
+    },
+    {
+      "subekt": "Калужская область",
+      "subekt_en": "Kaluga Oblast",
+      "subekt_kod": "RU-KLU",
+      "federalnyy_okrug": "Центральный федеральный округ",
+      "tsentr": "Калуга",
+      "okato": "29401000000",
+      "oktmo": "29701000001"
+    },
+    {
+      "subekt": "Камчатский край",
+      "subekt_en": "Kamchatka Krai",
+      "subekt_kod": "RU-KAM",
+      "federalnyy_okrug": "Дальневосточный федеральный округ",
+      "tsentr": "Петропавловск-Камчатский",
+      "okato": "30401000000",
+      "oktmo": "30701000001"
+    },
+    {
+      "subekt": "Карачаево-Черкесская Республика",
+      "subekt_en": "Karachay-Cherkessia",
+      "subekt_kod": "RU-KC",
+      "federalnyy_okrug": "Северо-Кавказский федеральный округ",
+      "tsentr": "Черкесск",
+      "okato": "91401000000",
+      "oktmo": "91701000001"
+    },
+    {
+      "subekt": "Кемеровская область - Кузбасс",
+      "subekt_en": "Kemerovo Oblast",
+      "subekt_kod": "RU-KEM",
+      "federalnyy_okrug": "Сибирский федеральный округ",
+      "tsentr": "Кемерово",
+      "okato": "32401000000",
+      "oktmo": "32701000001"
+    },
+    {
+      "subekt": "Кировская область",
+      "subekt_en": "Kirov Oblast",
+      "subekt_kod": "RU-KIR",
+      "federalnyy_okrug": "Приволжский федеральный округ",
+      "tsentr": "Киров",
+      "okato": "33401000000",
+      "oktmo": "33701000001"
+    },
+    {
+      "subekt": "Костромская область",
+      "subekt_en": "Kostroma Oblast",
+      "subekt_kod": "RU-KOS",
+      "federalnyy_okrug": "Центральный федеральный округ",
+      "tsentr": "Кострома",
+      "okato": "34401000000",
+      "oktmo": "34701000001"
+    },
+    {
+      "subekt": "Краснодарский край",
+      "subekt_en": "Krasnodar Krai",
+      "subekt_kod": "RU-KDA",
+      "federalnyy_okrug": "Южный федеральный округ",
+      "tsentr": "Краснодар",
+      "okato": "03401000000",
+      "oktmo": "03701000001"
+    },
+    {
+      "subekt": "Красноярский край",
+      "subekt_en": "Krasnoyarsk Krai",
+      "subekt_kod": "RU-KYA",
+      "federalnyy_okrug": "Сибирский федеральный округ",
+      "tsentr": "Красноярск",
+      "okato": "04401000000",
+      "oktmo": "04701000001"
+    },
+    {
+      "subekt": "Курганская область",
+      "subekt_en": "Kurgan Oblast",
+      "subekt_kod": "RU-KGN",
+      "federalnyy_okrug": "Уральский федеральный округ",
+      "tsentr": "Курган",
+      "okato": "37401000000",
+      "oktmo": "37701000001"
+    },
+    {
+      "subekt": "Курская область",
+      "subekt_en": "Kursk Oblast",
+      "subekt_kod": "RU-KRS",
+      "federalnyy_okrug": "Центральный федеральный округ",
+      "tsentr": "Курск",
+      "okato": "38401000000",
+      "oktmo": "38701000001"
+    },
+    {
+      "subekt": "Ленинградская область",
+      "subekt_en": "Leningrad Oblast",
+      "subekt_kod": "RU-LEN",
+      "federalnyy_okrug": "Северо-Западный федеральный округ",
+      "tsentr": "Гатчина",
+      "okato": "41218501000",
+      "oktmo": "41618101001"
+    },
+    {
+      "subekt": "Липецкая область",
+      "subekt_en": "Lipetsk Oblast",
+      "subekt_kod": "RU-LIP",
+      "federalnyy_okrug": "Центральный федеральный округ",
+      "tsentr": "Липецк",
+      "okato": "42401000000",
+      "oktmo": "42701000001"
+    },
+    {
+      "subekt": "Магаданская область",
+      "subekt_en": "Magadan Oblast",
+      "subekt_kod": "RU-MAG",
+      "federalnyy_okrug": "Дальневосточный федеральный округ",
+      "tsentr": "Магадан",
+      "okato": "44401000000",
+      "oktmo": "44701000001"
+    },
+    {
+      "subekt": "Москва",
+      "subekt_en": "Moscow",
+      "subekt_kod": "RU-MOW",
+      "federalnyy_okrug": "Центральный федеральный округ",
+      "tsentr": "Москва",
+      "okato": "45000000000",
+      "oktmo": "45000000"
+    },
+    {
+      "subekt": "Московская область",
+      "subekt_en": "Moscow Oblast",
+      "subekt_kod": "RU-MOS",
+      "federalnyy_okrug": "Центральный федеральный округ",
+      "tsentr": "Москва",
+      "okato": "45000000000",
+      "oktmo": "45000000"
+    },
+    {
+      "subekt": "Мурманская область",
+      "subekt_en": "Murmansk Oblast",
+      "subekt_kod": "RU-MUR",
+      "federalnyy_okrug": "Северо-Западный федеральный округ",
+      "tsentr": "Мурманск",
+      "okato": "47401000000",
+      "oktmo": "47701000001"
+    },
+    {
+      "subekt": "Ненецкий автономный округ",
+      "subekt_en": "Nenets Autonomous Okrug",
+      "subekt_kod": "RU-NEN",
+      "federalnyy_okrug": "Северо-Западный федеральный округ",
+      "tsentr": "Архангельск",
+      "okato": "11401000000",
+      "oktmo": "11701000001"
+    },
+    {
+      "subekt": "Нижегородская область",
+      "subekt_en": "Nizhny Novgorod Oblast",
+      "subekt_kod": "RU-NIZ",
+      "federalnyy_okrug": "Приволжский федеральный округ",
+      "tsentr": "Нижний Новгород",
+      "okato": "22401000000",
+      "oktmo": "22701000001"
+    },
+    {
+      "subekt": "Новгородская область",
+      "subekt_en": "Novgorod Oblast",
+      "subekt_kod": "RU-NGR",
+      "federalnyy_okrug": "Северо-Западный федеральный округ",
+      "tsentr": "Великий Новгород",
+      "okato": "49401000000",
+      "oktmo": "49701000001"
+    },
+    {
+      "subekt": "Новосибирская область",
+      "subekt_en": "Novosibirsk Oblast",
+      "subekt_kod": "RU-NVS",
+      "federalnyy_okrug": "Сибирский федеральный округ",
+      "tsentr": "Новосибирск",
+      "okato": "50401000000",
+      "oktmo": "50701000001"
+    },
+    {
+      "subekt": "Омская область",
+      "subekt_en": "Omsk Oblast",
+      "subekt_kod": "RU-OMS",
+      "federalnyy_okrug": "Сибирский федеральный округ",
+      "tsentr": "Омск",
+      "okato": "52401000000",
+      "oktmo": "52701000001"
+    },
+    {
+      "subekt": "Оренбургская область",
+      "subekt_en": "Orenburg Oblast",
+      "subekt_kod": "RU-ORE",
+      "federalnyy_okrug": "Приволжский федеральный округ",
+      "tsentr": "Оренбург",
+      "okato": "53401000000",
+      "oktmo": "53701000001"
+    },
+    {
+      "subekt": "Орловская область",
+      "subekt_en": "Oryol Oblast",
+      "subekt_kod": "RU-ORL",
+      "federalnyy_okrug": "Центральный федеральный округ",
+      "tsentr": "Орёл",
+      "okato": "54401000000",
+      "oktmo": "54701000001"
+    },
+    {
+      "subekt": "Пензенская область",
+      "subekt_en": "Penza Oblast",
+      "subekt_kod": "RU-PNZ",
+      "federalnyy_okrug": "Приволжский федеральный округ",
+      "tsentr": "Пенза",
+      "okato": "56401000000",
+      "oktmo": "56701000001"
+    },
+    {
+      "subekt": "Пермский край",
+      "subekt_en": "Perm Krai",
+      "subekt_kod": "RU-PER",
+      "federalnyy_okrug": "Приволжский федеральный округ",
+      "tsentr": "Пермь",
+      "okato": "57401000000",
+      "oktmo": "57701000001"
+    },
+    {
+      "subekt": "Приморский край",
+      "subekt_en": "Primorsky Krai",
+      "subekt_kod": "RU-PRI",
+      "federalnyy_okrug": "Дальневосточный федеральный округ",
+      "tsentr": "Владивосток",
+      "okato": "05401000000",
+      "oktmo": "05701000001"
+    },
+    {
+      "subekt": "Псковская область",
+      "subekt_en": "Pskov Oblast",
+      "subekt_kod": "RU-PSK",
+      "federalnyy_okrug": "Северо-Западный федеральный округ",
+      "tsentr": "Псков",
+      "okato": "58401000000",
+      "oktmo": "58701000001"
+    },
+    {
+      "subekt": "Республика Адыгея",
+      "subekt_en": "Republic of Adygea",
+      "subekt_kod": "RU-AD",
+      "federalnyy_okrug": "Южный федеральный округ",
+      "tsentr": "Майкоп",
+      "okato": "79401000000",
+      "oktmo": "79701000001"
+    },
+    {
+      "subekt": "Республика Алтай",
+      "subekt_en": "Altai Republic",
+      "subekt_kod": "RU-AL",
+      "federalnyy_okrug": "Сибирский федеральный округ",
+      "tsentr": "Горно-Алтайск",
+      "okato": "84401000000",
+      "oktmo": "84701000001"
+    },
+    {
+      "subekt": "Республика Башкортостан",
+      "subekt_en": "Republic of Bashkortostan",
+      "subekt_kod": "RU-BA",
+      "federalnyy_okrug": "Приволжский федеральный округ",
+      "tsentr": "Уфа",
+      "okato": "80401000000",
+      "oktmo": "80701000"
+    },
+    {
+      "subekt": "Республика Бурятия",
+      "subekt_en": "Republic of Buryatia",
+      "subekt_kod": "RU-BU",
+      "federalnyy_okrug": "Дальневосточный федеральный округ",
+      "tsentr": "Улан-Удэ",
+      "okato": "81401000000",
+      "oktmo": "81701000001"
+    },
+    {
+      "subekt": "Республика Дагестан",
+      "subekt_en": "Dagestan",
+      "subekt_kod": "RU-DA",
+      "federalnyy_okrug": "Северо-Кавказский федеральный округ",
+      "tsentr": "Махачкала",
+      "okato": "82401000000",
+      "oktmo": "82701000001"
+    },
+    {
+      "subekt": "Республика Ингушетия",
+      "subekt_en": "Ingushetia",
+      "subekt_kod": "RU-IN",
+      "federalnyy_okrug": "Северо-Кавказский федеральный округ",
+      "tsentr": "Магас",
+      "okato": "26401000000",
+      "oktmo": "26701000001"
+    },
+    {
+      "subekt": "Республика Калмыкия",
+      "subekt_en": "Kalmykia",
+      "subekt_kod": "RU-KL",
+      "federalnyy_okrug": "Южный федеральный округ",
+      "tsentr": "Элиста",
+      "okato": "85401000000",
+      "oktmo": "85701000001"
+    },
+    {
+      "subekt": "Республика Карелия",
+      "subekt_en": "Karelia",
+      "subekt_kod": "RU-KR",
+      "federalnyy_okrug": "Северо-Западный федеральный округ",
+      "tsentr": "Петрозаводск",
+      "okato": "86401000000",
+      "oktmo": "86701000001"
+    },
+    {
+      "subekt": "Республика Коми",
+      "subekt_en": "Komi Republic",
+      "subekt_kod": "RU-KO",
+      "federalnyy_okrug": "Северо-Западный федеральный округ",
+      "tsentr": "Сыктывкар",
+      "okato": "87401000000",
+      "oktmo": "87701000001"
+    },
+    {
+      "subekt": "Республика Марий Эл",
+      "subekt_en": "Mari El",
+      "subekt_kod": "RU-ME",
+      "federalnyy_okrug": "Приволжский федеральный округ",
+      "tsentr": "Йошкар-Ола",
+      "okato": "88401000000",
+      "oktmo": "88701000001"
+    },
+    {
+      "subekt": "Республика Мордовия",
+      "subekt_en": "Republic of Mordovia",
+      "subekt_kod": "RU-MO",
+      "federalnyy_okrug": "Приволжский федеральный округ",
+      "tsentr": "Саранск",
+      "okato": "89401000000",
+      "oktmo": "89701000001"
+    },
+    {
+      "subekt": "Республика Саха /Якутия/",
+      "subekt_en": "Republic of Sakha (Yakutia)",
+      "subekt_kod": "RU-SA",
+      "federalnyy_okrug": "Дальневосточный федеральный округ",
+      "tsentr": "Якутск",
+      "okato": "98401000000",
+      "oktmo": "98701000001"
+    },
+    {
+      "subekt": "Республика Северная Осетия - Алания",
+      "subekt_en": "Republic of North Ossetia–Alania",
+      "subekt_kod": "RU-SE",
+      "federalnyy_okrug": "Северо-Кавказский федеральный округ",
+      "tsentr": "Владикавказ",
+      "okato": "90401000000",
+      "oktmo": "90701000001"
+    },
+    {
+      "subekt": "Республика Татарстан",
+      "subekt_en": "Republic of Tatarstan",
+      "subekt_kod": "RU-TA",
+      "federalnyy_okrug": "Приволжский федеральный округ",
+      "tsentr": "Казань",
+      "okato": "92401000000",
+      "oktmo": "92701000001"
+    },
+    {
+      "subekt": "Республика Тыва",
+      "subekt_en": "Tuva Republic",
+      "subekt_kod": "RU-TY",
+      "federalnyy_okrug": "Сибирский федеральный округ",
+      "tsentr": "Кызыл",
+      "okato": "93401000000",
+      "oktmo": "93701000001"
+    },
+    {
+      "subekt": "Республика Хакасия",
+      "subekt_en": "Republic of Khakassia",
+      "subekt_kod": "RU-KK",
+      "federalnyy_okrug": "Сибирский федеральный округ",
+      "tsentr": "Абакан",
+      "okato": "95401000000",
+      "oktmo": "95701000001"
+    },
+    {
+      "subekt": "Ростовская область",
+      "subekt_en": "Rostov Oblast",
+      "subekt_kod": "RU-ROS",
+      "federalnyy_okrug": "Южный федеральный округ",
+      "tsentr": "Ростов-на-Дону",
+      "okato": "60401000000",
+      "oktmo": "60701000001"
+    },
+    {
+      "subekt": "Рязанская область",
+      "subekt_en": "Ryazan Oblast",
+      "subekt_kod": "RU-RYA",
+      "federalnyy_okrug": "Центральный федеральный округ",
+      "tsentr": "Рязань",
+      "okato": "61401000000",
+      "oktmo": "61701000001"
+    },
+    {
+      "subekt": "Самарская область",
+      "subekt_en": "Samara Oblast",
+      "subekt_kod": "RU-SAM",
+      "federalnyy_okrug": "Приволжский федеральный округ",
+      "tsentr": "Самара",
+      "okato": "36401000000",
+      "oktmo": "36701000"
+    },
+    {
+      "subekt": "Санкт-Петербург",
+      "subekt_en": "Saint Petersburg",
+      "subekt_kod": "RU-SPE",
+      "federalnyy_okrug": "Северо-Западный федеральный округ",
+      "tsentr": "Санкт-Петербург",
+      "okato": "40000000000",
+      "oktmo": "40000000"
+    },
+    {
+      "subekt": "Саратовская область",
+      "subekt_en": "Saratov Oblast",
+      "subekt_kod": "RU-SAR",
+      "federalnyy_okrug": "Приволжский федеральный округ",
+      "tsentr": "Саратов",
+      "okato": "63401000000",
+      "oktmo": "63701000001"
+    },
+    {
+      "subekt": "Сахалинская область",
+      "subekt_en": "Sakhalin Oblast",
+      "subekt_kod": "RU-SAK",
+      "federalnyy_okrug": "Дальневосточный федеральный округ",
+      "tsentr": "Южно-Сахалинск",
+      "okato": "64401000000",
+      "oktmo": "64701000001"
+    },
+    {
+      "subekt": "Свердловская область",
+      "subekt_en": "Sverdlovsk Oblast",
+      "subekt_kod": "RU-SVE",
+      "federalnyy_okrug": "Уральский федеральный округ",
+      "tsentr": "Екатеринбург",
+      "okato": "65401000000",
+      "oktmo": "65701000001"
+    },
+    {
+      "subekt": "Смоленская область",
+      "subekt_en": "Smolensk Oblast",
+      "subekt_kod": "RU-SMO",
+      "federalnyy_okrug": "Центральный федеральный округ",
+      "tsentr": "Смоленск",
+      "okato": "66401000000",
+      "oktmo": "66701000001"
+    },
+    {
+      "subekt": "Ставропольский край",
+      "subekt_en": "Stavropol Krai",
+      "subekt_kod": "RU-STA",
+      "federalnyy_okrug": "Северо-Кавказский федеральный округ",
+      "tsentr": "Ставрополь",
+      "okato": "07401000000",
+      "oktmo": "07701000001"
+    },
+    {
+      "subekt": "Тамбовская область",
+      "subekt_en": "Tambov Oblast",
+      "subekt_kod": "RU-TAM",
+      "federalnyy_okrug": "Центральный федеральный округ",
+      "tsentr": "Тамбов",
+      "okato": "68401000000",
+      "oktmo": "68701000001"
+    },
+    {
+      "subekt": "Тверская область",
+      "subekt_en": "Tver Oblast",
+      "subekt_kod": "RU-TVE",
+      "federalnyy_okrug": "Центральный федеральный округ",
+      "tsentr": "Тверь",
+      "okato": "28401000000",
+      "oktmo": "28701000001"
+    },
+    {
+      "subekt": "Томская область",
+      "subekt_en": "Tomsk Oblast",
+      "subekt_kod": "RU-TOM",
+      "federalnyy_okrug": "Сибирский федеральный округ",
+      "tsentr": "Томск",
+      "okato": "69401000000",
+      "oktmo": "69701000001"
+    },
+    {
+      "subekt": "Тульская область",
+      "subekt_en": "Tula Oblast",
+      "subekt_kod": "RU-TUL",
+      "federalnyy_okrug": "Центральный федеральный округ",
+      "tsentr": "Тула",
+      "okato": "70401000000",
+      "oktmo": "70701000001"
+    },
+    {
+      "subekt": "Тюменская область",
+      "subekt_en": "Tyumen Oblast",
+      "subekt_kod": "RU-TYU",
+      "federalnyy_okrug": "Уральский федеральный округ",
+      "tsentr": "Тюмень",
+      "okato": "71401000000",
+      "oktmo": "71701000001"
+    },
+    {
+      "subekt": "Удмуртская Республика",
+      "subekt_en": "Udmurtia",
+      "subekt_kod": "RU-UD",
+      "federalnyy_okrug": "Приволжский федеральный округ",
+      "tsentr": "Ижевск",
+      "okato": "94401000000",
+      "oktmo": "94701000001"
+    },
+    {
+      "subekt": "Ульяновская область",
+      "subekt_en": "Ulyanovsk Oblast",
+      "subekt_kod": "RU-ULY",
+      "federalnyy_okrug": "Приволжский федеральный округ",
+      "tsentr": "Ульяновск",
+      "okato": "73401000000",
+      "oktmo": "73701000001"
+    },
+    {
+      "subekt": "Хабаровский край",
+      "subekt_en": "Khabarovsk Krai",
+      "subekt_kod": "RU-KHA",
+      "federalnyy_okrug": "Дальневосточный федеральный округ",
+      "tsentr": "Хабаровск",
+      "okato": "08401000000",
+      "oktmo": "08701000001"
+    },
+    {
+      "subekt": "Ханты-Мансийский Автономный округ - Югра",
+      "subekt_en": "Khanty-Mansi Autonomous Okrug",
+      "subekt_kod": "RU-KHM",
+      "federalnyy_okrug": "Уральский федеральный округ",
+      "tsentr": "Тюмень",
+      "okato": "71401000000",
+      "oktmo": "71701000001"
+    },
+    {
+      "subekt": "Челябинская область",
+      "subekt_en": "Chelyabinsk Oblast",
+      "subekt_kod": "RU-CHE",
+      "federalnyy_okrug": "Уральский федеральный округ",
+      "tsentr": "Челябинск",
+      "okato": "75401000000",
+      "oktmo": "75701000001"
+    },
+    {
+      "subekt": "Чеченская Республика",
+      "subekt_en": "Chechen Republic",
+      "subekt_kod": "RU-CE",
+      "federalnyy_okrug": "Северо-Кавказский федеральный округ",
+      "tsentr": "Грозный",
+      "okato": "96401000000",
+      "oktmo": "96701000001"
+    },
+    {
+      "subekt": "Чувашская Республика",
+      "subekt_en": "Chuvash Republic",
+      "subekt_kod": "RU-CU",
+      "federalnyy_okrug": "Приволжский федеральный округ",
+      "tsentr": "Чебоксары",
+      "okato": "97401000000",
+      "oktmo": "97701000001"
+    },
+    {
+      "subekt": "Чукотский автономный округ",
+      "subekt_en": "Chukotka Autonomous Okrug",
+      "subekt_kod": "RU-CHU",
+      "federalnyy_okrug": "Дальневосточный федеральный округ",
+      "tsentr": "Анадырь",
+      "okato": "77401000000",
+      "oktmo": "77701000001"
+    },
+    {
+      "subekt": "Ямало-Ненецкий автономный округ",
+      "subekt_en": "Yamalo-Nenets Autonomous Okrug",
+      "subekt_kod": "RU-YAN",
+      "federalnyy_okrug": "Уральский федеральный округ",
+      "tsentr": "Тюмень",
+      "okato": "71401000000",
+      "oktmo": "71701000001"
+    },
+    {
+      "subekt": "Ярославская область",
+      "subekt_en": "Yaroslavl Oblast",
+      "subekt_kod": "RU-YAR",
+      "federalnyy_okrug": "Центральный федеральный округ",
+      "tsentr": "Ярославль",
+      "okato": "78401000000",
+      "oktmo": "78701000001"
+    }
+  ],
+  "meta": {
+    "title": "Административные центры субъектов РФ - Бесплатная загрузка",
+    "description": "Административные центры (столицы) 83 субъектов Российской Федерации с кодами ОКАТО/ОКТМО и кодом ISO 3166-2 субъекта. Источник: arbaev/russia-cities (данные ФИАС/ОКАТО). Содержит 83 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Административные центры субъектов РФ | ListBase",
+    "seo_description": "Скачать Административные центры субъектов РФ — 83 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 83 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

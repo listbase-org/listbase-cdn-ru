@@ -1,0 +1,93 @@
+{
+  "id": "ru-bryansk-banki",
+  "name": "Банки — Bryansk (коды SWIFT/BIC)",
+  "title": "Банки — Bryansk (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in BRYANSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 296,
+      "bank": "BEZHITSA-BANK OAO",
+      "city": "BRYANSK",
+      "branch": "",
+      "swift_code": "BEOARU21"
+    },
+    {
+      "id": 566,
+      "bank": "INVESTMENT TRADE BANK PJSC",
+      "city": "BRYANSK",
+      "branch": "(BRYANSKY BRANCH)",
+      "swift_code": "INVJRUM1BRN"
+    },
+    {
+      "id": 684,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "BRYANSK",
+      "branch": "(BRYANSKY BRANCH)",
+      "swift_code": "RUAGRUM1069"
+    },
+    {
+      "id": 769,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "BRYANSK",
+      "branch": "(BRYANSKOE REGIONAL DEPARTMENT OFFICE)",
+      "swift_code": "MINNRUM1050"
+    },
+    {
+      "id": 1218,
+      "bank": "ROST BANK",
+      "city": "BRYANSK",
+      "branch": "(BRYANSK BRANCH)",
+      "swift_code": "JORORU21BRB"
+    },
+    {
+      "id": 1489,
+      "bank": "TRANSKAPITALBANK",
+      "city": "BRYANSK",
+      "branch": "(BRYANSK BRANCH)",
+      "swift_code": "TJSCRUM1BRN"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Bryansk (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in BRYANSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 6 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Bryansk (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Bryansk (коды SWIFT/BIC) — 6 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 6 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

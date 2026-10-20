@@ -1,0 +1,100 @@
+{
+  "id": "ru-tver-banki",
+  "name": "Банки — Tver (коды SWIFT/BIC)",
+  "title": "Банки — Tver (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in TVER (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 137,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "TVER",
+      "branch": "(TVER BRANCH)",
+      "swift_code": "MOBWRUM1TVR"
+    },
+    {
+      "id": 233,
+      "bank": "BANK ''ROSSIYA''",
+      "city": "TVER",
+      "branch": "(TVER BRANCH)",
+      "swift_code": "ROSYRU21TVR"
+    },
+    {
+      "id": 552,
+      "bank": "INTERNATIONAL COMMERCIAL AND INDUSTRIAL BANK",
+      "city": "TVER",
+      "branch": "",
+      "swift_code": "ICIBRU21"
+    },
+    {
+      "id": 610,
+      "bank": "JOINT STOCK COMPANY 'GUTA-BANK'",
+      "city": "TVER",
+      "branch": "",
+      "swift_code": "TJSBRUMM"
+    },
+    {
+      "id": 739,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "TVER",
+      "branch": "(TVERSKOJ BRANCH)",
+      "swift_code": "RUAGRUM1019"
+    },
+    {
+      "id": 1252,
+      "bank": "ROST BANK",
+      "city": "TVER",
+      "branch": "(TVER BRANCH)",
+      "swift_code": "JORORU21TVB"
+    },
+    {
+      "id": 1344,
+      "bank": "SDM-BANK PJSC",
+      "city": "TVER",
+      "branch": "(TVER BRANCH)",
+      "swift_code": "SJSCRUMMTVR"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Tver (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in TVER (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 7 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Tver (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Tver (коды SWIFT/BIC) — 7 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 7 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

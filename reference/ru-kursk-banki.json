@@ -1,0 +1,100 @@
+{
+  "id": "ru-kursk-banki",
+  "name": "Банки — Kursk (коды SWIFT/BIC)",
+  "title": "Банки — Kursk (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in KURSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 107,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "KURSK",
+      "branch": "(KURSK BRANCH)",
+      "swift_code": "MOBWRUM1KUR"
+    },
+    {
+      "id": 220,
+      "bank": "BANK ''ROSSIYA''",
+      "city": "KURSK",
+      "branch": "(KURSK BRANCH)",
+      "swift_code": "ROSYRU21KUR"
+    },
+    {
+      "id": 706,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "KURSK",
+      "branch": "(KURSKY BRANCH)",
+      "swift_code": "RUAGRUM1032"
+    },
+    {
+      "id": 847,
+      "bank": "KURSKPROMBANK PAO",
+      "city": "KURSK",
+      "branch": "",
+      "swift_code": "KURSRU22"
+    },
+    {
+      "id": 920,
+      "bank": "MOSOBLBANK",
+      "city": "KURSK",
+      "branch": "(BRANCH NO.22)",
+      "swift_code": "MOBKRUM1022"
+    },
+    {
+      "id": 1230,
+      "bank": "ROST BANK",
+      "city": "KURSK",
+      "branch": "(KURSK BRANCH)",
+      "swift_code": "JORORU21KUB"
+    },
+    {
+      "id": 1634,
+      "bank": "ZENIT BANK",
+      "city": "KURSK",
+      "branch": "(KURSK BRANCH)",
+      "swift_code": "ZENIRUM1KUR"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Kursk (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in KURSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 7 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Kursk (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Kursk (коды SWIFT/BIC) — 7 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 7 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

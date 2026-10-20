@@ -1,0 +1,156 @@
+{
+  "id": "ru-kaliningrad-banki",
+  "name": "Банки — Kaliningrad (коды SWIFT/BIC)",
+  "title": "Банки — Kaliningrad (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in KALININGRAD (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 151,
+      "bank": "BALTKREDOBANK KB OOO",
+      "city": "KALININGRAD",
+      "branch": "",
+      "swift_code": "BAOCRU21"
+    },
+    {
+      "id": 436,
+      "bank": "ENERGOTRANSBANK",
+      "city": "KALININGRAD",
+      "branch": "",
+      "swift_code": "ENGORU2K"
+    },
+    {
+      "id": 492,
+      "bank": "GAZPROMBANK (JOINT - STOCK COMPANY)",
+      "city": "KALININGRAD",
+      "branch": "(KALININGRAD BRANCH)",
+      "swift_code": "GAZPRUMM038"
+    },
+    {
+      "id": 696,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "KALININGRAD",
+      "branch": "(KALININGRADSKY BRANCH)",
+      "swift_code": "RUAGRUM1055"
+    },
+    {
+      "id": 879,
+      "bank": "MARITIME BANK BRANCH OF KALININGRAD",
+      "city": "KALININGRAD",
+      "branch": "",
+      "swift_code": "MABLRU21"
+    },
+    {
+      "id": 900,
+      "bank": "MORSKOI COMMERCIAL BANK OF KALININGRAD",
+      "city": "KALININGRAD",
+      "branch": "",
+      "swift_code": "MOCKRU21"
+    },
+    {
+      "id": 947,
+      "bank": "MUNICIPALNYJ KOMMERCHESKIJ BANK",
+      "city": "KALININGRAD",
+      "branch": "",
+      "swift_code": "MUNKRU21"
+    },
+    {
+      "id": 1186,
+      "bank": "REGIONAL CREDIT BANK OJSC CB",
+      "city": "KALININGRAD",
+      "branch": "",
+      "swift_code": "RECRRU21"
+    },
+    {
+      "id": 1225,
+      "bank": "ROST BANK",
+      "city": "KALININGRAD",
+      "branch": "(KALININGRAD BRANCH)",
+      "swift_code": "JORORU21KLB"
+    },
+    {
+      "id": 1330,
+      "bank": "SBERBANK (SEVERO-ZAPADNY HEAD OFFICE)",
+      "city": "KALININGRAD",
+      "branch": "(KALININGRAD BRANCH)",
+      "swift_code": "SABRRU2P920"
+    },
+    {
+      "id": 1375,
+      "bank": "SOBINBANK",
+      "city": "KALININGRAD",
+      "branch": "(KALININGRAD BRANCH)",
+      "swift_code": "SBBARUM1005"
+    },
+    {
+      "id": 1422,
+      "bank": "STROJVESTBANK",
+      "city": "KALININGRAD",
+      "branch": "",
+      "swift_code": "STRYRU21"
+    },
+    {
+      "id": 1430,
+      "bank": "SVIAZ-BANK",
+      "city": "KALININGRAD",
+      "branch": "(KALININGRAD BRANCH)",
+      "swift_code": "SVIZRUM1KLN"
+    },
+    {
+      "id": 1491,
+      "bank": "TRANSKAPITALBANK",
+      "city": "KALININGRAD",
+      "branch": "(KALININGRAD BRANCH)",
+      "swift_code": "TJSCRUM1KLG"
+    },
+    {
+      "id": 1559,
+      "bank": "VOZROZHDENIE BANK",
+      "city": "KALININGRAD",
+      "branch": "(KALININGRAD BRANCH)",
+      "swift_code": "VBNKRUM1KLG"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Kaliningrad (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in KALININGRAD (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 15 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Kaliningrad (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Kaliningrad (коды SWIFT/BIC) — 15 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 15 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "id": "ru-kemerovskaya-oblast-kuzbass-goroda",
+  "name": "Города — Кемеровская область - Кузбасс",
+  "title": "Города — Кемеровская область - Кузбасс",
+  "description": "20 городов региона «Кемеровская область - Кузбасс» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Анжеро-Судженск",
+      "population_thousands": 68.1,
+      "latitude": 56.0786281,
+      "longitude": 86.0201278,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Белово",
+      "population_thousands": 71.2,
+      "latitude": 54.4220968,
+      "longitude": 86.3037373,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Березовский",
+      "population_thousands": 45.6,
+      "latitude": 55.6693513,
+      "longitude": 86.2744459,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Гурьевск",
+      "population_thousands": 22.4,
+      "latitude": 54.2859263,
+      "longitude": 85.9475985,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Калтан",
+      "population_thousands": 20.4,
+      "latitude": 53.5210919,
+      "longitude": 87.2771636,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Кемерово",
+      "population_thousands": 556.4,
+      "latitude": 55.3910651,
+      "longitude": 86.0467781,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Киселевск",
+      "population_thousands": 86.6,
+      "latitude": 54.0059999,
+      "longitude": 86.6366116,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Ленинск-Кузнецкий",
+      "population_thousands": 94.4,
+      "latitude": 54.6674492,
+      "longitude": 86.1797324,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Мариинск",
+      "population_thousands": 37.9,
+      "latitude": 56.2127383,
+      "longitude": 87.7454924,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Междуреченск",
+      "population_thousands": 96.3,
+      "latitude": 53.6865289,
+      "longitude": 88.0702754,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Мыски",
+      "population_thousands": 40.8,
+      "latitude": 53.7125695,
+      "longitude": 87.8055646,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Новокузнецк",
+      "population_thousands": 549.4,
+      "latitude": 53.794315,
+      "longitude": 87.2142745,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Осинники",
+      "population_thousands": 41.7,
+      "latitude": 53.5988055,
+      "longitude": 87.3371272,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Полысаево",
+      "population_thousands": 25.9,
+      "latitude": 54.6055,
+      "longitude": 86.2809208,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Прокопьевск",
+      "population_thousands": 190.3,
+      "latitude": 53.8604265,
+      "longitude": 86.7183577,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Салаир",
+      "population_thousands": 7.3,
+      "latitude": 54.2351735,
+      "longitude": 85.8030733,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Тайга",
+      "population_thousands": 23.1,
+      "latitude": 56.0622131,
+      "longitude": 85.6207182,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Таштагол",
+      "population_thousands": 22.9,
+      "latitude": 52.759313,
+      "longitude": 87.8476546,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Топки",
+      "population_thousands": 27.8,
+      "latitude": 55.2764707,
+      "longitude": 85.6152619,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Юрга",
+      "population_thousands": 80.8,
+      "latitude": 55.7202694,
+      "longitude": 84.8886399,
+      "region_name": "Кемеровская область - Кузбасс",
+      "region_iso_code": "RU-KEM",
+      "federal_district": "Сибирский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Кемеровская область - Кузбасс - Бесплатная загрузка",
+    "description": "20 городов региона «Кемеровская область - Кузбасс» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 20 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Кемеровская область - Кузбасс | ListBase",
+    "seo_description": "Скачать Города — Кемеровская область - Кузбасс — 20 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 20 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

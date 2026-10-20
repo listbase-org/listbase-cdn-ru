@@ -1,0 +1,996 @@
+{
+  "id": "ru-dvortsy",
+  "name": "Дворцы России (Palaces of Russia)",
+  "title": "Дворцы России (Palaces of Russia)",
+  "description": "Список объектов категории «дворцы», расположенных на территории России. Сортировка по русскому названию (по алфавиту). Источник — публичная конечная точка SPARQL Wikidata (query.wikidata.org). Для каждого объекта приводятся русское название (rdfs:label@ru), английская метка, административно-территориальная принадлежность (P131), координаты (WGS84, P625) и ссылка на русскую Википедию. Объекты без русской метки исключены согласно правилу сохранения языка оригинала. Лицензия CC0-1.0.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 93,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ru",
+      "label": "Name Ru",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ru",
+      "label": "Wikipedia Ru",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q287993",
+      "name_ru": "Александрино",
+      "name_en": "Alexandrino Manor",
+      "located_in_at": "Кировский район",
+      "latitude": 59.845311,
+      "longitude": 30.220335,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D1%88%D1%91%D0%B2%D0%B0_%D0%B4%D0%B0%D1%87%D0%B0"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q1519034",
+      "name_ru": "Александровский дворец",
+      "name_en": "Alexander Palace",
+      "located_in_at": "Пушкин",
+      "latitude": 59.721111,
+      "longitude": 30.392778,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q187333",
+      "name_ru": "Аничков дворец",
+      "name_en": "Anichkov Palace",
+      "located_in_at": "Центральный район",
+      "latitude": 59.932778,
+      "longitude": 30.339722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B8%D1%87%D0%BA%D0%BE%D0%B2_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q26742866",
+      "name_ru": "Анненгоф",
+      "name_en": "Annenhof maison",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.893333,
+      "longitude": 30.249444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%BD%D0%B5%D0%BD%D0%B3%D0%BE%D1%84_(%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3)"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q4074488",
+      "name_ru": "Баболовский дворец",
+      "name_en": "Babolovo Palace",
+      "located_in_at": "Пушкин",
+      "latitude": 59.708722,
+      "longitude": 30.344422,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B1%D0%BE%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q124948029",
+      "name_ru": "Бельведер (Петергоф)",
+      "name_en": "Belvedere, Peterhof",
+      "located_in_at": "Петергоф",
+      "latitude": 59.848598,
+      "longitude": 29.879785,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D1%8C%D0%B2%D0%B5%D0%B4%D0%B5%D1%80_(%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B3%D0%BE%D1%84)"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q7461",
+      "name_ru": "Большой Гатчинский дворец",
+      "name_en": "Gatchina Palace",
+      "located_in_at": "Гатчина",
+      "latitude": 59.563904,
+      "longitude": 30.107979,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%93%D0%B0%D1%82%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q2854543",
+      "name_ru": "Большой Екатерининский дворец",
+      "name_en": "Catherine Palace",
+      "located_in_at": "Пушкин",
+      "latitude": 59.716,
+      "longitude": 30.395556,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q1370087",
+      "name_ru": "Большой Кремлёвский дворец",
+      "name_en": "Grand Kremlin Palace",
+      "located_in_at": "Тверской район",
+      "latitude": 55.75,
+      "longitude": 37.615833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%91%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q2463835",
+      "name_ru": "Большой Петергофский дворец",
+      "name_en": "Peterhof Grand Palace",
+      "located_in_at": "Петергоф",
+      "latitude": 59.88465,
+      "longitude": 29.9088,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_(%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B3%D0%BE%D1%84)"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q4092931",
+      "name_ru": "Большой Царицынский дворец",
+      "name_en": "Tsaritsyno Palace Building",
+      "located_in_at": "Орехово-Борисово Северное",
+      "latitude": 55.615468,
+      "longitude": 37.682088,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%A6%D0%B0%D1%80%D0%B8%D1%86%D1%8B%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q4092746",
+      "name_ru": "Большой дворец (Ораниенбаум)",
+      "name_en": "Grand Menshikov Palace in Oranienbaum (Russia)",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.914903,
+      "longitude": 29.753956,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_(%D0%9E%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%D0%BD%D0%B1%D0%B0%D1%83%D0%BC)"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q135885064",
+      "name_ru": "Бывшее здание УМВД по Брянской области",
+      "name_en": "",
+      "located_in_at": "Брянск",
+      "latitude": 53.40472,
+      "longitude": 34.60694,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%86%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q1788123",
+      "name_ru": "Владимирский дворец",
+      "name_en": "Vladimir Palace",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.943303,
+      "longitude": 30.319766,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q30895852",
+      "name_ru": "Воейковский дворец",
+      "name_en": "Voyeikov Estate",
+      "located_in_at": "Пензенская область",
+      "latitude": 53.195147,
+      "longitude": 44.033453,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B5%D0%B9%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q1963797",
+      "name_ru": "Воронцовский дворец",
+      "name_en": "Vorontsov Palace",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.93139,
+      "longitude": 30.33194,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_(%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3)"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q2628708",
+      "name_ru": "Воронцовский дворец",
+      "name_en": "Vorontsov Palace",
+      "located_in_at": "Алупка",
+      "latitude": 44.419776,
+      "longitude": 34.05552,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_(%D0%90%D0%BB%D1%83%D0%BF%D0%BA%D0%B0)"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q30880559",
+      "name_ru": "Галерея Гонзаго (Павловск)",
+      "name_en": "Gonzaga Gallery",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F_%D0%93%D0%BE%D0%BD%D0%B7%D0%B0%D0%B3%D0%BE"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q19164",
+      "name_ru": "Гатчина",
+      "name_en": "Gatchina Museum-Preserve",
+      "located_in_at": "Гатчина",
+      "latitude": 59.561083,
+      "longitude": 30.109961,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%82%D1%87%D0%B8%D0%BD%D0%B0_(%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B7%D0%B0%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q2033910",
+      "name_ru": "Государственный Кремлёвский дворец",
+      "name_en": "State Kremlin Palace",
+      "located_in_at": "Тверской район",
+      "latitude": 55.751389,
+      "longitude": 37.615556,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%91%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q2307647",
+      "name_ru": "Грановитая палата",
+      "name_en": "Palace of Facets",
+      "located_in_at": "Тверской район",
+      "latitude": 55.750278,
+      "longitude": 37.616667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D0%B0%D1%8F_%D0%BF%D0%B0%D0%BB%D0%B0%D1%82%D0%B0"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q4155399",
+      "name_ru": "Дача Кичкине",
+      "name_en": "Kichkine Palace",
+      "located_in_at": "Гаспра",
+      "latitude": 44.4374,
+      "longitude": 34.1306,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D1%87%D0%B0_%D0%9A%D0%B8%D1%87%D0%BA%D0%B8%D0%BD%D0%B5"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q97178977",
+      "name_ru": "Дворец Александра Михайловича",
+      "name_en": "",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.927261,
+      "longitude": 30.29031,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87%D0%B0"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q121193715",
+      "name_ru": "Дворец Безбородко",
+      "name_en": "Bezborodko Palace",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.9326,
+      "longitude": 30.3023,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%91%D0%B5%D0%B7%D0%B1%D0%BE%D1%80%D0%BE%D0%B4%D0%BA%D0%BE"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q50823769",
+      "name_ru": "Дворец Бобринских в Санкт-Петербурге",
+      "name_en": "Bobrinsky Palace",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.930119,
+      "longitude": 30.285144,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%91%D0%BE%D0%B1%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D1%85"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q132127815",
+      "name_ru": "Дворец Екатеринодар",
+      "name_en": "",
+      "located_in_at": "Ляличи",
+      "latitude": 53.014839,
+      "longitude": 32.541541,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q109591710",
+      "name_ru": "Дворец Михаила Александровича",
+      "name_en": "Palace of Grand Duke Michael Alexandrovich of Russia",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.932032,
+      "longitude": 30.287765,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87%D0%B0"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q4155886",
+      "name_ru": "Дворец Михаила Михайловича",
+      "name_en": "Palace of Grand Duke Mikhail Mikhailovich",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.938611,
+      "longitude": 30.3075,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%B0_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87%D0%B0"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q4155887",
+      "name_ru": "Дворец Нарышкиных-Шуваловых",
+      "name_en": "Shuvalov Palace",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.934694,
+      "longitude": 30.343083,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%9D%D0%B0%D1%80%D1%8B%D1%88%D0%BA%D0%B8%D0%BD%D1%8B%D1%85-%D0%A8%D1%83%D0%B2%D0%B0%D0%BB%D0%BE%D0%B2%D1%8B%D1%85"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q4155888",
+      "name_ru": "Дворец Ольги Палей",
+      "name_en": "Olga Paley palace in Tsarskoye Selo",
+      "located_in_at": "Пушкин",
+      "latitude": 59.714083,
+      "longitude": 30.414528,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B8_%D0%9F%D0%B0%D0%BB%D0%B5%D0%B9"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q120653020",
+      "name_ru": "Дворец Петра II",
+      "name_en": "Peter II Palace",
+      "located_in_at": "Василеостровский район",
+      "latitude": 59.94,
+      "longitude": 30.29917,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%9F%D0%B5%D1%82%D1%80%D0%B0_II"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q4155893",
+      "name_ru": "Дворец Петра III",
+      "name_en": "Palace of Peter III in Oranienbaum",
+      "located_in_at": "Ломоносов",
+      "latitude": 59.9105,
+      "longitude": 29.7579,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%9F%D0%B5%D1%82%D1%80%D0%B0_III"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q4155909",
+      "name_ru": "Дворец Шувалова",
+      "name_en": "Shuvalov palace",
+      "located_in_at": "Центральный район",
+      "latitude": 59.935256,
+      "longitude": 30.3375,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%A8%D1%83%D0%B2%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q108052210",
+      "name_ru": "Дворец в Ореанде",
+      "name_en": "Orianda palace",
+      "located_in_at": "Крымский полуостров",
+      "latitude": 44.459722,
+      "longitude": 34.137778,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%B2_%D0%9E%D1%80%D0%B5%D0%B0%D0%BD%D0%B4%D0%B5"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q1620227",
+      "name_ru": "Дворец великого князя Алексея Александровича",
+      "name_en": "Alexis Palace",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.928056,
+      "longitude": 30.283417,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BD%D1%8F%D0%B7%D1%8F_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D1%8F_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87%D0%B0"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q110864225",
+      "name_ru": "Дворец князя Алексея",
+      "name_en": "Prince Alexei 's Palace",
+      "located_in_at": "Крымский полуостров",
+      "latitude": 44.592778,
+      "longitude": 33.800833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%BA%D0%BD%D1%8F%D0%B7%D1%8F_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D1%8F"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q110279778",
+      "name_ru": "Дворец ханский",
+      "name_en": "",
+      "located_in_at": "Дербент",
+      "latitude": 42.053369,
+      "longitude": 48.274837,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q28529609",
+      "name_ru": "Дворец эмира Бухарского (Железноводск)",
+      "name_en": "Emir of Bukhara House",
+      "located_in_at": "Железноводск",
+      "latitude": 44.13462,
+      "longitude": 43.02957,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D1%8D%D0%BC%D0%B8%D1%80%D0%B0_%D0%91%D1%83%D1%85%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_(%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D0%BA)"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q4165265",
+      "name_ru": "Дом Бецкого",
+      "name_en": "Mansion of Ivan Betskoy",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.946111,
+      "longitude": 30.331944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC_%D0%91%D0%B5%D1%86%D0%BA%D0%BE%D0%B3%D0%BE"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q3360856",
+      "name_ru": "Дом Салтыкова",
+      "name_en": "Ficquelmont Palace",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.946095,
+      "longitude": 30.330779,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC_%D0%A1%D0%B0%D0%BB%D1%82%D1%8B%D0%BA%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q29479197",
+      "name_ru": "Дом учёных (Санкт-Петербург)",
+      "name_en": "House of Scientists (St. Petersburg)",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.943404,
+      "longitude": 30.319668,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC_%D1%83%D1%87%D1%91%D0%BD%D1%8B%D1%85_(%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3)"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q1961082",
+      "name_ru": "Екатерининский дворец",
+      "name_en": "Catherine Palace",
+      "located_in_at": "Лефортово",
+      "latitude": 55.761389,
+      "longitude": 37.695278,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q2568720",
+      "name_ru": "Елагин дворец",
+      "name_en": "Yelagin Palace",
+      "located_in_at": "Петроградский район",
+      "latitude": 59.979306,
+      "longitude": 30.27,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%95%D0%BB%D0%B0%D0%B3%D0%B8%D0%BD_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q19858017",
+      "name_ru": "Загородный дворец Елизаветы Петровны",
+      "name_en": "Elizabeth of Russia palace in Sokolniki",
+      "located_in_at": "Сокольники",
+      "latitude": 55.782303,
+      "longitude": 37.694981,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%95%D0%BB%D0%B8%D0%B7%D0%B0%D0%B2%D0%B5%D1%82%D1%8B_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%BD%D1%8B"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q4186632",
+      "name_ru": "Запасной дворец (Пушкин)",
+      "name_en": "Zapasnoy palace (Saint Petersburg, Pushkin)",
+      "located_in_at": "Пушкин",
+      "latitude": 59.713147,
+      "longitude": 30.410822,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_(%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD)"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q182147",
+      "name_ru": "Зимний дворец",
+      "name_en": "Winter Palace",
+      "located_in_at": "Дворцовый округ",
+      "latitude": 59.939832,
+      "longitude": 30.31456,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B8%D0%BC%D0%BD%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q4205251",
+      "name_ru": "Итальянский дворец",
+      "name_en": "Italian Palace (Kronstadt)",
+      "located_in_at": "Кронштадт",
+      "latitude": 59.98959,
+      "longitude": 29.76311,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q4207996",
+      "name_ru": "Казармы Павловского лейб-гвардии полка",
+      "name_en": "Quarters of the Pavlovsky Lifeguards Regiment",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.944,
+      "longitude": 30.3278,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D1%80%D0%BC%D1%8B_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BB%D0%B5%D0%B9%D0%B1-%D0%B3%D0%B2%D0%B0%D1%80%D0%B4%D0%B8%D0%B8_%D0%BF%D0%BE%D0%BB%D0%BA%D0%B0"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q4211217",
+      "name_ru": "Каменноостровский дворец",
+      "name_en": "Kamenny Island Palace",
+      "located_in_at": "Петроградский район",
+      "latitude": 59.979722,
+      "longitude": 30.304444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q794711",
+      "name_ru": "Кикины палаты",
+      "name_en": "Kikin Hall",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.949689,
+      "longitude": 30.3867,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BA%D0%B8%D0%BD%D1%8B_%D0%BF%D0%B0%D0%BB%D0%B0%D1%82%D1%8B"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q4222413",
+      "name_ru": "Китайский дворец",
+      "name_en": "Chinese Palace of Russia",
+      "located_in_at": "Ломоносов",
+      "latitude": 59.9102,
+      "longitude": 29.7438,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q4228335",
+      "name_ru": "Коломенский дворец",
+      "name_en": "Wooden palace of tsar Alexey",
+      "located_in_at": "Москва",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q588680",
+      "name_ru": "Константиновский дворец",
+      "name_en": "Constantine Palace",
+      "located_in_at": "Стрельна",
+      "latitude": 59.853909,
+      "longitude": 30.058371,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q102882811",
+      "name_ru": "Красная горка",
+      "name_en": "Krasnaja Horka, Karacharovo",
+      "located_in_at": "Муром",
+      "latitude": 55.549985,
+      "longitude": 42.083374,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F_%D0%B3%D0%BE%D1%80%D0%BA%D0%B0_(%D0%9A%D0%B0%D1%80%D0%B0%D1%87%D0%B0%D1%80%D0%BE%D0%B2%D0%BE)"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q2670942",
+      "name_ru": "Летний дворец Елизаветы Петровны",
+      "name_en": "Summer Palace",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.940694,
+      "longitude": 30.337639,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%82%D0%BD%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%95%D0%BB%D0%B8%D0%B7%D0%B0%D0%B2%D0%B5%D1%82%D1%8B_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%BD%D1%8B"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q637314",
+      "name_ru": "Летний дворец Петра I",
+      "name_en": "Summer Palace of Peter I",
+      "located_in_at": "Центральный район",
+      "latitude": 59.947222,
+      "longitude": 30.336111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%82%D0%BD%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%9F%D0%B5%D1%82%D1%80%D0%B0_I"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q4260388",
+      "name_ru": "Лефортовский дворец",
+      "name_en": "Lefortovo Palace",
+      "located_in_at": "Басманный район",
+      "latitude": 55.767881,
+      "longitude": 37.685623,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%84%D0%BE%D1%80%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q26302430",
+      "name_ru": "Малый Мраморный дворец",
+      "name_en": "Kushelev-Bezborodko Palace (Gagarinskaya, 3)",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.947778,
+      "longitude": 30.341667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%BC%D1%80%D0%B0%D0%BC%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q4279033",
+      "name_ru": "Малый Николаевский дворец",
+      "name_en": "Small Nicholas Palace",
+      "located_in_at": "Москва",
+      "latitude": 55.751463,
+      "longitude": 37.619478,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q4279238",
+      "name_ru": "Малый дворец",
+      "name_en": "Small Tsaritsyno Palace",
+      "located_in_at": "Москва",
+      "latitude": 55.61538,
+      "longitude": 37.68065,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_(%D0%A6%D0%B0%D1%80%D0%B8%D1%86%D1%8B%D0%BD%D0%BE)"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q1229016",
+      "name_ru": "Мариинский дворец",
+      "name_en": "Mariinsky Palace",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.930833,
+      "longitude": 30.309444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%B8%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_(%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3)"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q4282306",
+      "name_ru": "Марли (дворец, Петергоф)",
+      "name_en": "Marly Palace",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.88861,
+      "longitude": 29.89639,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%BB%D0%B8_(%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86,_%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B3%D0%BE%D1%84)"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q975426",
+      "name_ru": "Меншиковский дворец",
+      "name_en": "Menshikov Palace (Saint Petersburg)",
+      "located_in_at": "Василеостровский район",
+      "latitude": 59.938889,
+      "longitude": 30.295833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BD%D1%88%D0%B8%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_(%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3)"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q1930409",
+      "name_ru": "Михайловский дворец",
+      "name_en": "Mikhaylovsky Palace",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.938611,
+      "longitude": 30.332222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q16677741",
+      "name_ru": "Монплезир",
+      "name_en": "Monplaisir Palace",
+      "located_in_at": "Петергоф",
+      "latitude": 59.887227,
+      "longitude": 29.919258,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%BF%D0%BB%D0%B5%D0%B7%D0%B8%D1%80"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q283120",
+      "name_ru": "Мраморный дворец",
+      "name_en": "Marble Palace",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.945176,
+      "longitude": 30.326799,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D1%80%D0%B0%D0%BC%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_(%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3)"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q1990715",
+      "name_ru": "Николаевский дворец",
+      "name_en": "Nicholas Palace",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.93242,
+      "longitude": 30.292965,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q3361196",
+      "name_ru": "Ново-Михайловский дворец",
+      "name_en": "New Michael Palace",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.944064,
+      "longitude": 30.322132,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE-%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q4335340",
+      "name_ru": "Оперный дом",
+      "name_en": "Middle Tsaritsyno Palace",
+      "located_in_at": "Орехово-Борисово Северное",
+      "latitude": 55.6145,
+      "longitude": 37.6805,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%BC"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q1144475",
+      "name_ru": "Останкино",
+      "name_en": "Ostankino Palace",
+      "located_in_at": "Останкинский район",
+      "latitude": 55.825383,
+      "longitude": 37.614645,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D0%B0%D0%BD%D0%BA%D0%B8%D0%BD%D0%BE_(%D1%83%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0)"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q78113908",
+      "name_ru": "Палаты А. Ф. Олисова",
+      "name_en": "Olisov Palace",
+      "located_in_at": "Нижний Новгород",
+      "latitude": 56.325795,
+      "longitude": 43.990375,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%82%D1%8B_%D0%90._%D0%A4._%D0%9E%D0%BB%D0%B8%D1%81%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q4342475",
+      "name_ru": "Палаты Аверкия Кириллова",
+      "name_en": "Averkiy Kirillov's Palace",
+      "located_in_at": "Якиманка",
+      "latitude": 55.74393,
+      "longitude": 37.61051,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%82%D1%8B_%D0%90%D0%B2%D0%B5%D1%80%D0%BA%D0%B8%D1%8F_%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q19915824",
+      "name_ru": "Палаты Волковых — Юсуповых",
+      "name_en": "Yusupov Palace",
+      "located_in_at": "Басманный район",
+      "latitude": 55.766218,
+      "longitude": 37.64957,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%82%D1%8B_%D0%92%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2%D1%8B%D1%85_%E2%80%94_%D0%AE%D1%81%D1%83%D0%BF%D0%BE%D0%B2%D1%8B%D1%85"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q80906",
+      "name_ru": "Пелла",
+      "name_en": "Pella Palace",
+      "located_in_at": "Отрадное",
+      "latitude": 59.7693,
+      "longitude": 30.789716,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D0%BB%D0%B0_(%D0%B4%D0%B2%D0%BE%D1%80%D1%86%D0%BE%D0%B2%D0%BE-%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B0%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C)"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q3360905",
+      "name_ru": "Петровский путевой дворец",
+      "name_en": "Petrovsky Palace, Moscow",
+      "located_in_at": "Аэропорт",
+      "latitude": 55.793195,
+      "longitude": 37.551751,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%83%D1%82%D0%B5%D0%B2%D0%BE%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q4367606",
+      "name_ru": "Подзорный дворец",
+      "name_en": "Podzorniy Palace of Saint Petersburg",
+      "located_in_at": "",
+      "latitude": 59.9154,
+      "longitude": 30.2636,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B4%D0%B7%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q1877773",
+      "name_ru": "Потешный дворец",
+      "name_en": "Amusement Palace",
+      "located_in_at": "Тверской район",
+      "latitude": 55.751282,
+      "longitude": 37.614393,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D0%B5%D1%88%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q7467",
+      "name_ru": "Приоратский дворец",
+      "name_en": "Priory Palace",
+      "located_in_at": "Гатчина",
+      "latitude": 59.558139,
+      "longitude": 30.121167,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BE%D1%80%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q4384190",
+      "name_ru": "Путевой дворец (Стрельна)",
+      "name_en": "Strelna Palace of Peter I",
+      "located_in_at": "Стрельна",
+      "latitude": 59.853711,
+      "longitude": 30.045058,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%82%D0%B5%D0%B2%D0%BE%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_(%D0%A1%D1%82%D1%80%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0)"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q4384195",
+      "name_ru": "Путевой дворец (Ярославово Дворище)",
+      "name_en": "Travel Palace",
+      "located_in_at": "Великий Новгород",
+      "latitude": 58.520549,
+      "longitude": 31.284068,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%82%D0%B5%D0%B2%D0%BE%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_(%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)"
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q4397707",
+      "name_ru": "Ропшинский дворец",
+      "name_en": "Ropsha Palace",
+      "located_in_at": "Ропша",
+      "latitude": 59.723611,
+      "longitude": 29.860556,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%BF%D1%88%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q930376",
+      "name_ru": "Сенатский дворец",
+      "name_en": "Kremlin Senate",
+      "located_in_at": "Тверской район",
+      "latitude": 55.753196,
+      "longitude": 37.618572,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q1461235",
+      "name_ru": "Строгановский дворец",
+      "name_en": "Stroganov Palace",
+      "located_in_at": "Центральный район",
+      "latitude": 59.935736,
+      "longitude": 30.320672,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%BE%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q676093",
+      "name_ru": "Таврический дворец",
+      "name_en": "Tauride Palace",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.947778,
+      "longitude": 30.375833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B2%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q4384198",
+      "name_ru": "Тверской императорский путевой дворец",
+      "name_en": "Travel Palace",
+      "located_in_at": "Тверь",
+      "latitude": 56.862167,
+      "longitude": 35.899942,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%82%D0%B5%D0%B2%D0%BE%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_(%D0%A2%D0%B2%D0%B5%D1%80%D1%8C)"
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q57630488",
+      "name_ru": "Фермерский дворец",
+      "name_en": "Farm Palace",
+      "located_in_at": "Петергоф",
+      "latitude": 59.879309,
+      "longitude": 29.93356,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D1%80%D0%BC%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q11903355",
+      "name_ru": "Фонтанный дом",
+      "name_en": "Sheremetiev Palace",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.936487,
+      "longitude": 30.345476,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BD%D1%82%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%BC"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q147994",
+      "name_ru": "Царицыно (дворцово-парковый ансамбль)",
+      "name_en": "Tsaritsyno Park + palace",
+      "located_in_at": "Царицыно",
+      "latitude": 55.616834,
+      "longitude": 37.682817,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B0%D1%80%D0%B8%D1%86%D1%8B%D0%BD%D0%BE_(%D0%B4%D0%B2%D0%BE%D1%80%D1%86%D0%BE%D0%B2%D0%BE-%D0%BF%D0%B0%D1%80%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B0%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D1%8C)"
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q11838753",
+      "name_ru": "Чесменский дворец",
+      "name_en": "Chesme Palace",
+      "located_in_at": "Московский район",
+      "latitude": 59.857378,
+      "longitude": 30.327731,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86"
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q2991838",
+      "name_ru": "Юсуповский Дворец",
+      "name_en": "Yusupov Palace on Moika",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.929389,
+      "longitude": 30.298922,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%AE%D1%81%D1%83%D0%BF%D0%BE%D0%B2%D1%8B%D1%85_%D0%BD%D0%B0_%D0%9C%D0%BE%D0%B9%D0%BA%D0%B5"
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q2477653",
+      "name_ru": "дворец Белосельских-Белозерских",
+      "name_en": "Beloselsky-Belozersky Palace",
+      "located_in_at": "Центральный район",
+      "latitude": 59.9327,
+      "longitude": 30.3446,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%91%D0%B5%D0%BB%D0%BE%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D1%85-%D0%91%D0%B5%D0%BB%D0%BE%D0%B7%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D1%85"
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q4392418",
+      "name_ru": "дворец Путина",
+      "name_en": "Putin's Palace",
+      "located_in_at": "Геленджик",
+      "latitude": 44.41921,
+      "longitude": 38.205207,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%9F%D1%83%D1%82%D0%B8%D0%BD%D0%B0"
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q454943",
+      "name_ru": "замок Фридрихштайн",
+      "name_en": "Friedrichstein Castle",
+      "located_in_at": "Каменка",
+      "latitude": 54.64503,
+      "longitude": 20.73263,
+      "wikipedia_ru": ""
+    }
+  ],
+  "meta": {
+    "title": "Дворцы России (Palaces of Russia) - Бесплатная загрузка",
+    "description": "Список объектов категории «дворцы», расположенных на территории России. Сортировка по русскому названию (по алфавиту). Источник — публичная конечная точка SPARQL Wikidata (query.wikidata.org). Для каждого объекта приводятся русское название (rdfs:label@ru), английская метка, административно-территориальная принадлежность (P131), координаты (WGS84, P625) и ссылка на русскую Википедию. Объекты без русской метки исключены согласно правилу сохранения языка оригинала. Лицензия CC0-1.0. Содержит 93 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Дворцы России (Palaces of Russia) | ListBase",
+    "seo_description": "Скачать Дворцы России (Palaces of Russia) — 93 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 93 записей / 8 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

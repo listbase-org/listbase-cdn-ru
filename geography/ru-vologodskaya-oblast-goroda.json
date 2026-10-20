@@ -1,0 +1,196 @@
+{
+  "id": "ru-vologodskaya-oblast-goroda",
+  "name": "Города — Вологодская область",
+  "title": "Города — Вологодская область",
+  "description": "15 городов региона «Вологодская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Бабаево",
+      "population_thousands": 11.4,
+      "latitude": 59.3892583,
+      "longitude": 35.9377058,
+      "region_name": "Вологодская область",
+      "region_iso_code": "RU-VLG",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Белозерск",
+      "population_thousands": 8.6,
+      "latitude": 60.0308381,
+      "longitude": 37.7890586,
+      "region_name": "Вологодская область",
+      "region_iso_code": "RU-VLG",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Великий Устюг",
+      "population_thousands": 31,
+      "latitude": 60.7603913,
+      "longitude": 46.3054414,
+      "region_name": "Вологодская область",
+      "region_iso_code": "RU-VLG",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Вологда",
+      "population_thousands": 310.3,
+      "latitude": 59.2483905,
+      "longitude": 39.8355662,
+      "region_name": "Вологодская область",
+      "region_iso_code": "RU-VLG",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Вытегра",
+      "population_thousands": 10.2,
+      "latitude": 61.0063465,
+      "longitude": 36.4495137,
+      "region_name": "Вологодская область",
+      "region_iso_code": "RU-VLG",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Грязовец",
+      "population_thousands": 14.8,
+      "latitude": 58.8757553,
+      "longitude": 40.2485362,
+      "region_name": "Вологодская область",
+      "region_iso_code": "RU-VLG",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Кадников",
+      "population_thousands": 4.5,
+      "latitude": 59.5037764,
+      "longitude": 40.3441148,
+      "region_name": "Вологодская область",
+      "region_iso_code": "RU-VLG",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Кириллов",
+      "population_thousands": 7.5,
+      "latitude": 59.8591523,
+      "longitude": 38.3748782,
+      "region_name": "Вологодская область",
+      "region_iso_code": "RU-VLG",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Красавино",
+      "population_thousands": 5.9,
+      "latitude": 60.9612823,
+      "longitude": 46.4814116,
+      "region_name": "Вологодская область",
+      "region_iso_code": "RU-VLG",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Никольск",
+      "population_thousands": 7.9,
+      "latitude": 59.5351837,
+      "longitude": 45.4576137,
+      "region_name": "Вологодская область",
+      "region_iso_code": "RU-VLG",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Сокол",
+      "population_thousands": 36.4,
+      "latitude": 59.4758605,
+      "longitude": 40.1114187,
+      "region_name": "Вологодская область",
+      "region_iso_code": "RU-VLG",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Тотьма",
+      "population_thousands": 9.7,
+      "latitude": 59.9734998,
+      "longitude": 42.7589506,
+      "region_name": "Вологодская область",
+      "region_iso_code": "RU-VLG",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Устюжна",
+      "population_thousands": 8.4,
+      "latitude": 58.8383117,
+      "longitude": 36.4425478,
+      "region_name": "Вологодская область",
+      "region_iso_code": "RU-VLG",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Харовск",
+      "population_thousands": 8.8,
+      "latitude": 59.9479423,
+      "longitude": 40.2000298,
+      "region_name": "Вологодская область",
+      "region_iso_code": "RU-VLG",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Череповец",
+      "population_thousands": 314.8,
+      "latitude": 59.1269212,
+      "longitude": 37.9090497,
+      "region_name": "Вологодская область",
+      "region_iso_code": "RU-VLG",
+      "federal_district": "Северо-Западный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Вологодская область - Бесплатная загрузка",
+    "description": "15 городов региона «Вологодская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 15 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Вологодская область | ListBase",
+    "seo_description": "Скачать Города — Вологодская область — 15 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 15 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

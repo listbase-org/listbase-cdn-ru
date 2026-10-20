@@ -1,0 +1,246 @@
+{
+  "id": "ru-kurganskaya-oblast-aeroporty",
+  "name": "Аэропорты — Kurgan Oblast (RU-KGN)",
+  "title": "Аэропорты — Kurgan Oblast (RU-KGN)",
+  "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Kurgan Oblast (ISO 3166-2 RU-KGN) — 5 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"heliport\": 1, \"closed\": 1, \"small_airport\": 2, \"medium_airport\": 1}. Извлечено из OurAirports.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 46204,
+      "ident": "RU-0349",
+      "type": "heliport",
+      "name": "Shadrinsk Helipad",
+      "latitude_deg": 56.0982493243,
+      "longitude_deg": 63.7331163883,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KGN",
+      "region_local_code": "KGN",
+      "region_name": "Kurgan Oblast",
+      "municipality": "Shadrinsk",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Вертолётная площадка Шадринск"
+    },
+    {
+      "id": 44868,
+      "ident": "RU-10022",
+      "type": "closed",
+      "name": "Kurtamysh Airfield",
+      "latitude_deg": 54.918263,
+      "longitude_deg": 64.471722,
+      "elevation_ft": "",
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-KGN",
+      "region_local_code": "KGN",
+      "region_name": "Kurgan Oblast",
+      "municipality": "Kurtamysh",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Аэропорт Куртамыш, USUK"
+    },
+    {
+      "id": 35014,
+      "ident": "RU-2070",
+      "type": "small_airport",
+      "name": "Logovushka Airfield",
+      "latitude_deg": 55.4109992980957,
+      "longitude_deg": 64.94300079345703,
+      "elevation_ft": 499,
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-KGN",
+      "region_local_code": "KGN",
+      "region_name": "Kurgan Oblast",
+      "municipality": "Kurgan",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "http://kack.narod.ru/",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Kurgan_West",
+      "keywords": "Аэродром Логовушка"
+    },
+    {
+      "id": 35077,
+      "ident": "RU-3095",
+      "type": "small_airport",
+      "name": "Shadrinsk Air Base",
+      "latitude_deg": 56.039207,
+      "longitude_deg": 63.681995,
+      "elevation_ft": 459,
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-KGN",
+      "region_local_code": "KGN",
+      "region_name": "Kurgan Oblast",
+      "municipality": "Shadrinsk",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "XSCD",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Shadrinsk_(air_base)",
+      "keywords": ""
+    },
+    {
+      "id": 31773,
+      "ident": "USUU",
+      "type": "medium_airport",
+      "name": "Kurgan Airport",
+      "latitude_deg": 55.4753,
+      "longitude_deg": 65.415604,
+      "elevation_ft": 240,
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-KGN",
+      "region_local_code": "KGN",
+      "region_name": "Kurgan Oblast",
+      "municipality": "Kurgan",
+      "scheduled_service": "yes",
+      "icao_code": "USUU",
+      "iata_code": "KRO",
+      "gps_code": "USUU",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Kurgan_Airport",
+      "keywords": ""
+    }
+  ],
+  "meta": {
+    "title": "Аэропорты — Kurgan Oblast (RU-KGN) - Бесплатная загрузка",
+    "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Kurgan Oblast (ISO 3166-2 RU-KGN) — 5 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"heliport\": 1, \"closed\": 1, \"small_airport\": 2, \"medium_airport\": 1}. Извлечено из OurAirports. Содержит 5 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Аэропорты — Kurgan Oblast (RU-KGN) | ListBase",
+    "seo_description": "Скачать Аэропорты — Kurgan Oblast (RU-KGN) — 5 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 5 записей / 21 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

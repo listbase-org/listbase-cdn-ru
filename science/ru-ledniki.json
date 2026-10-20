@@ -1,0 +1,808 @@
+{
+  "id": "ru-ledniki",
+  "name": "Ледники России",
+  "title": "Ледники России",
+  "description": "Список географических объектов класса «ледник», расположенных в России. Источник — Wikidata через публичный SPARQL-эндпоинт (instance of/subclass of Q35666, страна Россия Q159). Для каждого объекта приведены русское название (rdfs:label@ru), английское название, географические координаты (WGS84, P625) и ссылка на статью русской Википедии. Записи отсортированы по алфавиту русского названия. Записи без русскоязычной (кириллической) этикетки отфильтрованы согласно правилу проекта о сохранении родного текста. Всего 83 уникальных QID; координаты доступны для 83.",
+  "category": "science",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 83,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ru",
+      "label": "Name Ru",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ru",
+      "label": "Wikipedia Ru",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q1653680",
+      "name_ru": "Азау Большой",
+      "name_en": "Azau Glacier",
+      "latitude": 43.293889,
+      "longitude": 42.426667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%B7%D0%B0%D1%83_%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q4059619",
+      "name_ru": "Аккемский ледник",
+      "name_en": "Lednik Akkem",
+      "latitude": 49.834167,
+      "longitude": 86.561111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D0%BA%D0%B5%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q3651223",
+      "name_ru": "Безенги",
+      "name_en": "Bezengi Glacier",
+      "latitude": 43.085,
+      "longitude": 43.108056,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%B7%D0%B5%D0%BD%D0%B3%D0%B8_(%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q4092875",
+      "name_ru": "Большой Талдуринский ледник",
+      "name_en": "Большая Талдура",
+      "latitude": 49.8194,
+      "longitude": 87.6861,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%A2%D0%B0%D0%BB%D0%B4%D1%83%D1%80%D0%B0"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q3651069",
+      "name_ru": "Девдоракский ледник",
+      "name_en": "Devdaraki",
+      "latitude": 42.709167,
+      "longitude": 44.531944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B2%D0%B4%D0%BE%D1%80%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q4171723",
+      "name_ru": "Дых-Котю-Бугойсу",
+      "name_en": "Dychsu",
+      "latitude": 42.982778,
+      "longitude": 43.217778,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D1%8B%D1%85-%D0%9A%D0%BE%D1%82%D1%8E-%D0%91%D1%83%D0%B3%D0%BE%D0%B9%D1%81%D1%83"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q62075906",
+      "name_ru": "Ирбисту (ледник)",
+      "name_en": "Irbistu",
+      "latitude": 49.7715,
+      "longitude": 88.1038,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D1%80%D0%B1%D0%B8%D1%81%D1%82%D1%83_(%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q4214379",
+      "name_ru": "Караугом (ледник)",
+      "name_en": "Karaugom Glacier",
+      "latitude": 42.8,
+      "longitude": 43.733333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D1%83%D0%B3%D0%BE%D0%BC_(%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q84984053",
+      "name_ru": "Катунские ледники",
+      "name_en": "Katun Glaciers",
+      "latitude": 49.77,
+      "longitude": 86.595,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D1%83%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q2474320",
+      "name_ru": "Колка",
+      "name_en": "Kolka Glacier",
+      "latitude": 42.739722,
+      "longitude": 44.473333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BA%D0%B0_(%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q28055029",
+      "name_ru": "Ледник Академии Наук",
+      "name_en": "Academy of Sciences Glacier",
+      "latitude": 80.411944,
+      "longitude": 94.837222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA_%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%B8_%D0%9D%D0%B0%D1%83%D0%BA"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q4257122",
+      "name_ru": "Ледник Геблера",
+      "name_en": "Gebler Glacier",
+      "latitude": 49.77,
+      "longitude": 86.595,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA_%D0%93%D0%B5%D0%B1%D0%BB%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q1142234",
+      "name_ru": "Ледник Карпинского",
+      "name_en": "Karpinsky Glacier",
+      "latitude": 79.634444,
+      "longitude": 98.331944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA_%D0%9A%D0%B0%D1%80%D0%BF%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q34840094",
+      "name_ru": "Ледник Лакруа",
+      "name_en": "Lednik Lakrua",
+      "latitude": 74.724722,
+      "longitude": 57.081111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q34840109",
+      "name_ru": "Ледник Ленинградский",
+      "name_en": "Lednik Leningradskiy",
+      "latitude": 78.648333,
+      "longitude": 102.882222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q34840144",
+      "name_ru": "Ледник Мака",
+      "name_en": "Lednik Maka",
+      "latitude": 76.285833,
+      "longitude": 64.326111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q34840161",
+      "name_ru": "Ледник Малое Азау",
+      "name_en": "Lednik Maloye Azau",
+      "latitude": 43.295833,
+      "longitude": 42.450556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q34840176",
+      "name_ru": "Ледник Малютка",
+      "name_en": "Lednik Malyutka",
+      "latitude": 79.533333,
+      "longitude": 95.416667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q34840210",
+      "name_ru": "Ледник Марухский",
+      "name_en": "Lednik Marukhskiy",
+      "latitude": 43.364444,
+      "longitude": 41.412222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q34840227",
+      "name_ru": "Ледник Менсу",
+      "name_en": "Lednik Mensu",
+      "latitude": 49.835278,
+      "longitude": 86.665556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q34840244",
+      "name_ru": "Ледник Мидаграбин",
+      "name_en": "Lednik Midagrabin",
+      "latitude": 42.723333,
+      "longitude": 44.373333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q34840257",
+      "name_ru": "Ледник Миддендорфа",
+      "name_en": "Lednik Middendorfa",
+      "latitude": 81.740556,
+      "longitude": 58.555556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q34840274",
+      "name_ru": "Ледник Микельчиран",
+      "name_en": "Lednik Mikel'chiran",
+      "latitude": 43.388056,
+      "longitude": 42.509167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q34840305",
+      "name_ru": "Ледник Молотова",
+      "name_en": "Lednik Molotova",
+      "latitude": 81.233333,
+      "longitude": 95.6,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q34840290",
+      "name_ru": "Ледник Молочный",
+      "name_en": "Lednik Molochnyy",
+      "latitude": 80.746389,
+      "longitude": 60.350556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q34840322",
+      "name_ru": "Ледник Мощный",
+      "name_en": "Lednik Moshchnyy",
+      "latitude": 75.585556,
+      "longitude": 62.630556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q34840370",
+      "name_ru": "Ледник Мутновский",
+      "name_en": "Lednik Mutnovskiy",
+      "latitude": 52.458333,
+      "longitude": 158.172222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q34840338",
+      "name_ru": "Ледник Мушкетова",
+      "name_en": "Lednik Mushketova",
+      "latitude": 79.076944,
+      "longitude": 101.929722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q34840398",
+      "name_ru": "Ледник Нансена",
+      "name_en": "Lednik Nansena",
+      "latitude": 75.187778,
+      "longitude": 60.483889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q34840414",
+      "name_ru": "Ледник Непонятый",
+      "name_en": "Lednik Neponyatyy",
+      "latitude": 81.168056,
+      "longitude": 95.876111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q34840444",
+      "name_ru": "Ледник Низкий",
+      "name_en": "Lednik Nizkiy",
+      "latitude": 75.028333,
+      "longitude": 56.811944,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q34840429",
+      "name_ru": "Ледник Нины",
+      "name_en": "Lednik Niny",
+      "latitude": 80.460278,
+      "longitude": 54.186667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q28155487",
+      "name_ru": "Ледник Норденшельда",
+      "name_en": "Nordenskiöld Glacier",
+      "latitude": 75.85583,
+      "longitude": 64.9925,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q34840474",
+      "name_ru": "Ледник Обручева",
+      "name_en": "Lednik Obrucheva",
+      "latitude": 80.190556,
+      "longitude": 53.136389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q34840519",
+      "name_ru": "Ледник Озеньги",
+      "name_en": "Lednik Ozen'gi",
+      "latitude": 43.182778,
+      "longitude": 42.566389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q34840503",
+      "name_ru": "Ледник Отдельный",
+      "name_en": "Lednik Otdel'nyy",
+      "latitude": 80.083889,
+      "longitude": 94.06,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q34840549",
+      "name_ru": "Ледник Павлова",
+      "name_en": "Lednik Pavlova",
+      "latitude": 76.583889,
+      "longitude": 66.271667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q34840563",
+      "name_ru": "Ледник Пайера",
+      "name_en": "Lednik Payyera",
+      "latitude": 80.563333,
+      "longitude": 45.993056,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q34840578",
+      "name_ru": "Ледник Пенка",
+      "name_en": "Lednik Penka",
+      "latitude": 73,
+      "longitude": 54.166667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q34840592",
+      "name_ru": "Ледник Петерсена",
+      "name_en": "Lednik Petersena",
+      "latitude": 76.886667,
+      "longitude": 66.987778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q34840611",
+      "name_ru": "Ледник Пионер",
+      "name_en": "Lednik Pioner",
+      "latitude": 79.901111,
+      "longitude": 93.080556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q34840627",
+      "name_ru": "Ледник Полисадова",
+      "name_en": "Lednik Polisadova",
+      "latitude": 75.022222,
+      "longitude": 59.870833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q34840640",
+      "name_ru": "Ледник Полярный",
+      "name_en": "Lednik Polyarnyy",
+      "latitude": 81.300833,
+      "longitude": 95.568611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q34840652",
+      "name_ru": "Ледник Попова",
+      "name_en": "Lednik Popova",
+      "latitude": 75.878056,
+      "longitude": 59.890833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q34840684",
+      "name_ru": "Ледник Птыш",
+      "name_en": "Lednik Ptysh",
+      "latitude": 43.25,
+      "longitude": 41.683333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q34840729",
+      "name_ru": "Ледник Рождественского",
+      "name_en": "Lednik Rozhdestvenskogo",
+      "latitude": 75.896667,
+      "longitude": 64.9325,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q34840713",
+      "name_ru": "Ледник Розе",
+      "name_en": "Lednik Roze",
+      "latitude": 76.062222,
+      "longitude": 66.106667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q34840698",
+      "name_ru": "Ледник Романтиков",
+      "name_en": "Lednik Romantikov",
+      "latitude": 66.900556,
+      "longitude": 65.436111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q34840746",
+      "name_ru": "Ледник Русанова",
+      "name_en": "Lednik Rusanova",
+      "latitude": 79.95,
+      "longitude": 97,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q34840763",
+      "name_ru": "Ледник Рыкачёва",
+      "name_en": "Lednik Rykachëva",
+      "latitude": 76.237778,
+      "longitude": 63.746111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q34840780",
+      "name_ru": "Ледник Сангужидонцете",
+      "name_en": "Lednik Sanguzhidontsete",
+      "latitude": 42.816667,
+      "longitude": 43.816667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q34840826",
+      "name_ru": "Ледник Северный",
+      "name_en": "Lednik Severnyy",
+      "latitude": 75.6175,
+      "longitude": 58.285833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q34840844",
+      "name_ru": "Ледник Северный Джугутурлючат",
+      "name_en": "Lednik Severnyy Dzhuguturlyuchat",
+      "latitude": 43.257222,
+      "longitude": 41.650556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q34840795",
+      "name_ru": "Ледник Семёнова Тян-Шанского",
+      "name_en": "Lednik Semënova Tyan-Shanskogo",
+      "latitude": 78.834167,
+      "longitude": 101.653611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q34840809",
+      "name_ru": "Ледник Серп и Молот",
+      "name_en": "Lednik Serp i Molot",
+      "latitude": 74.612222,
+      "longitude": 57.811111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q20623431",
+      "name_ru": "Ледник Сказка",
+      "name_en": "Skazka Glacier",
+      "latitude": 42.75,
+      "longitude": 43.91667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q34841021",
+      "name_ru": "Ледник Сонклар",
+      "name_en": "Lednik Sonklar",
+      "latitude": 80.25,
+      "longitude": 57.583333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q34841002",
+      "name_ru": "Ледник Софруджу Северное",
+      "name_en": "Lednik Sofrudzhu Severnoye",
+      "latitude": 43.255556,
+      "longitude": 41.59,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q34841033",
+      "name_ru": "Ледник Средний",
+      "name_en": "Lednik Sredniy",
+      "latitude": 75.954444,
+      "longitude": 65.525833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q34841049",
+      "name_ru": "Ледник Стальнова",
+      "name_en": "Lednik Stal'nova",
+      "latitude": 54.023611,
+      "longitude": 95.449167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q34841067",
+      "name_ru": "Ледник Стремительный",
+      "name_en": "Lednik Stremitel'nyy",
+      "latitude": 80.757222,
+      "longitude": 61.238889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q34841083",
+      "name_ru": "Ледник Суган",
+      "name_en": "Lednik Sugan",
+      "latitude": 43.000278,
+      "longitude": 43.451389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q34841097",
+      "name_ru": "Ледник Суллуколсу",
+      "name_en": "Lednik Sullukolsu",
+      "latitude": 43.256944,
+      "longitude": 42.845278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q34839463",
+      "name_ru": "Ледник Фастаг",
+      "name_en": "Lednik Fastag",
+      "latitude": 42.816667,
+      "longitude": 43.683333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q34840892",
+      "name_ru": "Ледник Шаурту",
+      "name_en": "Lednik Shaurtu",
+      "latitude": 43.121944,
+      "longitude": 43.025833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q34840908",
+      "name_ru": "Ледник Широкий",
+      "name_en": "Lednik Shirokiy",
+      "latitude": 74.750278,
+      "longitude": 56.668889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q34840941",
+      "name_ru": "Ледник Шмидта",
+      "name_en": "Lednik Shmidta",
+      "latitude": 81.160833,
+      "longitude": 90.841111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q34840956",
+      "name_ru": "Ледник Шокальскога",
+      "name_en": "Lednik Shokal'skoga",
+      "latitude": 76.119167,
+      "longitude": 62.698889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q34840971",
+      "name_ru": "Ледник Шокольского",
+      "name_en": "Lednik Shokol'skogo",
+      "latitude": 76.0575,
+      "longitude": 62.587778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q34840925",
+      "name_ru": "Ледник Шхельды",
+      "name_en": "Lednik Shkhel'dy",
+      "latitude": 43.172778,
+      "longitude": 42.636944,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q34841543",
+      "name_ru": "Ледник Ятминчар",
+      "name_en": "Lednik Yatminchar",
+      "latitude": 41.9625,
+      "longitude": 46.928611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q34841720",
+      "name_ru": "Ледники Мюштуайры",
+      "name_en": "Ledniki Myushtuayry",
+      "latitude": 49.796944,
+      "longitude": 86.4875,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q2331593",
+      "name_ru": "Ледяная шапка Северного острова",
+      "name_en": "Severny Island ice cap",
+      "latitude": 75.5,
+      "longitude": 60,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B4%D1%8F%D0%BD%D0%B0%D1%8F_%D1%88%D0%B0%D0%BF%D0%BA%D0%B0_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q4274905",
+      "name_ru": "Майли (ледник)",
+      "name_en": "Mayli",
+      "latitude": 42.73194,
+      "longitude": 44.47222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B9%D0%BB%D0%B8_(%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q4278776",
+      "name_ru": "Малый Актру",
+      "name_en": "Малый Актуру",
+      "latitude": 50.0503,
+      "longitude": 87.7561,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%90%D0%BA%D1%82%D1%83%D1%80%D1%83"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q4279179",
+      "name_ru": "Малый Фиштинский ледник",
+      "name_en": "Little Fisht Glacier (Maly Fishtinsky Lednik)",
+      "latitude": 43.9514,
+      "longitude": 39.9112,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%A4%D0%B8%D1%88%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q4286099",
+      "name_ru": "Машей (ледник)",
+      "name_en": "Maashei glacier",
+      "latitude": 50.087425,
+      "longitude": 87.606217,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%88%D0%B5%D0%B9_(%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q4430011",
+      "name_ru": "Софийский ледник",
+      "name_en": "Sofia Glacier",
+      "latitude": 49.7944,
+      "longitude": 87.7722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%84%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q4470360",
+      "name_ru": "Укокский ледник",
+      "name_en": "Ukok glacier",
+      "latitude": 49.1094,
+      "longitude": 87.4694,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BA%D0%BE%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q21645172",
+      "name_ru": "Хотютау",
+      "name_en": "Khotyutau",
+      "latitude": 43.2891,
+      "longitude": 42.3875,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D1%82%D1%8E%D1%82%D0%B0%D1%83"
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q4503696",
+      "name_ru": "Цейский ледник",
+      "name_en": "Tsey Glacier",
+      "latitude": 42.76887,
+      "longitude": 43.85262,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q34839297",
+      "name_ru": "Чёрный ледник",
+      "name_en": "Chёrnyy Lednik",
+      "latitude": 49.770833,
+      "longitude": 86.525833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9_(%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q34841162",
+      "name_ru": "ледник Топографов",
+      "name_en": "Topographers Glacier",
+      "latitude": 66.935833,
+      "longitude": 65.293889,
+      "wikipedia_ru": ""
+    }
+  ],
+  "meta": {
+    "title": "Ледники России - Бесплатная загрузка",
+    "description": "Список географических объектов класса «ледник», расположенных в России. Источник — Wikidata через публичный SPARQL-эндпоинт (instance of/subclass of Q35666, страна Россия Q159). Для каждого объекта приведены русское название (rdfs:label@ru), английское название, географические координаты (WGS84, P625) и ссылка на статью русской Википедии. Записи отсортированы по алфавиту русского названия. Записи без русскоязычной (кириллической) этикетки отфильтрованы согласно правилу проекта о сохранении родного текста. Всего 83 уникальных QID; координаты доступны для 83. Содержит 83 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Ледники России | ListBase",
+    "seo_description": "Скачать Ледники России — 83 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 83 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

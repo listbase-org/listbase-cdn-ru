@@ -1,0 +1,115 @@
+{
+  "id": "ru-ulyanovskaya-oblast-goroda",
+  "name": "Города — Ульяновская область",
+  "title": "Города — Ульяновская область",
+  "description": "6 городов региона «Ульяновская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Барыш",
+      "population_thousands": 15.5,
+      "latitude": 53.6533992,
+      "longitude": 47.1181134,
+      "region_name": "Ульяновская область",
+      "region_iso_code": "RU-ULY",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Димитровград",
+      "population_thousands": 113.5,
+      "latitude": 54.2167926,
+      "longitude": 49.6262585,
+      "region_name": "Ульяновская область",
+      "region_iso_code": "RU-ULY",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Инза",
+      "population_thousands": 17.2,
+      "latitude": 53.8549647,
+      "longitude": 46.3533459,
+      "region_name": "Ульяновская область",
+      "region_iso_code": "RU-ULY",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Новоульяновск",
+      "population_thousands": 13.8,
+      "latitude": 54.1447956,
+      "longitude": 48.3910789,
+      "region_name": "Ульяновская область",
+      "region_iso_code": "RU-ULY",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Сенгилей",
+      "population_thousands": 6.2,
+      "latitude": 53.958964,
+      "longitude": 48.7768269,
+      "region_name": "Ульяновская область",
+      "region_iso_code": "RU-ULY",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Ульяновск",
+      "population_thousands": 627.7,
+      "latitude": 54.3079415,
+      "longitude": 48.3748487,
+      "region_name": "Ульяновская область",
+      "region_iso_code": "RU-ULY",
+      "federal_district": "Приволжский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Ульяновская область - Бесплатная загрузка",
+    "description": "6 городов региона «Ульяновская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 6 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Ульяновская область | ListBase",
+    "seo_description": "Скачать Города — Ульяновская область — 6 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 6 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

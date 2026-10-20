@@ -1,0 +1,259 @@
+{
+  "id": "ru-kaluzhskaya-oblast-goroda",
+  "name": "Города — Калужская область",
+  "title": "Города — Калужская область",
+  "description": "22 городов региона «Калужская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Балабаново",
+      "population_thousands": 25.6,
+      "latitude": 55.1773714,
+      "longitude": 36.6566951,
+      "region_name": "Калужская область",
+      "region_iso_code": "RU-KLU",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Белоусово",
+      "population_thousands": 10.2,
+      "latitude": 55.0956803,
+      "longitude": 36.677629,
+      "region_name": "Калужская область",
+      "region_iso_code": "RU-KLU",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Боровск",
+      "population_thousands": 10.3,
+      "latitude": 55.2130096,
+      "longitude": 36.4926251,
+      "region_name": "Калужская область",
+      "region_iso_code": "RU-KLU",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Ермолино",
+      "population_thousands": 10.1,
+      "latitude": 55.1971758,
+      "longitude": 36.5952722,
+      "region_name": "Калужская область",
+      "region_iso_code": "RU-KLU",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Жиздра",
+      "population_thousands": 5.4,
+      "latitude": 53.7521926,
+      "longitude": 34.7386592,
+      "region_name": "Калужская область",
+      "region_iso_code": "RU-KLU",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Жуков",
+      "population_thousands": 13.7,
+      "latitude": 55.0301833,
+      "longitude": 36.7394903,
+      "region_name": "Калужская область",
+      "region_iso_code": "RU-KLU",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Калуга",
+      "population_thousands": 332,
+      "latitude": 54.5059848,
+      "longitude": 36.2516245,
+      "region_name": "Калужская область",
+      "region_iso_code": "RU-KLU",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Киров",
+      "population_thousands": 29.9,
+      "latitude": 54.0790111,
+      "longitude": 34.3076201,
+      "region_name": "Калужская область",
+      "region_iso_code": "RU-KLU",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Козельск",
+      "population_thousands": 16.4,
+      "latitude": 54.0347201,
+      "longitude": 35.780768,
+      "region_name": "Калужская область",
+      "region_iso_code": "RU-KLU",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Кондрово",
+      "population_thousands": 14.6,
+      "latitude": 54.7959473,
+      "longitude": 35.9274842,
+      "region_name": "Калужская область",
+      "region_iso_code": "RU-KLU",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Кременки",
+      "population_thousands": 10.3,
+      "latitude": 54.8862447,
+      "longitude": 37.1168701,
+      "region_name": "Калужская область",
+      "region_iso_code": "RU-KLU",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Людиново",
+      "population_thousands": 37.3,
+      "latitude": 53.8700828,
+      "longitude": 34.4385915,
+      "region_name": "Калужская область",
+      "region_iso_code": "RU-KLU",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Малоярославец",
+      "population_thousands": 27.8,
+      "latitude": 55.0177123,
+      "longitude": 36.4633603,
+      "region_name": "Калужская область",
+      "region_iso_code": "RU-KLU",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Медынь",
+      "population_thousands": 8.2,
+      "latitude": 54.9689785,
+      "longitude": 35.8872168,
+      "region_name": "Калужская область",
+      "region_iso_code": "RU-KLU",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Мещовск",
+      "population_thousands": 3.8,
+      "latitude": 54.3191471,
+      "longitude": 35.2816918,
+      "region_name": "Калужская область",
+      "region_iso_code": "RU-KLU",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Мосальск",
+      "population_thousands": 4.2,
+      "latitude": 54.4824939,
+      "longitude": 34.9872239,
+      "region_name": "Калужская область",
+      "region_iso_code": "RU-KLU",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Обнинск",
+      "population_thousands": 117.4,
+      "latitude": 55.0943144,
+      "longitude": 36.6121639,
+      "region_name": "Калужская область",
+      "region_iso_code": "RU-KLU",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Сосенский",
+      "population_thousands": 10.4,
+      "latitude": 54.0566016,
+      "longitude": 35.9621646,
+      "region_name": "Калужская область",
+      "region_iso_code": "RU-KLU",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Спас-Деменск",
+      "population_thousands": 4.3,
+      "latitude": 54.409922,
+      "longitude": 34.0189631,
+      "region_name": "Калужская область",
+      "region_iso_code": "RU-KLU",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Сухиничи",
+      "population_thousands": 14.8,
+      "latitude": 54.097296,
+      "longitude": 35.3443568,
+      "region_name": "Калужская область",
+      "region_iso_code": "RU-KLU",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Таруса",
+      "population_thousands": 9.2,
+      "latitude": 54.7236477,
+      "longitude": 37.1671,
+      "region_name": "Калужская область",
+      "region_iso_code": "RU-KLU",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Юхнов",
+      "population_thousands": 5.8,
+      "latitude": 54.7446445,
+      "longitude": 35.2424346,
+      "region_name": "Калужская область",
+      "region_iso_code": "RU-KLU",
+      "federal_district": "Центральный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Калужская область - Бесплатная загрузка",
+    "description": "22 городов региона «Калужская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 22 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Калужская область | ListBase",
+    "seo_description": "Скачать Города — Калужская область — 22 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 22 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

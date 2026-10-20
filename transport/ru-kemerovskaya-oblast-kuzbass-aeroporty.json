@@ -1,0 +1,269 @@
+{
+  "id": "ru-kemerovskaya-oblast-kuzbass-aeroporty",
+  "name": "Аэропорты — Kemerovo Oblast (RU-KEM)",
+  "title": "Аэропорты — Kemerovo Oblast (RU-KEM)",
+  "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Kemerovo Oblast (ISO 3166-2 RU-KEM) — 6 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"heliport\": 2, \"small_airport\": 1, \"closed\": 1, \"large_airport\": 1, \"medium_airport\": 1}. Извлечено из OurAirports.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 46195,
+      "ident": "RU-0340",
+      "type": "heliport",
+      "name": "Ataka Helipad",
+      "latitude_deg": 55.5901813455,
+      "longitude_deg": 84.97959136959999,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KEM",
+      "region_local_code": "KEM",
+      "region_name": "Kemerovo Oblast",
+      "municipality": "",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Вертолётная площадка Атака"
+    },
+    {
+      "id": 46196,
+      "ident": "RU-0341",
+      "type": "small_airport",
+      "name": "Kemerovo Severny Airport",
+      "latitude_deg": 55.332720733399995,
+      "longitude_deg": 86.04554414750001,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KEM",
+      "region_local_code": "KEM",
+      "region_name": "Kemerovo Oblast",
+      "municipality": "Kemerovo",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Kemerovo North Airport, Аэродром Кемерово Северный"
+    },
+    {
+      "id": 347913,
+      "ident": "RU-0765",
+      "type": "closed",
+      "name": "Belogorsk Airfield",
+      "latitude_deg": 55.03342,
+      "longitude_deg": 88.48534,
+      "elevation_ft": 2476,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KEM",
+      "region_local_code": "KEM",
+      "region_name": "Kemerovo Oblast",
+      "municipality": "Belogorsk",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "id": 546205,
+      "ident": "RU-10045",
+      "type": "heliport",
+      "name": "Chilisu-Anzas Heliport",
+      "latitude_deg": 52.682598,
+      "longitude_deg": 88.358185,
+      "elevation_ft": 1809,
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-KEM",
+      "region_local_code": "KEM",
+      "region_name": "Kemerovo Oblast",
+      "municipality": "Chilisu-Anzas",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "UNAZ",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "УНАЗ, Чилису-Анзас"
+    },
+    {
+      "id": 6505,
+      "ident": "UNEE",
+      "type": "large_airport",
+      "name": "Alexei Leonov Kemerovo International Airport",
+      "latitude_deg": 55.2701,
+      "longitude_deg": 86.107201,
+      "elevation_ft": 863,
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-KEM",
+      "region_local_code": "KEM",
+      "region_name": "Kemerovo Oblast",
+      "municipality": "Kemerovo",
+      "scheduled_service": "yes",
+      "icao_code": "UNEE",
+      "iata_code": "KEJ",
+      "gps_code": "UNEE",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Kemerovo_Airport",
+      "keywords": ""
+    },
+    {
+      "id": 32045,
+      "ident": "UNWW",
+      "type": "medium_airport",
+      "name": "Spichenkovo Airport",
+      "latitude_deg": 53.811401,
+      "longitude_deg": 86.877197,
+      "elevation_ft": 1024,
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-KEM",
+      "region_local_code": "KEM",
+      "region_name": "Kemerovo Oblast",
+      "municipality": "Novokuznetsk",
+      "scheduled_service": "yes",
+      "icao_code": "UNWW",
+      "iata_code": "NOZ",
+      "gps_code": "UNWW",
+      "local_code": "",
+      "home_link": "https://aerokuz.ru",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Spichenkovo_Airport",
+      "keywords": ""
+    }
+  ],
+  "meta": {
+    "title": "Аэропорты — Kemerovo Oblast (RU-KEM) - Бесплатная загрузка",
+    "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Kemerovo Oblast (ISO 3166-2 RU-KEM) — 6 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"heliport\": 2, \"small_airport\": 1, \"closed\": 1, \"large_airport\": 1, \"medium_airport\": 1}. Извлечено из OurAirports. Содержит 6 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Аэропорты — Kemerovo Oblast (RU-KEM) | ListBase",
+    "seo_description": "Скачать Аэропорты — Kemerovo Oblast (RU-KEM) — 6 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 6 записей / 21 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

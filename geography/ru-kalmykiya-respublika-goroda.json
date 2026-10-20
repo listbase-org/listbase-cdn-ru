@@ -1,0 +1,88 @@
+{
+  "id": "ru-kalmykiya-respublika-goroda",
+  "name": "Города — Республика Калмыкия",
+  "title": "Города — Республика Калмыкия",
+  "description": "3 городов региона «Республика Калмыкия» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Городовиковск",
+      "population_thousands": 8.6,
+      "latitude": 46.0875083,
+      "longitude": 41.935537,
+      "region_name": "Республика Калмыкия",
+      "region_iso_code": "RU-KL",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Лагань",
+      "population_thousands": 12.8,
+      "latitude": 45.3930912,
+      "longitude": 47.3432602,
+      "region_name": "Республика Калмыкия",
+      "region_iso_code": "RU-KL",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Элиста",
+      "population_thousands": 103.1,
+      "latitude": 46.3083344,
+      "longitude": 44.2702088,
+      "region_name": "Республика Калмыкия",
+      "region_iso_code": "RU-KL",
+      "federal_district": "Южный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Республика Калмыкия - Бесплатная загрузка",
+    "description": "3 городов региона «Республика Калмыкия» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 3 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Республика Калмыкия | ListBase",
+    "seo_description": "Скачать Города — Республика Калмыкия — 3 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 3 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

@@ -1,0 +1,727 @@
+{
+  "id": "ru-moskovskaya-oblast-goroda",
+  "name": "Города — Московская область",
+  "title": "Города — Московская область",
+  "description": "74 городов региона «Московская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 74,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Апрелевка",
+      "population_thousands": 30.7,
+      "latitude": 55.5276918,
+      "longitude": 37.065143,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Балашиха",
+      "population_thousands": 507.4,
+      "latitude": 55.796389,
+      "longitude": 37.938283,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Белоозерский",
+      "population_thousands": 17.898,
+      "latitude": 55.4595766,
+      "longitude": 38.4389742,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Бронницы",
+      "population_thousands": 22.5,
+      "latitude": 55.4255379,
+      "longitude": 38.264145,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Верея",
+      "population_thousands": 5.1,
+      "latitude": 55.343369,
+      "longitude": 36.185694,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Видное",
+      "population_thousands": 77,
+      "latitude": 55.551725,
+      "longitude": 37.7061984,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Волоколамск",
+      "population_thousands": 18.4,
+      "latitude": 56.0356499,
+      "longitude": 35.9585112,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Воскресенск",
+      "population_thousands": 92.9,
+      "latitude": 55.3071519,
+      "longitude": 38.7027953,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Высоковск",
+      "population_thousands": 10.4,
+      "latitude": 56.3359513,
+      "longitude": 36.5251837,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Голицыно",
+      "population_thousands": 17.5,
+      "latitude": 55.6190582,
+      "longitude": 36.9856793,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Дедовск",
+      "population_thousands": 30.5,
+      "latitude": 55.8703276,
+      "longitude": 37.1245043,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Дзержинский",
+      "population_thousands": 56.4,
+      "latitude": 55.6240869,
+      "longitude": 37.8440276,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Дмитров",
+      "population_thousands": 68.8,
+      "latitude": 56.3477457,
+      "longitude": 37.526672,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Долгопрудный",
+      "population_thousands": 116,
+      "latitude": 55.9385999,
+      "longitude": 37.5101021,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Домодедово",
+      "population_thousands": 137.2,
+      "latitude": 55.4363283,
+      "longitude": 37.7664984,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Дрезна",
+      "population_thousands": 11.3,
+      "latitude": 55.7443143,
+      "longitude": 38.8498479,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Дубна",
+      "population_thousands": 75,
+      "latitude": 56.741786,
+      "longitude": 37.1757223,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Егорьевск",
+      "population_thousands": 72.8,
+      "latitude": 55.3830113,
+      "longitude": 39.0358317,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Жуковский",
+      "population_thousands": 107.6,
+      "latitude": 55.599803,
+      "longitude": 38.1224298,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Зарайск",
+      "population_thousands": 22.8,
+      "latitude": 54.762456,
+      "longitude": 38.8850978,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Звенигород",
+      "population_thousands": 22.3,
+      "latitude": 55.7297089,
+      "longitude": 36.8554029,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Ивантеевка",
+      "population_thousands": 81.3,
+      "latitude": 55.9741665,
+      "longitude": 37.9207539,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Истра",
+      "population_thousands": 33.6,
+      "latitude": 55.9062267,
+      "longitude": 36.8601454,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Кашира",
+      "population_thousands": 47.4,
+      "latitude": 54.853337,
+      "longitude": 38.1904392,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Клин",
+      "population_thousands": 79.7,
+      "latitude": 56.3425605,
+      "longitude": 36.7240032,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Коломна",
+      "population_thousands": 140.1,
+      "latitude": 55.102814,
+      "longitude": 38.7531002,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Королев",
+      "population_thousands": 225.9,
+      "latitude": 55.9161773,
+      "longitude": 37.8545415,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Котельники",
+      "population_thousands": 49,
+      "latitude": 55.6597925,
+      "longitude": 37.8631156,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Красноармейск",
+      "population_thousands": 26.3,
+      "latitude": 56.105426,
+      "longitude": 38.140838,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Красногорск",
+      "population_thousands": 175.6,
+      "latitude": 55.8317203,
+      "longitude": 37.3295266,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Краснозаводск",
+      "population_thousands": 12.8,
+      "latitude": 56.4409979,
+      "longitude": 38.2320307,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Краснознаменск",
+      "population_thousands": 43.2,
+      "latitude": 55.5978959,
+      "longitude": 37.0393709,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Кубинка",
+      "population_thousands": 20.1,
+      "latitude": 55.5754955,
+      "longitude": 36.6951995,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Куровское",
+      "population_thousands": 20.6,
+      "latitude": 55.5792277,
+      "longitude": 38.9207723,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Ликино-Дулево",
+      "population_thousands": 28.8,
+      "latitude": 55.7078257,
+      "longitude": 38.9578093,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Лобня",
+      "population_thousands": 90.2,
+      "latitude": 56.0328881,
+      "longitude": 37.4614035,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Лосино-Петровский",
+      "population_thousands": 25.4,
+      "latitude": 55.8713214,
+      "longitude": 38.200599,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Луховицы",
+      "population_thousands": 30.4,
+      "latitude": 54.9652077,
+      "longitude": 39.0260266,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Лыткарино",
+      "population_thousands": 59.2,
+      "latitude": 55.5778163,
+      "longitude": 37.9033507,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Люберцы",
+      "population_thousands": 205.3,
+      "latitude": 55.7003989,
+      "longitude": 37.9606238,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Можайск",
+      "population_thousands": 30.1,
+      "latitude": 55.5069259,
+      "longitude": 36.024043,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Мытищи",
+      "population_thousands": 235.5,
+      "latitude": 55.9105782,
+      "longitude": 37.7363579,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Наро-Фоминск",
+      "population_thousands": 64.9,
+      "latitude": 55.386185,
+      "longitude": 36.734484,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Ногинск",
+      "population_thousands": 104,
+      "latitude": 55.8686133,
+      "longitude": 38.4622104,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Одинцово",
+      "population_thousands": 135.5,
+      "latitude": 55.6789455,
+      "longitude": 37.263686,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Озеры",
+      "population_thousands": 24.7,
+      "latitude": 54.8541006,
+      "longitude": 38.5599196,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Орехово-Зуево",
+      "population_thousands": 118.3,
+      "latitude": 55.8151421,
+      "longitude": 38.9869822,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Павловский Посад",
+      "population_thousands": 63.6,
+      "latitude": 55.7807244,
+      "longitude": 38.6596983,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Пересвет",
+      "population_thousands": 13.4,
+      "latitude": 56.4158326,
+      "longitude": 38.1733534,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Подольск",
+      "population_thousands": 308.1,
+      "latitude": 55.4389322,
+      "longitude": 37.5703482,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Протвино",
+      "population_thousands": 35.4,
+      "latitude": 54.8705984,
+      "longitude": 37.2182749,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Пушкино",
+      "population_thousands": 107.6,
+      "latitude": 56.0103638,
+      "longitude": 37.8471403,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Пущино",
+      "population_thousands": 20.7,
+      "latitude": 54.8324412,
+      "longitude": 37.6210346,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Раменское",
+      "population_thousands": 121.9,
+      "latitude": 55.5495132,
+      "longitude": 38.2728914,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Реутов",
+      "population_thousands": 108.1,
+      "latitude": 55.7582621,
+      "longitude": 37.8618553,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Рошаль",
+      "population_thousands": 20,
+      "latitude": 55.6632776,
+      "longitude": 39.8656147,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Руза",
+      "population_thousands": 12.7,
+      "latitude": 55.7014744,
+      "longitude": 36.1959206,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Сергиев Посад",
+      "population_thousands": 100.3,
+      "latitude": 56.3062548,
+      "longitude": 38.1502661,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Серпухов",
+      "population_thousands": 126.3,
+      "latitude": 54.9226466,
+      "longitude": 37.4033859,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Солнечногорск",
+      "population_thousands": 50.2,
+      "latitude": 56.185102,
+      "longitude": 36.977631,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Старая Купавна",
+      "population_thousands": 24.2,
+      "latitude": 55.810648,
+      "longitude": 38.175624,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Ступино",
+      "population_thousands": 65.9,
+      "latitude": 54.886274,
+      "longitude": 38.078228,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Талдом",
+      "population_thousands": 12.6,
+      "latitude": 56.7308564,
+      "longitude": 37.5276003,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Фрязино",
+      "population_thousands": 59.5,
+      "latitude": 55.9590588,
+      "longitude": 38.0410235,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Химки",
+      "population_thousands": 259.6,
+      "latitude": 55.888657,
+      "longitude": 37.4303702,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Хотьково",
+      "population_thousands": 21.3,
+      "latitude": 56.2516982,
+      "longitude": 37.9396017,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Черноголовка",
+      "population_thousands": 21.3,
+      "latitude": 56.0100707,
+      "longitude": 38.3792047,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Чехов",
+      "population_thousands": 72.3,
+      "latitude": 55.1508011,
+      "longitude": 37.4533252,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Шатура",
+      "population_thousands": 32,
+      "latitude": 55.5777427,
+      "longitude": 39.5445712,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Щелково",
+      "population_thousands": 126.1,
+      "latitude": 55.9233801,
+      "longitude": 37.9783707,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Электрогорск",
+      "population_thousands": 22.7,
+      "latitude": 55.8780241,
+      "longitude": 38.7806752,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Электросталь",
+      "population_thousands": 156,
+      "latitude": 55.7847291,
+      "longitude": 38.4447045,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Электроугли",
+      "population_thousands": 21.3,
+      "latitude": 55.7170877,
+      "longitude": 38.2192563,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Яхрома",
+      "population_thousands": 14.1,
+      "latitude": 56.2890516,
+      "longitude": 37.4831799,
+      "region_name": "Московская область",
+      "region_iso_code": "RU-MOS",
+      "federal_district": "Центральный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Московская область - Бесплатная загрузка",
+    "description": "74 городов региона «Московская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 74 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Московская область | ListBase",
+    "seo_description": "Скачать Города — Московская область — 74 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 74 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

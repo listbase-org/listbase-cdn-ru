@@ -1,0 +1,88 @@
+{
+  "id": "ru-kontinenty",
+  "name": "Континенты (части света)",
+  "title": "Континенты (части света)",
+  "description": "7 континентов согласно распространённой англосаксонской конвенции (Африка, Антарктида, Азия, Европа, Северная Америка, Океания, Южная Америка).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "code",
+      "label": "Code",
+      "type": "string"
+    },
+    {
+      "key": "name_ru",
+      "label": "Name Ru",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "code": "AF",
+      "name_ru": "Африка",
+      "name_en": "Africa",
+      "slug": "afrika"
+    },
+    {
+      "code": "AN",
+      "name_ru": "Антарктида",
+      "name_en": "Antarctica",
+      "slug": "antarktida"
+    },
+    {
+      "code": "AS",
+      "name_ru": "Азия",
+      "name_en": "Asia",
+      "slug": "aziya"
+    },
+    {
+      "code": "EU",
+      "name_ru": "Европа",
+      "name_en": "Europe",
+      "slug": "evropa"
+    },
+    {
+      "code": "NA",
+      "name_ru": "Северная Америка",
+      "name_en": "North America",
+      "slug": "severnaya-amerika"
+    },
+    {
+      "code": "OC",
+      "name_ru": "Океания",
+      "name_en": "Oceania",
+      "slug": "okeaniya"
+    },
+    {
+      "code": "SA",
+      "name_ru": "Южная Америка",
+      "name_en": "South America",
+      "slug": "yuzhnaya-amerika"
+    }
+  ],
+  "meta": {
+    "title": "Континенты (части света) - Бесплатная загрузка",
+    "description": "7 континентов согласно распространённой англосаксонской конвенции (Африка, Антарктида, Азия, Европа, Северная Америка, Океания, Южная Америка). Содержит 7 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Континенты (части света) | ListBase",
+    "seo_description": "Скачать Континенты (части света) — 7 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 7 записей / 4 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

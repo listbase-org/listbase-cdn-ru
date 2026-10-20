@@ -1,0 +1,3156 @@
+{
+  "id": "ru-universitety",
+  "name": "Россия — Университеты и высшие учебные заведения",
+  "title": "Россия — Университеты и высшие учебные заведения",
+  "description": "Перечень университетов и высших учебных заведений Российской Федерации. Каждая запись содержит наименование учреждения (латиницей/на английском), основной зарегистрированный домен, полный список доменов, основную веб-страницу, код страны (ISO-3166-1 alpha-2) и субъект федерации (если он указан в источнике). Извлечено путём фильтрации глобального набора данных Hipo/university-domains-list (country == \"Russian Federation\").",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 309,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "domain",
+      "label": "Domain",
+      "type": "string"
+    },
+    {
+      "key": "domains",
+      "label": "Domains",
+      "type": "string"
+    },
+    {
+      "key": "web_page",
+      "label": "Web Page",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "state_province",
+      "label": "State Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Academic University",
+      "slug": "academic",
+      "domain": "spbau.ru",
+      "domains": "spbau.ru",
+      "web_page": "http://www.spbau.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Academy of Management and Entrepreneurship",
+      "slug": "academy-management-entrepreneurship",
+      "domain": "ame.ru",
+      "domains": "ame.ru",
+      "web_page": "http://www.ame.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Adygeja State University",
+      "slug": "adygeja-state",
+      "domain": "adygnet.ru",
+      "domains": "adygnet.ru",
+      "web_page": "http://www.adygnet.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Altai State Medical University",
+      "slug": "altai-state-medical",
+      "domain": "asmu.ru",
+      "domains": "asmu.ru",
+      "web_page": "http://www.asmu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Altai State Technical University",
+      "slug": "altai-state-technical",
+      "domain": "astu.secna.ru",
+      "domains": "astu.secna.ru",
+      "web_page": "http://www.astu.secna.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Altai State University",
+      "slug": "altai-state",
+      "domain": "asu.ru",
+      "domains": "asu.ru",
+      "web_page": "http://www.asu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Amur State University",
+      "slug": "amur-state",
+      "domain": "amursu.ru",
+      "domains": "amursu.ru",
+      "web_page": "http://www.amursu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Arhangelsk State Technical University",
+      "slug": "arhangelsk-state-technical",
+      "domain": "agtu.ru",
+      "domains": "agtu.ru",
+      "web_page": "http://www.agtu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Astrahan State Medical Academy",
+      "slug": "astrahan-state-medical-academy",
+      "domain": "agma.astranet.ru",
+      "domains": "agma.astranet.ru",
+      "web_page": "http://agma.astranet.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Astrahan State Technical University",
+      "slug": "astrahan-state-technical",
+      "domain": "astu.org",
+      "domains": "astu.org",
+      "web_page": "http://www.astu.org/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Astrakhan State University",
+      "slug": "astrakhan-state",
+      "domain": "aspu.ru",
+      "domains": "aspu.ru",
+      "web_page": "http://www.aspu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Baikal National University of Economics and Law",
+      "slug": "baikal-national-economics-law",
+      "domain": "isea.ru",
+      "domains": "isea.ru",
+      "web_page": "http://www.isea.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Baltic State Technical University",
+      "slug": "baltic-state-technical",
+      "domain": "voenmeh.ru",
+      "domains": "voenmeh.ru",
+      "web_page": "http://www.voenmeh.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Bashkir State Pedagogical University named After M. Akmullah",
+      "slug": "bashkir-state-pedagogical-named-after-m-akmullah",
+      "domain": "bspu.ru",
+      "domains": "bspu.ru",
+      "web_page": "http://www.bspu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Bashkir State University",
+      "slug": "bashkir-state",
+      "domain": "bashedu.ru",
+      "domains": "bashedu.ru",
+      "web_page": "http://www.bashedu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Bauman Moscow State Technical University",
+      "slug": "bauman-moscow-state-technical",
+      "domain": "bmstu.ru",
+      "domains": "bmstu.ru",
+      "web_page": "http://www.bmstu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Belgorod State Agricultural Academy",
+      "slug": "belgorod-state-agricultural-academy",
+      "domain": "bsaa.ru",
+      "domains": "bsaa.ru",
+      "web_page": "http://www.bsaa.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Belgorod State Technical University",
+      "slug": "belgorod-state-technical",
+      "domain": "bstu.ru",
+      "domains": "bstu.ru",
+      "web_page": "http://www.bstu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Belgorod State University",
+      "slug": "belgorod-state",
+      "domain": "bsu.edu.ru",
+      "domains": "bsu.edu.ru",
+      "web_page": "http://www.bsu.edu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Biysk State Padagogical University after V.M. Shukshin",
+      "slug": "biysk-state-padagogical-after-v-m-shukshin",
+      "domain": "bigpi.biysk.ru",
+      "domains": "bigpi.biysk.ru",
+      "web_page": "http://www.bigpi.biysk.ru/wwwsite/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Bratsk State Technical University",
+      "slug": "bratsk-state-technical",
+      "domain": "brstu.ru",
+      "domains": "brstu.ru",
+      "web_page": "http://www.brstu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Brjansk State Technical University",
+      "slug": "brjansk-state-technical",
+      "domain": "tu-bryansk.ru",
+      "domains": "tu-bryansk.ru",
+      "web_page": "http://www.tu-bryansk.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Burjat State University",
+      "slug": "burjat-state",
+      "domain": "bsu.burnet.ru",
+      "domains": "bsu.burnet.ru",
+      "web_page": "http://www.bsu.burnet.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Cheljabinsk State Institute of Teacher Training",
+      "slug": "cheljabinsk-state-institute-teacher-training",
+      "domain": "cspi.urc.ac.ru",
+      "domains": "cspi.urc.ac.ru",
+      "web_page": "http://cspi.urc.ac.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Cheljabinsk State University",
+      "slug": "cheljabinsk-state",
+      "domain": "csu.ac.ru",
+      "domains": "csu.ac.ru",
+      "web_page": "http://www.csu.ac.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Cheljabinsk University of Agricultural Engineering",
+      "slug": "cheljabinsk-agricultural-engineering",
+      "domain": "urc.ac.ru",
+      "domains": "urc.ac.ru",
+      "web_page": "http://www.urc.ac.ru/Universities/AGRO/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Chuvash State University",
+      "slug": "chuvash-state",
+      "domain": "chuvsu.ru",
+      "domains": "chuvsu.ru",
+      "web_page": "http://www.chuvsu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Dagestan State University",
+      "slug": "dagestan-state",
+      "domain": "dgu.ru",
+      "domains": "dgu.ru",
+      "web_page": "http://www.dgu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Don State Agrarian University",
+      "slug": "don-state-agrarian",
+      "domain": "dongau.ru",
+      "domains": "dongau.ru",
+      "web_page": "http://www.dongau.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Don State Technical University",
+      "slug": "don-state-technical",
+      "domain": "dstu.edu.ru",
+      "domains": "dstu.edu.ru",
+      "web_page": "http://www.dstu.edu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Dubna International University for Nature, Society and Man",
+      "slug": "dubna-international-nature-society-man",
+      "domain": "uni-dubna.ru",
+      "domains": "uni-dubna.ru",
+      "web_page": "http://www.uni-dubna.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "East-Siberian State Institute of Culture",
+      "slug": "east-siberian-state-institute-culture",
+      "domain": "vsgaki.burnet.ru",
+      "domains": "vsgaki.burnet.ru",
+      "web_page": "http://www.vsgaki.burnet.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "East-Siberian State University",
+      "slug": "east-siberian-state",
+      "domain": "vsgtu.eastsib.ru",
+      "domains": "vsgtu.eastsib.ru",
+      "web_page": "http://www.vsgtu.eastsib.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "East-Siberian State University of Technology",
+      "slug": "east-siberian-state-technology",
+      "domain": "esstu.ru",
+      "domains": "esstu.ru",
+      "web_page": "http://www.esstu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "European University at St.Petersburg",
+      "slug": "european-st-petersburg",
+      "domain": "eu.spb.ru",
+      "domains": "eu.spb.ru",
+      "web_page": "http://www.eu.spb.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Far East State Transport University",
+      "slug": "far-east-state-transport",
+      "domain": "dvgups.ru",
+      "domains": "dvgups.ru",
+      "web_page": "http://www.dvgups.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Far Easten State University of Humanities",
+      "slug": "far-easten-state-humanities",
+      "domain": "khspu.ru",
+      "domains": "khspu.ru",
+      "web_page": "http://www.khspu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Far Eastern State Technical University",
+      "slug": "far-eastern-state-technical",
+      "domain": "festu.ru",
+      "domains": "festu.ru",
+      "web_page": "http://www.festu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Far Eastern State University",
+      "slug": "far-eastern-state",
+      "domain": "dvgu.ru",
+      "domains": "dvgu.ru",
+      "web_page": "http://www.dvgu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Finance Academy",
+      "slug": "finance-academy",
+      "domain": "fa.ru",
+      "domains": "fa.ru",
+      "web_page": "http://www.fa.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Gnesins Russian Academy of Music",
+      "slug": "gnesins-russian-academy-music",
+      "domain": "gnesin-academy.ru",
+      "domains": "gnesin-academy.ru",
+      "web_page": "http://www.gnesin-academy.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Gorno-Altaisk State University",
+      "slug": "gorno-altaisk-state",
+      "domain": "gasu.ru",
+      "domains": "gasu.ru",
+      "web_page": "http://www.gasu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Gubkin Russian State University of Oil and Gas",
+      "slug": "gubkin-russian-state-oil-gas",
+      "domain": "gubkin.ru",
+      "domains": "gubkin.ru",
+      "web_page": "http://www.gubkin.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Herzen State Pedagogical University of Russia",
+      "slug": "herzen-state-pedagogical-russia",
+      "domain": "herzen.edu.ru",
+      "domains": "herzen.edu.ru, herzen.spb.ru",
+      "web_page": "http://www.herzen.spb.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Higher School of Economics",
+      "slug": "higher-school-economics",
+      "domain": "hse.ru",
+      "domains": "hse.ru",
+      "web_page": "http://www.hse.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "I.M. Sechenov Moscow Medical Academy",
+      "slug": "m-sechenov-moscow-medical-academy",
+      "domain": "mma.ru",
+      "domains": "mma.ru",
+      "web_page": "http://www.mma.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Immanuel Kant State University of Russia",
+      "slug": "immanuel-kant-state-russia",
+      "domain": "kantiana.ru",
+      "domains": "kantiana.ru",
+      "web_page": "http://www.kantiana.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Institute for the Economy in Transition",
+      "slug": "institute-economy-transition",
+      "domain": "iet.ru",
+      "domains": "iet.ru",
+      "web_page": "http://www.iet.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Business and Politics",
+      "slug": "institute-business-politics",
+      "domain": "ibp-moscow.ru",
+      "domains": "ibp-moscow.ru",
+      "web_page": "http://www.ibp-moscow.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Institute of Management and Economy",
+      "slug": "institute-management-economy",
+      "domain": "ime.ru",
+      "domains": "ime.ru",
+      "web_page": "http://www.ime.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "International Banking Institute, St. Petersburg",
+      "slug": "international-banking-institute-st-petersburg",
+      "domain": "ibi.spb.ru",
+      "domains": "ibi.spb.ru",
+      "web_page": "http://www.ibi.spb.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "International East-European University",
+      "slug": "international-east-european",
+      "domain": "ieeu.udm.ru",
+      "domains": "ieeu.udm.ru",
+      "web_page": "http://www.ieeu.udm.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "International University of Engineering, Moscow",
+      "slug": "international-engineering-moscow",
+      "domain": "miu.ru",
+      "domains": "miu.ru",
+      "web_page": "http://www.miu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "International University of Fundamental Studies, St. Petersburg",
+      "slug": "international-fundamental-studies-st-petersburg",
+      "domain": "iufs.edu",
+      "domains": "iufs.edu",
+      "web_page": "http://www.iufs.edu/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Irkutsk State Academy of Economics",
+      "slug": "irkutsk-state-academy-economics",
+      "domain": "isea.irk.ru",
+      "domains": "isea.irk.ru",
+      "web_page": "http://www.isea.irk.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Irkutsk State Technical University",
+      "slug": "irkutsk-state-technical",
+      "domain": "istu.irk.ru",
+      "domains": "istu.irk.ru",
+      "web_page": "http://www.istu.irk.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Irkutsk State University",
+      "slug": "irkutsk-state",
+      "domain": "isu.ru",
+      "domains": "isu.ru",
+      "web_page": "http://www.isu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "ITMO University",
+      "slug": "itmo",
+      "domain": "ifmo.ru",
+      "domains": "ifmo.ru, itmo.ru, niuitmo.ru",
+      "web_page": "http://www.ifmo.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Ivanovo State Academy of Medicine",
+      "slug": "ivanovo-state-academy-medicine",
+      "domain": "isma.indi.ru",
+      "domains": "isma.indi.ru",
+      "web_page": "http://isma.indi.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Ivanovo State Power University",
+      "slug": "ivanovo-state-power",
+      "domain": "ispu.ru",
+      "domains": "ispu.ru",
+      "web_page": "http://www.ispu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Ivanovo State Textile Academy",
+      "slug": "ivanovo-state-textile-academy",
+      "domain": "education.ivanovo.ru",
+      "domains": "education.ivanovo.ru",
+      "web_page": "http://education.ivanovo.ru:8101/IGTA/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Ivanovo State University",
+      "slug": "ivanovo-state",
+      "domain": "ivanovo.ac.ru",
+      "domains": "ivanovo.ac.ru",
+      "web_page": "http://www.ivanovo.ac.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Ivanovo State University of Chemistry and Technology",
+      "slug": "ivanovo-state-chemistry-technology",
+      "domain": "isuct.ru",
+      "domains": "isuct.ru",
+      "web_page": "http://www.isuct.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Izhevsk State Technical University",
+      "slug": "izhevsk-state-technical",
+      "domain": "istu.ru",
+      "domains": "istu.ru",
+      "web_page": "http://www.istu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Jewish University in Moscow",
+      "slug": "jewish-moscow",
+      "domain": "jum.ru",
+      "domains": "jum.ru",
+      "web_page": "http://www.jum.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Kabardino-Balkarian State University",
+      "slug": "kabardino-balkarian-state",
+      "domain": "kbsu.ru",
+      "domains": "kbsu.ru",
+      "web_page": "http://www.kbsu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Kaliningrad State Technical University",
+      "slug": "kaliningrad-state-technical",
+      "domain": "klgtu.ru",
+      "domains": "klgtu.ru",
+      "web_page": "http://www.klgtu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Kalmyk State University",
+      "slug": "kalmyk-state",
+      "domain": "kalmsu.ru",
+      "domains": "kalmsu.ru",
+      "web_page": "http://www.kalmsu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Kaluga State Pedagogical University",
+      "slug": "kaluga-state-pedagogical",
+      "domain": "kspu.kaluga.ru",
+      "domains": "kspu.kaluga.ru",
+      "web_page": "http://kspu.kaluga.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Kamchatka State University Vitus Bering",
+      "slug": "kamchatka-state-vitus-bering",
+      "domain": "kamgu.ru",
+      "domains": "kamgu.ru",
+      "web_page": "http://www.kamgu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Karelian State Pedagogical University",
+      "slug": "karelian-state-pedagogical",
+      "domain": "kspu.ptz.ru",
+      "domains": "kspu.ptz.ru",
+      "web_page": "http://kspu.ptz.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Kazan State Academy of Architecture and Civil Engineering",
+      "slug": "kazan-state-academy-architecture-civil-engineering",
+      "domain": "ksaba.ru",
+      "domains": "ksaba.ru",
+      "web_page": "http://www.ksaba.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Kazan State Finance and Economics Institute",
+      "slug": "kazan-state-finance-economics-institute",
+      "domain": "ksfei.ru",
+      "domains": "ksfei.ru",
+      "web_page": "http://www.ksfei.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Kazan State Music Conservatory",
+      "slug": "kazan-state-music-conservatory",
+      "domain": "kazanconservatory.ru",
+      "domains": "kazanconservatory.ru",
+      "web_page": "http://www.kazanconservatory.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Kazan State Pedagogical University",
+      "slug": "kazan-state-pedagogical",
+      "domain": "kgpu.ru",
+      "domains": "kgpu.ru",
+      "web_page": "http://www.kgpu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Kazan State University",
+      "slug": "kazan-state",
+      "domain": "ksu.ru",
+      "domains": "ksu.ru",
+      "web_page": "http://www.ksu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Kazan State University of Medicine",
+      "slug": "kazan-state-medicine",
+      "domain": "kgmu.kcn.ru",
+      "domains": "kgmu.kcn.ru",
+      "web_page": "http://www.kgmu.kcn.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Kazan State University of Technology",
+      "slug": "kazan-state-technology",
+      "domain": "kai.ru",
+      "domains": "kai.ru",
+      "web_page": "http://www.kai.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Kemerovo State University",
+      "slug": "kemerovo-state",
+      "domain": "kemsu.ru",
+      "domains": "kemsu.ru",
+      "web_page": "http://www.kemsu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Khabarovsk State Academy of Economics and Law",
+      "slug": "khabarovsk-state-academy-economics-law",
+      "domain": "ael.ru",
+      "domains": "ael.ru",
+      "web_page": "http://www.ael.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Khabarovsk State University of Technology",
+      "slug": "khabarovsk-state-technology",
+      "domain": "khstu.ru",
+      "domains": "khstu.ru",
+      "web_page": "http://www.khstu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Komsomolsk-on-Amur State Technical University",
+      "slug": "komsomolsk-on-amur-state-technical",
+      "domain": "knastu.ru",
+      "domains": "knastu.ru",
+      "web_page": "http://www.knastu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Kostroma State Technological University",
+      "slug": "kostroma-state-technological",
+      "domain": "kstu.edu.ru",
+      "domains": "kstu.edu.ru",
+      "web_page": "http://www.kstu.edu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Krasnoyarsk State Technical University",
+      "slug": "krasnoyarsk-state-technical",
+      "domain": "kgtu.runnet.ru",
+      "domains": "kgtu.runnet.ru",
+      "web_page": "http://www.kgtu.runnet.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Kuban State University",
+      "slug": "kuban-state",
+      "domain": "kubsu.ru",
+      "domains": "kubsu.ru",
+      "web_page": "http://www.kubsu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Kuban State University of Agriculture",
+      "slug": "kuban-state-agriculture",
+      "domain": "kubagro.ru",
+      "domains": "kubagro.ru",
+      "web_page": "http://www.kubagro.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Kuban State University of Technology",
+      "slug": "kuban-state-technology",
+      "domain": "kubstu.ru",
+      "domains": "kubstu.ru",
+      "web_page": "http://www.kubstu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Kurgan International University",
+      "slug": "kurgan-international",
+      "domain": "kiu.ru",
+      "domains": "kiu.ru",
+      "web_page": "http://www.kiu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Kursk State Medical University",
+      "slug": "kursk-state-medical",
+      "domain": "ksmu.kursknet.ru",
+      "domains": "ksmu.kursknet.ru",
+      "web_page": "http://www.ksmu.kursknet.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Kursk State Technical University",
+      "slug": "kursk-state-technical",
+      "domain": "kstu.kursk.ru",
+      "domains": "kstu.kursk.ru",
+      "web_page": "http://www.kstu.kursk.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Kursk State University",
+      "slug": "kursk-state",
+      "domain": "kursk-uni.ru",
+      "domains": "kursk-uni.ru",
+      "web_page": "http://www.kursk-uni.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Kuzbass State Technical University",
+      "slug": "kuzbass-state-technical",
+      "domain": "kuzstu.ac.ru",
+      "domains": "kuzstu.ac.ru",
+      "web_page": "http://www.kuzstu.ac.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Linguistic University of Nizhny Novgorod",
+      "slug": "linguistic-nizhny-novgorod",
+      "domain": "lunn.sci-nnov.ru",
+      "domains": "lunn.sci-nnov.ru",
+      "web_page": "http://www.lunn.sci-nnov.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Lipeck State Technical University",
+      "slug": "lipeck-state-technical",
+      "domain": "stu.lipetsk.ru",
+      "domains": "stu.lipetsk.ru",
+      "web_page": "http://www.stu.lipetsk.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Lomonosov Moscow State University",
+      "slug": "lomonosov-moscow-state",
+      "domain": "msu.ru",
+      "domains": "msu.ru",
+      "web_page": "https://www.msu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Magnitogorsk State University",
+      "slug": "magnitogorsk-state",
+      "domain": "masu.ru",
+      "domains": "masu.ru",
+      "web_page": "http://www.masu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Marij State Technical University",
+      "slug": "marij-state-technical",
+      "domain": "marstu.mari.ru",
+      "domains": "marstu.mari.ru",
+      "web_page": "http://www.marstu.mari.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Marij State University",
+      "slug": "marij-state",
+      "domain": "margu.mari.ru",
+      "domains": "margu.mari.ru",
+      "web_page": "http://margu.mari.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Maxim Gorky Institute of Literature",
+      "slug": "maxim-gorky-institute-literature",
+      "domain": "filine.centro.ru",
+      "domains": "filine.centro.ru",
+      "web_page": "http://filine.centro.ru/Gorky/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Mendeleev Russian University of Chemical Technology",
+      "slug": "mendeleev-russian-chemical-technology",
+      "domain": "muctr.edu.ru",
+      "domains": "muctr.edu.ru",
+      "web_page": "http://www.muctr.edu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Modern Institute of Managament",
+      "slug": "modern-institute-managament",
+      "domain": "miom.org",
+      "domains": "miom.org",
+      "web_page": "http://miom.org/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Modern University for the Humanities",
+      "slug": "modern-humanities",
+      "domain": "muh.ru",
+      "domains": "muh.ru",
+      "web_page": "http://www.muh.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Mordovian State University",
+      "slug": "mordovian-state",
+      "domain": "mrsu.ru",
+      "domains": "mrsu.ru",
+      "web_page": "http://www.mrsu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow External University of the Humanities",
+      "slug": "moscow-external-humanities",
+      "domain": "mosgu.ru",
+      "domains": "mosgu.ru",
+      "web_page": "https://mosgu.ru/en/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow Institute of Physics and Technology",
+      "slug": "moscow-institute-physics-technology",
+      "domain": "mipt.ru",
+      "domains": "mipt.ru, phystech.edu",
+      "web_page": "http://www.mipt.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow International Higher Business School (MIRBIS)",
+      "slug": "moscow-international-higher-business-school-mirbis",
+      "domain": "mirbis.ru",
+      "domains": "mirbis.ru",
+      "web_page": "http://www.mirbis.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow P. I. Tchaikovsky Conservatory",
+      "slug": "moscow-p-tchaikovsky-conservatory",
+      "domain": "mosconsv.ru",
+      "domains": "mosconsv.ru",
+      "web_page": "http://www.mosconsv.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow Pedagogical State University",
+      "slug": "moscow-pedagogical-state",
+      "domain": "mpgu.su",
+      "domains": "mpgu.su",
+      "web_page": "http://en.mpgu.su/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow Power Engineering Institute (Technical University)",
+      "slug": "moscow-power-engineering-institute-technical",
+      "domain": "mpei.ac.ru",
+      "domains": "mpei.ac.ru",
+      "web_page": "http://www.mpei.ac.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow State Academy of Applied Biotechnology",
+      "slug": "moscow-state-academy-applied-biotechnology",
+      "domain": "msaab.ru",
+      "domains": "msaab.ru",
+      "web_page": "http://www.msaab.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow State Automobile and Road Technical University",
+      "slug": "moscow-state-automobile-road-technical",
+      "domain": "madi.ru",
+      "domains": "madi.ru",
+      "web_page": "http://www.madi.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow State Industrial University",
+      "slug": "moscow-state-industrial",
+      "domain": "msiu.ru",
+      "domains": "msiu.ru",
+      "web_page": "http://www.msiu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow State Institute of International Relations MFA Russia (MGIMO-University)",
+      "slug": "moscow-state-institute-international-relations-mfa-russia-mgimo",
+      "domain": "mgimo.ru",
+      "domains": "mgimo.ru",
+      "web_page": "http://www.mgimo.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow State Institute of Radiotechnics, Electronics and Automation (Technical University)",
+      "slug": "moscow-state-institute-radiotechnics-electronics-automation-technical",
+      "domain": "mirea.ru",
+      "domains": "mirea.ru",
+      "web_page": "http://www.mirea.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow State Institute of Steel and Alloys",
+      "slug": "moscow-state-institute-steel-alloys",
+      "domain": "misis.ru",
+      "domains": "misis.ru",
+      "web_page": "http://www.misis.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow State Technical University of Civil Aviation",
+      "slug": "moscow-state-technical-civil-aviation",
+      "domain": "mstuca.ru",
+      "domains": "mstuca.ru",
+      "web_page": "http://www.mstuca.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow State Textile University A.N. Kosygin",
+      "slug": "moscow-state-textile-a-n-kosygin",
+      "domain": "msta.ac.ru",
+      "domains": "msta.ac.ru",
+      "web_page": "http://www.msta.ac.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow State University of Civil Engineering",
+      "slug": "moscow-state-civil-engineering",
+      "domain": "mgsu.norna.ru",
+      "domains": "mgsu.norna.ru",
+      "web_page": "http://mgsu.norna.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow State University of Commerce",
+      "slug": "moscow-state-commerce",
+      "domain": "rsute.ru",
+      "domains": "rsute.ru",
+      "web_page": "http://www.rsute.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow State University of Culture",
+      "slug": "moscow-state-culture",
+      "domain": "msuc.edu.ru",
+      "domains": "msuc.edu.ru",
+      "web_page": "http://www.msuc.edu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow State University of Ecological Engineering",
+      "slug": "moscow-state-ecological-engineering",
+      "domain": "msuie.ru",
+      "domains": "msuie.ru",
+      "web_page": "http://www.msuie.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow State University of Economics, Statistics and Informatics",
+      "slug": "moscow-state-economics-statistics-informatics",
+      "domain": "mesi.ru",
+      "domains": "mesi.ru",
+      "web_page": "http://www.mesi.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow State University of Environmental Engineering",
+      "slug": "moscow-state-environmental-engineering",
+      "domain": "msuee.ru",
+      "domains": "msuee.ru",
+      "web_page": "http://www.msuee.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow State University of Forestry Engineering",
+      "slug": "moscow-state-forestry-engineering",
+      "domain": "mgul.ac.ru",
+      "domains": "mgul.ac.ru",
+      "web_page": "http://www.mgul.ac.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow State University of Geodesy and Cartography",
+      "slug": "moscow-state-geodesy-cartography",
+      "domain": "miigaik.ru",
+      "domains": "miigaik.ru",
+      "web_page": "http://www.miigaik.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow State University of Railway Transport",
+      "slug": "moscow-state-railway-transport",
+      "domain": "miit.ru",
+      "domains": "miit.ru",
+      "web_page": "http://www.miit.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow State University of Technology (Stankin)",
+      "slug": "moscow-state-technology-stankin",
+      "domain": "stankin.ru",
+      "domains": "stankin.ru",
+      "web_page": "http://www.stankin.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow Technical University of Informatics and Communication",
+      "slug": "moscow-technical-informatics-communication",
+      "domain": "mtuci.ru",
+      "domains": "mtuci.ru",
+      "web_page": "http://www.mtuci.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow University for Industry and Finance “Synergy”",
+      "slug": "moscow-industry-finance-synergy",
+      "domain": "synergy.ru",
+      "domains": "synergy.ru, synergy.university",
+      "web_page": "https://synergy.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Moscow University Touro",
+      "slug": "moscow-touro",
+      "domain": "touro.ru",
+      "domains": "touro.ru",
+      "web_page": "http://www.touro.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Murmansk State Technical University",
+      "slug": "murmansk-state-technical",
+      "domain": "mstu.edu.ru",
+      "domains": "mstu.edu.ru",
+      "web_page": "http://www.mstu.edu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "National Research University of Electronic Technology",
+      "slug": "national-research-electronic-technology",
+      "domain": "miet.ru",
+      "domains": "miet.ru",
+      "web_page": "http://www.miet.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Nayanova University",
+      "slug": "nayanova",
+      "domain": "nayanova.edu",
+      "domains": "nayanova.edu",
+      "web_page": "http://www.nayanova.edu/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Nevsky Institute of Language and Culture",
+      "slug": "nevsky-institute-language-culture",
+      "domain": "nilc.spb.ru",
+      "domains": "nilc.spb.ru",
+      "web_page": "http://www.nilc.spb.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "New Economic School",
+      "slug": "new-economic-school",
+      "domain": "nes.ru",
+      "domains": "nes.ru",
+      "web_page": "http://www.nes.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "NGO Vladikavkaz Institute of Economics, Management, and Law",
+      "slug": "ngo-vladikavkaz-institute-economics-management-law",
+      "domain": "vieup.ru",
+      "domains": "vieup.ru",
+      "web_page": "http://www.vieup.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Nizhny Novgorod State Academy of Medicine",
+      "slug": "nizhny-novgorod-state-academy-medicine",
+      "domain": "n-nov.mednet.com",
+      "domains": "n-nov.mednet.com",
+      "web_page": "http://www.n-nov.mednet.com/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Nizhny Novgorod State Architectural - Building University",
+      "slug": "nizhny-novgorod-state-architectural-building",
+      "domain": "ngasu.sci-nnov.ru",
+      "domains": "ngasu.sci-nnov.ru",
+      "web_page": "http://www.ngasu.sci-nnov.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Nizhny Novgorod State Technical University",
+      "slug": "nizhny-novgorod-state-technical",
+      "domain": "nntu.sci-nnov.ru",
+      "domains": "nntu.sci-nnov.ru",
+      "web_page": "http://www.nntu.sci-nnov.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Nizhny Novgorod State University",
+      "slug": "nizhny-novgorod-state",
+      "domain": "unn.ac.ru",
+      "domains": "unn.ac.ru",
+      "web_page": "http://www.unn.ac.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "North Ossetian State University",
+      "slug": "north-ossetian-state",
+      "domain": "nosu.ru",
+      "domains": "nosu.ru",
+      "web_page": "http://www.nosu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "North-West State Technical University",
+      "slug": "north-west-state-technical",
+      "domain": "nwpi.ru",
+      "domains": "nwpi.ru",
+      "web_page": "http://www.nwpi.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Northern State Medical University",
+      "slug": "northern-state-medical",
+      "domain": "nsmu.ru",
+      "domains": "nsmu.ru",
+      "web_page": "http://www.nsmu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Novgorod State University",
+      "slug": "novgorod-state",
+      "domain": "novsu.ac.ru",
+      "domains": "novsu.ac.ru",
+      "web_page": "http://www.novsu.ac.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Novosibirsk State Academy of Economics and Management",
+      "slug": "novosibirsk-state-academy-economics-management",
+      "domain": "cit.drbit.com.ru",
+      "domains": "cit.drbit.com.ru",
+      "web_page": "http://cit.drbit.com.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Novosibirsk State Agricultural University",
+      "slug": "novosibirsk-state-agricultural",
+      "domain": "nsau.edu.ru",
+      "domains": "nsau.edu.ru",
+      "web_page": "http://www.nsau.edu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Novosibirsk State Medical Academy",
+      "slug": "novosibirsk-state-medical-academy",
+      "domain": "medin.nsc.ru",
+      "domains": "medin.nsc.ru",
+      "web_page": "http://www.medin.nsc.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Novosibirsk State Music Academy M. Glinka",
+      "slug": "novosibirsk-state-music-academy-m-glinka",
+      "domain": "conservatoire.ru",
+      "domains": "conservatoire.ru",
+      "web_page": "http://www.conservatoire.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Novosibirsk State Technical University",
+      "slug": "novosibirsk-state-technical",
+      "domain": "nstu.ru",
+      "domains": "nstu.ru",
+      "web_page": "http://www.nstu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Novosibirsk State University",
+      "slug": "novosibirsk-state",
+      "domain": "nsu.ru",
+      "domains": "nsu.ru, g.nsu.ru",
+      "web_page": "http://www.nsu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Obninsk State Technical University for Nuclear Power Engineering",
+      "slug": "obninsk-state-technical-nuclear-power-engineering",
+      "domain": "iate.obninsk.ru",
+      "domains": "iate.obninsk.ru",
+      "web_page": "http://www.iate.obninsk.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Omsk State Agrarian University",
+      "slug": "omsk-state-agrarian",
+      "domain": "omgau.ru",
+      "domains": "omgau.ru",
+      "web_page": "http://www.omgau.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Omsk State Medicical Academy",
+      "slug": "omsk-state-medicical-academy",
+      "domain": "omsk-osma.ru",
+      "domains": "omsk-osma.ru",
+      "web_page": "http://www.omsk-osma.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Omsk State Pedagogical University",
+      "slug": "omsk-state-pedagogical",
+      "domain": "omsk.edu",
+      "domains": "omsk.edu",
+      "web_page": "http://www.omsk.edu/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Omsk State Technical University",
+      "slug": "omsk-state-technical",
+      "domain": "omgtu.ru",
+      "domains": "omgtu.ru",
+      "web_page": "http://www.omgtu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Omsk State Transport University",
+      "slug": "omsk-state-transport",
+      "domain": "omgups.ru",
+      "domains": "omgups.ru",
+      "web_page": "http://www.omgups.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Omsk State University",
+      "slug": "omsk-state",
+      "domain": "univer.omsk.su",
+      "domains": "univer.omsk.su",
+      "web_page": "http://www.univer.omsk.su/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Orenburg State University",
+      "slug": "orenburg-state",
+      "domain": "osu.ru",
+      "domains": "osu.ru",
+      "web_page": "http://www.osu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Oriental University",
+      "slug": "oriental",
+      "domain": "orun.ru",
+      "domains": "orun.ru",
+      "web_page": "http://www.orun.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Penza State University",
+      "slug": "penza-state",
+      "domain": "pnzgu.ru",
+      "domains": "pnzgu.ru",
+      "web_page": "http://www.pnzgu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "People' s Friendship University of Russia",
+      "slug": "people-s-friendship-russia",
+      "domain": "pfu.edu.ru",
+      "domains": "pfu.edu.ru",
+      "web_page": "http://www.pfu.edu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Perm State Medical Academy",
+      "slug": "perm-state-medical-academy",
+      "domain": "psma.ru",
+      "domains": "psma.ru",
+      "web_page": "http://www.psma.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Perm State Pedagogical University",
+      "slug": "perm-state-pedagogical",
+      "domain": "pspu.ac.ru",
+      "domains": "pspu.ac.ru",
+      "web_page": "http://www.pspu.ac.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Perm State Pharmaceutical Academy",
+      "slug": "perm-state-pharmaceutical-academy",
+      "domain": "psfa.ru",
+      "domains": "psfa.ru",
+      "web_page": "http://www.psfa.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Perm State Technical University",
+      "slug": "perm-state-technical",
+      "domain": "pstu.ac.ru",
+      "domains": "pstu.ac.ru",
+      "web_page": "http://www.pstu.ac.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Perm State University",
+      "slug": "perm-state",
+      "domain": "psu.ru",
+      "domains": "psu.ru",
+      "web_page": "http://www.psu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Petrozavodsk State University",
+      "slug": "petrozavodsk-state",
+      "domain": "karelia.ru",
+      "domains": "karelia.ru",
+      "web_page": "http://www.karelia.ru/psu/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Pjatigorsk State Linguistic University",
+      "slug": "pjatigorsk-state-linguistic",
+      "domain": "pglu.ru",
+      "domains": "pglu.ru",
+      "web_page": "http://www.pglu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Plekhanov Russian Academy of Economics",
+      "slug": "plekhanov-russian-academy-economics",
+      "domain": "rea.ru",
+      "domains": "rea.ru",
+      "web_page": "http://www.rea.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Pomor State University",
+      "slug": "pomor-state",
+      "domain": "pomorsu.ru",
+      "domains": "pomorsu.ru",
+      "web_page": "http://www.pomorsu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Rostov State Medical University",
+      "slug": "rostov-state-medical",
+      "domain": "rsmu.da.ru",
+      "domains": "rsmu.da.ru",
+      "web_page": "http://www.rsmu.da.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Rostov State University",
+      "slug": "rostov-state",
+      "domain": "rsu.ru",
+      "domains": "rsu.ru",
+      "web_page": "http://www.rsu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Russian Academy of Arts",
+      "slug": "russian-academy-arts",
+      "domain": "rah.ru",
+      "domains": "rah.ru",
+      "web_page": "http://www.rah.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Russian Academy of Theatre Arts",
+      "slug": "russian-academy-theatre-arts",
+      "domain": "gitis.net",
+      "domains": "gitis.net",
+      "web_page": "http://www.gitis.net/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Russian Customs Academy, Vladivostok Branch",
+      "slug": "russian-customs-academy-vladivostok-branch",
+      "domain": "vfrta.ru",
+      "domains": "vfrta.ru",
+      "web_page": "http://www.vfrta.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Russian State Geological Prospecting University",
+      "slug": "russian-state-geological-prospecting",
+      "domain": "mgri-rggru.ru",
+      "domains": "mgri-rggru.ru",
+      "web_page": "http://www.mgri-rggru.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Russian State Hydrometeorological University",
+      "slug": "russian-state-hydrometeorological",
+      "domain": "rshu.ru",
+      "domains": "rshu.ru",
+      "web_page": "http://www.rshu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Russian State Medical University",
+      "slug": "russian-state-medical",
+      "domain": "rsmu.ru",
+      "domains": "rsmu.ru",
+      "web_page": "http://www.rsmu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Russian State University for the Humanities",
+      "slug": "russian-state-humanities",
+      "domain": "rsuh.ru",
+      "domains": "rsuh.ru",
+      "web_page": "http://www.rsuh.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Ryazan State Pedagogical University",
+      "slug": "ryazan-state-pedagogical",
+      "domain": "ttc.ryazan.ru",
+      "domains": "ttc.ryazan.ru",
+      "web_page": "http://www.ttc.ryazan.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Rybinsk State Academy of Aviational Technology",
+      "slug": "rybinsk-state-academy-aviational-technology",
+      "domain": "rgata.yaroslavl.ru",
+      "domains": "rgata.yaroslavl.ru",
+      "web_page": "http://www.rgata.yaroslavl.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Sakhalin State University",
+      "slug": "sakhalin-state",
+      "domain": "sakhgu.sakhalin.ru",
+      "domains": "sakhgu.sakhalin.ru",
+      "web_page": "http://www.sakhgu.sakhalin.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Samara State Academy for Railway Transportation",
+      "slug": "samara-state-academy-railway-transportation",
+      "domain": "samiit.ru",
+      "domains": "samiit.ru",
+      "web_page": "http://www.samiit.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Samara State Academy of Architecture and Civil Engineering",
+      "slug": "samara-state-academy-architecture-civil-engineering",
+      "domain": "ssaba.smr.ru",
+      "domains": "ssaba.smr.ru",
+      "web_page": "http://www.ssaba.smr.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Samara State Aerospace University",
+      "slug": "samara-state-aerospace",
+      "domain": "ssau.ru",
+      "domains": "ssau.ru, samara.university",
+      "web_page": "https://ssau.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Samara State Agricultural Academy",
+      "slug": "samara-state-agricultural-academy",
+      "domain": "ssaa.ru",
+      "domains": "ssaa.ru",
+      "web_page": "http://www.ssaa.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Samara State Medical University",
+      "slug": "samara-state-medical",
+      "domain": "samsmu.ru",
+      "domains": "samsmu.ru",
+      "web_page": "http://www.samsmu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Samara State Technical University",
+      "slug": "samara-state-technical",
+      "domain": "sstu.samara.ru",
+      "domains": "sstu.samara.ru",
+      "web_page": "http://www.sstu.samara.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Samara State University",
+      "slug": "samara-state",
+      "domain": "ssu.samara.ru",
+      "domains": "ssu.samara.ru",
+      "web_page": "http://www.ssu.samara.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Samara State University of Economics",
+      "slug": "samara-state-economics",
+      "domain": "sseu.ru",
+      "domains": "sseu.ru",
+      "web_page": "http://www.sseu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Samara State University of Teacher Training",
+      "slug": "samara-state-teacher-training",
+      "domain": "ssttu.samara.ru",
+      "domains": "ssttu.samara.ru",
+      "web_page": "http://www.ssttu.samara.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Saratov State Academy of Law",
+      "slug": "saratov-state-academy-law",
+      "domain": "sgap.ru",
+      "domains": "sgap.ru",
+      "web_page": "http://www.sgap.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Saratov State Agrarian University",
+      "slug": "saratov-state-agrarian",
+      "domain": "sgau.ru",
+      "domains": "sgau.ru",
+      "web_page": "http://www.sgau.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Saratov State Medical University",
+      "slug": "saratov-state-medical",
+      "domain": "med.sgu.ru",
+      "domains": "med.sgu.ru",
+      "web_page": "http://www.med.sgu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Saratov State Socio-Economic University",
+      "slug": "saratov-state-socio-economic",
+      "domain": "ssea.runnet.ru",
+      "domains": "ssea.runnet.ru",
+      "web_page": "http://www.ssea.runnet.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Saratov State Technical University",
+      "slug": "saratov-state-technical",
+      "domain": "sstu-edu.ru",
+      "domains": "sstu-edu.ru",
+      "web_page": "http://www.sstu-edu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Saratov State University",
+      "slug": "saratov-state",
+      "domain": "sgu.ru",
+      "domains": "sgu.ru",
+      "web_page": "http://www.sgu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Shemyakin–Ovchinnikov Institute of bioorganic chemistry RAS",
+      "slug": "shemyakin-ovchinnikov-institute-bioorganic-chemistry-ras",
+      "domain": "ibch.ru",
+      "domains": "ibch.ru",
+      "web_page": "http://www.ibch.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Siberian Academy of Public Services",
+      "slug": "siberian-academy-public-services",
+      "domain": "sapanet.ru",
+      "domains": "sapanet.ru",
+      "web_page": "http://www.sapanet.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Siberian State Industrial University",
+      "slug": "siberian-state-industrial",
+      "domain": "sibsiu.kemerovo.su",
+      "domains": "sibsiu.kemerovo.su",
+      "web_page": "http://sibsiu.kemerovo.su/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Siberian State Medical University",
+      "slug": "siberian-state-medical",
+      "domain": "ssmu.ru",
+      "domains": "ssmu.ru",
+      "web_page": "http://www.ssmu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Siberian State Transport University",
+      "slug": "siberian-state-transport",
+      "domain": "stu.ru",
+      "domains": "stu.ru",
+      "web_page": "http://www.stu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Siberian State University of Telecommunications and Informatics",
+      "slug": "siberian-state-telecommunications-informatics",
+      "domain": "neic.nsk.su",
+      "domains": "neic.nsk.su",
+      "web_page": "http://www.neic.nsk.su/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Skrjabin Moscow State Academy of Veterinary Medicine and Biotechnology",
+      "slug": "skrjabin-moscow-state-academy-veterinary-medicine-biotechnology",
+      "domain": "mgavm.ru",
+      "domains": "mgavm.ru",
+      "web_page": "http://www.mgavm.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Smolensk Humanitarian University",
+      "slug": "smolensk-humanitarian",
+      "domain": "shu.smolensk.su",
+      "domains": "shu.smolensk.su",
+      "web_page": "http://shu.smolensk.su/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Smolensk State Medical Academy",
+      "slug": "smolensk-state-medical-academy",
+      "domain": "sgma.info",
+      "domains": "sgma.info",
+      "web_page": "http://www.sgma.info/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Smolny University",
+      "slug": "smolny",
+      "domain": "smolny-un.spb.ru",
+      "domains": "smolny-un.spb.ru",
+      "web_page": "http://www.smolny-un.spb.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Southern Ural State University",
+      "slug": "southern-ural-state",
+      "domain": "tu-chel.ac.ru",
+      "domains": "tu-chel.ac.ru",
+      "web_page": "http://www.tu-chel.ac.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg Institute of Arts and Restoration",
+      "slug": "st-petersburg-institute-arts-restoration",
+      "domain": "spbiir.ru",
+      "domains": "spbiir.ru",
+      "web_page": "http://www.spbiir.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg Institute of Sales Management and Economics",
+      "slug": "st-petersburg-institute-sales-management-economics",
+      "domain": "spbtei.ru",
+      "domains": "spbtei.ru",
+      "web_page": "http://www.spbtei.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg Repin State Academic Institute of Painting Sculpture and Achitecture",
+      "slug": "st-petersburg-repin-state-academic-institute-painting-sculpture-achitecture",
+      "domain": "artacademy.spb.ru",
+      "domains": "artacademy.spb.ru",
+      "web_page": "http://artacademy.spb.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg State Agrarian University",
+      "slug": "st-petersburg-state-agrarian",
+      "domain": "spbgau.spb.ru",
+      "domains": "spbgau.spb.ru",
+      "web_page": "http://www.spbgau.spb.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg State Chemical Pharmaceutical Academy",
+      "slug": "st-petersburg-state-chemical-pharmaceutical-academy",
+      "domain": "spcpa.ru",
+      "domains": "spcpa.ru",
+      "web_page": "http://www.spcpa.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg State Cinema and TV University",
+      "slug": "st-petersburg-state-cinema-tv",
+      "domain": "gukit.ru",
+      "domains": "gukit.ru",
+      "web_page": "http://www.gukit.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg State Conservatory",
+      "slug": "st-petersburg-state-conservatory",
+      "domain": "conservatory.ru",
+      "domains": "conservatory.ru",
+      "web_page": "http://www.conservatory.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg State Electrotechnical University",
+      "slug": "st-petersburg-state-electrotechnical",
+      "domain": "eltech.ru",
+      "domains": "eltech.ru",
+      "web_page": "http://www.eltech.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg State Forest-Technical Academy",
+      "slug": "st-petersburg-state-forest-technical-academy",
+      "domain": "ftacademy.ru",
+      "domains": "ftacademy.ru",
+      "web_page": "http://www.ftacademy.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg State Institute of Technology (Technological University)",
+      "slug": "st-petersburg-state-institute-technology-technological",
+      "domain": "gti.spb.ru",
+      "domains": "gti.spb.ru",
+      "web_page": "http://www.gti.spb.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg State Marine Technical University",
+      "slug": "st-petersburg-state-marine-technical",
+      "domain": "smtu.ru",
+      "domains": "smtu.ru",
+      "web_page": "http://www.smtu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg State Medical Academy",
+      "slug": "st-petersburg-state-medical-academy",
+      "domain": "mechnik.spb.ru",
+      "domains": "mechnik.spb.ru",
+      "web_page": "http://www.mechnik.spb.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg State Mining Institute (Technical University)",
+      "slug": "st-petersburg-state-mining-institute-technical",
+      "domain": "spmi.edu.ru",
+      "domains": "spmi.edu.ru",
+      "web_page": "http://www.spmi.edu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg State Mountain Institut",
+      "slug": "st-petersburg-state-mountain-institut",
+      "domain": "gorny-ins.ru",
+      "domains": "gorny-ins.ru",
+      "web_page": "http://www.gorny-ins.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg State Pediatric Medical Academy",
+      "slug": "st-petersburg-state-pediatric-medical-academy",
+      "domain": "gpma.ru",
+      "domains": "gpma.ru",
+      "web_page": "http://www.gpma.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg State Polytechnical University",
+      "slug": "st-petersburg-state-polytechnical",
+      "domain": "spbstu.ru",
+      "domains": "spbstu.ru",
+      "web_page": "http://www.spbstu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg State Technical University",
+      "slug": "st-petersburg-state-technical",
+      "domain": "unilib.neva.ru",
+      "domains": "unilib.neva.ru",
+      "web_page": "http://www.unilib.neva.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg State Technological University of Plant Polymers",
+      "slug": "st-petersburg-state-technological-plant-polymers",
+      "domain": "gturp.spb.ru",
+      "domains": "gturp.spb.ru",
+      "web_page": "http://www.gturp.spb.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg State Theatre Arts Academy",
+      "slug": "st-petersburg-state-theatre-arts-academy",
+      "domain": "tart.spb.ru",
+      "domains": "tart.spb.ru",
+      "web_page": "http://www.tart.spb.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg State University",
+      "slug": "st-petersburg-state",
+      "domain": "spbu.ru",
+      "domains": "spbu.ru",
+      "web_page": "http://www.spbu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg State University of Aerospace Instrumentation",
+      "slug": "st-petersburg-state-aerospace-instrumentation",
+      "domain": "suai.ru",
+      "domains": "suai.ru",
+      "web_page": "http://www.suai.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg State University of Architecture and Civil Engineering",
+      "slug": "st-petersburg-state-architecture-civil-engineering",
+      "domain": "spbgasu.ru",
+      "domains": "spbgasu.ru",
+      "web_page": "http://www.spbgasu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg State University of Civil Aviation",
+      "slug": "st-petersburg-state-civil-aviation",
+      "domain": "academiaga.ru",
+      "domains": "academiaga.ru",
+      "web_page": "http://www.academiaga.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg State University of Culture and Arts",
+      "slug": "st-petersburg-state-culture-arts",
+      "domain": "spbguki.ru",
+      "domains": "spbguki.ru",
+      "web_page": "http://www.spbguki.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg State University of Economics and Finance",
+      "slug": "st-petersburg-state-economics-finance",
+      "domain": "uef.ru",
+      "domains": "uef.ru",
+      "web_page": "http://www.uef.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg State University of Engineering and Economics",
+      "slug": "st-petersburg-state-engineering-economics",
+      "domain": "engec.ru",
+      "domains": "engec.ru",
+      "web_page": "http://www.engec.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg State University of Technology and Design",
+      "slug": "st-petersburg-state-technology-design",
+      "domain": "sutd.ru",
+      "domains": "sutd.ru",
+      "web_page": "http://www.sutd.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg State University of Telecommunication",
+      "slug": "st-petersburg-state-telecommunication",
+      "domain": "sut.ru",
+      "domains": "sut.ru",
+      "web_page": "http://www.sut.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg State University of Waterway Communications",
+      "slug": "st-petersburg-state-waterway-communications",
+      "domain": "spbuwc.ru",
+      "domains": "spbuwc.ru",
+      "web_page": "http://www.spbuwc.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "St. Petersburg StateMechnikov Medical Academy",
+      "slug": "st-petersburg-statemechnikov-medical-academy",
+      "domain": "spsmma.com",
+      "domains": "spsmma.com",
+      "web_page": "http://www.spsmma.com/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "State Maritine Academy",
+      "slug": "state-maritine-academy",
+      "domain": "gma.ru",
+      "domains": "gma.ru",
+      "web_page": "http://www.gma.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "State University of Aerospace Technologies",
+      "slug": "state-aerospace-technologies",
+      "domain": "intstudy.mai.ru",
+      "domains": "intstudy.mai.ru",
+      "web_page": "http://www.intstudy.mai.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "State University of Management",
+      "slug": "state-management",
+      "domain": "guu.ru",
+      "domains": "guu.ru",
+      "web_page": "http://www.guu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Stavropol State Technical University",
+      "slug": "stavropol-state-technical",
+      "domain": "ncstu.ru",
+      "domains": "ncstu.ru",
+      "web_page": "http://www.ncstu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Stavropol State University",
+      "slug": "stavropol-state",
+      "domain": "stavsu.ru",
+      "domains": "stavsu.ru",
+      "web_page": "http://www.stavsu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Surgut State University",
+      "slug": "surgut-state",
+      "domain": "surgu.wsnet.ru",
+      "domains": "surgu.wsnet.ru",
+      "web_page": "http://www.surgu.wsnet.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Syktyvkar State University",
+      "slug": "syktyvkar-state",
+      "domain": "ssu.komi.com",
+      "domains": "ssu.komi.com",
+      "web_page": "http://ssu.komi.com:8101/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Taganrog State Pedagogical Institute",
+      "slug": "taganrog-state-pedagogical-institute",
+      "domain": "tgpi.ttn.ru",
+      "domains": "tgpi.ttn.ru",
+      "web_page": "http://www.tgpi.ttn.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Taganrog State University of Radioengineering",
+      "slug": "taganrog-state-radioengineering",
+      "domain": "tsure.ru",
+      "domains": "tsure.ru",
+      "web_page": "http://www.tsure.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Tambov State Technical University",
+      "slug": "tambov-state-technical",
+      "domain": "tstu.ru",
+      "domains": "tstu.ru",
+      "web_page": "http://www.tstu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Timirjazev Moscow Academy of Agricultutre",
+      "slug": "timirjazev-moscow-academy-agricultutre",
+      "domain": "timacad.ru",
+      "domains": "timacad.ru",
+      "web_page": "http://www.timacad.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Togliatti State University",
+      "slug": "togliatti-state",
+      "domain": "tltsu.ru",
+      "domains": "tltsu.ru",
+      "web_page": "http://www.tltsu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Tomsk Polytechnic University",
+      "slug": "tomsk-polytechnic",
+      "domain": "tpu.ru",
+      "domains": "tpu.ru",
+      "web_page": "http://www.tpu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Tomsk State Pedagogical University",
+      "slug": "tomsk-state-pedagogical",
+      "domain": "tspu.edu.ru",
+      "domains": "tspu.edu.ru",
+      "web_page": "http://www.tspu.edu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Tomsk State University",
+      "slug": "tomsk-state",
+      "domain": "tsu.ru",
+      "domains": "tsu.ru",
+      "web_page": "http://www.tsu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Tomsk State University of Architecture and Building",
+      "slug": "tomsk-state-architecture-building",
+      "domain": "tsuab.ru",
+      "domains": "tsuab.ru",
+      "web_page": "http://www.tsuab.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Tomsk State University of Control Systems and Radioelectronics",
+      "slug": "tomsk-state-control-systems-radioelectronics",
+      "domain": "tusur.ru",
+      "domains": "tusur.ru",
+      "web_page": "http://www.tusur.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Tula State University",
+      "slug": "tula-state",
+      "domain": "tsu.tula.ru",
+      "domains": "tsu.tula.ru",
+      "web_page": "http://www.tsu.tula.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Tuva State University",
+      "slug": "tuva-state",
+      "domain": "tuvsu.ru",
+      "domains": "tuvsu.ru",
+      "web_page": "http://tuvsu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Tver State Medical Academy",
+      "slug": "tver-state-medical-academy",
+      "domain": "tsma.ru",
+      "domains": "tsma.ru",
+      "web_page": "http://www.tsma.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Tver State Technical University",
+      "slug": "tver-state-technical",
+      "domain": "tstu.tver.ru",
+      "domains": "tstu.tver.ru",
+      "web_page": "http://www.tstu.tver.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Tver State University",
+      "slug": "tver-state",
+      "domain": "university.tversu.ru",
+      "domains": "university.tversu.ru",
+      "web_page": "http://university.tversu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Tyumen State Agricultural Academy",
+      "slug": "tyumen-state-agricultural-academy",
+      "domain": "tgsha.ru",
+      "domains": "tgsha.ru",
+      "web_page": "http://www.tgsha.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Tyumen State University",
+      "slug": "tyumen-state",
+      "domain": "utmn.ru",
+      "domains": "utmn.ru",
+      "web_page": "https://www.utmn.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Tyumen State University of Gas and Oil",
+      "slug": "tyumen-state-gas-oil",
+      "domain": "tsogu.ru",
+      "domains": "tsogu.ru",
+      "web_page": "http://www.tsogu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Udmurt State University",
+      "slug": "udmurt-state",
+      "domain": "uni.udm.ru",
+      "domains": "uni.udm.ru",
+      "web_page": "http://www.uni.udm.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Ufa State Aviation Technical University",
+      "slug": "ufa-state-aviation-technical",
+      "domain": "ugatu.ac.ru",
+      "domains": "ugatu.ac.ru",
+      "web_page": "http://www.ugatu.ac.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Ufa State Petroleum Technological University",
+      "slug": "ufa-state-petroleum-technological",
+      "domain": "rusoil.net",
+      "domains": "rusoil.net",
+      "web_page": "http://www.rusoil.net/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Ukhta State Technical University",
+      "slug": "ukhta-state-technical",
+      "domain": "uii.sever.ru",
+      "domains": "uii.sever.ru",
+      "web_page": "http://uii.sever.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Ulyanovsk Higher School of Civil Aviation",
+      "slug": "ulyanovsk-higher-school-civil-aviation",
+      "domain": "uvauga.ru",
+      "domains": "uvauga.ru",
+      "web_page": "http://www.uvauga.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Ulyanovsk State Agricultural Academy",
+      "slug": "ulyanovsk-state-agricultural-academy",
+      "domain": "ugsha.ru",
+      "domains": "ugsha.ru",
+      "web_page": "http://www.ugsha.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Ulyanovsk State Pedagogical University",
+      "slug": "ulyanovsk-state-pedagogical",
+      "domain": "ulspu.ru",
+      "domains": "ulspu.ru",
+      "web_page": "http://www.ulspu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Ulyanovsk State Technical University",
+      "slug": "ulyanovsk-state-technical",
+      "domain": "ulstu.ru",
+      "domains": "ulstu.ru",
+      "web_page": "http://www.ulstu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Ulyanovsk State University",
+      "slug": "ulyanovsk-state",
+      "domain": "ulsu.ru",
+      "domains": "ulsu.ru",
+      "web_page": "http://www.ulsu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Ural Academy of Public Administration",
+      "slug": "ural-academy-public-administration",
+      "domain": "uapa.ru",
+      "domains": "uapa.ru",
+      "web_page": "http://www.uapa.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Ural Federal University",
+      "slug": "ural-federal",
+      "domain": "urfu.ru",
+      "domains": "urfu.ru",
+      "web_page": "https://urfu.ru",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Ural Gorkij State University",
+      "slug": "ural-gorkij-state",
+      "domain": "usu.ru",
+      "domains": "usu.ru",
+      "web_page": "http://www.usu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Ural State Academy of Architecture and Arts",
+      "slug": "ural-state-academy-architecture-arts",
+      "domain": "usaaa.ru",
+      "domains": "usaaa.ru",
+      "web_page": "http://www.usaaa.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Ural State Academy of Law",
+      "slug": "ural-state-academy-law",
+      "domain": "usla.ru",
+      "domains": "usla.ru",
+      "web_page": "http://www.usla.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Ural State Academy of Mining and Geology",
+      "slug": "ural-state-academy-mining-geology",
+      "domain": "usmga.ru",
+      "domains": "usmga.ru",
+      "web_page": "http://www.usmga.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Ural State Academy of Railway Transport",
+      "slug": "ural-state-academy-railway-transport",
+      "domain": "usart.ru",
+      "domains": "usart.ru",
+      "web_page": "http://www.usart.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Ural State Conservatory",
+      "slug": "ural-state-conservatory",
+      "domain": "uscon.ru",
+      "domains": "uscon.ru",
+      "web_page": "http://www.uscon.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Ural State Forestry Technical Academy",
+      "slug": "ural-state-forestry-technical-academy",
+      "domain": "usfea.ru",
+      "domains": "usfea.ru",
+      "web_page": "http://www.usfea.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Ural State University of Economics",
+      "slug": "ural-state-economics",
+      "domain": "usue.ru",
+      "domains": "usue.ru",
+      "web_page": "http://www.usue.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Vaganova Academy of Russian Ballet",
+      "slug": "vaganova-academy-russian-ballet",
+      "domain": "kirovballet.com",
+      "domains": "kirovballet.com",
+      "web_page": "http://www.kirovballet.com/vaganova.html",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Vladimir State University",
+      "slug": "vladimir-state",
+      "domain": "vlsu.ru",
+      "domains": "vlsu.ru",
+      "web_page": "http://www.vlsu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Vladivostock State University of Economics",
+      "slug": "vladivostock-state-economics",
+      "domain": "vvsu.ru",
+      "domains": "vvsu.ru",
+      "web_page": "http://www.vvsu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Volga State Academy of Water Transport",
+      "slug": "volga-state-academy-water-transport",
+      "domain": "aqua.sci-nnov.ru",
+      "domains": "aqua.sci-nnov.ru",
+      "web_page": "http://www.aqua.sci-nnov.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Volgograd Medical Academy",
+      "slug": "volgograd-medical-academy",
+      "domain": "avtlg.ru",
+      "domains": "avtlg.ru",
+      "web_page": "http://www.avtlg.ru/~vlgmed/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Volgograd State Academy of Physical Education",
+      "slug": "volgograd-state-academy-physical-education",
+      "domain": "vgafk.ru",
+      "domains": "vgafk.ru",
+      "web_page": "http://www.vgafk.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Volgograd State Pedagogical University",
+      "slug": "volgograd-state-pedagogical",
+      "domain": "vspu.ru",
+      "domains": "vspu.ru",
+      "web_page": "http://www.vspu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Volgograd State Technical University",
+      "slug": "volgograd-state-technical",
+      "domain": "vstu.ru",
+      "domains": "vstu.ru",
+      "web_page": "http://www.vstu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Volgograd State University",
+      "slug": "volgograd-state",
+      "domain": "volsu.ru",
+      "domains": "volsu.ru",
+      "web_page": "http://www.volsu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Volgograd State University of Architecture and Civil Engineering (VolgGASU)",
+      "slug": "volgograd-state-architecture-civil-engineering-volggasu",
+      "domain": "vgasa.ru",
+      "domains": "vgasa.ru",
+      "web_page": "http://www.vgasa.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Vologda State Pedagogical University",
+      "slug": "vologda-state-pedagogical",
+      "domain": "uni-vologda.ac.ru",
+      "domains": "uni-vologda.ac.ru",
+      "web_page": "http://www.uni-vologda.ac.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Voronezh State Academy of Technology",
+      "slug": "voronezh-state-academy-technology",
+      "domain": "vgta.vrn.ru",
+      "domains": "vgta.vrn.ru",
+      "web_page": "http://www.vgta.vrn.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Voronezh State Agricultural University",
+      "slug": "voronezh-state-agricultural",
+      "domain": "vsau.ru",
+      "domains": "vsau.ru",
+      "web_page": "http://www.vsau.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Voronezh State Medical Academy",
+      "slug": "voronezh-state-medical-academy",
+      "domain": "vsma.info",
+      "domains": "vsma.info",
+      "web_page": "http://www.vsma.info/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Voronezh State Pedagogical University",
+      "slug": "voronezh-state-pedagogical",
+      "domain": "vspu.ac.ru",
+      "domains": "vspu.ac.ru",
+      "web_page": "http://www.vspu.ac.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Voronezh State Technical University",
+      "slug": "voronezh-state-technical",
+      "domain": "vorstu.ac.ru",
+      "domains": "vorstu.ac.ru",
+      "web_page": "http://www.vorstu.ac.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Voronezh State University",
+      "slug": "voronezh-state",
+      "domain": "vsu.ru",
+      "domains": "vsu.ru",
+      "web_page": "http://www.vsu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Vyatka State Pedagogical University",
+      "slug": "vyatka-state-pedagogical",
+      "domain": "vspu.kirov.ru",
+      "domains": "vspu.kirov.ru",
+      "web_page": "http://www.vspu.kirov.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Yakutsk State University",
+      "slug": "yakutsk-state",
+      "domain": "ysu.ru",
+      "domains": "ysu.ru",
+      "web_page": "http://www.ysu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Yaroslavl International University of Business and New Technologies",
+      "slug": "yaroslavl-international-business-new-technologies",
+      "domain": "iubnt.yar.ru",
+      "domains": "iubnt.yar.ru",
+      "web_page": "http://www.iubnt.yar.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Yaroslavl State Medical Academy",
+      "slug": "yaroslavl-state-medical-academy",
+      "domain": "yma.ac.ru",
+      "domains": "yma.ac.ru",
+      "web_page": "http://www.yma.ac.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Yaroslavl State Pedagogical University",
+      "slug": "yaroslavl-state-pedagogical",
+      "domain": "yspu.yar.ru",
+      "domains": "yspu.yar.ru",
+      "web_page": "http://www.yspu.yar.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Yaroslavl State Technical University",
+      "slug": "yaroslavl-state-technical",
+      "domain": "ystu.yar.ru",
+      "domains": "ystu.yar.ru",
+      "web_page": "http://www.ystu.yar.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Yaroslavl State Theatre Institute",
+      "slug": "yaroslavl-state-theatre-institute",
+      "domain": "theatrins-yar.ru",
+      "domains": "theatrins-yar.ru",
+      "web_page": "http://www.theatrins-yar.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Yaroslavl State University",
+      "slug": "yaroslavl-state",
+      "domain": "uniyar.ac.ru",
+      "domains": "uniyar.ac.ru",
+      "web_page": "http://www.uniyar.ac.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Yelets State University",
+      "slug": "yelets-state",
+      "domain": "elsu.ru",
+      "domains": "elsu.ru",
+      "web_page": "http://www.elsu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    },
+    {
+      "name": "Yugra State University",
+      "slug": "yugra-state",
+      "domain": "ugrasu.ru",
+      "domains": "ugrasu.ru",
+      "web_page": "http://www.ugrasu.ru/",
+      "country": "Russian Federation",
+      "country_code": "RU",
+      "state_province": ""
+    }
+  ],
+  "meta": {
+    "title": "Россия — Университеты и высшие учебные заведения - Бесплатная загрузка",
+    "description": "Перечень университетов и высших учебных заведений Российской Федерации. Каждая запись содержит наименование учреждения (латиницей/на английском), основной зарегистрированный домен, полный список доменов, основную веб-страницу, код страны (ISO-3166-1 alpha-2) и субъект федерации (если он указан в источнике). Извлечено путём фильтрации глобального набора данных Hipo/university-domains-list (country == \"Russian Federation\"). Содержит 309 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Россия — Университеты и высшие учебные заведения | ListBase",
+    "seo_description": "Скачать Россия — Университеты и высшие учебные заведения — 309 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 309 записей / 8 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

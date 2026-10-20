@@ -1,0 +1,269 @@
+{
+  "id": "ru-tulskaya-oblast-aeroporty",
+  "name": "Аэропорты — Tula Oblast (RU-TUL)",
+  "title": "Аэропорты — Tula Oblast (RU-TUL)",
+  "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Tula Oblast (ISO 3166-2 RU-TUL) — 6 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"closed\": 2, \"small_airport\": 4}. Извлечено из OurAirports.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 44387,
+      "ident": "RU-0130",
+      "type": "closed",
+      "name": "Yefremov Air Base",
+      "latitude_deg": 53.115002,
+      "longitude_deg": 38.243,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-TUL",
+      "region_local_code": "TUL",
+      "region_name": "Tula Oblast",
+      "municipality": "Yefremov",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Efremov Air Base, Аэродром Ефремов, XUWE"
+    },
+    {
+      "id": 44918,
+      "ident": "RU-0224",
+      "type": "small_airport",
+      "name": "Pakhomovo Airfield",
+      "latitude_deg": 54.625,
+      "longitude_deg": 37.575,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-TUL",
+      "region_local_code": "TUL",
+      "region_name": "Tula Oblast",
+      "municipality": "Pakhomovo",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "http://aeroclub.msk.ru/",
+      "wikipedia_link": "",
+      "keywords": "Аэродром Пахомово"
+    },
+    {
+      "id": 44923,
+      "ident": "RU-0228",
+      "type": "small_airport",
+      "name": "Rydoma Airfield",
+      "latitude_deg": 54.260288,
+      "longitude_deg": 37.256187,
+      "elevation_ft": 673,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-TUL",
+      "region_local_code": "TUL",
+      "region_name": "Tula Oblast",
+      "municipality": "Rydomo",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Аэродром Рыдома"
+    },
+    {
+      "id": 44924,
+      "ident": "RU-0229",
+      "type": "small_airport",
+      "name": "Myasnovo Airfield",
+      "latitude_deg": 54.213931,
+      "longitude_deg": 37.553004,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-TUL",
+      "region_local_code": "TUL",
+      "region_name": "Tula Oblast",
+      "municipality": "Tula",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Аэродром Мясново"
+    },
+    {
+      "id": 518074,
+      "ident": "RU-0958",
+      "type": "closed",
+      "name": "Plavsk Airstrip",
+      "latitude_deg": 53.710926,
+      "longitude_deg": 37.12752,
+      "elevation_ft": 797,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-TUL",
+      "region_local_code": "TUL",
+      "region_name": "Tula Oblast",
+      "municipality": "Plavsk",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "ЗАД0, Плавск, ZAD0"
+    },
+    {
+      "id": 42330,
+      "ident": "RU-10050",
+      "type": "small_airport",
+      "name": "Klokovo Air Base",
+      "latitude_deg": 54.239,
+      "longitude_deg": 37.6,
+      "elevation_ft": 499,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-TUL",
+      "region_local_code": "TUL",
+      "region_name": "Tula Oblast",
+      "municipality": "Tula",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "TYA",
+      "gps_code": "",
+      "local_code": "XUBT",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Klokovo_air_base",
+      "keywords": "Аэродром Клоково, UUBT, УУБТ., ЬУБТ, Тула"
+    }
+  ],
+  "meta": {
+    "title": "Аэропорты — Tula Oblast (RU-TUL) - Бесплатная загрузка",
+    "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Tula Oblast (ISO 3166-2 RU-TUL) — 6 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"closed\": 2, \"small_airport\": 4}. Извлечено из OurAirports. Содержит 6 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Аэропорты — Tula Oblast (RU-TUL) | ListBase",
+    "seo_description": "Скачать Аэропорты — Tula Oblast (RU-TUL) — 6 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 6 записей / 21 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

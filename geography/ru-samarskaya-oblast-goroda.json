@@ -1,0 +1,160 @@
+{
+  "id": "ru-samarskaya-oblast-goroda",
+  "name": "Города — Самарская область",
+  "title": "Города — Самарская область",
+  "description": "11 городов региона «Самарская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Жигулевск",
+      "population_thousands": 51.6,
+      "latitude": 53.4011981,
+      "longitude": 49.4945176,
+      "region_name": "Самарская область",
+      "region_iso_code": "RU-SAM",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Кинель",
+      "population_thousands": 35.8,
+      "latitude": 53.2210298,
+      "longitude": 50.6343776,
+      "region_name": "Самарская область",
+      "region_iso_code": "RU-SAM",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Нефтегорск",
+      "population_thousands": 17.9,
+      "latitude": 52.7972914,
+      "longitude": 51.1637392,
+      "region_name": "Самарская область",
+      "region_iso_code": "RU-SAM",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Новокуйбышевск",
+      "population_thousands": 100.5,
+      "latitude": 53.0994565,
+      "longitude": 49.9477382,
+      "region_name": "Самарская область",
+      "region_iso_code": "RU-SAM",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Октябрьск",
+      "population_thousands": 26.3,
+      "latitude": 53.1640488,
+      "longitude": 48.670762,
+      "region_name": "Самарская область",
+      "region_iso_code": "RU-SAM",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Отрадный",
+      "population_thousands": 47.1,
+      "latitude": 53.3800848,
+      "longitude": 51.3438605,
+      "region_name": "Самарская область",
+      "region_iso_code": "RU-SAM",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Похвистнево",
+      "population_thousands": 27.9,
+      "latitude": 53.6498299,
+      "longitude": 52.1235156,
+      "region_name": "Самарская область",
+      "region_iso_code": "RU-SAM",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Самара",
+      "population_thousands": 1156.7,
+      "latitude": 53.1950306,
+      "longitude": 50.1069518,
+      "region_name": "Самарская область",
+      "region_iso_code": "RU-SAM",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Сызрань",
+      "population_thousands": 167.1,
+      "latitude": 53.1558674,
+      "longitude": 48.4744629,
+      "region_name": "Самарская область",
+      "region_iso_code": "RU-SAM",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Тольятти",
+      "population_thousands": 699.4,
+      "latitude": 53.5205348,
+      "longitude": 49.3894028,
+      "region_name": "Самарская область",
+      "region_iso_code": "RU-SAM",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Чапаевск",
+      "population_thousands": 71.7,
+      "latitude": 52.928961,
+      "longitude": 49.8673269,
+      "region_name": "Самарская область",
+      "region_iso_code": "RU-SAM",
+      "federal_district": "Приволжский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Самарская область - Бесплатная загрузка",
+    "description": "11 городов региона «Самарская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 11 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Самарская область | ListBase",
+    "seo_description": "Скачать Города — Самарская область — 11 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 11 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

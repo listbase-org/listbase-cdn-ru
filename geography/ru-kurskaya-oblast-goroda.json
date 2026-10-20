@@ -1,0 +1,151 @@
+{
+  "id": "ru-kurskaya-oblast-goroda",
+  "name": "Города — Курская область",
+  "title": "Города — Курская область",
+  "description": "10 городов региона «Курская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Дмитриев-Льговский",
+      "population_thousands": 6.3,
+      "latitude": 52.1268464,
+      "longitude": 35.0739038,
+      "region_name": "Курская область",
+      "region_iso_code": "RU-KRS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Железногорск",
+      "population_thousands": 100.4,
+      "latitude": 52.3380202,
+      "longitude": 35.3516867,
+      "region_name": "Курская область",
+      "region_iso_code": "RU-KRS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Курск",
+      "population_thousands": 453,
+      "latitude": 51.7303637,
+      "longitude": 36.1925603,
+      "region_name": "Курская область",
+      "region_iso_code": "RU-KRS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Курчатов",
+      "population_thousands": 38.1,
+      "latitude": 51.6604083,
+      "longitude": 35.6572224,
+      "region_name": "Курская область",
+      "region_iso_code": "RU-KRS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Льгов",
+      "population_thousands": 18.1,
+      "latitude": 51.6597148,
+      "longitude": 35.2612491,
+      "region_name": "Курская область",
+      "region_iso_code": "RU-KRS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Обоянь",
+      "population_thousands": 13.2,
+      "latitude": 51.2119324,
+      "longitude": 36.2755133,
+      "region_name": "Курская область",
+      "region_iso_code": "RU-KRS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Рыльск",
+      "population_thousands": 16,
+      "latitude": 51.5681314,
+      "longitude": 34.6802597,
+      "region_name": "Курская область",
+      "region_iso_code": "RU-KRS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Суджа",
+      "population_thousands": 5.6,
+      "latitude": 51.1918927,
+      "longitude": 35.2720915,
+      "region_name": "Курская область",
+      "region_iso_code": "RU-KRS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Фатеж",
+      "population_thousands": 6.1,
+      "latitude": 52.0917728,
+      "longitude": 35.8538706,
+      "region_name": "Курская область",
+      "region_iso_code": "RU-KRS",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Щигры",
+      "population_thousands": 15,
+      "latitude": 51.8786014,
+      "longitude": 36.8910945,
+      "region_name": "Курская область",
+      "region_iso_code": "RU-KRS",
+      "federal_district": "Центральный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Курская область - Бесплатная загрузка",
+    "description": "10 городов региона «Курская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 10 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Курская область | ListBase",
+    "seo_description": "Скачать Города — Курская область — 10 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 10 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

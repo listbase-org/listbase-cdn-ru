@@ -1,0 +1,466 @@
+{
+  "id": "ru-zamki",
+  "name": "Замки России (Castles of Russia)",
+  "title": "Замки России (Castles of Russia)",
+  "description": "Список объектов категории «замки», расположенных на территории России. Сортировка по русскому названию (по алфавиту). Источник — публичная конечная точка SPARQL Wikidata (query.wikidata.org). Для каждого объекта приводятся русское название (rdfs:label@ru), английская метка, административно-территориальная принадлежность (P131), координаты (WGS84, P625) и ссылка на русскую Википедию. Объекты без русской метки исключены согласно правилу сохранения языка оригинала. Лицензия CC0-1.0.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ru",
+      "label": "Name Ru",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ru",
+      "label": "Wikipedia Ru",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q2968609",
+      "name_ru": "Борки",
+      "name_en": "Zamok Borki",
+      "located_in_at": "Борки",
+      "latitude": 52.1547,
+      "longitude": 38.0903,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%BA%D0%B8_(%D1%83%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0)"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q25421335",
+      "name_ru": "Булганакское городище",
+      "name_en": "",
+      "located_in_at": "Пожарское",
+      "latitude": 44.919722,
+      "longitude": 33.878611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D0%BD%D0%B0%D0%BA%D1%81%D0%BA%D0%BE%D0%B5_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%89%D0%B5"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q19614166",
+      "name_ru": "Васильевский замок",
+      "name_en": "Vasilyevskoe Estate, Imeni Gertsena",
+      "located_in_at": "Посёлок санатория имени Герцена",
+      "latitude": 55.609971,
+      "longitude": 36.596498,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q62558976",
+      "name_ru": "Владимирский кремль",
+      "name_en": "Vladimir Kremlin",
+      "located_in_at": "Владимир",
+      "latitude": 56.131085,
+      "longitude": 40.414455,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8C"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q2272243",
+      "name_ru": "Выборгский замок",
+      "name_en": "Vyborg Castle",
+      "located_in_at": "Выборг",
+      "latitude": 60.715833,
+      "longitude": 28.728889,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q14906503",
+      "name_ru": "Георгенбург",
+      "name_en": "Georgenburg Castle",
+      "located_in_at": "Маёвка",
+      "latitude": 54.66088,
+      "longitude": 21.806911,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q25421254",
+      "name_ru": "Городище Кермен-Кыр",
+      "name_en": "Kermen Qır",
+      "located_in_at": "Мирное",
+      "latitude": 44.977778,
+      "longitude": 34.060556,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D0%BC%D0%B5%D0%BD-%D0%9A%D1%8B%D1%80"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q16643988",
+      "name_ru": "Дзивгисские Предпещерные замки",
+      "name_en": "Dzivgis Cave Fortress",
+      "located_in_at": "Дзивгис",
+      "latitude": 42.877497,
+      "longitude": 44.314789,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B7%D0%B8%D0%B2%D0%B3%D0%B8%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q39740332",
+      "name_ru": "Жабо-Кала",
+      "name_en": "Zhabo-Kala",
+      "located_in_at": "Безенги",
+      "latitude": 43.229046,
+      "longitude": 43.330782,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q16653087",
+      "name_ru": "Замок Велау",
+      "name_en": "Velau Castle",
+      "located_in_at": "",
+      "latitude": 54.616667,
+      "longitude": 21.216667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%92%D0%B5%D0%BB%D0%B0%D1%83"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q21634684",
+      "name_ru": "Замок Гердауэн",
+      "name_en": "Gerdauen Castle",
+      "located_in_at": "Железнодорожный",
+      "latitude": 54.364431,
+      "longitude": 21.309503,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%93%D0%B5%D1%80%D0%B4%D0%B0%D1%83%D1%8D%D0%BD"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q14566164",
+      "name_ru": "Замок Гросс-Вонсдорф",
+      "name_en": "Gross Wohnsdorf Castle",
+      "located_in_at": "Курортное",
+      "latitude": 54.469911,
+      "longitude": 21.122497,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%93%D1%80%D0%BE%D1%81%D1%81_%D0%92%D0%BE%D0%BD%D1%81%D0%B4%D0%BE%D1%80%D1%84"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q4185828",
+      "name_ru": "Замок Заалау",
+      "name_en": "Burg Saalau",
+      "located_in_at": "Каменское",
+      "latitude": 54.655844,
+      "longitude": 21.550367,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%97%D0%B0%D0%B0%D0%BB%D0%B0%D1%83"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q2968279",
+      "name_ru": "Замок Инстербург",
+      "name_en": "Insterburg Castle",
+      "located_in_at": "Черняховск",
+      "latitude": 54.639715,
+      "longitude": 21.806696,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%98%D0%BD%D1%81%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q16653091",
+      "name_ru": "Замок Кройцбург",
+      "name_en": "Kreuzburg Castle",
+      "located_in_at": "Славское",
+      "latitude": 54.5,
+      "longitude": 20.45,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D0%B9%D1%86%D0%B1%D1%83%D1%80%D0%B3_(%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA,_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F)"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q571409",
+      "name_ru": "Замок Кёнигсберг",
+      "name_en": "Königsberg Castle",
+      "located_in_at": "Кёнигсберг",
+      "latitude": 54.710342,
+      "longitude": 20.509558,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%91%D0%BD%D0%B8%D0%B3%D1%81%D0%B1%D0%B5%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q116719629",
+      "name_ru": "Замок Лакиера",
+      "name_en": "Lakiera Castle",
+      "located_in_at": "Золотая Коса",
+      "latitude": 47.14519,
+      "longitude": 38.63968,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%9B%D0%B0%D0%BA%D0%B8%D0%B5%D1%80%D0%B0"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q30879083",
+      "name_ru": "Замок Лаукен",
+      "name_en": "Lauken",
+      "located_in_at": "Саранское",
+      "latitude": 54.831123,
+      "longitude": 21.234291,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%9B%D0%B0%D1%83%D0%BA%D0%B5%D0%BD"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q16653093",
+      "name_ru": "Замок Ленценберг",
+      "name_en": "Lenzenberg Castle",
+      "located_in_at": "",
+      "latitude": 54.6,
+      "longitude": 20.2,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%9B%D0%B5%D0%BD%D1%86%D0%B5%D0%BD%D0%B1%D0%B5%D1%80%D0%B3"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q4185851",
+      "name_ru": "Замок Нойхаузен",
+      "name_en": "Neuhausen Castle",
+      "located_in_at": "Гурьевск",
+      "latitude": 54.775278,
+      "longitude": 20.62,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%9D%D0%BE%D0%B9%D1%85%D0%B0%D1%83%D0%B7%D0%B5%D0%BD"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q21634685",
+      "name_ru": "Замок Прейсиш-Эйлау",
+      "name_en": "Preußisch Eylau Castle",
+      "located_in_at": "Багратионовск",
+      "latitude": 54.38667,
+      "longitude": 20.63278,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%9F%D1%80%D0%B5%D0%B9%D1%81%D0%B8%D1%88-%D0%AD%D0%B9%D0%BB%D0%B0%D1%83"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q16653097",
+      "name_ru": "Замок Фридланд",
+      "name_en": "",
+      "located_in_at": "Правдинск",
+      "latitude": 54.44581,
+      "longitude": 21.017051,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%A4%D1%80%D0%B8%D0%B4%D0%BB%D0%B0%D0%BD%D0%B4"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q14906507",
+      "name_ru": "Замок Шаакен",
+      "name_en": "Schaaken Castle",
+      "located_in_at": "Некрасово",
+      "latitude": 54.905833,
+      "longitude": 20.668889,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%A8%D0%B0%D0%B0%D0%BA%D0%B5%D0%BD"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q106691421",
+      "name_ru": "Замок принца Ольденбургского",
+      "name_en": "Prince of Oldenburg Castle",
+      "located_in_at": "Гагра",
+      "latitude": 43.325522,
+      "longitude": 40.225683,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0_%D0%9E%D0%BB%D1%8C%D0%B4%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%BE%D0%B3%D0%BE"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q108765337",
+      "name_ru": "Кала-Фатлар",
+      "name_en": "Kalafatlar",
+      "located_in_at": "Балаклавский район",
+      "latitude": 44.463889,
+      "longitude": 33.641667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B0-%D0%A4%D0%B0%D1%82%D0%BB%D0%B0%D1%80"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q4210727",
+      "name_ru": "Камара Исар",
+      "name_en": "Kamara-Isar",
+      "located_in_at": "Балаклавский район",
+      "latitude": 44.50556,
+      "longitude": 33.65278,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B0%D1%80%D0%B0_%D0%98%D1%81%D0%B0%D1%80"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q39085052",
+      "name_ru": "Кивинебб",
+      "name_en": "Kivenebb",
+      "located_in_at": "Первомайское",
+      "latitude": 60.3564,
+      "longitude": 29.7571,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%B2%D0%B8%D0%BD%D0%B5%D0%B1%D0%B1_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q25421638",
+      "name_ru": "Кульчукское городище",
+      "name_en": "",
+      "located_in_at": "Громово",
+      "latitude": 45.366667,
+      "longitude": 32.863889,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BB%D1%8C%D1%87%D1%83%D0%BA%D1%81%D0%BA%D0%BE%D0%B5_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%89%D0%B5"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q12109790",
+      "name_ru": "Кыз-куле",
+      "name_en": "Kyz-Kule",
+      "located_in_at": "Бахчисарайский район",
+      "latitude": 44.617093,
+      "longitude": 33.735861,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%8B%D0%B7-%D0%BA%D1%83%D0%BB%D0%B5"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q1546590",
+      "name_ru": "Майендорф",
+      "name_en": "Meyendorff Castle",
+      "located_in_at": "Барвиха",
+      "latitude": 55.7242,
+      "longitude": 37.2722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0_%D0%9C%D0%B5%D0%B9%D0%B5%D0%BD%D0%B4%D0%BE%D1%80%D1%84"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q2000542",
+      "name_ru": "Михайловский замок",
+      "name_en": "Saint Michael's Castle",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.940417,
+      "longitude": 30.337639,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q13031782",
+      "name_ru": "Невельская крепость",
+      "name_en": "",
+      "located_in_at": "Невель",
+      "latitude": 56.018569,
+      "longitude": 29.915467,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B2%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q18288925",
+      "name_ru": "Палаты Андрея Боголюбского",
+      "name_en": "Palace of Andrei Bogolyubsky",
+      "located_in_at": "Боголюбово",
+      "latitude": 56.196222,
+      "longitude": 40.537,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%82%D1%8B_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D1%8F_%D0%91%D0%BE%D0%B3%D0%BE%D0%BB%D1%8E%D0%B1%D1%81%D0%BA%D0%BE%D0%B3%D0%BE"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q30892460",
+      "name_ru": "Сарджик",
+      "name_en": "Sardjik",
+      "located_in_at": "",
+      "latitude": 44.505,
+      "longitude": 33.761667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%B4%D0%B6%D0%B8%D0%BA"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q13032622",
+      "name_ru": "Себежская крепость",
+      "name_en": "",
+      "located_in_at": "Себеж",
+      "latitude": 56.27569,
+      "longitude": 28.504334,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B1%D0%B5%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q4451431",
+      "name_ru": "Таплакен",
+      "name_en": "Taplacken Castle",
+      "located_in_at": "Талпаки",
+      "latitude": 54.651077,
+      "longitude": 21.343087,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BF%D0%BB%D0%B0%D0%BA%D0%B5%D0%BD"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q30232486",
+      "name_ru": "Чоргунский исар",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 44.531389,
+      "longitude": 33.698889,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%BE%D1%80%D0%B3%D1%83%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D1%81%D0%B0%D1%80"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q76078196",
+      "name_ru": "Шато-Эркен",
+      "name_en": "Château Erken",
+      "located_in_at": "Сельское поселение Чёрная Речка",
+      "latitude": 43.593056,
+      "longitude": 43.819722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q81533547",
+      "name_ru": "дворец в усадьбе Храповицкого (Муромцево)",
+      "name_en": "Khrapovitsky Castle",
+      "located_in_at": "Муромцево",
+      "latitude": 55.929968,
+      "longitude": 40.90406,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q4185817",
+      "name_ru": "замок Вальдау",
+      "name_en": "Waldau Castle",
+      "located_in_at": "Низовье",
+      "latitude": 54.70056,
+      "longitude": 20.74306,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%BE%D0%BA_%D0%92%D0%B0%D0%BB%D1%8C%D0%B4%D0%B0%D1%83"
+    }
+  ],
+  "meta": {
+    "title": "Замки России (Castles of Russia) - Бесплатная загрузка",
+    "description": "Список объектов категории «замки», расположенных на территории России. Сортировка по русскому названию (по алфавиту). Источник — публичная конечная точка SPARQL Wikidata (query.wikidata.org). Для каждого объекта приводятся русское название (rdfs:label@ru), английская метка, административно-территориальная принадлежность (P131), координаты (WGS84, P625) и ссылка на русскую Википедию. Объекты без русской метки исключены согласно правилу сохранения языка оригинала. Лицензия CC0-1.0. Содержит 40 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Замки России (Castles of Russia) | ListBase",
+    "seo_description": "Скачать Замки России (Castles of Russia) — 40 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 40 записей / 8 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

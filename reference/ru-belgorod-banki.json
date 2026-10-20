@@ -1,0 +1,114 @@
+{
+  "id": "ru-belgorod-banki",
+  "name": "Банки — Belgorod (коды SWIFT/BIC)",
+  "title": "Банки — Belgorod (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in BELGOROD (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 216,
+      "bank": "BANK ''ROSSIYA''",
+      "city": "BELGOROD",
+      "branch": "(BELGOROD BRANCH)",
+      "swift_code": "ROSYRU21BEL"
+    },
+    {
+      "id": 293,
+      "bank": "BELGORODPROMSTROJBANK",
+      "city": "BELGOROD",
+      "branch": "",
+      "swift_code": "BELGRU21"
+    },
+    {
+      "id": 294,
+      "bank": "BELGORODSOCBANK",
+      "city": "BELGOROD",
+      "branch": "",
+      "swift_code": "BELORU21"
+    },
+    {
+      "id": 682,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "BELGOROD",
+      "branch": "(BELGORODSKY BRANCH)",
+      "swift_code": "RUAGRUM1030"
+    },
+    {
+      "id": 768,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "BELGOROD",
+      "branch": "(BELGORODSKOE REGIONAL DEPARTMENT OFFICE)",
+      "swift_code": "MINNRUM1038"
+    },
+    {
+      "id": 1277,
+      "bank": "RUSNARBANK",
+      "city": "BELGOROD",
+      "branch": "(BELGOROD BRANCH)",
+      "swift_code": "RUNBRUM1BEL"
+    },
+    {
+      "id": 1351,
+      "bank": "SEVERINVESTBANK",
+      "city": "BELGOROD",
+      "branch": "",
+      "swift_code": "SEVRRU21"
+    },
+    {
+      "id": 1611,
+      "bank": "WELLTON BANK",
+      "city": "BELGOROD",
+      "branch": "",
+      "swift_code": "WELORU21"
+    },
+    {
+      "id": 1624,
+      "bank": "ZAO 'BELDORBANK'",
+      "city": "BELGOROD",
+      "branch": "",
+      "swift_code": "BEZARU21"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Belgorod (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in BELGOROD (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 9 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Belgorod (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Belgorod (коды SWIFT/BIC) — 9 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 9 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

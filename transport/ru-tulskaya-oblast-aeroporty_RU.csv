@@ -1,0 +1,7 @@
+﻿"Id","Ident","Type","Name","Latitude Deg","Longitude Deg","Elevation Ft","Continent","Iso Country","Iso Region","Region Local Code","Region Name","Municipality","Scheduled Service","Icao Code","Iata Code","Gps Code","Local Code","Home Link","Wikipedia Link","Keywords"
+"44387","RU-0130","closed","Yefremov Air Base","53.115002","38.243","","EU","RU","RU-TUL","TUL","Tula Oblast","Yefremov","no","","","","","","","Efremov Air Base, Аэродром Ефремов, XUWE"
+"44918","RU-0224","small_airport","Pakhomovo Airfield","54.625","37.575","","EU","RU","RU-TUL","TUL","Tula Oblast","Pakhomovo","no","","","","","http://aeroclub.msk.ru/","","Аэродром Пахомово"
+"44923","RU-0228","small_airport","Rydoma Airfield","54.260288","37.256187","673","EU","RU","RU-TUL","TUL","Tula Oblast","Rydomo","no","","","","","","","Аэродром Рыдома"
+"44924","RU-0229","small_airport","Myasnovo Airfield","54.213931","37.553004","","EU","RU","RU-TUL","TUL","Tula Oblast","Tula","no","","","","","","","Аэродром Мясново"
+"518074","RU-0958","closed","Plavsk Airstrip","53.710926","37.12752","797","EU","RU","RU-TUL","TUL","Tula Oblast","Plavsk","no","","","","","","","ЗАД0, Плавск, ZAD0"
+"42330","RU-10050","small_airport","Klokovo Air Base","54.239","37.6","499","EU","RU","RU-TUL","TUL","Tula Oblast","Tula","no","","TYA","","XUBT","","https://en.wikipedia.org/wiki/Klokovo_air_base","Аэродром Клоково, UUBT, УУБТ., ЬУБТ, Тула"

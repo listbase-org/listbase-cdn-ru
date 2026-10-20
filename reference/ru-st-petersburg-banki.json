@@ -1,0 +1,667 @@
+{
+  "id": "ru-st-petersburg-banki",
+  "name": "Банки — St. Petersburg (коды SWIFT/BIC)",
+  "title": "Банки — St. Petersburg (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in ST. PETERSBURG (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 88,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 5,
+      "bank": "AC BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "ELKARU3SSPB"
+    },
+    {
+      "id": 12,
+      "bank": "AGROSOYUZ BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST.PETERBURG BRANCH)",
+      "swift_code": "AGSZRU31SPB"
+    },
+    {
+      "id": 26,
+      "bank": "AK BARS BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "(SEVERO-ZAPADNY  BRANCH)",
+      "swift_code": "ARRSRU21SPB"
+    },
+    {
+      "id": 40,
+      "bank": "ALEKSANDROVSKY BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "ITEHRU2P"
+    },
+    {
+      "id": 48,
+      "bank": "ALFA-BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST. PETERSBURG BRANCH)",
+      "swift_code": "ALFARUM1002"
+    },
+    {
+      "id": 65,
+      "bank": "AO WOORI BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST. PETERSBURG BRANCH)",
+      "swift_code": "HVBKRUMMSPB"
+    },
+    {
+      "id": 130,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST PETERSBURG BRANCH 2 B AND N BANK)",
+      "swift_code": "BINORU21SPB"
+    },
+    {
+      "id": 131,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST. PETERSBURG BRANCH)",
+      "swift_code": "MOBWRUMMSPB"
+    },
+    {
+      "id": 149,
+      "bank": "BALTIYSKIY BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST. PETERSBURG BRANCH)",
+      "swift_code": "BABJRU21SPB"
+    },
+    {
+      "id": 150,
+      "bank": "BALTIYSKIY BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "BABJRU2P"
+    },
+    {
+      "id": 188,
+      "bank": "BANK ORANGE (LLC)",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST. PETERSBURG BRANCH)",
+      "swift_code": "PRSBRU2PSPB"
+    },
+    {
+      "id": 189,
+      "bank": "BANK ORANGE (LLC)",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "PRSBRU2P"
+    },
+    {
+      "id": 200,
+      "bank": "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "ST. PETERSBURG",
+      "branch": "(SAINT PETERSBURG BRANCH)",
+      "swift_code": "JSNMRUMMSPB"
+    },
+    {
+      "id": 210,
+      "bank": "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY) (FORMERLY KHANTY-MANSIYSK BANK OTKRITIE)",
+      "city": "ST. PETERSBURG",
+      "branch": "(PETROVSKIY BRANCH)",
+      "swift_code": "RUDLRUM1PET"
+    },
+    {
+      "id": 212,
+      "bank": "BANK PRIME FINANCE",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "PRFNRU2P"
+    },
+    {
+      "id": 230,
+      "bank": "BANK ''ROSSIYA''",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "ROSYRU2P"
+    },
+    {
+      "id": 244,
+      "bank": "BANK RRDB (JSC)",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST PETERSBURG BRANCH)",
+      "swift_code": "RRDBRUM1SPB"
+    },
+    {
+      "id": 247,
+      "bank": "BANK SAINT-PETERSBURG PJSC",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "JSBSRU2P"
+    },
+    {
+      "id": 255,
+      "bank": "'BANK SGB' PJSC",
+      "city": "ST. PETERSBURG",
+      "branch": "(SAINT PETERSBURG BRANCH)",
+      "swift_code": "SGAZRU21SPB"
+    },
+    {
+      "id": 275,
+      "bank": "BANK SOYUZ",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST. PETERSBURG BRANCH)",
+      "swift_code": "JCAMRUM1SPB"
+    },
+    {
+      "id": 279,
+      "bank": "BANK UNITED CAPITAL",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "UNCLRU2P"
+    },
+    {
+      "id": 331,
+      "bank": "CB 'RUSREGIONBANK' JSC",
+      "city": "ST. PETERSBURG",
+      "branch": "(SAINT-PETERSBURG BRANCH)",
+      "swift_code": "RRBKRU21SPB"
+    },
+    {
+      "id": 356,
+      "bank": "CITY INVEST BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "CITVRU2P"
+    },
+    {
+      "id": 357,
+      "bank": "CJSC BRITISH AMERICAN TOBACCO-SPB",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "BATSRU21"
+    },
+    {
+      "id": 379,
+      "bank": "COMMERCIAL BANK 'LANTA-BANK'",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST.-PETERBURG BRANCH)",
+      "swift_code": "COLKRUM1SPB"
+    },
+    {
+      "id": 384,
+      "bank": "COMMERCIAL BANK NEVASTROYINVEST LIMITED LIABILITY COMPANY",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "NCILRU22"
+    },
+    {
+      "id": 406,
+      "bank": "CORPORATE FINANCE BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST. PETERSBURG BRANCH)",
+      "swift_code": "FABARUM1SPB"
+    },
+    {
+      "id": 408,
+      "bank": "CREDIT AGRICOLE CIB AO",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "CRLYRU2P"
+    },
+    {
+      "id": 419,
+      "bank": "DANSKE BANK RUSSIA",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "DABARU2P"
+    },
+    {
+      "id": 435,
+      "bank": "ENERGOMASHBANK PLC",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "ENEBRU2P"
+    },
+    {
+      "id": 450,
+      "bank": "EVROFINANCE MOSNARBANK",
+      "city": "ST. PETERSBURG",
+      "branch": "(SAINT PETERSBURG BRANCH)",
+      "swift_code": "EVRFRUM1SPB"
+    },
+    {
+      "id": 504,
+      "bank": "GAZPROMBANK (JOINT - STOCK COMPANY)",
+      "city": "ST. PETERSBURG",
+      "branch": "(SEVERO-ZAPADNY BRANCH)",
+      "swift_code": "GAZPRUMM015"
+    },
+    {
+      "id": 512,
+      "bank": "GEFEST BANK LTD",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "GESPRU21"
+    },
+    {
+      "id": 517,
+      "bank": "GLOBEXBANK",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST. PETERSBURG BRANCH)",
+      "swift_code": "GLOBRUM1009"
+    },
+    {
+      "id": 551,
+      "bank": "INTERNATIONAL BANK OF ST.PETERSBURG PLC",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "LBAPRU2P"
+    },
+    {
+      "id": 581,
+      "bank": "INVESTMENT TRADE BANK PJSC",
+      "city": "ST. PETERSBURG",
+      "branch": "(BRANCH BALTIYSKY)",
+      "swift_code": "INVJRUM1SPB"
+    },
+    {
+      "id": 606,
+      "bank": "JOINT STOCK COMPANY BBR BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST. PETERSBURG BRANCH)",
+      "swift_code": "BADJRUMMSPB"
+    },
+    {
+      "id": 617,
+      "bank": "JOINT STOCK COMPANY 'OTP BANK'",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST. PETERSBURG BRANCH)",
+      "swift_code": "OTPVRUM1SPB"
+    },
+    {
+      "id": 626,
+      "bank": "JOINT-STOCK COMMERCIAL EXPORT-IMPORT BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "JXIBRU2P"
+    },
+    {
+      "id": 629,
+      "bank": "JOINT-STOCK COMPANY NORTH-WESTERN INVESTMENT BANK UNITED CAPITAL",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "UNCLRU21"
+    },
+    {
+      "id": 643,
+      "bank": "JSB ROSEVROBANK (JSC)",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST. PETERSBURG BRANCH)",
+      "swift_code": "COMKRUMM080"
+    },
+    {
+      "id": 652,
+      "bank": "JSC BANK SOVETSKY",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "SOZARU2P"
+    },
+    {
+      "id": 811,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST. PETERSBURG BRANCH)",
+      "swift_code": "MINNRUM1036"
+    },
+    {
+      "id": 832,
+      "bank": "KIT FINANCE LTD",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "KFIERU21"
+    },
+    {
+      "id": 855,
+      "bank": "LENSTROYMATERIALY BROKERAGE AO",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "LEBRRU21"
+    },
+    {
+      "id": 877,
+      "bank": "MARITIME BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST.PETERSBURG BRANCH)",
+      "swift_code": "MJSBRUM1SPB"
+    },
+    {
+      "id": 892,
+      "bank": "MOBIS MODULE CIS, LLC",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "HYMORU21"
+    },
+    {
+      "id": 929,
+      "bank": "MOSOBLBANK",
+      "city": "ST. PETERSBURG",
+      "branch": "(BRANCH NO.14)",
+      "swift_code": "MOBKRUM1014"
+    },
+    {
+      "id": 943,
+      "bank": "MTS BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST.PETERSBURG)",
+      "swift_code": "MBRDRUM1SPB"
+    },
+    {
+      "id": 963,
+      "bank": "NATIONAL BANK TRUST",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST. PETERSBURG BRANCH)",
+      "swift_code": "NBTRRUM1SPB"
+    },
+    {
+      "id": 982,
+      "bank": "NBFC MOBILE CARD LLC",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "NMCLRU21"
+    },
+    {
+      "id": 993,
+      "bank": "NEVSKY BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "NEVSRU2P"
+    },
+    {
+      "id": 1005,
+      "bank": "NON-BANKING CREDIT ORGANIZATION '21 VEK' (LIMITED LIABILITY COMPANY)",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "BXXIRU2P"
+    },
+    {
+      "id": 1011,
+      "bank": "NOVIKOMBANK",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST. PETERSBURG BRANCH)",
+      "swift_code": "CNOVRUM1SPB"
+    },
+    {
+      "id": 1053,
+      "bank": "OPEN JOINT STOCK COMPANY 'SAUBER BANK'",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST. PETERSBURG)",
+      "swift_code": "KAOORU3CSPB"
+    },
+    {
+      "id": 1064,
+      "bank": "PETERSBURG SETTLEMENT CENTER LIMITED",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "SPRCRU2P"
+    },
+    {
+      "id": 1065,
+      "bank": "PETERSBURG SOCIAL COMMERCIAL BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "PSOCRU2P"
+    },
+    {
+      "id": 1066,
+      "bank": "PETERSBURG'S CITY BANK, INC.",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "CPGBRU2P"
+    },
+    {
+      "id": 1070,
+      "bank": "PJSC BALTINVESTBANK",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "UNEBRU2P"
+    },
+    {
+      "id": 1072,
+      "bank": "PJSC BANK SIAB",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "SAOARU2P"
+    },
+    {
+      "id": 1126,
+      "bank": "PJSC ROSBANK",
+      "city": "ST. PETERSBURG",
+      "branch": "(SEVERO-ZAPADNYJ BRANCH)",
+      "swift_code": "RSBNRUMMSZF"
+    },
+    {
+      "id": 1163,
+      "bank": "PROMSVYAZBANK PJSC",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST. PETERSBURG BRANCH)",
+      "swift_code": "PRMSRUMMSPB"
+    },
+    {
+      "id": 1210,
+      "bank": "ROSGOSSTRAKH BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "(SAINT-PETERSBURG BRANCH)",
+      "swift_code": "RUIDRUM1SPB"
+    },
+    {
+      "id": 1248,
+      "bank": "ROST BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "(ROST BANK ST.PETERSBURG BRANCH)",
+      "swift_code": "JORORU21SPB"
+    },
+    {
+      "id": 1290,
+      "bank": "SAINT-PETERSBURG CURRENCY EXCHANGE",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "XPICRU2P"
+    },
+    {
+      "id": 1331,
+      "bank": "SBERBANK (SEVERO-ZAPADNY HEAD OFFICE)",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "SABRRU2P"
+    },
+    {
+      "id": 1343,
+      "bank": "SDM-BANK PJSC",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST. PETERSBURG BRANCH)",
+      "swift_code": "SJSCRUMMSPB"
+    },
+    {
+      "id": 1346,
+      "bank": "SEB BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "(SEB BANK CUSTODY)",
+      "swift_code": "SEBPRU2PSEC"
+    },
+    {
+      "id": 1347,
+      "bank": "SEB BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "(SUB-CUSTODY)",
+      "swift_code": "SEBPRU2PCUS"
+    },
+    {
+      "id": 1348,
+      "bank": "SEB BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "SEBPRU2P"
+    },
+    {
+      "id": 1353,
+      "bank": "SEVZAPINVESTPROMBANK",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "SZIPRU2P"
+    },
+    {
+      "id": 1368,
+      "bank": "SLAVIA BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "(SAINT-PETERSBURG)",
+      "swift_code": "SJSMRUM1SPB"
+    },
+    {
+      "id": 1388,
+      "bank": "SOBINBANK",
+      "city": "ST. PETERSBURG",
+      "branch": "(SAINT PETERSBURG BRANCH)",
+      "swift_code": "SBBARUM1012"
+    },
+    {
+      "id": 1418,
+      "bank": "ST.PETERSBURG STOCK EXCHANGE ZAO",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "XPETRU21"
+    },
+    {
+      "id": 1442,
+      "bank": "SVIAZ-BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST. PETERSBURG BRANCH)",
+      "swift_code": "SVIZRUMMSPB"
+    },
+    {
+      "id": 1460,
+      "bank": "TAVRICHESKY BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "TAVRRU2P"
+    },
+    {
+      "id": 1466,
+      "bank": "THE BANK 'IBA-MOSCOW' LLC",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST. PETERSBURG BRANCH)",
+      "swift_code": "IBAZRUM1SPB"
+    },
+    {
+      "id": 1479,
+      "bank": "THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)",
+      "city": "ST. PETERSBURG",
+      "branch": "(SANKT-PETERBURGSKIJ BRANCH)",
+      "swift_code": "UBRDRU41SPB"
+    },
+    {
+      "id": 1504,
+      "bank": "TRANSKAPITALBANK",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST.PETERSBURG BRANCH)",
+      "swift_code": "TJSCRUM1SPB"
+    },
+    {
+      "id": 1518,
+      "bank": "UNICREDIT BANK AO",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "IMBKRUMMPET"
+    },
+    {
+      "id": 1534,
+      "bank": "URALSIB BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST. PETERSBURG BRANCH)",
+      "swift_code": "AVTBRUM1025"
+    },
+    {
+      "id": 1541,
+      "bank": "VIKING",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "VKNGRU2P"
+    },
+    {
+      "id": 1542,
+      "bank": "VITABANK PJSC",
+      "city": "ST. PETERSBURG",
+      "branch": "",
+      "swift_code": "VITARU2P"
+    },
+    {
+      "id": 1570,
+      "bank": "VOZROZHDENIE BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "(ST. PETERSBURG BRANCH)",
+      "swift_code": "VBNKRUM1SPB"
+    },
+    {
+      "id": 1583,
+      "bank": "VTB 24 (PJSC)",
+      "city": "ST. PETERSBURG",
+      "branch": "(N 7806)",
+      "swift_code": "CBGURUMMSTP"
+    },
+    {
+      "id": 1600,
+      "bank": "VTB BANK (PJSC)",
+      "city": "ST. PETERSBURG",
+      "branch": "(OPERU BRANCH)",
+      "swift_code": "VTBRRUM2NWR"
+    },
+    {
+      "id": 1601,
+      "bank": "VTB BANK (PJSC)",
+      "city": "ST. PETERSBURG",
+      "branch": "(SEVERO-ZAPADNYI BRANCH, SAINT-PETERSBURG)",
+      "swift_code": "VTBRRUM2SP2"
+    },
+    {
+      "id": 1641,
+      "bank": "ZENIT BANK",
+      "city": "ST. PETERSBURG",
+      "branch": "(BALTIKA BRANCH)",
+      "swift_code": "ZENIRUM1SPB"
+    }
+  ],
+  "meta": {
+    "title": "Банки — St. Petersburg (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in ST. PETERSBURG (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 88 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — St. Petersburg (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — St. Petersburg (коды SWIFT/BIC) — 88 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 88 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+﻿"Id","Ident","Type","Name","Latitude Deg","Longitude Deg","Elevation Ft","Continent","Iso Country","Iso Region","Region Local Code","Region Name","Municipality","Scheduled Service","Icao Code","Iata Code","Gps Code","Local Code","Home Link","Wikipedia Link","Keywords"
+"341607","RU-0644","heliport","Erzin Heliport","50.24946","95.15788","","EU","RU","RU-TY","TY","Tuva Republic","Erzin","no","","","","","","",""
+"341608","RU-0645","small_airport","Kyzyl-Mazhalyk Airport","51.14266","90.58967","","EU","RU","RU-TY","TY","Tuva Republic","Kyzyl-Mazhalyk","no","","","UNKD","UNKD","","","УНКД, Кызыл-Мажалык"
+"352973","RU-0849","heliport","Khandagayty Heliport","50.7441","92.10262","3786","EU","RU","RU-TY","TY","Tuva Republic","Khandagayty","no","","","","","","",""
+"352974","RU-0850","heliport","Chaa-Suur Heliport","50.79463","92.74784","4111","EU","RU","RU-TY","TY","Tuva Republic","Chaa-Suur","no","","","","","","",""
+"352975","RU-0851","small_airport","Kungurtug Airport","50.60054","97.50883","4308","EU","RU","RU-TY","TY","Tuva Republic","Kungurtug","no","","","","","","",""
+"31793","UNKY","medium_airport","Kyzyl Airport","51.669399","94.400597","2123","AS","RU","RU-TY","TY","Tuva Republic","Kyzyl","yes","UNKY","KYZ","UNKY","","","https://en.wikipedia.org/wiki/Kyzyl_Airport",""

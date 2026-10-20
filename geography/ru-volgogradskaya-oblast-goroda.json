@@ -1,0 +1,232 @@
+{
+  "id": "ru-volgogradskaya-oblast-goroda",
+  "name": "Города — Волгоградская область",
+  "title": "Города — Волгоградская область",
+  "description": "19 городов региона «Волгоградская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Волгоград",
+      "population_thousands": 1009,
+      "latitude": 48.7070042,
+      "longitude": 44.5170339,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Волжский",
+      "population_thousands": 323.9,
+      "latitude": 48.7978209,
+      "longitude": 44.7462538,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Дубовка",
+      "population_thousands": 13.7,
+      "latitude": 49.0554742,
+      "longitude": 44.8270085,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Жирновск",
+      "population_thousands": 15.5,
+      "latitude": 50.9768814,
+      "longitude": 44.7858202,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Калач-на-Дону",
+      "population_thousands": 23.6,
+      "latitude": 48.6889024,
+      "longitude": 43.5306303,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Камышин",
+      "population_thousands": 109.9,
+      "latitude": 50.0651529,
+      "longitude": 45.3844202,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Котельниково",
+      "population_thousands": 20.4,
+      "latitude": 47.6310259,
+      "longitude": 43.1330872,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Котово",
+      "population_thousands": 21.4,
+      "latitude": 50.3205766,
+      "longitude": 44.8030699,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Краснослободск",
+      "population_thousands": 17.1,
+      "latitude": 48.7068721,
+      "longitude": 44.5630857,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Ленинск",
+      "population_thousands": 14.4,
+      "latitude": 48.6936061,
+      "longitude": 45.1992692,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Михайловка",
+      "population_thousands": 57.4,
+      "latitude": 50.0708719,
+      "longitude": 43.2401512,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Николаевск",
+      "population_thousands": 13.4,
+      "latitude": 50.0165306,
+      "longitude": 45.4731658,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Новоаннинский",
+      "population_thousands": 15.9,
+      "latitude": 50.5296067,
+      "longitude": 42.6666439,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Палласовка",
+      "population_thousands": 14.5,
+      "latitude": 50.0500944,
+      "longitude": 46.8804277,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Петров Вал",
+      "population_thousands": 12.4,
+      "latitude": 50.1380557,
+      "longitude": 45.20914,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Серафимович",
+      "population_thousands": 8.6,
+      "latitude": 49.5663183,
+      "longitude": 42.7360402,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Суровикино",
+      "population_thousands": 18.2,
+      "latitude": 48.618917,
+      "longitude": 42.8541163,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Урюпинск",
+      "population_thousands": 36.7,
+      "latitude": 50.7903789,
+      "longitude": 42.0288513,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    },
+    {
+      "name": "Фролово",
+      "population_thousands": 36.2,
+      "latitude": 49.7649148,
+      "longitude": 43.6648641,
+      "region_name": "Волгоградская область",
+      "region_iso_code": "RU-VGG",
+      "federal_district": "Южный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Волгоградская область - Бесплатная загрузка",
+    "description": "19 городов региона «Волгоградская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 19 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Волгоградская область | ListBase",
+    "seo_description": "Скачать Города — Волгоградская область — 19 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 19 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

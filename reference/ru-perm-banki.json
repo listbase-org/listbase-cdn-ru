@@ -1,0 +1,184 @@
+{
+  "id": "ru-perm-banki",
+  "name": "Банки — Perm (коды SWIFT/BIC)",
+  "title": "Банки — Perm (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in PERM (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 124,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "PERM",
+      "branch": "(PERM BRANCH)",
+      "swift_code": "MOBWRUM1PRM"
+    },
+    {
+      "id": 227,
+      "bank": "BANK ''ROSSIYA''",
+      "city": "PERM",
+      "branch": "(PERM BRANCH)",
+      "swift_code": "ROSYRU21PRM"
+    },
+    {
+      "id": 281,
+      "bank": "BANK URAL FD",
+      "city": "PERM",
+      "branch": "(BANK 'URAL FD')",
+      "swift_code": "JSCORU4PPRM"
+    },
+    {
+      "id": 282,
+      "bank": "BANK URAL FD",
+      "city": "PERM",
+      "branch": "",
+      "swift_code": "JSCORU4P"
+    },
+    {
+      "id": 366,
+      "bank": "COMMERCIAL BANK 'DZERZHINSKY' OOO",
+      "city": "PERM",
+      "branch": "",
+      "swift_code": "DECERU41"
+    },
+    {
+      "id": 370,
+      "bank": "COMMERCIAL BANK 'KAURI'",
+      "city": "PERM",
+      "branch": "",
+      "swift_code": "COKARU41"
+    },
+    {
+      "id": 501,
+      "bank": "GAZPROMBANK (JOINT - STOCK COMPANY)",
+      "city": "PERM",
+      "branch": "(ZAPADNO-URALSKY BRANCH)",
+      "swift_code": "GAZPRUMM032"
+    },
+    {
+      "id": 577,
+      "bank": "INVESTMENT TRADE BANK PJSC",
+      "city": "PERM",
+      "branch": "(PERMSKY BRANCH)",
+      "swift_code": "INVJRUM1PRM"
+    },
+    {
+      "id": 631,
+      "bank": "JS BANK PERM",
+      "city": "PERM",
+      "branch": "",
+      "swift_code": "PJSCRU41"
+    },
+    {
+      "id": 724,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "PERM",
+      "branch": "(PERMSKY BRANCH)",
+      "swift_code": "RUAGRUM1076"
+    },
+    {
+      "id": 924,
+      "bank": "MOSOBLBANK",
+      "city": "PERM",
+      "branch": "(FILIAL 18)",
+      "swift_code": "MOBKRUM1018"
+    },
+    {
+      "id": 1143,
+      "bank": "PRIKAMYE COMMERCIAL BANK AO",
+      "city": "PERM",
+      "branch": "",
+      "swift_code": "PRKARU41"
+    },
+    {
+      "id": 1153,
+      "bank": "PROINVESTBANK",
+      "city": "PERM",
+      "branch": "",
+      "swift_code": "PEOARU41"
+    },
+    {
+      "id": 1241,
+      "bank": "ROST BANK",
+      "city": "PERM",
+      "branch": "(PERM BRANCH)",
+      "swift_code": "JORORU21PMB"
+    },
+    {
+      "id": 1317,
+      "bank": "SBERBANK",
+      "city": "PERM",
+      "branch": "(ZAPADNO-URALSKY HEAD OFFICE)",
+      "swift_code": "SABRRUMMPC1"
+    },
+    {
+      "id": 1341,
+      "bank": "SDM-BANK PJSC",
+      "city": "PERM",
+      "branch": "(PERM BRANCH)",
+      "swift_code": "SJSCRUMMPRM"
+    },
+    {
+      "id": 1386,
+      "bank": "SOBINBANK",
+      "city": "PERM",
+      "branch": "(PERM BRANCH)",
+      "swift_code": "SBBARUM1007"
+    },
+    {
+      "id": 1477,
+      "bank": "THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)",
+      "city": "PERM",
+      "branch": "",
+      "swift_code": "UBRDRU41PRM"
+    },
+    {
+      "id": 1499,
+      "bank": "TRANSKAPITALBANK",
+      "city": "PERM",
+      "branch": "(PERM BRANCH)",
+      "swift_code": "TJSCRUM1PER"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Perm (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in PERM (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 19 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Perm (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Perm (коды SWIFT/BIC) — 19 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 19 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

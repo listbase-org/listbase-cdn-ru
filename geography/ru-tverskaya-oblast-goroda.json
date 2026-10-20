@@ -1,0 +1,268 @@
+{
+  "id": "ru-tverskaya-oblast-goroda",
+  "name": "Города — Тверская область",
+  "title": "Города — Тверская область",
+  "description": "23 городов региона «Тверская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Андреаполь",
+      "population_thousands": 6.8,
+      "latitude": 56.6506724,
+      "longitude": 32.2620163,
+      "region_name": "Тверская область",
+      "region_iso_code": "RU-TVE",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Бежецк",
+      "population_thousands": 20.4,
+      "latitude": 57.7860089,
+      "longitude": 36.6904983,
+      "region_name": "Тверская область",
+      "region_iso_code": "RU-TVE",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Белый",
+      "population_thousands": 3.1,
+      "latitude": 55.8339056,
+      "longitude": 32.9389741,
+      "region_name": "Тверская область",
+      "region_iso_code": "RU-TVE",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Бологое",
+      "population_thousands": 20.5,
+      "latitude": 57.8855767,
+      "longitude": 34.0537771,
+      "region_name": "Тверская область",
+      "region_iso_code": "RU-TVE",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Весьегонск",
+      "population_thousands": 6,
+      "latitude": 58.6582598,
+      "longitude": 37.2567558,
+      "region_name": "Тверская область",
+      "region_iso_code": "RU-TVE",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Вышний Волочек",
+      "population_thousands": 45.5,
+      "latitude": 57.568302,
+      "longitude": 34.5404016,
+      "region_name": "Тверская область",
+      "region_iso_code": "RU-TVE",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Западная Двина",
+      "population_thousands": 7.8,
+      "latitude": 56.2566492,
+      "longitude": 32.0805315,
+      "region_name": "Тверская область",
+      "region_iso_code": "RU-TVE",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Зубцов",
+      "population_thousands": 6.1,
+      "latitude": 56.1760868,
+      "longitude": 34.5825515,
+      "region_name": "Тверская область",
+      "region_iso_code": "RU-TVE",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Калязин",
+      "population_thousands": 12.3,
+      "latitude": 57.2579478,
+      "longitude": 37.7819693,
+      "region_name": "Тверская область",
+      "region_iso_code": "RU-TVE",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Кашин",
+      "population_thousands": 13.8,
+      "latitude": 57.360194,
+      "longitude": 37.6119436,
+      "region_name": "Тверская область",
+      "region_iso_code": "RU-TVE",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Кимры",
+      "population_thousands": 43.2,
+      "latitude": 56.8733213,
+      "longitude": 37.3556605,
+      "region_name": "Тверская область",
+      "region_iso_code": "RU-TVE",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Конаково",
+      "population_thousands": 36.5,
+      "latitude": 56.7275204,
+      "longitude": 36.8012716,
+      "region_name": "Тверская область",
+      "region_iso_code": "RU-TVE",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Красный Холм",
+      "population_thousands": 5,
+      "latitude": 58.0571446,
+      "longitude": 37.1126156,
+      "region_name": "Тверская область",
+      "region_iso_code": "RU-TVE",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Кувшиново",
+      "population_thousands": 8.9,
+      "latitude": 57.0265168,
+      "longitude": 34.1676009,
+      "region_name": "Тверская область",
+      "region_iso_code": "RU-TVE",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Лихославль",
+      "population_thousands": 11.4,
+      "latitude": 57.1221304,
+      "longitude": 35.4667605,
+      "region_name": "Тверская область",
+      "region_iso_code": "RU-TVE",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Нелидово",
+      "population_thousands": 18.1,
+      "latitude": 56.2232566,
+      "longitude": 32.7767459,
+      "region_name": "Тверская область",
+      "region_iso_code": "RU-TVE",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Осташков",
+      "population_thousands": 15.4,
+      "latitude": 57.1456744,
+      "longitude": 33.1115372,
+      "region_name": "Тверская область",
+      "region_iso_code": "RU-TVE",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Ржев",
+      "population_thousands": 57.5,
+      "latitude": 56.262881,
+      "longitude": 34.3291002,
+      "region_name": "Тверская область",
+      "region_iso_code": "RU-TVE",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Старица",
+      "population_thousands": 7.4,
+      "latitude": 56.514876,
+      "longitude": 34.9336396,
+      "region_name": "Тверская область",
+      "region_iso_code": "RU-TVE",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Тверь",
+      "population_thousands": 425.1,
+      "latitude": 56.8586059,
+      "longitude": 35.9116761,
+      "region_name": "Тверская область",
+      "region_iso_code": "RU-TVE",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Торжок",
+      "population_thousands": 44.4,
+      "latitude": 57.04133,
+      "longitude": 34.9602344,
+      "region_name": "Тверская область",
+      "region_iso_code": "RU-TVE",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Торопец",
+      "population_thousands": 11.8,
+      "latitude": 56.5012188,
+      "longitude": 31.6355466,
+      "region_name": "Тверская область",
+      "region_iso_code": "RU-TVE",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Удомля",
+      "population_thousands": 27.2,
+      "latitude": 57.8787314,
+      "longitude": 35.0167348,
+      "region_name": "Тверская область",
+      "region_iso_code": "RU-TVE",
+      "federal_district": "Центральный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Тверская область - Бесплатная загрузка",
+    "description": "23 городов региона «Тверская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 23 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Тверская область | ListBase",
+    "seo_description": "Скачать Города — Тверская область — 23 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 23 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

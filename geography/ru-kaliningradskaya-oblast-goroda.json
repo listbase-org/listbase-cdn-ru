@@ -1,0 +1,259 @@
+{
+  "id": "ru-kaliningradskaya-oblast-goroda",
+  "name": "Города — Калининградская область",
+  "title": "Города — Калининградская область",
+  "description": "22 городов региона «Калининградская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Багратионовск",
+      "population_thousands": 6.4,
+      "latitude": 54.3866518,
+      "longitude": 20.6418091,
+      "region_name": "Калининградская область",
+      "region_iso_code": "RU-KGD",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Балтийск",
+      "population_thousands": 33.7,
+      "latitude": 54.6513372,
+      "longitude": 19.9140572,
+      "region_name": "Калининградская область",
+      "region_iso_code": "RU-KGD",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Гвардейск",
+      "population_thousands": 13.3,
+      "latitude": 54.6588378,
+      "longitude": 21.0501388,
+      "region_name": "Калининградская область",
+      "region_iso_code": "RU-KGD",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Гурьевск",
+      "population_thousands": 19.3,
+      "latitude": 54.770638,
+      "longitude": 20.6039767,
+      "region_name": "Калининградская область",
+      "region_iso_code": "RU-KGD",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Гусев",
+      "population_thousands": 28.5,
+      "latitude": 54.5915455,
+      "longitude": 22.1942445,
+      "region_name": "Калининградская область",
+      "region_iso_code": "RU-KGD",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Зеленоградск",
+      "population_thousands": 16.5,
+      "latitude": 54.9600185,
+      "longitude": 20.4753652,
+      "region_name": "Калининградская область",
+      "region_iso_code": "RU-KGD",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Калининград",
+      "population_thousands": 489.3,
+      "latitude": 54.7074702,
+      "longitude": 20.5073241,
+      "region_name": "Калининградская область",
+      "region_iso_code": "RU-KGD",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Краснознаменск",
+      "population_thousands": 3.1,
+      "latitude": 54.9453423,
+      "longitude": 22.4928745,
+      "region_name": "Калининградская область",
+      "region_iso_code": "RU-KGD",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Ладушкин",
+      "population_thousands": 3.9,
+      "latitude": 54.5692156,
+      "longitude": 20.1690153,
+      "region_name": "Калининградская область",
+      "region_iso_code": "RU-KGD",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Мамоново",
+      "population_thousands": 8,
+      "latitude": 54.4646036,
+      "longitude": 19.9453482,
+      "region_name": "Калининградская область",
+      "region_iso_code": "RU-KGD",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Неман",
+      "population_thousands": 10.8,
+      "latitude": 55.0316524,
+      "longitude": 22.0324064,
+      "region_name": "Калининградская область",
+      "region_iso_code": "RU-KGD",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Нестеров",
+      "population_thousands": 3.9,
+      "latitude": 54.6313814,
+      "longitude": 22.5713736,
+      "region_name": "Калининградская область",
+      "region_iso_code": "RU-KGD",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Озерск",
+      "population_thousands": 3.8,
+      "latitude": 54.4084705,
+      "longitude": 22.0134438,
+      "region_name": "Калининградская область",
+      "region_iso_code": "RU-KGD",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Пионерский",
+      "population_thousands": 12.2,
+      "latitude": 54.9516574,
+      "longitude": 20.2277424,
+      "region_name": "Калининградская область",
+      "region_iso_code": "RU-KGD",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Полесск",
+      "population_thousands": 6.9,
+      "latitude": 54.8625126,
+      "longitude": 21.0998067,
+      "region_name": "Калининградская область",
+      "region_iso_code": "RU-KGD",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Правдинск",
+      "population_thousands": 4,
+      "latitude": 54.4430986,
+      "longitude": 21.0085269,
+      "region_name": "Калининградская область",
+      "region_iso_code": "RU-KGD",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Приморск",
+      "population_thousands": 1.9,
+      "latitude": 54.7311437,
+      "longitude": 19.9981926,
+      "region_name": "Калининградская область",
+      "region_iso_code": "RU-KGD",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Светлогорск",
+      "population_thousands": 15.2,
+      "latitude": 54.9439286,
+      "longitude": 20.1514295,
+      "region_name": "Калининградская область",
+      "region_iso_code": "RU-KGD",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Светлый",
+      "population_thousands": 21.6,
+      "latitude": 54.6772897,
+      "longitude": 20.1357595,
+      "region_name": "Калининградская область",
+      "region_iso_code": "RU-KGD",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Славск",
+      "population_thousands": 4,
+      "latitude": 55.0449714,
+      "longitude": 21.6742367,
+      "region_name": "Калининградская область",
+      "region_iso_code": "RU-KGD",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Советск",
+      "population_thousands": 39,
+      "latitude": 55.0809336,
+      "longitude": 21.8886106,
+      "region_name": "Калининградская область",
+      "region_iso_code": "RU-KGD",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Черняховск",
+      "population_thousands": 35.4,
+      "latitude": 54.6244751,
+      "longitude": 21.7969062,
+      "region_name": "Калининградская область",
+      "region_iso_code": "RU-KGD",
+      "federal_district": "Северо-Западный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Калининградская область - Бесплатная загрузка",
+    "description": "22 городов региона «Калининградская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 22 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Калининградская область | ListBase",
+    "seo_description": "Скачать Города — Калининградская область — 22 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 22 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

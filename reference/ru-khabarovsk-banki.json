@@ -1,0 +1,149 @@
+{
+  "id": "ru-khabarovsk-banki",
+  "name": "Банки — Khabarovsk (коды SWIFT/BIC)",
+  "title": "Банки — Khabarovsk (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in KHABAROVSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 43,
+      "bank": "ALFA-BANK",
+      "city": "KHABAROVSK",
+      "branch": "(KHABAROVSK BRANCH)",
+      "swift_code": "ALFARUM1020"
+    },
+    {
+      "id": 104,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "KHABAROVSK",
+      "branch": "(KHABAROVSK BRANCH)",
+      "swift_code": "MOBWRUM1KHB"
+    },
+    {
+      "id": 180,
+      "bank": "BANK OF CHINA (RUSSIA)",
+      "city": "KHABAROVSK",
+      "branch": "(KHABAROVSK)",
+      "swift_code": "BKCHRUMMKHB"
+    },
+    {
+      "id": 192,
+      "bank": "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "KHABAROVSK",
+      "branch": "(REGIOBANK-BRANCH OF BANK OTKRITIE FINANCIAL CORPORATION PJSC)",
+      "swift_code": "JSNMRUMMKHA"
+    },
+    {
+      "id": 202,
+      "bank": "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY) (FORMERLY KHANTY-MANSIYSK BANK OTKRITIE)",
+      "city": "KHABAROVSK",
+      "branch": "(DALNEVOSTOCHNIY  BRANCH)",
+      "swift_code": "RUDLRUM1HAB"
+    },
+    {
+      "id": 700,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "KHABAROVSK",
+      "branch": "(KHABAROVSKY BRANCH)",
+      "swift_code": "RUAGRUM1075"
+    },
+    {
+      "id": 939,
+      "bank": "MTS BANK",
+      "city": "KHABAROVSK",
+      "branch": "(FAR EASTERN BRANCH)",
+      "swift_code": "MBRDRUMMKHA"
+    },
+    {
+      "id": 958,
+      "bank": "NATIONAL BANK TRUST",
+      "city": "KHABAROVSK",
+      "branch": "(KHABAROVSK BRANCH)",
+      "swift_code": "NBTRRUM1KHA"
+    },
+    {
+      "id": 1022,
+      "bank": "OAO COMMERCIAL BANK USSURI",
+      "city": "KHABAROVSK",
+      "branch": "",
+      "swift_code": "USSURU81"
+    },
+    {
+      "id": 1205,
+      "bank": "ROSGOSSTRAKH BANK",
+      "city": "KHABAROVSK",
+      "branch": "(KHABAROVSK BRANCH)",
+      "swift_code": "RUIDRUM1KHA"
+    },
+    {
+      "id": 1265,
+      "bank": "ROYAL CREDIT BANK",
+      "city": "KHABAROVSK",
+      "branch": "(KHABAROVSK BRANCH)",
+      "swift_code": "ROCERU31HBR"
+    },
+    {
+      "id": 1328,
+      "bank": "SBERBANK (DALNEVOSTOCHNY HEAD OFFICE)",
+      "city": "KHABAROVSK",
+      "branch": "",
+      "swift_code": "SABRRU8K"
+    },
+    {
+      "id": 1577,
+      "bank": "VTB 24 (PJSC)",
+      "city": "KHABAROVSK",
+      "branch": "(N 2754)",
+      "swift_code": "CBGURUMMKHA"
+    },
+    {
+      "id": 1587,
+      "bank": "VTB BANK (PJSC)",
+      "city": "KHABAROVSK",
+      "branch": "(KHABAROVSK BRANCH)",
+      "swift_code": "VTBRRUM2KHA"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Khabarovsk (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in KHABAROVSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 14 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Khabarovsk (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Khabarovsk (коды SWIFT/BIC) — 14 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 14 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

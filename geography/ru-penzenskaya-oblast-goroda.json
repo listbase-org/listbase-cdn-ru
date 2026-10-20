@@ -1,0 +1,160 @@
+{
+  "id": "ru-penzenskaya-oblast-goroda",
+  "name": "Города — Пензенская область",
+  "title": "Города — Пензенская область",
+  "description": "11 городов региона «Пензенская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Белинский",
+      "population_thousands": 7.5,
+      "latitude": 52.9640996,
+      "longitude": 43.4183212,
+      "region_name": "Пензенская область",
+      "region_iso_code": "RU-PNZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Городище",
+      "population_thousands": 7.7,
+      "latitude": 53.2726916,
+      "longitude": 45.7026142,
+      "region_name": "Пензенская область",
+      "region_iso_code": "RU-PNZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Заречный",
+      "population_thousands": 65.5,
+      "latitude": 53.1960836,
+      "longitude": 45.1689907,
+      "region_name": "Пензенская область",
+      "region_iso_code": "RU-PNZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Каменка",
+      "population_thousands": 34.6,
+      "latitude": 53.1855463,
+      "longitude": 44.0469717,
+      "region_name": "Пензенская область",
+      "region_iso_code": "RU-PNZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Кузнецк",
+      "population_thousands": 80.5,
+      "latitude": 53.1130888,
+      "longitude": 46.605092,
+      "region_name": "Пензенская область",
+      "region_iso_code": "RU-PNZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Нижний Ломов",
+      "population_thousands": 20.5,
+      "latitude": 53.5300905,
+      "longitude": 43.6730217,
+      "region_name": "Пензенская область",
+      "region_iso_code": "RU-PNZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Никольск",
+      "population_thousands": 19.6,
+      "latitude": 53.7137496,
+      "longitude": 46.0799857,
+      "region_name": "Пензенская область",
+      "region_iso_code": "RU-PNZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Пенза",
+      "population_thousands": 520.3,
+      "latitude": 53.1753314,
+      "longitude": 45.0348625,
+      "region_name": "Пензенская область",
+      "region_iso_code": "RU-PNZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Сердобск",
+      "population_thousands": 30.9,
+      "latitude": 52.4697595,
+      "longitude": 44.2122414,
+      "region_name": "Пензенская область",
+      "region_iso_code": "RU-PNZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Спасск",
+      "population_thousands": 7,
+      "latitude": 53.9271974,
+      "longitude": 43.1859073,
+      "region_name": "Пензенская область",
+      "region_iso_code": "RU-PNZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Сурск",
+      "population_thousands": 5.9,
+      "latitude": 53.0761357,
+      "longitude": 45.6910796,
+      "region_name": "Пензенская область",
+      "region_iso_code": "RU-PNZ",
+      "federal_district": "Приволжский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Пензенская область - Бесплатная загрузка",
+    "description": "11 городов региона «Пензенская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 11 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Пензенская область | ListBase",
+    "seo_description": "Скачать Города — Пензенская область — 11 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 11 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

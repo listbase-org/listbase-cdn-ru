@@ -1,0 +1,223 @@
+{
+  "id": "ru-saratovskaya-oblast-goroda",
+  "name": "Города — Саратовская область",
+  "title": "Города — Саратовская область",
+  "description": "18 городов региона «Саратовская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Аркадак",
+      "population_thousands": 11.5,
+      "latitude": 51.938831,
+      "longitude": 43.4999221,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Аткарск",
+      "population_thousands": 24.1,
+      "latitude": 51.8736062,
+      "longitude": 45.0003247,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Балаково",
+      "population_thousands": 187.5,
+      "latitude": 52.0224231,
+      "longitude": 47.7827765,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Балашов",
+      "population_thousands": 75.8,
+      "latitude": 51.5388697,
+      "longitude": 43.1839757,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Вольск",
+      "population_thousands": 61.9,
+      "latitude": 52.0459865,
+      "longitude": 47.3873595,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Ершов",
+      "population_thousands": 18.8,
+      "latitude": 51.3508505,
+      "longitude": 48.2762226,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Калининск",
+      "population_thousands": 15.6,
+      "latitude": 51.4993591,
+      "longitude": 44.4710435,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Красноармейск",
+      "population_thousands": 22.3,
+      "latitude": 51.023541,
+      "longitude": 45.695044,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Красный Кут",
+      "population_thousands": 14.1,
+      "latitude": 50.9598317,
+      "longitude": 46.9712016,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Маркс",
+      "population_thousands": 30,
+      "latitude": 51.7133337,
+      "longitude": 46.7400339,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Новоузенск",
+      "population_thousands": 15.1,
+      "latitude": 50.455199,
+      "longitude": 48.1413153,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Петровск",
+      "population_thousands": 28.2,
+      "latitude": 52.3094237,
+      "longitude": 45.3851877,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Пугачев",
+      "population_thousands": 40.6,
+      "latitude": 52.0159921,
+      "longitude": 48.7972223,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Ртищево",
+      "population_thousands": 38.4,
+      "latitude": 52.2616271,
+      "longitude": 43.7842248,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Саратов",
+      "population_thousands": 838,
+      "latitude": 51.533557,
+      "longitude": 46.034257,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Хвалынск",
+      "population_thousands": 12.3,
+      "latitude": 52.4951572,
+      "longitude": 48.1045771,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Шиханы",
+      "population_thousands": 5.4,
+      "latitude": 52.1147391,
+      "longitude": 47.2023118,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Энгельс",
+      "population_thousands": 227,
+      "latitude": 51.4854003,
+      "longitude": 46.126722,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Саратовская область - Бесплатная загрузка",
+    "description": "18 городов региона «Саратовская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 18 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Саратовская область | ListBase",
+    "seo_description": "Скачать Города — Саратовская область — 18 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 18 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "ru-togliatti-banki",
+  "name": "Банки — Togliatti (коды SWIFT/BIC)",
+  "title": "Банки — Togliatti (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in TOGLIATTI (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 89,
+      "bank": "AVTOVAZBANK JOINT-STOCK COMPANY",
+      "city": "TOGLIATTI",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "AVBKRU3T"
+    },
+    {
+      "id": 485,
+      "bank": "GAZBANK ZAO AKB",
+      "city": "TOGLIATTI",
+      "branch": "(TOGLIATTI BRANCH)",
+      "swift_code": "CGAZRU31974"
+    },
+    {
+      "id": 518,
+      "bank": "GLOBEXBANK",
+      "city": "TOGLIATTI",
+      "branch": "(POVOLZHSKIJ BRANCH)",
+      "swift_code": "GLOBRUM1016"
+    },
+    {
+      "id": 1012,
+      "bank": "NOVIKOMBANK",
+      "city": "TOGLIATTI",
+      "branch": "(TOGLIATTI BRANCH)",
+      "swift_code": "CNOVRUM1TLT"
+    },
+    {
+      "id": 1250,
+      "bank": "ROST BANK",
+      "city": "TOGLIATTI",
+      "branch": "(TOLYATTI BRANCH)",
+      "swift_code": "JORORU21TLB"
+    },
+    {
+      "id": 1270,
+      "bank": "RTS BANK",
+      "city": "TOGLIATTI",
+      "branch": "",
+      "swift_code": "RTSRRU31"
+    },
+    {
+      "id": 1486,
+      "bank": "TOGLIATTIKHIMBANK",
+      "city": "TOGLIATTI",
+      "branch": "",
+      "swift_code": "TOGLRU3T"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Togliatti (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in TOGLIATTI (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 7 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Togliatti (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Togliatti (коды SWIFT/BIC) — 7 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 7 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

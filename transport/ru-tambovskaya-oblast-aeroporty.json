@@ -1,0 +1,315 @@
+{
+  "id": "ru-tambovskaya-oblast-aeroporty",
+  "name": "Аэропорты — Tambov Oblast (RU-TAM)",
+  "title": "Аэропорты — Tambov Oblast (RU-TAM)",
+  "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Tambov Oblast (ISO 3166-2 RU-TAM) — 8 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"small_airport\": 1, \"closed\": 4, \"medium_airport\": 3}. Извлечено из OurAirports.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 45215,
+      "ident": "RU-0289",
+      "type": "small_airport",
+      "name": "Goreloye Airfield",
+      "latitude_deg": 52.957,
+      "longitude_deg": 41.469,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-TAM",
+      "region_local_code": "TAM",
+      "region_name": "Tambov Oblast",
+      "municipality": "Tambov",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "XUON",
+      "home_link": "http://www.tambovsky.ru/",
+      "wikipedia_link": "",
+      "keywords": "Goreloe Airfield, Аэродром Горелое, ЬУОН"
+    },
+    {
+      "id": 46150,
+      "ident": "RU-0322",
+      "type": "closed",
+      "name": "Morshansk Air Base",
+      "latitude_deg": 53.44,
+      "longitude_deg": 41.737,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-TAM",
+      "region_local_code": "TAM",
+      "region_name": "Tambov Oblast",
+      "municipality": "Morshansk",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Аэродром Моршанск, XUWO"
+    },
+    {
+      "id": 46152,
+      "ident": "RU-0324",
+      "type": "closed",
+      "name": "Mordovo Airport",
+      "latitude_deg": 52.0783455164,
+      "longitude_deg": 40.7843399048,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-TAM",
+      "region_local_code": "TAM",
+      "region_name": "Tambov Oblast",
+      "municipality": "Mordovo",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Аэропорт Мордово"
+    },
+    {
+      "id": 35094,
+      "ident": "RU-4339",
+      "type": "medium_airport",
+      "name": "Tambov Air Base",
+      "latitude_deg": 52.700626,
+      "longitude_deg": 41.374168,
+      "elevation_ft": 554,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-TAM",
+      "region_local_code": "TAM",
+      "region_name": "Tambov Oblast",
+      "municipality": "Tambov",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "XUOM",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Tambov_(air_base)",
+      "keywords": ""
+    },
+    {
+      "id": 35036,
+      "ident": "RU-6687",
+      "type": "medium_airport",
+      "name": "Michurinsk Air Base",
+      "latitude_deg": 52.917455,
+      "longitude_deg": 40.365826,
+      "elevation_ft": 538,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-TAM",
+      "region_local_code": "TAM",
+      "region_name": "Tambov Oblast",
+      "municipality": "Michurinsk",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "XUWM",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Michurinsk_(air_base)",
+      "keywords": "ЬУВМ, Мичуринск, Michurinsk Northwest, Kozlov"
+    },
+    {
+      "id": 35123,
+      "ident": "RU-9545",
+      "type": "closed",
+      "name": "Zherdevka Air Base",
+      "latitude_deg": 51.833302,
+      "longitude_deg": 41.549999,
+      "elevation_ft": 489,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-TAM",
+      "region_local_code": "TAM",
+      "region_name": "Tambov Oblast",
+      "municipality": "Zherdevka",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Zherdevka_(air_base)",
+      "keywords": "Zerdevka, ZB08, Жердевка"
+    },
+    {
+      "id": 35002,
+      "ident": "RU-9990",
+      "type": "closed",
+      "name": "Kirsanov Air Base",
+      "latitude_deg": 52.666698,
+      "longitude_deg": 42.6833,
+      "elevation_ft": 584,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-TAM",
+      "region_local_code": "TAM",
+      "region_name": "Tambov Oblast",
+      "municipality": "Kirsanov",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Kirsanov_(air_base)",
+      "keywords": "XUWK"
+    },
+    {
+      "id": 32427,
+      "ident": "UUOT",
+      "type": "medium_airport",
+      "name": "Donskoye Airport",
+      "latitude_deg": 52.806099,
+      "longitude_deg": 41.4828,
+      "elevation_ft": 413,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-TAM",
+      "region_local_code": "TAM",
+      "region_name": "Tambov Oblast",
+      "municipality": "Tambov",
+      "scheduled_service": "no",
+      "icao_code": "UUOT",
+      "iata_code": "TBW",
+      "gps_code": "UUOT",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Tambov_Donskoye_Airport",
+      "keywords": ""
+    }
+  ],
+  "meta": {
+    "title": "Аэропорты — Tambov Oblast (RU-TAM) - Бесплатная загрузка",
+    "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Tambov Oblast (ISO 3166-2 RU-TAM) — 8 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"small_airport\": 1, \"closed\": 4, \"medium_airport\": 3}. Извлечено из OurAirports. Содержит 8 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Аэропорты — Tambov Oblast (RU-TAM) | ListBase",
+    "seo_description": "Скачать Аэропорты — Tambov Oblast (RU-TAM) — 8 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 8 записей / 21 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

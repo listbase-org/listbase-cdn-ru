@@ -1,0 +1,682 @@
+{
+  "id": "ru-plyazhi",
+  "name": "Пляжи России",
+  "title": "Пляжи России",
+  "description": "Список географических объектов класса «пляж», расположенных в России. Источник — Wikidata через публичный SPARQL-эндпоинт (instance of/subclass of Q40080, страна Россия Q159). Для каждого объекта приведены русское название (rdfs:label@ru), английское название, географические координаты (WGS84, P625) и ссылка на статью русской Википедии. Записи отсортированы по алфавиту русского названия. Записи без русскоязычной (кириллической) этикетки отфильтрованы согласно правилу проекта о сохранении родного текста. Всего 69 уникальных QID; координаты доступны для 66.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 69,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ru",
+      "label": "Name Ru",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ru",
+      "label": "Wikipedia Ru",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q4064854",
+      "name_ru": "Анапская пересыпь",
+      "name_en": "",
+      "latitude": 45.057477,
+      "longitude": 37.068324,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D0%BF%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D1%81%D1%8B%D0%BF%D1%8C"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q55657156",
+      "name_ru": "Анивский пляж",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B8%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%BB%D1%8F%D0%B6"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q4075966",
+      "name_ru": "Баклан (бухта)",
+      "name_en": "Baklan",
+      "latitude": 42.816667,
+      "longitude": 131.4,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BA%D0%BB%D0%B0%D0%BD_(%D0%B1%D1%83%D1%85%D1%82%D0%B0)"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q5601",
+      "name_ru": "Балтийская коса",
+      "name_en": "Vistula Spit",
+      "latitude": 54.4,
+      "longitude": 19.5,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D0%B0"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q12080873",
+      "name_ru": "Барьерная коса",
+      "name_en": "Baryernaya Spit",
+      "latitude": 76.586111,
+      "longitude": 112.594444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D1%8C%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D0%B0"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q4084156",
+      "name_ru": "Бердянская коса",
+      "name_en": "Berdiansk spit",
+      "latitude": 46.65,
+      "longitude": 36.783333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%B4%D1%8F%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D0%B0"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q127614248",
+      "name_ru": "Бурсаковский перекат",
+      "name_en": "Bursakovskiy perekat beach",
+      "latitude": 45.036756,
+      "longitude": 38.906508,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q107386634",
+      "name_ru": "Гамовский пляж",
+      "name_en": "",
+      "latitude": 57.864722,
+      "longitude": 56.119167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q12096461",
+      "name_ru": "Голая Коса",
+      "name_en": "Golaya Spit",
+      "latitude": 76.391667,
+      "longitude": 113.425,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q107386914",
+      "name_ru": "Головановский пляж",
+      "name_en": "",
+      "latitude": 58.155833,
+      "longitude": 56.4325,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q107386449",
+      "name_ru": "Городской пляж",
+      "name_en": "City beach of Perm",
+      "latitude": 58.02535,
+      "longitude": 56.22663,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q4162629",
+      "name_ru": "Длинная коса",
+      "name_en": "Dlinnaya Spit",
+      "latitude": 75.879827,
+      "longitude": 113.927778,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%BB%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F_(%D0%BA%D0%BE%D1%81%D0%B0,_%D0%BC%D0%BE%D1%80%D0%B5_%D0%9B%D0%B0%D0%BF%D1%82%D0%B5%D0%B2%D1%8B%D1%85,_%D1%81%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F)"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q4162635",
+      "name_ru": "Длинная коса",
+      "name_en": "Dlinnaya Spit",
+      "latitude": 75.025,
+      "longitude": 113.019444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%BB%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F_(%D0%BA%D0%BE%D1%81%D0%B0,_%D0%BC%D0%BE%D1%80%D0%B5_%D0%9B%D0%B0%D0%BF%D1%82%D0%B5%D0%B2%D1%8B%D1%85,_%D1%8E%D0%B6%D0%BD%D0%B0%D1%8F)"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q1984555",
+      "name_ru": "Долгая коса",
+      "name_en": "Dolgaya Spit",
+      "latitude": 46.668333,
+      "longitude": 37.756389,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BB%D0%B3%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D0%B0"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q4172268",
+      "name_ru": "Дюны (пляж)",
+      "name_en": "Beaches in Kurortny District of Saint Petersburg",
+      "latitude": 60.12717,
+      "longitude": 29.93865,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D1%8E%D0%BD%D1%8B_(%D0%BF%D0%BB%D1%8F%D0%B6)"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q4174239",
+      "name_ru": "Ейская коса",
+      "name_en": "Yeysk Spit",
+      "latitude": 46.736111,
+      "longitude": 38.2875,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%95%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D0%B0"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q10747877",
+      "name_ru": "Ейская коса",
+      "name_en": "Eysk Spit",
+      "latitude": 46.765,
+      "longitude": 38.332778,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%95%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D0%B0_(%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2)"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q107393213",
+      "name_ru": "Закамский пляж",
+      "name_en": "",
+      "latitude": 58.002222,
+      "longitude": 55.964722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q3802935",
+      "name_ru": "Защитная (коса)",
+      "name_en": "Zashchitnaya Spit",
+      "latitude": 78.292883,
+      "longitude": 106.835061,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D0%B0%D1%8F_(%D0%BA%D0%BE%D1%81%D0%B0)"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q12113225",
+      "name_ru": "Короткая коса",
+      "name_en": "Korotkaya Spit",
+      "latitude": 74.55055,
+      "longitude": 111.034442,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q37846840",
+      "name_ru": "Коса Еленина",
+      "name_en": "",
+      "latitude": 46.600556,
+      "longitude": 37.574722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q19910198",
+      "name_ru": "Коса Мээчкын",
+      "name_en": "Meechkyn Spit",
+      "latitude": 65.445278,
+      "longitude": -178.001111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D0%B0_%D0%9C%D1%8D%D1%8D%D1%87%D0%BA%D1%8B%D0%BD"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q37846906",
+      "name_ru": "Кошка Токаревского",
+      "name_en": "Tokarevsky spit",
+      "latitude": 43.0775,
+      "longitude": 131.839444,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q3802779",
+      "name_ru": "Крылатая (коса)",
+      "name_en": "Krylataya",
+      "latitude": 78.360242,
+      "longitude": 106.669678,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D1%8B%D0%BB%D0%B0%D1%82%D0%B0%D1%8F_(%D0%BA%D0%BE%D1%81%D0%B0)"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q5595",
+      "name_ru": "Куршская коса",
+      "name_en": "Curonian Spit",
+      "latitude": 55.274444,
+      "longitude": 20.970833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D1%88%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D0%B0"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q2619811",
+      "name_ru": "Лазурная (бухта)",
+      "name_en": "Lazurnaya Bay",
+      "latitude": 43.195556,
+      "longitude": 132.118056,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B7%D1%83%D1%80%D0%BD%D0%B0%D1%8F_(%D0%B1%D1%83%D1%85%D1%82%D0%B0)"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q37862434",
+      "name_ru": "Малкачанская Коса",
+      "name_en": "",
+      "latitude": 59.87,
+      "longitude": 154.408056,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q37863272",
+      "name_ru": "Манасское Взморье",
+      "name_en": "",
+      "latitude": 42.75,
+      "longitude": 47.7,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q37863896",
+      "name_ru": "Маркитанская Коса",
+      "name_en": "",
+      "latitude": 45.23917,
+      "longitude": 36.77083,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q24935284",
+      "name_ru": "Массандровский пляж",
+      "name_en": "",
+      "latitude": 44.498056,
+      "longitude": 34.179778,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%BB%D1%8F%D0%B6"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q18404700",
+      "name_ru": "Мечигменская коса",
+      "name_en": "Mechigmen Spit",
+      "latitude": 65.473333,
+      "longitude": -172.097778,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%87%D0%B8%D0%B3%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D0%B0"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q12130049",
+      "name_ru": "Моржовая коса",
+      "name_en": "Morzhovaya Spit",
+      "latitude": 75.513889,
+      "longitude": 113.655556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q37896216",
+      "name_ru": "Никольская Коса",
+      "name_en": "",
+      "latitude": 65.029444,
+      "longitude": 40.169722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q4329256",
+      "name_ru": "Обиточная коса",
+      "name_en": "Obytichna Spit",
+      "latitude": 46.5324,
+      "longitude": 36.2051,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D0%B8%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D0%B0"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q12141127",
+      "name_ru": "Омега",
+      "name_en": "",
+      "latitude": 44.598028,
+      "longitude": 33.443667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BC%D0%B5%D0%B3%D0%B0_(%D0%BF%D0%BB%D1%8F%D0%B6)"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q37900484",
+      "name_ru": "Охотская Коса",
+      "name_en": "",
+      "latitude": 59.35,
+      "longitude": 143.116667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q39165903",
+      "name_ru": "Петровская Коса",
+      "name_en": "",
+      "latitude": 53.478333,
+      "longitude": 141.031389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q4361732",
+      "name_ru": "Петрушина коса",
+      "name_en": "Petrushin Spit",
+      "latitude": 47.173889,
+      "longitude": 38.865278,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%80%D1%83%D1%88%D0%B8%D0%BD%D0%B0_%D0%BA%D0%BE%D1%81%D0%B0"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q42161273",
+      "name_ru": "Плавательный бассейн «Чайка»",
+      "name_en": "Chayka swimming pool",
+      "latitude": 55.736508,
+      "longitude": 37.596367,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D0%B9%D0%BA%D0%B0_(%D0%B1%D0%B0%D1%81%D1%81%D0%B5%D0%B9%D0%BD)"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q107386561",
+      "name_ru": "Пляж «Медовый»",
+      "name_en": "",
+      "latitude": 57.986667,
+      "longitude": 56.127778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q124428766",
+      "name_ru": "Пляж Канонерского острова",
+      "name_en": "Kanonerskiy island beach",
+      "latitude": 59.90211,
+      "longitude": 30.21302,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q127288839",
+      "name_ru": "Пляж в Головинке",
+      "name_en": "",
+      "latitude": 43.795871,
+      "longitude": 39.456938,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q130348512",
+      "name_ru": "Пляж в Стародубском",
+      "name_en": "Starodubskoye beach",
+      "latitude": 47.41653,
+      "longitude": 142.80862,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q107393221",
+      "name_ru": "Пляж на Мулянке",
+      "name_en": "",
+      "latitude": 57.998889,
+      "longitude": 56.131111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q107386564",
+      "name_ru": "Пляж у Камгэса",
+      "name_en": "",
+      "latitude": 58.12389,
+      "longitude": 56.3678,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q127288042",
+      "name_ru": "Пляжи Аше",
+      "name_en": "",
+      "latitude": 43.954758,
+      "longitude": 39.268259,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q4365990",
+      "name_ru": "Пляжи Севастополя",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D1%8F%D0%B6%D0%B8_%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D0%BB%D1%8F"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q12166017",
+      "name_ru": "Пляжи Фороса",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q39170193",
+      "name_ru": "Полуостров Меркушина Стрелка",
+      "name_en": "",
+      "latitude": 72.448056,
+      "longitude": 145.5825,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q3802853",
+      "name_ru": "Преградная (коса)",
+      "name_en": "Peregradnaya",
+      "latitude": 78.301378,
+      "longitude": 106.458186,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B3%D1%80%D0%B0%D0%B4%D0%BD%D0%B0%D1%8F_(%D0%BA%D0%BE%D1%81%D0%B0)"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q39179529",
+      "name_ru": "Роутан-Коса",
+      "name_en": "",
+      "latitude": 69.7725,
+      "longitude": 170.258333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q252372",
+      "name_ru": "Русская Кошка",
+      "name_en": "Russkaya Koshka",
+      "latitude": 64.566667,
+      "longitude": 178.55,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%9A%D0%BE%D1%88%D0%BA%D0%B0"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q4406371",
+      "name_ru": "Самарская набережная",
+      "name_en": "Samara embankment",
+      "latitude": 53.189694,
+      "longitude": 50.082222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q12141129",
+      "name_ru": "Солнечный",
+      "name_en": "Sunny Beach",
+      "latitude": 44.608882,
+      "longitude": 33.484944,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q3802886",
+      "name_ru": "Стяг (коса)",
+      "name_en": "Styag",
+      "latitude": 78.372428,
+      "longitude": 106.597225,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%8F%D0%B3_(%D0%BA%D0%BE%D1%81%D0%B0)"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q4445413",
+      "name_ru": "Суджукская коса",
+      "name_en": "",
+      "latitude": 44.675,
+      "longitude": 37.809722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%B4%D0%B6%D1%83%D0%BA%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D0%B0"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q48942219",
+      "name_ru": "Тихая бухта",
+      "name_en": "",
+      "latitude": 44.9667,
+      "longitude": 35.3,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D1%85%D0%B0%D1%8F_%D0%B1%D1%83%D1%85%D1%82%D0%B0_(%D0%9A%D1%80%D1%8B%D0%BC)"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q2370029",
+      "name_ru": "Тузлинская коса",
+      "name_en": "Tuzla Spit",
+      "latitude": 45.268333,
+      "longitude": 36.55,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%B7%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D0%B0"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q4482233",
+      "name_ru": "Федотова коса",
+      "name_en": "Fedotova Spit",
+      "latitude": 46.298056,
+      "longitude": 35.303611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D0%B4%D0%BE%D1%82%D0%BE%D0%B2%D0%B0_%D0%BA%D0%BE%D1%81%D0%B0"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q4483462",
+      "name_ru": "Фигурная коса",
+      "name_en": "Figurnaya Spit",
+      "latitude": 75.025,
+      "longitude": 113.019444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B3%D1%83%D1%80%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D0%B0"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q37825102",
+      "name_ru": "Халактырский Пляж",
+      "name_en": "Khalaktyrsky Beach",
+      "latitude": 53.040833,
+      "longitude": 158.935833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BB%D0%B0%D0%BA%D1%82%D1%8B%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%BB%D1%8F%D0%B6"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q37825105",
+      "name_ru": "Халактырский Пляж",
+      "name_en": "",
+      "latitude": 53.113333,
+      "longitude": 159.105,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q28957480",
+      "name_ru": "Центральный пляж (Таганрог)",
+      "name_en": "",
+      "latitude": 47.199444,
+      "longitude": 38.925,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BB%D1%8F%D0%B6_(%D0%A2%D0%B0%D0%B3%D0%B0%D0%BD%D1%80%D0%BE%D0%B3)"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q2011735",
+      "name_ru": "Чушка",
+      "name_en": "Chushka Spit",
+      "latitude": 45.35,
+      "longitude": 36.694722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D1%83%D1%88%D0%BA%D0%B0_(%D0%BA%D0%BE%D1%81%D0%B0)"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q4536220",
+      "name_ru": "Ягры",
+      "name_en": "Yagry",
+      "latitude": 64.6,
+      "longitude": 39.833333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AF%D0%B3%D1%80%D1%8B"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q4539234",
+      "name_ru": "Ясенская коса",
+      "name_en": "Yasenskaya Spit",
+      "latitude": 46.2075,
+      "longitude": 38.251389,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AF%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D0%B0"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q14775638",
+      "name_ru": "Яшмовый пляж",
+      "name_en": "Yashmovyi beach",
+      "latitude": 44.50325,
+      "longitude": 33.507972,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AF%D1%88%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BF%D0%BB%D1%8F%D0%B6"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q137886462",
+      "name_ru": "коса Канонерского острова",
+      "name_en": "",
+      "latitude": 59.887,
+      "longitude": 30.18,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q107393209",
+      "name_ru": "нудистский пляж Перми",
+      "name_en": "",
+      "latitude": 58.021442,
+      "longitude": 56.187172,
+      "wikipedia_ru": ""
+    }
+  ],
+  "meta": {
+    "title": "Пляжи России - Бесплатная загрузка",
+    "description": "Список географических объектов класса «пляж», расположенных в России. Источник — Wikidata через публичный SPARQL-эндпоинт (instance of/subclass of Q40080, страна Россия Q159). Для каждого объекта приведены русское название (rdfs:label@ru), английское название, географические координаты (WGS84, P625) и ссылка на статью русской Википедии. Записи отсортированы по алфавиту русского названия. Записи без русскоязычной (кириллической) этикетки отфильтрованы согласно правилу проекта о сохранении родного текста. Всего 69 уникальных QID; координаты доступны для 66. Содержит 69 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Пляжи России | ListBase",
+    "seo_description": "Скачать Пляжи России — 69 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 69 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "ru-lipetsk-banki",
+  "name": "Банки — Lipetsk (коды SWIFT/BIC)",
+  "title": "Банки — Lipetsk (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in LIPETSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 108,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "LIPETSK",
+      "branch": "(LIPETSK BRANCH)",
+      "swift_code": "MOBWRUM1LIP"
+    },
+    {
+      "id": 221,
+      "bank": "BANK ''ROSSIYA''",
+      "city": "LIPETSK",
+      "branch": "(LIPETSK BRANCH)",
+      "swift_code": "ROSYRU21LIP"
+    },
+    {
+      "id": 708,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "LIPETSK",
+      "branch": "(LIPETSKIY BRANCH)",
+      "swift_code": "RUAGRUM1024"
+    },
+    {
+      "id": 778,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "LIPETSK",
+      "branch": "(LIPETSKOE REGIONAL DEPARTMENT OFFICE)",
+      "swift_code": "MINNRUM1054"
+    },
+    {
+      "id": 859,
+      "bank": "LIPETSKCOMBANK PJSC",
+      "city": "LIPETSK",
+      "branch": "",
+      "swift_code": "LIPERU2L"
+    },
+    {
+      "id": 861,
+      "bank": "LIPETSKOBLBANK",
+      "city": "LIPETSK",
+      "branch": "",
+      "swift_code": "LIPKRU21"
+    },
+    {
+      "id": 1117,
+      "bank": "PJSC ROSBANK",
+      "city": "LIPETSK",
+      "branch": "(LIPETSK BRANCH)",
+      "swift_code": "RSBNRUM1LIP"
+    },
+    {
+      "id": 1231,
+      "bank": "ROST BANK",
+      "city": "LIPETSK",
+      "branch": "(LIPECK BRANCH)",
+      "swift_code": "JORORU21LIB"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Lipetsk (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in LIPETSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 8 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Lipetsk (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Lipetsk (коды SWIFT/BIC) — 8 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 8 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

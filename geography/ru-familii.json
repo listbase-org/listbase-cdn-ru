@@ -1,0 +1,216 @@
+{
+  "id": "ru-familii",
+  "name": "Ru Familii",
+  "title": "Ru Familii",
+  "description": "Топ-20 наиболее распространённых фамилий в России с количеством носителей и долей в населении",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "count",
+      "label": "Count",
+      "type": "number"
+    },
+    {
+      "key": "percent",
+      "label": "Percent",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "RU-1",
+      "rank": 1,
+      "localized": "Смирно́в",
+      "romanized": "Smirnov",
+      "count": 2308740,
+      "percent": 0.0161
+    },
+    {
+      "name_group": "RU-2",
+      "rank": 2,
+      "localized": "Ивано́в",
+      "romanized": "Ivanov",
+      "count": 1864200,
+      "percent": 0.013
+    },
+    {
+      "name_group": "RU-3",
+      "rank": 3,
+      "localized": "Кузнецо́в",
+      "romanized": "Kuznetsov",
+      "count": 1290600,
+      "percent": 0.009
+    },
+    {
+      "name_group": "RU-4",
+      "rank": 4,
+      "localized": "Попо́в",
+      "romanized": "Popov",
+      "count": 1132860,
+      "percent": 0.0079
+    },
+    {
+      "name_group": "RU-5",
+      "rank": 5,
+      "localized": "Соколо́в",
+      "romanized": "Sokolov",
+      "count": 1046820,
+      "percent": 0.0073
+    },
+    {
+      "name_group": "RU-6",
+      "rank": 6,
+      "localized": "Ле́бедев",
+      "romanized": "Lebedev",
+      "count": 932100,
+      "percent": 0.0065
+    },
+    {
+      "name_group": "RU-7",
+      "rank": 7,
+      "localized": "Козло́в",
+      "romanized": "Kozlov",
+      "count": 831720,
+      "percent": 0.0058
+    },
+    {
+      "name_group": "RU-8",
+      "rank": 8,
+      "localized": "Но́виков",
+      "romanized": "Novikov",
+      "count": 774360,
+      "percent": 0.0054
+    },
+    {
+      "name_group": "RU-9",
+      "rank": 9,
+      "localized": "Моро́зов",
+      "romanized": "Morozov",
+      "count": 760020,
+      "percent": 0.0053
+    },
+    {
+      "name_group": "RU-10",
+      "rank": 10,
+      "localized": "Петро́в",
+      "romanized": "Petrov",
+      "count": 630960,
+      "percent": 0.0044
+    },
+    {
+      "name_group": "RU-11",
+      "rank": 11,
+      "localized": "Во́лков",
+      "romanized": "Volkov",
+      "count": 630960,
+      "percent": 0.0044
+    },
+    {
+      "name_group": "RU-12",
+      "rank": 12,
+      "localized": "Соловьёв",
+      "romanized": "Solovyov",
+      "count": 630960,
+      "percent": 0.0044
+    },
+    {
+      "name_group": "RU-13",
+      "rank": 13,
+      "localized": "Васи́льев",
+      "romanized": "Vasilyev",
+      "count": 602280,
+      "percent": 0.0042
+    },
+    {
+      "name_group": "RU-14",
+      "rank": 14,
+      "localized": "За́йцев",
+      "romanized": "Zaytsev",
+      "count": 587940,
+      "percent": 0.0041
+    },
+    {
+      "name_group": "RU-15",
+      "rank": 15,
+      "localized": "Па́влов",
+      "romanized": "Pavlov",
+      "count": 559260,
+      "percent": 0.0039
+    },
+    {
+      "name_group": "RU-16",
+      "rank": 16,
+      "localized": "Семёнов",
+      "romanized": "Semyonov",
+      "count": 501900,
+      "percent": 0.0035
+    },
+    {
+      "name_group": "RU-17",
+      "rank": 17,
+      "localized": "Го́лубев",
+      "romanized": "Golubev",
+      "count": 458880,
+      "percent": 0.0032
+    },
+    {
+      "name_group": "RU-18",
+      "rank": 18,
+      "localized": "Виногра́дов",
+      "romanized": "Vinogradov",
+      "count": 458880,
+      "percent": 0.0032
+    },
+    {
+      "name_group": "RU-19",
+      "rank": 19,
+      "localized": "Богда́нов",
+      "romanized": "Bogdanov",
+      "count": 444540,
+      "percent": 0.0031
+    },
+    {
+      "name_group": "RU-20",
+      "rank": 20,
+      "localized": "Воробьёв",
+      "romanized": "Vorobyov",
+      "count": 430200,
+      "percent": 0.003
+    }
+  ],
+  "meta": {
+    "title": "Ru Familii - Бесплатная загрузка",
+    "description": "Топ-20 наиболее распространённых фамилий в России с количеством носителей и долей в населении Содержит 20 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Ru Familii | ListBase",
+    "seo_description": "Скачать Ru Familii — 20 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 20 записей / 6 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

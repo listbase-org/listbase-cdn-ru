@@ -1,0 +1,720 @@
+{
+  "id": "ru-regiony",
+  "name": "Регионы России",
+  "title": "Регионы России",
+  "description": "Administrative regions/states of RU with coordinates",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 83,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "state_code",
+      "label": "State Code",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1852,
+      "name": "Adygea",
+      "state_code": "",
+      "type": "republic",
+      "latitude": "44.69390060",
+      "longitude": "40.15204210"
+    },
+    {
+      "id": 1911,
+      "name": "Altai",
+      "state_code": "",
+      "type": "administrative territory",
+      "latitude": "50.71141010",
+      "longitude": "86.85721860"
+    },
+    {
+      "id": 1876,
+      "name": "Altai",
+      "state_code": "",
+      "type": "republic",
+      "latitude": "50.71141010",
+      "longitude": "86.85721860"
+    },
+    {
+      "id": 1858,
+      "name": "Amur",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "52.80323680",
+      "longitude": "128.43729500"
+    },
+    {
+      "id": 1849,
+      "name": "Arkhangelsk",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "64.54585490",
+      "longitude": "40.55057690"
+    },
+    {
+      "id": 1866,
+      "name": "Astrakhan",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "46.34983080",
+      "longitude": "48.03262030"
+    },
+    {
+      "id": 1854,
+      "name": "Bashkortostan",
+      "state_code": "",
+      "type": "republic",
+      "latitude": "54.47475530",
+      "longitude": "55.97845820"
+    },
+    {
+      "id": 1903,
+      "name": "Belgorod",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "50.70801190",
+      "longitude": "37.58376150"
+    },
+    {
+      "id": 1867,
+      "name": "Bryansk",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "53.24237780",
+      "longitude": "34.36682880"
+    },
+    {
+      "id": 1842,
+      "name": "Buryatia",
+      "state_code": "",
+      "type": "republic",
+      "latitude": "52.71824260",
+      "longitude": "109.49214300"
+    },
+    {
+      "id": 1893,
+      "name": "Chechen",
+      "state_code": "",
+      "type": "republic",
+      "latitude": "43.40000000",
+      "longitude": "45.70000000"
+    },
+    {
+      "id": 1845,
+      "name": "Chelyabinsk",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "55.15593120",
+      "longitude": "61.40127260"
+    },
+    {
+      "id": 1859,
+      "name": "Chukotka",
+      "state_code": "",
+      "type": "autonomous district",
+      "latitude": "66.00064750",
+      "longitude": "169.49008690"
+    },
+    {
+      "id": 1914,
+      "name": "Chuvash",
+      "state_code": "",
+      "type": "republic",
+      "latitude": "55.42599220",
+      "longitude": "47.08494290"
+    },
+    {
+      "id": 1850,
+      "name": "Dagestan",
+      "state_code": "",
+      "type": "republic",
+      "latitude": "43.00000000",
+      "longitude": "47.00000000"
+    },
+    {
+      "id": 1884,
+      "name": "Ingushetia",
+      "state_code": "",
+      "type": "republic",
+      "latitude": "43.16553090",
+      "longitude": "44.97968200"
+    },
+    {
+      "id": 1880,
+      "name": "Irkutsk",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "52.28548340",
+      "longitude": "104.28902220"
+    },
+    {
+      "id": 1864,
+      "name": "Ivanovo",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "56.99568550",
+      "longitude": "40.98121040"
+    },
+    {
+      "id": 1835,
+      "name": "Jewish",
+      "state_code": "",
+      "type": "autonomous region",
+      "latitude": "48.56016130",
+      "longitude": "132.27756620"
+    },
+    {
+      "id": 1892,
+      "name": "Kabardino-Balkar",
+      "state_code": "",
+      "type": "republic",
+      "latitude": "43.44282860",
+      "longitude": "43.42048090"
+    },
+    {
+      "id": 1902,
+      "name": "Kaliningrad",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "54.71042640",
+      "longitude": "20.45221440"
+    },
+    {
+      "id": 1883,
+      "name": "Kalmykia",
+      "state_code": "",
+      "type": "republic",
+      "latitude": "46.90171160",
+      "longitude": "45.24916100"
+    },
+    {
+      "id": 1844,
+      "name": "Kaluga",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "54.43827730",
+      "longitude": "35.52728540"
+    },
+    {
+      "id": 1865,
+      "name": "Kamchatka",
+      "state_code": "",
+      "type": "administrative territory",
+      "latitude": "57.19148820",
+      "longitude": "160.03838190"
+    },
+    {
+      "id": 1869,
+      "name": "Karachay-Cherkess",
+      "state_code": "",
+      "type": "republic",
+      "latitude": "43.73683260",
+      "longitude": "41.72679910"
+    },
+    {
+      "id": 1841,
+      "name": "Karelia",
+      "state_code": "",
+      "type": "republic",
+      "latitude": "62.61940310",
+      "longitude": "33.49202670"
+    },
+    {
+      "id": 1897,
+      "name": "Kemerovo",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "54.53357810",
+      "longitude": "87.34286100"
+    },
+    {
+      "id": 1873,
+      "name": "Khabarovsk",
+      "state_code": "",
+      "type": "administrative territory",
+      "latitude": "51.63126840",
+      "longitude": "136.12152400"
+    },
+    {
+      "id": 1877,
+      "name": "Khakassia",
+      "state_code": "",
+      "type": "republic",
+      "latitude": "53.43993790",
+      "longitude": "90.06643030"
+    },
+    {
+      "id": 1838,
+      "name": "Khanty-Mansi",
+      "state_code": "",
+      "type": "autonomous district",
+      "latitude": "61.87934280",
+      "longitude": "68.64181560"
+    },
+    {
+      "id": 1890,
+      "name": "Kirov",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "58.60356610",
+      "longitude": "49.66662410"
+    },
+    {
+      "id": 1899,
+      "name": "Komi",
+      "state_code": "",
+      "type": "republic",
+      "latitude": "63.98814210",
+      "longitude": "54.33260730"
+    },
+    {
+      "id": 1910,
+      "name": "Kostroma",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "58.60443270",
+      "longitude": "41.58893820"
+    },
+    {
+      "id": 1891,
+      "name": "Krasnodar",
+      "state_code": "",
+      "type": "administrative territory",
+      "latitude": "45.76840140",
+      "longitude": "39.02610440"
+    },
+    {
+      "id": 1840,
+      "name": "Krasnoyarsk",
+      "state_code": "",
+      "type": "administrative territory",
+      "latitude": "63.32338070",
+      "longitude": "97.09799740"
+    },
+    {
+      "id": 1915,
+      "name": "Kurgan",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "55.44093570",
+      "longitude": "65.34211690"
+    },
+    {
+      "id": 1855,
+      "name": "Kursk",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "51.73092490",
+      "longitude": "36.19231230"
+    },
+    {
+      "id": 1896,
+      "name": "Leningrad",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "60.18532960",
+      "longitude": "32.39253250"
+    },
+    {
+      "id": 1889,
+      "name": "Lipetsk",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "52.69351780",
+      "longitude": "39.11226640"
+    },
+    {
+      "id": 1839,
+      "name": "Magadan",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "63.55150280",
+      "longitude": "154.01472600"
+    },
+    {
+      "id": 1870,
+      "name": "Mari El",
+      "state_code": "",
+      "type": "republic",
+      "latitude": "56.57675040",
+      "longitude": "47.88175120"
+    },
+    {
+      "id": 1898,
+      "name": "Mordovia",
+      "state_code": "",
+      "type": "republic",
+      "latitude": "54.44198290",
+      "longitude": "44.46611440"
+    },
+    {
+      "id": 1882,
+      "name": "Moscow",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "55.62557800",
+      "longitude": "37.60639160"
+    },
+    {
+      "id": 1901,
+      "name": "Moscow",
+      "state_code": "",
+      "type": "autonomous city",
+      "latitude": "55.62557800",
+      "longitude": "37.60639160"
+    },
+    {
+      "id": 1843,
+      "name": "Murmansk",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "68.00004180",
+      "longitude": "33.99991510"
+    },
+    {
+      "id": 1836,
+      "name": "Nenets",
+      "state_code": "",
+      "type": "autonomous city",
+      "latitude": "67.67832530",
+      "longitude": "57.06268530"
+    },
+    {
+      "id": 1857,
+      "name": "Nizhny Novgorod",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "56.27692920",
+      "longitude": "43.92129810"
+    },
+    {
+      "id": 1853,
+      "name": "North Ossetia-Alania",
+      "state_code": "",
+      "type": "republic",
+      "latitude": "42.99207110",
+      "longitude": "44.26363480"
+    },
+    {
+      "id": 1834,
+      "name": "Novgorod",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "58.52098620",
+      "longitude": "31.27578620"
+    },
+    {
+      "id": 1888,
+      "name": "Novosibirsk",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "54.96781440",
+      "longitude": "82.95159890"
+    },
+    {
+      "id": 1846,
+      "name": "Omsk",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "54.99137500",
+      "longitude": "73.37152900"
+    },
+    {
+      "id": 1886,
+      "name": "Orenburg",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "52.02692620",
+      "longitude": "54.72766470"
+    },
+    {
+      "id": 1908,
+      "name": "Oryol",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "52.83927650",
+      "longitude": "36.42517090"
+    },
+    {
+      "id": 1909,
+      "name": "Penza",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "53.16554150",
+      "longitude": "44.78791810"
+    },
+    {
+      "id": 1871,
+      "name": "Perm",
+      "state_code": "",
+      "type": "administrative territory",
+      "latitude": "58.59516030",
+      "longitude": "56.31595460"
+    },
+    {
+      "id": 1833,
+      "name": "Primorsky",
+      "state_code": "",
+      "type": "administrative territory",
+      "latitude": "45.08194560",
+      "longitude": "134.72664500"
+    },
+    {
+      "id": 1863,
+      "name": "Pskov",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "57.53587290",
+      "longitude": "28.85868260"
+    },
+    {
+      "id": 1837,
+      "name": "Rostov",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "47.62224510",
+      "longitude": "40.79579420"
+    },
+    {
+      "id": 1905,
+      "name": "Ryazan",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "54.62956870",
+      "longitude": "39.74250390"
+    },
+    {
+      "id": 1879,
+      "name": "Saint Petersburg",
+      "state_code": "",
+      "type": "autonomous city",
+      "latitude": "59.93873200",
+      "longitude": "30.31622900"
+    },
+    {
+      "id": 1848,
+      "name": "Sakha",
+      "state_code": "",
+      "type": "republic",
+      "latitude": "66.94162600",
+      "longitude": "129.64237100"
+    },
+    {
+      "id": 1875,
+      "name": "Sakhalin",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "50.15947600",
+      "longitude": "143.02644120"
+    },
+    {
+      "id": 1862,
+      "name": "Samara",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "53.19562550",
+      "longitude": "50.10149270"
+    },
+    {
+      "id": 1887,
+      "name": "Saratov",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "51.53001800",
+      "longitude": "46.03468300"
+    },
+    {
+      "id": 1885,
+      "name": "Smolensk",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "55.03434960",
+      "longitude": "33.01920650"
+    },
+    {
+      "id": 1868,
+      "name": "Stavropol",
+      "state_code": "",
+      "type": "administrative territory",
+      "latitude": "44.86325770",
+      "longitude": "43.44069130"
+    },
+    {
+      "id": 1894,
+      "name": "Sverdlovsk",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "56.83910400",
+      "longitude": "60.60825000"
+    },
+    {
+      "id": 1878,
+      "name": "Tambov",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "52.72161640",
+      "longitude": "41.45239880"
+    },
+    {
+      "id": 1861,
+      "name": "Tatarstan",
+      "state_code": "",
+      "type": "republic",
+      "latitude": "55.44821700",
+      "longitude": "50.47635910"
+    },
+    {
+      "id": 1872,
+      "name": "Tomsk",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "58.61242790",
+      "longitude": "82.04753150"
+    },
+    {
+      "id": 1895,
+      "name": "Tula",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "54.19303210",
+      "longitude": "37.61754000"
+    },
+    {
+      "id": 1900,
+      "name": "Tuva",
+      "state_code": "",
+      "type": "republic",
+      "latitude": "51.40171490",
+      "longitude": "93.85825930"
+    },
+    {
+      "id": 1860,
+      "name": "Tver",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "57.11344750",
+      "longitude": "35.17444280"
+    },
+    {
+      "id": 1907,
+      "name": "Tyumen",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "57.15353400",
+      "longitude": "65.54227400"
+    },
+    {
+      "id": 1913,
+      "name": "Udmurt",
+      "state_code": "",
+      "type": "republic",
+      "latitude": "57.19611650",
+      "longitude": "52.69598320"
+    },
+    {
+      "id": 1856,
+      "name": "Ulyanovsk",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "54.14631770",
+      "longitude": "47.23249210"
+    },
+    {
+      "id": 1881,
+      "name": "Vladimir",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "56.12888990",
+      "longitude": "40.40752030"
+    },
+    {
+      "id": 4916,
+      "name": "Volgograd Oblast",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "49.60483390",
+      "longitude": "44.29035820"
+    },
+    {
+      "id": 1874,
+      "name": "Vologda",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "59.22645850",
+      "longitude": "39.87223910"
+    },
+    {
+      "id": 1906,
+      "name": "Voronezh",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "51.66059820",
+      "longitude": "39.20058580"
+    },
+    {
+      "id": 1847,
+      "name": "Yamalo-Nenets",
+      "state_code": "",
+      "type": "autonomous district",
+      "latitude": "67.14716310",
+      "longitude": "74.34154880"
+    },
+    {
+      "id": 1851,
+      "name": "Yaroslavl",
+      "state_code": "",
+      "type": "administrative region",
+      "latitude": "57.65084320",
+      "longitude": "39.87186340"
+    },
+    {
+      "id": 1904,
+      "name": "Zabaykalsky",
+      "state_code": "",
+      "type": "administrative territory",
+      "latitude": "52.24852100",
+      "longitude": "115.95632500"
+    }
+  ],
+  "meta": {
+    "title": "Регионы России - Бесплатная загрузка",
+    "description": "Administrative regions/states of RU with coordinates Содержит 83 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Регионы России | ListBase",
+    "seo_description": "Скачать Регионы России — 83 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 83 записей / 6 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

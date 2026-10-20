@@ -1,0 +1,339 @@
+{
+  "id": "ru-yuzhnaya-amerika-strany",
+  "name": "Страны: Южная Америка (South America countries — Russian)",
+  "title": "Страны: Южная Америка (South America countries — Russian)",
+  "description": "14 стран в части света Южная Америка (South America) с названиями на русском и английском, кодами ISO, телефонными кодами, столицей, валютами, языками и эмодзи-флагом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "iso_3166_1_alpha_2",
+      "label": "Iso 3166 1 Alpha 2",
+      "type": "string"
+    },
+    {
+      "key": "iso_3166_1_alpha_3",
+      "label": "Iso 3166 1 Alpha 3",
+      "type": "string"
+    },
+    {
+      "key": "name_ru",
+      "label": "Name Ru",
+      "type": "string"
+    },
+    {
+      "key": "name_ru_formal",
+      "label": "Name Ru Formal",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "phone_codes",
+      "label": "Phone Codes",
+      "type": "number"
+    },
+    {
+      "key": "phone_codes_formatted",
+      "label": "Phone Codes Formatted",
+      "type": "string"
+    },
+    {
+      "key": "continent_code",
+      "label": "Continent Code",
+      "type": "string"
+    },
+    {
+      "key": "continent_ru",
+      "label": "Continent Ru",
+      "type": "string"
+    },
+    {
+      "key": "capital",
+      "label": "Capital",
+      "type": "string"
+    },
+    {
+      "key": "currency_codes",
+      "label": "Currency Codes",
+      "type": "string"
+    },
+    {
+      "key": "language_codes",
+      "label": "Language Codes",
+      "type": "string"
+    },
+    {
+      "key": "tld",
+      "label": "Tld",
+      "type": "string"
+    },
+    {
+      "key": "emoji_flag",
+      "label": "Emoji Flag",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_3166_1_alpha_2": "AR",
+      "iso_3166_1_alpha_3": "ARG",
+      "name_ru": "Аргентина",
+      "name_ru_formal": "Аргентинская Республика",
+      "name_en": "Argentina",
+      "slug": "argentina",
+      "phone_codes": "54",
+      "phone_codes_formatted": "+54",
+      "continent_code": "SA",
+      "continent_ru": "Южная Америка",
+      "capital": "Buenos Aires",
+      "currency_codes": "ARS",
+      "language_codes": "es-AR, en, it, de, fr, gn",
+      "tld": ".ar",
+      "emoji_flag": "🇦🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "BO",
+      "iso_3166_1_alpha_3": "BOL",
+      "name_ru": "Боливия (Многонациональное Государство)",
+      "name_ru_formal": "Многонациональное Государство Боливия",
+      "name_en": "Bolivia",
+      "slug": "bolivia",
+      "phone_codes": "591",
+      "phone_codes_formatted": "+591",
+      "continent_code": "SA",
+      "continent_ru": "Южная Америка",
+      "capital": "Sucre",
+      "currency_codes": "BOB",
+      "language_codes": "es-BO, qu, ay",
+      "tld": ".bo",
+      "emoji_flag": "🇧🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "BR",
+      "iso_3166_1_alpha_3": "BRA",
+      "name_ru": "Бразилия",
+      "name_ru_formal": "Федеративная Республика Бразилия",
+      "name_en": "Brazil",
+      "slug": "brazil",
+      "phone_codes": "55",
+      "phone_codes_formatted": "+55",
+      "continent_code": "SA",
+      "continent_ru": "Южная Америка",
+      "capital": "Brasilia",
+      "currency_codes": "BRL",
+      "language_codes": "pt-BR, es, en, fr",
+      "tld": ".br",
+      "emoji_flag": "🇧🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "CL",
+      "iso_3166_1_alpha_3": "CHL",
+      "name_ru": "Чили",
+      "name_ru_formal": "Республика Чили",
+      "name_en": "Chile",
+      "slug": "chile",
+      "phone_codes": "56",
+      "phone_codes_formatted": "+56",
+      "continent_code": "SA",
+      "continent_ru": "Южная Америка",
+      "capital": "Santiago",
+      "currency_codes": "CLP",
+      "language_codes": "es-CL",
+      "tld": ".cl",
+      "emoji_flag": "🇨🇱"
+    },
+    {
+      "iso_3166_1_alpha_2": "CO",
+      "iso_3166_1_alpha_3": "COL",
+      "name_ru": "Колумбия",
+      "name_ru_formal": "Республика Колумбия",
+      "name_en": "Colombia",
+      "slug": "colombia",
+      "phone_codes": "57",
+      "phone_codes_formatted": "+57",
+      "continent_code": "SA",
+      "continent_ru": "Южная Америка",
+      "capital": "Bogota",
+      "currency_codes": "COP",
+      "language_codes": "es-CO",
+      "tld": ".co",
+      "emoji_flag": "🇨🇴"
+    },
+    {
+      "iso_3166_1_alpha_2": "EC",
+      "iso_3166_1_alpha_3": "ECU",
+      "name_ru": "Эквадор",
+      "name_ru_formal": "Республика Эквадор",
+      "name_en": "Ecuador",
+      "slug": "ecuador",
+      "phone_codes": "593",
+      "phone_codes_formatted": "+593",
+      "continent_code": "SA",
+      "continent_ru": "Южная Америка",
+      "capital": "Quito",
+      "currency_codes": "USD",
+      "language_codes": "es-EC",
+      "tld": ".ec",
+      "emoji_flag": "🇪🇨"
+    },
+    {
+      "iso_3166_1_alpha_2": "FK",
+      "iso_3166_1_alpha_3": "FLK",
+      "name_ru": "Фолклендские (Мальвинские) острова",
+      "name_ru_formal": "Фолклендские (Мальвинские) острова",
+      "name_en": "Falkland Islands",
+      "slug": "falkland-islands",
+      "phone_codes": "500",
+      "phone_codes_formatted": "+500",
+      "continent_code": "SA",
+      "continent_ru": "Южная Америка",
+      "capital": "Stanley",
+      "currency_codes": "FKP",
+      "language_codes": "en-FK",
+      "tld": ".fk",
+      "emoji_flag": "🇫🇰"
+    },
+    {
+      "iso_3166_1_alpha_2": "GF",
+      "iso_3166_1_alpha_3": "GUF",
+      "name_ru": "Французская Гвиана",
+      "name_ru_formal": "Французская Гвиана",
+      "name_en": "French Guiana",
+      "slug": "french-guiana",
+      "phone_codes": "594",
+      "phone_codes_formatted": "+594",
+      "continent_code": "SA",
+      "continent_ru": "Южная Америка",
+      "capital": "Cayenne",
+      "currency_codes": "EUR",
+      "language_codes": "fr-GF",
+      "tld": ".gf",
+      "emoji_flag": "🇬🇫"
+    },
+    {
+      "iso_3166_1_alpha_2": "GY",
+      "iso_3166_1_alpha_3": "GUY",
+      "name_ru": "Гайана",
+      "name_ru_formal": "Кооперативная Республика Гайана",
+      "name_en": "Guyana",
+      "slug": "guyana",
+      "phone_codes": "592",
+      "phone_codes_formatted": "+592",
+      "continent_code": "SA",
+      "continent_ru": "Южная Америка",
+      "capital": "Georgetown",
+      "currency_codes": "GYD",
+      "language_codes": "en-GY",
+      "tld": ".gy",
+      "emoji_flag": "🇬🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "PE",
+      "iso_3166_1_alpha_3": "PER",
+      "name_ru": "Перу",
+      "name_ru_formal": "Республика Перу",
+      "name_en": "Peru",
+      "slug": "peru",
+      "phone_codes": "51",
+      "phone_codes_formatted": "+51",
+      "continent_code": "SA",
+      "continent_ru": "Южная Америка",
+      "capital": "Lima",
+      "currency_codes": "PEN",
+      "language_codes": "es-PE, qu, ay",
+      "tld": ".pe",
+      "emoji_flag": "🇵🇪"
+    },
+    {
+      "iso_3166_1_alpha_2": "PY",
+      "iso_3166_1_alpha_3": "PRY",
+      "name_ru": "Парагвай",
+      "name_ru_formal": "Республика Парагвай",
+      "name_en": "Paraguay",
+      "slug": "paraguay",
+      "phone_codes": "595",
+      "phone_codes_formatted": "+595",
+      "continent_code": "SA",
+      "continent_ru": "Южная Америка",
+      "capital": "Asuncion",
+      "currency_codes": "PYG",
+      "language_codes": "es-PY, gn",
+      "tld": ".py",
+      "emoji_flag": "🇵🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "SR",
+      "iso_3166_1_alpha_3": "SUR",
+      "name_ru": "Суринам",
+      "name_ru_formal": "Республика Суринам",
+      "name_en": "Suriname",
+      "slug": "suriname",
+      "phone_codes": "597",
+      "phone_codes_formatted": "+597",
+      "continent_code": "SA",
+      "continent_ru": "Южная Америка",
+      "capital": "Paramaribo",
+      "currency_codes": "SRD",
+      "language_codes": "nl-SR, en, srn, hns, jv",
+      "tld": ".sr",
+      "emoji_flag": "🇸🇷"
+    },
+    {
+      "iso_3166_1_alpha_2": "UY",
+      "iso_3166_1_alpha_3": "URY",
+      "name_ru": "Уругвай",
+      "name_ru_formal": "Восточная Республика Уругвай",
+      "name_en": "Uruguay",
+      "slug": "uruguay",
+      "phone_codes": "598",
+      "phone_codes_formatted": "+598",
+      "continent_code": "SA",
+      "continent_ru": "Южная Америка",
+      "capital": "Montevideo",
+      "currency_codes": "UYU,UYW",
+      "language_codes": "es-UY",
+      "tld": ".uy",
+      "emoji_flag": "🇺🇾"
+    },
+    {
+      "iso_3166_1_alpha_2": "VE",
+      "iso_3166_1_alpha_3": "VEN",
+      "name_ru": "Венесуэла (Боливарианская Республика)",
+      "name_ru_formal": "Боливарианская Республика Венесуэла",
+      "name_en": "Venezuela",
+      "slug": "venezuela",
+      "phone_codes": "58",
+      "phone_codes_formatted": "+58",
+      "continent_code": "SA",
+      "continent_ru": "Южная Америка",
+      "capital": "Caracas",
+      "currency_codes": "VES,VED",
+      "language_codes": "es-VE",
+      "tld": ".ve",
+      "emoji_flag": "🇻🇪"
+    }
+  ],
+  "meta": {
+    "title": "Страны: Южная Америка (South America countries — Russian) - Бесплатная загрузка",
+    "description": "14 стран в части света Южная Америка (South America) с названиями на русском и английском, кодами ISO, телефонными кодами, столицей, валютами, языками и эмодзи-флагом. Содержит 14 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Страны: Южная Америка (South America countries — Russian) | ListBase",
+    "seo_description": "Скачать Страны: Южная Америка (South America countries — Russian) — 14 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 14 записей / 15 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

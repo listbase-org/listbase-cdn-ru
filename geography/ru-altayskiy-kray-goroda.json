@@ -1,0 +1,169 @@
+{
+  "id": "ru-altayskiy-kray-goroda",
+  "name": "Города — Алтайский край",
+  "title": "Города — Алтайский край",
+  "description": "12 городов региона «Алтайский край» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Алейск",
+      "population_thousands": 29,
+      "latitude": 52.4922513,
+      "longitude": 82.7793606,
+      "region_name": "Алтайский край",
+      "region_iso_code": "RU-ALT",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Барнаул",
+      "population_thousands": 632.4,
+      "latitude": 53.3479968,
+      "longitude": 83.7798064,
+      "region_name": "Алтайский край",
+      "region_iso_code": "RU-ALT",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Белокуриха",
+      "population_thousands": 15.2,
+      "latitude": 51.996152,
+      "longitude": 84.9839604,
+      "region_name": "Алтайский край",
+      "region_iso_code": "RU-ALT",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Бийск",
+      "population_thousands": 199.5,
+      "latitude": 52.5393864,
+      "longitude": 85.2138453,
+      "region_name": "Алтайский край",
+      "region_iso_code": "RU-ALT",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Горняк",
+      "population_thousands": 12.3,
+      "latitude": 50.9979622,
+      "longitude": 81.4643358,
+      "region_name": "Алтайский край",
+      "region_iso_code": "RU-ALT",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Заринск",
+      "population_thousands": 45.9,
+      "latitude": 53.7063476,
+      "longitude": 84.9315081,
+      "region_name": "Алтайский край",
+      "region_iso_code": "RU-ALT",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Змеиногорск",
+      "population_thousands": 10.2,
+      "latitude": 51.1581094,
+      "longitude": 82.1872547,
+      "region_name": "Алтайский край",
+      "region_iso_code": "RU-ALT",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Камень-на-Оби",
+      "population_thousands": 40.5,
+      "latitude": 53.7913974,
+      "longitude": 81.3545053,
+      "region_name": "Алтайский край",
+      "region_iso_code": "RU-ALT",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Новоалтайск",
+      "population_thousands": 74.6,
+      "latitude": 53.4119759,
+      "longitude": 83.9311069,
+      "region_name": "Алтайский край",
+      "region_iso_code": "RU-ALT",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Рубцовск",
+      "population_thousands": 141.6,
+      "latitude": 51.5012067,
+      "longitude": 81.2078695,
+      "region_name": "Алтайский край",
+      "region_iso_code": "RU-ALT",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Славгород",
+      "population_thousands": 29.1,
+      "latitude": 52.999463,
+      "longitude": 78.6459232,
+      "region_name": "Алтайский край",
+      "region_iso_code": "RU-ALT",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Яровое",
+      "population_thousands": 18.1,
+      "latitude": 52.9252146,
+      "longitude": 78.5729775,
+      "region_name": "Алтайский край",
+      "region_iso_code": "RU-ALT",
+      "federal_district": "Сибирский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Алтайский край - Бесплатная загрузка",
+    "description": "12 городов региона «Алтайский край» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 12 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Алтайский край | ListBase",
+    "seo_description": "Скачать Города — Алтайский край — 12 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 12 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

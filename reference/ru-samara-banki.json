@@ -1,0 +1,240 @@
+{
+  "id": "ru-samara-banki",
+  "name": "Банки — Samara (коды SWIFT/BIC)",
+  "title": "Банки — Samara (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in SAMARA (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 27,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 4,
+      "bank": "AC BANK",
+      "city": "SAMARA",
+      "branch": "",
+      "swift_code": "ELKARU3S"
+    },
+    {
+      "id": 86,
+      "bank": "AVTOVAZBANK JOINT-STOCK COMPANY",
+      "city": "SAMARA",
+      "branch": "(GEORGIEVSKIJ BRANCH)",
+      "swift_code": "AVBKRU31GEO"
+    },
+    {
+      "id": 87,
+      "bank": "AVTOVAZBANK JOINT-STOCK COMPANY",
+      "city": "SAMARA",
+      "branch": "(SAMARA OPERATING OFFICE)",
+      "swift_code": "AVBKRU31SAM"
+    },
+    {
+      "id": 127,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "SAMARA",
+      "branch": "(SAMARA BRANCH)",
+      "swift_code": "MOBWRUM1SAM"
+    },
+    {
+      "id": 243,
+      "bank": "BANK RRDB (JSC)",
+      "city": "SAMARA",
+      "branch": "(SAMARA BRANCH)",
+      "swift_code": "RRDBRUM1SMR"
+    },
+    {
+      "id": 274,
+      "bank": "BANK SOYUZ",
+      "city": "SAMARA",
+      "branch": "(SAMARA BRANCH)",
+      "swift_code": "JCAMRUM1SAM"
+    },
+    {
+      "id": 449,
+      "bank": "EVROFINANCE MOSNARBANK",
+      "city": "SAMARA",
+      "branch": "(SAMARA BRANCH)",
+      "swift_code": "EVRFRUM1SMR"
+    },
+    {
+      "id": 483,
+      "bank": "GAZBANK ZAO AKB",
+      "city": "SAMARA",
+      "branch": "(KIROVSKY BRANCH)",
+      "swift_code": "CGAZRU31957"
+    },
+    {
+      "id": 484,
+      "bank": "GAZBANK ZAO AKB",
+      "city": "SAMARA",
+      "branch": "",
+      "swift_code": "CGAZRU3S"
+    },
+    {
+      "id": 502,
+      "bank": "GAZPROMBANK (JOINT - STOCK COMPANY)",
+      "city": "SAMARA",
+      "branch": "(POVOLZHSKY BRANCH)",
+      "swift_code": "GAZPRUMM037"
+    },
+    {
+      "id": 579,
+      "bank": "INVESTMENT TRADE BANK PJSC",
+      "city": "SAMARA",
+      "branch": "(SAMARSKY BRANCH)",
+      "swift_code": "INVJRUM1SAM"
+    },
+    {
+      "id": 616,
+      "bank": "JOINT STOCK COMPANY 'OTP BANK'",
+      "city": "SAMARA",
+      "branch": "(SAMARSKIY BRANCH)",
+      "swift_code": "OTPVRUM1SAM"
+    },
+    {
+      "id": 642,
+      "bank": "JSB ROSEVROBANK (JSC)",
+      "city": "SAMARA",
+      "branch": "(SAMARA BRANCH)",
+      "swift_code": "COMKRUMM060"
+    },
+    {
+      "id": 672,
+      "bank": "JSC KOSHELEV-BANK",
+      "city": "SAMARA",
+      "branch": "",
+      "swift_code": "KOSHRU3S"
+    },
+    {
+      "id": 730,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "SAMARA",
+      "branch": "(SAMARSKY BRANCH)",
+      "swift_code": "RUAGRUM1013"
+    },
+    {
+      "id": 927,
+      "bank": "MOSOBLBANK",
+      "city": "SAMARA",
+      "branch": "(BRANCH NO.3)",
+      "swift_code": "MOBKRUM1003"
+    },
+    {
+      "id": 968,
+      "bank": "NATIONAL INVESTMENT BANK",
+      "city": "SAMARA",
+      "branch": "",
+      "swift_code": "NINSRU31"
+    },
+    {
+      "id": 1033,
+      "bank": "OJSC CB SOLIDARNOST",
+      "city": "SAMARA",
+      "branch": "",
+      "swift_code": "SLDRRU3S"
+    },
+    {
+      "id": 1154,
+      "bank": "PROMAVTOBANK COMMERCIAL BANK",
+      "city": "SAMARA",
+      "branch": "",
+      "swift_code": "PRJCRU31"
+    },
+    {
+      "id": 1245,
+      "bank": "ROST BANK",
+      "city": "SAMARA",
+      "branch": "(SAMARA BRANCH)",
+      "swift_code": "JORORU21SAB"
+    },
+    {
+      "id": 1292,
+      "bank": "SAMARA CURRENCY INTERBANK EXCHANGE OAO",
+      "city": "SAMARA",
+      "branch": "",
+      "swift_code": "XSAMRU31"
+    },
+    {
+      "id": 1319,
+      "bank": "SBERBANK",
+      "city": "SAMARA",
+      "branch": "(POVOLZHSKY HEAD OFFICE)",
+      "swift_code": "SABRRUMMSE1"
+    },
+    {
+      "id": 1503,
+      "bank": "TRANSKAPITALBANK",
+      "city": "SAMARA",
+      "branch": "(SAMARA BRANCH)",
+      "swift_code": "TJSCRUM1SAM"
+    },
+    {
+      "id": 1550,
+      "bank": "VOLGO-KAMSKY BANK",
+      "city": "SAMARA",
+      "branch": "",
+      "swift_code": "VOLARU31"
+    },
+    {
+      "id": 1556,
+      "bank": "'VOLZHSKY UNIVERSAL BANK' OAO",
+      "city": "SAMARA",
+      "branch": "",
+      "swift_code": "VUNIRU31"
+    },
+    {
+      "id": 1582,
+      "bank": "VTB 24 (PJSC)",
+      "city": "SAMARA",
+      "branch": "(N 6318)",
+      "swift_code": "CBGURUMMSAM"
+    },
+    {
+      "id": 1640,
+      "bank": "ZENIT BANK",
+      "city": "SAMARA",
+      "branch": "(POVOLZYE BRANCH)",
+      "swift_code": "ZENIRUM1SMR"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Samara (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in SAMARA (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 27 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Samara (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Samara (коды SWIFT/BIC) — 27 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 27 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

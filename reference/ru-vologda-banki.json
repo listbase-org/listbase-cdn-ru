@@ -1,0 +1,100 @@
+{
+  "id": "ru-vologda-banki",
+  "name": "Банки — Vologda (коды SWIFT/BIC)",
+  "title": "Банки — Vologda (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in VOLOGDA (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 261,
+      "bank": "'BANK SGB' PJSC",
+      "city": "VOLOGDA",
+      "branch": "",
+      "swift_code": "SGAZRU22"
+    },
+    {
+      "id": 1007,
+      "bank": "NORTH CREDIT BANK",
+      "city": "VOLOGDA",
+      "branch": "",
+      "swift_code": "NOCRRU21"
+    },
+    {
+      "id": 1155,
+      "bank": "PROMENERGOBANK OAO",
+      "city": "VOLOGDA",
+      "branch": "",
+      "swift_code": "PRMGRU21"
+    },
+    {
+      "id": 1260,
+      "bank": "ROST BANK",
+      "city": "VOLOGDA",
+      "branch": "(VOLOGDA BRANCH)",
+      "swift_code": "JORORU21VGB"
+    },
+    {
+      "id": 1408,
+      "bank": "SOVCOMBANK",
+      "city": "VOLOGDA",
+      "branch": "(VOLOGDA BRANCH)",
+      "swift_code": "SOMRRUM1VLG"
+    },
+    {
+      "id": 1554,
+      "bank": "VOLOGDABANK",
+      "city": "VOLOGDA",
+      "branch": "",
+      "swift_code": "VOLBRUM1"
+    },
+    {
+      "id": 1555,
+      "bank": "VOLOGZHANIN BANK AO",
+      "city": "VOLOGDA",
+      "branch": "",
+      "swift_code": "VOLJRU21"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Vologda (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in VOLOGDA (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 7 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Vologda (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Vologda (коды SWIFT/BIC) — 7 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 7 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

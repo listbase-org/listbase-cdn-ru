@@ -1,0 +1,151 @@
+{
+  "id": "ru-novgorodskaya-oblast-goroda",
+  "name": "Города — Новгородская область",
+  "title": "Города — Новгородская область",
+  "description": "10 городов региона «Новгородская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Боровичи",
+      "population_thousands": 49,
+      "latitude": 58.3840197,
+      "longitude": 33.9175929,
+      "region_name": "Новгородская область",
+      "region_iso_code": "RU-NGR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Валдай",
+      "population_thousands": 14,
+      "latitude": 57.9823766,
+      "longitude": 33.2369436,
+      "region_name": "Новгородская область",
+      "region_iso_code": "RU-NGR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Великий Новгород",
+      "population_thousands": 224.9,
+      "latitude": 58.5213846,
+      "longitude": 31.2755394,
+      "region_name": "Новгородская область",
+      "region_iso_code": "RU-NGR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Малая Вишера",
+      "population_thousands": 10.3,
+      "latitude": 58.8458379,
+      "longitude": 32.2247401,
+      "region_name": "Новгородская область",
+      "region_iso_code": "RU-NGR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Окуловка",
+      "population_thousands": 9.8,
+      "latitude": 58.3910296,
+      "longitude": 33.2901557,
+      "region_name": "Новгородская область",
+      "region_iso_code": "RU-NGR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Пестово",
+      "population_thousands": 15,
+      "latitude": 58.5973723,
+      "longitude": 35.8143898,
+      "region_name": "Новгородская область",
+      "region_iso_code": "RU-NGR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Сольцы",
+      "population_thousands": 8.5,
+      "latitude": 58.1201281,
+      "longitude": 30.309351,
+      "region_name": "Новгородская область",
+      "region_iso_code": "RU-NGR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Старая Русса",
+      "population_thousands": 27.7,
+      "latitude": 57.990737,
+      "longitude": 31.3554897,
+      "region_name": "Новгородская область",
+      "region_iso_code": "RU-NGR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Холм",
+      "population_thousands": 3.4,
+      "latitude": 57.145108,
+      "longitude": 31.1787499,
+      "region_name": "Новгородская область",
+      "region_iso_code": "RU-NGR",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Чудово",
+      "population_thousands": 13.9,
+      "latitude": 59.1248394,
+      "longitude": 31.6866241,
+      "region_name": "Новгородская область",
+      "region_iso_code": "RU-NGR",
+      "federal_district": "Северо-Западный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Новгородская область - Бесплатная загрузка",
+    "description": "10 городов региона «Новгородская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 10 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Новгородская область | ListBase",
+    "seo_description": "Скачать Города — Новгородская область — 10 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 10 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

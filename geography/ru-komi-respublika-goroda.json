@@ -1,0 +1,151 @@
+{
+  "id": "ru-komi-respublika-goroda",
+  "name": "Города — Республика Коми",
+  "title": "Города — Республика Коми",
+  "description": "10 городов региона «Республика Коми» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Воркута",
+      "population_thousands": 52.8,
+      "latitude": 67.4974082,
+      "longitude": 64.061034,
+      "region_name": "Республика Коми",
+      "region_iso_code": "RU-KO",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Вуктыл",
+      "population_thousands": 9.7,
+      "latitude": 63.8615274,
+      "longitude": 57.3165402,
+      "region_name": "Республика Коми",
+      "region_iso_code": "RU-KO",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Емва",
+      "population_thousands": 12.4,
+      "latitude": 62.5965137,
+      "longitude": 50.8732125,
+      "region_name": "Республика Коми",
+      "region_iso_code": "RU-KO",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Инта",
+      "population_thousands": 24.1,
+      "latitude": 66.0367316,
+      "longitude": 60.1152961,
+      "region_name": "Республика Коми",
+      "region_iso_code": "RU-KO",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Микунь",
+      "population_thousands": 9.6,
+      "latitude": 62.3579068,
+      "longitude": 50.0719503,
+      "region_name": "Республика Коми",
+      "region_iso_code": "RU-KO",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Печора",
+      "population_thousands": 38.2,
+      "latitude": 65.148584,
+      "longitude": 57.2239777,
+      "region_name": "Республика Коми",
+      "region_iso_code": "RU-KO",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Сосногорск",
+      "population_thousands": 26,
+      "latitude": 63.5989841,
+      "longitude": 53.876293,
+      "region_name": "Республика Коми",
+      "region_iso_code": "RU-KO",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Сыктывкар",
+      "population_thousands": 244.4,
+      "latitude": 61.6686617,
+      "longitude": 50.8358151,
+      "region_name": "Республика Коми",
+      "region_iso_code": "RU-KO",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Усинск",
+      "population_thousands": 37.2,
+      "latitude": 65.994147,
+      "longitude": 57.5569423,
+      "region_name": "Республика Коми",
+      "region_iso_code": "RU-KO",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Ухта",
+      "population_thousands": 93.7,
+      "latitude": 63.5565514,
+      "longitude": 53.7014239,
+      "region_name": "Республика Коми",
+      "region_iso_code": "RU-KO",
+      "federal_district": "Северо-Западный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Республика Коми - Бесплатная загрузка",
+    "description": "10 городов региона «Республика Коми» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 10 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Республика Коми | ListBase",
+    "seo_description": "Скачать Города — Республика Коми — 10 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 10 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

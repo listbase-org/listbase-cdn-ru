@@ -1,0 +1,124 @@
+{
+  "id": "ru-orlovskaya-oblast-goroda",
+  "name": "Города — Орловская область",
+  "title": "Города — Орловская область",
+  "description": "7 городов региона «Орловская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Болхов",
+      "population_thousands": 10.9,
+      "latitude": 53.4438496,
+      "longitude": 36.0076833,
+      "region_name": "Орловская область",
+      "region_iso_code": "RU-ORL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Дмитровск",
+      "population_thousands": 5,
+      "latitude": 52.5054851,
+      "longitude": 35.1415009,
+      "region_name": "Орловская область",
+      "region_iso_code": "RU-ORL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Ливны",
+      "population_thousands": 47.2,
+      "latitude": 52.4284558,
+      "longitude": 37.6039506,
+      "region_name": "Орловская область",
+      "region_iso_code": "RU-ORL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Малоархангельск",
+      "population_thousands": 3.2,
+      "latitude": 52.4002192,
+      "longitude": 36.5038579,
+      "region_name": "Орловская область",
+      "region_iso_code": "RU-ORL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Мценск",
+      "population_thousands": 36.6,
+      "latitude": 53.2788438,
+      "longitude": 36.5749105,
+      "region_name": "Орловская область",
+      "region_iso_code": "RU-ORL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Новосиль",
+      "population_thousands": 3.1,
+      "latitude": 52.97454,
+      "longitude": 37.0437146,
+      "region_name": "Орловская область",
+      "region_iso_code": "RU-ORL",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Орел",
+      "population_thousands": 308.8,
+      "latitude": 52.9671298,
+      "longitude": 36.0696427,
+      "region_name": "Орловская область",
+      "region_iso_code": "RU-ORL",
+      "federal_district": "Центральный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Орловская область - Бесплатная загрузка",
+    "description": "7 городов региона «Орловская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 7 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Орловская область | ListBase",
+    "seo_description": "Скачать Города — Орловская область — 7 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 7 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

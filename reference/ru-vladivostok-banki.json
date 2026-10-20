@@ -1,0 +1,212 @@
+{
+  "id": "ru-vladivostok-banki",
+  "name": "Банки — Vladivostok (коды SWIFT/BIC)",
+  "title": "Банки — Vladivostok (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in VLADIVOSTOK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 141,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "VLADIVOSTOK",
+      "branch": "(VLADIVOSTOK BRANCH B AND N BANK)",
+      "swift_code": "BINORU21VLD"
+    },
+    {
+      "id": 142,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "VLADIVOSTOK",
+      "branch": "(VLADIVOSTOK BRANCH)",
+      "swift_code": "MOBWRUMMVLD"
+    },
+    {
+      "id": 182,
+      "bank": "BANK OF CHINA (RUSSIA)",
+      "city": "VLADIVOSTOK",
+      "branch": "",
+      "swift_code": "BKCHRUMMVLD"
+    },
+    {
+      "id": 418,
+      "bank": "DALRYBBANK (FAR-EASTERN JOINT STOCK COMMERCIAL BANK OF FISHERIES)",
+      "city": "VLADIVOSTOK",
+      "branch": "",
+      "swift_code": "CBFIRU81"
+    },
+    {
+      "id": 462,
+      "bank": "FAR EASTERN BANK",
+      "city": "VLADIVOSTOK",
+      "branch": "(HEAD OFFICE)",
+      "swift_code": "FAEBRU8V"
+    },
+    {
+      "id": 510,
+      "bank": "GAZPROMBANK (JOINT - STOCK COMPANY)",
+      "city": "VLADIVOSTOK",
+      "branch": "(DALNEVOSTOCHNY BRANCH)",
+      "swift_code": "GAZPRUMM042"
+    },
+    {
+      "id": 607,
+      "bank": "JOINT STOCK COMPANY BBR BANK",
+      "city": "VLADIVOSTOK",
+      "branch": "(VLADIVOSTOK BRANCH)",
+      "swift_code": "BADJRUMMVLD"
+    },
+    {
+      "id": 746,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "VLADIVOSTOK",
+      "branch": "(PRIMORSKY BRANCH)",
+      "swift_code": "RUAGRUMM054"
+    },
+    {
+      "id": 878,
+      "bank": "MARITIME BANK",
+      "city": "VLADIVOSTOK",
+      "branch": "(VLADIVOSTOK BRANCH)",
+      "swift_code": "MJSBRUM1VLK"
+    },
+    {
+      "id": 889,
+      "bank": "MICEX-FAR EAST REGIONAL EXCHANGE CENTER",
+      "city": "VLADIVOSTOK",
+      "branch": "",
+      "swift_code": "XAPIRU81"
+    },
+    {
+      "id": 933,
+      "bank": "MOSOBLBANK",
+      "city": "VLADIVOSTOK",
+      "branch": "(BRANCH NO.12)",
+      "swift_code": "MOBKRUM1012"
+    },
+    {
+      "id": 1071,
+      "bank": "PJSC BANK PRIMORYE",
+      "city": "VLADIVOSTOK",
+      "branch": "",
+      "swift_code": "UNEPRU8V"
+    },
+    {
+      "id": 1128,
+      "bank": "PJSC ROSBANK",
+      "city": "VLADIVOSTOK",
+      "branch": "(DALNEVOSTOCHNIY BRANCH)",
+      "swift_code": "RSBNRUMMDVB"
+    },
+    {
+      "id": 1144,
+      "bank": "PRIMSOTSBANK",
+      "city": "VLADIVOSTOK",
+      "branch": "",
+      "swift_code": "PRMTRU8V"
+    },
+    {
+      "id": 1145,
+      "bank": "PRIMTERCOMBANK OOO",
+      "city": "VLADIVOSTOK",
+      "branch": "",
+      "swift_code": "PTCBRU8V"
+    },
+    {
+      "id": 1171,
+      "bank": "PUBLIC JOINT - STOCK COMPANY COMMERCIAL BANK 'SUMMIT BANK'",
+      "city": "VLADIVOSTOK",
+      "branch": "(VLADIVOSTOK BRANCH)",
+      "swift_code": "CBBORU8VVLD"
+    },
+    {
+      "id": 1172,
+      "bank": "PUBLIC JOINT - STOCK COMPANY COMMERCIAL BANK 'SUMMIT BANK'",
+      "city": "VLADIVOSTOK",
+      "branch": "",
+      "swift_code": "CBBORU8V"
+    },
+    {
+      "id": 1258,
+      "bank": "ROST BANK",
+      "city": "VLADIVOSTOK",
+      "branch": "(VLADIVOSTOK BRANCH)",
+      "swift_code": "JORORU21VAB"
+    },
+    {
+      "id": 1266,
+      "bank": "ROYAL CREDIT BANK",
+      "city": "VLADIVOSTOK",
+      "branch": "(FAR-EASTERN BRANCH)",
+      "swift_code": "ROCERU31VLD"
+    },
+    {
+      "id": 1267,
+      "bank": "ROYAL CREDIT BANK",
+      "city": "VLADIVOSTOK",
+      "branch": "",
+      "swift_code": "ROCERU31"
+    },
+    {
+      "id": 1329,
+      "bank": "SBERBANK (DALNEVOSTOCHNY HEAD OFFICE)",
+      "city": "VLADIVOSTOK",
+      "branch": "(PRIMORSKOE BRANCH)",
+      "swift_code": "SABRRU8KVLD"
+    },
+    {
+      "id": 1447,
+      "bank": "SVIAZ-BANK",
+      "city": "VLADIVOSTOK",
+      "branch": "(VLADIVOSTOK BRANCH)",
+      "swift_code": "SVIZRUM1VLD"
+    },
+    {
+      "id": 1544,
+      "bank": "VLADIVOSTOK (RUSSIA) STOCK EXCHANGE",
+      "city": "VLADIVOSTOK",
+      "branch": "",
+      "swift_code": "XVLARU81"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Vladivostok (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in VLADIVOSTOK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 23 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Vladivostok (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Vladivostok (коды SWIFT/BIC) — 23 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 23 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

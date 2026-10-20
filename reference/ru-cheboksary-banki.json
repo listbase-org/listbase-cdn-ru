@@ -1,0 +1,93 @@
+{
+  "id": "ru-cheboksary-banki",
+  "name": "Банки — Cheboksary (коды SWIFT/BIC)",
+  "title": "Банки — Cheboksary (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in CHEBOKSARY (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 81,
+      "bank": "AVTOVAZBANK JOINT-STOCK COMPANY",
+      "city": "CHEBOKSARY",
+      "branch": "(CHEBOKSARY OPERATING OFFICE)",
+      "swift_code": "AVBKRU31CHE"
+    },
+    {
+      "id": 355,
+      "bank": "CHUVASHCREDITPROMBANK PAO",
+      "city": "CHEBOKSARY",
+      "branch": "",
+      "swift_code": "CHVARU2C"
+    },
+    {
+      "id": 685,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "CHEBOKSARY",
+      "branch": "(CHUVASHSKY BRANCH)",
+      "swift_code": "RUAGRUM1011"
+    },
+    {
+      "id": 913,
+      "bank": "MOSOBLBANK",
+      "city": "CHEBOKSARY",
+      "branch": "(FILIAL 19)",
+      "swift_code": "MOBKRUM1019"
+    },
+    {
+      "id": 1030,
+      "bank": "OBJEDINYONNYJ BANK RESPUBLIKI",
+      "city": "CHEBOKSARY",
+      "branch": "",
+      "swift_code": "OBJRRU21"
+    },
+    {
+      "id": 1038,
+      "bank": "OOO CB 'MEGAPOLICE'",
+      "city": "CHEBOKSARY",
+      "branch": "",
+      "swift_code": "MEGPRU21"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Cheboksary (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in CHEBOKSARY (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 6 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Cheboksary (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Cheboksary (коды SWIFT/BIC) — 6 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 6 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

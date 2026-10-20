@@ -1,0 +1,6 @@
+﻿"Id","Ident","Type","Name","Latitude Deg","Longitude Deg","Elevation Ft","Continent","Iso Country","Iso Region","Region Local Code","Region Name","Municipality","Scheduled Service","Icao Code","Iata Code","Gps Code","Local Code","Home Link","Wikipedia Link","Keywords"
+"41136","RU-0016","medium_airport","Lipetsk Air Base","52.634998","39.445","636","EU","RU","RU-LIP","LIP","Lipetsk Oblast","Lipetsk","no","","","","XUWL","","https://en.wikipedia.org/wiki/Lipetsk_Air_Base","ЬУВЛ, Липецк-2"
+"44419","RU-0140","small_airport","Gryazi Airfield","52.43299865722656","39.900001525878906","","EU","RU","RU-LIP","LIP","Lipetsk Oblast","Gryazi","no","","","","","","","Аэродром Грязи"
+"46151","RU-0323","small_airport","Usman Airfield","52.025","39.675","","EU","RU","RU-LIP","LIP","Lipetsk Oblast","Usman","no","","","","XUOU","","","Аэродром Усмань, Сапсан, Sapsan"
+"341658","RU-0657","heliport","Topki Heliport","53.33984","39.58225","","EU","RU","RU-LIP","LIP","Lipetsk Oblast","Topki","no","","","","","","",""
+"31846","UUOL","medium_airport","Lipetsk Airport","52.70280075073242","39.53779983520508","584","EU","RU","RU-LIP","LIP","Lipetsk Oblast","Lipetsk","yes","UUOL","LPK","UUOL","","","https://en.wikipedia.org/wiki/Lipetsk_Airport",""

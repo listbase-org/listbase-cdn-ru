@@ -1,0 +1,7 @@
+﻿"Id","Ident","Type","Name","Latitude Deg","Longitude Deg","Elevation Ft","Continent","Iso Country","Iso Region","Region Local Code","Region Name","Municipality","Scheduled Service","Icao Code","Iata Code","Gps Code","Local Code","Home Link","Wikipedia Link","Keywords"
+"44898","RU-0216","small_airport","Vokhma Airport","58.91699981689453","46.72700119018555","","EU","RU","RU-KOS","KOS","Kostroma Oblast","Vokhma","no","","","","","","","Аэропорт Вохма"
+"45233","RU-0293","closed","Krasnogorye Airfield","57.7133","43.6878","","EU","RU","RU-KOS","KOS","Kostroma Oblast","Krasnogorye","no","","","","","","","Аэропорт Красногорье"
+"348671","RU-0769","small_airport","Nekrasovo Airfield","57.78792","40.84022","256","EU","RU","RU-KOS","KOS","Kostroma Oblast","Nekrasovo","no","","","","","","",""
+"348672","RU-0770","small_airport","Manturovo Airfield","58.36749","44.7957","374","EU","RU","RU-KOS","KOS","Kostroma Oblast","Manturovo","no","","","","","","",""
+"31761","UUBA","medium_airport","Kostroma Sokerkino Airport","57.796902","41.019402","446","EU","RU","RU-KOS","KOS","Kostroma Oblast","Kostroma","yes","UUBA","KMW","UUBA","","http://www.kmtn.ru/~koao/","https://en.wikipedia.org/wiki/Kostroma_Airport","Аэропорт Кострома Сокеркино"
+"335153","UUBQ","small_airport","Sharya Airport","58.391989","45.554466","120","EU","RU","RU-KOS","KOS","Kostroma Oblast","","yes","","","UUBQ","","","",""

@@ -1,0 +1,72 @@
+{
+  "id": "ru-ozersk-banki",
+  "name": "Банки — Ozersk (коды SWIFT/BIC)",
+  "title": "Банки — Ozersk (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in OZERSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 351,
+      "bank": "CHELYABINVESTBANK",
+      "city": "OZERSK",
+      "branch": "(OZERSKY FILIAL)",
+      "swift_code": "CHINRU41OZR"
+    },
+    {
+      "id": 1095,
+      "bank": "PJSC 'CHELINDBANK'",
+      "city": "OZERSK",
+      "branch": "(SINEGORE BRANCH)",
+      "swift_code": "CHLBRU41SIN"
+    },
+    {
+      "id": 1476,
+      "bank": "THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)",
+      "city": "OZERSK",
+      "branch": "(MAYAK BRANCH)",
+      "swift_code": "UBRDRU41OZY"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Ozersk (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in OZERSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 3 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Ozersk (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Ozersk (коды SWIFT/BIC) — 3 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 3 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

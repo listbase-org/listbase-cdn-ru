@@ -1,0 +1,277 @@
+{
+  "id": "ru-tatarstan-respublika-goroda",
+  "name": "Города — Республика Татарстан",
+  "title": "Города — Республика Татарстан",
+  "description": "24 городов региона «Республика Татарстан» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Агрыз",
+      "population_thousands": 19.7,
+      "latitude": 56.5232864,
+      "longitude": 52.9943775,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Азнакаево",
+      "population_thousands": 34.2,
+      "latitude": 54.8598642,
+      "longitude": 53.0745527,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Альметьевск",
+      "population_thousands": 158.4,
+      "latitude": 54.9014619,
+      "longitude": 52.2970467,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Арск",
+      "population_thousands": 20.4,
+      "latitude": 56.0912567,
+      "longitude": 49.877067,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Бавлы",
+      "population_thousands": 22.2,
+      "latitude": 54.4062891,
+      "longitude": 53.2458065,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Болгар",
+      "population_thousands": 8.2,
+      "latitude": 54.974891,
+      "longitude": 49.0303882,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Бугульма",
+      "population_thousands": 82.5,
+      "latitude": 54.5363495,
+      "longitude": 52.7895849,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Буинск",
+      "population_thousands": 20.4,
+      "latitude": 54.9641538,
+      "longitude": 48.2901209,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Елабуга",
+      "population_thousands": 74,
+      "latitude": 55.7567107,
+      "longitude": 52.0543794,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Заинск",
+      "population_thousands": 39.6,
+      "latitude": 55.299053,
+      "longitude": 52.0062972,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Зеленодольск",
+      "population_thousands": 100,
+      "latitude": 55.8466651,
+      "longitude": 48.5010954,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Иннополис",
+      "population_thousands": 0.4,
+      "latitude": 55.7521699,
+      "longitude": 48.7446846,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Казань",
+      "population_thousands": 1257.4,
+      "latitude": 55.7943584,
+      "longitude": 49.1114975,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Кукмор",
+      "population_thousands": 17.8,
+      "latitude": 56.1861392,
+      "longitude": 50.8970238,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Лаишево",
+      "population_thousands": 8.8,
+      "latitude": 55.4042867,
+      "longitude": 49.5499838,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Лениногорск",
+      "population_thousands": 61.7,
+      "latitude": 54.5967034,
+      "longitude": 52.4431906,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Мамадыш",
+      "population_thousands": 15.9,
+      "latitude": 55.7150413,
+      "longitude": 51.4129016,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Менделеевск",
+      "population_thousands": 22.1,
+      "latitude": 55.895169,
+      "longitude": 52.3143347,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Мензелинск",
+      "population_thousands": 16.9,
+      "latitude": 55.7270698,
+      "longitude": 53.1003968,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Набережные Челны",
+      "population_thousands": 533.8,
+      "latitude": 55.7434619,
+      "longitude": 52.3959165,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Нижнекамск",
+      "population_thousands": 240,
+      "latitude": 55.6313609,
+      "longitude": 51.8144669,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Нурлат",
+      "population_thousands": 32,
+      "latitude": 54.4281461,
+      "longitude": 50.8049337,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Тетюши",
+      "population_thousands": 11,
+      "latitude": 54.936516,
+      "longitude": 48.8314533,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Чистополь",
+      "population_thousands": 59.4,
+      "latitude": 55.3699139,
+      "longitude": 50.6285784,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Республика Татарстан - Бесплатная загрузка",
+    "description": "24 городов региона «Республика Татарстан» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 24 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Республика Татарстан | ListBase",
+    "seo_description": "Скачать Города — Республика Татарстан — 24 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 24 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

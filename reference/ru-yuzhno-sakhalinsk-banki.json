@@ -1,0 +1,93 @@
+{
+  "id": "ru-yuzhno-sakhalinsk-banki",
+  "name": "Банки — Yuzhno-Sakhalinsk (коды SWIFT/BIC)",
+  "title": "Банки — Yuzhno-Sakhalinsk (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in YUZHNO-SAKHALINSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 170,
+      "bank": "BANK KHOLMSK, JOINT-STOCK COMPANY",
+      "city": "YUZHNO-SAKHALINSK",
+      "branch": "(YUZHNO-SAKHALINSK BRANCH)",
+      "swift_code": "KHZARU21SAR"
+    },
+    {
+      "id": 594,
+      "bank": "ITURUP BANK OOO",
+      "city": "YUZHNO-SAKHALINSK",
+      "branch": "",
+      "swift_code": "ITRORU8Y"
+    },
+    {
+      "id": 633,
+      "bank": "JSB DOLINSK",
+      "city": "YUZHNO-SAKHALINSK",
+      "branch": "",
+      "swift_code": "DOLIRU8Y"
+    },
+    {
+      "id": 751,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "YUZHNO-SAKHALINSK",
+      "branch": "(SAKHALINSKY BRANCH)",
+      "swift_code": "RUAGRUM1072"
+    },
+    {
+      "id": 1035,
+      "bank": "OKHABANK OOO",
+      "city": "YUZHNO-SAKHALINSK",
+      "branch": "",
+      "swift_code": "OKOORU81"
+    },
+    {
+      "id": 1605,
+      "bank": "VTB BANK (PJSC)",
+      "city": "YUZHNO-SAKHALINSK",
+      "branch": "(DALNEVOSTOCHNYI BRANCH, YUZHNO-SAKHALINSK)",
+      "swift_code": "VTBRRUM2KH2"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Yuzhno-Sakhalinsk (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in YUZHNO-SAKHALINSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 6 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Yuzhno-Sakhalinsk (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Yuzhno-Sakhalinsk (коды SWIFT/BIC) — 6 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 6 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

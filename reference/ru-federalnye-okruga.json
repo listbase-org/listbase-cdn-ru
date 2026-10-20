@@ -1,0 +1,107 @@
+{
+  "id": "ru-federalnye-okruga",
+  "name": "Федеральные округа России",
+  "title": "Федеральные округа России",
+  "description": "8 федеральных округов Российской Федерации с числом субъектов, суммарным населением и суммарной площадью (агрегировано по 83 субъектам). Источник: arbaev/russia-cities.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "kratkoe_nazvanie",
+      "label": "Kratkoe Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "kolichestvo_subektov",
+      "label": "Kolichestvo Subektov",
+      "type": "number"
+    },
+    {
+      "key": "naselenie",
+      "label": "Naselenie",
+      "type": "number"
+    },
+    {
+      "key": "ploshchad_km2",
+      "label": "Ploshchad Km2",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nazvanie": "Дальневосточный федеральный округ",
+      "kratkoe_nazvanie": "Дальневосточный",
+      "kolichestvo_subektov": 11,
+      "naselenie": 7933021,
+      "ploshchad_km2": 6952555
+    },
+    {
+      "nazvanie": "Приволжский федеральный округ",
+      "kratkoe_nazvanie": "Приволжский",
+      "kolichestvo_subektov": 14,
+      "naselenie": 28943264,
+      "ploshchad_km2": 945859
+    },
+    {
+      "nazvanie": "Северо-Западный федеральный округ",
+      "kratkoe_nazvanie": "Северо-Западный",
+      "kolichestvo_subektov": 11,
+      "naselenie": 13917197,
+      "ploshchad_km2": 1365375
+    },
+    {
+      "nazvanie": "Северо-Кавказский федеральный округ",
+      "kratkoe_nazvanie": "Северо-Кавказский",
+      "kolichestvo_subektov": 7,
+      "naselenie": 9276276,
+      "ploshchad_km2": 54947
+    },
+    {
+      "nazvanie": "Сибирский федеральный округ",
+      "kratkoe_nazvanie": "Сибирский",
+      "kolichestvo_subektov": 10,
+      "naselenie": 16792699,
+      "ploshchad_km2": 4234701
+    },
+    {
+      "nazvanie": "Уральский федеральный округ",
+      "kratkoe_nazvanie": "Уральский",
+      "kolichestvo_subektov": 6,
+      "naselenie": 11841352,
+      "ploshchad_km2": 1126172
+    },
+    {
+      "nazvanie": "Центральный федеральный округ",
+      "kratkoe_nazvanie": "Центральный",
+      "kolichestvo_subektov": 18,
+      "naselenie": 40334532,
+      "ploshchad_km2": 650205
+    },
+    {
+      "nazvanie": "Южный федеральный округ",
+      "kratkoe_nazvanie": "Южный",
+      "kolichestvo_subektov": 6,
+      "naselenie": 14263992,
+      "ploshchad_km2": 420876
+    }
+  ],
+  "meta": {
+    "title": "Федеральные округа России - Бесплатная загрузка",
+    "description": "8 федеральных округов Российской Федерации с числом субъектов, суммарным населением и суммарной площадью (агрегировано по 83 субъектам). Источник: arbaev/russia-cities. Содержит 8 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Федеральные округа России | ListBase",
+    "seo_description": "Скачать Федеральные округа России — 8 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 8 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

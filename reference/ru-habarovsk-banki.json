@@ -1,0 +1,79 @@
+{
+  "id": "ru-habarovsk-banki",
+  "name": "Банки — Habarovsk (коды SWIFT/BIC)",
+  "title": "Банки — Habarovsk (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in HABAROVSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 568,
+      "bank": "INVESTMENT TRADE BANK PJSC",
+      "city": "HABAROVSK",
+      "branch": "(KHABAROVSK BRANCH)",
+      "swift_code": "INVJRUM1KHB"
+    },
+    {
+      "id": 613,
+      "bank": "JOINT STOCK COMPANY 'OTP BANK'",
+      "city": "HABAROVSK",
+      "branch": "(DALNEVOSTOCHNIY  BRANCH)",
+      "swift_code": "OTPVRUM1HBR"
+    },
+    {
+      "id": 1159,
+      "bank": "PROMSVYAZBANK PJSC",
+      "city": "HABAROVSK",
+      "branch": "(DALNEVOSTOCHNIY BRANCH)",
+      "swift_code": "PRMSRUM1HAB"
+    },
+    {
+      "id": 1222,
+      "bank": "ROST BANK",
+      "city": "HABAROVSK",
+      "branch": "(HABAROVSK BRANCH)",
+      "swift_code": "JORORU21HAB"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Habarovsk (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in HABAROVSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 4 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Habarovsk (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Habarovsk (коды SWIFT/BIC) — 4 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 4 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

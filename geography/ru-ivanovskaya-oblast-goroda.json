@@ -1,0 +1,214 @@
+{
+  "id": "ru-ivanovskaya-oblast-goroda",
+  "name": "Города — Ивановская область",
+  "title": "Города — Ивановская область",
+  "description": "17 городов региона «Ивановская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Вичуга",
+      "population_thousands": 33.3,
+      "latitude": 57.2044698,
+      "longitude": 41.9132201,
+      "region_name": "Ивановская область",
+      "region_iso_code": "RU-IVA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Гаврилов Посад",
+      "population_thousands": 5.6,
+      "latitude": 56.5586946,
+      "longitude": 40.1228906,
+      "region_name": "Ивановская область",
+      "region_iso_code": "RU-IVA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Заволжск",
+      "population_thousands": 9.6,
+      "latitude": 57.4918141,
+      "longitude": 42.1375625,
+      "region_name": "Ивановская область",
+      "region_iso_code": "RU-IVA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Иваново",
+      "population_thousands": 404.6,
+      "latitude": 56.9993792,
+      "longitude": 40.9728272,
+      "region_name": "Ивановская область",
+      "region_iso_code": "RU-IVA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Кинешма",
+      "population_thousands": 81,
+      "latitude": 57.4425463,
+      "longitude": 42.168914,
+      "region_name": "Ивановская область",
+      "region_iso_code": "RU-IVA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Комсомольск",
+      "population_thousands": 8,
+      "latitude": 57.0273052,
+      "longitude": 40.3776851,
+      "region_name": "Ивановская область",
+      "region_iso_code": "RU-IVA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Кохма",
+      "population_thousands": 30.2,
+      "latitude": 56.9324606,
+      "longitude": 41.0931657,
+      "region_name": "Ивановская область",
+      "region_iso_code": "RU-IVA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Наволоки",
+      "population_thousands": 9.1,
+      "latitude": 57.4679066,
+      "longitude": 41.9608002,
+      "region_name": "Ивановская область",
+      "region_iso_code": "RU-IVA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Плес",
+      "population_thousands": 1.7,
+      "latitude": 57.4606031,
+      "longitude": 41.5122672,
+      "region_name": "Ивановская область",
+      "region_iso_code": "RU-IVA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Приволжск",
+      "population_thousands": 15.3,
+      "latitude": 57.3805743,
+      "longitude": 41.2808565,
+      "region_name": "Ивановская область",
+      "region_iso_code": "RU-IVA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Пучеж",
+      "population_thousands": 6.3,
+      "latitude": 56.9820688,
+      "longitude": 43.1683321,
+      "region_name": "Ивановская область",
+      "region_iso_code": "RU-IVA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Родники",
+      "population_thousands": 23.9,
+      "latitude": 57.1025975,
+      "longitude": 41.7298834,
+      "region_name": "Ивановская область",
+      "region_iso_code": "RU-IVA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Тейково",
+      "population_thousands": 31.8,
+      "latitude": 56.8542719,
+      "longitude": 40.5353874,
+      "region_name": "Ивановская область",
+      "region_iso_code": "RU-IVA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Фурманов",
+      "population_thousands": 33.2,
+      "latitude": 57.2539276,
+      "longitude": 41.1054432,
+      "region_name": "Ивановская область",
+      "region_iso_code": "RU-IVA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Шуя",
+      "population_thousands": 57,
+      "latitude": 56.8560234,
+      "longitude": 41.3800939,
+      "region_name": "Ивановская область",
+      "region_iso_code": "RU-IVA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Южа",
+      "population_thousands": 12.2,
+      "latitude": 56.5926877,
+      "longitude": 42.0458099,
+      "region_name": "Ивановская область",
+      "region_iso_code": "RU-IVA",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Юрьевец",
+      "population_thousands": 7.9,
+      "latitude": 57.3177781,
+      "longitude": 43.1110401,
+      "region_name": "Ивановская область",
+      "region_iso_code": "RU-IVA",
+      "federal_district": "Центральный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Ивановская область - Бесплатная загрузка",
+    "description": "17 городов региона «Ивановская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 17 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Ивановская область | ListBase",
+    "seo_description": "Скачать Города — Ивановская область — 17 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 17 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

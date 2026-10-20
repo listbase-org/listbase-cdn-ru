@@ -1,0 +1,114 @@
+{
+  "id": "ru-tomsk-banki",
+  "name": "Банки — Tomsk (коды SWIFT/BIC)",
+  "title": "Банки — Tomsk (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in TOMSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 136,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "TOMSK",
+      "branch": "(TOMSK BRANCH)",
+      "swift_code": "MOBWRUM1TMS"
+    },
+    {
+      "id": 507,
+      "bank": "GAZPROMBANK (JOINT - STOCK COMPANY)",
+      "city": "TOMSK",
+      "branch": "(TOMSK BRANCH)",
+      "swift_code": "GAZPRUMM011"
+    },
+    {
+      "id": 737,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "TOMSK",
+      "branch": "(TOMSKY BRANCH)",
+      "swift_code": "RUAGRUM1064"
+    },
+    {
+      "id": 1135,
+      "bank": "PJSC TOMSKPROMSTROYBANK",
+      "city": "TOMSK",
+      "branch": "(PJSC TOMSKPROMSTROYBANK (BRANCH NO. 17))",
+      "swift_code": "TMKPRU21671"
+    },
+    {
+      "id": 1136,
+      "bank": "PJSC TOMSKPROMSTROYBANK",
+      "city": "TOMSK",
+      "branch": "(PJSC TOMSKPROMSTROYBANK (SOVETSKII BRANCH))",
+      "swift_code": "TMKPRU21630"
+    },
+    {
+      "id": 1137,
+      "bank": "PJSC TOMSKPROMSTROYBANK",
+      "city": "TOMSK",
+      "branch": "",
+      "swift_code": "TMKPRU21"
+    },
+    {
+      "id": 1138,
+      "bank": "PJSC TOMSKPROMSTROYBANK",
+      "city": "TOMSK",
+      "branch": "",
+      "swift_code": "TMKPRU5T"
+    },
+    {
+      "id": 1251,
+      "bank": "ROST BANK",
+      "city": "TOMSK",
+      "branch": "(TOMSK BRANCH)",
+      "swift_code": "JORORU21TOB"
+    },
+    {
+      "id": 1443,
+      "bank": "SVIAZ-BANK",
+      "city": "TOMSK",
+      "branch": "(TOMSK BRANCH)",
+      "swift_code": "SVIZRUM1TOM"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Tomsk (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in TOMSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 9 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Tomsk (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Tomsk (коды SWIFT/BIC) — 9 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 9 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

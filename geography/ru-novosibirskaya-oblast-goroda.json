@@ -1,0 +1,187 @@
+{
+  "id": "ru-novosibirskaya-oblast-goroda",
+  "name": "Города — Новосибирская область",
+  "title": "Города — Новосибирская область",
+  "description": "14 городов региона «Новосибирская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Барабинск",
+      "population_thousands": 28.7,
+      "latitude": 55.35146,
+      "longitude": 78.3464506,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Бердск",
+      "population_thousands": 104.3,
+      "latitude": 54.7582156,
+      "longitude": 83.1070605,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Болотное",
+      "population_thousands": 15.5,
+      "latitude": 55.6692421,
+      "longitude": 84.3906889,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Искитим",
+      "population_thousands": 56,
+      "latitude": 54.6267603,
+      "longitude": 83.2951244,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Карасук",
+      "population_thousands": 26.8,
+      "latitude": 53.7343189,
+      "longitude": 78.0422967,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Каргат",
+      "population_thousands": 9,
+      "latitude": 55.1945666,
+      "longitude": 80.2829495,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Куйбышев",
+      "population_thousands": 43.5,
+      "latitude": 55.4685094,
+      "longitude": 78.3242048,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Купино",
+      "population_thousands": 13.8,
+      "latitude": 54.366055,
+      "longitude": 77.2973368,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Новосибирск",
+      "population_thousands": 1625.6,
+      "latitude": 55.028191,
+      "longitude": 82.9211489,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Обь",
+      "population_thousands": 29.9,
+      "latitude": 54.9945576,
+      "longitude": 82.6937181,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Татарск",
+      "population_thousands": 23.4,
+      "latitude": 55.2146167,
+      "longitude": 75.9739914,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Тогучин",
+      "population_thousands": 20.8,
+      "latitude": 55.2251631,
+      "longitude": 84.4104118,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Черепаново",
+      "population_thousands": 19.1,
+      "latitude": 54.2206476,
+      "longitude": 83.3724521,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    },
+    {
+      "name": "Чулым",
+      "population_thousands": 11,
+      "latitude": 55.0906867,
+      "longitude": 80.9592508,
+      "region_name": "Новосибирская область",
+      "region_iso_code": "RU-NVS",
+      "federal_district": "Сибирский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Новосибирская область - Бесплатная загрузка",
+    "description": "14 городов региона «Новосибирская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 14 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Новосибирская область | ListBase",
+    "seo_description": "Скачать Города — Новосибирская область — 14 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 14 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

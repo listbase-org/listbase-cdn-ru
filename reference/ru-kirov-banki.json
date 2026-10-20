@@ -1,0 +1,93 @@
+{
+  "id": "ru-kirov-banki",
+  "name": "Банки — Kirov (коды SWIFT/BIC)",
+  "title": "Банки — Kirov (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in KIROV (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 217,
+      "bank": "BANK ''ROSSIYA''",
+      "city": "KIROV",
+      "branch": "(KIROV BRANCH)",
+      "swift_code": "ROSYRU21KRV"
+    },
+    {
+      "id": 371,
+      "bank": "COMMERCIAL BANK KHLYNOV (JOINT-STOCK COMPANY)",
+      "city": "KIROV",
+      "branch": "",
+      "swift_code": "KHOARU22"
+    },
+    {
+      "id": 470,
+      "bank": "FIRST DORTRANSBANK",
+      "city": "KIROV",
+      "branch": "",
+      "swift_code": "FIDKRU21"
+    },
+    {
+      "id": 701,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "KIROV",
+      "branch": "(KIROVSKY BRANCH)",
+      "swift_code": "RUAGRUM1022"
+    },
+    {
+      "id": 1111,
+      "bank": "PJSC NORVIK BANK",
+      "city": "KIROV",
+      "branch": "",
+      "swift_code": "VIATRU21"
+    },
+    {
+      "id": 1471,
+      "bank": "THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)",
+      "city": "KIROV",
+      "branch": "(KIROVSKIJ BRANCH)",
+      "swift_code": "UBRDRU41KIR"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Kirov (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in KIROV (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 6 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Kirov (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Kirov (коды SWIFT/BIC) — 6 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 6 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

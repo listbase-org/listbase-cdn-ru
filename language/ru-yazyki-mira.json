@@ -1,0 +1,2996 @@
+{
+  "id": "ru-yazyki-mira",
+  "name": "Языки мира",
+  "title": "Языки мира",
+  "description": "Языки мира — коды языков (ISO 639 / BCP-47 subtags) с названиями на русском языке, одна запись на код языка (591 записей). Включает русский (ru), английский (en), французский (fr), немецкий (de), китайский (zh), японский (ja), арабский (ar), испанский (es) и сотни других. Региональные варианты локалей (например en_AU) исключены — только базовые языки. Сортировка по коду языка. Источник — данные CLDR (Unicode) через репозиторий umpirsky/language-list. FIRST language inventory in the RU bucket.",
+  "category": "language",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 591,
+  "columns": [
+    {
+      "key": "kod",
+      "label": "Kod",
+      "type": "string"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kod": "aa",
+      "nazvanie": "афар",
+      "name_en": "Afar"
+    },
+    {
+      "kod": "ab",
+      "nazvanie": "абхазский",
+      "name_en": "Abkhazian"
+    },
+    {
+      "kod": "ace",
+      "nazvanie": "ачехский",
+      "name_en": "Achinese"
+    },
+    {
+      "kod": "ach",
+      "nazvanie": "ачоли",
+      "name_en": "Acoli"
+    },
+    {
+      "kod": "ada",
+      "nazvanie": "адангме",
+      "name_en": "Adangme"
+    },
+    {
+      "kod": "ady",
+      "nazvanie": "адыгейский",
+      "name_en": "Adyghe"
+    },
+    {
+      "kod": "ae",
+      "nazvanie": "авестийский",
+      "name_en": "Avestan"
+    },
+    {
+      "kod": "aeb",
+      "nazvanie": "Tunisian Arabic",
+      "name_en": "Tunisian Arabic"
+    },
+    {
+      "kod": "af",
+      "nazvanie": "африкаанс",
+      "name_en": "Afrikaans"
+    },
+    {
+      "kod": "afh",
+      "nazvanie": "африхили",
+      "name_en": "Afrihili"
+    },
+    {
+      "kod": "agq",
+      "nazvanie": "агхем",
+      "name_en": "Aghem"
+    },
+    {
+      "kod": "ain",
+      "nazvanie": "айну",
+      "name_en": "Ainu"
+    },
+    {
+      "kod": "ak",
+      "nazvanie": "акан",
+      "name_en": "Akan"
+    },
+    {
+      "kod": "akk",
+      "nazvanie": "аккадский",
+      "name_en": "Akkadian"
+    },
+    {
+      "kod": "akz",
+      "nazvanie": "Alabama",
+      "name_en": "Alabama"
+    },
+    {
+      "kod": "ale",
+      "nazvanie": "алеутский",
+      "name_en": "Aleut"
+    },
+    {
+      "kod": "aln",
+      "nazvanie": "Gheg Albanian",
+      "name_en": "Gheg Albanian"
+    },
+    {
+      "kod": "alt",
+      "nazvanie": "южноалтайский",
+      "name_en": "Southern Altai"
+    },
+    {
+      "kod": "am",
+      "nazvanie": "амхарский",
+      "name_en": "Amharic"
+    },
+    {
+      "kod": "an",
+      "nazvanie": "арагонский",
+      "name_en": "Aragonese"
+    },
+    {
+      "kod": "ang",
+      "nazvanie": "староанглийский",
+      "name_en": "Old English"
+    },
+    {
+      "kod": "anp",
+      "nazvanie": "ангика",
+      "name_en": "Angika"
+    },
+    {
+      "kod": "ar",
+      "nazvanie": "арабский",
+      "name_en": "Arabic"
+    },
+    {
+      "kod": "arc",
+      "nazvanie": "арамейский",
+      "name_en": "Aramaic"
+    },
+    {
+      "kod": "arn",
+      "nazvanie": "арауканский",
+      "name_en": "Mapuche"
+    },
+    {
+      "kod": "aro",
+      "nazvanie": "Araona",
+      "name_en": "Araona"
+    },
+    {
+      "kod": "arp",
+      "nazvanie": "арапахо",
+      "name_en": "Arapaho"
+    },
+    {
+      "kod": "arq",
+      "nazvanie": "Algerian Arabic",
+      "name_en": "Algerian Arabic"
+    },
+    {
+      "kod": "arw",
+      "nazvanie": "аравакский",
+      "name_en": "Arawak"
+    },
+    {
+      "kod": "ary",
+      "nazvanie": "Moroccan Arabic",
+      "name_en": "Moroccan Arabic"
+    },
+    {
+      "kod": "arz",
+      "nazvanie": "Egyptian Arabic",
+      "name_en": "Egyptian Arabic"
+    },
+    {
+      "kod": "as",
+      "nazvanie": "ассамский",
+      "name_en": "Assamese"
+    },
+    {
+      "kod": "asa",
+      "nazvanie": "аса",
+      "name_en": "Asu"
+    },
+    {
+      "kod": "ase",
+      "nazvanie": "American Sign Language",
+      "name_en": "American Sign Language"
+    },
+    {
+      "kod": "ast",
+      "nazvanie": "астурийский",
+      "name_en": "Asturian"
+    },
+    {
+      "kod": "av",
+      "nazvanie": "аварский",
+      "name_en": "Avaric"
+    },
+    {
+      "kod": "avk",
+      "nazvanie": "Kotava",
+      "name_en": "Kotava"
+    },
+    {
+      "kod": "awa",
+      "nazvanie": "авадхи",
+      "name_en": "Awadhi"
+    },
+    {
+      "kod": "ay",
+      "nazvanie": "аймара",
+      "name_en": "Aymara"
+    },
+    {
+      "kod": "az",
+      "nazvanie": "азербайджанский",
+      "name_en": "Azerbaijani"
+    },
+    {
+      "kod": "azb",
+      "nazvanie": "South Azerbaijani",
+      "name_en": "South Azerbaijani"
+    },
+    {
+      "kod": "ba",
+      "nazvanie": "башкирский",
+      "name_en": "Bashkir"
+    },
+    {
+      "kod": "bal",
+      "nazvanie": "белуджский",
+      "name_en": "Baluchi"
+    },
+    {
+      "kod": "ban",
+      "nazvanie": "балийский",
+      "name_en": "Balinese"
+    },
+    {
+      "kod": "bar",
+      "nazvanie": "Bavarian",
+      "name_en": "Bavarian"
+    },
+    {
+      "kod": "bas",
+      "nazvanie": "баса",
+      "name_en": "Basaa"
+    },
+    {
+      "kod": "bax",
+      "nazvanie": "бамум",
+      "name_en": "Bamun"
+    },
+    {
+      "kod": "bbc",
+      "nazvanie": "Batak Toba",
+      "name_en": "Batak Toba"
+    },
+    {
+      "kod": "bbj",
+      "nazvanie": "гхомала",
+      "name_en": "Ghomala"
+    },
+    {
+      "kod": "be",
+      "nazvanie": "белорусский",
+      "name_en": "Belarusian"
+    },
+    {
+      "kod": "bej",
+      "nazvanie": "беджа",
+      "name_en": "Beja"
+    },
+    {
+      "kod": "bem",
+      "nazvanie": "бемба",
+      "name_en": "Bemba"
+    },
+    {
+      "kod": "bew",
+      "nazvanie": "Betawi",
+      "name_en": "Betawi"
+    },
+    {
+      "kod": "bez",
+      "nazvanie": "бена",
+      "name_en": "Bena"
+    },
+    {
+      "kod": "bfd",
+      "nazvanie": "бафут",
+      "name_en": "Bafut"
+    },
+    {
+      "kod": "bfq",
+      "nazvanie": "Badaga",
+      "name_en": "Badaga"
+    },
+    {
+      "kod": "bg",
+      "nazvanie": "болгарский",
+      "name_en": "Bulgarian"
+    },
+    {
+      "kod": "bho",
+      "nazvanie": "бходжпури",
+      "name_en": "Bhojpuri"
+    },
+    {
+      "kod": "bi",
+      "nazvanie": "бислама",
+      "name_en": "Bislama"
+    },
+    {
+      "kod": "bik",
+      "nazvanie": "бикольский",
+      "name_en": "Bikol"
+    },
+    {
+      "kod": "bin",
+      "nazvanie": "бини",
+      "name_en": "Bini"
+    },
+    {
+      "kod": "bjn",
+      "nazvanie": "Banjar",
+      "name_en": "Banjar"
+    },
+    {
+      "kod": "bkm",
+      "nazvanie": "ком",
+      "name_en": "Kom"
+    },
+    {
+      "kod": "bla",
+      "nazvanie": "сиксика",
+      "name_en": "Siksika"
+    },
+    {
+      "kod": "bm",
+      "nazvanie": "бамбарийский",
+      "name_en": "Bambara"
+    },
+    {
+      "kod": "bn",
+      "nazvanie": "бенгальский",
+      "name_en": "Bengali"
+    },
+    {
+      "kod": "bo",
+      "nazvanie": "тибетский",
+      "name_en": "Tibetan"
+    },
+    {
+      "kod": "bpy",
+      "nazvanie": "Bishnupriya",
+      "name_en": "Bishnupriya"
+    },
+    {
+      "kod": "bqi",
+      "nazvanie": "Bakhtiari",
+      "name_en": "Bakhtiari"
+    },
+    {
+      "kod": "br",
+      "nazvanie": "бретонский",
+      "name_en": "Breton"
+    },
+    {
+      "kod": "bra",
+      "nazvanie": "брауи",
+      "name_en": "Braj"
+    },
+    {
+      "kod": "brh",
+      "nazvanie": "Brahui",
+      "name_en": "Brahui"
+    },
+    {
+      "kod": "brx",
+      "nazvanie": "бодо",
+      "name_en": "Bodo"
+    },
+    {
+      "kod": "bs",
+      "nazvanie": "боснийский",
+      "name_en": "Bosnian"
+    },
+    {
+      "kod": "bss",
+      "nazvanie": "акоосе",
+      "name_en": "Akoose"
+    },
+    {
+      "kod": "bua",
+      "nazvanie": "бурятский",
+      "name_en": "Buriat"
+    },
+    {
+      "kod": "bug",
+      "nazvanie": "бугийский",
+      "name_en": "Buginese"
+    },
+    {
+      "kod": "bum",
+      "nazvanie": "булу",
+      "name_en": "Bulu"
+    },
+    {
+      "kod": "byn",
+      "nazvanie": "билин (блин)",
+      "name_en": "Blin"
+    },
+    {
+      "kod": "byv",
+      "nazvanie": "медумба",
+      "name_en": "Medumba"
+    },
+    {
+      "kod": "ca",
+      "nazvanie": "каталанский",
+      "name_en": "Catalan"
+    },
+    {
+      "kod": "cad",
+      "nazvanie": "каддо",
+      "name_en": "Caddo"
+    },
+    {
+      "kod": "car",
+      "nazvanie": "кариб",
+      "name_en": "Carib"
+    },
+    {
+      "kod": "cay",
+      "nazvanie": "кайюга",
+      "name_en": "Cayuga"
+    },
+    {
+      "kod": "cch",
+      "nazvanie": "атсам",
+      "name_en": "Atsam"
+    },
+    {
+      "kod": "ce",
+      "nazvanie": "чеченский",
+      "name_en": "Chechen"
+    },
+    {
+      "kod": "ceb",
+      "nazvanie": "кебуано",
+      "name_en": "Cebuano"
+    },
+    {
+      "kod": "cgg",
+      "nazvanie": "чига",
+      "name_en": "Chiga"
+    },
+    {
+      "kod": "ch",
+      "nazvanie": "чаморро",
+      "name_en": "Chamorro"
+    },
+    {
+      "kod": "chb",
+      "nazvanie": "чибча",
+      "name_en": "Chibcha"
+    },
+    {
+      "kod": "chg",
+      "nazvanie": "чагатайский",
+      "name_en": "Chagatai"
+    },
+    {
+      "kod": "chk",
+      "nazvanie": "чукотский",
+      "name_en": "Chuukese"
+    },
+    {
+      "kod": "chm",
+      "nazvanie": "марийский (черемисский)",
+      "name_en": "Mari"
+    },
+    {
+      "kod": "chn",
+      "nazvanie": "чинук жаргон",
+      "name_en": "Chinook Jargon"
+    },
+    {
+      "kod": "cho",
+      "nazvanie": "чоктав",
+      "name_en": "Choctaw"
+    },
+    {
+      "kod": "chp",
+      "nazvanie": "чипевайян",
+      "name_en": "Chipewyan"
+    },
+    {
+      "kod": "chr",
+      "nazvanie": "чероки",
+      "name_en": "Cherokee"
+    },
+    {
+      "kod": "chy",
+      "nazvanie": "чейенн",
+      "name_en": "Cheyenne"
+    },
+    {
+      "kod": "ckb",
+      "nazvanie": "сорани курдский",
+      "name_en": "Central Kurdish"
+    },
+    {
+      "kod": "co",
+      "nazvanie": "корсиканский",
+      "name_en": "Corsican"
+    },
+    {
+      "kod": "cop",
+      "nazvanie": "коптский",
+      "name_en": "Coptic"
+    },
+    {
+      "kod": "cps",
+      "nazvanie": "Capiznon",
+      "name_en": "Capiznon"
+    },
+    {
+      "kod": "cr",
+      "nazvanie": "криийский",
+      "name_en": "Cree"
+    },
+    {
+      "kod": "crh",
+      "nazvanie": "крымско-татарский",
+      "name_en": "Crimean Turkish"
+    },
+    {
+      "kod": "cs",
+      "nazvanie": "чешский",
+      "name_en": "Czech"
+    },
+    {
+      "kod": "csb",
+      "nazvanie": "кашубианский",
+      "name_en": "Kashubian"
+    },
+    {
+      "kod": "cu",
+      "nazvanie": "церковнославянский",
+      "name_en": "Church Slavic"
+    },
+    {
+      "kod": "cv",
+      "nazvanie": "чувашский",
+      "name_en": "Chuvash"
+    },
+    {
+      "kod": "cy",
+      "nazvanie": "валлийский",
+      "name_en": "Welsh"
+    },
+    {
+      "kod": "da",
+      "nazvanie": "датский",
+      "name_en": "Danish"
+    },
+    {
+      "kod": "dak",
+      "nazvanie": "дакота",
+      "name_en": "Dakota"
+    },
+    {
+      "kod": "dar",
+      "nazvanie": "даргва",
+      "name_en": "Dargwa"
+    },
+    {
+      "kod": "dav",
+      "nazvanie": "таита",
+      "name_en": "Taita"
+    },
+    {
+      "kod": "de",
+      "nazvanie": "немецкий",
+      "name_en": "German"
+    },
+    {
+      "kod": "del",
+      "nazvanie": "делаварский",
+      "name_en": "Delaware"
+    },
+    {
+      "kod": "den",
+      "nazvanie": "слейви",
+      "name_en": "Slave"
+    },
+    {
+      "kod": "dgr",
+      "nazvanie": "догриб",
+      "name_en": "Dogrib"
+    },
+    {
+      "kod": "din",
+      "nazvanie": "динка",
+      "name_en": "Dinka"
+    },
+    {
+      "kod": "dje",
+      "nazvanie": "зарма",
+      "name_en": "Zarma"
+    },
+    {
+      "kod": "doi",
+      "nazvanie": "догри",
+      "name_en": "Dogri"
+    },
+    {
+      "kod": "dsb",
+      "nazvanie": "нижнелужицкий",
+      "name_en": "Lower Sorbian"
+    },
+    {
+      "kod": "dtp",
+      "nazvanie": "Central Dusun",
+      "name_en": "Central Dusun"
+    },
+    {
+      "kod": "dua",
+      "nazvanie": "дуала",
+      "name_en": "Duala"
+    },
+    {
+      "kod": "dum",
+      "nazvanie": "средненидерландский",
+      "name_en": "Middle Dutch"
+    },
+    {
+      "kod": "dv",
+      "nazvanie": "мальдивский",
+      "name_en": "Divehi"
+    },
+    {
+      "kod": "dyo",
+      "nazvanie": "дьола-фоньи",
+      "name_en": "Jola-Fonyi"
+    },
+    {
+      "kod": "dyu",
+      "nazvanie": "диула (дьюла)",
+      "name_en": "Dyula"
+    },
+    {
+      "kod": "dz",
+      "nazvanie": "дзонг-кэ",
+      "name_en": "Dzongkha"
+    },
+    {
+      "kod": "dzg",
+      "nazvanie": "дазагский",
+      "name_en": "Dazaga"
+    },
+    {
+      "kod": "ebu",
+      "nazvanie": "эмбу",
+      "name_en": "Embu"
+    },
+    {
+      "kod": "ee",
+      "nazvanie": "эве",
+      "name_en": "Ewe"
+    },
+    {
+      "kod": "efi",
+      "nazvanie": "эфик",
+      "name_en": "Efik"
+    },
+    {
+      "kod": "egl",
+      "nazvanie": "Emilian",
+      "name_en": "Emilian"
+    },
+    {
+      "kod": "egy",
+      "nazvanie": "древнеегипетский",
+      "name_en": "Ancient Egyptian"
+    },
+    {
+      "kod": "eka",
+      "nazvanie": "экаджук",
+      "name_en": "Ekajuk"
+    },
+    {
+      "kod": "el",
+      "nazvanie": "греческий",
+      "name_en": "Greek"
+    },
+    {
+      "kod": "elx",
+      "nazvanie": "эламский",
+      "name_en": "Elamite"
+    },
+    {
+      "kod": "en",
+      "nazvanie": "английский",
+      "name_en": "English"
+    },
+    {
+      "kod": "enm",
+      "nazvanie": "среднеанглийский",
+      "name_en": "Middle English"
+    },
+    {
+      "kod": "eo",
+      "nazvanie": "эсперанто",
+      "name_en": "Esperanto"
+    },
+    {
+      "kod": "es",
+      "nazvanie": "испанский",
+      "name_en": "Spanish"
+    },
+    {
+      "kod": "esu",
+      "nazvanie": "Central Yupik",
+      "name_en": "Central Yupik"
+    },
+    {
+      "kod": "et",
+      "nazvanie": "эстонский",
+      "name_en": "Estonian"
+    },
+    {
+      "kod": "eu",
+      "nazvanie": "баскский",
+      "name_en": "Basque"
+    },
+    {
+      "kod": "ewo",
+      "nazvanie": "эвондо",
+      "name_en": "Ewondo"
+    },
+    {
+      "kod": "ext",
+      "nazvanie": "Extremaduran",
+      "name_en": "Extremaduran"
+    },
+    {
+      "kod": "fa",
+      "nazvanie": "персидский",
+      "name_en": "Persian"
+    },
+    {
+      "kod": "fan",
+      "nazvanie": "фанг",
+      "name_en": "Fang"
+    },
+    {
+      "kod": "fat",
+      "nazvanie": "фанти",
+      "name_en": "Fanti"
+    },
+    {
+      "kod": "ff",
+      "nazvanie": "фулах",
+      "name_en": "Fulah"
+    },
+    {
+      "kod": "fi",
+      "nazvanie": "финский",
+      "name_en": "Finnish"
+    },
+    {
+      "kod": "fil",
+      "nazvanie": "филиппинский",
+      "name_en": "Filipino"
+    },
+    {
+      "kod": "fit",
+      "nazvanie": "Tornedalen Finnish",
+      "name_en": "Tornedalen Finnish"
+    },
+    {
+      "kod": "fj",
+      "nazvanie": "фиджи",
+      "name_en": "Fijian"
+    },
+    {
+      "kod": "fo",
+      "nazvanie": "фарерский",
+      "name_en": "Faroese"
+    },
+    {
+      "kod": "fon",
+      "nazvanie": "фон",
+      "name_en": "Fon"
+    },
+    {
+      "kod": "fr",
+      "nazvanie": "французский",
+      "name_en": "French"
+    },
+    {
+      "kod": "frc",
+      "nazvanie": "Cajun French",
+      "name_en": "Cajun French"
+    },
+    {
+      "kod": "frm",
+      "nazvanie": "среднефранцузский",
+      "name_en": "Middle French"
+    },
+    {
+      "kod": "fro",
+      "nazvanie": "старофранцузский",
+      "name_en": "Old French"
+    },
+    {
+      "kod": "frp",
+      "nazvanie": "Arpitan",
+      "name_en": "Arpitan"
+    },
+    {
+      "kod": "frr",
+      "nazvanie": "фризский северный",
+      "name_en": "Northern Frisian"
+    },
+    {
+      "kod": "frs",
+      "nazvanie": "восточный фризский",
+      "name_en": "Eastern Frisian"
+    },
+    {
+      "kod": "fur",
+      "nazvanie": "фриульский",
+      "name_en": "Friulian"
+    },
+    {
+      "kod": "fy",
+      "nazvanie": "западно-фризский",
+      "name_en": "Western Frisian"
+    },
+    {
+      "kod": "ga",
+      "nazvanie": "ирландский",
+      "name_en": "Irish"
+    },
+    {
+      "kod": "gaa",
+      "nazvanie": "га",
+      "name_en": "Ga"
+    },
+    {
+      "kod": "gag",
+      "nazvanie": "гагаузский",
+      "name_en": "Gagauz"
+    },
+    {
+      "kod": "gan",
+      "nazvanie": "Gan Chinese",
+      "name_en": "Gan Chinese"
+    },
+    {
+      "kod": "gay",
+      "nazvanie": "гайо",
+      "name_en": "Gayo"
+    },
+    {
+      "kod": "gba",
+      "nazvanie": "гбая",
+      "name_en": "Gbaya"
+    },
+    {
+      "kod": "gbz",
+      "nazvanie": "Zoroastrian Dari",
+      "name_en": "Zoroastrian Dari"
+    },
+    {
+      "kod": "gd",
+      "nazvanie": "гэльский",
+      "name_en": "Scottish Gaelic"
+    },
+    {
+      "kod": "gez",
+      "nazvanie": "геэз",
+      "name_en": "Geez"
+    },
+    {
+      "kod": "gil",
+      "nazvanie": "гильбертский",
+      "name_en": "Gilbertese"
+    },
+    {
+      "kod": "gl",
+      "nazvanie": "галисийский",
+      "name_en": "Galician"
+    },
+    {
+      "kod": "glk",
+      "nazvanie": "Gilaki",
+      "name_en": "Gilaki"
+    },
+    {
+      "kod": "gmh",
+      "nazvanie": "средневерхненемецкий",
+      "name_en": "Middle High German"
+    },
+    {
+      "kod": "gn",
+      "nazvanie": "гуарани",
+      "name_en": "Guarani"
+    },
+    {
+      "kod": "goh",
+      "nazvanie": "древневерхненемецкий",
+      "name_en": "Old High German"
+    },
+    {
+      "kod": "gom",
+      "nazvanie": "Goan Konkani",
+      "name_en": "Goan Konkani"
+    },
+    {
+      "kod": "gon",
+      "nazvanie": "гонди",
+      "name_en": "Gondi"
+    },
+    {
+      "kod": "gor",
+      "nazvanie": "горонтало",
+      "name_en": "Gorontalo"
+    },
+    {
+      "kod": "got",
+      "nazvanie": "готский",
+      "name_en": "Gothic"
+    },
+    {
+      "kod": "grb",
+      "nazvanie": "гребо",
+      "name_en": "Grebo"
+    },
+    {
+      "kod": "grc",
+      "nazvanie": "древнегреческий",
+      "name_en": "Ancient Greek"
+    },
+    {
+      "kod": "gsw",
+      "nazvanie": "швейцарский немецкий",
+      "name_en": "Swiss German"
+    },
+    {
+      "kod": "gu",
+      "nazvanie": "гуджарати",
+      "name_en": "Gujarati"
+    },
+    {
+      "kod": "guc",
+      "nazvanie": "Wayuu",
+      "name_en": "Wayuu"
+    },
+    {
+      "kod": "gur",
+      "nazvanie": "Frafra",
+      "name_en": "Frafra"
+    },
+    {
+      "kod": "guz",
+      "nazvanie": "гусии",
+      "name_en": "Gusii"
+    },
+    {
+      "kod": "gv",
+      "nazvanie": "мэнский",
+      "name_en": "Manx"
+    },
+    {
+      "kod": "gwi",
+      "nazvanie": "гвичин",
+      "name_en": "Gwichʼin"
+    },
+    {
+      "kod": "ha",
+      "nazvanie": "хауса",
+      "name_en": "Hausa"
+    },
+    {
+      "kod": "hai",
+      "nazvanie": "хайда",
+      "name_en": "Haida"
+    },
+    {
+      "kod": "hak",
+      "nazvanie": "Hakka Chinese",
+      "name_en": "Hakka Chinese"
+    },
+    {
+      "kod": "haw",
+      "nazvanie": "гавайский",
+      "name_en": "Hawaiian"
+    },
+    {
+      "kod": "he",
+      "nazvanie": "иврит",
+      "name_en": "Hebrew"
+    },
+    {
+      "kod": "hi",
+      "nazvanie": "хинди",
+      "name_en": "Hindi"
+    },
+    {
+      "kod": "hif",
+      "nazvanie": "Fiji Hindi",
+      "name_en": "Fiji Hindi"
+    },
+    {
+      "kod": "hil",
+      "nazvanie": "хилигайнон",
+      "name_en": "Hiligaynon"
+    },
+    {
+      "kod": "hit",
+      "nazvanie": "хеттский",
+      "name_en": "Hittite"
+    },
+    {
+      "kod": "hmn",
+      "nazvanie": "хмонг",
+      "name_en": "Hmong"
+    },
+    {
+      "kod": "ho",
+      "nazvanie": "хиримоту",
+      "name_en": "Hiri Motu"
+    },
+    {
+      "kod": "hr",
+      "nazvanie": "хорватский",
+      "name_en": "Croatian"
+    },
+    {
+      "kod": "hsb",
+      "nazvanie": "верхнелужицкий",
+      "name_en": "Upper Sorbian"
+    },
+    {
+      "kod": "hsn",
+      "nazvanie": "Xiang Chinese",
+      "name_en": "Xiang Chinese"
+    },
+    {
+      "kod": "ht",
+      "nazvanie": "гаитянский",
+      "name_en": "Haitian"
+    },
+    {
+      "kod": "hu",
+      "nazvanie": "венгерский",
+      "name_en": "Hungarian"
+    },
+    {
+      "kod": "hup",
+      "nazvanie": "хупа",
+      "name_en": "Hupa"
+    },
+    {
+      "kod": "hy",
+      "nazvanie": "армянский",
+      "name_en": "Armenian"
+    },
+    {
+      "kod": "hz",
+      "nazvanie": "гереро",
+      "name_en": "Herero"
+    },
+    {
+      "kod": "ia",
+      "nazvanie": "интерлингва",
+      "name_en": "Interlingua"
+    },
+    {
+      "kod": "iba",
+      "nazvanie": "ибанский",
+      "name_en": "Iban"
+    },
+    {
+      "kod": "ibb",
+      "nazvanie": "ибибио",
+      "name_en": "Ibibio"
+    },
+    {
+      "kod": "id",
+      "nazvanie": "индонезийский",
+      "name_en": "Indonesian"
+    },
+    {
+      "kod": "ie",
+      "nazvanie": "интерлингве",
+      "name_en": "Interlingue"
+    },
+    {
+      "kod": "ig",
+      "nazvanie": "игбо",
+      "name_en": "Igbo"
+    },
+    {
+      "kod": "ii",
+      "nazvanie": "сычуань",
+      "name_en": "Sichuan Yi"
+    },
+    {
+      "kod": "ik",
+      "nazvanie": "инупиак",
+      "name_en": "Inupiaq"
+    },
+    {
+      "kod": "ilo",
+      "nazvanie": "илоко",
+      "name_en": "Iloko"
+    },
+    {
+      "kod": "inh",
+      "nazvanie": "ингушский",
+      "name_en": "Ingush"
+    },
+    {
+      "kod": "io",
+      "nazvanie": "идо",
+      "name_en": "Ido"
+    },
+    {
+      "kod": "is",
+      "nazvanie": "исландский",
+      "name_en": "Icelandic"
+    },
+    {
+      "kod": "it",
+      "nazvanie": "итальянский",
+      "name_en": "Italian"
+    },
+    {
+      "kod": "iu",
+      "nazvanie": "инуктитут",
+      "name_en": "Inuktitut"
+    },
+    {
+      "kod": "izh",
+      "nazvanie": "Ingrian",
+      "name_en": "Ingrian"
+    },
+    {
+      "kod": "ja",
+      "nazvanie": "японский",
+      "name_en": "Japanese"
+    },
+    {
+      "kod": "jam",
+      "nazvanie": "Jamaican Creole English",
+      "name_en": "Jamaican Creole English"
+    },
+    {
+      "kod": "jbo",
+      "nazvanie": "ложбан",
+      "name_en": "Lojban"
+    },
+    {
+      "kod": "jgo",
+      "nazvanie": "нгомба",
+      "name_en": "Ngomba"
+    },
+    {
+      "kod": "jmc",
+      "nazvanie": "мачаме",
+      "name_en": "Machame"
+    },
+    {
+      "kod": "jpr",
+      "nazvanie": "еврейско-персидский",
+      "name_en": "Judeo-Persian"
+    },
+    {
+      "kod": "jrb",
+      "nazvanie": "еврейско-арабский",
+      "name_en": "Judeo-Arabic"
+    },
+    {
+      "kod": "jut",
+      "nazvanie": "Jutish",
+      "name_en": "Jutish"
+    },
+    {
+      "kod": "jv",
+      "nazvanie": "яванский",
+      "name_en": "Javanese"
+    },
+    {
+      "kod": "ka",
+      "nazvanie": "грузинский",
+      "name_en": "Georgian"
+    },
+    {
+      "kod": "kaa",
+      "nazvanie": "каракалпакский",
+      "name_en": "Kara-Kalpak"
+    },
+    {
+      "kod": "kab",
+      "nazvanie": "кабильский",
+      "name_en": "Kabyle"
+    },
+    {
+      "kod": "kac",
+      "nazvanie": "качинский",
+      "name_en": "Kachin"
+    },
+    {
+      "kod": "kaj",
+      "nazvanie": "каджи",
+      "name_en": "Jju"
+    },
+    {
+      "kod": "kam",
+      "nazvanie": "камба",
+      "name_en": "Kamba"
+    },
+    {
+      "kod": "kaw",
+      "nazvanie": "кави",
+      "name_en": "Kawi"
+    },
+    {
+      "kod": "kbd",
+      "nazvanie": "кабардинский",
+      "name_en": "Kabardian"
+    },
+    {
+      "kod": "kbl",
+      "nazvanie": "канембу",
+      "name_en": "Kanembu"
+    },
+    {
+      "kod": "kcg",
+      "nazvanie": "тьяп",
+      "name_en": "Tyap"
+    },
+    {
+      "kod": "kde",
+      "nazvanie": "маконде",
+      "name_en": "Makonde"
+    },
+    {
+      "kod": "kea",
+      "nazvanie": "кабувердьяну",
+      "name_en": "Kabuverdianu"
+    },
+    {
+      "kod": "ken",
+      "nazvanie": "Kenyang",
+      "name_en": "Kenyang"
+    },
+    {
+      "kod": "kfo",
+      "nazvanie": "коро",
+      "name_en": "Koro"
+    },
+    {
+      "kod": "kg",
+      "nazvanie": "конго",
+      "name_en": "Kongo"
+    },
+    {
+      "kod": "kgp",
+      "nazvanie": "Kaingang",
+      "name_en": "Kaingang"
+    },
+    {
+      "kod": "kha",
+      "nazvanie": "кхаси",
+      "name_en": "Khasi"
+    },
+    {
+      "kod": "kho",
+      "nazvanie": "хотанский",
+      "name_en": "Khotanese"
+    },
+    {
+      "kod": "khq",
+      "nazvanie": "койра чиини",
+      "name_en": "Koyra Chiini"
+    },
+    {
+      "kod": "khw",
+      "nazvanie": "Khowar",
+      "name_en": "Khowar"
+    },
+    {
+      "kod": "ki",
+      "nazvanie": "кикуйю",
+      "name_en": "Kikuyu"
+    },
+    {
+      "kod": "kiu",
+      "nazvanie": "Kirmanjki",
+      "name_en": "Kirmanjki"
+    },
+    {
+      "kod": "kj",
+      "nazvanie": "кунама",
+      "name_en": "Kuanyama"
+    },
+    {
+      "kod": "kk",
+      "nazvanie": "казахский",
+      "name_en": "Kazakh"
+    },
+    {
+      "kod": "kkj",
+      "nazvanie": "како",
+      "name_en": "Kako"
+    },
+    {
+      "kod": "kl",
+      "nazvanie": "гренландский",
+      "name_en": "Kalaallisut"
+    },
+    {
+      "kod": "kln",
+      "nazvanie": "календжин",
+      "name_en": "Kalenjin"
+    },
+    {
+      "kod": "km",
+      "nazvanie": "кхмерский",
+      "name_en": "Khmer"
+    },
+    {
+      "kod": "kmb",
+      "nazvanie": "кимбундийский",
+      "name_en": "Kimbundu"
+    },
+    {
+      "kod": "kn",
+      "nazvanie": "каннада",
+      "name_en": "Kannada"
+    },
+    {
+      "kod": "ko",
+      "nazvanie": "корейский",
+      "name_en": "Korean"
+    },
+    {
+      "kod": "koi",
+      "nazvanie": "коми-пермяцкий",
+      "name_en": "Komi-Permyak"
+    },
+    {
+      "kod": "kok",
+      "nazvanie": "конкани",
+      "name_en": "Konkani"
+    },
+    {
+      "kod": "kos",
+      "nazvanie": "косраенский",
+      "name_en": "Kosraean"
+    },
+    {
+      "kod": "kpe",
+      "nazvanie": "кпелле",
+      "name_en": "Kpelle"
+    },
+    {
+      "kod": "kr",
+      "nazvanie": "канури",
+      "name_en": "Kanuri"
+    },
+    {
+      "kod": "krc",
+      "nazvanie": "карачаево-балкарский",
+      "name_en": "Karachay-Balkar"
+    },
+    {
+      "kod": "kri",
+      "nazvanie": "Krio",
+      "name_en": "Krio"
+    },
+    {
+      "kod": "krj",
+      "nazvanie": "Kinaray-a",
+      "name_en": "Kinaray-a"
+    },
+    {
+      "kod": "krl",
+      "nazvanie": "карельский",
+      "name_en": "Karelian"
+    },
+    {
+      "kod": "kru",
+      "nazvanie": "курух",
+      "name_en": "Kurukh"
+    },
+    {
+      "kod": "ks",
+      "nazvanie": "кашмири",
+      "name_en": "Kashmiri"
+    },
+    {
+      "kod": "ksb",
+      "nazvanie": "шамбала",
+      "name_en": "Shambala"
+    },
+    {
+      "kod": "ksf",
+      "nazvanie": "бафия",
+      "name_en": "Bafia"
+    },
+    {
+      "kod": "ksh",
+      "nazvanie": "кёльш",
+      "name_en": "Colognian"
+    },
+    {
+      "kod": "ku",
+      "nazvanie": "курдский",
+      "name_en": "Kurdish"
+    },
+    {
+      "kod": "kum",
+      "nazvanie": "кумыкский",
+      "name_en": "Kumyk"
+    },
+    {
+      "kod": "kut",
+      "nazvanie": "кутенаи",
+      "name_en": "Kutenai"
+    },
+    {
+      "kod": "kv",
+      "nazvanie": "коми",
+      "name_en": "Komi"
+    },
+    {
+      "kod": "kw",
+      "nazvanie": "корнийский",
+      "name_en": "Cornish"
+    },
+    {
+      "kod": "ky",
+      "nazvanie": "киргизский",
+      "name_en": "Kyrgyz"
+    },
+    {
+      "kod": "la",
+      "nazvanie": "латинский",
+      "name_en": "Latin"
+    },
+    {
+      "kod": "lad",
+      "nazvanie": "ладино",
+      "name_en": "Ladino"
+    },
+    {
+      "kod": "lag",
+      "nazvanie": "ланги",
+      "name_en": "Langi"
+    },
+    {
+      "kod": "lah",
+      "nazvanie": "лахнда",
+      "name_en": "Lahnda"
+    },
+    {
+      "kod": "lam",
+      "nazvanie": "ламба",
+      "name_en": "Lamba"
+    },
+    {
+      "kod": "lb",
+      "nazvanie": "люксембургский",
+      "name_en": "Luxembourgish"
+    },
+    {
+      "kod": "lez",
+      "nazvanie": "лезгинский",
+      "name_en": "Lezghian"
+    },
+    {
+      "kod": "lfn",
+      "nazvanie": "Lingua Franca Nova",
+      "name_en": "Lingua Franca Nova"
+    },
+    {
+      "kod": "lg",
+      "nazvanie": "ганда",
+      "name_en": "Ganda"
+    },
+    {
+      "kod": "li",
+      "nazvanie": "лимбургский",
+      "name_en": "Limburgish"
+    },
+    {
+      "kod": "lij",
+      "nazvanie": "Ligurian",
+      "name_en": "Ligurian"
+    },
+    {
+      "kod": "liv",
+      "nazvanie": "Livonian",
+      "name_en": "Livonian"
+    },
+    {
+      "kod": "lkt",
+      "nazvanie": "лакота",
+      "name_en": "Lakota"
+    },
+    {
+      "kod": "lmo",
+      "nazvanie": "Lombard",
+      "name_en": "Lombard"
+    },
+    {
+      "kod": "ln",
+      "nazvanie": "лингала",
+      "name_en": "Lingala"
+    },
+    {
+      "kod": "lo",
+      "nazvanie": "лаосский",
+      "name_en": "Lao"
+    },
+    {
+      "kod": "lol",
+      "nazvanie": "монго",
+      "name_en": "Mongo"
+    },
+    {
+      "kod": "loz",
+      "nazvanie": "лози",
+      "name_en": "Lozi"
+    },
+    {
+      "kod": "lt",
+      "nazvanie": "литовский",
+      "name_en": "Lithuanian"
+    },
+    {
+      "kod": "ltg",
+      "nazvanie": "Latgalian",
+      "name_en": "Latgalian"
+    },
+    {
+      "kod": "lu",
+      "nazvanie": "луба-катанга",
+      "name_en": "Luba-Katanga"
+    },
+    {
+      "kod": "lua",
+      "nazvanie": "луба-лулуа",
+      "name_en": "Luba-Lulua"
+    },
+    {
+      "kod": "lui",
+      "nazvanie": "луисеньо",
+      "name_en": "Luiseno"
+    },
+    {
+      "kod": "lun",
+      "nazvanie": "лунда",
+      "name_en": "Lunda"
+    },
+    {
+      "kod": "luo",
+      "nazvanie": "луо (Кения и Танзания)",
+      "name_en": "Luo"
+    },
+    {
+      "kod": "lus",
+      "nazvanie": "лушай",
+      "name_en": "Mizo"
+    },
+    {
+      "kod": "luy",
+      "nazvanie": "лухья",
+      "name_en": "Luyia"
+    },
+    {
+      "kod": "lv",
+      "nazvanie": "латышский",
+      "name_en": "Latvian"
+    },
+    {
+      "kod": "lzh",
+      "nazvanie": "Literary Chinese",
+      "name_en": "Literary Chinese"
+    },
+    {
+      "kod": "lzz",
+      "nazvanie": "Laz",
+      "name_en": "Laz"
+    },
+    {
+      "kod": "mad",
+      "nazvanie": "мадурский",
+      "name_en": "Madurese"
+    },
+    {
+      "kod": "maf",
+      "nazvanie": "мафа",
+      "name_en": "Mafa"
+    },
+    {
+      "kod": "mag",
+      "nazvanie": "магахи",
+      "name_en": "Magahi"
+    },
+    {
+      "kod": "mai",
+      "nazvanie": "майтхили",
+      "name_en": "Maithili"
+    },
+    {
+      "kod": "mak",
+      "nazvanie": "макассарский",
+      "name_en": "Makasar"
+    },
+    {
+      "kod": "man",
+      "nazvanie": "мандинго",
+      "name_en": "Mandingo"
+    },
+    {
+      "kod": "mas",
+      "nazvanie": "масаи",
+      "name_en": "Masai"
+    },
+    {
+      "kod": "mde",
+      "nazvanie": "мабанский",
+      "name_en": "Maba"
+    },
+    {
+      "kod": "mdf",
+      "nazvanie": "мокшанский",
+      "name_en": "Moksha"
+    },
+    {
+      "kod": "mdr",
+      "nazvanie": "мандарский",
+      "name_en": "Mandar"
+    },
+    {
+      "kod": "men",
+      "nazvanie": "менде",
+      "name_en": "Mende"
+    },
+    {
+      "kod": "mer",
+      "nazvanie": "меру",
+      "name_en": "Meru"
+    },
+    {
+      "kod": "mfe",
+      "nazvanie": "маврикийский креольский",
+      "name_en": "Morisyen"
+    },
+    {
+      "kod": "mg",
+      "nazvanie": "малагасийский",
+      "name_en": "Malagasy"
+    },
+    {
+      "kod": "mga",
+      "nazvanie": "среднеирландский",
+      "name_en": "Middle Irish"
+    },
+    {
+      "kod": "mgh",
+      "nazvanie": "макуа-меетто",
+      "name_en": "Makhuwa-Meetto"
+    },
+    {
+      "kod": "mgo",
+      "nazvanie": "мета",
+      "name_en": "Metaʼ"
+    },
+    {
+      "kod": "mh",
+      "nazvanie": "маршалльский",
+      "name_en": "Marshallese"
+    },
+    {
+      "kod": "mi",
+      "nazvanie": "маори",
+      "name_en": "Maori"
+    },
+    {
+      "kod": "mic",
+      "nazvanie": "микмак",
+      "name_en": "Micmac"
+    },
+    {
+      "kod": "min",
+      "nazvanie": "минангкабау",
+      "name_en": "Minangkabau"
+    },
+    {
+      "kod": "mk",
+      "nazvanie": "македонский",
+      "name_en": "Macedonian"
+    },
+    {
+      "kod": "ml",
+      "nazvanie": "малаялам",
+      "name_en": "Malayalam"
+    },
+    {
+      "kod": "mn",
+      "nazvanie": "монгольский",
+      "name_en": "Mongolian"
+    },
+    {
+      "kod": "mnc",
+      "nazvanie": "маньчжурский",
+      "name_en": "Manchu"
+    },
+    {
+      "kod": "mni",
+      "nazvanie": "манипурский",
+      "name_en": "Manipuri"
+    },
+    {
+      "kod": "moh",
+      "nazvanie": "мохаук",
+      "name_en": "Mohawk"
+    },
+    {
+      "kod": "mos",
+      "nazvanie": "моси",
+      "name_en": "Mossi"
+    },
+    {
+      "kod": "mr",
+      "nazvanie": "маратхи",
+      "name_en": "Marathi"
+    },
+    {
+      "kod": "mrj",
+      "nazvanie": "Western Mari",
+      "name_en": "Western Mari"
+    },
+    {
+      "kod": "ms",
+      "nazvanie": "малайский",
+      "name_en": "Malay"
+    },
+    {
+      "kod": "mt",
+      "nazvanie": "мальтийский",
+      "name_en": "Maltese"
+    },
+    {
+      "kod": "mua",
+      "nazvanie": "мунданг",
+      "name_en": "Mundang"
+    },
+    {
+      "kod": "mul",
+      "nazvanie": "несколько языков",
+      "name_en": "Multiple Languages"
+    },
+    {
+      "kod": "mus",
+      "nazvanie": "крик",
+      "name_en": "Creek"
+    },
+    {
+      "kod": "mwl",
+      "nazvanie": "мирандийский",
+      "name_en": "Mirandese"
+    },
+    {
+      "kod": "mwr",
+      "nazvanie": "марвари",
+      "name_en": "Marwari"
+    },
+    {
+      "kod": "mwv",
+      "nazvanie": "Mentawai",
+      "name_en": "Mentawai"
+    },
+    {
+      "kod": "my",
+      "nazvanie": "бирманский",
+      "name_en": "Burmese"
+    },
+    {
+      "kod": "mye",
+      "nazvanie": "миене",
+      "name_en": "Myene"
+    },
+    {
+      "kod": "myv",
+      "nazvanie": "эрзя",
+      "name_en": "Erzya"
+    },
+    {
+      "kod": "mzn",
+      "nazvanie": "Mazanderani",
+      "name_en": "Mazanderani"
+    },
+    {
+      "kod": "na",
+      "nazvanie": "науру",
+      "name_en": "Nauru"
+    },
+    {
+      "kod": "nan",
+      "nazvanie": "Min Nan Chinese",
+      "name_en": "Min Nan Chinese"
+    },
+    {
+      "kod": "nap",
+      "nazvanie": "неаполитанский",
+      "name_en": "Neapolitan"
+    },
+    {
+      "kod": "naq",
+      "nazvanie": "нама",
+      "name_en": "Nama"
+    },
+    {
+      "kod": "nb",
+      "nazvanie": "норвежский букмол",
+      "name_en": "Norwegian Bokmål"
+    },
+    {
+      "kod": "nd",
+      "nazvanie": "северный ндебели",
+      "name_en": "North Ndebele"
+    },
+    {
+      "kod": "nds",
+      "nazvanie": "нижнегерманский",
+      "name_en": "Low German"
+    },
+    {
+      "kod": "ne",
+      "nazvanie": "непальский",
+      "name_en": "Nepali"
+    },
+    {
+      "kod": "new",
+      "nazvanie": "неварский",
+      "name_en": "Newari"
+    },
+    {
+      "kod": "ng",
+      "nazvanie": "ндонга",
+      "name_en": "Ndonga"
+    },
+    {
+      "kod": "nia",
+      "nazvanie": "ниас",
+      "name_en": "Nias"
+    },
+    {
+      "kod": "niu",
+      "nazvanie": "ниуэ",
+      "name_en": "Niuean"
+    },
+    {
+      "kod": "njo",
+      "nazvanie": "Ao Naga",
+      "name_en": "Ao Naga"
+    },
+    {
+      "kod": "nl",
+      "nazvanie": "голландский",
+      "name_en": "Dutch"
+    },
+    {
+      "kod": "nmg",
+      "nazvanie": "квасио",
+      "name_en": "Kwasio"
+    },
+    {
+      "kod": "nn",
+      "nazvanie": "норвежский нюнорск",
+      "name_en": "Norwegian Nynorsk"
+    },
+    {
+      "kod": "nnh",
+      "nazvanie": "нгиембунд",
+      "name_en": "Ngiemboon"
+    },
+    {
+      "kod": "no",
+      "nazvanie": "норвежский",
+      "name_en": "Norwegian"
+    },
+    {
+      "kod": "nog",
+      "nazvanie": "ногайский",
+      "name_en": "Nogai"
+    },
+    {
+      "kod": "non",
+      "nazvanie": "старонорвежский",
+      "name_en": "Old Norse"
+    },
+    {
+      "kod": "nov",
+      "nazvanie": "Novial",
+      "name_en": "Novial"
+    },
+    {
+      "kod": "nqo",
+      "nazvanie": "нко",
+      "name_en": "NʼKo"
+    },
+    {
+      "kod": "nr",
+      "nazvanie": "ндебели южный",
+      "name_en": "South Ndebele"
+    },
+    {
+      "kod": "nso",
+      "nazvanie": "сото северный",
+      "name_en": "Northern Sotho"
+    },
+    {
+      "kod": "nus",
+      "nazvanie": "нуэр",
+      "name_en": "Nuer"
+    },
+    {
+      "kod": "nv",
+      "nazvanie": "навахо",
+      "name_en": "Navajo"
+    },
+    {
+      "kod": "nwc",
+      "nazvanie": "невари (классический)",
+      "name_en": "Classical Newari"
+    },
+    {
+      "kod": "ny",
+      "nazvanie": "ньянджа",
+      "name_en": "Nyanja"
+    },
+    {
+      "kod": "nym",
+      "nazvanie": "ньямвези",
+      "name_en": "Nyamwezi"
+    },
+    {
+      "kod": "nyn",
+      "nazvanie": "ньянколе",
+      "name_en": "Nyankole"
+    },
+    {
+      "kod": "nyo",
+      "nazvanie": "ньоро",
+      "name_en": "Nyoro"
+    },
+    {
+      "kod": "nzi",
+      "nazvanie": "нзима",
+      "name_en": "Nzima"
+    },
+    {
+      "kod": "oc",
+      "nazvanie": "окситанский",
+      "name_en": "Occitan"
+    },
+    {
+      "kod": "oj",
+      "nazvanie": "оджибва",
+      "name_en": "Ojibwa"
+    },
+    {
+      "kod": "om",
+      "nazvanie": "оромо",
+      "name_en": "Oromo"
+    },
+    {
+      "kod": "or",
+      "nazvanie": "ория",
+      "name_en": "Oriya"
+    },
+    {
+      "kod": "os",
+      "nazvanie": "осетинский",
+      "name_en": "Ossetic"
+    },
+    {
+      "kod": "osa",
+      "nazvanie": "оседжи",
+      "name_en": "Osage"
+    },
+    {
+      "kod": "ota",
+      "nazvanie": "старотурецкий",
+      "name_en": "Ottoman Turkish"
+    },
+    {
+      "kod": "pa",
+      "nazvanie": "панджаби",
+      "name_en": "Punjabi"
+    },
+    {
+      "kod": "pag",
+      "nazvanie": "пангасинан",
+      "name_en": "Pangasinan"
+    },
+    {
+      "kod": "pal",
+      "nazvanie": "пехлевийский",
+      "name_en": "Pahlavi"
+    },
+    {
+      "kod": "pam",
+      "nazvanie": "пампанга",
+      "name_en": "Pampanga"
+    },
+    {
+      "kod": "pap",
+      "nazvanie": "папьяменто",
+      "name_en": "Papiamento"
+    },
+    {
+      "kod": "pau",
+      "nazvanie": "палау",
+      "name_en": "Palauan"
+    },
+    {
+      "kod": "pcd",
+      "nazvanie": "Picard",
+      "name_en": "Picard"
+    },
+    {
+      "kod": "pdc",
+      "nazvanie": "Pennsylvania German",
+      "name_en": "Pennsylvania German"
+    },
+    {
+      "kod": "pdt",
+      "nazvanie": "Plautdietsch",
+      "name_en": "Plautdietsch"
+    },
+    {
+      "kod": "peo",
+      "nazvanie": "староперсидский",
+      "name_en": "Old Persian"
+    },
+    {
+      "kod": "pfl",
+      "nazvanie": "Palatine German",
+      "name_en": "Palatine German"
+    },
+    {
+      "kod": "phn",
+      "nazvanie": "финикийский",
+      "name_en": "Phoenician"
+    },
+    {
+      "kod": "pi",
+      "nazvanie": "пали",
+      "name_en": "Pali"
+    },
+    {
+      "kod": "pl",
+      "nazvanie": "польский",
+      "name_en": "Polish"
+    },
+    {
+      "kod": "pms",
+      "nazvanie": "Piedmontese",
+      "name_en": "Piedmontese"
+    },
+    {
+      "kod": "pnt",
+      "nazvanie": "Pontic",
+      "name_en": "Pontic"
+    },
+    {
+      "kod": "pon",
+      "nazvanie": "понапе",
+      "name_en": "Pohnpeian"
+    },
+    {
+      "kod": "prg",
+      "nazvanie": "Prussian",
+      "name_en": "Prussian"
+    },
+    {
+      "kod": "pro",
+      "nazvanie": "старопровансальский",
+      "name_en": "Old Provençal"
+    },
+    {
+      "kod": "ps",
+      "nazvanie": "пушту",
+      "name_en": "Pashto"
+    },
+    {
+      "kod": "pt",
+      "nazvanie": "португальский",
+      "name_en": "Portuguese"
+    },
+    {
+      "kod": "qu",
+      "nazvanie": "кечуа",
+      "name_en": "Quechua"
+    },
+    {
+      "kod": "quc",
+      "nazvanie": "киче",
+      "name_en": "Kʼicheʼ"
+    },
+    {
+      "kod": "qug",
+      "nazvanie": "Chimborazo Highland Quichua",
+      "name_en": "Chimborazo Highland Quichua"
+    },
+    {
+      "kod": "raj",
+      "nazvanie": "раджастхани",
+      "name_en": "Rajasthani"
+    },
+    {
+      "kod": "rap",
+      "nazvanie": "рапануи",
+      "name_en": "Rapanui"
+    },
+    {
+      "kod": "rar",
+      "nazvanie": "раротонганский",
+      "name_en": "Rarotongan"
+    },
+    {
+      "kod": "rgn",
+      "nazvanie": "Romagnol",
+      "name_en": "Romagnol"
+    },
+    {
+      "kod": "rif",
+      "nazvanie": "Riffian",
+      "name_en": "Riffian"
+    },
+    {
+      "kod": "rm",
+      "nazvanie": "романшский",
+      "name_en": "Romansh"
+    },
+    {
+      "kod": "rn",
+      "nazvanie": "рунди",
+      "name_en": "Rundi"
+    },
+    {
+      "kod": "ro",
+      "nazvanie": "румынский",
+      "name_en": "Romanian"
+    },
+    {
+      "kod": "rof",
+      "nazvanie": "ромбо",
+      "name_en": "Rombo"
+    },
+    {
+      "kod": "rom",
+      "nazvanie": "цыганский",
+      "name_en": "Romany"
+    },
+    {
+      "kod": "root",
+      "nazvanie": "корневой язык",
+      "name_en": "Root"
+    },
+    {
+      "kod": "rtm",
+      "nazvanie": "Rotuman",
+      "name_en": "Rotuman"
+    },
+    {
+      "kod": "ru",
+      "nazvanie": "русский",
+      "name_en": "Russian"
+    },
+    {
+      "kod": "rue",
+      "nazvanie": "Rusyn",
+      "name_en": "Rusyn"
+    },
+    {
+      "kod": "rug",
+      "nazvanie": "Roviana",
+      "name_en": "Roviana"
+    },
+    {
+      "kod": "rup",
+      "nazvanie": "арумынский",
+      "name_en": "Aromanian"
+    },
+    {
+      "kod": "rw",
+      "nazvanie": "киньяруанда",
+      "name_en": "Kinyarwanda"
+    },
+    {
+      "kod": "rwk",
+      "nazvanie": "руанда",
+      "name_en": "Rwa"
+    },
+    {
+      "kod": "sa",
+      "nazvanie": "санскрит",
+      "name_en": "Sanskrit"
+    },
+    {
+      "kod": "sad",
+      "nazvanie": "сандаве",
+      "name_en": "Sandawe"
+    },
+    {
+      "kod": "sah",
+      "nazvanie": "якутский",
+      "name_en": "Sakha"
+    },
+    {
+      "kod": "sam",
+      "nazvanie": "самаритянский арамейский",
+      "name_en": "Samaritan Aramaic"
+    },
+    {
+      "kod": "saq",
+      "nazvanie": "самбуру",
+      "name_en": "Samburu"
+    },
+    {
+      "kod": "sas",
+      "nazvanie": "сасаки",
+      "name_en": "Sasak"
+    },
+    {
+      "kod": "sat",
+      "nazvanie": "сантали",
+      "name_en": "Santali"
+    },
+    {
+      "kod": "saz",
+      "nazvanie": "Saurashtra",
+      "name_en": "Saurashtra"
+    },
+    {
+      "kod": "sba",
+      "nazvanie": "нгамбайский",
+      "name_en": "Ngambay"
+    },
+    {
+      "kod": "sbp",
+      "nazvanie": "сангу",
+      "name_en": "Sangu"
+    },
+    {
+      "kod": "sc",
+      "nazvanie": "сардинский",
+      "name_en": "Sardinian"
+    },
+    {
+      "kod": "scn",
+      "nazvanie": "сицилийский",
+      "name_en": "Sicilian"
+    },
+    {
+      "kod": "sco",
+      "nazvanie": "шотландский",
+      "name_en": "Scots"
+    },
+    {
+      "kod": "sd",
+      "nazvanie": "синдхи",
+      "name_en": "Sindhi"
+    },
+    {
+      "kod": "sdc",
+      "nazvanie": "Sassarese Sardinian",
+      "name_en": "Sassarese Sardinian"
+    },
+    {
+      "kod": "se",
+      "nazvanie": "северносаамский",
+      "name_en": "Northern Sami"
+    },
+    {
+      "kod": "see",
+      "nazvanie": "сенека",
+      "name_en": "Seneca"
+    },
+    {
+      "kod": "seh",
+      "nazvanie": "сена",
+      "name_en": "Sena"
+    },
+    {
+      "kod": "sei",
+      "nazvanie": "Seri",
+      "name_en": "Seri"
+    },
+    {
+      "kod": "sel",
+      "nazvanie": "селькупский",
+      "name_en": "Selkup"
+    },
+    {
+      "kod": "ses",
+      "nazvanie": "койраборо сенни",
+      "name_en": "Koyraboro Senni"
+    },
+    {
+      "kod": "sg",
+      "nazvanie": "санго",
+      "name_en": "Sango"
+    },
+    {
+      "kod": "sga",
+      "nazvanie": "староирландский",
+      "name_en": "Old Irish"
+    },
+    {
+      "kod": "sgs",
+      "nazvanie": "Samogitian",
+      "name_en": "Samogitian"
+    },
+    {
+      "kod": "sh",
+      "nazvanie": "сербскохорватский",
+      "name_en": "Serbo-Croatian"
+    },
+    {
+      "kod": "shi",
+      "nazvanie": "тахелхит",
+      "name_en": "Tachelhit"
+    },
+    {
+      "kod": "shn",
+      "nazvanie": "шанский",
+      "name_en": "Shan"
+    },
+    {
+      "kod": "shu",
+      "nazvanie": "чадский арабс",
+      "name_en": "Chadian Arabic"
+    },
+    {
+      "kod": "si",
+      "nazvanie": "сингальский",
+      "name_en": "Sinhala"
+    },
+    {
+      "kod": "sid",
+      "nazvanie": "сидама",
+      "name_en": "Sidamo"
+    },
+    {
+      "kod": "sk",
+      "nazvanie": "словацкий",
+      "name_en": "Slovak"
+    },
+    {
+      "kod": "sl",
+      "nazvanie": "словенский",
+      "name_en": "Slovenian"
+    },
+    {
+      "kod": "sli",
+      "nazvanie": "Lower Silesian",
+      "name_en": "Lower Silesian"
+    },
+    {
+      "kod": "sly",
+      "nazvanie": "Selayar",
+      "name_en": "Selayar"
+    },
+    {
+      "kod": "sm",
+      "nazvanie": "самоанский",
+      "name_en": "Samoan"
+    },
+    {
+      "kod": "sma",
+      "nazvanie": "саамский (южный)",
+      "name_en": "Southern Sami"
+    },
+    {
+      "kod": "smj",
+      "nazvanie": "луле-саамский",
+      "name_en": "Lule Sami"
+    },
+    {
+      "kod": "smn",
+      "nazvanie": "инари-саамский",
+      "name_en": "Inari Sami"
+    },
+    {
+      "kod": "sms",
+      "nazvanie": "скольт-саамский",
+      "name_en": "Skolt Sami"
+    },
+    {
+      "kod": "sn",
+      "nazvanie": "шона",
+      "name_en": "Shona"
+    },
+    {
+      "kod": "snk",
+      "nazvanie": "сонинке",
+      "name_en": "Soninke"
+    },
+    {
+      "kod": "so",
+      "nazvanie": "сомали",
+      "name_en": "Somali"
+    },
+    {
+      "kod": "sog",
+      "nazvanie": "согдийский",
+      "name_en": "Sogdien"
+    },
+    {
+      "kod": "sq",
+      "nazvanie": "албанский",
+      "name_en": "Albanian"
+    },
+    {
+      "kod": "sr",
+      "nazvanie": "сербский",
+      "name_en": "Serbian"
+    },
+    {
+      "kod": "srn",
+      "nazvanie": "сранан тонго",
+      "name_en": "Sranan Tongo"
+    },
+    {
+      "kod": "srr",
+      "nazvanie": "серер",
+      "name_en": "Serer"
+    },
+    {
+      "kod": "ss",
+      "nazvanie": "свази",
+      "name_en": "Swati"
+    },
+    {
+      "kod": "ssy",
+      "nazvanie": "сахо",
+      "name_en": "Saho"
+    },
+    {
+      "kod": "st",
+      "nazvanie": "сото южный",
+      "name_en": "Southern Sotho"
+    },
+    {
+      "kod": "stq",
+      "nazvanie": "Saterland Frisian",
+      "name_en": "Saterland Frisian"
+    },
+    {
+      "kod": "su",
+      "nazvanie": "сунданский",
+      "name_en": "Sundanese"
+    },
+    {
+      "kod": "suk",
+      "nazvanie": "сукума",
+      "name_en": "Sukuma"
+    },
+    {
+      "kod": "sus",
+      "nazvanie": "сусу",
+      "name_en": "Susu"
+    },
+    {
+      "kod": "sux",
+      "nazvanie": "шумерский",
+      "name_en": "Sumerian"
+    },
+    {
+      "kod": "sv",
+      "nazvanie": "шведский",
+      "name_en": "Swedish"
+    },
+    {
+      "kod": "sw",
+      "nazvanie": "суахили",
+      "name_en": "Swahili"
+    },
+    {
+      "kod": "swb",
+      "nazvanie": "коморский",
+      "name_en": "Comorian"
+    },
+    {
+      "kod": "swc",
+      "nazvanie": "конголезский суахили",
+      "name_en": "Congo Swahili"
+    },
+    {
+      "kod": "syc",
+      "nazvanie": "классический сирийский",
+      "name_en": "Classical Syriac"
+    },
+    {
+      "kod": "syr",
+      "nazvanie": "сирийский",
+      "name_en": "Syriac"
+    },
+    {
+      "kod": "szl",
+      "nazvanie": "Silesian",
+      "name_en": "Silesian"
+    },
+    {
+      "kod": "ta",
+      "nazvanie": "тамильский",
+      "name_en": "Tamil"
+    },
+    {
+      "kod": "tcy",
+      "nazvanie": "Tulu",
+      "name_en": "Tulu"
+    },
+    {
+      "kod": "te",
+      "nazvanie": "телугу",
+      "name_en": "Telugu"
+    },
+    {
+      "kod": "tem",
+      "nazvanie": "темне",
+      "name_en": "Timne"
+    },
+    {
+      "kod": "teo",
+      "nazvanie": "тесо",
+      "name_en": "Teso"
+    },
+    {
+      "kod": "ter",
+      "nazvanie": "терено",
+      "name_en": "Tereno"
+    },
+    {
+      "kod": "tet",
+      "nazvanie": "тетум",
+      "name_en": "Tetum"
+    },
+    {
+      "kod": "tg",
+      "nazvanie": "таджикский",
+      "name_en": "Tajik"
+    },
+    {
+      "kod": "th",
+      "nazvanie": "тайский",
+      "name_en": "Thai"
+    },
+    {
+      "kod": "ti",
+      "nazvanie": "тигринья",
+      "name_en": "Tigrinya"
+    },
+    {
+      "kod": "tig",
+      "nazvanie": "тигре",
+      "name_en": "Tigre"
+    },
+    {
+      "kod": "tiv",
+      "nazvanie": "тиви",
+      "name_en": "Tiv"
+    },
+    {
+      "kod": "tk",
+      "nazvanie": "туркменский",
+      "name_en": "Turkmen"
+    },
+    {
+      "kod": "tkl",
+      "nazvanie": "токелайский",
+      "name_en": "Tokelau"
+    },
+    {
+      "kod": "tkr",
+      "nazvanie": "Tsakhur",
+      "name_en": "Tsakhur"
+    },
+    {
+      "kod": "tl",
+      "nazvanie": "тагалог",
+      "name_en": "Tagalog"
+    },
+    {
+      "kod": "tlh",
+      "nazvanie": "клингонский",
+      "name_en": "Klingon"
+    },
+    {
+      "kod": "tli",
+      "nazvanie": "тлингит",
+      "name_en": "Tlingit"
+    },
+    {
+      "kod": "tly",
+      "nazvanie": "Talysh",
+      "name_en": "Talysh"
+    },
+    {
+      "kod": "tmh",
+      "nazvanie": "тамашек",
+      "name_en": "Tamashek"
+    },
+    {
+      "kod": "tn",
+      "nazvanie": "тсвана",
+      "name_en": "Tswana"
+    },
+    {
+      "kod": "to",
+      "nazvanie": "тонганский",
+      "name_en": "Tongan"
+    },
+    {
+      "kod": "tog",
+      "nazvanie": "ньяса (тонга)",
+      "name_en": "Nyasa Tonga"
+    },
+    {
+      "kod": "tpi",
+      "nazvanie": "ток-писин",
+      "name_en": "Tok Pisin"
+    },
+    {
+      "kod": "tr",
+      "nazvanie": "турецкий",
+      "name_en": "Turkish"
+    },
+    {
+      "kod": "tru",
+      "nazvanie": "туройо",
+      "name_en": "Turoyo"
+    },
+    {
+      "kod": "trv",
+      "nazvanie": "тароко",
+      "name_en": "Taroko"
+    },
+    {
+      "kod": "ts",
+      "nazvanie": "тсонга",
+      "name_en": "Tsonga"
+    },
+    {
+      "kod": "tsd",
+      "nazvanie": "Tsakonian",
+      "name_en": "Tsakonian"
+    },
+    {
+      "kod": "tsi",
+      "nazvanie": "цимшиан",
+      "name_en": "Tsimshian"
+    },
+    {
+      "kod": "tt",
+      "nazvanie": "татарский",
+      "name_en": "Tatar"
+    },
+    {
+      "kod": "ttt",
+      "nazvanie": "Muslim Tat",
+      "name_en": "Muslim Tat"
+    },
+    {
+      "kod": "tum",
+      "nazvanie": "тумбука",
+      "name_en": "Tumbuka"
+    },
+    {
+      "kod": "tvl",
+      "nazvanie": "тувалу",
+      "name_en": "Tuvalu"
+    },
+    {
+      "kod": "tw",
+      "nazvanie": "тви",
+      "name_en": "Twi"
+    },
+    {
+      "kod": "twq",
+      "nazvanie": "тасавак",
+      "name_en": "Tasawaq"
+    },
+    {
+      "kod": "ty",
+      "nazvanie": "таитянский",
+      "name_en": "Tahitian"
+    },
+    {
+      "kod": "tyv",
+      "nazvanie": "тувинский",
+      "name_en": "Tuvinian"
+    },
+    {
+      "kod": "tzm",
+      "nazvanie": "среднеатласский тамазигхтский",
+      "name_en": "Central Atlas Tamazight"
+    },
+    {
+      "kod": "udm",
+      "nazvanie": "удмуртский",
+      "name_en": "Udmurt"
+    },
+    {
+      "kod": "ug",
+      "nazvanie": "уйгурский",
+      "name_en": "Uyghur"
+    },
+    {
+      "kod": "uga",
+      "nazvanie": "угаритский",
+      "name_en": "Ugaritic"
+    },
+    {
+      "kod": "uk",
+      "nazvanie": "украинский",
+      "name_en": "Ukrainian"
+    },
+    {
+      "kod": "umb",
+      "nazvanie": "умбунду",
+      "name_en": "Umbundu"
+    },
+    {
+      "kod": "und",
+      "nazvanie": "неизвестный язык",
+      "name_en": "Unknown Language"
+    },
+    {
+      "kod": "ur",
+      "nazvanie": "урду",
+      "name_en": "Urdu"
+    },
+    {
+      "kod": "uz",
+      "nazvanie": "узбекский",
+      "name_en": "Uzbek"
+    },
+    {
+      "kod": "vai",
+      "nazvanie": "ваи",
+      "name_en": "Vai"
+    },
+    {
+      "kod": "ve",
+      "nazvanie": "венда",
+      "name_en": "Venda"
+    },
+    {
+      "kod": "vec",
+      "nazvanie": "Venetian",
+      "name_en": "Venetian"
+    },
+    {
+      "kod": "vep",
+      "nazvanie": "Veps",
+      "name_en": "Veps"
+    },
+    {
+      "kod": "vi",
+      "nazvanie": "вьетнамский",
+      "name_en": "Vietnamese"
+    },
+    {
+      "kod": "vls",
+      "nazvanie": "West Flemish",
+      "name_en": "West Flemish"
+    },
+    {
+      "kod": "vmf",
+      "nazvanie": "Main-Franconian",
+      "name_en": "Main-Franconian"
+    },
+    {
+      "kod": "vo",
+      "nazvanie": "волапюк",
+      "name_en": "Volapük"
+    },
+    {
+      "kod": "vot",
+      "nazvanie": "водский",
+      "name_en": "Votic"
+    },
+    {
+      "kod": "vro",
+      "nazvanie": "Võro",
+      "name_en": "Võro"
+    },
+    {
+      "kod": "vun",
+      "nazvanie": "вунджо",
+      "name_en": "Vunjo"
+    },
+    {
+      "kod": "wa",
+      "nazvanie": "валлонский",
+      "name_en": "Walloon"
+    },
+    {
+      "kod": "wae",
+      "nazvanie": "валисский",
+      "name_en": "Walser"
+    },
+    {
+      "kod": "wal",
+      "nazvanie": "воламо",
+      "name_en": "Wolaytta"
+    },
+    {
+      "kod": "war",
+      "nazvanie": "варай",
+      "name_en": "Waray"
+    },
+    {
+      "kod": "was",
+      "nazvanie": "вашо",
+      "name_en": "Washo"
+    },
+    {
+      "kod": "wbp",
+      "nazvanie": "Warlpiri",
+      "name_en": "Warlpiri"
+    },
+    {
+      "kod": "wo",
+      "nazvanie": "волоф",
+      "name_en": "Wolof"
+    },
+    {
+      "kod": "wuu",
+      "nazvanie": "Wu Chinese",
+      "name_en": "Wu Chinese"
+    },
+    {
+      "kod": "xal",
+      "nazvanie": "калмыцкий",
+      "name_en": "Kalmyk"
+    },
+    {
+      "kod": "xh",
+      "nazvanie": "коса",
+      "name_en": "Xhosa"
+    },
+    {
+      "kod": "xmf",
+      "nazvanie": "Mingrelian",
+      "name_en": "Mingrelian"
+    },
+    {
+      "kod": "xog",
+      "nazvanie": "сога",
+      "name_en": "Soga"
+    },
+    {
+      "kod": "yao",
+      "nazvanie": "яо",
+      "name_en": "Yao"
+    },
+    {
+      "kod": "yap",
+      "nazvanie": "яп",
+      "name_en": "Yapese"
+    },
+    {
+      "kod": "yav",
+      "nazvanie": "янбан",
+      "name_en": "Yangben"
+    },
+    {
+      "kod": "ybb",
+      "nazvanie": "йемба",
+      "name_en": "Yemba"
+    },
+    {
+      "kod": "yi",
+      "nazvanie": "идиш",
+      "name_en": "Yiddish"
+    },
+    {
+      "kod": "yo",
+      "nazvanie": "йоруба",
+      "name_en": "Yoruba"
+    },
+    {
+      "kod": "yrl",
+      "nazvanie": "Nheengatu",
+      "name_en": "Nheengatu"
+    },
+    {
+      "kod": "yue",
+      "nazvanie": "кантонский",
+      "name_en": "Cantonese"
+    },
+    {
+      "kod": "za",
+      "nazvanie": "чжуань",
+      "name_en": "Zhuang"
+    },
+    {
+      "kod": "zap",
+      "nazvanie": "сапотекский",
+      "name_en": "Zapotec"
+    },
+    {
+      "kod": "zbl",
+      "nazvanie": "блиссимволика",
+      "name_en": "Blissymbols"
+    },
+    {
+      "kod": "zea",
+      "nazvanie": "Zeelandic",
+      "name_en": "Zeelandic"
+    },
+    {
+      "kod": "zen",
+      "nazvanie": "зенагский",
+      "name_en": "Zenaga"
+    },
+    {
+      "kod": "zgh",
+      "nazvanie": "тамазигхтский",
+      "name_en": "Standard Moroccan Tamazight"
+    },
+    {
+      "kod": "zh",
+      "nazvanie": "китайский",
+      "name_en": "Chinese"
+    },
+    {
+      "kod": "zu",
+      "nazvanie": "зулу",
+      "name_en": "Zulu"
+    },
+    {
+      "kod": "zun",
+      "nazvanie": "зуньи",
+      "name_en": "Zuni"
+    },
+    {
+      "kod": "zxx",
+      "nazvanie": "без языкового содержания",
+      "name_en": "No linguistic content"
+    },
+    {
+      "kod": "zza",
+      "nazvanie": "заза",
+      "name_en": "Zaza"
+    }
+  ],
+  "meta": {
+    "title": "Языки мира - Бесплатная загрузка",
+    "description": "Языки мира — коды языков (ISO 639 / BCP-47 subtags) с названиями на русском языке, одна запись на код языка (591 записей). Включает русский (ru), английский (en), французский (fr), немецкий (de), китайский (zh), японский (ja), арабский (ar), испанский (es) и сотни других. Региональные варианты локалей (например en_AU) исключены — только базовые языки. Сортировка по коду языка. Источник — данные CLDR (Unicode) через репозиторий umpirsky/language-list. FIRST language inventory in the RU bucket. Содержит 591 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Языки мира | ListBase",
+    "seo_description": "Скачать Языки мира — 591 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 591 записей / 3 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

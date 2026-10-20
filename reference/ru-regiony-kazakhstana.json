@@ -1,0 +1,301 @@
+{
+  "id": "ru-regiony-kazakhstana",
+  "name": "Регионы Казахстана",
+  "title": "Регионы Казахстана",
+  "description": "Полный перечень 14 областей Казахстана с административными центрами, площадью и часовым поясом. Названия на русском (кириллица + транслитерация BGN/PCGN 1947), казахском (латиница + кириллица) и английском; коды ISO 3166-2 (KZ-AKM и др.). Источник: gusenov/qazaqstan-geography-data (MIT).",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "iso_3166_2_code",
+      "label": "Iso 3166 2 Code",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name_ru",
+      "label": "Name Ru",
+      "type": "string"
+    },
+    {
+      "key": "name_ru_translit",
+      "label": "Name Ru Translit",
+      "type": "string"
+    },
+    {
+      "key": "name_kk_cyrillic",
+      "label": "Name Kk Cyrillic",
+      "type": "string"
+    },
+    {
+      "key": "name_kk_latin",
+      "label": "Name Kk Latin",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "capital_ru",
+      "label": "Capital Ru",
+      "type": "string"
+    },
+    {
+      "key": "capital_kk_cyrillic",
+      "label": "Capital Kk Cyrillic",
+      "type": "string"
+    },
+    {
+      "key": "capital_kk_latin",
+      "label": "Capital Kk Latin",
+      "type": "string"
+    },
+    {
+      "key": "capital_en",
+      "label": "Capital En",
+      "type": "string"
+    },
+    {
+      "key": "area_sq_km",
+      "label": "Area Sq Km",
+      "type": "number"
+    },
+    {
+      "key": "time_zone_utc",
+      "label": "Time Zone Utc",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_3166_2_code": "KZ-AKM",
+      "type": "region",
+      "name_ru": "Акмолинская область",
+      "name_ru_translit": "Akmolinskaya Oblast'",
+      "name_kk_cyrillic": "Ақмола облысы",
+      "name_kk_latin": "Aqmola oblysy",
+      "name_en": "Akmola Region",
+      "capital_ru": "Кокшетау",
+      "capital_kk_cyrillic": "Көкшетау",
+      "capital_kk_latin": "Kókshetaý",
+      "capital_en": "Kokshetau",
+      "area_sq_km": 146219,
+      "time_zone_utc": "UTC+06:00"
+    },
+    {
+      "iso_3166_2_code": "KZ-AKT",
+      "type": "region",
+      "name_ru": "Актюбинская область",
+      "name_ru_translit": "Aktyubinskaya Oblast'",
+      "name_kk_cyrillic": "Ақтөбе облысы",
+      "name_kk_latin": "Aqtóbe oblysy",
+      "name_en": "Aktobe Region",
+      "capital_ru": "Актобе",
+      "capital_kk_cyrillic": "Ақтөбе",
+      "capital_kk_latin": "Aqtóbe",
+      "capital_en": "Aktobe",
+      "area_sq_km": 300629,
+      "time_zone_utc": "UTC+05:00"
+    },
+    {
+      "iso_3166_2_code": "KZ-ALM",
+      "type": "region",
+      "name_ru": "Алматинская область",
+      "name_ru_translit": "Almatinskaya Oblast'",
+      "name_kk_cyrillic": "Алматы облысы",
+      "name_kk_latin": "Almaty oblysy",
+      "name_en": "Almaty Region",
+      "capital_ru": "Талдыкорган",
+      "capital_kk_cyrillic": "Талдықорған",
+      "capital_kk_latin": "Taldyqorǵan",
+      "capital_en": "Taldykorgan",
+      "area_sq_km": 223924,
+      "time_zone_utc": "UTC+06:00"
+    },
+    {
+      "iso_3166_2_code": "KZ-ATY",
+      "type": "region",
+      "name_ru": "Атырауская область",
+      "name_ru_translit": "Atyrauskaya Oblast'",
+      "name_kk_cyrillic": "Атырау облысы",
+      "name_kk_latin": "Atyraý oblysy",
+      "name_en": "Atyrau Region",
+      "capital_ru": "Атырау",
+      "capital_kk_cyrillic": "Атырау",
+      "capital_kk_latin": "Atyraý",
+      "capital_en": "Atyrau",
+      "area_sq_km": 118631,
+      "time_zone_utc": "UTC+05:00"
+    },
+    {
+      "iso_3166_2_code": "KZ-VOS",
+      "type": "region",
+      "name_ru": "Восточно-Казахстанская область",
+      "name_ru_translit": "Vostochno-Kazakhstanskaya Oblast'",
+      "name_kk_cyrillic": "Шығыс Қазақстан облысы",
+      "name_kk_latin": "Shyǵys Qazaqstan oblysy",
+      "name_en": "East Kazakhstan Region",
+      "capital_ru": "Усть-Каменогорск",
+      "capital_kk_cyrillic": "Өскемен",
+      "capital_kk_latin": "О́skemen",
+      "capital_en": "Oskemen",
+      "area_sq_km": 283226,
+      "time_zone_utc": "UTC+06:00"
+    },
+    {
+      "iso_3166_2_code": "KZ-ZHA",
+      "type": "region",
+      "name_ru": "Жамбылская область",
+      "name_ru_translit": "Zhambylskaya Oblast'",
+      "name_kk_cyrillic": "Жамбыл облысы",
+      "name_kk_latin": "Jambyl oblysy",
+      "name_en": "Jambyl Region",
+      "capital_ru": "Тараз",
+      "capital_kk_cyrillic": "Тараз",
+      "capital_kk_latin": "Taraz",
+      "capital_en": "Taraz",
+      "area_sq_km": 144264,
+      "time_zone_utc": "UTC+06:00"
+    },
+    {
+      "iso_3166_2_code": "KZ-ZAP",
+      "type": "region",
+      "name_ru": "Западно-Казахстанская область",
+      "name_ru_translit": "Zapadno-Kazakhstanskaya Oblast'",
+      "name_kk_cyrillic": "Батыс Қазақстан облысы",
+      "name_kk_latin": "Batys Qazaqstan oblysy",
+      "name_en": "West Kazakhstan Region",
+      "capital_ru": "Уральск",
+      "capital_kk_cyrillic": "Орал",
+      "capital_kk_latin": "Oral",
+      "capital_en": "Oral",
+      "area_sq_km": 151339,
+      "time_zone_utc": "UTC+05:00"
+    },
+    {
+      "iso_3166_2_code": "KZ-KAR",
+      "type": "region",
+      "name_ru": "Карагандинская область",
+      "name_ru_translit": "Karagandinskaya Oblast'",
+      "name_kk_cyrillic": "Қарағанды облысы",
+      "name_kk_latin": "Qaraǵandy oblysy",
+      "name_en": "Karaganda Region",
+      "capital_ru": "Караганда",
+      "capital_kk_cyrillic": "Қарағанды",
+      "capital_kk_latin": "Qaraǵandy",
+      "capital_en": "Karaganda",
+      "area_sq_km": 427982,
+      "time_zone_utc": "UTC+06:00"
+    },
+    {
+      "iso_3166_2_code": "KZ-KUS",
+      "type": "region",
+      "name_ru": "Костанайская область",
+      "name_ru_translit": "Kostanayskaya Oblast'",
+      "name_kk_cyrillic": "Қостанай облысы",
+      "name_kk_latin": "Qostanaı oblysy",
+      "name_en": "Kostanay Region",
+      "capital_ru": "Костанай",
+      "capital_kk_cyrillic": "Қостанай",
+      "capital_kk_latin": "Qostanaı",
+      "capital_en": "Kostanay",
+      "area_sq_km": 196001,
+      "time_zone_utc": "UTC+06:00"
+    },
+    {
+      "iso_3166_2_code": "KZ-KZY",
+      "type": "region",
+      "name_ru": "Кызылординская область",
+      "name_ru_translit": "Kyzylordinskaya Oblast'",
+      "name_kk_cyrillic": "Қызылорда облысы",
+      "name_kk_latin": "Qyzylorda oblysy",
+      "name_en": "Kyzylorda Region",
+      "capital_ru": "Кызылорда",
+      "capital_kk_cyrillic": "Қызылорда",
+      "capital_kk_latin": "Qyzylorda",
+      "capital_en": "Kyzylorda",
+      "area_sq_km": 226019,
+      "time_zone_utc": "UTC+06:00"
+    },
+    {
+      "iso_3166_2_code": "KZ-MAN",
+      "type": "region",
+      "name_ru": "Мангыстауская область",
+      "name_ru_translit": "Mangystauskaya Oblast'",
+      "name_kk_cyrillic": "Маңғыстау облысы",
+      "name_kk_latin": "Mańǵystaý oblysy",
+      "name_en": "Mangystau Region",
+      "capital_ru": "Актау",
+      "capital_kk_cyrillic": "Ақтау",
+      "capital_kk_latin": "Aqtaý",
+      "capital_en": "Aktau",
+      "area_sq_km": 165642,
+      "time_zone_utc": "UTC+05:00"
+    },
+    {
+      "iso_3166_2_code": "KZ-PAV",
+      "type": "region",
+      "name_ru": "Павлодарская область",
+      "name_ru_translit": "Pavlodarskaya Oblast'",
+      "name_kk_cyrillic": "Павлодар облысы",
+      "name_kk_latin": "Pavlodar oblysy",
+      "name_en": "Pavlodar Region",
+      "capital_ru": "Павлодар",
+      "capital_kk_cyrillic": "Павлодар",
+      "capital_kk_latin": "Pavlodar",
+      "capital_en": "Pavlodar",
+      "area_sq_km": 124800,
+      "time_zone_utc": "UTC+06:00"
+    },
+    {
+      "iso_3166_2_code": "KZ-SEV",
+      "type": "region",
+      "name_ru": "Северо-Казахстанская область",
+      "name_ru_translit": "Severo-Kazakhstanskaya Oblast'",
+      "name_kk_cyrillic": "Солтүстік Қазақстан облысы",
+      "name_kk_latin": "Soltústik Qazaqstan oblysy",
+      "name_en": "North Kazakhstan Region",
+      "capital_ru": "Петропавловск",
+      "capital_kk_cyrillic": "Петропавл",
+      "capital_kk_latin": "Petropavl",
+      "capital_en": "Petropavl",
+      "area_sq_km": 97993,
+      "time_zone_utc": "UTC+06:00"
+    },
+    {
+      "iso_3166_2_code": "KZ-YUZ",
+      "type": "region",
+      "name_ru": "Туркестанская область",
+      "name_ru_translit": "Turkestanskaya Oblast'",
+      "name_kk_cyrillic": "Түркістан облысы",
+      "name_kk_latin": "Túrkistan oblysy",
+      "name_en": "Turkistan Region",
+      "capital_ru": "Туркестан",
+      "capital_kk_cyrillic": "Түркістан",
+      "capital_kk_latin": "Túrkistan",
+      "capital_en": "Turkistan",
+      "area_sq_km": 117249,
+      "time_zone_utc": "UTC+06:00"
+    }
+  ],
+  "meta": {
+    "title": "Регионы Казахстана - Бесплатная загрузка",
+    "description": "Полный перечень 14 областей Казахстана с административными центрами, площадью и часовым поясом. Названия на русском (кириллица + транслитерация BGN/PCGN 1947), казахском (латиница + кириллица) и английском; коды ISO 3166-2 (KZ-AKM и др.). Источник: gusenov/qazaqstan-geography-data (MIT). Содержит 14 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Регионы Казахстана | ListBase",
+    "seo_description": "Скачать Регионы Казахстана — 14 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 14 записей / 13 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

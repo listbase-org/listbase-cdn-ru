@@ -1,0 +1,107 @@
+{
+  "id": "ru-blagoveshchensk-banki",
+  "name": "Банки — Blagoveshchensk (коды SWIFT/BIC)",
+  "title": "Банки — Blagoveshchensk (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in BLAGOVESHCHENSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 70,
+      "bank": "ASIAN-PACIFIC BANK",
+      "city": "BLAGOVESHCHENSK",
+      "branch": "",
+      "swift_code": "ASANRU8X"
+    },
+    {
+      "id": 71,
+      "bank": "ASIA-PACIFIC BANK AO",
+      "city": "BLAGOVESHCHENSK",
+      "branch": "",
+      "swift_code": "AJICRU81"
+    },
+    {
+      "id": 683,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "BLAGOVESHCHENSK",
+      "branch": "(AMURSKY BRANCH )",
+      "swift_code": "RUAGRUM1023"
+    },
+    {
+      "id": 1056,
+      "bank": "ORIENT EXPRESS BANK",
+      "city": "BLAGOVESHCHENSK",
+      "branch": "",
+      "swift_code": "DALVRU8X"
+    },
+    {
+      "id": 1327,
+      "bank": "SBERBANK (DALNEVOSTOCHNY HEAD OFFICE)",
+      "city": "BLAGOVESHCHENSK",
+      "branch": "(BLAGOVESHCHENSK BRANCH)",
+      "swift_code": "SABRRU8KBLG"
+    },
+    {
+      "id": 1425,
+      "bank": "SVIAZ-BANK",
+      "city": "BLAGOVESHCHENSK",
+      "branch": "(BLAGOVESCHENSK BRANCH)",
+      "swift_code": "SVIZRUM1BLA"
+    },
+    {
+      "id": 1461,
+      "bank": "TEMBR-BANK (JSC)",
+      "city": "BLAGOVESHCHENSK",
+      "branch": "(AMURSKIJ BRANCH)",
+      "swift_code": "TEMBRUMMBLG"
+    },
+    {
+      "id": 1557,
+      "bank": "VOSTOKKREDITBANK OAO",
+      "city": "BLAGOVESHCHENSK",
+      "branch": "",
+      "swift_code": "VOSORU81"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Blagoveshchensk (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in BLAGOVESHCHENSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 8 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Blagoveshchensk (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Blagoveshchensk (коды SWIFT/BIC) — 8 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 8 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

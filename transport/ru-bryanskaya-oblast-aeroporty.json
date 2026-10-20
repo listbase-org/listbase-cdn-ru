@@ -1,0 +1,292 @@
+{
+  "id": "ru-bryanskaya-oblast-aeroporty",
+  "name": "Аэропорты — Bryansk Oblast (RU-BRY)",
+  "title": "Аэропорты — Bryansk Oblast (RU-BRY)",
+  "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Bryansk Oblast (ISO 3166-2 RU-BRY) — 7 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"closed\": 2, \"small_airport\": 2, \"medium_airport\": 2, \"heliport\": 1}. Извлечено из OurAirports.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 44379,
+      "ident": "RU-0127",
+      "type": "closed",
+      "name": "Bryansk Airport",
+      "latitude_deg": 53.269328,
+      "longitude_deg": 34.336638,
+      "elevation_ft": 702,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-BRY",
+      "region_local_code": "BRY",
+      "region_name": "Bryansk Oblast",
+      "municipality": "Bryansk",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "ZA20, ЗА20, Аэропорт Брянск"
+    },
+    {
+      "id": 44927,
+      "ident": "RU-0232",
+      "type": "small_airport",
+      "name": "Bezhitsa Airfield",
+      "latitude_deg": 53.338657,
+      "longitude_deg": 34.23419,
+      "elevation_ft": 532,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-BRY",
+      "region_local_code": "BRY",
+      "region_name": "Bryansk Oblast",
+      "municipality": "Bryansk",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "XUBB",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "ЬУББ, Bordovichi Airfield, Аэродром Бежица, Аэродром Бордовичи"
+    },
+    {
+      "id": 44996,
+      "ident": "RU-0239",
+      "type": "small_airport",
+      "name": "Starodub Airfield",
+      "latitude_deg": 52.566687,
+      "longitude_deg": 32.799629,
+      "elevation_ft": 551,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-BRY",
+      "region_local_code": "BRY",
+      "region_name": "Bryansk Oblast",
+      "municipality": "Starodub",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "UUFS",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Аэропорт Стародуб, УУФС"
+    },
+    {
+      "id": 44998,
+      "ident": "RU-0240",
+      "type": "medium_airport",
+      "name": "Seshcha Air Base",
+      "latitude_deg": 53.715258,
+      "longitude_deg": 33.339083,
+      "elevation_ft": 692,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-BRY",
+      "region_local_code": "BRY",
+      "region_name": "Bryansk Oblast",
+      "municipality": "Dubrovka",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "XUWD",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "ЬУВД, Sescha Air Base, Аэродром Сеща, Дубровка"
+    },
+    {
+      "id": 508492,
+      "ident": "RU-0938",
+      "type": "heliport",
+      "name": "Staroe Lavshino Helicopter Base",
+      "latitude_deg": 53.56009,
+      "longitude_deg": 33.93643,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-BRY",
+      "region_local_code": "BRY",
+      "region_name": "Bryansk Oblast",
+      "municipality": "Staroe Lavshino",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "id": 35003,
+      "ident": "RU-7673",
+      "type": "closed",
+      "name": "Klimovo Air Base",
+      "latitude_deg": 52.34,
+      "longitude_deg": 32.169998,
+      "elevation_ft": 594,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-BRY",
+      "region_local_code": "BRY",
+      "region_name": "Bryansk Oblast",
+      "municipality": "Klimovo",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "XUWI, ЬУВИ, Климово, Кли́мово"
+    },
+    {
+      "id": 26393,
+      "ident": "UUBP",
+      "type": "medium_airport",
+      "name": "Bryansk International Airport",
+      "latitude_deg": 53.214403,
+      "longitude_deg": 34.175965,
+      "elevation_ft": 663,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-BRY",
+      "region_local_code": "BRY",
+      "region_name": "Bryansk Oblast",
+      "municipality": "Bryansk",
+      "scheduled_service": "yes",
+      "icao_code": "UUBP",
+      "iata_code": "BZK",
+      "gps_code": "UUBP",
+      "local_code": "",
+      "home_link": "https://bzk.aero/",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Bryansk_International_Airport",
+      "keywords": "Аэропорт Брянск, УУБП"
+    }
+  ],
+  "meta": {
+    "title": "Аэропорты — Bryansk Oblast (RU-BRY) - Бесплатная загрузка",
+    "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Bryansk Oblast (ISO 3166-2 RU-BRY) — 7 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"closed\": 2, \"small_airport\": 2, \"medium_airport\": 2, \"heliport\": 1}. Извлечено из OurAirports. Содержит 7 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Аэропорты — Bryansk Oblast (RU-BRY) | ListBase",
+    "seo_description": "Скачать Аэропорты — Bryansk Oblast (RU-BRY) — 7 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 7 записей / 21 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

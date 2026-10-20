@@ -1,0 +1,269 @@
+{
+  "id": "ru-kostromskaya-oblast-aeroporty",
+  "name": "Аэропорты — Kostroma Oblast (RU-KOS)",
+  "title": "Аэропорты — Kostroma Oblast (RU-KOS)",
+  "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Kostroma Oblast (ISO 3166-2 RU-KOS) — 6 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"small_airport\": 4, \"closed\": 1, \"medium_airport\": 1}. Извлечено из OurAirports.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 44898,
+      "ident": "RU-0216",
+      "type": "small_airport",
+      "name": "Vokhma Airport",
+      "latitude_deg": 58.91699981689453,
+      "longitude_deg": 46.72700119018555,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KOS",
+      "region_local_code": "KOS",
+      "region_name": "Kostroma Oblast",
+      "municipality": "Vokhma",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Аэропорт Вохма"
+    },
+    {
+      "id": 45233,
+      "ident": "RU-0293",
+      "type": "closed",
+      "name": "Krasnogorye Airfield",
+      "latitude_deg": 57.7133,
+      "longitude_deg": 43.6878,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KOS",
+      "region_local_code": "KOS",
+      "region_name": "Kostroma Oblast",
+      "municipality": "Krasnogorye",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Аэропорт Красногорье"
+    },
+    {
+      "id": 348671,
+      "ident": "RU-0769",
+      "type": "small_airport",
+      "name": "Nekrasovo Airfield",
+      "latitude_deg": 57.78792,
+      "longitude_deg": 40.84022,
+      "elevation_ft": 256,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KOS",
+      "region_local_code": "KOS",
+      "region_name": "Kostroma Oblast",
+      "municipality": "Nekrasovo",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "id": 348672,
+      "ident": "RU-0770",
+      "type": "small_airport",
+      "name": "Manturovo Airfield",
+      "latitude_deg": 58.36749,
+      "longitude_deg": 44.7957,
+      "elevation_ft": 374,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KOS",
+      "region_local_code": "KOS",
+      "region_name": "Kostroma Oblast",
+      "municipality": "Manturovo",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "id": 31761,
+      "ident": "UUBA",
+      "type": "medium_airport",
+      "name": "Kostroma Sokerkino Airport",
+      "latitude_deg": 57.796902,
+      "longitude_deg": 41.019402,
+      "elevation_ft": 446,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KOS",
+      "region_local_code": "KOS",
+      "region_name": "Kostroma Oblast",
+      "municipality": "Kostroma",
+      "scheduled_service": "yes",
+      "icao_code": "UUBA",
+      "iata_code": "KMW",
+      "gps_code": "UUBA",
+      "local_code": "",
+      "home_link": "http://www.kmtn.ru/~koao/",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Kostroma_Airport",
+      "keywords": "Аэропорт Кострома Сокеркино"
+    },
+    {
+      "id": 335153,
+      "ident": "UUBQ",
+      "type": "small_airport",
+      "name": "Sharya Airport",
+      "latitude_deg": 58.391989,
+      "longitude_deg": 45.554466,
+      "elevation_ft": 120,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-KOS",
+      "region_local_code": "KOS",
+      "region_name": "Kostroma Oblast",
+      "municipality": "",
+      "scheduled_service": "yes",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "UUBQ",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    }
+  ],
+  "meta": {
+    "title": "Аэропорты — Kostroma Oblast (RU-KOS) - Бесплатная загрузка",
+    "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Kostroma Oblast (ISO 3166-2 RU-KOS) — 6 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"small_airport\": 4, \"closed\": 1, \"medium_airport\": 1}. Извлечено из OurAirports. Содержит 6 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Аэропорты — Kostroma Oblast (RU-KOS) | ListBase",
+    "seo_description": "Скачать Аэропорты — Kostroma Oblast (RU-KOS) — 6 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 6 записей / 21 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

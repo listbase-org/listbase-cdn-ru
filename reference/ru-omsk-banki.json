@@ -1,0 +1,128 @@
+{
+  "id": "ru-omsk-banki",
+  "name": "Банки — Omsk (коды SWIFT/BIC)",
+  "title": "Банки — Omsk (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in OMSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 121,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "OMSK",
+      "branch": "(OMSK BRANCH)",
+      "swift_code": "MOBWRUM1OMS"
+    },
+    {
+      "id": 459,
+      "bank": "EXPERT BANK",
+      "city": "OMSK",
+      "branch": "",
+      "swift_code": "SIKPRUSM"
+    },
+    {
+      "id": 615,
+      "bank": "JOINT STOCK COMPANY 'OTP BANK'",
+      "city": "OMSK",
+      "branch": "(OMSK BRANCH)",
+      "swift_code": "OTPVRUMMOMS"
+    },
+    {
+      "id": 670,
+      "bank": "JSC 'IT BANK'",
+      "city": "OMSK",
+      "branch": "",
+      "swift_code": "ITBNRUSM"
+    },
+    {
+      "id": 720,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "OMSK",
+      "branch": "(OMSKY BRANCH)",
+      "swift_code": "RUAGRUM1009"
+    },
+    {
+      "id": 923,
+      "bank": "MOSOBLBANK",
+      "city": "OMSK",
+      "branch": "(BRANCH NO.7)",
+      "swift_code": "MOBKRUM1007"
+    },
+    {
+      "id": 1140,
+      "bank": "PLUS BANK",
+      "city": "OMSK",
+      "branch": "",
+      "swift_code": "COMSRUSM"
+    },
+    {
+      "id": 1238,
+      "bank": "ROST BANK",
+      "city": "OMSK",
+      "branch": "(OMSK BRANCH)",
+      "swift_code": "JORORU21OMS"
+    },
+    {
+      "id": 1340,
+      "bank": "SDM-BANK PJSC",
+      "city": "OMSK",
+      "branch": "(OMSK BRANCH)",
+      "swift_code": "SJSCRUMMOMS"
+    },
+    {
+      "id": 1385,
+      "bank": "SOBINBANK",
+      "city": "OMSK",
+      "branch": "(OMSK BRANCH)",
+      "swift_code": "SBBARUM1011"
+    },
+    {
+      "id": 1439,
+      "bank": "SVIAZ-BANK",
+      "city": "OMSK",
+      "branch": "(OMSK BRANCH)",
+      "swift_code": "SVIZRUM1OMS"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Omsk (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in OMSK (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 11 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Omsk (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Omsk (коды SWIFT/BIC) — 11 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 11 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

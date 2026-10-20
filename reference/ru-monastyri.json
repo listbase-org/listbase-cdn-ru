@@ -1,0 +1,3236 @@
+{
+  "id": "ru-monastyri",
+  "name": "Монастыри России (Monasteries of Russia)",
+  "title": "Монастыри России (Monasteries of Russia)",
+  "description": "Список объектов категории «монастыри», расположенных на территории России. Сортировка по русскому названию (по алфавиту). Источник — публичная конечная точка SPARQL Wikidata (query.wikidata.org). Для каждого объекта приводятся русское название (rdfs:label@ru), английская метка, административно-территориальная принадлежность (P131), координаты (WGS84, P625) и ссылка на русскую Википедию. Объекты без русской метки исключены согласно правилу сохранения языка оригинала. Лицензия CC0-1.0.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 317,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ru",
+      "label": "Name Ru",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "located_in_at",
+      "label": "Located In At",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ru",
+      "label": "Wikipedia Ru",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q4056932",
+      "name_ru": "Агинский дацан",
+      "name_en": "Aginsky Datsan",
+      "located_in_at": "Агинское",
+      "latitude": 51.0823,
+      "longitude": 114.46753,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%B3%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B0%D1%86%D0%B0%D0%BD"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q109448056",
+      "name_ru": "Ай-Констант",
+      "name_en": "Ay-Konstant",
+      "located_in_at": "Автономная Республика Крым",
+      "latitude": 44.566667,
+      "longitude": 34.346111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%B9-%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q16488000",
+      "name_ru": "Александро-Мариинский монастырь",
+      "name_en": "Aleksandro-Mariinski Monastery",
+      "located_in_at": "Мещёрский Бор",
+      "latitude": 55.24013,
+      "longitude": 40.04097,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE-%D0%9C%D0%B0%D1%80%D0%B8%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q4463505",
+      "name_ru": "Александро-Невский монастырь",
+      "name_en": "Alexander Nevsky Monastery, Akatovo",
+      "located_in_at": "Клинский район",
+      "latitude": 56.108633,
+      "longitude": 36.587464,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE-%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%90%D0%BA%D0%B0%D1%82%D0%BE%D0%B2%D0%BE)"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q4061171",
+      "name_ru": "Александрова Чудова пустынь",
+      "name_en": "",
+      "located_in_at": "Александрова Пустынь",
+      "latitude": 57.854167,
+      "longitude": 38.994444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B0_%D0%A7%D1%83%D0%B4%D0%BE%D0%B2%D0%B0_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q4061893",
+      "name_ru": "Алексеевский монастырь",
+      "name_en": "Alekseevsky Convent",
+      "located_in_at": "Москва",
+      "latitude": 55.744444,
+      "longitude": 37.605556,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q1954245",
+      "name_ru": "Андроников монастырь",
+      "name_en": "Andronikov Monastery",
+      "located_in_at": "Таганский район",
+      "latitude": 55.748889,
+      "longitude": 37.670833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q111289630",
+      "name_ru": "Ансамбль Михалицкого монастыря на Молоткове (Великий Новгород)",
+      "name_en": "Mikhailitsky Monastery",
+      "located_in_at": "Великий Новгород",
+      "latitude": 58.525025,
+      "longitude": 31.297367,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q106731395",
+      "name_ru": "Ансамбль Спасо-Кукоцкого монастыря (Сербилово)",
+      "name_en": "Spaso-Kukotsky Monastery",
+      "located_in_at": "Сербилово",
+      "latitude": 56.519855,
+      "longitude": 40.082253,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9A%D1%83%D0%BA%D0%BE%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q31416",
+      "name_ru": "Антониев монастырь",
+      "name_en": "Antoniev Monastery",
+      "located_in_at": "Великий Новгород",
+      "latitude": 58.539847,
+      "longitude": 31.286794,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%B5%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q4067215",
+      "name_ru": "Антониево-Дымский монастырь",
+      "name_en": "Antoniyevo-Dymsky Monastery",
+      "located_in_at": "Красный Броневик",
+      "latitude": 59.5736,
+      "longitude": 33.677889,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%B5%D0%B2%D0%BE-%D0%94%D1%8B%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q120499428",
+      "name_ru": "Антониево–Леохновский монастырь",
+      "name_en": "",
+      "located_in_at": "Леохново",
+      "latitude": 58.0253,
+      "longitude": 30.998553,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%B5%D0%B2%D0%BE-%D0%9B%D0%B5%D0%BE%D1%85%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q124397885",
+      "name_ru": "Ардатовский Покровский монастырь",
+      "name_en": "",
+      "located_in_at": "Ардатов",
+      "latitude": 55.235556,
+      "longitude": 43.097222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%90%D1%80%D0%B4%D0%B0%D1%82%D0%BE%D0%B2)"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q4069423",
+      "name_ru": "Аркажский монастырь",
+      "name_en": "Arkazhsky Monastery",
+      "located_in_at": "",
+      "latitude": 58.491667,
+      "longitude": 31.221667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%BA%D0%B0%D0%B6%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q110319459",
+      "name_ru": "Архиерейский дом",
+      "name_en": "",
+      "located_in_at": "Уфа",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%85%D0%B8%D0%B5%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%BC_(%D0%A3%D1%84%D0%B0)"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q4071887",
+      "name_ru": "Атаган-Дырестуйский дацан",
+      "name_en": "Atagan-Dyrestuysky datsan",
+      "located_in_at": "Дырестуй",
+      "latitude": 50.658056,
+      "longitude": 106.069444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%82%D0%B0%D0%B3%D0%B0%D0%BD-%D0%94%D1%8B%D1%80%D0%B5%D1%81%D1%82%D1%83%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B0%D1%86%D0%B0%D0%BD"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q4072701",
+      "name_ru": "Афанасьевский монастырь (Молога)",
+      "name_en": "Athanasyevsky monastery",
+      "located_in_at": "Молога",
+      "latitude": 58.1833,
+      "longitude": 38.4333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%84%D0%B0%D0%BD%D0%B0%D1%81%D1%8C%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9C%D0%BE%D0%BB%D0%BE%D0%B3%D0%B0)"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q4073280",
+      "name_ru": "Ацагатский дацан",
+      "name_en": "At͡sagatskiĭ dat͡san",
+      "located_in_at": "",
+      "latitude": 52.005833,
+      "longitude": 108.272222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%86%D0%B0%D0%B3%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B0%D1%86%D0%B0%D0%BD"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q24931093",
+      "name_ru": "Ацайский дацан",
+      "name_en": "Atsaysky datsan",
+      "located_in_at": "",
+      "latitude": 51.13972,
+      "longitude": 106.56694,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%86%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B0%D1%86%D0%B0%D0%BD"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q109422838",
+      "name_ru": "Аю-Даг",
+      "name_en": "Ayu-Dag Fortress",
+      "located_in_at": "",
+      "latitude": 44.561667,
+      "longitude": 34.330556,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%8E-%D0%94%D0%B0%D0%B3_(%D0%BA%D1%80%D0%B5%D0%BF%D0%BE%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q16535669",
+      "name_ru": "Барятинский Софийский монастырь",
+      "name_en": "",
+      "located_in_at": "Барятино",
+      "latitude": 53.351891,
+      "longitude": 38.753349,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D1%8F%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D1%84%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q4082340",
+      "name_ru": "Белогорский Воскресенский монастырь",
+      "name_en": "Belogorsky Resurrection Monastery",
+      "located_in_at": "Белогорье",
+      "latitude": 50.471414,
+      "longitude": 40.035593,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q56309944",
+      "name_ru": "Белоколодский Спасо-Преображенский монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 52.405287,
+      "longitude": 39.44356,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q39053217",
+      "name_ru": "Благовещенская пустынь",
+      "name_en": "Cathedral of Saint Constantine and Helena",
+      "located_in_at": "Медынь",
+      "latitude": 54.96833,
+      "longitude": 35.85396,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q4087764",
+      "name_ru": "Благовещенский Митрофановский мужской монастырь",
+      "name_en": "Monastery of Saint Mitrophan",
+      "located_in_at": "Воронеж",
+      "latitude": 51.655833,
+      "longitude": 39.206111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%9C%D0%B8%D1%82%D1%80%D0%BE%D1%84%D0%B0%D0%BD%D0%BE%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q108857664",
+      "name_ru": "Благовещенский Новодевичий монастырь",
+      "name_en": "Novodevichy Monastery (Astrakhan)",
+      "located_in_at": "Астрахань",
+      "latitude": 46.34905,
+      "longitude": 48.04796,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%8C)"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q4088650",
+      "name_ru": "Бобренев монастырь",
+      "name_en": "Bobrenev Monastery",
+      "located_in_at": "Старое Бобренево",
+      "latitude": 55.119083,
+      "longitude": 38.76,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B1%D1%80%D0%B5%D0%BD%D0%B5%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q4089524",
+      "name_ru": "Богодуховский монастырь (Оренбург) (разрушен)",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 51.790278,
+      "longitude": 55.031944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D0%B4%D1%83%D1%85%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%9E%D1%80%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q55345379",
+      "name_ru": "Боголепова Пустынь",
+      "name_en": "",
+      "located_in_at": "Сельское поселение Воздвиженское",
+      "latitude": 56.375833,
+      "longitude": 36.225,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q97169484",
+      "name_ru": "Богородице-Тихвинский монастырь",
+      "name_en": "",
+      "located_in_at": "Борисовка",
+      "latitude": 50.60889,
+      "longitude": 35.99778,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B5-%D0%A2%D0%B8%D1%85%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%BA%D0%B0)"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q21634944",
+      "name_ru": "Богородицкий монастырь",
+      "name_en": "",
+      "located_in_at": "Сызрань",
+      "latitude": 53.146639,
+      "longitude": 48.457,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%A1%D1%8B%D0%B7%D1%80%D0%B0%D0%BD%D1%8C)"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q48948528",
+      "name_ru": "Богоявленский монастырь",
+      "name_en": "",
+      "located_in_at": "Камень-на-Оби",
+      "latitude": 53.788377,
+      "longitude": 81.357923,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C-%D0%BD%D0%B0-%D0%9E%D0%B1%D0%B8)"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q124361479",
+      "name_ru": "Богоявленский монастырь",
+      "name_en": "",
+      "located_in_at": "Челябинск",
+      "latitude": 55.111944,
+      "longitude": 61.426667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q4089822",
+      "name_ru": "Богоявленский монастырь (Венёв)",
+      "name_en": "Bogoyavlensky Monastery (Venyov)",
+      "located_in_at": "Венёв",
+      "latitude": 54.34825,
+      "longitude": 38.27473,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%92%D0%B5%D0%BD%D1%91%D0%B2)"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q2388033",
+      "name_ru": "Богоявленский монастырь (Москва)",
+      "name_en": "Epiphany Monastery",
+      "located_in_at": "Тверской район",
+      "latitude": 55.755833,
+      "longitude": 37.623214,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q4089824",
+      "name_ru": "Богоявленский монастырь (Углич)",
+      "name_en": "Bogoyavlensky Monastery in Uglich",
+      "located_in_at": "Углич",
+      "latitude": 57.523128,
+      "longitude": 38.321909,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%A3%D0%B3%D0%BB%D0%B8%D1%87)"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q127503230",
+      "name_ru": "Большеозёрский монастырь",
+      "name_en": "",
+      "located_in_at": "Мухтолово",
+      "latitude": 55.504472,
+      "longitude": 43.188333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B5%D0%BE%D0%B7%D1%91%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q4092905",
+      "name_ru": "Большой Успенский монастырь (Кирилло-Белозерский монастырь)",
+      "name_en": "Great Uspensky Monastery",
+      "located_in_at": "Кириллов",
+      "latitude": 59.857222,
+      "longitude": 38.368333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q4094033",
+      "name_ru": "Борисоглебский Песоцкий монастырь",
+      "name_en": "Theotokos of Smolensk church",
+      "located_in_at": "Переславль-Залесский",
+      "latitude": 56.730833,
+      "longitude": 38.84,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B3%D0%BB%D0%B5%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D0%9F%D0%B5%D1%81%D0%BE%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q16913046",
+      "name_ru": "Борисоглебский монастырь",
+      "name_en": "Borisoglebsky Monastery",
+      "located_in_at": "Смоленск",
+      "latitude": 54.790596,
+      "longitude": 32.006947,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B3%D0%BB%D0%B5%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA)"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q85858498",
+      "name_ru": "Боровский Покровский монастырь",
+      "name_en": "",
+      "located_in_at": "Боровск",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%BE%D0%B1%D1%80%D1%8F%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9)"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q30890326",
+      "name_ru": "Борщевский Троицкий мужской монастырь",
+      "name_en": "",
+      "located_in_at": "Борщёво",
+      "latitude": 51.34722,
+      "longitude": 39.12028,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D1%89%D1%91%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q19820086",
+      "name_ru": "Бугульминский Казанско-Богородицкий монастырь",
+      "name_en": "",
+      "located_in_at": "Бугульма",
+      "latitude": 54.550392,
+      "longitude": 52.787311,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%B3%D1%83%D0%BB%D1%8C%D0%BC%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%BE-%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q19907860",
+      "name_ru": "Бугурусланский Покровский монастырь",
+      "name_en": "",
+      "located_in_at": "Бугуруслан",
+      "latitude": 53.650253,
+      "longitude": 52.427022,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%B3%D1%83%D1%80%D1%83%D1%81%D0%BB%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q4097989",
+      "name_ru": "Буддавихара",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 59.763472,
+      "longitude": 30.128056,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%B4%D0%B4%D0%B0%D0%B2%D0%B8%D1%85%D0%B0%D1%80%D0%B0"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q4102381",
+      "name_ru": "Важский монастырь",
+      "name_en": "Varlaam Vaga monastery",
+      "located_in_at": "Шенкурский район",
+      "latitude": 62.226694,
+      "longitude": 43.099164,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%80%D0%BB%D0%B0%D0%B0%D0%BC%D0%B8%D0%B5%D0%B2_%D0%92%D0%B0%D0%B6%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q4104005",
+      "name_ru": "Варсонофьевский монастырь",
+      "name_en": "",
+      "located_in_at": "Москва",
+      "latitude": 55.763728,
+      "longitude": 37.626164,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%80%D1%81%D0%BE%D0%BD%D0%BE%D1%84%D1%8C%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q110319240",
+      "name_ru": "Вашеостровская Спасская пустынь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 62.15833,
+      "longitude": 34.44611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%88%D0%B5%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%A1%D0%BF%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q4105630",
+      "name_ru": "Введенский монастырь (Сольвычегодск)",
+      "name_en": "Presentation Monastery, Solvychegodsk",
+      "located_in_at": "Сольвычегодск",
+      "latitude": 61.332961,
+      "longitude": 46.925815,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%A1%D0%BE%D0%BB%D1%8C%D0%B2%D1%8B%D1%87%D0%B5%D0%B3%D0%BE%D0%B4%D1%81%D0%BA)"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q4107308",
+      "name_ru": "Вепрева пустынь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BF%D1%80%D0%B5%D0%B2%D0%B0_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q4109204",
+      "name_ru": "Верхочепецкий Крестовоздвиженский монастырь",
+      "name_en": "Monastery of the Exaltation of the Holy Cross, Slobodskoy",
+      "located_in_at": "Фалёнский район",
+      "latitude": 58.375088,
+      "longitude": 51.732478,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%80%D1%85%D0%BE%D1%87%D0%B5%D0%BF%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%9A%D1%80%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B7%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q4113289",
+      "name_ru": "Владимирский скит",
+      "name_en": "Saint Vladimir Skete (Valaam)",
+      "located_in_at": "",
+      "latitude": 61.372908,
+      "longitude": 30.93562,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BA%D0%B8%D1%82_(%D0%92%D0%B0%D0%BB%D0%B0%D0%B0%D0%BC)"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q24931452",
+      "name_ru": "Воздвиженский Домнушкин монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 57.283,
+      "longitude": 47.867,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B7%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%94%D0%BE%D0%BC%D0%BD%D1%83%D1%88%D0%BA%D0%B8%D0%BD_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q19614280",
+      "name_ru": "Вознесенский монастырь",
+      "name_en": "Ascension monastery, Velikiye Luki",
+      "located_in_at": "Великие Луки",
+      "latitude": 56.342428,
+      "longitude": 30.518175,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B7%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B5_%D0%9B%D1%83%D0%BA%D0%B8)"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q58852511",
+      "name_ru": "Вознесенский монастырь (Старица)",
+      "name_en": "Ascension Monastery (Staritsa)",
+      "located_in_at": "Старица",
+      "latitude": 56.50722,
+      "longitude": 34.93722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B7%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%A1%D1%82%D0%B0%D1%80%D0%B8%D1%86%D0%B0)"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q4126216",
+      "name_ru": "Воскресенский Новоиерусалимский монастырь",
+      "name_en": "Ascension Monastery, Kazan",
+      "located_in_at": "Казань",
+      "latitude": 55.744444,
+      "longitude": 49.166389,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%BE%D0%B8%D0%B5%D1%80%D1%83%D1%81%D0%B0%D0%BB%D0%B8%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C)"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q4126225",
+      "name_ru": "Воскресенский монастырь",
+      "name_en": "The Resurrection Monastery",
+      "located_in_at": "Тольятти",
+      "latitude": 53.472778,
+      "longitude": 49.364722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%A2%D0%BE%D0%BB%D1%8C%D1%8F%D1%82%D1%82%D0%B8)"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q4126226",
+      "name_ru": "Воскресенский монастырь (Торжок)",
+      "name_en": "Voskresensky Convent",
+      "located_in_at": "Торжок",
+      "latitude": 57.039727,
+      "longitude": 34.963856,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%A2%D0%BE%D1%80%D0%B6%D0%BE%D0%BA)"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q4126224",
+      "name_ru": "Воскресенский монастырь в Солигаличе",
+      "name_en": "Resurrection monastery in Soligalich",
+      "located_in_at": "Солигалич",
+      "latitude": 59.07472,
+      "longitude": 42.29451,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%A1%D0%BE%D0%BB%D0%B8%D0%B3%D0%B0%D0%BB%D0%B8%D1%87)"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q4126249",
+      "name_ru": "Воскресенско-Мироносицкий женский монастырь",
+      "name_en": "",
+      "located_in_at": "Зубовка",
+      "latitude": 48.143611,
+      "longitude": 46.041111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%BE-%D0%9C%D0%B8%D1%80%D0%BE%D0%BD%D0%BE%D1%81%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%97%D1%83%D0%B1%D0%BE%D0%B2%D0%BA%D0%B0)"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q4127636",
+      "name_ru": "Всехсвятский единоверческий монастырь (Москва)",
+      "name_en": "",
+      "located_in_at": "Москва",
+      "latitude": 55.748611,
+      "longitude": 37.7,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D1%81%D0%B5%D1%85%D1%81%D0%B2%D1%8F%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q98085208",
+      "name_ru": "Второ-Афонский Успенский монастырь",
+      "name_en": "Second Athos Assumption Monastery",
+      "located_in_at": "Ставропольский край",
+      "latitude": 44.0899,
+      "longitude": 43.0117,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%BE%D0%B0%D1%84%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q65173777",
+      "name_ru": "Вьясский Владимирско-Богородицкий монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D1%8C%D1%8F%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%81%D0%BA%D0%BE-%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q4135806",
+      "name_ru": "Георгиевский монастырь (Москва)",
+      "name_en": "",
+      "located_in_at": "Москва",
+      "latitude": 55.759703,
+      "longitude": 37.615203,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q4144213",
+      "name_ru": "Горицкий Успенский монастырь",
+      "name_en": "Goritsky Monastery",
+      "located_in_at": "Переславль-Залесский",
+      "latitude": 56.721,
+      "longitude": 38.824,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q4149047",
+      "name_ru": "Григориево-Пельшемский Лопотов монастырь",
+      "name_en": "Gregory Pelshemski Monastery",
+      "located_in_at": "Сокольский район",
+      "latitude": 59.4427,
+      "longitude": 40.3147,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B5%D0%B2%D0%BE-%D0%9F%D0%B5%D0%BB%D1%8C%D1%88%D0%B5%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%9B%D0%BE%D0%BF%D0%BE%D1%82%D0%BE%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q4154550",
+      "name_ru": "Даниилов Шужгорский Спасо-Преображенский монастырь",
+      "name_en": "",
+      "located_in_at": "Белозерский район",
+      "latitude": 59.6532,
+      "longitude": 37.3242,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D1%83%D0%B6%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q16641714",
+      "name_ru": "Данковский Успенский монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 53.252511,
+      "longitude": 39.113755,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q4158835",
+      "name_ru": "Деревяницкий монастырь",
+      "name_en": "Derevianitsky Monastery",
+      "located_in_at": "Великий Новгород",
+      "latitude": 58.562128,
+      "longitude": 31.300022,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D1%8F%D0%BD%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q4159248",
+      "name_ru": "Десятинный монастырь",
+      "name_en": "Desyatinny Monastery",
+      "located_in_at": "Великий Новгород",
+      "latitude": 58.517922,
+      "longitude": 31.264534,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D1%81%D1%8F%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q4163012",
+      "name_ru": "Дмитровский монастырь (Кашин)",
+      "name_en": "Dmitrovsky Monastery in Kashin",
+      "located_in_at": "Кашин",
+      "latitude": 57.365278,
+      "longitude": 37.606667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9A%D0%B0%D1%88%D0%B8%D0%BD)"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q30889919",
+      "name_ru": "Донецкий Предтечев мужской монастырь",
+      "name_en": "",
+      "located_in_at": "Дубрава",
+      "latitude": 49.850306,
+      "longitude": 40.776984,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%9F%D1%80%D0%B5%D0%B4%D1%82%D0%B5%D1%87%D0%B5%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q4166837",
+      "name_ru": "Дорогошанский Троицкий монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 53.966386,
+      "longitude": 34.833755,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%BE%D1%88%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q4171288",
+      "name_ru": "Духов монастырь (Великий Новгород)",
+      "name_en": "Dukhov Convent",
+      "located_in_at": "Великий Новгород",
+      "latitude": 58.532281,
+      "longitude": 31.272442,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D1%83%D1%85%D0%BE%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q24451516",
+      "name_ru": "Елеазарова пустынь",
+      "name_en": "Eleazarova pustin",
+      "located_in_at": "",
+      "latitude": 65.14944,
+      "longitude": 36.01861,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%95%D0%BB%D0%B5%D0%B0%D0%B7%D0%B0%D1%80%D0%BE%D0%B2%D0%B0_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q124259061",
+      "name_ru": "Жадовский монастырь",
+      "name_en": "",
+      "located_in_at": "Самородки",
+      "latitude": 53.5724,
+      "longitude": 46.901,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%96%D0%B0%D0%B4%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q19908929",
+      "name_ru": "Железная пустынь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 64.10139,
+      "longitude": 35.51306,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%B0%D1%8F_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q108324351",
+      "name_ru": "Женская община во имя иконы Божьей Матери «Отрада и Утешение»",
+      "name_en": "Joy and Consolation Community",
+      "located_in_at": "Добрыниха",
+      "latitude": 55.18185,
+      "longitude": 37.70625,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D1%89%D0%B8%D0%BD%D0%B0_%D0%B2%D0%BE_%D0%B8%D0%BC%D1%8F_%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B_%D0%91%D0%BE%D0%B6%D0%B8%D0%B5%D0%B9_%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8_%C2%AB%D0%9E%D1%82%D1%80%D0%B0%D0%B4%D0%B0_%D0%B8_%D1%83%D1%82%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%C2%BB"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q123172268",
+      "name_ru": "Женский монастырь Иконы Божией Матери Всецарица",
+      "name_en": "Convent of the Icon of the Mother of God Vsetsaritsa",
+      "located_in_at": "Краснодар",
+      "latitude": 45.016273,
+      "longitude": 39.027836,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_%D0%B8%D0%BA%D0%BE%D0%BD%D1%8B_%D0%91%D0%BE%D0%B6%D0%B8%D0%B5%D0%B9_%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8_%C2%AB%D0%92%D1%81%D0%B5%D1%86%D0%B0%D1%80%D0%B8%D1%86%D0%B0%C2%BB"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q4179449",
+      "name_ru": "Женский монастырь Святой Преподобномученицы Великой княгини Елисаветы",
+      "name_en": "",
+      "located_in_at": "Славский район",
+      "latitude": 54.992167,
+      "longitude": 21.750389,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%95%D0%BB%D0%B8%D1%81%D0%B0%D0%B2%D0%B5%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4)"
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q4179679",
+      "name_ru": "Жерновогорская Предтеченская пустынь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 57.5925,
+      "longitude": 48.963611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%9F%D1%80%D0%B5%D0%B4%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q4182068",
+      "name_ru": "Жёлтиков монастырь",
+      "name_en": "Zheltikov Monastery",
+      "located_in_at": "Тверь",
+      "latitude": 56.830163,
+      "longitude": 35.832295,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%96%D1%91%D0%BB%D1%82%D0%B8%D0%BA%D0%BE%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q21639556",
+      "name_ru": "Загустайский дацан",
+      "name_en": "Zagustaysky datsan",
+      "located_in_at": "",
+      "latitude": 51.31625,
+      "longitude": 106.600139,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B3%D1%83%D1%81%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B0%D1%86%D0%B0%D0%BD"
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q16653304",
+      "name_ru": "Зарецкий Спасский монастырь",
+      "name_en": "",
+      "located_in_at": "Спасск-Рязанский",
+      "latitude": 54.403892,
+      "longitude": 40.39791,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D1%80%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BF%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q2094477",
+      "name_ru": "Зверин-Покровский монастырь",
+      "name_en": "Zverin Monastery",
+      "located_in_at": "Великий Новгород",
+      "latitude": 58.535961,
+      "longitude": 31.276131,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B2%D0%B5%D1%80%D0%B8%D0%BD-%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q16654189",
+      "name_ru": "Златоустовский Воскресенский монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 55.245548,
+      "longitude": 58.978436,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%BB%D0%B0%D1%82%D0%BE%D1%83%D1%81%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q1960024",
+      "name_ru": "Златоустовский монастырь",
+      "name_en": "Chrysostom Monastery",
+      "located_in_at": "Басманный район",
+      "latitude": 55.759396,
+      "longitude": 37.633216,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%BB%D0%B0%D1%82%D0%BE%D1%83%D1%81%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q28665983",
+      "name_ru": "Знаменский женский монастырь в селе Ключищи",
+      "name_en": "",
+      "located_in_at": "Яковщина",
+      "latitude": 53.93194,
+      "longitude": 44.660119,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9A%D0%BB%D1%8E%D1%87%D0%B8%D1%89%D0%B8)"
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q2679932",
+      "name_ru": "Знаменский монастырь",
+      "name_en": "",
+      "located_in_at": "Тверской район",
+      "latitude": 55.75248,
+      "longitude": 37.62952,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)"
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q4192835",
+      "name_ru": "Знаменский монастырь (Барнаул)",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 53.341444,
+      "longitude": 83.783606,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%91%D0%B0%D1%80%D0%BD%D0%B0%D1%83%D0%BB)"
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q130233314",
+      "name_ru": "Знаменский монастырь (Ляховка)",
+      "name_en": "",
+      "located_in_at": "Ляховка",
+      "latitude": 54.1105,
+      "longitude": 47.7997,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9B%D1%8F%D1%85%D0%BE%D0%B2%D0%BA%D0%B0)"
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q4192840",
+      "name_ru": "Знаменский монастырь (Тобольск)",
+      "name_en": "Znamensky Monastery",
+      "located_in_at": "Тобольск",
+      "latitude": 58.191111,
+      "longitude": 68.239167,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%A2%D0%BE%D0%B1%D0%BE%D0%BB%D1%8C%D1%81%D0%BA)"
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q4192851",
+      "name_ru": "Знаменский скит",
+      "name_en": "Znamensky Skete",
+      "located_in_at": "Ардатовский район",
+      "latitude": 55.177677,
+      "longitude": 43.192611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BA%D0%B8%D1%82"
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q4192859",
+      "name_ru": "Знаменско-Мариинский монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 57.298472,
+      "longitude": 47.873333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%BE-%D0%9C%D0%B0%D1%80%D0%B8%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q4195305",
+      "name_ru": "Ибердский Александро-Невский Софрониев монастырь",
+      "name_en": "Iberdsky monastery",
+      "located_in_at": "Кораблинский муниципальный округ",
+      "latitude": 53.871376,
+      "longitude": 40.283934,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D0%B1%D0%B5%D1%80%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE-%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D1%84%D1%80%D0%BE%D0%BD%D0%B8%D0%B5%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q4196653",
+      "name_ru": "Ивановский Емецкий монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 63.525072,
+      "longitude": 41.872197,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%95%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q26257050",
+      "name_ru": "Ильинско-Богоявленский монастырь",
+      "name_en": "",
+      "located_in_at": "Саранск",
+      "latitude": 54.181564,
+      "longitude": 45.18063,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D0%BB%D1%8C%D0%B8%D0%BD%D1%81%D0%BA%D0%BE-%D0%91%D0%BE%D0%B3%D0%BE%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q46601",
+      "name_ru": "Иоанно-Предтеченский монастырь",
+      "name_en": "Ivanovsky Monastery, Pskov",
+      "located_in_at": "Псков",
+      "latitude": 57.825833,
+      "longitude": 28.318056,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D0%BE%D0%B0%D0%BD%D0%BD%D0%BE-%D0%9F%D1%80%D0%B5%D0%B4%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9F%D1%81%D0%BA%D0%BE%D0%B2)"
+    },
+    {
+      "id": 99,
+      "wikidata_id": "Q13668687",
+      "name_ru": "Иоанно-Предтеченский монастырь (Томск)",
+      "name_en": "Convent of St. John the Baptist in Tomsk",
+      "located_in_at": "Томск",
+      "latitude": 56.460278,
+      "longitude": 84.961111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D0%BE%D0%B0%D0%BD%D0%BD%D0%BE-%D0%9F%D1%80%D0%B5%D0%B4%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%A2%D0%BE%D0%BC%D1%81%D0%BA)"
+    },
+    {
+      "id": 100,
+      "wikidata_id": "Q4204362",
+      "name_ru": "Истобенский Троицкий монастырь",
+      "name_en": "",
+      "located_in_at": "Истобенск",
+      "latitude": 58.419562,
+      "longitude": 48.781755,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D0%B1%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 101,
+      "wikidata_id": "Q4207310",
+      "name_ru": "Кадомский Милостиво-Богородицкий женский монастырь",
+      "name_en": "",
+      "located_in_at": "Кадом",
+      "latitude": 54.557803,
+      "longitude": 42.467071,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%BE%D1%81%D1%82%D0%B8%D0%B2%D0%BE-%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 102,
+      "wikidata_id": "Q15714632",
+      "name_ru": "Казанский Головинский монастырь",
+      "name_en": "Kazansky Golovinsky Monastery",
+      "located_in_at": "Головинский район",
+      "latitude": 55.844722,
+      "longitude": 37.498056,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 103,
+      "wikidata_id": "Q30889777",
+      "name_ru": "Казанский Таволжанский монастырь",
+      "name_en": "",
+      "located_in_at": "Таволжанка",
+      "latitude": 51.30389,
+      "longitude": 41.58111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%A2%D0%B0%D0%B2%D0%BE%D0%BB%D0%B6%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 104,
+      "wikidata_id": "Q112046746",
+      "name_ru": "Казанский монастырь (Калуга)",
+      "name_en": "Church of the Theotokos of Kazan",
+      "located_in_at": "Калуга",
+      "latitude": 54.50336,
+      "longitude": 36.25616,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9A%D0%B0%D0%BB%D1%83%D0%B3%D0%B0)"
+    },
+    {
+      "id": 105,
+      "wikidata_id": "Q4211140",
+      "name_ru": "Каменно-Бродский Свято-Троицкий Белогорский мужской монастырь",
+      "name_en": "Belogorsky Kamennobrodsky Monastery",
+      "located_in_at": "Каменный Брод",
+      "latitude": 49.7975,
+      "longitude": 44.42667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE-%D0%91%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%91%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 106,
+      "wikidata_id": "Q11785016",
+      "name_ru": "Камчатский Пантелеимонов монастырь",
+      "name_en": "Panteleimon monastery (Petropavlovsk-Kamchatsky)",
+      "located_in_at": "",
+      "latitude": 53.0321,
+      "longitude": 158.636,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D1%87%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%9F%D0%B0%D0%BD%D1%82%D0%B5%D0%BB%D0%B5%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 107,
+      "wikidata_id": "Q4212272",
+      "name_ru": "Кандалакшский монастырь",
+      "name_en": "Kandalaksha Monastery",
+      "located_in_at": "",
+      "latitude": 67.156944,
+      "longitude": 32.411667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB%D0%B0%D0%BA%D1%88%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 108,
+      "wikidata_id": "Q4216780",
+      "name_ru": "Кассианов Учемский монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 57.715844,
+      "longitude": 38.42706,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%81%D1%81%D0%B8%D0%B0%D0%BD%D0%BE%D0%B2_%D0%A3%D1%87%D0%B5%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 109,
+      "wikidata_id": "Q16662662",
+      "name_ru": "Катерлезский Свято-Георгиевский монастырь",
+      "name_en": "Katerlezsky Saint George Monastery",
+      "located_in_at": "Войково",
+      "latitude": 45.3925,
+      "longitude": 36.4425,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D1%80%D0%BB%D0%B5%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 110,
+      "wikidata_id": "Q21634969",
+      "name_ru": "Кашпирский монастырь",
+      "name_en": "",
+      "located_in_at": "Сызрань",
+      "latitude": 52.982833,
+      "longitude": 48.481306,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%88%D0%BF%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 111,
+      "wikidata_id": "Q4219285",
+      "name_ru": "Кемский Благовещенский монастырь",
+      "name_en": "Annunciation Church, Kem",
+      "located_in_at": "Кемь",
+      "latitude": 64.953547,
+      "longitude": 34.615835,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 112,
+      "wikidata_id": "Q4219546",
+      "name_ru": "Керенский Тихвинский монастырь",
+      "name_en": "Kerensky Tikhvinsky Convent",
+      "located_in_at": "Вадинск",
+      "latitude": 53.689924,
+      "longitude": 43.073254,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%A2%D0%B8%D1%85%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 113,
+      "wikidata_id": "Q4219573",
+      "name_ru": "Керженский Благовещенский единоверческий скит",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 56.60802,
+      "longitude": 44.6269,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 114,
+      "wikidata_id": "Q4220131",
+      "name_ru": "Киево-Николаевский Новодевичий монастырь (Алатырь)",
+      "name_en": "Kievo-Nikolaevsky monastery, Alatyr",
+      "located_in_at": "Алатырь",
+      "latitude": 54.850273,
+      "longitude": 46.602116,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%B5%D0%B2%D0%BE-%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D1%87%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%90%D0%BB%D0%B0%D1%82%D1%8B%D1%80%D1%8C)"
+    },
+    {
+      "id": 115,
+      "wikidata_id": "Q21640214",
+      "name_ru": "Кижингинский дацан",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 51.80306,
+      "longitude": 109.77444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%B6%D0%B8%D0%BD%D0%B3%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B0%D1%86%D0%B0%D0%BD"
+    },
+    {
+      "id": 116,
+      "wikidata_id": "Q4221360",
+      "name_ru": "Кирилло-Новоезерский монастырь",
+      "name_en": "Kirillo-Novoezersky Monastery",
+      "located_in_at": "Белозерский район",
+      "latitude": 59.95,
+      "longitude": 37.25,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB%D0%BE-%D0%9D%D0%BE%D0%B2%D0%BE%D0%B5%D0%B7%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 117,
+      "wikidata_id": "Q4221361",
+      "name_ru": "Кирилло-Челмогорский монастырь",
+      "name_en": "Kirillo-Chelmogorsky Monastery",
+      "located_in_at": "",
+      "latitude": 61.66472,
+      "longitude": 38.19,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB%D0%BE-%D0%A7%D0%B5%D0%BB%D0%BC%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 118,
+      "wikidata_id": "Q110319398",
+      "name_ru": "Кириллов монастырь",
+      "name_en": "Kirillov Monastery",
+      "located_in_at": "Великий Новгород",
+      "latitude": 58.50917,
+      "longitude": 31.32972,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB%D0%BE%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)"
+    },
+    {
+      "id": 119,
+      "wikidata_id": "Q4234691",
+      "name_ru": "Коряжемский Николаевский монастырь",
+      "name_en": "Koryazhemsky Nikolayevsky Monastery",
+      "located_in_at": "Коряжма",
+      "latitude": 61.31694,
+      "longitude": 47.185,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D1%8F%D0%B6%D0%B5%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 120,
+      "wikidata_id": "Q4235486",
+      "name_ru": "Костомаровский Спасский монастырь",
+      "name_en": "Kostomarovsky Spassky Monastery",
+      "located_in_at": "Костомарово",
+      "latitude": 50.68548,
+      "longitude": 39.747993,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%BE%D0%BC%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BF%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 121,
+      "wikidata_id": "Q4235978",
+      "name_ru": "Котельничский Предтеченский монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 58.3,
+      "longitude": 48.333333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%87%D1%81%D0%BA%D0%B8%D0%B9_%D0%9F%D1%80%D0%B5%D0%B4%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 122,
+      "wikidata_id": "Q4238474",
+      "name_ru": "Красногорский Богородицкий монастырь",
+      "name_en": "Krasnogorsky monastery",
+      "located_in_at": "Красная Горка",
+      "latitude": 64.593147,
+      "longitude": 43.292742,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 123,
+      "wikidata_id": "Q16667148",
+      "name_ru": "Крестовоздвиженский Бизюков монастырь",
+      "name_en": "Bizukov Monastery",
+      "located_in_at": "Бизюково",
+      "latitude": 54.977206,
+      "longitude": 33.171347,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B7%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%91%D0%B8%D0%B7%D1%8E%D0%BA%D0%BE%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 124,
+      "wikidata_id": "Q4240400",
+      "name_ru": "Крестовоздвиженский монастырь (Кизляр)",
+      "name_en": "Holy Cross Exaltation Monastery, Kizlyar",
+      "located_in_at": "Кизляр",
+      "latitude": 43.861389,
+      "longitude": 46.697778,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B7%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9A%D0%B8%D0%B7%D0%BB%D1%8F%D1%80)"
+    },
+    {
+      "id": 125,
+      "wikidata_id": "Q4240401",
+      "name_ru": "Крестовоздвиженский монастырь (Москва)",
+      "name_en": "Monastery of the Exaltation of the Holy Cross",
+      "located_in_at": "Москва",
+      "latitude": 55.75222,
+      "longitude": 37.60611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B7%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)"
+    },
+    {
+      "id": 126,
+      "wikidata_id": "Q4240758",
+      "name_ru": "Кривоезерский монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 57.31417,
+      "longitude": 43.14611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%B2%D0%BE%D0%B5%D0%B7%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 127,
+      "wikidata_id": "Q4243308",
+      "name_ru": "Ксение-Покровский монастырь",
+      "name_en": "",
+      "located_in_at": "Яровое",
+      "latitude": 53.341444,
+      "longitude": 83.783606,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%81%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%AF%D1%80%D0%BE%D0%B2%D0%BE%D0%B5)"
+    },
+    {
+      "id": 128,
+      "wikidata_id": "Q125874334",
+      "name_ru": "Ксенофонтов Николаевский монастырь",
+      "name_en": "Xenophon St. Nicholas Monastery",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 129,
+      "wikidata_id": "Q4245711",
+      "name_ru": "Кукарский Покровский монастырь",
+      "name_en": "Church of the Protection of the Theotokos, Sovetsk",
+      "located_in_at": "Советск",
+      "latitude": 57.596592,
+      "longitude": 48.976903,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BA%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 130,
+      "wikidata_id": "Q4245712",
+      "name_ru": "Кукарский Успенский монастырь",
+      "name_en": "",
+      "located_in_at": "Советск",
+      "latitude": 57.589531,
+      "longitude": 48.967722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BA%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 131,
+      "wikidata_id": "Q21640998",
+      "name_ru": "Лаврентьев монастырь",
+      "name_en": "Kaluga Svyato-Lavrentiev friary",
+      "located_in_at": "Калуга",
+      "latitude": 54.53514,
+      "longitude": 36.24514,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B2%D1%80%D0%B5%D0%BD%D1%82%D1%8C%D0%B5%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 132,
+      "wikidata_id": "Q17154785",
+      "name_ru": "Ладвинский Боголюбский Кирикко-Иулитинский монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 61.346541,
+      "longitude": 34.593739,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B4%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D0%BB%D1%8E%D0%B1%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D0%B8%D1%80%D0%B8%D0%BA%D0%BE-%D0%98%D1%83%D0%BB%D0%B8%D1%82%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 133,
+      "wikidata_id": "Q4260351",
+      "name_ru": "Леушинский монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 58.78139,
+      "longitude": 38.08056,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%83%D1%88%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BE%D0%B0%D0%BD%D0%BD%D0%BE-%D0%9F%D1%80%D0%B5%D0%B4%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 134,
+      "wikidata_id": "Q4263136",
+      "name_ru": "Лисицкий Рождество-Богородицкий монастырь",
+      "name_en": "Lisitsky Monastery",
+      "located_in_at": "Хутынь",
+      "latitude": 58.560386,
+      "longitude": 31.370478,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%81%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 135,
+      "wikidata_id": "Q4275492",
+      "name_ru": "Макаровский Иоанно-Богословский монастырь",
+      "name_en": "Monastery of John the Evangelist in Makarovka",
+      "located_in_at": "Макаровка",
+      "latitude": 54.157802,
+      "longitude": 45.254869,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BE%D0%B0%D0%BD%D0%BD%D0%BE-%D0%91%D0%BE%D0%B3%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 136,
+      "wikidata_id": "Q16673477",
+      "name_ru": "Макарьевская Хергозерская пустынь",
+      "name_en": "",
+      "located_in_at": "Каргопольский район",
+      "latitude": 61.8413,
+      "longitude": 38.252968,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D0%B0%D1%80%D1%8C%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%A5%D0%B5%D1%80%D0%B3%D0%BE%D0%B7%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C"
+    },
+    {
+      "id": 137,
+      "wikidata_id": "Q16673479",
+      "name_ru": "Макарьевская пустынь",
+      "name_en": "Macarius hermitage of Shenkursk monastery",
+      "located_in_at": "",
+      "latitude": 62.1675,
+      "longitude": 42.721944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D0%B0%D1%80%D1%8C%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C_(%D0%A8%D0%B5%D0%BD%D0%BA%D1%83%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD)"
+    },
+    {
+      "id": 138,
+      "wikidata_id": "Q4275541",
+      "name_ru": "Макарьевская пустынь (Ленинградская область)",
+      "name_en": "Saint Macarius of Rome monastery",
+      "located_in_at": "",
+      "latitude": 59.509069,
+      "longitude": 31.387536,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D0%B0%D1%80%D1%8C%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C_(%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)"
+    },
+    {
+      "id": 139,
+      "wikidata_id": "Q4278879",
+      "name_ru": "Малый Ивановский монастырь (Кирилло-Белозерский монастырь)",
+      "name_en": "Maly Ivanovsky monastery",
+      "located_in_at": "Кириллов",
+      "latitude": 59.857222,
+      "longitude": 38.368333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 140,
+      "wikidata_id": "Q4279767",
+      "name_ru": "Мамай-Маджарский Воскресенский монастырь",
+      "name_en": "Mamay-Majarian monastery",
+      "located_in_at": "",
+      "latitude": 44.796389,
+      "longitude": 44.159167,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BC%D0%B0%D0%B9-%D0%9C%D0%B0%D0%B4%D0%B6%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 141,
+      "wikidata_id": "Q21641445",
+      "name_ru": "Мамонтова пустынь",
+      "name_en": "Mamontova Pustyn",
+      "located_in_at": "Мамонтово",
+      "latitude": 53.228415,
+      "longitude": 41.703619,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BC%D0%BE%D0%BD%D1%82%D0%BE%D0%B2%D0%B0_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C"
+    },
+    {
+      "id": 142,
+      "wikidata_id": "Q4283047",
+      "name_ru": "Марфо-Мариинский монастырь (Ира)",
+      "name_en": "Marfo-Mariinsky Convent",
+      "located_in_at": "Ира (Башкортостан)",
+      "latitude": 52.854784,
+      "longitude": 55.924753,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%84%D0%BE-%D0%9C%D0%B0%D1%80%D0%B8%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%98%D1%80%D0%B0)"
+    },
+    {
+      "id": 143,
+      "wikidata_id": "Q4297207",
+      "name_ru": "Михаило-Архангельский монастырь",
+      "name_en": "Mikhailo-Arkhangelsky Monastery",
+      "located_in_at": "Архангельск",
+      "latitude": 64.526556,
+      "longitude": 40.559667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%BE-%D0%90%D1%80%D1%85%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%90%D1%80%D1%85%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C%D1%81%D0%BA)"
+    },
+    {
+      "id": 144,
+      "wikidata_id": "Q4297208",
+      "name_ru": "Михаило-Архангельский монастырь (Козиха)",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 54.562271,
+      "longitude": 82.111229,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%BE-%D0%90%D1%80%D1%85%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9A%D0%BE%D0%B7%D0%B8%D1%85%D0%B0)"
+    },
+    {
+      "id": 145,
+      "wikidata_id": "Q4297209",
+      "name_ru": "Михаило-Архангельский монастырь (Малоирменка)",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 54.536067,
+      "longitude": 81.898283,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%BE-%D0%90%D1%80%D1%85%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9C%D0%B0%D0%BB%D0%BE%D0%B8%D1%80%D0%BC%D0%B5%D0%BD%D0%BA%D0%B0)"
+    },
+    {
+      "id": 146,
+      "wikidata_id": "Q16676966",
+      "name_ru": "Михайло-Архангельский монастырь",
+      "name_en": "Mikhailo-Arkhangelsky Monastery",
+      "located_in_at": "Великий Устюг",
+      "latitude": 60.76265,
+      "longitude": 46.306633,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE-%D0%90%D1%80%D1%85%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9_%D0%A3%D1%81%D1%82%D1%8E%D0%B3)"
+    },
+    {
+      "id": 147,
+      "wikidata_id": "Q1654146",
+      "name_ru": "Михайло-Афонская Закубанская пустынь",
+      "name_en": "Michael-Athos Zakubansky Monastery",
+      "located_in_at": "Майкопский район",
+      "latitude": 44.290314,
+      "longitude": 40.316917,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE-%D0%90%D1%84%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%97%D0%B0%D0%BA%D1%83%D0%B1%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C"
+    },
+    {
+      "id": 148,
+      "wikidata_id": "Q4299775",
+      "name_ru": "Моисеевский монастырь",
+      "name_en": "Moiseev Monastery",
+      "located_in_at": "Москва",
+      "latitude": 55.756389,
+      "longitude": 37.614444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B8%D1%81%D0%B5%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 149,
+      "wikidata_id": "Q19615364",
+      "name_ru": "Мойский Свято-Троицкий монастырь",
+      "name_en": "Svyato-Troitsky Monastery of Moyka",
+      "located_in_at": "",
+      "latitude": 52.943333,
+      "longitude": 51.874444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 150,
+      "wikidata_id": "Q21641772",
+      "name_ru": "Мокро-Никольский монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 55.50222,
+      "longitude": 36.01278,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BA%D1%80%D0%BE-%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 151,
+      "wikidata_id": "Q18404987",
+      "name_ru": "Монастыри Самарского края в XVI — первой половине XIX века",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D0%B8_%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D1%80%D0%B0%D1%8F_%D0%B2_XVI_%E2%80%94_%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B9_%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD%D0%B5_XIX_%D0%B2%D0%B5%D0%BA%D0%B0"
+    },
+    {
+      "id": 152,
+      "wikidata_id": "Q24932608",
+      "name_ru": "Монастырская колонизация",
+      "name_en": "Monastery colonization",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F"
+    },
+    {
+      "id": 153,
+      "wikidata_id": "Q4301485",
+      "name_ru": "Монастырь Живоносного источника (Нижний Новгород)",
+      "name_en": "Live-giving Spring Monastery (Nizhny Novgorod)",
+      "located_in_at": "Нижний Новгород",
+      "latitude": 56.331565,
+      "longitude": 44.003308,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 154,
+      "wikidata_id": "Q3081767",
+      "name_ru": "Монастырь Святого Франциска (Москва)",
+      "name_en": "San Francesco Monastery",
+      "located_in_at": "Москва",
+      "latitude": 55.759744,
+      "longitude": 37.556717,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%81%D0%BA%D0%B0_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)"
+    },
+    {
+      "id": 155,
+      "wikidata_id": "Q48947517",
+      "name_ru": "Монастырь Святой Марии Магдалины",
+      "name_en": "Mary Magdalene monastery, Oryol Oblast",
+      "located_in_at": "Должанский район",
+      "latitude": 52.118925,
+      "longitude": 37.509928,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%9C%D0%B0%D1%80%D0%B8%D0%B8_%D0%9C%D0%B0%D0%B3%D0%B4%D0%B0%D0%BB%D0%B8%D0%BD%D1%8B_(%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5)"
+    },
+    {
+      "id": 156,
+      "wikidata_id": "Q20082391",
+      "name_ru": "Монастырь Сурб Степанос",
+      "name_en": "Surb Stefanos Monastery",
+      "located_in_at": "Старый Крым",
+      "latitude": 44.984542,
+      "longitude": 35.068078,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_%D0%A1%D1%83%D1%80%D0%B1_%D0%A1%D1%82%D0%B5%D0%BF%D0%B0%D0%BD%D0%BE%D1%81_(%D0%A1%D1%82%D0%B0%D1%80%D1%8B%D0%B9_%D0%9A%D1%80%D1%8B%D0%BC)"
+    },
+    {
+      "id": 157,
+      "wikidata_id": "Q111287097",
+      "name_ru": "Монастырь святого Петра",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B5%D1%82%D1%80%D0%B0_(%D0%9A%D0%B0%D1%80%D0%B0-%D0%94%D0%B0%D0%B3)"
+    },
+    {
+      "id": 158,
+      "wikidata_id": "Q28666593",
+      "name_ru": "Муезерский Троицкий монастырь",
+      "name_en": "",
+      "located_in_at": "Ушково",
+      "latitude": 64.626389,
+      "longitude": 33.369722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%B5%D0%B7%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 159,
+      "wikidata_id": "Q4308345",
+      "name_ru": "Мусерская Тихвинская пустынь",
+      "name_en": "",
+      "located_in_at": "Мусь",
+      "latitude": 56.892222,
+      "longitude": 47.107222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%81%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%A2%D0%B8%D1%85%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C"
+    },
+    {
+      "id": 160,
+      "wikidata_id": "Q64439797",
+      "name_ru": "Мядельский девичий монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8F%D0%B4%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B5%D0%B2%D0%B8%D1%87%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 161,
+      "wikidata_id": "Q2372179",
+      "name_ru": "Никитский монастырь",
+      "name_en": "Nikitsky Convent",
+      "located_in_at": "Москва",
+      "latitude": 55.755556,
+      "longitude": 37.607667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)"
+    },
+    {
+      "id": 162,
+      "wikidata_id": "Q28667438",
+      "name_ru": "Николаевский Стародевичий монастырь",
+      "name_en": "",
+      "located_in_at": "Алатырь",
+      "latitude": 54.85667,
+      "longitude": 46.59917,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D1%87%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 163,
+      "wikidata_id": "Q4320746",
+      "name_ru": "Николо-Греческий монастырь",
+      "name_en": "Nikolo-Grecheskiy monastery",
+      "located_in_at": "Тверской район",
+      "latitude": 55.757,
+      "longitude": 37.6215,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%BE-%D0%93%D1%80%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 164,
+      "wikidata_id": "Q4320753",
+      "name_ru": "Николо-Корельский монастырь",
+      "name_en": "Nikolo-Korelsky Monastery",
+      "located_in_at": "Северодвинск",
+      "latitude": 64.58278,
+      "longitude": 39.84583,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%BE-%D0%9A%D0%BE%D1%80%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 165,
+      "wikidata_id": "Q4320757",
+      "name_ru": "Николо-Медведский монастырь",
+      "name_en": "Nicholas-Medvedsky Monastery",
+      "located_in_at": "Новая Ладога",
+      "latitude": 60.110988,
+      "longitude": 32.322621,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%BE-%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 166,
+      "wikidata_id": "Q4320777",
+      "name_ru": "Николо-Тихвинский монастырь (Пятницкое)",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 50.423611,
+      "longitude": 37.853889,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%BE-%D0%A2%D0%B8%D1%85%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%BA%D0%BE%D0%B5)"
+    },
+    {
+      "id": 167,
+      "wikidata_id": "Q4320905",
+      "name_ru": "Никольский единоверческий монастырь",
+      "name_en": "",
+      "located_in_at": "Преображенское",
+      "latitude": 55.791083,
+      "longitude": 37.716278,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D0%B2%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 168,
+      "wikidata_id": "Q24349827",
+      "name_ru": "Никольский скит Соловецкого монастыря",
+      "name_en": "Saint Nicholas Skete (Kondostrov)",
+      "located_in_at": "Кондостров",
+      "latitude": 64.2,
+      "longitude": 36.64167,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BA%D0%B8%D1%82_%D0%A1%D0%BE%D0%BB%D0%BE%D0%B2%D0%B5%D1%86%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8F"
+    },
+    {
+      "id": 169,
+      "wikidata_id": "Q4322801",
+      "name_ru": "Новинский монастырь",
+      "name_en": "Novinsky Monastery",
+      "located_in_at": "Москва",
+      "latitude": 55.753147,
+      "longitude": 37.579328,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 170,
+      "wikidata_id": "Q16681522",
+      "name_ru": "Новосильский Свято-Духов монастырь",
+      "name_en": "Holy Spirit Monastery (Zadushnoe)",
+      "located_in_at": "Новосильский район",
+      "latitude": 52.981809,
+      "longitude": 36.984595,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%94%D1%83%D1%85%D0%BE%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 171,
+      "wikidata_id": "Q16548484",
+      "name_ru": "Ольгов монастырь",
+      "name_en": "Olgov Monastery",
+      "located_in_at": "Льгово",
+      "latitude": 54.595308,
+      "longitude": 39.934299,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%9E%D0%BB%D1%8C%D0%B3%D0%BE%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 172,
+      "wikidata_id": "Q4334862",
+      "name_ru": "Онежский Крестный монастырь",
+      "name_en": "Onezhsky Krestny Monastery",
+      "located_in_at": "Онежский район",
+      "latitude": 63.997394,
+      "longitude": 37.891245,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BD%D0%B5%D0%B6%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D1%80%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 173,
+      "wikidata_id": "Q4340065",
+      "name_ru": "Отроч монастырь",
+      "name_en": "Otroch Uspensky Monastery",
+      "located_in_at": "Тверь",
+      "latitude": 56.8645,
+      "longitude": 35.9173,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%82%D1%80%D0%BE%D1%87_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 174,
+      "wikidata_id": "Q16684306",
+      "name_ru": "Паданский Введенский монастырь",
+      "name_en": "",
+      "located_in_at": "Подпорожский район",
+      "latitude": 60.686753,
+      "longitude": 34.730494,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 175,
+      "wikidata_id": "Q30893375",
+      "name_ru": "Пановский Свято-Троицкий женский монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 176,
+      "wikidata_id": "Q1988144",
+      "name_ru": "Перервинский монастырь",
+      "name_en": "Nikolo-Perervinsky Monastery",
+      "located_in_at": "Печатники",
+      "latitude": 55.669333,
+      "longitude": 37.719222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D1%80%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 177,
+      "wikidata_id": "Q15665207",
+      "name_ru": "Пертоминский Спасо-Преображенский монастырь",
+      "name_en": "Pertominsky Transfiguration monastery",
+      "located_in_at": "Пертоминск",
+      "latitude": 64.790106,
+      "longitude": 38.418331,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D1%82%D0%BE%D0%BC%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 178,
+      "wikidata_id": "Q21643873",
+      "name_ru": "Петровский монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 55.50694,
+      "longitude": 36.00556,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9C%D0%BE%D0%B6%D0%B0%D0%B9%D1%81%D0%BA)"
+    },
+    {
+      "id": 179,
+      "wikidata_id": "Q125869111",
+      "name_ru": "Петропавловский монастырь",
+      "name_en": "",
+      "located_in_at": "Мценск",
+      "latitude": 53.2917,
+      "longitude": 36.5692,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9C%D1%86%D0%B5%D0%BD%D1%81%D0%BA)"
+    },
+    {
+      "id": 180,
+      "wikidata_id": "Q4361561",
+      "name_ru": "Петропавловский монастырь (Хабаровский край)",
+      "name_en": "Petropavlovskiy Monastery (Khabarovsk Krai)",
+      "located_in_at": "",
+      "latitude": 48.68115,
+      "longitude": 135.52637,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%A5%D0%B0%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B0%D0%B9)"
+    },
+    {
+      "id": 181,
+      "wikidata_id": "Q18408174",
+      "name_ru": "Покрово-Болдинский монастырь",
+      "name_en": "Intercession Boldin monastery",
+      "located_in_at": "Астрахань",
+      "latitude": 46.350833,
+      "longitude": 48.103611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D0%BE-%D0%91%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%8C)"
+    },
+    {
+      "id": 182,
+      "wikidata_id": "Q4369223",
+      "name_ru": "Покрово-Эннатский монастырь",
+      "name_en": "Pokrovsky monastery in Dedovo",
+      "located_in_at": "Новомихайловка",
+      "latitude": 53.031772,
+      "longitude": 55.118401,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D0%BE-%D0%AD%D0%BD%D0%BD%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 183,
+      "wikidata_id": "Q125122544",
+      "name_ru": "Покровский монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 54.3086,
+      "longitude": 48.3761,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%A1%D0%B8%D0%BC%D0%B1%D0%B8%D1%80%D1%81%D0%BA)"
+    },
+    {
+      "id": 184,
+      "wikidata_id": "Q16686794",
+      "name_ru": "Покровский монастырь",
+      "name_en": "",
+      "located_in_at": "Балашов",
+      "latitude": 51.5372,
+      "longitude": 43.159,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%91%D0%B0%D0%BB%D0%B0%D1%88%D0%BE%D0%B2)"
+    },
+    {
+      "id": 185,
+      "wikidata_id": "Q48954435",
+      "name_ru": "Покровский монастырь",
+      "name_en": "",
+      "located_in_at": "Корсаков",
+      "latitude": 46.644669,
+      "longitude": 142.766014,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9A%D0%BE%D1%80%D1%81%D0%B0%D0%BA%D0%BE%D0%B2)"
+    },
+    {
+      "id": 186,
+      "wikidata_id": "Q4369340",
+      "name_ru": "Покровский монастырь (Балахна)",
+      "name_en": "Pokrovsky monastery (Balakhna)",
+      "located_in_at": "Балахна",
+      "latitude": 56.489705,
+      "longitude": 43.614878,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%91%D0%B0%D0%BB%D0%B0%D1%85%D0%BD%D0%B0)"
+    },
+    {
+      "id": 187,
+      "wikidata_id": "Q4369341",
+      "name_ru": "Покровский монастырь (Данков)",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 53.242545,
+      "longitude": 39.146844,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%94%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2)"
+    },
+    {
+      "id": 188,
+      "wikidata_id": "Q4369343",
+      "name_ru": "Покровский монастырь (Завьялово)",
+      "name_en": "Intercession Church, Zavyalovo",
+      "located_in_at": "Новосибирская область",
+      "latitude": 54.497613,
+      "longitude": 82.452511,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%97%D0%B0%D0%B2%D1%8C%D1%8F%D0%BB%D0%BE%D0%B2%D0%BE)"
+    },
+    {
+      "id": 189,
+      "wikidata_id": "Q4369346",
+      "name_ru": "Покровский монастырь (Чита)",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 52.027982,
+      "longitude": 113.521673,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%A7%D0%B8%D1%82%D0%B0)"
+    },
+    {
+      "id": 190,
+      "wikidata_id": "Q28818885",
+      "name_ru": "Покровский мужской монастырь",
+      "name_en": "",
+      "located_in_at": "Верхнемакеевка",
+      "latitude": 49.162316,
+      "longitude": 41.072559,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%92%D0%B5%D1%80%D1%85%D0%BD%D0%B5%D0%BC%D0%B0%D0%BA%D0%B5%D0%B5%D0%B2%D0%BA%D0%B0)"
+    },
+    {
+      "id": 191,
+      "wikidata_id": "Q4377289",
+      "name_ru": "Преображенская старообрядческая община (Москва)",
+      "name_en": "Preobrazhensky Old Believers Monastery in Moscow",
+      "located_in_at": "Преображенское",
+      "latitude": 55.79279,
+      "longitude": 37.71624,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D1%80%D0%BE%D0%BE%D0%B1%D1%80%D1%8F%D0%B4%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D1%89%D0%B8%D0%BD%D0%B0_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)"
+    },
+    {
+      "id": 192,
+      "wikidata_id": "Q16688082",
+      "name_ru": "Преображенский скит Данилова монастыря",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 54.851111,
+      "longitude": 37.306111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BA%D0%B8%D1%82_%D0%94%D0%B0%D0%BD%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8F"
+    },
+    {
+      "id": 193,
+      "wikidata_id": "Q4384136",
+      "name_ru": "Пустынь Святого Параклита",
+      "name_en": "Paraklit-Tarbeev Monastery",
+      "located_in_at": "Смена",
+      "latitude": 56.31822,
+      "longitude": 38.23767,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D0%9F%D0%B0%D1%80%D0%B0%D0%BA%D0%BB%D0%B8%D1%82%D0%B0"
+    },
+    {
+      "id": 194,
+      "wikidata_id": "Q62558928",
+      "name_ru": "Разрытовский Свято-Троицкий Покровский монастырь",
+      "name_en": "",
+      "located_in_at": "Разрытое",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 195,
+      "wikidata_id": "Q4390293",
+      "name_ru": "Распятский монастырь",
+      "name_en": "Raspyatsky Monastery",
+      "located_in_at": "Серпухов",
+      "latitude": 54.91249,
+      "longitude": 37.41308,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D0%BF%D1%8F%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 196,
+      "wikidata_id": "Q4391423",
+      "name_ru": "Рдейский монастырь",
+      "name_en": "Rdeyskiy monastery",
+      "located_in_at": "Холмский район",
+      "latitude": 57.282737,
+      "longitude": 30.890968,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B4%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 197,
+      "wikidata_id": "Q4392914",
+      "name_ru": "Реконьская пустынь",
+      "name_en": "Rekonsky monastery",
+      "located_in_at": "Верхнее Заозерье",
+      "latitude": 59.285436,
+      "longitude": 33.170649,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A0%D1%91%D0%BA%D0%BE%D0%BD%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C"
+    },
+    {
+      "id": 198,
+      "wikidata_id": "Q55659251",
+      "name_ru": "Ринчин Дацан",
+      "name_en": "Rinchin Datsan",
+      "located_in_at": "Новосибирск",
+      "latitude": 54.896341,
+      "longitude": 83.104569,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%BD%D1%87%D0%B8%D0%BD-%D0%B4%D0%B0%D1%86%D0%B0%D0%BD"
+    },
+    {
+      "id": 199,
+      "wikidata_id": "Q4396205",
+      "name_ru": "Рождественский монастырь (Солигалич)",
+      "name_en": "Cathedral of the Nativity of the Theotokos, Soligalich",
+      "located_in_at": "Солигалич",
+      "latitude": 59.0756,
+      "longitude": 42.2905,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%A1%D0%BE%D0%BB%D0%B8%D0%B3%D0%B0%D0%BB%D0%B8%D1%87)"
+    },
+    {
+      "id": 200,
+      "wikidata_id": "Q21663163",
+      "name_ru": "Рождество - Богородицкий мужской монастырь",
+      "name_en": "",
+      "located_in_at": "Пурдошки",
+      "latitude": 54.679864,
+      "longitude": 43.55001,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9F%D1%83%D1%80%D0%B4%D0%BE%D1%88%D0%BA%D0%B8)"
+    },
+    {
+      "id": 201,
+      "wikidata_id": "Q4403760",
+      "name_ru": "Савво-Вишерский монастырь",
+      "name_en": "Savvo-Vishersky Monastery",
+      "located_in_at": "Новгородская область",
+      "latitude": 58.547156,
+      "longitude": 31.447103,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B2%D0%B2%D0%BE-%D0%92%D0%B8%D1%88%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 202,
+      "wikidata_id": "Q19888142",
+      "name_ru": "Самарский Николаевский монастырь",
+      "name_en": "Nikolaevsky monastery",
+      "located_in_at": "Самара",
+      "latitude": 53.21175,
+      "longitude": 50.1325,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 203,
+      "wikidata_id": "Q19366045",
+      "name_ru": "Самарский архиерейский дом",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 53.197778,
+      "longitude": 50.105,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B0%D1%80%D1%85%D0%B8%D0%B5%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%BE%D0%BC"
+    },
+    {
+      "id": 204,
+      "wikidata_id": "Q28666106",
+      "name_ru": "Саранский Казанско-Богородицкий женский монастырь",
+      "name_en": "",
+      "located_in_at": "Саранск",
+      "latitude": 54.187137,
+      "longitude": 45.190596,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%BE-%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 205,
+      "wikidata_id": "Q28666109",
+      "name_ru": "Саранский Казанско-Богородицкий мужской монастырь",
+      "name_en": "",
+      "located_in_at": "Саранск",
+      "latitude": 54.184983,
+      "longitude": 45.198497,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%BE-%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 206,
+      "wikidata_id": "Q25397269",
+      "name_ru": "Саранский Петро-Павловский",
+      "name_en": "",
+      "located_in_at": "Саранск",
+      "latitude": 54.181387,
+      "longitude": 45.182027,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 207,
+      "wikidata_id": "Q28666108",
+      "name_ru": "Саранский Петровский мужской монастырь",
+      "name_en": "",
+      "located_in_at": "Саранск",
+      "latitude": 54.180033,
+      "longitude": 45.23101,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 208,
+      "wikidata_id": "Q85865854",
+      "name_ru": "Сарапульский Благовещенский монастырь",
+      "name_en": "",
+      "located_in_at": "Сарапул",
+      "latitude": 56.474006,
+      "longitude": 53.797726,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%B0%D0%BF%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 209,
+      "wikidata_id": "Q4408812",
+      "name_ru": "Сартул-Гэгэтуйский дацан",
+      "name_en": "Sartul-Gegetuysky datsan",
+      "located_in_at": "Гэгэтуй",
+      "latitude": 50.645278,
+      "longitude": 105.221389,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D1%82%D1%83%D0%BB-%D0%93%D1%8D%D0%B3%D1%8D%D1%82%D1%83%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B0%D1%86%D0%B0%D0%BD"
+    },
+    {
+      "id": 210,
+      "wikidata_id": "Q24937236",
+      "name_ru": "Свирколуцкий Богородицкий монастырь",
+      "name_en": "",
+      "located_in_at": "Сверколучье",
+      "latitude": 54.9217,
+      "longitude": 32.7815,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B8%D1%80%D0%BA%D0%BE%D0%BB%D1%83%D1%86%D0%BA%D0%B8%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 211,
+      "wikidata_id": "Q4411347",
+      "name_ru": "Свято-Алексиевская пустынь",
+      "name_en": "Svi︠a︡to-Aleksievskai︠a︡ pustynʹ",
+      "located_in_at": "Новоалексеевка",
+      "latitude": 56.612222,
+      "longitude": 38.674444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C"
+    },
+    {
+      "id": 212,
+      "wikidata_id": "Q4411356",
+      "name_ru": "Свято-Вознесенский Дубовский монастырь",
+      "name_en": "Dubovsky Ascension Monastery",
+      "located_in_at": "Дубовка",
+      "latitude": 49.05659,
+      "longitude": 44.786004,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%92%D0%BE%D0%B7%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%94%D1%83%D0%B1%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 213,
+      "wikidata_id": "Q4411358",
+      "name_ru": "Свято-Вознесенский Кременский монастырь",
+      "name_en": "Holy Ascension Monastery Kremensky",
+      "located_in_at": "Саушкин",
+      "latitude": 49.502938,
+      "longitude": 43.572941,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B7%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 214,
+      "wikidata_id": "Q18400042",
+      "name_ru": "Свято-Георгиевский Мещовский монастырь",
+      "name_en": "Saint George Meshchovsky Monastery",
+      "located_in_at": "Искра",
+      "latitude": 54.33083,
+      "longitude": 35.26889,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%9C%D0%B5%D1%89%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 215,
+      "wikidata_id": "Q23933980",
+      "name_ru": "Свято-Георгиевский монастырь (Ессентуки)",
+      "name_en": "Saint George Monastery (Yessentuki)",
+      "located_in_at": "Ессентуки",
+      "latitude": 44.02806,
+      "longitude": 42.81139,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%95%D1%81%D1%81%D0%B5%D0%BD%D1%82%D1%83%D0%BA%D0%B8)"
+    },
+    {
+      "id": 216,
+      "wikidata_id": "Q4411370",
+      "name_ru": "Свято-Духов монастырь",
+      "name_en": "Svyato-Duhov Monastery in Volgograd",
+      "located_in_at": "Дзержинский район",
+      "latitude": 48.71861,
+      "longitude": 44.50456,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%94%D1%83%D1%85%D0%BE%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%92%D0%BE%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0%D0%B4)"
+    },
+    {
+      "id": 217,
+      "wikidata_id": "Q4411372",
+      "name_ru": "Свято-Духов монастырь",
+      "name_en": "Svyato-Dukhov Monastery",
+      "located_in_at": "Вологда",
+      "latitude": 59.213611,
+      "longitude": 39.886667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%94%D1%83%D1%85%D0%BE%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%92%D0%BE%D0%BB%D0%BE%D0%B3%D0%B4%D0%B0)"
+    },
+    {
+      "id": 218,
+      "wikidata_id": "Q65028575",
+      "name_ru": "Свято-Казанский Чимеевский мужской монастырь",
+      "name_en": "Holy Kazan Chimeevo monastery",
+      "located_in_at": "Курганская область",
+      "latitude": 56.094967,
+      "longitude": 65.134156,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 219,
+      "wikidata_id": "Q4411389",
+      "name_ru": "Свято-Косьминская пустынь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 58.792222,
+      "longitude": 61.251389,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%9A%D0%BE%D1%81%D1%8C%D0%BC%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C"
+    },
+    {
+      "id": 220,
+      "wikidata_id": "Q4411439",
+      "name_ru": "Свято-Троицкая обитель милосердия",
+      "name_en": "Saraktash Holy Trinity Monastery of Mercy",
+      "located_in_at": "Саракташский район",
+      "latitude": 51.7866,
+      "longitude": 56.3571,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%BC%D0%B8%D0%BB%D0%BE%D1%81%D0%B5%D1%80%D0%B4%D0%B8%D1%8F"
+    },
+    {
+      "id": 221,
+      "wikidata_id": "Q80828459",
+      "name_ru": "Свято-Троицкий Мариинский монастырь",
+      "name_en": "Svyato-Troitsky Mariinsky Convent",
+      "located_in_at": "Егорьевск",
+      "latitude": 55.38808,
+      "longitude": 39.0317,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%9C%D0%B0%D1%80%D0%B8%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 222,
+      "wikidata_id": "Q21194052",
+      "name_ru": "Свято-Троицкий Никандров женский монастырь",
+      "name_en": "Svyato-Troitsky Nikandrov Monastery",
+      "located_in_at": "Никандрово",
+      "latitude": 58.83,
+      "longitude": 33.83667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%9D%D0%B8%D0%BA%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 223,
+      "wikidata_id": "Q86669256",
+      "name_ru": "Свято-Троицкий Туруханский монастырь",
+      "name_en": "Turukhansk Holy Trinity Monastery",
+      "located_in_at": "Туруханск",
+      "latitude": 65.79056,
+      "longitude": 87.9759,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%A2%D1%83%D1%80%D1%83%D1%85%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 224,
+      "wikidata_id": "Q86665662",
+      "name_ru": "Свято-Успенский Оренбургский женский монастырь",
+      "name_en": "Holy Assumption Orenburg convent",
+      "located_in_at": "Оренбург",
+      "latitude": 51.7729,
+      "longitude": 55.1111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%9E%D1%80%D0%B5%D0%BD%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 225,
+      "wikidata_id": "Q12151137",
+      "name_ru": "Свято-Успенский женский монастырь",
+      "name_en": "",
+      "located_in_at": "Перевозное",
+      "latitude": 56.884722,
+      "longitude": 53.917222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 226,
+      "wikidata_id": "Q4411494",
+      "name_ru": "Свято-Успенский мужской монастырь (Красноярск)",
+      "name_en": "Uspensky monastery",
+      "located_in_at": "Красноярск",
+      "latitude": 55.979239,
+      "longitude": 92.739871,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%8F%D1%80%D1%81%D0%BA)"
+    },
+    {
+      "id": 227,
+      "wikidata_id": "Q4411519",
+      "name_ru": "Святогорский монастырь",
+      "name_en": "Svyatogorsky Monastery",
+      "located_in_at": "Пушкинские Горы",
+      "latitude": 57.022167,
+      "longitude": 28.919722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%93%D0%BE%D1%80%D1%8B)"
+    },
+    {
+      "id": 228,
+      "wikidata_id": "Q106732230",
+      "name_ru": "Святоезерская Иверская пустынь (Мугреевский)",
+      "name_en": "Svyatoezersky Iversky Convent",
+      "located_in_at": "Мугреевский",
+      "latitude": 56.602753,
+      "longitude": 42.352479,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B5%D0%B7%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 229,
+      "wikidata_id": "Q4415431",
+      "name_ru": "Семигородняя Успенская пустынь",
+      "name_en": "",
+      "located_in_at": "Возрождение",
+      "latitude": 59.78035,
+      "longitude": 40.1975,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BC%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BD%D1%8F%D1%8F_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C"
+    },
+    {
+      "id": 230,
+      "wikidata_id": "Q2234567",
+      "name_ru": "Симонов монастырь",
+      "name_en": "Simonov Monastery",
+      "located_in_at": "Даниловский район",
+      "latitude": 55.713892,
+      "longitude": 37.65717,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 231,
+      "wikidata_id": "Q4422226",
+      "name_ru": "Скорбященский монастырь",
+      "name_en": "Skorbyashchensky Monastery, Moscow",
+      "located_in_at": "Тверской район",
+      "latitude": 55.789167,
+      "longitude": 37.592222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%BE%D1%80%D0%B1%D1%8F%D1%89%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)"
+    },
+    {
+      "id": 232,
+      "wikidata_id": "Q124620461",
+      "name_ru": "Скрябинский Вознесенский женский монастырь (Пограничное)",
+      "name_en": "",
+      "located_in_at": "Пограничное",
+      "latitude": 52.763451,
+      "longitude": 44.694964,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D1%80%D1%8F%D0%B1%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%92%D0%BE%D0%B7%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 233,
+      "wikidata_id": "Q2330130",
+      "name_ru": "Смольный монастырь",
+      "name_en": "Smolny Convent",
+      "located_in_at": "Санкт-Петербург",
+      "latitude": 59.948611,
+      "longitude": 30.395,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BC%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 234,
+      "wikidata_id": "Q16699455",
+      "name_ru": "Соломенский Петропавловский монастырь",
+      "name_en": "",
+      "located_in_at": "Петрозаводск",
+      "latitude": 61.845605,
+      "longitude": 34.360755,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%BE%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 235,
+      "wikidata_id": "Q65175794",
+      "name_ru": "Сосновская Покровская пустынь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C"
+    },
+    {
+      "id": 236,
+      "wikidata_id": "Q1050324",
+      "name_ru": "Спасо-Евфимиев монастырь",
+      "name_en": "Monastery of Saint Euthymius",
+      "located_in_at": "Суздаль",
+      "latitude": 56.433112,
+      "longitude": 40.440246,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%95%D0%B2%D1%84%D0%B8%D0%BC%D0%B8%D0%B5%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 237,
+      "wikidata_id": "Q4430820",
+      "name_ru": "Спасо-Новоприлуцкий монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 64.326856,
+      "longitude": 41.447259,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9D%D0%BE%D0%B2%D0%BE%D0%BF%D1%80%D0%B8%D0%BB%D1%83%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 238,
+      "wikidata_id": "Q60853614",
+      "name_ru": "Спасо-Орловский мужской монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 239,
+      "wikidata_id": "Q4430821",
+      "name_ru": "Спасо-Песоцкий монастырь",
+      "name_en": "Spaso-Jakovlevskij Monastery. Saviour on Sands Church",
+      "located_in_at": "Ростов Великий",
+      "latitude": 57.174855,
+      "longitude": 39.389532,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D0%B5%D1%81%D0%BE%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 240,
+      "wikidata_id": "Q28549512",
+      "name_ru": "Спасо-Преображенский Пронский мужской монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 54.104596,
+      "longitude": 39.625468,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%9F%D1%80%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 241,
+      "wikidata_id": "Q4430834",
+      "name_ru": "Спасо-Преображенский монастырь",
+      "name_en": "",
+      "located_in_at": "Казань",
+      "latitude": 55.796782,
+      "longitude": 49.106709,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C)"
+    },
+    {
+      "id": 242,
+      "wikidata_id": "Q16700030",
+      "name_ru": "Спасо-Преображенский монастырь",
+      "name_en": "Transfiguration Monastery",
+      "located_in_at": "Астрахань",
+      "latitude": 46.35127,
+      "longitude": 48.04205,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%90%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D1%8C)"
+    },
+    {
+      "id": 243,
+      "wikidata_id": "Q30890530",
+      "name_ru": "Спасо-Преображенский монастырь",
+      "name_en": "Savior Transfiguration monastery",
+      "located_in_at": "Каменск-Уральский",
+      "latitude": 56.42188,
+      "longitude": 61.89412,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA-%D0%A3%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9)"
+    },
+    {
+      "id": 244,
+      "wikidata_id": "Q4430838",
+      "name_ru": "Спасо-Преображенский монастырь (Старая Русса)",
+      "name_en": "Transfiguration Monastery, Staraya Russa",
+      "located_in_at": "Старая Русса",
+      "latitude": 57.993931,
+      "longitude": 31.360911,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%A1%D1%82%D0%B0%D1%80%D0%B0%D1%8F_%D0%A0%D1%83%D1%81%D1%81%D0%B0)"
+    },
+    {
+      "id": 245,
+      "wikidata_id": "Q4430845",
+      "name_ru": "Спасо-Суморин монастырь",
+      "name_en": "Spaso-Sumorin Monastery",
+      "located_in_at": "Тотьма",
+      "latitude": 59.973642,
+      "longitude": 42.732037,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%A1%D1%83%D0%BC%D0%BE%D1%80%D0%B8%D0%BD_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 246,
+      "wikidata_id": "Q97159124",
+      "name_ru": "Спасо-Юнгинский мужской монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 56.309724,
+      "longitude": 46.496714,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%AE%D0%BD%D0%B3%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 247,
+      "wikidata_id": "Q124667699",
+      "name_ru": "Спасский женский монастырь",
+      "name_en": "Spassky Monastery, Ulyanovsk",
+      "located_in_at": "Ульяновск",
+      "latitude": 54.316736,
+      "longitude": 48.399774,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%A3%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D1%81%D0%BA)"
+    },
+    {
+      "id": 248,
+      "wikidata_id": "Q16700039",
+      "name_ru": "Спасский монастырь",
+      "name_en": "Monastery of the Savior Not Made with Hands",
+      "located_in_at": "",
+      "latitude": 62.03,
+      "longitude": 129.743056,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%AF%D0%BA%D1%83%D1%82%D1%81%D0%BA)"
+    },
+    {
+      "id": 249,
+      "wikidata_id": "Q4430919",
+      "name_ru": "Спасский монастырь (Верея)",
+      "name_en": "",
+      "located_in_at": "Верея",
+      "latitude": 55.35563,
+      "longitude": 36.20859,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%92%D0%B5%D1%80%D0%B5%D1%8F)"
+    },
+    {
+      "id": 250,
+      "wikidata_id": "Q53936117",
+      "name_ru": "Спасский монастырь (Смоленск)",
+      "name_en": "Spasky monastery (Smolensk)",
+      "located_in_at": "Смоленск",
+      "latitude": 54.78583,
+      "longitude": 32.01722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%A1%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA)"
+    },
+    {
+      "id": 251,
+      "wikidata_id": "Q16701537",
+      "name_ru": "Сретенский Новодевичий монастырь",
+      "name_en": "Sretensky Monastery (Pereslavl-Zalessky)",
+      "located_in_at": "Переславль-Залесский",
+      "latitude": 56.73537,
+      "longitude": 38.85255,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%80%D0%B5%D1%82%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D1%87%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 252,
+      "wikidata_id": "Q21644545",
+      "name_ru": "Сретенский монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 55.5025,
+      "longitude": 36.02361,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%80%D0%B5%D1%82%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9C%D0%BE%D0%B6%D0%B0%D0%B9%D1%81%D0%BA)"
+    },
+    {
+      "id": 253,
+      "wikidata_id": "Q4438826",
+      "name_ru": "Сретенский монастырь (Кашин)",
+      "name_en": "",
+      "located_in_at": "Кашин",
+      "latitude": 57.34755,
+      "longitude": 37.611029,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%80%D0%B5%D1%82%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9A%D0%B0%D1%88%D0%B8%D0%BD)"
+    },
+    {
+      "id": 254,
+      "wikidata_id": "Q24514032",
+      "name_ru": "Старая Сосновая пустынь",
+      "name_en": "Staraya Sosnovaya pustin",
+      "located_in_at": "",
+      "latitude": 65.14111,
+      "longitude": 35.65167,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%B0%D1%8F_%D0%A1%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C"
+    },
+    {
+      "id": 255,
+      "wikidata_id": "Q86681069",
+      "name_ru": "Старцевогорский Иоанно-Предтеченский монастырь",
+      "name_en": "",
+      "located_in_at": "Сарапул",
+      "latitude": 56.486914,
+      "longitude": 53.81579,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D1%86%D0%B5%D0%B2%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BE%D0%B0%D0%BD%D0%BD%D0%BE-%D0%9F%D1%80%D0%B5%D0%B4%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 256,
+      "wikidata_id": "Q2018960",
+      "name_ru": "Страстной монастырь",
+      "name_en": "Strastnoy Convent",
+      "located_in_at": "Тверской район",
+      "latitude": 55.765556,
+      "longitude": 37.605833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D1%81%D1%82%D0%BD%D0%BE%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 257,
+      "wikidata_id": "Q48942178",
+      "name_ru": "Суклёмский Свято-Троицкий монастырь",
+      "name_en": "",
+      "located_in_at": "Суклем",
+      "latitude": 56.20528,
+      "longitude": 66.7375,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%BA%D0%BB%D1%91%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 258,
+      "wikidata_id": "Q2471388",
+      "name_ru": "Сурб Хач",
+      "name_en": "Surb Khach Monastery",
+      "located_in_at": "Старый Крым",
+      "latitude": 45.00051,
+      "longitude": 35.062264,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_%D0%A1%D1%83%D1%80%D0%B1-%D0%A5%D0%B0%D1%87_(%D0%9A%D1%80%D1%8B%D0%BC)"
+    },
+    {
+      "id": 259,
+      "wikidata_id": "Q124838368",
+      "name_ru": "Сухотинский Знаменский женский монастырь",
+      "name_en": "",
+      "located_in_at": "Сухотинка",
+      "latitude": 52.515193,
+      "longitude": 41.586377,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D1%85%D0%BE%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 260,
+      "wikidata_id": "Q4448036",
+      "name_ru": "Сырков монастырь",
+      "name_en": "Syrkov monastery, Veliky Novgorod",
+      "located_in_at": "Сырково",
+      "latitude": 58.581046,
+      "longitude": 31.231416,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%8B%D1%80%D0%BA%D0%BE%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 261,
+      "wikidata_id": "Q4448619",
+      "name_ru": "Сякюсн-Сюме",
+      "name_en": "Syakyusn-Syume",
+      "located_in_at": "Аршан",
+      "latitude": 46.288056,
+      "longitude": 44.223611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%8F%D0%BA%D1%8E%D1%81%D0%BD-%D0%A1%D1%8E%D0%BC%D0%B5"
+    },
+    {
+      "id": 262,
+      "wikidata_id": "Q4449197",
+      "name_ru": "Табангут-Ичётуйский дацан",
+      "name_en": "Tabangut-Ichotuysky datsan",
+      "located_in_at": "",
+      "latitude": 50.635278,
+      "longitude": 105.448611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B1%D0%B0%D0%BD%D0%B3%D1%83%D1%82-%D0%98%D1%87%D1%91%D1%82%D1%83%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B0%D1%86%D0%B0%D0%BD"
+    },
+    {
+      "id": 263,
+      "wikidata_id": "Q30890327",
+      "name_ru": "Тихоновский общежительный мужской монастырь.",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D1%85%D0%BE%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D0%B1%D1%89%D0%B5%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B6%D1%81%D0%BA%D0%BE%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 264,
+      "wikidata_id": "Q1995809",
+      "name_ru": "Троице-Гледенский монастырь",
+      "name_en": "Troitse-Gledensky Monastery",
+      "located_in_at": "Морозовица",
+      "latitude": 60.718247,
+      "longitude": 46.309562,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B5-%D0%93%D0%BB%D0%B5%D0%B4%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 265,
+      "wikidata_id": "Q4463416",
+      "name_ru": "Троице-Сергиев Варницкий монастырь",
+      "name_en": "Varnitsy Monastery",
+      "located_in_at": "Ростов Великий",
+      "latitude": 57.2013,
+      "longitude": 39.377,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B5-%D0%A1%D0%B5%D1%80%D0%B3%D0%B8%D0%B5%D0%B2_%D0%92%D0%B0%D1%80%D0%BD%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 266,
+      "wikidata_id": "Q4463419",
+      "name_ru": "Троице-Сканов монастырь",
+      "name_en": "Troitse-Scanov Convent",
+      "located_in_at": "Наровчатский район",
+      "latitude": 53.865,
+      "longitude": 43.751944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B5-%D0%A1%D0%BA%D0%B0%D0%BD%D0%BE%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 267,
+      "wikidata_id": "Q120542695",
+      "name_ru": "Троице-Сыпанов Пахомиево-Нерехтский монастырь",
+      "name_en": "",
+      "located_in_at": "Троица",
+      "latitude": 57.444941,
+      "longitude": 40.603116,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B5-%D0%A1%D1%8B%D0%BF%D0%B0%D0%BD%D0%BE%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 268,
+      "wikidata_id": "Q4463420",
+      "name_ru": "Троице-Феодоровский монастырь",
+      "name_en": "",
+      "located_in_at": "Казань",
+      "latitude": 55.8017,
+      "longitude": 49.126,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%B5-%D0%A4%D0%B5%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 269,
+      "wikidata_id": "Q4463506",
+      "name_ru": "Троицкий Битюцкий мужской монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 51.549198,
+      "longitude": 40.268532,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%91%D0%B8%D1%82%D1%8E%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 270,
+      "wikidata_id": "Q4463508",
+      "name_ru": "Троицкий Иоанно-Богословский монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 57.919722,
+      "longitude": 35.011944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%98%D0%BE%D0%B0%D0%BD%D0%BD%D0%BE-%D0%91%D0%BE%D0%B3%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 271,
+      "wikidata_id": "Q110319460",
+      "name_ru": "Троицкий Кудин монастырь",
+      "name_en": "",
+      "located_in_at": "Кудино",
+      "latitude": 56.518336,
+      "longitude": 31.703793,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%9A%D1%83%D0%B4%D0%B8%D0%BD_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 272,
+      "wikidata_id": "Q4463509",
+      "name_ru": "Троицкий Макарьев монастырь",
+      "name_en": "Troitsky Makariev Monastery",
+      "located_in_at": "Калязин",
+      "latitude": 57.254415,
+      "longitude": 37.867397,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%9C%D0%B0%D0%BA%D0%B0%D1%80%D1%8C%D0%B5%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 273,
+      "wikidata_id": "Q108587243",
+      "name_ru": "Троицкий Небин монастырь",
+      "name_en": "Troitsky Nebin Monastery, Toropets",
+      "located_in_at": "Торопец",
+      "latitude": 56.488129,
+      "longitude": 31.633909,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%9D%D0%B5%D0%B1%D0%B8%D0%BD_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 274,
+      "wikidata_id": "Q104878032",
+      "name_ru": "Троицкий Селижаровский монастырь",
+      "name_en": "",
+      "located_in_at": "Селижарово",
+      "latitude": 56.8545,
+      "longitude": 33.454,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%A1%D0%B5%D0%BB%D0%B8%D0%B6%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 275,
+      "wikidata_id": "Q21644717",
+      "name_ru": "Троицкий монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 55.50694,
+      "longitude": 36.01722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9C%D0%BE%D0%B6%D0%B0%D0%B9%D1%81%D0%BA)"
+    },
+    {
+      "id": 276,
+      "wikidata_id": "Q4463519",
+      "name_ru": "Троицкий монастырь (Казань)",
+      "name_en": "",
+      "located_in_at": "Казань",
+      "latitude": 56.310278,
+      "longitude": 38.129444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C)"
+    },
+    {
+      "id": 277,
+      "wikidata_id": "Q110319395",
+      "name_ru": "Троицкий хурул",
+      "name_en": "",
+      "located_in_at": "Троицкое",
+      "latitude": 46.66861,
+      "longitude": 44.43389,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D1%85%D1%83%D1%80%D1%83%D0%BB"
+    },
+    {
+      "id": 278,
+      "wikidata_id": "Q55653040",
+      "name_ru": "Трубчевский Ильинский монастырь",
+      "name_en": "St. Elijah monastery in Trubchevsk",
+      "located_in_at": "Трубчевск",
+      "latitude": 52.584099,
+      "longitude": 33.762261,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D0%BB%D1%8C%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%A2%D1%80%D1%83%D0%B1%D1%87%D0%B5%D0%B2%D1%81%D0%BA)"
+    },
+    {
+      "id": 279,
+      "wikidata_id": "Q111287096",
+      "name_ru": "Трёхсвятский монастырь",
+      "name_en": "Tryokhsvyatsky Monastery",
+      "located_in_at": "Тверь",
+      "latitude": 56.848191,
+      "longitude": 35.898931,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D1%91%D1%85%D1%81%D0%B2%D1%8F%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 280,
+      "wikidata_id": "Q60850203",
+      "name_ru": "Тульский Предтечев монастырь",
+      "name_en": "",
+      "located_in_at": "Тула",
+      "latitude": 54.193855,
+      "longitude": 37.624736,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D0%BE%D0%B0%D0%BD%D0%BD%D0%BE-%D0%9F%D1%80%D0%B5%D0%B4%D1%82%D0%B5%D1%87%D0%B5%D0%B2_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%A2%D1%83%D0%BB%D0%B0)"
+    },
+    {
+      "id": 281,
+      "wikidata_id": "Q65175845",
+      "name_ru": "Уздринская пустынь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B7%D0%B4%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C"
+    },
+    {
+      "id": 282,
+      "wikidata_id": "Q16710525",
+      "name_ru": "Усманский Софийский монастырь",
+      "name_en": "",
+      "located_in_at": "Усманский район",
+      "latitude": 52.013103,
+      "longitude": 39.749772,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D1%84%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 283,
+      "wikidata_id": "Q21663711",
+      "name_ru": "Успенская Рябкинская пустынь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 54.3348,
+      "longitude": 43.9291,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D1%8F%D0%B1%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C"
+    },
+    {
+      "id": 284,
+      "wikidata_id": "Q24935254",
+      "name_ru": "Успенский Кержебельмашский монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 57.18861,
+      "longitude": 44.50389,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D0%B5%D1%80%D0%B6%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C%D0%BC%D0%B0%D1%88%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 285,
+      "wikidata_id": "Q4478040",
+      "name_ru": "Успенский монастырь",
+      "name_en": "Uspensky Convent",
+      "located_in_at": "Тула",
+      "latitude": 54.193041,
+      "longitude": 37.619696,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%A2%D1%83%D0%BB%D0%B0)"
+    },
+    {
+      "id": 286,
+      "wikidata_id": "Q4478338",
+      "name_ru": "Устуу-Хурээ",
+      "name_en": "Ustuu-Huree",
+      "located_in_at": "Тыва",
+      "latitude": 51.258056,
+      "longitude": 91.653611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D1%82%D1%83%D1%83-%D0%A5%D1%83%D1%80%D1%8D%D1%8D"
+    },
+    {
+      "id": 287,
+      "wikidata_id": "Q28667166",
+      "name_ru": "Усть-Киренский Троицкий монастырь",
+      "name_en": "Troitsky monastery",
+      "located_in_at": "Киренск",
+      "latitude": 57.774141,
+      "longitude": 108.118572,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D1%82%D1%8C-%D0%9A%D0%B8%D1%80%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 288,
+      "wikidata_id": "Q4478494",
+      "name_ru": "Усть-Медведицкий Спасо-Преображенский монастырь",
+      "name_en": "Ust-Medveditskaya Transfiguration Monastery",
+      "located_in_at": "Серафимович",
+      "latitude": 49.566389,
+      "longitude": 42.696667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D1%82%D1%8C-%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 289,
+      "wikidata_id": "Q4478667",
+      "name_ru": "Устьнедумский монастырь",
+      "name_en": "Ustnedumsky Monastery",
+      "located_in_at": "Озерская",
+      "latitude": 60.645389,
+      "longitude": 47.179722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D1%82%D1%8C%D0%BD%D0%B5%D0%B4%D1%83%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 290,
+      "wikidata_id": "Q4478711",
+      "name_ru": "Устюжский Иоанно-Предтеченский монастырь",
+      "name_en": "",
+      "located_in_at": "Великий Устюг",
+      "latitude": 60.766667,
+      "longitude": 46.311667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D1%82%D1%8E%D0%B6%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BE%D0%B0%D0%BD%D0%BD%D0%BE-%D0%9F%D1%80%D0%B5%D0%B4%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 291,
+      "wikidata_id": "Q105931404",
+      "name_ru": "Уфимский Благовещенский монастырь",
+      "name_en": "Annunciation Monastery in Ufa",
+      "located_in_at": "Уфа",
+      "latitude": 54.7078,
+      "longitude": 55.9673,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%84%D0%B8%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 292,
+      "wikidata_id": "Q30889693",
+      "name_ru": "Уфимский Успенский мужской монастырь",
+      "name_en": "Monastery of the Dormition of the Theotokos, Ufa",
+      "located_in_at": "Уфа",
+      "latitude": 54.6926,
+      "longitude": 55.9966,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%84%D0%B8%D0%BC%D1%81%D0%BA%D0%B8%D0%B9_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 293,
+      "wikidata_id": "Q15664997",
+      "name_ru": "Ущельский Иовский монастырь",
+      "name_en": "Uschelsky Iovsky monastery",
+      "located_in_at": "",
+      "latitude": 64.926639,
+      "longitude": 45.651486,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%89%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 294,
+      "wikidata_id": "Q138822275",
+      "name_ru": "Фёдоровский корпус Александро-Невской лавры",
+      "name_en": "",
+      "located_in_at": "Центральный район",
+      "latitude": 59.9205,
+      "longitude": 30.389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 295,
+      "wikidata_id": "Q4498906",
+      "name_ru": "Хойморский дацан",
+      "name_en": "Khoymorsky datsan",
+      "located_in_at": "Аршан",
+      "latitude": 51.908611,
+      "longitude": 102.428889,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%B9%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B0%D1%86%D0%B0%D0%BD_%C2%AB%D0%91%D0%BE%D0%B4%D1%85%D0%B8%D0%B4%D1%85%D0%B0%D1%80%D0%BC%D0%B0%C2%BB"
+    },
+    {
+      "id": 296,
+      "wikidata_id": "Q4499207",
+      "name_ru": "Холмогорский Успенский монастырь",
+      "name_en": "Uspensky Monastery",
+      "located_in_at": "Холмогоры",
+      "latitude": 64.218542,
+      "longitude": 41.659319,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D0%BC%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 297,
+      "wikidata_id": "Q4237618",
+      "name_ru": "Церковь Троицы Живоначальной (Крапивна)",
+      "name_en": "Holy Trinity Church (Krapivna)",
+      "located_in_at": "Крапивна",
+      "latitude": 53.940441,
+      "longitude": 37.156692,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 298,
+      "wikidata_id": "Q4511895",
+      "name_ru": "Чепочкин Спасский монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 57.177924,
+      "longitude": 50.102436,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BF%D0%BE%D1%87%D0%BA%D0%B8%D0%BD_%D0%A1%D0%BF%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 299,
+      "wikidata_id": "Q4512583",
+      "name_ru": "Чердынский Успенский монастырь",
+      "name_en": "Church of the Dormition",
+      "located_in_at": "Чердынь",
+      "latitude": 60.400867,
+      "longitude": 56.484232,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%B4%D1%8B%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 300,
+      "wikidata_id": "Q4512686",
+      "name_ru": "Череменецкий Иоанно-Богословский монастырь",
+      "name_en": "Cheremenetsky Monastery",
+      "located_in_at": "Череменец",
+      "latitude": 58.605625,
+      "longitude": 29.958717,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%98%D0%BE%D0%B0%D0%BD%D0%BD%D0%BE-%D0%91%D0%BE%D0%B3%D0%BE%D1%81%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 301,
+      "wikidata_id": "Q4512928",
+      "name_ru": "Череповецкий Воскресенский монастырь",
+      "name_en": "Cherepovets Resurrection Monastery",
+      "located_in_at": "Череповец",
+      "latitude": 59.118611,
+      "longitude": 37.926944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%B5%D0%BF%D0%BE%D0%B2%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 302,
+      "wikidata_id": "Q4515899",
+      "name_ru": "Чикойский монастырь",
+      "name_en": "Chikoĭskiĭ monastyrʹ",
+      "located_in_at": "Красночикойский район",
+      "latitude": 49.987531,
+      "longitude": 107.916671,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B8%D0%BA%D0%BE%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BE%D0%B0%D0%BD%D0%BD%D0%BE-%D0%9F%D1%80%D0%B5%D0%B4%D1%82%D0%B5%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 303,
+      "wikidata_id": "Q4516670",
+      "name_ru": "Читинский дацан",
+      "name_en": "Chitinsky Datsan",
+      "located_in_at": "",
+      "latitude": 52.053653,
+      "longitude": 113.510031,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B8%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B0%D1%86%D0%B0%D0%BD"
+    },
+    {
+      "id": 304,
+      "wikidata_id": "Q16718563",
+      "name_ru": "Чолнский Спасский монастырь",
+      "name_en": "",
+      "located_in_at": "Трубчевский район",
+      "latitude": 52.54016,
+      "longitude": 33.62475,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%BE%D0%BB%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BF%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 305,
+      "wikidata_id": "Q28667082",
+      "name_ru": "Шавыкина пустынь",
+      "name_en": "",
+      "located_in_at": "Сергиево-Посадский район",
+      "latitude": 56.641306,
+      "longitude": 38.067653,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B2%D1%8B%D0%BA%D0%B8%D0%BD%D0%B0_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C"
+    },
+    {
+      "id": 306,
+      "wikidata_id": "Q4519900",
+      "name_ru": "Шамординский монастырь",
+      "name_en": "Shamordino Convent",
+      "located_in_at": "Козельский район",
+      "latitude": 54.16076,
+      "longitude": 35.86628,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%BC%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 307,
+      "wikidata_id": "Q16719477",
+      "name_ru": "Шаровкин Успенский монастырь",
+      "name_en": "Uspensky monastery, Ilyinskoye",
+      "located_in_at": "Ильинское",
+      "latitude": 54.20321,
+      "longitude": 36.07953,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%80%D0%BE%D0%B2%D0%BA%D0%B8%D0%BD_%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 308,
+      "wikidata_id": "Q16719544",
+      "name_ru": "Шатрищегорский Спасо-Преображенский монастырь",
+      "name_en": "Shatrische",
+      "located_in_at": "Вязники",
+      "latitude": 50.968883,
+      "longitude": 39.426511,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%82%D1%80%D0%B8%D1%89%D0%B5%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BF%D0%B0%D1%81%D0%BE-%D0%9F%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 309,
+      "wikidata_id": "Q24933073",
+      "name_ru": "Шедруб Линг",
+      "name_en": "Bshad sgrub gling",
+      "located_in_at": "Косья",
+      "latitude": 58.801111,
+      "longitude": 59.363889,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B5%D0%B4%D1%80%D1%83%D0%B1_%D0%9B%D0%B8%D0%BD%D0%B3"
+    },
+    {
+      "id": 310,
+      "wikidata_id": "Q15664279",
+      "name_ru": "Шенкурский Свято-Троицкий монастырь",
+      "name_en": "Monastery of Holy Trinity",
+      "located_in_at": "Шенкурск",
+      "latitude": 62.103369,
+      "longitude": 42.904628,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B5%D0%BD%D0%BA%D1%83%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE-%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 311,
+      "wikidata_id": "Q12172491",
+      "name_ru": "Шулдан",
+      "name_en": "Shuldan",
+      "located_in_at": "Терновка",
+      "latitude": 44.59135,
+      "longitude": 33.77182,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D1%83%D0%BB%D0%B4%D0%B0%D0%BD"
+    },
+    {
+      "id": 312,
+      "wikidata_id": "Q4533720",
+      "name_ru": "Югская Дорофеева пустынь",
+      "name_en": "Yugskaya Dorofeeva Pustyn",
+      "located_in_at": "Рыбинский уезд",
+      "latitude": 58.1157,
+      "longitude": 38.5926,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AE%D0%B3%D1%81%D0%BA%D0%B0%D1%8F_%D0%94%D0%BE%D1%80%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B0_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D1%8C"
+    },
+    {
+      "id": 313,
+      "wikidata_id": "Q4536634",
+      "name_ru": "Якиманский монастырь (Можайск)",
+      "name_en": "Saints Joachim and Anne Monastery, Mozhaysk",
+      "located_in_at": "Можайск",
+      "latitude": 55.511389,
+      "longitude": 36.016389,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AF%D0%BA%D0%B8%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9C%D0%BE%D0%B6%D0%B0%D0%B9%D1%81%D0%BA)"
+    },
+    {
+      "id": 314,
+      "wikidata_id": "Q21645876",
+      "name_ru": "Янгажинский дацан",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 51.566,
+      "longitude": 107.1,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AF%D0%BD%D0%B3%D0%B0%D0%B6%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B0%D1%86%D0%B0%D0%BD"
+    },
+    {
+      "id": 315,
+      "wikidata_id": "Q4538499",
+      "name_ru": "Яранский Владимирский Новодевичий монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 57.295556,
+      "longitude": 47.890833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AF%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%9D%D0%BE%D0%B2%D0%BE%D0%B4%D0%B5%D0%B2%D0%B8%D1%87%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 316,
+      "wikidata_id": "Q4538500",
+      "name_ru": "Яранский Вознесенский монастырь",
+      "name_en": "",
+      "located_in_at": "Яранск",
+      "latitude": 57.29772,
+      "longitude": 47.873598,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AF%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%92%D0%BE%D0%B7%D0%BD%D0%B5%D1%81%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    },
+    {
+      "id": 317,
+      "wikidata_id": "Q4538501",
+      "name_ru": "Яранский Пророчицкий монастырь",
+      "name_en": "",
+      "located_in_at": "",
+      "latitude": 57.298472,
+      "longitude": 47.873333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AF%D1%80%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%9F%D1%80%D0%BE%D1%80%D0%BE%D1%87%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C"
+    }
+  ],
+  "meta": {
+    "title": "Монастыри России (Monasteries of Russia) - Бесплатная загрузка",
+    "description": "Список объектов категории «монастыри», расположенных на территории России. Сортировка по русскому названию (по алфавиту). Источник — публичная конечная точка SPARQL Wikidata (query.wikidata.org). Для каждого объекта приводятся русское название (rdfs:label@ru), английская метка, административно-территориальная принадлежность (P131), координаты (WGS84, P625) и ссылка на русскую Википедию. Объекты без русской метки исключены согласно правилу сохранения языка оригинала. Лицензия CC0-1.0. Содержит 317 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Монастыри России (Monasteries of Russia) | ListBase",
+    "seo_description": "Скачать Монастыри России (Monasteries of Russia) — 317 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 317 записей / 8 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

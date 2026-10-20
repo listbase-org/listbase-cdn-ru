@@ -1,0 +1,232 @@
+{
+  "id": "ru-stavropolskiy-kray-goroda",
+  "name": "Города — Ставропольский край",
+  "title": "Города — Ставропольский край",
+  "description": "19 городов региона «Ставропольский край» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Благодарный",
+      "population_thousands": 30.4,
+      "latitude": 45.0989782,
+      "longitude": 43.4306455,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Буденновск",
+      "population_thousands": 61.3,
+      "latitude": 44.7816067,
+      "longitude": 44.1650339,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Георгиевск",
+      "population_thousands": 66.4,
+      "latitude": 44.1485694,
+      "longitude": 43.4739851,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Ессентуки",
+      "population_thousands": 113.1,
+      "latitude": 44.0446186,
+      "longitude": 42.8588653,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Железноводск",
+      "population_thousands": 24.9,
+      "latitude": 44.1320568,
+      "longitude": 43.0306461,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Зеленокумск",
+      "population_thousands": 34.1,
+      "latitude": 44.4032668,
+      "longitude": 43.8841877,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Изобильный",
+      "population_thousands": 37.8,
+      "latitude": 45.3684296,
+      "longitude": 41.708702,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Ипатово",
+      "population_thousands": 23.2,
+      "latitude": 45.7181751,
+      "longitude": 42.8970206,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Кисловодск",
+      "population_thousands": 128.8,
+      "latitude": 43.9052044,
+      "longitude": 42.7168721,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Лермонтов",
+      "population_thousands": 22.9,
+      "latitude": 44.1054107,
+      "longitude": 42.973135,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Минеральные Воды",
+      "population_thousands": 73.9,
+      "latitude": 44.2087273,
+      "longitude": 43.138408,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Михайловск",
+      "population_thousands": 95.7,
+      "latitude": 45.1297323,
+      "longitude": 42.0288443,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Невинномысск",
+      "population_thousands": 116.7,
+      "latitude": 44.6226031,
+      "longitude": 41.9476723,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Нефтекумск",
+      "population_thousands": 24.4,
+      "latitude": 44.7544552,
+      "longitude": 44.9865347,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Новоалександровск",
+      "population_thousands": 26.5,
+      "latitude": 45.4932733,
+      "longitude": 41.2153996,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Новопавловск",
+      "population_thousands": 26.1,
+      "latitude": 43.9617097,
+      "longitude": 43.6342865,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Пятигорск",
+      "population_thousands": 147.9,
+      "latitude": 44.041091,
+      "longitude": 43.0661553,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Светлоград",
+      "population_thousands": 35.4,
+      "latitude": 45.328659,
+      "longitude": 42.8565714,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Ставрополь",
+      "population_thousands": 450.7,
+      "latitude": 45.044516,
+      "longitude": 41.9689655,
+      "region_name": "Ставропольский край",
+      "region_iso_code": "RU-STA",
+      "federal_district": "Северо-Кавказский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Ставропольский край - Бесплатная загрузка",
+    "description": "19 городов региона «Ставропольский край» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 19 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Ставропольский край | ListBase",
+    "seo_description": "Скачать Города — Ставропольский край — 19 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 19 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

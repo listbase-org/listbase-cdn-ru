@@ -1,0 +1,187 @@
+{
+  "id": "ru-pskovskaya-oblast-goroda",
+  "name": "Города — Псковская область",
+  "title": "Города — Псковская область",
+  "description": "14 городов региона «Псковская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Великие Луки",
+      "population_thousands": 90.9,
+      "latitude": 56.332208,
+      "longitude": 30.5508641,
+      "region_name": "Псковская область",
+      "region_iso_code": "RU-PSK",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Гдов",
+      "population_thousands": 3.3,
+      "latitude": 58.7432429,
+      "longitude": 27.8264809,
+      "region_name": "Псковская область",
+      "region_iso_code": "RU-PSK",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Дно",
+      "population_thousands": 7.4,
+      "latitude": 57.826974,
+      "longitude": 29.9629389,
+      "region_name": "Псковская область",
+      "region_iso_code": "RU-PSK",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Невель",
+      "population_thousands": 14.5,
+      "latitude": 56.0201973,
+      "longitude": 29.9239983,
+      "region_name": "Псковская область",
+      "region_iso_code": "RU-PSK",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Новоржев",
+      "population_thousands": 3.1,
+      "latitude": 57.029807,
+      "longitude": 29.3433083,
+      "region_name": "Псковская область",
+      "region_iso_code": "RU-PSK",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Новосокольники",
+      "population_thousands": 7,
+      "latitude": 56.3408431,
+      "longitude": 30.1527573,
+      "region_name": "Псковская область",
+      "region_iso_code": "RU-PSK",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Опочка",
+      "population_thousands": 9.5,
+      "latitude": 56.710725,
+      "longitude": 28.6717519,
+      "region_name": "Псковская область",
+      "region_iso_code": "RU-PSK",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Остров",
+      "population_thousands": 20.5,
+      "latitude": 57.3451528,
+      "longitude": 28.3437593,
+      "region_name": "Псковская область",
+      "region_iso_code": "RU-PSK",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Печоры",
+      "population_thousands": 9.3,
+      "latitude": 57.8145817,
+      "longitude": 27.622259,
+      "region_name": "Псковская область",
+      "region_iso_code": "RU-PSK",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Порхов",
+      "population_thousands": 8.3,
+      "latitude": 57.7765219,
+      "longitude": 29.5436626,
+      "region_name": "Псковская область",
+      "region_iso_code": "RU-PSK",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Псков",
+      "population_thousands": 210.3,
+      "latitude": 57.8194415,
+      "longitude": 28.3317198,
+      "region_name": "Псковская область",
+      "region_iso_code": "RU-PSK",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Пустошка",
+      "population_thousands": 3.9,
+      "latitude": 56.3374813,
+      "longitude": 29.3668055,
+      "region_name": "Псковская область",
+      "region_iso_code": "RU-PSK",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Пыталово",
+      "population_thousands": 5.4,
+      "latitude": 57.0637952,
+      "longitude": 27.9236214,
+      "region_name": "Псковская область",
+      "region_iso_code": "RU-PSK",
+      "federal_district": "Северо-Западный"
+    },
+    {
+      "name": "Себеж",
+      "population_thousands": 5.3,
+      "latitude": 56.2908554,
+      "longitude": 28.4724326,
+      "region_name": "Псковская область",
+      "region_iso_code": "RU-PSK",
+      "federal_district": "Северо-Западный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Псковская область - Бесплатная загрузка",
+    "description": "14 городов региона «Псковская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 14 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Псковская область | ListBase",
+    "seo_description": "Скачать Города — Псковская область — 14 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 14 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "id": "ru-nizhegorodskaya-oblast-goroda",
+  "name": "Города — Нижегородская область",
+  "title": "Города — Нижегородская область",
+  "description": "28 городов региона «Нижегородская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Арзамас",
+      "population_thousands": 104,
+      "latitude": 55.3945814,
+      "longitude": 43.8408141,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Балахна",
+      "population_thousands": 48.5,
+      "latitude": 56.495036,
+      "longitude": 43.5758423,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Богородск",
+      "population_thousands": 33.8,
+      "latitude": 56.1020828,
+      "longitude": 43.5135442,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Бор",
+      "population_thousands": 76.9,
+      "latitude": 56.3565458,
+      "longitude": 44.0646481,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Ветлуга",
+      "population_thousands": 8.3,
+      "latitude": 57.8559204,
+      "longitude": 45.7761957,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Володарск",
+      "population_thousands": 9.9,
+      "latitude": 56.2169751,
+      "longitude": 43.1596417,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Ворсма",
+      "population_thousands": 10.3,
+      "latitude": 55.989943,
+      "longitude": 43.2718859,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Выкса",
+      "population_thousands": 53,
+      "latitude": 55.3207727,
+      "longitude": 42.1678834,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Горбатов",
+      "population_thousands": 1.8,
+      "latitude": 56.1307769,
+      "longitude": 43.0626185,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Городец",
+      "population_thousands": 29.7,
+      "latitude": 56.6449218,
+      "longitude": 43.4723104,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Дзержинск",
+      "population_thousands": 229,
+      "latitude": 56.2376047,
+      "longitude": 43.4599416,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Заволжье",
+      "population_thousands": 37.6,
+      "latitude": 56.6404286,
+      "longitude": 43.3872492,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Княгинино",
+      "population_thousands": 6.5,
+      "latitude": 55.8205915,
+      "longitude": 45.032337,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Кстово",
+      "population_thousands": 67.8,
+      "latitude": 56.1432084,
+      "longitude": 44.1664198,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Кулебаки",
+      "population_thousands": 31.8,
+      "latitude": 55.4296181,
+      "longitude": 42.5125538,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Лукоянов",
+      "population_thousands": 13.8,
+      "latitude": 55.0326225,
+      "longitude": 44.4933807,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Лысково",
+      "population_thousands": 21.1,
+      "latitude": 56.0262359,
+      "longitude": 45.035771,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Навашино",
+      "population_thousands": 14.6,
+      "latitude": 55.543811,
+      "longitude": 42.1887089,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Нижний Новгород",
+      "population_thousands": 1252.2,
+      "latitude": 56.3240627,
+      "longitude": 44.0053913,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Павлово",
+      "population_thousands": 56.7,
+      "latitude": 55.9797564,
+      "longitude": 43.0995042,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Первомайск",
+      "population_thousands": 13.3,
+      "latitude": 54.8675792,
+      "longitude": 43.8013992,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Перевоз",
+      "population_thousands": 8.7,
+      "latitude": 55.5967718,
+      "longitude": 44.5448369,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Саров",
+      "population_thousands": 96.1,
+      "latitude": 54.9228268,
+      "longitude": 43.3448089,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Семенов",
+      "population_thousands": 24.1,
+      "latitude": 56.7889794,
+      "longitude": 44.4902885,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Сергач",
+      "population_thousands": 19.9,
+      "latitude": 55.5201515,
+      "longitude": 45.4813231,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Урень",
+      "population_thousands": 12.3,
+      "latitude": 57.4612572,
+      "longitude": 45.7833293,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Чкаловск",
+      "population_thousands": 11.3,
+      "latitude": 56.7651262,
+      "longitude": 43.242077,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Шахунья",
+      "population_thousands": 19.7,
+      "latitude": 57.6764293,
+      "longitude": 46.6129009,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Нижегородская область - Бесплатная загрузка",
+    "description": "28 городов региона «Нижегородская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 28 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Нижегородская область | ListBase",
+    "seo_description": "Скачать Города — Нижегородская область — 28 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 28 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

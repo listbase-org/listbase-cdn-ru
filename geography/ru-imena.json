@@ -1,0 +1,216 @@
+{
+  "id": "ru-imena",
+  "name": "Ru Imena",
+  "title": "Ru Imena",
+  "description": "Топ-10 женских и топ-10 мужских имён в России по данным официального реестра актов гражданского состояния (2012)",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "gender",
+      "label": "Gender",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "O-RU-1-F-1",
+      "gender": "F",
+      "rank": 1,
+      "localized": "Анастасия",
+      "romanized": "Anastasia",
+      "year": 2012
+    },
+    {
+      "name_group": "O-RU-1-F-2",
+      "gender": "F",
+      "rank": 2,
+      "localized": "Елена",
+      "romanized": "Yelena",
+      "year": 2012
+    },
+    {
+      "name_group": "O-RU-1-F-3",
+      "gender": "F",
+      "rank": 3,
+      "localized": "Ольга",
+      "romanized": "Olga",
+      "year": 2012
+    },
+    {
+      "name_group": "O-RU-1-F-4",
+      "gender": "F",
+      "rank": 4,
+      "localized": "Наталья",
+      "romanized": "Natalia",
+      "year": 2012
+    },
+    {
+      "name_group": "O-RU-1-F-5",
+      "gender": "F",
+      "rank": 5,
+      "localized": "Екатерина",
+      "romanized": "Yekaterina",
+      "year": 2012
+    },
+    {
+      "name_group": "O-RU-1-F-6",
+      "gender": "F",
+      "rank": 6,
+      "localized": "Анна",
+      "romanized": "Anna",
+      "year": 2012
+    },
+    {
+      "name_group": "O-RU-1-F-7",
+      "gender": "F",
+      "rank": 7,
+      "localized": "Татьяна",
+      "romanized": "Tatiana",
+      "year": 2012
+    },
+    {
+      "name_group": "O-RU-1-F-8",
+      "gender": "F",
+      "rank": 8,
+      "localized": "Мария",
+      "romanized": "Maria",
+      "year": 2012
+    },
+    {
+      "name_group": "O-RU-1-F-9",
+      "gender": "F",
+      "rank": 9,
+      "localized": "Ирина",
+      "romanized": "Irina",
+      "year": 2012
+    },
+    {
+      "name_group": "O-RU-1-F-10",
+      "gender": "F",
+      "rank": 10,
+      "localized": "Юлия",
+      "romanized": "Yulia",
+      "year": 2012
+    },
+    {
+      "name_group": "O-RU-1-M-1",
+      "gender": "M",
+      "rank": 1,
+      "localized": "Александр",
+      "romanized": "Alexander",
+      "year": 2012
+    },
+    {
+      "name_group": "O-RU-1-M-2",
+      "gender": "M",
+      "rank": 2,
+      "localized": "Сергей",
+      "romanized": "Sergei",
+      "year": 2012
+    },
+    {
+      "name_group": "O-RU-1-M-3",
+      "gender": "M",
+      "rank": 3,
+      "localized": "Дмитрий",
+      "romanized": "Dmitry",
+      "year": 2012
+    },
+    {
+      "name_group": "O-RU-1-M-4",
+      "gender": "M",
+      "rank": 4,
+      "localized": "Андрей",
+      "romanized": "Andrei",
+      "year": 2012
+    },
+    {
+      "name_group": "O-RU-1-M-5",
+      "gender": "M",
+      "rank": 5,
+      "localized": "Алексей",
+      "romanized": "Alexey",
+      "year": 2012
+    },
+    {
+      "name_group": "O-RU-1-M-6",
+      "gender": "M",
+      "rank": 6,
+      "localized": "Максим",
+      "romanized": "Maxim",
+      "year": 2012
+    },
+    {
+      "name_group": "O-RU-1-M-7",
+      "gender": "M",
+      "rank": 7,
+      "localized": "Евгений",
+      "romanized": "Evgeny",
+      "year": 2012
+    },
+    {
+      "name_group": "O-RU-1-M-8",
+      "gender": "M",
+      "rank": 8,
+      "localized": "Иван",
+      "romanized": "Ivan",
+      "year": 2012
+    },
+    {
+      "name_group": "O-RU-1-M-9",
+      "gender": "M",
+      "rank": 9,
+      "localized": "Михаил",
+      "romanized": "Mikhail",
+      "year": 2012
+    },
+    {
+      "name_group": "O-RU-1-M-10",
+      "gender": "M",
+      "rank": 10,
+      "localized": "Артём",
+      "romanized": "Artyom",
+      "year": 2012
+    }
+  ],
+  "meta": {
+    "title": "Ru Imena - Бесплатная загрузка",
+    "description": "Топ-10 женских и топ-10 мужских имён в России по данным официального реестра актов гражданского состояния (2012) Содержит 20 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Ru Imena | ListBase",
+    "seo_description": "Скачать Ru Imena — 20 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 20 записей / 6 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

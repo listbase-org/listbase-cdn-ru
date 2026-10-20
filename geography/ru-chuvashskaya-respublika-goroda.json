@@ -1,0 +1,142 @@
+{
+  "id": "ru-chuvashskaya-respublika-goroda",
+  "name": "Города — Чувашская Республика",
+  "title": "Города — Чувашская Республика",
+  "description": "9 городов региона «Чувашская Республика» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Алатырь",
+      "population_thousands": 33.8,
+      "latitude": 54.8397989,
+      "longitude": 46.5721997,
+      "region_name": "Чувашская Республика",
+      "region_iso_code": "RU-CU",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Канаш",
+      "population_thousands": 44.8,
+      "latitude": 55.507,
+      "longitude": 47.4918273,
+      "region_name": "Чувашская Республика",
+      "region_iso_code": "RU-CU",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Козловка",
+      "population_thousands": 8.6,
+      "latitude": 55.8406025,
+      "longitude": 48.2577735,
+      "region_name": "Чувашская Республика",
+      "region_iso_code": "RU-CU",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Мариинский Посад",
+      "population_thousands": 8.5,
+      "latitude": 56.111923,
+      "longitude": 47.7142942,
+      "region_name": "Чувашская Республика",
+      "region_iso_code": "RU-CU",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Новочебоксарск",
+      "population_thousands": 127.2,
+      "latitude": 56.1094977,
+      "longitude": 47.4791113,
+      "region_name": "Чувашская Республика",
+      "region_iso_code": "RU-CU",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Цивильск",
+      "population_thousands": 15,
+      "latitude": 55.8650213,
+      "longitude": 47.4729349,
+      "region_name": "Чувашская Республика",
+      "region_iso_code": "RU-CU",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Чебоксары",
+      "population_thousands": 497.6,
+      "latitude": 56.1438298,
+      "longitude": 47.2489782,
+      "region_name": "Чувашская Республика",
+      "region_iso_code": "RU-CU",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Шумерля",
+      "population_thousands": 28.4,
+      "latitude": 55.4962415,
+      "longitude": 46.4182681,
+      "region_name": "Чувашская Республика",
+      "region_iso_code": "RU-CU",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Ядрин",
+      "population_thousands": 8.2,
+      "latitude": 55.9406974,
+      "longitude": 46.2020896,
+      "region_name": "Чувашская Республика",
+      "region_iso_code": "RU-CU",
+      "federal_district": "Приволжский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Чувашская Республика - Бесплатная загрузка",
+    "description": "9 городов региона «Чувашская Республика» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 9 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Чувашская Республика | ListBase",
+    "seo_description": "Скачать Города — Чувашская Республика — 9 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 9 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

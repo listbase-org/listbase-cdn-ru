@@ -1,0 +1,322 @@
+{
+  "id": "ru-tyumenskaya-oblast-goroda",
+  "name": "Города — Тюменская область",
+  "title": "Города — Тюменская область",
+  "description": "29 городов региона «Тюменская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Белоярский",
+      "population_thousands": 19.6,
+      "latitude": 63.7121099,
+      "longitude": 66.6772226,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-KHM",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Губкинский",
+      "population_thousands": 29.2,
+      "latitude": 64.4457594,
+      "longitude": 76.4713274,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-YAN",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Заводоуковск",
+      "population_thousands": 26.5,
+      "latitude": 56.5027463,
+      "longitude": 66.5513613,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-TYU",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Ишим",
+      "population_thousands": 64.4,
+      "latitude": 56.1104858,
+      "longitude": 69.4795776,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-TYU",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Когалым",
+      "population_thousands": 67.7,
+      "latitude": 62.2639527,
+      "longitude": 74.4829794,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-KHM",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Лабытнанги",
+      "population_thousands": 26.3,
+      "latitude": 66.6592841,
+      "longitude": 66.3883009,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-YAN",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Лангепас",
+      "population_thousands": 44.6,
+      "latitude": 61.2536939,
+      "longitude": 75.1807763,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-KHM",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Лянтор",
+      "population_thousands": 41.2,
+      "latitude": 61.6392863,
+      "longitude": 72.179409,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-KHM",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Мегион",
+      "population_thousands": 46.6,
+      "latitude": 61.0318712,
+      "longitude": 76.1025878,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-KHM",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Муравленко",
+      "population_thousands": 31.6,
+      "latitude": 63.7940552,
+      "longitude": 74.4948635,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-YAN",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Надым",
+      "population_thousands": 44.8,
+      "latitude": 65.5377966,
+      "longitude": 72.5182736,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-YAN",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Нефтеюганск",
+      "population_thousands": 127.3,
+      "latitude": 61.0882676,
+      "longitude": 72.6164079,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-KHM",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Нижневартовск",
+      "population_thousands": 277.7,
+      "latitude": 60.9396698,
+      "longitude": 76.5696184,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-KHM",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Новый Уренгой",
+      "population_thousands": 118,
+      "latitude": 66.0839433,
+      "longitude": 76.6809681,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-YAN",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Ноябрьск",
+      "population_thousands": 106.9,
+      "latitude": 63.2018039,
+      "longitude": 75.4510581,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-YAN",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Нягань",
+      "population_thousands": 58.6,
+      "latitude": 62.1454701,
+      "longitude": 65.3946047,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-KHM",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Покачи",
+      "population_thousands": 18.1,
+      "latitude": 61.7422169,
+      "longitude": 75.5941517,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-KHM",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Пыть-Ях",
+      "population_thousands": 39.6,
+      "latitude": 60.7585833,
+      "longitude": 72.8365617,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-KHM",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Радужный",
+      "population_thousands": 43.7,
+      "latitude": 62.1342888,
+      "longitude": 77.4584094,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-KHM",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Салехард",
+      "population_thousands": 51,
+      "latitude": 66.5492077,
+      "longitude": 66.6085318,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-YAN",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Советский",
+      "population_thousands": 29.3,
+      "latitude": 61.3706913,
+      "longitude": 63.5667222,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-KHM",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Сургут",
+      "population_thousands": 380.6,
+      "latitude": 61.2541083,
+      "longitude": 73.3961587,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-KHM",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Тарко-Сале",
+      "population_thousands": 21.5,
+      "latitude": 64.9118803,
+      "longitude": 77.7610236,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-YAN",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Тобольск",
+      "population_thousands": 98.9,
+      "latitude": 58.2017299,
+      "longitude": 68.2538558,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-TYU",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Тюмень",
+      "population_thousands": 807.3,
+      "latitude": 57.1529744,
+      "longitude": 65.5344099,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-TYU",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Урай",
+      "population_thousands": 40.5,
+      "latitude": 60.1296954,
+      "longitude": 64.8038508,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-KHM",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Ханты-Мансийск",
+      "population_thousands": 101.5,
+      "latitude": 61.0023984,
+      "longitude": 69.0184798,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-KHM",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Югорск",
+      "population_thousands": 38,
+      "latitude": 61.3123568,
+      "longitude": 63.3365484,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-KHM",
+      "federal_district": "Уральский"
+    },
+    {
+      "name": "Ялуторовск",
+      "population_thousands": 40.3,
+      "latitude": 56.6547289,
+      "longitude": 66.3122992,
+      "region_name": "Тюменская область",
+      "region_iso_code": "RU-TYU",
+      "federal_district": "Уральский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Тюменская область - Бесплатная загрузка",
+    "description": "29 городов региона «Тюменская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 29 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Тюменская область | ListBase",
+    "seo_description": "Скачать Города — Тюменская область — 29 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 29 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

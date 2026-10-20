@@ -1,0 +1,361 @@
+{
+  "id": "ru-yaroslavskaya-oblast-aeroporty",
+  "name": "Аэропорты — Yaroslavl Oblast (RU-YAR)",
+  "title": "Аэропорты — Yaroslavl Oblast (RU-YAR)",
+  "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Yaroslavl Oblast (ISO 3166-2 RU-YAR) — 10 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"heliport\": 2, \"small_airport\": 5, \"closed\": 1, \"medium_airport\": 1, \"large_airport\": 1}. Извлечено из OurAirports.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 44640,
+      "ident": "RU-0177",
+      "type": "heliport",
+      "name": "Uglich Fominskoye Helipad",
+      "latitude_deg": 57.548500061035156,
+      "longitude_deg": 38.2953987121582,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-YAR",
+      "region_local_code": "YAR",
+      "region_name": "Yaroslavl Oblast",
+      "municipality": "Uglich",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Uglich Fominskoe Helipad, Вертолётная площадка Углич-Фоминское"
+    },
+    {
+      "id": 44751,
+      "ident": "RU-0202",
+      "type": "small_airport",
+      "name": "Karachikha Airfield",
+      "latitude_deg": 57.650002,
+      "longitude_deg": 39.759998,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-YAR",
+      "region_local_code": "YAR",
+      "region_name": "Yaroslavl Oblast",
+      "municipality": "Yaroslavl",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "XUDA",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Аэродром Карачиха"
+    },
+    {
+      "id": 44999,
+      "ident": "RU-0241",
+      "type": "small_airport",
+      "name": "Rybinsk Yuzhny Airfield",
+      "latitude_deg": 58,
+      "longitude_deg": 38.84,
+      "elevation_ft": "",
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-YAR",
+      "region_local_code": "YAR",
+      "region_name": "Yaroslavl Oblast",
+      "municipality": "Rybinsk",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Rybinsk South Airfield, Kstovo Airfield, Аэродром Рыбинск Южный, Аэродром Кстово"
+    },
+    {
+      "id": 330892,
+      "ident": "RU-0514",
+      "type": "small_airport",
+      "name": "Orlovka Airfield",
+      "latitude_deg": 56.143813,
+      "longitude_deg": 34.988268,
+      "elevation_ft": 676,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-YAR",
+      "region_local_code": "YAR",
+      "region_name": "Yaroslavl Oblast",
+      "municipality": "Petrovskoye",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0_(%D0%B0%D1%8D%D1%80%D0%BE%D0%B4%D1%80%D0%BE%D0%BC,_%D0%",
+      "keywords": "Орловка"
+    },
+    {
+      "id": 348670,
+      "ident": "RU-0768",
+      "type": "closed",
+      "name": "Romanovo Airfield",
+      "latitude_deg": 56.66735,
+      "longitude_deg": 39.24273,
+      "elevation_ft": 568,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-YAR",
+      "region_local_code": "YAR",
+      "region_name": "Yaroslavl Oblast",
+      "municipality": "Romanovo",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "ZCG1, ЗЦГ1, Романово, Lyubimtsevo"
+    },
+    {
+      "id": 605797,
+      "ident": "RU-10159",
+      "type": "small_airport",
+      "name": "Vasilevo Airstrip [INACTIVE]",
+      "latitude_deg": 56.55732,
+      "longitude_deg": 38.58063,
+      "elevation_ft": 664,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-YAR",
+      "region_local_code": "YAR",
+      "region_name": "Yaroslavl Oblast",
+      "municipality": "Vasilevo",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "ZB0N",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "ЗБ0Н, Василёво"
+    },
+    {
+      "id": 35119,
+      "ident": "RU-8974",
+      "type": "small_airport",
+      "name": "Yaroslavl Levtsovo",
+      "latitude_deg": 57.729377,
+      "longitude_deg": 40.046008,
+      "elevation_ft": 331,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-YAR",
+      "region_local_code": "YAR",
+      "region_name": "Yaroslavl Oblast",
+      "municipality": "Yaroslavl",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "UUBX",
+      "home_link": "http://avialevcovo.ru/",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Yaroslavl_Levtsovo",
+      "keywords": ""
+    },
+    {
+      "id": 605799,
+      "ident": "UUAE",
+      "type": "heliport",
+      "name": "Pereslavl-Zalessky Heliport",
+      "latitude_deg": 56.691653,
+      "longitude_deg": 38.842977,
+      "elevation_ft": 647,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-YAR",
+      "region_local_code": "YAR",
+      "region_name": "Yaroslavl Oblast",
+      "municipality": "Pereslavl-Zalessky",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "UUAE",
+      "local_code": "UUAE",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "УУАЕ, Переславль-Залесский"
+    },
+    {
+      "id": 32241,
+      "ident": "UUBK",
+      "type": "medium_airport",
+      "name": "Staroselye Airport",
+      "latitude_deg": 58.104198,
+      "longitude_deg": 38.929401,
+      "elevation_ft": 423,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-YAR",
+      "region_local_code": "YAR",
+      "region_name": "Yaroslavl Oblast",
+      "municipality": "Rybinsk",
+      "scheduled_service": "yes",
+      "icao_code": "UUBK",
+      "iata_code": "RYB",
+      "gps_code": "UUBK",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Staroselye_Airport",
+      "keywords": "Аэропорт Староселье, ЬУБК"
+    },
+    {
+      "id": 26395,
+      "ident": "UUDL",
+      "type": "large_airport",
+      "name": "Golden Ring Yaroslavl International Airport",
+      "latitude_deg": 57.560699,
+      "longitude_deg": 40.157398,
+      "elevation_ft": 287,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-YAR",
+      "region_local_code": "YAR",
+      "region_name": "Yaroslavl Oblast",
+      "municipality": "Tunoshna",
+      "scheduled_service": "yes",
+      "icao_code": "UUDL",
+      "iata_code": "IAR",
+      "gps_code": "UUDL",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Tunoshna",
+      "keywords": ""
+    }
+  ],
+  "meta": {
+    "title": "Аэропорты — Yaroslavl Oblast (RU-YAR) - Бесплатная загрузка",
+    "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Yaroslavl Oblast (ISO 3166-2 RU-YAR) — 10 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"heliport\": 2, \"small_airport\": 5, \"closed\": 1, \"medium_airport\": 1, \"large_airport\": 1}. Извлечено из OurAirports. Содержит 10 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Аэропорты — Yaroslavl Oblast (RU-YAR) | ListBase",
+    "seo_description": "Скачать Аэропорты — Yaroslavl Oblast (RU-YAR) — 10 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 10 записей / 21 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

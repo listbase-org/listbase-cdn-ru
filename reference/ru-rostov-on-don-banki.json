@@ -1,0 +1,345 @@
+{
+  "id": "ru-rostov-on-don-banki",
+  "name": "Банки — Rostov-On-Don (коды SWIFT/BIC)",
+  "title": "Банки — Rostov-On-Don (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in ROSTOV-ON-DON (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 47,
+      "bank": "ALFA-BANK",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(ROSTOV BRANCH)",
+      "swift_code": "ALFARUM1018"
+    },
+    {
+      "id": 125,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(ROSTOV BRANCH  2 B AND N BANK)",
+      "swift_code": "BINORU21RST"
+    },
+    {
+      "id": 126,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(ROSTOV-ON-DON BRANCH)",
+      "swift_code": "MOBWRUM1RST"
+    },
+    {
+      "id": 185,
+      "bank": "BANK OF REGION DEVELOPMENT",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(ROSTOVSKIY BRANCH BRD)",
+      "swift_code": "REDVRU21RND"
+    },
+    {
+      "id": 199,
+      "bank": "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(ROSTOV-ON-DON BRANCH)",
+      "swift_code": "JSNMRUMMRND"
+    },
+    {
+      "id": 208,
+      "bank": "BANK OTKRITIE FINANCIAL CORPORATION (PUBLIC JOINT-STOCK COMPANY) (FORMERLY KHANTY-MANSIYSK BANK OTKRITIE)",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(ROSTOV BRANCH)",
+      "swift_code": "RUDLRUM1ROS"
+    },
+    {
+      "id": 336,
+      "bank": "CENTER-INVEST BANK",
+      "city": "ROSTOV-ON-DON",
+      "branch": "",
+      "swift_code": "CCIVRU2R"
+    },
+    {
+      "id": 390,
+      "bank": "COMMERCIAL BANK ROSTOV UNIVERSAL",
+      "city": "ROSTOV-ON-DON",
+      "branch": "",
+      "swift_code": "COSVRU21"
+    },
+    {
+      "id": 448,
+      "bank": "EVROFINANCE MOSNARBANK",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(ROSTOV-ON-DON BRANCH)",
+      "swift_code": "EVRFRUM1RND"
+    },
+    {
+      "id": 480,
+      "bank": "FUNDSERVICEBANK",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(ROSTOV BRANCH)",
+      "swift_code": "FONBRUMMROS"
+    },
+    {
+      "id": 516,
+      "bank": "GLOBEXBANK",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(ROSTOVSKIJ BRANCH)",
+      "swift_code": "GLOBRUM1012"
+    },
+    {
+      "id": 526,
+      "bank": "HBRD-BANK",
+      "city": "ROSTOV-ON-DON",
+      "branch": "",
+      "swift_code": "KOOARU21"
+    },
+    {
+      "id": 578,
+      "bank": "INVESTMENT TRADE BANK PJSC",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(ROSTOVSKY BRANCH)",
+      "swift_code": "INVJRUM1RST"
+    },
+    {
+      "id": 641,
+      "bank": "JSB ROSEVROBANK (JSC)",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(ROSTOV-ON-DON BRANCH)",
+      "swift_code": "COMKRUMM090"
+    },
+    {
+      "id": 728,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(ROSTOVSKY BRANCH)",
+      "swift_code": "RUAGRUM1007"
+    },
+    {
+      "id": 809,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(ROSTOVSKOE REGIONAL DEPARTMENT)",
+      "swift_code": "MINNRUM1048"
+    },
+    {
+      "id": 858,
+      "bank": "LIMITED LIABILITY COMPANY OF COMMERCIAL BANK ROSTFINANCE",
+      "city": "ROSTOV-ON-DON",
+      "branch": "",
+      "swift_code": "ROSFRU2A"
+    },
+    {
+      "id": 865,
+      "bank": "LLC CB KREDIT EXPRESS",
+      "city": "ROSTOV-ON-DON",
+      "branch": "",
+      "swift_code": "LLCRRU2R"
+    },
+    {
+      "id": 870,
+      "bank": "LLS SOUTH REGIONAL BANK",
+      "city": "ROSTOV-ON-DON",
+      "branch": "",
+      "swift_code": "URBARU2R"
+    },
+    {
+      "id": 942,
+      "bank": "MTS BANK",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(ROSTOV-ON-DON)",
+      "swift_code": "MBRDRUM1RND"
+    },
+    {
+      "id": 962,
+      "bank": "NATIONAL BANK TRUST",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(ROSTOV-ON-DON BRANCH)",
+      "swift_code": "NBTRRUM1ROS"
+    },
+    {
+      "id": 1020,
+      "bank": "OAO AKB 'STELLA-BANK.'",
+      "city": "ROSTOV-ON-DON",
+      "branch": "",
+      "swift_code": "SJSORU21"
+    },
+    {
+      "id": 1104,
+      "bank": "PJSC DONCOMBANK",
+      "city": "ROSTOV-ON-DON",
+      "branch": "",
+      "swift_code": "DONORU2R"
+    },
+    {
+      "id": 1125,
+      "bank": "PJSC ROSBANK",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(YUJNYIY BRANCH)",
+      "swift_code": "RSBNRUM1RND"
+    },
+    {
+      "id": 1181,
+      "bank": "RAKB 'DONHLEBBANK' OAO",
+      "city": "ROSTOV-ON-DON",
+      "branch": "",
+      "swift_code": "DONKRU21"
+    },
+    {
+      "id": 1187,
+      "bank": "REGIONAL EXCHANGE CENTER MICEX-SOUTH",
+      "city": "ROSTOV-ON-DON",
+      "branch": "",
+      "swift_code": "XROVRU21"
+    },
+    {
+      "id": 1209,
+      "bank": "ROSGOSSTRAKH BANK",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(ROSTOV-ON-DON BRANCH)",
+      "swift_code": "RUIDRUM1ROV"
+    },
+    {
+      "id": 1243,
+      "bank": "ROST BANK",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(ROSTOV-DON BRANCH)",
+      "swift_code": "JORORU21RDB"
+    },
+    {
+      "id": 1264,
+      "bank": "ROSTPROMSTROYBANK",
+      "city": "ROSTOV-ON-DON",
+      "branch": "",
+      "swift_code": "ROOARU21"
+    },
+    {
+      "id": 1285,
+      "bank": "RUSSKY NATZIONALNY BANK",
+      "city": "ROSTOV-ON-DON",
+      "branch": "",
+      "swift_code": "RUNARU21"
+    },
+    {
+      "id": 1318,
+      "bank": "SBERBANK",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(YUGO-ZAPADNY HEAD OFFICE)",
+      "swift_code": "SABRRUMMRA1"
+    },
+    {
+      "id": 1342,
+      "bank": "SDM-BANK PJSC",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(ROSTOV-ON-DON BRANCH)",
+      "swift_code": "SJSCRUMMRND"
+    },
+    {
+      "id": 1349,
+      "bank": "SELMASHBANK, CRA",
+      "city": "ROSTOV-ON-DON",
+      "branch": "",
+      "swift_code": "SELARU21"
+    },
+    {
+      "id": 1387,
+      "bank": "SOBINBANK",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(ROSTOV-NA-DONU BRANCH)",
+      "swift_code": "SBBARUM1022"
+    },
+    {
+      "id": 1501,
+      "bank": "TRANSKAPITALBANK",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(ROSTOV BRANCH)",
+      "swift_code": "TJSCRUM1RST"
+    },
+    {
+      "id": 1514,
+      "bank": "UFC BANK PJSC",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(ROSTOV-ON-DON BRANCH)",
+      "swift_code": "CLJARUM1RND"
+    },
+    {
+      "id": 1568,
+      "bank": "VOZROZHDENIE BANK",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(ROSTOV-ON-DON BRANCH)",
+      "swift_code": "VBNKRUM1RND"
+    },
+    {
+      "id": 1598,
+      "bank": "VTB BANK (PJSC)",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(ROSTOV-ON-DON BRANCH)",
+      "swift_code": "VTBRRUM2RND"
+    },
+    {
+      "id": 1599,
+      "bank": "VTB BANK (PJSC)",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(YUZHNYI BRANCH, ROSTOV-ON-DON)",
+      "swift_code": "VTBRRUM2RN2"
+    },
+    {
+      "id": 1621,
+      "bank": "YUZHNY REGION CB",
+      "city": "ROSTOV-ON-DON",
+      "branch": "",
+      "swift_code": "YURERU21"
+    },
+    {
+      "id": 1630,
+      "bank": "ZEMCOMBANK",
+      "city": "ROSTOV-ON-DON",
+      "branch": "",
+      "swift_code": "ZEMCRU22"
+    },
+    {
+      "id": 1639,
+      "bank": "ZENIT BANK",
+      "city": "ROSTOV-ON-DON",
+      "branch": "(ROSTOV-ON-DON BRANCH)",
+      "swift_code": "ZENIRUM1RND"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Rostov-On-Don (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in ROSTOV-ON-DON (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 42 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Rostov-On-Don (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Rostov-On-Don (коды SWIFT/BIC) — 42 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 42 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

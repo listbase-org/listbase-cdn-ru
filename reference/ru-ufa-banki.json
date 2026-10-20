@@ -1,0 +1,184 @@
+{
+  "id": "ru-ufa-banki",
+  "name": "Банки — Ufa (коды SWIFT/BIC)",
+  "title": "Банки — Ufa (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in UFA (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 27,
+      "bank": "AK BARS BANK",
+      "city": "UFA",
+      "branch": "(UFA BRANCH)",
+      "swift_code": "ARRSRU21UFA"
+    },
+    {
+      "id": 139,
+      "bank": "B AND N BANK (PUBLIC JOINT-STOCK COMPANY)",
+      "city": "UFA",
+      "branch": "(UFA BRANCH)",
+      "swift_code": "MOBWRUM1UFA"
+    },
+    {
+      "id": 234,
+      "bank": "BANK ''ROSSIYA''",
+      "city": "UFA",
+      "branch": "(UFA BRANCH)",
+      "swift_code": "ROSYRU21UFA"
+    },
+    {
+      "id": 288,
+      "bank": "BASHCOMSNABBANK",
+      "city": "UFA",
+      "branch": "",
+      "swift_code": "BKSBRU4U"
+    },
+    {
+      "id": 290,
+      "bank": "BASHINVESTBANK",
+      "city": "UFA",
+      "branch": "",
+      "swift_code": "BAHNRU41"
+    },
+    {
+      "id": 291,
+      "bank": "BASHKOMSNABBANK AKB OAO",
+      "city": "UFA",
+      "branch": "",
+      "swift_code": "BSAARU41"
+    },
+    {
+      "id": 338,
+      "bank": "CENTRALNAYA REGISTRATURA OAO",
+      "city": "UFA",
+      "branch": "",
+      "swift_code": "CERGRU41"
+    },
+    {
+      "id": 509,
+      "bank": "GAZPROMBANK (JOINT - STOCK COMPANY)",
+      "city": "UFA",
+      "branch": "(UFA BRANCH)",
+      "swift_code": "GAZPRUMM025"
+    },
+    {
+      "id": 741,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "UFA",
+      "branch": "(BASHKIRSKY BRANCH)",
+      "swift_code": "RUAGRUM1062"
+    },
+    {
+      "id": 863,
+      "bank": "LL PROMTRANSBANK",
+      "city": "UFA",
+      "branch": "",
+      "swift_code": "LLPRRU21"
+    },
+    {
+      "id": 931,
+      "bank": "MOSOBLBANK",
+      "city": "UFA",
+      "branch": "",
+      "swift_code": "MOBKRUM1020"
+    },
+    {
+      "id": 945,
+      "bank": "MTS BANK",
+      "city": "UFA",
+      "branch": "(UFIMSKY)",
+      "swift_code": "MBRDRUM1UFA"
+    },
+    {
+      "id": 1212,
+      "bank": "ROSGOSSTRAKH BANK",
+      "city": "UFA",
+      "branch": "(UFA BRANCH)",
+      "swift_code": "RUIDRUM1UFA"
+    },
+    {
+      "id": 1254,
+      "bank": "ROST BANK",
+      "city": "UFA",
+      "branch": "(UFA BRANCH)",
+      "swift_code": "JORORU21UFB"
+    },
+    {
+      "id": 1402,
+      "bank": "SOTSINVESTBANK",
+      "city": "UFA",
+      "branch": "",
+      "swift_code": "CSIBRU4U"
+    },
+    {
+      "id": 1444,
+      "bank": "SVIAZ-BANK",
+      "city": "UFA",
+      "branch": "(UFA BRANCH)",
+      "swift_code": "SVIZRUM1UFA"
+    },
+    {
+      "id": 1480,
+      "bank": "THE URAL BANK FOR RECONSTRUCTION AND DEVELOPMENT (UBRD, PJSC)",
+      "city": "UFA",
+      "branch": "",
+      "swift_code": "UBRDRU41UFA"
+    },
+    {
+      "id": 1525,
+      "bank": "URALCAPITALBANK",
+      "city": "UFA",
+      "branch": "",
+      "swift_code": "URACRU41"
+    },
+    {
+      "id": 1536,
+      "bank": "URALSIB BANK",
+      "city": "UFA",
+      "branch": "(UFA BRANCH)",
+      "swift_code": "AVTBRUM1002"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Ufa (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in UFA (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 19 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Ufa (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Ufa (коды SWIFT/BIC) — 19 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 19 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

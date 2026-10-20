@@ -1,0 +1,1861 @@
+{
+  "id": "ru-privolzhskiy-federalnyy-okrug-goroda",
+  "name": "Города — Приволжский федеральный округ",
+  "title": "Города — Приволжский федеральный округ",
+  "description": "200 городов в Приволжский федеральный округ с координатами, населением (тыс. чел., Росстат 2020), регионом и ISO-кодом региона.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 200,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Абдулино",
+      "population_thousands": 18.6,
+      "latitude": 53.6778906,
+      "longitude": 53.6472483,
+      "region_name": "Оренбургская область",
+      "region_iso_code": "RU-ORE",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Агидель",
+      "population_thousands": 14.2,
+      "latitude": 55.8999056,
+      "longitude": 53.9220144,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Агрыз",
+      "population_thousands": 19.7,
+      "latitude": 56.5232864,
+      "longitude": 52.9943775,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Азнакаево",
+      "population_thousands": 34.2,
+      "latitude": 54.8598642,
+      "longitude": 53.0745527,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Алатырь",
+      "population_thousands": 33.8,
+      "latitude": 54.8397989,
+      "longitude": 46.5721997,
+      "region_name": "Чувашская Республика",
+      "region_iso_code": "RU-CU",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Александровск",
+      "population_thousands": 11.9,
+      "latitude": 59.1613221,
+      "longitude": 57.5763459,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Альметьевск",
+      "population_thousands": 158.4,
+      "latitude": 54.9014619,
+      "longitude": 52.2970467,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Ардатов",
+      "population_thousands": 8.3,
+      "latitude": 54.8465544,
+      "longitude": 46.2411232,
+      "region_name": "Республика Мордовия",
+      "region_iso_code": "RU-MO",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Арзамас",
+      "population_thousands": 104,
+      "latitude": 55.3945814,
+      "longitude": 43.8408141,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Аркадак",
+      "population_thousands": 11.5,
+      "latitude": 51.938831,
+      "longitude": 43.4999221,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Арск",
+      "population_thousands": 20.4,
+      "latitude": 56.0912567,
+      "longitude": 49.877067,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Аткарск",
+      "population_thousands": 24.1,
+      "latitude": 51.8736062,
+      "longitude": 45.0003247,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Бавлы",
+      "population_thousands": 22.2,
+      "latitude": 54.4062891,
+      "longitude": 53.2458065,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Баймак",
+      "population_thousands": 17.2,
+      "latitude": 52.5912896,
+      "longitude": 58.3110998,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Балаково",
+      "population_thousands": 187.5,
+      "latitude": 52.0224231,
+      "longitude": 47.7827765,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Балахна",
+      "population_thousands": 48.5,
+      "latitude": 56.495036,
+      "longitude": 43.5758423,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Балашов",
+      "population_thousands": 75.8,
+      "latitude": 51.5388697,
+      "longitude": 43.1839757,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Барыш",
+      "population_thousands": 15.5,
+      "latitude": 53.6533992,
+      "longitude": 47.1181134,
+      "region_name": "Ульяновская область",
+      "region_iso_code": "RU-ULY",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Белая Холуница",
+      "population_thousands": 10.1,
+      "latitude": 58.8415239,
+      "longitude": 50.8460699,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Белебей",
+      "population_thousands": 59.2,
+      "latitude": 54.1034582,
+      "longitude": 54.1113129,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Белинский",
+      "population_thousands": 7.5,
+      "latitude": 52.9640996,
+      "longitude": 43.4183212,
+      "region_name": "Пензенская область",
+      "region_iso_code": "RU-PNZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Белорецк",
+      "population_thousands": 64.9,
+      "latitude": 53.9676488,
+      "longitude": 58.4100419,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Березники",
+      "population_thousands": 139.2,
+      "latitude": 59.4079923,
+      "longitude": 56.8039427,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Бирск",
+      "population_thousands": 46.5,
+      "latitude": 55.4155753,
+      "longitude": 55.5582214,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Благовещенск",
+      "population_thousands": 34.8,
+      "latitude": 55.0499867,
+      "longitude": 55.9553186,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Богородск",
+      "population_thousands": 33.8,
+      "latitude": 56.1020828,
+      "longitude": 43.5135442,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Болгар",
+      "population_thousands": 8.2,
+      "latitude": 54.974891,
+      "longitude": 49.0303882,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Бор",
+      "population_thousands": 76.9,
+      "latitude": 56.3565458,
+      "longitude": 44.0646481,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Бугульма",
+      "population_thousands": 82.5,
+      "latitude": 54.5363495,
+      "longitude": 52.7895849,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Бугуруслан",
+      "population_thousands": 48.5,
+      "latitude": 53.6523728,
+      "longitude": 52.4326853,
+      "region_name": "Оренбургская область",
+      "region_iso_code": "RU-ORE",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Бузулук",
+      "population_thousands": 86.1,
+      "latitude": 52.7881277,
+      "longitude": 52.2624877,
+      "region_name": "Оренбургская область",
+      "region_iso_code": "RU-ORE",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Буинск",
+      "population_thousands": 20.4,
+      "latitude": 54.9641538,
+      "longitude": 48.2901209,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Верещагино",
+      "population_thousands": 21.3,
+      "latitude": 58.0797571,
+      "longitude": 54.6581309,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Ветлуга",
+      "population_thousands": 8.3,
+      "latitude": 57.8559204,
+      "longitude": 45.7761957,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Волжск",
+      "population_thousands": 53.2,
+      "latitude": 55.8623156,
+      "longitude": 48.3715083,
+      "region_name": "Республика Марий Эл",
+      "region_iso_code": "RU-ME",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Володарск",
+      "population_thousands": 9.9,
+      "latitude": 56.2169751,
+      "longitude": 43.1596417,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Вольск",
+      "population_thousands": 61.9,
+      "latitude": 52.0459865,
+      "longitude": 47.3873595,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Ворсма",
+      "population_thousands": 10.3,
+      "latitude": 55.989943,
+      "longitude": 43.2718859,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Воткинск",
+      "population_thousands": 97.2,
+      "latitude": 57.0518149,
+      "longitude": 53.9873096,
+      "region_name": "Удмуртская Республика",
+      "region_iso_code": "RU-UD",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Выкса",
+      "population_thousands": 53,
+      "latitude": 55.3207727,
+      "longitude": 42.1678834,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Вятские Поляны",
+      "population_thousands": 31.9,
+      "latitude": 56.2284817,
+      "longitude": 51.0614855,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Гай",
+      "population_thousands": 33.8,
+      "latitude": 51.4649189,
+      "longitude": 58.4436875,
+      "region_name": "Оренбургская область",
+      "region_iso_code": "RU-ORE",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Глазов",
+      "population_thousands": 92.3,
+      "latitude": 58.1359233,
+      "longitude": 52.6635038,
+      "region_name": "Удмуртская Республика",
+      "region_iso_code": "RU-UD",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Горбатов",
+      "population_thousands": 1.8,
+      "latitude": 56.1307769,
+      "longitude": 43.0626185,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Горнозаводск",
+      "population_thousands": 11.2,
+      "latitude": 58.3742532,
+      "longitude": 58.3231716,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Городец",
+      "population_thousands": 29.7,
+      "latitude": 56.6449218,
+      "longitude": 43.4723104,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Городище",
+      "population_thousands": 7.7,
+      "latitude": 53.2726916,
+      "longitude": 45.7026142,
+      "region_name": "Пензенская область",
+      "region_iso_code": "RU-PNZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Гремячинск",
+      "population_thousands": 8.2,
+      "latitude": 58.5626082,
+      "longitude": 57.8520572,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Губаха",
+      "population_thousands": 19.1,
+      "latitude": 58.8371721,
+      "longitude": 57.554533,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Давлеканово",
+      "population_thousands": 23.4,
+      "latitude": 54.2226707,
+      "longitude": 55.0312373,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Дзержинск",
+      "population_thousands": 229,
+      "latitude": 56.2376047,
+      "longitude": 43.4599416,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Димитровград",
+      "population_thousands": 113.5,
+      "latitude": 54.2167926,
+      "longitude": 49.6262585,
+      "region_name": "Ульяновская область",
+      "region_iso_code": "RU-ULY",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Добрянка",
+      "population_thousands": 32.1,
+      "latitude": 58.469685,
+      "longitude": 56.4130737,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Дюртюли",
+      "population_thousands": 31,
+      "latitude": 55.4848318,
+      "longitude": 54.8524765,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Елабуга",
+      "population_thousands": 74,
+      "latitude": 55.7567107,
+      "longitude": 52.0543794,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Ершов",
+      "population_thousands": 18.8,
+      "latitude": 51.3508505,
+      "longitude": 48.2762226,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Жигулевск",
+      "population_thousands": 51.6,
+      "latitude": 53.4011981,
+      "longitude": 49.4945176,
+      "region_name": "Самарская область",
+      "region_iso_code": "RU-SAM",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Заволжье",
+      "population_thousands": 37.6,
+      "latitude": 56.6404286,
+      "longitude": 43.3872492,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Заинск",
+      "population_thousands": 39.6,
+      "latitude": 55.299053,
+      "longitude": 52.0062972,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Заречный",
+      "population_thousands": 65.5,
+      "latitude": 53.1960836,
+      "longitude": 45.1689907,
+      "region_name": "Пензенская область",
+      "region_iso_code": "RU-PNZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Звенигово",
+      "population_thousands": 10.9,
+      "latitude": 55.9738571,
+      "longitude": 48.0170245,
+      "region_name": "Республика Марий Эл",
+      "region_iso_code": "RU-ME",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Зеленодольск",
+      "population_thousands": 100,
+      "latitude": 55.8466651,
+      "longitude": 48.5010954,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Зуевка",
+      "population_thousands": 10.2,
+      "latitude": 58.4032152,
+      "longitude": 51.1331606,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Ижевск",
+      "population_thousands": 648.1,
+      "latitude": 56.852738,
+      "longitude": 53.2114896,
+      "region_name": "Удмуртская Республика",
+      "region_iso_code": "RU-UD",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Инза",
+      "population_thousands": 17.2,
+      "latitude": 53.8549647,
+      "longitude": 46.3533459,
+      "region_name": "Ульяновская область",
+      "region_iso_code": "RU-ULY",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Иннополис",
+      "population_thousands": 0.4,
+      "latitude": 55.7521699,
+      "longitude": 48.7446846,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Инсар",
+      "population_thousands": 7.7,
+      "latitude": 53.8770022,
+      "longitude": 44.3696566,
+      "region_name": "Республика Мордовия",
+      "region_iso_code": "RU-MO",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Ишимбай",
+      "population_thousands": 64.4,
+      "latitude": 53.4545764,
+      "longitude": 56.0438751,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Йошкар-Ола",
+      "population_thousands": 274.7,
+      "latitude": 56.6343662,
+      "longitude": 47.8999706,
+      "region_name": "Республика Марий Эл",
+      "region_iso_code": "RU-ME",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Казань",
+      "population_thousands": 1257.4,
+      "latitude": 55.7943584,
+      "longitude": 49.1114975,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Калининск",
+      "population_thousands": 15.6,
+      "latitude": 51.4993591,
+      "longitude": 44.4710435,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Камбарка",
+      "population_thousands": 10.1,
+      "latitude": 56.2659916,
+      "longitude": 54.193374,
+      "region_name": "Удмуртская Республика",
+      "region_iso_code": "RU-UD",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Каменка",
+      "population_thousands": 34.6,
+      "latitude": 53.1855463,
+      "longitude": 44.0469717,
+      "region_name": "Пензенская область",
+      "region_iso_code": "RU-PNZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Канаш",
+      "population_thousands": 44.8,
+      "latitude": 55.507,
+      "longitude": 47.4918273,
+      "region_name": "Чувашская Республика",
+      "region_iso_code": "RU-CU",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Кизел",
+      "population_thousands": 13.5,
+      "latitude": 59.0512783,
+      "longitude": 57.6471028,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Кинель",
+      "population_thousands": 35.8,
+      "latitude": 53.2210298,
+      "longitude": 50.6343776,
+      "region_name": "Самарская область",
+      "region_iso_code": "RU-SAM",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Киров",
+      "population_thousands": 518.3,
+      "latitude": 58.6035264,
+      "longitude": 49.6679304,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Кирово-Чепецк",
+      "population_thousands": 69.8,
+      "latitude": 58.5559424,
+      "longitude": 50.0316848,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Кирс",
+      "population_thousands": 9.2,
+      "latitude": 59.340056,
+      "longitude": 52.2414437,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Княгинино",
+      "population_thousands": 6.5,
+      "latitude": 55.8205915,
+      "longitude": 45.032337,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Ковылкино",
+      "population_thousands": 18.9,
+      "latitude": 54.0391072,
+      "longitude": 43.9191539,
+      "region_name": "Республика Мордовия",
+      "region_iso_code": "RU-MO",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Козловка",
+      "population_thousands": 8.6,
+      "latitude": 55.8406025,
+      "longitude": 48.2577735,
+      "region_name": "Чувашская Республика",
+      "region_iso_code": "RU-CU",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Козьмодемьянск",
+      "population_thousands": 20.1,
+      "latitude": 56.3334036,
+      "longitude": 46.546675,
+      "region_name": "Республика Марий Эл",
+      "region_iso_code": "RU-ME",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Котельнич",
+      "population_thousands": 22.9,
+      "latitude": 58.3034832,
+      "longitude": 48.3475597,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Красноармейск",
+      "population_thousands": 22.3,
+      "latitude": 51.023541,
+      "longitude": 45.695044,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Красновишерск",
+      "population_thousands": 14.8,
+      "latitude": 60.3901321,
+      "longitude": 57.0535682,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Краснокамск",
+      "population_thousands": 52.5,
+      "latitude": 58.0822065,
+      "longitude": 55.7479936,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Краснослободск",
+      "population_thousands": 9.2,
+      "latitude": 54.4248207,
+      "longitude": 43.7845011,
+      "region_name": "Республика Мордовия",
+      "region_iso_code": "RU-MO",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Красный Кут",
+      "population_thousands": 14.1,
+      "latitude": 50.9598317,
+      "longitude": 46.9712016,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Кстово",
+      "population_thousands": 67.8,
+      "latitude": 56.1432084,
+      "longitude": 44.1664198,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Кувандык",
+      "population_thousands": 23.3,
+      "latitude": 51.4783857,
+      "longitude": 57.3612636,
+      "region_name": "Оренбургская область",
+      "region_iso_code": "RU-ORE",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Кудымкар",
+      "population_thousands": 30.4,
+      "latitude": 59.0167925,
+      "longitude": 54.6572508,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Кузнецк",
+      "population_thousands": 80.5,
+      "latitude": 53.1130888,
+      "longitude": 46.605092,
+      "region_name": "Пензенская область",
+      "region_iso_code": "RU-PNZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Кукмор",
+      "population_thousands": 17.8,
+      "latitude": 56.1861392,
+      "longitude": 50.8970238,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Кулебаки",
+      "population_thousands": 31.8,
+      "latitude": 55.4296181,
+      "longitude": 42.5125538,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Кумертау",
+      "population_thousands": 59.5,
+      "latitude": 52.7564939,
+      "longitude": 55.7970197,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Кунгур",
+      "population_thousands": 64.9,
+      "latitude": 57.4283296,
+      "longitude": 56.9438656,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Лаишево",
+      "population_thousands": 8.8,
+      "latitude": 55.4042867,
+      "longitude": 49.5499838,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Лениногорск",
+      "population_thousands": 61.7,
+      "latitude": 54.5967034,
+      "longitude": 52.4431906,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Луза",
+      "population_thousands": 9.9,
+      "latitude": 60.6290609,
+      "longitude": 47.2612445,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Лукоянов",
+      "population_thousands": 13.8,
+      "latitude": 55.0326225,
+      "longitude": 44.4933807,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Лысково",
+      "population_thousands": 21.1,
+      "latitude": 56.0262359,
+      "longitude": 45.035771,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Лысьва",
+      "population_thousands": 60.3,
+      "latitude": 58.0995875,
+      "longitude": 57.8086825,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Малмыж",
+      "population_thousands": 7.2,
+      "latitude": 56.5243844,
+      "longitude": 50.6782739,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Мамадыш",
+      "population_thousands": 15.9,
+      "latitude": 55.7150413,
+      "longitude": 51.4129016,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Мариинский Посад",
+      "population_thousands": 8.5,
+      "latitude": 56.111923,
+      "longitude": 47.7142942,
+      "region_name": "Чувашская Республика",
+      "region_iso_code": "RU-CU",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Маркс",
+      "population_thousands": 30,
+      "latitude": 51.7133337,
+      "longitude": 46.7400339,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Медногорск",
+      "population_thousands": 24.6,
+      "latitude": 51.4037617,
+      "longitude": 57.583163,
+      "region_name": "Оренбургская область",
+      "region_iso_code": "RU-ORE",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Межгорье",
+      "population_thousands": 15.5,
+      "latitude": 54.2397689,
+      "longitude": 57.9614547,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Мелеуз",
+      "population_thousands": 56.7,
+      "latitude": 52.9589532,
+      "longitude": 55.9282838,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Менделеевск",
+      "population_thousands": 22.1,
+      "latitude": 55.895169,
+      "longitude": 52.3143347,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Мензелинск",
+      "population_thousands": 16.9,
+      "latitude": 55.7270698,
+      "longitude": 53.1003968,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Можга",
+      "population_thousands": 49,
+      "latitude": 56.4427774,
+      "longitude": 52.2137886,
+      "region_name": "Удмуртская Республика",
+      "region_iso_code": "RU-UD",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Мураши",
+      "population_thousands": 5.9,
+      "latitude": 59.3955383,
+      "longitude": 48.9638417,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Набережные Челны",
+      "population_thousands": 533.8,
+      "latitude": 55.7434619,
+      "longitude": 52.3959165,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Навашино",
+      "population_thousands": 14.6,
+      "latitude": 55.543811,
+      "longitude": 42.1887089,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Нефтегорск",
+      "population_thousands": 17.9,
+      "latitude": 52.7972914,
+      "longitude": 51.1637392,
+      "region_name": "Самарская область",
+      "region_iso_code": "RU-SAM",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Нефтекамск",
+      "population_thousands": 131.1,
+      "latitude": 56.088377,
+      "longitude": 54.2483061,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Нижнекамск",
+      "population_thousands": 240,
+      "latitude": 55.6313609,
+      "longitude": 51.8144669,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Нижний Ломов",
+      "population_thousands": 20.5,
+      "latitude": 53.5300905,
+      "longitude": 43.6730217,
+      "region_name": "Пензенская область",
+      "region_iso_code": "RU-PNZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Нижний Новгород",
+      "population_thousands": 1252.2,
+      "latitude": 56.3240627,
+      "longitude": 44.0053913,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Никольск",
+      "population_thousands": 19.6,
+      "latitude": 53.7137496,
+      "longitude": 46.0799857,
+      "region_name": "Пензенская область",
+      "region_iso_code": "RU-PNZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Новокуйбышевск",
+      "population_thousands": 100.5,
+      "latitude": 53.0994565,
+      "longitude": 49.9477382,
+      "region_name": "Самарская область",
+      "region_iso_code": "RU-SAM",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Новотроицк",
+      "population_thousands": 83.7,
+      "latitude": 51.1964202,
+      "longitude": 58.3018192,
+      "region_name": "Оренбургская область",
+      "region_iso_code": "RU-ORE",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Новоузенск",
+      "population_thousands": 15.1,
+      "latitude": 50.455199,
+      "longitude": 48.1413153,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Новоульяновск",
+      "population_thousands": 13.8,
+      "latitude": 54.1447956,
+      "longitude": 48.3910789,
+      "region_name": "Ульяновская область",
+      "region_iso_code": "RU-ULY",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Новочебоксарск",
+      "population_thousands": 127.2,
+      "latitude": 56.1094977,
+      "longitude": 47.4791113,
+      "region_name": "Чувашская Республика",
+      "region_iso_code": "RU-CU",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Нолинск",
+      "population_thousands": 9.6,
+      "latitude": 57.5597284,
+      "longitude": 49.93575,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Нурлат",
+      "population_thousands": 32,
+      "latitude": 54.4281461,
+      "longitude": 50.8049337,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Нытва",
+      "population_thousands": 18.1,
+      "latitude": 57.9336725,
+      "longitude": 55.3356084,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Октябрьск",
+      "population_thousands": 26.3,
+      "latitude": 53.1640488,
+      "longitude": 48.670762,
+      "region_name": "Самарская область",
+      "region_iso_code": "RU-SAM",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Октябрьский",
+      "population_thousands": 114.1,
+      "latitude": 54.4815311,
+      "longitude": 53.4655972,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Омутнинск",
+      "population_thousands": 21.6,
+      "latitude": 58.6698913,
+      "longitude": 52.1894564,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Оренбург",
+      "population_thousands": 572.2,
+      "latitude": 51.7875092,
+      "longitude": 55.1018828,
+      "region_name": "Оренбургская область",
+      "region_iso_code": "RU-ORE",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Орлов",
+      "population_thousands": 6.4,
+      "latitude": 58.5389776,
+      "longitude": 48.8927723,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Орск",
+      "population_thousands": 226.5,
+      "latitude": 51.2294282,
+      "longitude": 58.4752777,
+      "region_name": "Оренбургская область",
+      "region_iso_code": "RU-ORE",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Оса",
+      "population_thousands": 20.8,
+      "latitude": 57.2889515,
+      "longitude": 55.4688668,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Отрадный",
+      "population_thousands": 47.1,
+      "latitude": 53.3800848,
+      "longitude": 51.3438605,
+      "region_name": "Самарская область",
+      "region_iso_code": "RU-SAM",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Оханск",
+      "population_thousands": 7,
+      "latitude": 57.7180034,
+      "longitude": 55.3872469,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Очер",
+      "population_thousands": 14.2,
+      "latitude": 57.8852686,
+      "longitude": 54.7161091,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Павлово",
+      "population_thousands": 56.7,
+      "latitude": 55.9797564,
+      "longitude": 43.0995042,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Пенза",
+      "population_thousands": 520.3,
+      "latitude": 53.1753314,
+      "longitude": 45.0348625,
+      "region_name": "Пензенская область",
+      "region_iso_code": "RU-PNZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Первомайск",
+      "population_thousands": 13.3,
+      "latitude": 54.8675792,
+      "longitude": 43.8013992,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Перевоз",
+      "population_thousands": 8.7,
+      "latitude": 55.5967718,
+      "longitude": 44.5448369,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Пермь",
+      "population_thousands": 1055.4,
+      "latitude": 58.0102583,
+      "longitude": 56.2342034,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Петровск",
+      "population_thousands": 28.2,
+      "latitude": 52.3094237,
+      "longitude": 45.3851877,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Похвистнево",
+      "population_thousands": 27.9,
+      "latitude": 53.6498299,
+      "longitude": 52.1235156,
+      "region_name": "Самарская область",
+      "region_iso_code": "RU-SAM",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Пугачев",
+      "population_thousands": 40.6,
+      "latitude": 52.0159921,
+      "longitude": 48.7972223,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Ртищево",
+      "population_thousands": 38.4,
+      "latitude": 52.2616271,
+      "longitude": 43.7842248,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Рузаевка",
+      "population_thousands": 44.3,
+      "latitude": 54.0581967,
+      "longitude": 44.9490466,
+      "region_name": "Республика Мордовия",
+      "region_iso_code": "RU-MO",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Салават",
+      "population_thousands": 150.5,
+      "latitude": 53.3616974,
+      "longitude": 55.9245224,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Самара",
+      "population_thousands": 1156.7,
+      "latitude": 53.1950306,
+      "longitude": 50.1069518,
+      "region_name": "Самарская область",
+      "region_iso_code": "RU-SAM",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Саранск",
+      "population_thousands": 320.6,
+      "latitude": 54.1809332,
+      "longitude": 45.1862632,
+      "region_name": "Республика Мордовия",
+      "region_iso_code": "RU-MO",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Сарапул",
+      "population_thousands": 95.4,
+      "latitude": 56.4615767,
+      "longitude": 53.8037657,
+      "region_name": "Удмуртская Республика",
+      "region_iso_code": "RU-UD",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Саратов",
+      "population_thousands": 838,
+      "latitude": 51.533557,
+      "longitude": 46.034257,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Саров",
+      "population_thousands": 96.1,
+      "latitude": 54.9228268,
+      "longitude": 43.3448089,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Семенов",
+      "population_thousands": 24.1,
+      "latitude": 56.7889794,
+      "longitude": 44.4902885,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Сенгилей",
+      "population_thousands": 6.2,
+      "latitude": 53.958964,
+      "longitude": 48.7768269,
+      "region_name": "Ульяновская область",
+      "region_iso_code": "RU-ULY",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Сергач",
+      "population_thousands": 19.9,
+      "latitude": 55.5201515,
+      "longitude": 45.4813231,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Сердобск",
+      "population_thousands": 30.9,
+      "latitude": 52.4697595,
+      "longitude": 44.2122414,
+      "region_name": "Пензенская область",
+      "region_iso_code": "RU-PNZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Сибай",
+      "population_thousands": 60.8,
+      "latitude": 52.7204651,
+      "longitude": 58.6663783,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Слободской",
+      "population_thousands": 31.9,
+      "latitude": 58.7311574,
+      "longitude": 50.1669249,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Советск",
+      "population_thousands": 15.2,
+      "latitude": 57.584196,
+      "longitude": 48.9590272,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Соликамск",
+      "population_thousands": 92.6,
+      "latitude": 59.6482998,
+      "longitude": 56.771009,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Соль-Илецк",
+      "population_thousands": 26.9,
+      "latitude": 51.1633736,
+      "longitude": 54.9896726,
+      "region_name": "Оренбургская область",
+      "region_iso_code": "RU-ORE",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Сорочинск",
+      "population_thousands": 27.1,
+      "latitude": 52.426685,
+      "longitude": 53.1542745,
+      "region_name": "Оренбургская область",
+      "region_iso_code": "RU-ORE",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Сосновка",
+      "population_thousands": 10.7,
+      "latitude": 56.2532741,
+      "longitude": 51.2833642,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Спасск",
+      "population_thousands": 7,
+      "latitude": 53.9271974,
+      "longitude": 43.1859073,
+      "region_name": "Пензенская область",
+      "region_iso_code": "RU-PNZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Стерлитамак",
+      "population_thousands": 276.4,
+      "latitude": 53.6300864,
+      "longitude": 55.9317089,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Сурск",
+      "population_thousands": 5.9,
+      "latitude": 53.0761357,
+      "longitude": 45.6910796,
+      "region_name": "Пензенская область",
+      "region_iso_code": "RU-PNZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Сызрань",
+      "population_thousands": 167.1,
+      "latitude": 53.1558674,
+      "longitude": 48.4744629,
+      "region_name": "Самарская область",
+      "region_iso_code": "RU-SAM",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Темников",
+      "population_thousands": 5.8,
+      "latitude": 54.6310583,
+      "longitude": 43.2161099,
+      "region_name": "Республика Мордовия",
+      "region_iso_code": "RU-MO",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Тетюши",
+      "population_thousands": 11,
+      "latitude": 54.936516,
+      "longitude": 48.8314533,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Тольятти",
+      "population_thousands": 699.4,
+      "latitude": 53.5205348,
+      "longitude": 49.3894028,
+      "region_name": "Самарская область",
+      "region_iso_code": "RU-SAM",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Туймазы",
+      "population_thousands": 68.2,
+      "latitude": 54.5999224,
+      "longitude": 53.6950623,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Ульяновск",
+      "population_thousands": 627.7,
+      "latitude": 54.3079415,
+      "longitude": 48.3748487,
+      "region_name": "Ульяновская область",
+      "region_iso_code": "RU-ULY",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Урень",
+      "population_thousands": 12.3,
+      "latitude": 57.4612572,
+      "longitude": 45.7833293,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Уржум",
+      "population_thousands": 9.8,
+      "latitude": 57.1097477,
+      "longitude": 50.0058097,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Усолье",
+      "population_thousands": 6.3,
+      "latitude": 59.4277573,
+      "longitude": 56.6837872,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Уфа",
+      "population_thousands": 1128.8,
+      "latitude": 54.734944,
+      "longitude": 55.9578468,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Учалы",
+      "population_thousands": 37.9,
+      "latitude": 54.3067375,
+      "longitude": 59.4125461,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Хвалынск",
+      "population_thousands": 12.3,
+      "latitude": 52.4951572,
+      "longitude": 48.1045771,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Цивильск",
+      "population_thousands": 15,
+      "latitude": 55.8650213,
+      "longitude": 47.4729349,
+      "region_name": "Чувашская Республика",
+      "region_iso_code": "RU-CU",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Чайковский",
+      "population_thousands": 82.4,
+      "latitude": 56.7781501,
+      "longitude": 54.1477965,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Чапаевск",
+      "population_thousands": 71.7,
+      "latitude": 52.928961,
+      "longitude": 49.8673269,
+      "region_name": "Самарская область",
+      "region_iso_code": "RU-SAM",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Чебоксары",
+      "population_thousands": 497.6,
+      "latitude": 56.1438298,
+      "longitude": 47.2489782,
+      "region_name": "Чувашская Республика",
+      "region_iso_code": "RU-CU",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Чердынь",
+      "population_thousands": 4.6,
+      "latitude": 60.4011933,
+      "longitude": 56.4799933,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Чермоз",
+      "population_thousands": 3.3,
+      "latitude": 58.7842834,
+      "longitude": 56.1507138,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Чернушка",
+      "population_thousands": 33.1,
+      "latitude": 56.5160768,
+      "longitude": 56.0763049,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Чистополь",
+      "population_thousands": 59.4,
+      "latitude": 55.3699139,
+      "longitude": 50.6285784,
+      "region_name": "Республика Татарстан",
+      "region_iso_code": "RU-TA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Чкаловск",
+      "population_thousands": 11.3,
+      "latitude": 56.7651262,
+      "longitude": 43.242077,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Чусовой",
+      "population_thousands": 43.7,
+      "latitude": 58.2974596,
+      "longitude": 57.8193615,
+      "region_name": "Пермский край",
+      "region_iso_code": "RU-PER",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Шахунья",
+      "population_thousands": 19.7,
+      "latitude": 57.6764293,
+      "longitude": 46.6129009,
+      "region_name": "Нижегородская область",
+      "region_iso_code": "RU-NIZ",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Шиханы",
+      "population_thousands": 5.4,
+      "latitude": 52.1147391,
+      "longitude": 47.2023118,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Шумерля",
+      "population_thousands": 28.4,
+      "latitude": 55.4962415,
+      "longitude": 46.4182681,
+      "region_name": "Чувашская Республика",
+      "region_iso_code": "RU-CU",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Энгельс",
+      "population_thousands": 227,
+      "latitude": 51.4854003,
+      "longitude": 46.126722,
+      "region_name": "Саратовская область",
+      "region_iso_code": "RU-SAR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Ядрин",
+      "population_thousands": 8.2,
+      "latitude": 55.9406974,
+      "longitude": 46.2020896,
+      "region_name": "Чувашская Республика",
+      "region_iso_code": "RU-CU",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Янаул",
+      "population_thousands": 25.1,
+      "latitude": 56.2650146,
+      "longitude": 54.929907,
+      "region_name": "Республика Башкортостан",
+      "region_iso_code": "RU-BA",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Яранск",
+      "population_thousands": 15.5,
+      "latitude": 57.3040326,
+      "longitude": 47.8478737,
+      "region_name": "Кировская область",
+      "region_iso_code": "RU-KIR",
+      "federal_district": "Приволжский"
+    },
+    {
+      "name": "Ясный",
+      "population_thousands": 15.3,
+      "latitude": 51.036838,
+      "longitude": 59.874344,
+      "region_name": "Оренбургская область",
+      "region_iso_code": "RU-ORE",
+      "federal_district": "Приволжский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Приволжский федеральный округ - Бесплатная загрузка",
+    "description": "200 городов в Приволжский федеральный округ с координатами, населением (тыс. чел., Росстат 2020), регионом и ISO-кодом региона. Содержит 200 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Приволжский федеральный округ | ListBase",
+    "seo_description": "Скачать Города — Приволжский федеральный округ — 200 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 200 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

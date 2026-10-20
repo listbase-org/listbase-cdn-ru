@@ -1,0 +1,361 @@
+{
+  "id": "ru-astrakhanskaya-oblast-aeroporty",
+  "name": "Аэропорты — Astrakhan Oblast (RU-AST)",
+  "title": "Аэропорты — Astrakhan Oblast (RU-AST)",
+  "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Astrakhan Oblast (ISO 3166-2 RU-AST) — 10 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"small_airport\": 6, \"medium_airport\": 3, \"large_airport\": 1}. Извлечено из OurAirports.",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "ident",
+      "label": "Ident",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude_deg",
+      "label": "Latitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "longitude_deg",
+      "label": "Longitude Deg",
+      "type": "number"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "continent",
+      "label": "Continent",
+      "type": "string"
+    },
+    {
+      "key": "iso_country",
+      "label": "Iso Country",
+      "type": "string"
+    },
+    {
+      "key": "iso_region",
+      "label": "Iso Region",
+      "type": "string"
+    },
+    {
+      "key": "region_local_code",
+      "label": "Region Local Code",
+      "type": "string"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "scheduled_service",
+      "label": "Scheduled Service",
+      "type": "string"
+    },
+    {
+      "key": "icao_code",
+      "label": "Icao Code",
+      "type": "string"
+    },
+    {
+      "key": "iata_code",
+      "label": "Iata Code",
+      "type": "string"
+    },
+    {
+      "key": "gps_code",
+      "label": "Gps Code",
+      "type": "string"
+    },
+    {
+      "key": "local_code",
+      "label": "Local Code",
+      "type": "string"
+    },
+    {
+      "key": "home_link",
+      "label": "Home Link",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_link",
+      "label": "Wikipedia Link",
+      "type": "string"
+    },
+    {
+      "key": "keywords",
+      "label": "Keywords",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 44331,
+      "ident": "RU-0101",
+      "type": "small_airport",
+      "name": "Ashuluk Airfield",
+      "latitude_deg": 47.42257,
+      "longitude_deg": 47.92717,
+      "elevation_ft": -66,
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-AST",
+      "region_local_code": "AST",
+      "region_name": "Astrakhan Oblast",
+      "municipality": "",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Kordon Airfield, Аэродром Ашулук, Аэродром Кордон"
+    },
+    {
+      "id": 44340,
+      "ident": "RU-0106",
+      "type": "small_airport",
+      "name": "Basy Airfield",
+      "latitude_deg": 46.214443,
+      "longitude_deg": 46.945971,
+      "elevation_ft": "",
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-AST",
+      "region_local_code": "AST",
+      "region_name": "Astrakhan Oblast",
+      "municipality": "Uchkhoz",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "XRAS",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Аэродром Басы"
+    },
+    {
+      "id": 46128,
+      "ident": "RU-0303",
+      "type": "medium_airport",
+      "name": "Privolzhskiy Air Base",
+      "latitude_deg": 46.395726,
+      "longitude_deg": 47.887688,
+      "elevation_ft": -66,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-AST",
+      "region_local_code": "AST",
+      "region_name": "Astrakhan Oblast",
+      "municipality": "Astrakhan",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "XRAP",
+      "home_link": "",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Astrakhan_(air_base)",
+      "keywords": "Privolzhsky Air Base, Privolzhye Airport, Аэродром Приволжский, Аэропорт Приволжье, ЬРАП"
+    },
+    {
+      "id": 46129,
+      "ident": "RU-0304",
+      "type": "medium_airport",
+      "name": "Kapustin Yar Airfield",
+      "latitude_deg": 48.667,
+      "longitude_deg": 45.732,
+      "elevation_ft": "",
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-AST",
+      "region_local_code": "AST",
+      "region_name": "Astrakhan Oblast",
+      "municipality": "Znamensk",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Аэродром Капустин Яр"
+    },
+    {
+      "id": 46130,
+      "ident": "RU-0305",
+      "type": "small_airport",
+      "name": "Srednyaya Akhtuba Airfield",
+      "latitude_deg": 48.730157,
+      "longitude_deg": 44.861658,
+      "elevation_ft": 65,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-AST",
+      "region_local_code": "AST",
+      "region_name": "Astrakhan Oblast",
+      "municipality": "Srednyaya Akhtuba",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "XRWA",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "ЬРВА, Аэродром Средняя Ахтуба"
+    },
+    {
+      "id": 46251,
+      "ident": "RU-0380",
+      "type": "medium_airport",
+      "name": "Akhtubinsk Air Base",
+      "latitude_deg": 48.3085,
+      "longitude_deg": 46.2365,
+      "elevation_ft": 50,
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-AST",
+      "region_local_code": "AST",
+      "region_name": "Astrakhan Oblast",
+      "municipality": "Akhtubinsk",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "XRWH",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Ahtubinsk Air Base, Аэродром Ахтубинск, ЬРВХ"
+    },
+    {
+      "id": 46252,
+      "ident": "RU-0381",
+      "type": "small_airport",
+      "name": "Osypnoy Bugor Airfield",
+      "latitude_deg": 46.2871581029,
+      "longitude_deg": 48.061172962200004,
+      "elevation_ft": -72,
+      "continent": "EU",
+      "iso_country": "RU",
+      "iso_region": "RU-AST",
+      "region_local_code": "AST",
+      "region_name": "Astrakhan Oblast",
+      "municipality": "Astrakhan",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Аэродром Осыпной Бугор, ЬРАБ"
+    },
+    {
+      "id": 46253,
+      "ident": "RU-0382",
+      "type": "small_airport",
+      "name": "Tri Protoka Airfield",
+      "latitude_deg": 46.326142,
+      "longitude_deg": 48.15254,
+      "elevation_ft": -72,
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-AST",
+      "region_local_code": "AST",
+      "region_name": "Astrakhan Oblast",
+      "municipality": "Astrakhan",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": "Аэродром Три Протока, ЬРАР"
+    },
+    {
+      "id": 356391,
+      "ident": "RU-0923",
+      "type": "small_airport",
+      "name": "AirLife Aerodrome",
+      "latitude_deg": 48.04196,
+      "longitude_deg": 45.98445,
+      "elevation_ft": "",
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-AST",
+      "region_local_code": "AST",
+      "region_name": "Astrakhan Oblast",
+      "municipality": "Chernyi Yar",
+      "scheduled_service": "no",
+      "icao_code": "",
+      "iata_code": "",
+      "gps_code": "",
+      "local_code": "",
+      "home_link": "",
+      "wikipedia_link": "",
+      "keywords": ""
+    },
+    {
+      "id": 6520,
+      "ident": "URWA",
+      "type": "large_airport",
+      "name": "Astrakhan Narimanovo Boris M. Kustodiev International Airport",
+      "latitude_deg": 46.282843,
+      "longitude_deg": 48.010511,
+      "elevation_ft": -65,
+      "continent": "AS",
+      "iso_country": "RU",
+      "iso_region": "RU-AST",
+      "region_local_code": "AST",
+      "region_name": "Astrakhan Oblast",
+      "municipality": "Astrakhan",
+      "scheduled_service": "yes",
+      "icao_code": "URWA",
+      "iata_code": "ASF",
+      "gps_code": "URWA",
+      "local_code": "",
+      "home_link": "http://xn--80aaaa9dcahhdbllc1cxhc.xn--p1ai/",
+      "wikipedia_link": "https://en.wikipedia.org/wiki/Narimanovo_Airport",
+      "keywords": "Astrahan Airport, Narimanovo Airport, Аэропорт Астрахань, Аэропорт Нариманово"
+    }
+  ],
+  "meta": {
+    "title": "Аэропорты — Astrakhan Oblast (RU-AST) - Бесплатная загрузка",
+    "description": "Аэропорты, вертодромы, гидроаэродромы и закрытые авиационные объекты субъекта РФ Astrakhan Oblast (ISO 3166-2 RU-AST) — 10 записей. Подмножество национального перечня ru-aeroporty, разбитого по родному полю iso_region (ISO 3166-2). Координаты WGS84, высота в футах, ICAO/IATA коды, муниципалитет, тип объекта. Гистограмма типов: {\"small_airport\": 6, \"medium_airport\": 3, \"large_airport\": 1}. Извлечено из OurAirports. Содержит 10 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Аэропорты — Astrakhan Oblast (RU-AST) | ListBase",
+    "seo_description": "Скачать Аэропорты — Astrakhan Oblast (RU-AST) — 10 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 10 записей / 21 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

@@ -1,0 +1,880 @@
+{
+  "id": "ru-plotiny",
+  "name": "Плотины России",
+  "title": "Плотины России",
+  "description": "Список гидротехнических сооружений класса «плотина», расположенных в России. Источник — Wikidata через публичный SPARQL-эндпоинт (instance of/subclass of Q12323, страна Россия Q159). Для каждого объекта приведены русское название (rdfs:label@ru), английское название, географические координаты (WGS84, P625) и ссылка на статью русской Википедии. Записи отсортированы по алфавиту русского названия. Записи без русскоязычной (кириллической) этикетки отфильтрованы согласно правилу проекта о сохранении родного текста. Всего 91 уникальных QID; координаты доступны для 89.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 91,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ru",
+      "label": "Name Ru",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ru",
+      "label": "Wikipedia Ru",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q588478",
+      "name_ru": "Английская набережная",
+      "name_en": "English Embankment",
+      "latitude": 59.9341,
+      "longitude": 30.2932,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q123382243",
+      "name_ru": "Андреевский гидроузел",
+      "name_en": "Andreevsky dam and lock",
+      "latitude": 55.555632,
+      "longitude": 37.934117,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q21104176",
+      "name_ru": "Бабьегородская плотина",
+      "name_en": "Babyegorodskaya Dam",
+      "latitude": 55.73996,
+      "longitude": 37.60742,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B1%D1%8C%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%82%D0%B8%D0%BD%D0%B0"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q131388673",
+      "name_ru": "Багаевский гидроузел",
+      "name_en": "Bagaevsky Hydroelectric Complex",
+      "latitude": 47.229167,
+      "longitude": 40.207361,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B3%D0%B0%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%B8%D0%B4%D1%80%D0%BE%D1%83%D0%B7%D0%B5%D0%BB"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q890717",
+      "name_ru": "Богучанская ГЭС",
+      "name_en": "Boguchany Dam",
+      "latitude": 58.7,
+      "longitude": 99.158333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3%D1%83%D1%87%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q124097872",
+      "name_ru": "Большой каскад у Александровского дворца",
+      "name_en": "Cascade dam-bridge in Alexander Park",
+      "latitude": 59.722153,
+      "longitude": 30.391428,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%BA%D0%B0%D1%81%D0%BA%D0%B0%D0%B4_%D1%83_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B4%D0%B2%D0%BE%D1%80%D1%86%D0%B0"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q1965517",
+      "name_ru": "Братская ГЭС",
+      "name_en": "Bratsk Hydroelectric Power Station",
+      "latitude": 56.286111,
+      "longitude": 101.786111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q1010573",
+      "name_ru": "Бурейская ГЭС",
+      "name_en": "Bureya Dam",
+      "latitude": 50.270556,
+      "longitude": 130.313056,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q4108326",
+      "name_ru": "Верхневолжский бейшлот",
+      "name_en": "Upper Volga Floodgate",
+      "latitude": 56.88589,
+      "longitude": 33.31737,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%80%D1%85%D0%BD%D0%B5%D0%B2%D0%BE%D0%BB%D0%B6%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%B5%D0%B9%D1%88%D0%BB%D0%BE%D1%82"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q776827",
+      "name_ru": "Верхнесвирская ГЭС",
+      "name_en": "Upper Svir Hydroelectric Station",
+      "latitude": 60.918607,
+      "longitude": 34.191642,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%80%D1%85%D0%BD%D0%B5-%D0%A1%D0%B2%D0%B8%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q4111427",
+      "name_ru": "Вилюйская ГЭС",
+      "name_en": "Vilyuy Dam",
+      "latitude": 63.0322,
+      "longitude": 112.471,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BB%D1%8E%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q124218001",
+      "name_ru": "Виттоловский мост-плотина",
+      "name_en": "Vittolov Dam-Bridge of Catherine Park",
+      "latitude": 59.710137,
+      "longitude": 30.384221,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%82%D1%82%D0%BE%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82-%D0%BF%D0%BB%D0%BE%D1%82%D0%B8%D0%BD%D0%B0"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q1743883",
+      "name_ru": "Волжская ГЭС",
+      "name_en": "Volga Hydroelectric Station",
+      "latitude": 48.826111,
+      "longitude": 44.671944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q800130",
+      "name_ru": "Волховская ГЭС",
+      "name_en": "Volkhov Hydroelectric Station",
+      "latitude": 59.912879,
+      "longitude": 32.340223,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D1%85%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q127967780",
+      "name_ru": "Вороновская дамба",
+      "name_en": "",
+      "latitude": 57.242508,
+      "longitude": 32.496383,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q1965109",
+      "name_ru": "Воткинская ГЭС",
+      "name_en": "Votkinsk Hydroelectric Station",
+      "latitude": 56.791389,
+      "longitude": 54.084722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%82%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q111327733",
+      "name_ru": "Выйская плотина",
+      "name_en": "Dam of the Kachkanar Pond",
+      "latitude": 58.731554,
+      "longitude": 59.482473,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%82%D0%B8%D0%BD%D0%B0"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q37785974",
+      "name_ru": "Гидроузел Фаустово",
+      "name_en": "Gidrouzel Faustovo",
+      "latitude": 55.403333,
+      "longitude": 38.509167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q4141866",
+      "name_ru": "Головинский вал",
+      "name_en": "",
+      "latitude": 56.854314,
+      "longitude": 35.90152,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%B0%D0%BB"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q86684404",
+      "name_ru": "Дамба Ивашева",
+      "name_en": "Ivashev Dam",
+      "latitude": 67.114243,
+      "longitude": 32.240817,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%BC%D0%B1%D0%B0_%D0%98%D0%B2%D0%B0%D1%88%D0%B5%D0%B2%D0%B0"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q34923494",
+      "name_ru": "Дамба Номер Шесть",
+      "name_en": "Damba Nomer Shest'",
+      "latitude": 48.828889,
+      "longitude": 45.013611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q1965688",
+      "name_ru": "Жигулёвская ГЭС",
+      "name_en": "Zhiguli Hydroelectric Station",
+      "latitude": 53.426667,
+      "longitude": 49.478889,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D0%B3%D1%83%D0%BB%D1%91%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q111287041",
+      "name_ru": "Затверецкая набережная",
+      "name_en": "Zatveretskaya embankment",
+      "latitude": 56.87054,
+      "longitude": 35.91965,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D1%82%D0%B2%D0%B5%D1%80%D0%B5%D1%86%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q730412",
+      "name_ru": "Зейская ГЭС",
+      "name_en": "Zeya Dam",
+      "latitude": 53.77,
+      "longitude": 127.305556,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q2269306",
+      "name_ru": "Иваньковская ГЭС",
+      "name_en": "Ivankovo Hydroelectric Station",
+      "latitude": 56.734796,
+      "longitude": 37.12243,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D0%B2%D0%B0%D0%BD%D1%8C%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q3433616",
+      "name_ru": "Ирганайская ГЭС",
+      "name_en": "Irganai Dam",
+      "latitude": 42.7452,
+      "longitude": 46.8316,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D1%80%D0%B3%D0%B0%D0%BD%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q1965660",
+      "name_ru": "Иркутская ГЭС",
+      "name_en": "Irkutsk Hydroelectric Power Station",
+      "latitude": 52.242778,
+      "longitude": 104.328611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D1%80%D0%BA%D1%83%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q2885362",
+      "name_ru": "Камская ГЭС",
+      "name_en": "Kama dam",
+      "latitude": 58.114167,
+      "longitude": 56.328333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q4221625",
+      "name_ru": "Кировская транспортная дамба",
+      "name_en": "Kirovskaya Damba",
+      "latitude": 55.797778,
+      "longitude": 49.079722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D0%B0%D1%8F_%D0%B4%D0%B0%D0%BC%D0%B1%D0%B0"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q127964610",
+      "name_ru": "Коковкинская дамба",
+      "name_en": "",
+      "latitude": 57.235761,
+      "longitude": 32.569171,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q27632",
+      "name_ru": "Комплекс защитных сооружений Санкт-Петербурга от наводнений",
+      "name_en": "Saint Petersburg Dam",
+      "latitude": 60.00639,
+      "longitude": 29.74833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D1%8B%D1%85_%D1%81%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B0_%D0%BE%D1%82_%D0%BD%D0%B0%D0%B2%D0%BE%D0%B4%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q4236289",
+      "name_ru": "Которосльная набережная",
+      "name_en": "Kotoroslnaya Embankment in Yaroslavl",
+      "latitude": 57.62035,
+      "longitude": 39.888246,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D1%81%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q4238786",
+      "name_ru": "Красноключёвская малая ГЭС",
+      "name_en": "Krasnoklutchevskaya Dam",
+      "latitude": 55.377,
+      "longitude": 56.6795,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%BA%D0%BB%D1%8E%D1%87%D1%91%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B0%D0%BB%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q111287009",
+      "name_ru": "Краснофлотская набережная",
+      "name_en": "Krasnoflotskaya Street, Tver",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%84%D0%BB%D0%BE%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F_(%D0%A2%D0%B2%D0%B5%D1%80%D1%8C)"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q1120899",
+      "name_ru": "Красноярская ГЭС",
+      "name_en": "Krasnoyarsk Dam",
+      "latitude": 55.934722,
+      "longitude": 92.294444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%8F%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q4241619",
+      "name_ru": "Кронверкская набережная",
+      "name_en": "Kronverkskaya Embankment",
+      "latitude": 59.951355,
+      "longitude": 30.310664,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D0%BD%D0%B2%D0%B5%D1%80%D0%BA%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q131940387",
+      "name_ru": "Мост-плотина на реке Тызьве",
+      "name_en": "",
+      "latitude": 59.679167,
+      "longitude": 30.427778,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D1%82-%D0%BF%D0%BB%D0%BE%D1%82%D0%B8%D0%BD%D0%B0_%D0%BD%D0%B0_%D1%80%D0%B5%D0%BA%D0%B5_%D0%A2%D1%8B%D0%B7%D1%8C%D0%B2%D0%B5"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q125680385",
+      "name_ru": "Мост-плотина у Адмиралтейства",
+      "name_en": "Dam-bridge near Admiralty, Catherine Park",
+      "latitude": 59.711184,
+      "longitude": 30.39937,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D1%82-%D0%BF%D0%BB%D0%BE%D1%82%D0%B8%D0%BD%D0%B0_%D1%83_%D0%90%D0%B4%D0%BC%D0%B8%D1%80%D0%B0%D0%BB%D1%82%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B0"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q4305573",
+      "name_ru": "Мстинская плотина",
+      "name_en": "",
+      "latitude": 57.739479,
+      "longitude": 34.484876,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D1%81%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%82%D0%B8%D0%BD%D0%B0"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q108322153",
+      "name_ru": "Набережная 40-летия ВЛКСМ",
+      "name_en": "Naberezhnaya Sorokaletiya VLKSM",
+      "latitude": 60.712778,
+      "longitude": 28.744167,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F_40-%D0%BB%D0%B5%D1%82%D0%B8%D1%8F_%D0%92%D0%9B%D0%9A%D0%A1%D0%9C"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q112113975",
+      "name_ru": "Набережная Александра Невского",
+      "name_en": "Alexander Nevsky Embankment",
+      "latitude": 58.524878,
+      "longitude": 31.286767,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0_%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q4311107",
+      "name_ru": "Набережная Степана Разина",
+      "name_en": "Stepan Razin Embankment",
+      "latitude": 56.861103,
+      "longitude": 35.91744,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F_%D0%A1%D1%82%D0%B5%D0%BF%D0%B0%D0%BD%D0%B0_%D0%A0%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q1965182",
+      "name_ru": "Нарвская ГЭС",
+      "name_en": "Narva Hydroelectric Station",
+      "latitude": 59.367778,
+      "longitude": 28.210556,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%80%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q1964615",
+      "name_ru": "Нижегородская ГЭС",
+      "name_en": "Nizhny Novgorod Hydroelectric Station",
+      "latitude": 56.650186,
+      "longitude": 43.428956,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B6%D0%B5%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q1195691",
+      "name_ru": "Нижне-Свирская ГЭС",
+      "name_en": "Lower Svir Hydroelectric Station",
+      "latitude": 60.806167,
+      "longitude": 33.706012,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B6%D0%BD%D0%B5-%D0%A1%D0%B2%D0%B8%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q12133686",
+      "name_ru": "Нижнекамская ГЭС",
+      "name_en": "Nizhnekamsk Hydroelectric Station",
+      "latitude": 55.699444,
+      "longitude": 52.278333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B6%D0%BD%D0%B5%D0%BA%D0%B0%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q16680778",
+      "name_ru": "Никитинский мост",
+      "name_en": "",
+      "latitude": 60.018553,
+      "longitude": 30.287405,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D1%81%D1%82"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q108937860",
+      "name_ru": "Новая дамба",
+      "name_en": "",
+      "latitude": 55.780115,
+      "longitude": 49.077803,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%B0%D0%BC%D0%B1%D0%B0_(%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%8C)"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q3563881",
+      "name_ru": "Охтинская плотина",
+      "name_en": "Dam at Okhta River",
+      "latitude": 59.970139,
+      "longitude": 30.480069,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%85%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%82%D0%B8%D0%BD%D0%B0"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q1833575",
+      "name_ru": "Павловская ГЭС",
+      "name_en": "Pavlovka Hydroelectric Station",
+      "latitude": 55.417778,
+      "longitude": 56.533611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q122827484",
+      "name_ru": "Павловская плотина",
+      "name_en": "",
+      "latitude": 57.842789,
+      "longitude": 54.838278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q126898017",
+      "name_ru": "Патрушихинская плотина",
+      "name_en": "",
+      "latitude": 56.77102,
+      "longitude": 60.638823,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q118121965",
+      "name_ru": "Пиль-башенный мост-плотина (Павловск)",
+      "name_en": "Pil-Tower Bridge (Pavlovsk)",
+      "latitude": 59.693529,
+      "longitude": 30.461627,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BB%D1%8C-%D0%B1%D0%B0%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D1%81%D1%82-%D0%BF%D0%BB%D0%BE%D1%82%D0%B8%D0%BD%D0%B0"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q116767442",
+      "name_ru": "Плотина Борисовского пруда",
+      "name_en": "",
+      "latitude": 55.63083,
+      "longitude": 37.72938,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q117038478",
+      "name_ru": "Плотина Верхнего Царицынского пруда",
+      "name_en": "Upper Tsaritsyno Pond dam",
+      "latitude": 55.61624,
+      "longitude": 37.67798,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q4365321",
+      "name_ru": "Плотина Городского пруда на реке Исеть",
+      "name_en": "Plotinka",
+      "latitude": 56.838,
+      "longitude": 60.6035,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%BE%D1%82%D0%B8%D0%BD%D0%B0_%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BF%D1%80%D1%83%D0%B4%D0%B0_%D0%BD%D0%B0_%D1%80%D0%B5%D0%BA%D0%B5_%D0%98%D1%81%D0%B5%D1%82%D1%8C"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q65133458",
+      "name_ru": "Плотина Ижевского оружейного завода",
+      "name_en": "Izhevsk Arsenal dam",
+      "latitude": 56.8444,
+      "longitude": 53.196,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%BE%D1%82%D0%B8%D0%BD%D0%B0_%D0%98%D0%B6%D0%B5%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BE%D1%80%D1%83%D0%B6%D0%B5%D0%B9%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q125906077",
+      "name_ru": "Плотина Ревдинского пруда",
+      "name_en": "Revdinsky Pond dam",
+      "latitude": 56.794611,
+      "longitude": 59.938194,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q131931937",
+      "name_ru": "Плотина Суксунского пруда",
+      "name_en": "",
+      "latitude": 57.148085,
+      "longitude": 57.390004,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q52063369",
+      "name_ru": "Плотина городского пруда",
+      "name_en": "Dam on the Kamenka river",
+      "latitude": 56.419797,
+      "longitude": 61.890365,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%BE%D1%82%D0%B8%D0%BD%D0%B0_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BF%D1%80%D1%83%D0%B4%D0%B0_(%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA-%D0%A3%D1%80%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9)"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q125774813",
+      "name_ru": "Плотина заводского пруда",
+      "name_en": "Nevyansk dam",
+      "latitude": 57.4905,
+      "longitude": 60.2268,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q28667059",
+      "name_ru": "Плотина на реке Ольховке",
+      "name_en": "Dam on the Olkhovka River",
+      "latitude": 56.85207,
+      "longitude": 60.57861,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%BE%D1%82%D0%B8%D0%BD%D0%B0_%D0%BD%D0%B0_%D1%80%D0%B5%D0%BA%D0%B5_%D0%9E%D0%BB%D1%8C%D1%85%D0%BE%D0%B2%D0%BA%D0%B5"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q124042827",
+      "name_ru": "Плотина-каскад с туфовым гротом",
+      "name_en": "Dam with Cascade & Tufa Grotto, Catherine Park",
+      "latitude": 59.711502,
+      "longitude": 30.386608,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%BE%D1%82%D0%B8%D0%BD%D0%B0-%D0%BA%D0%B0%D1%81%D0%BA%D0%B0%D0%B4_%D1%81_%D1%82%D1%83%D1%84%D0%BE%D0%B2%D1%8B%D0%BC_%D0%B3%D1%80%D0%BE%D1%82%D0%BE%D0%BC"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q4365324",
+      "name_ru": "Плотины водохранилища Сестрорецкий Разлив",
+      "name_en": "dams of the Sestroretsky Spill",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%BE%D1%82%D0%B8%D0%BD%D1%8B_%D0%B2%D0%BE%D0%B4%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B0_%D0%A1%D0%B5%D1%81%D1%82%D1%80%D0%BE%D1%80%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D0%A0%D0%B0%D0%B7%D0%BB%D0%B8%D0%B2"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q4378120",
+      "name_ru": "Придаченская дамба",
+      "name_en": "Pridachenskaya Levee",
+      "latitude": 51.671737,
+      "longitude": 39.235117,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%B4%D0%B0%D1%87%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B4%D0%B0%D0%BC%D0%B1%D0%B0"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q1964590",
+      "name_ru": "Рыбинская ГЭС",
+      "name_en": "Rybinsk Hydroelectric Station",
+      "latitude": 58.082117,
+      "longitude": 38.824908,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A0%D1%8B%D0%B1%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q1542516",
+      "name_ru": "Саратовская ГЭС",
+      "name_en": "Saratov Hydroelectric Station",
+      "latitude": 52.053028,
+      "longitude": 47.754944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%B0%D1%82%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q474551",
+      "name_ru": "Саяно-Шушенская ГЭС",
+      "name_en": "Sayano–Shushenskaya Dam",
+      "latitude": 52.825269,
+      "longitude": 91.370131,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%8F%D0%BD%D0%BE-%D0%A8%D1%83%D1%88%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q109653154",
+      "name_ru": "Северный щитовой гранитный водоспуск (Нижняя Шальдиха)",
+      "name_en": "",
+      "latitude": 59.900047,
+      "longitude": 31.460568,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q4420406",
+      "name_ru": "Синопская набережная",
+      "name_en": "Sinopskaya Embankment",
+      "latitude": 59.933611,
+      "longitude": 30.391389,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%BE%D0%BF%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D0%B1%D0%B5%D1%80%D0%B5%D0%B6%D0%BD%D0%B0%D1%8F"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q119931428",
+      "name_ru": "Сысертская плотина",
+      "name_en": "",
+      "latitude": 56.49323,
+      "longitude": 60.809175,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q2268920",
+      "name_ru": "Угличская ГЭС",
+      "name_en": "Uglich Hydroelectric Station",
+      "latitude": 57.527314,
+      "longitude": 38.297512,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B3%D0%BB%D0%B8%D1%87%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q2719580",
+      "name_ru": "Усть-Илимская ГЭС",
+      "name_en": "Ust-Ilimsk Hydroelectric Power Station",
+      "latitude": 57.967778,
+      "longitude": 102.693611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D1%82%D1%8C-%D0%98%D0%BB%D0%B8%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q2885045",
+      "name_ru": "Усть-Хантайская ГЭС",
+      "name_en": "Ust-Khantayskaya Hydroelectric Station",
+      "latitude": 68.089367,
+      "longitude": 87.775058,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D1%82%D1%8C-%D0%A5%D0%B0%D0%BD%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q4505698",
+      "name_ru": "Цимлянская ГЭС",
+      "name_en": "Tsimlyansk Hydroelectric Station",
+      "latitude": 47.606111,
+      "longitude": 42.112222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D0%BC%D0%BB%D1%8F%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q2270738",
+      "name_ru": "Чебоксарская ГЭС",
+      "name_en": "Cheboksary Dam",
+      "latitude": 56.138056,
+      "longitude": 47.465556,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%B1%D0%BE%D0%BA%D1%81%D0%B0%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q117578",
+      "name_ru": "Чиркейская ГЭС",
+      "name_en": "Chirkey Dam",
+      "latitude": 42.977222,
+      "longitude": 46.871389,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B8%D1%80%D0%BA%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q110690963",
+      "name_ru": "Чёрный мост",
+      "name_en": "Black Bridge",
+      "latitude": 59.687235,
+      "longitude": 30.453347,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B9_%D0%BC%D0%BE%D1%81%D1%82_(%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D1%81%D0%BA)"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q104417757",
+      "name_ru": "Шаваньская водосливная плотина",
+      "name_en": "Shavan spillway dam",
+      "latitude": 63.950279,
+      "longitude": 34.2544,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q4524108",
+      "name_ru": "Шипиловская плотина",
+      "name_en": "Shipilovskaya dam",
+      "latitude": 55.627778,
+      "longitude": 37.691944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D0%BF%D0%B8%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%82%D0%B8%D0%BD%D0%B0"
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q500045",
+      "name_ru": "Эвенкийская ГЭС",
+      "name_en": "Evenk hydroelectric power plant",
+      "latitude": 65.654444,
+      "longitude": 89.927778,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AD%D0%B2%D0%B5%D0%BD%D0%BA%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%93%D0%AD%D0%A1"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q137948113",
+      "name_ru": "дамба с пешеходным проходом на входе в Сходненский канал",
+      "name_en": "",
+      "latitude": 55.8365,
+      "longitude": 37.4647,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q138000712",
+      "name_ru": "плотина Верх-исетского пруда",
+      "name_en": "",
+      "latitude": 56.842051,
+      "longitude": 60.553302,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%BE%D1%82%D0%B8%D0%BD%D0%B0_%D0%92%D0%B5%D1%80%D1%85-%D0%98%D1%81%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0"
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q125555624",
+      "name_ru": "плотина Верхневыксунского пруда",
+      "name_en": "",
+      "latitude": 55.311878,
+      "longitude": 42.182309,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q116867939",
+      "name_ru": "плотина Воткинского завода",
+      "name_en": "",
+      "latitude": 57.051787,
+      "longitude": 53.981357,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q116159747",
+      "name_ru": "плотина Нижнеисетского завода",
+      "name_en": "Dam of the Lower Iset Pond",
+      "latitude": 56.748618,
+      "longitude": 60.692271,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%BE%D1%82%D0%B8%D0%BD%D0%B0_%D0%9D%D0%B8%D0%B6%D0%BD%D0%B5%D0%B8%D1%81%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0"
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q116311885",
+      "name_ru": "плотина Нижнетагильского завода",
+      "name_en": "dam of Nizhny Tagil Iron and steel plant",
+      "latitude": 57.904528,
+      "longitude": 59.949235,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%BE%D1%82%D0%B8%D0%BD%D0%B0_%D0%9D%D0%B8%D0%B6%D0%BD%D0%B5%D1%82%D0%B0%D0%B3%D0%B8%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B0%D0%B2%D0%BE%D0%B4%D0%B0"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q122811186",
+      "name_ru": "плотина Нижнетуринского водохранилища",
+      "name_en": "",
+      "latitude": 58.625875,
+      "longitude": 59.831957,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q127433174",
+      "name_ru": "плотина Режевского пруда",
+      "name_en": "",
+      "latitude": 57.37202,
+      "longitude": 61.40078,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q122802633",
+      "name_ru": "плотина Северского пруда",
+      "name_en": "",
+      "latitude": 56.488173,
+      "longitude": 60.229501,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q106564194",
+      "name_ru": "плотина № 21 ББК",
+      "name_en": "dam 21 of White Sea-Baltic Canal",
+      "latitude": 63.879218,
+      "longitude": 34.321296,
+      "wikipedia_ru": ""
+    }
+  ],
+  "meta": {
+    "title": "Плотины России - Бесплатная загрузка",
+    "description": "Список гидротехнических сооружений класса «плотина», расположенных в России. Источник — Wikidata через публичный SPARQL-эндпоинт (instance of/subclass of Q12323, страна Россия Q159). Для каждого объекта приведены русское название (rdfs:label@ru), английское название, географические координаты (WGS84, P625) и ссылка на статью русской Википедии. Записи отсортированы по алфавиту русского названия. Записи без русскоязычной (кириллической) этикетки отфильтрованы согласно правилу проекта о сохранении родного текста. Всего 91 уникальных QID; координаты доступны для 89. Содержит 91 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Плотины России | ListBase",
+    "seo_description": "Скачать Плотины России — 91 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 91 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

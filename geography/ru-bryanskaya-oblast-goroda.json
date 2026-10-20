@@ -1,0 +1,205 @@
+{
+  "id": "ru-bryanskaya-oblast-goroda",
+  "name": "Города — Брянская область",
+  "title": "Города — Брянская область",
+  "description": "16 городов региона «Брянская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Брянск",
+      "population_thousands": 402.7,
+      "latitude": 53.2419535,
+      "longitude": 34.3652146,
+      "region_name": "Брянская область",
+      "region_iso_code": "RU-BRY",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Дятьково",
+      "population_thousands": 26.2,
+      "latitude": 53.5958178,
+      "longitude": 34.3551812,
+      "region_name": "Брянская область",
+      "region_iso_code": "RU-BRY",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Жуковка",
+      "population_thousands": 16.4,
+      "latitude": 53.5340397,
+      "longitude": 33.7302579,
+      "region_name": "Брянская область",
+      "region_iso_code": "RU-BRY",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Злынка",
+      "population_thousands": 5.3,
+      "latitude": 52.4267015,
+      "longitude": 31.7360399,
+      "region_name": "Брянская область",
+      "region_iso_code": "RU-BRY",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Карачев",
+      "population_thousands": 17.2,
+      "latitude": 53.1296524,
+      "longitude": 34.9888727,
+      "region_name": "Брянская область",
+      "region_iso_code": "RU-BRY",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Клинцы",
+      "population_thousands": 63,
+      "latitude": 52.7529119,
+      "longitude": 32.233911,
+      "region_name": "Брянская область",
+      "region_iso_code": "RU-BRY",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Мглин",
+      "population_thousands": 7.1,
+      "latitude": 53.0599771,
+      "longitude": 32.8468129,
+      "region_name": "Брянская область",
+      "region_iso_code": "RU-BRY",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Новозыбков",
+      "population_thousands": 39.5,
+      "latitude": 52.537173,
+      "longitude": 31.9357991,
+      "region_name": "Брянская область",
+      "region_iso_code": "RU-BRY",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Почеп",
+      "population_thousands": 16.4,
+      "latitude": 52.9154851,
+      "longitude": 33.4744058,
+      "region_name": "Брянская область",
+      "region_iso_code": "RU-BRY",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Севск",
+      "population_thousands": 6.6,
+      "latitude": 52.1483358,
+      "longitude": 34.4918415,
+      "region_name": "Брянская область",
+      "region_iso_code": "RU-BRY",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Сельцо",
+      "population_thousands": 16.4,
+      "latitude": 53.3739884,
+      "longitude": 34.1059172,
+      "region_name": "Брянская область",
+      "region_iso_code": "RU-BRY",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Стародуб",
+      "population_thousands": 18.2,
+      "latitude": 52.5852257,
+      "longitude": 32.760403,
+      "region_name": "Брянская область",
+      "region_iso_code": "RU-BRY",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Сураж",
+      "population_thousands": 10.7,
+      "latitude": 53.0170888,
+      "longitude": 32.3938878,
+      "region_name": "Брянская область",
+      "region_iso_code": "RU-BRY",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Трубчевск",
+      "population_thousands": 13.6,
+      "latitude": 52.5791734,
+      "longitude": 33.7660547,
+      "region_name": "Брянская область",
+      "region_iso_code": "RU-BRY",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Унеча",
+      "population_thousands": 22.8,
+      "latitude": 52.8461199,
+      "longitude": 32.6757629,
+      "region_name": "Брянская область",
+      "region_iso_code": "RU-BRY",
+      "federal_district": "Центральный"
+    },
+    {
+      "name": "Фокино",
+      "population_thousands": 12.8,
+      "latitude": 53.4554145,
+      "longitude": 34.4159238,
+      "region_name": "Брянская область",
+      "region_iso_code": "RU-BRY",
+      "federal_district": "Центральный"
+    }
+  ],
+  "meta": {
+    "title": "Города — Брянская область - Бесплатная загрузка",
+    "description": "16 городов региона «Брянская область» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 16 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Брянская область | ListBase",
+    "seo_description": "Скачать Города — Брянская область — 16 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 16 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

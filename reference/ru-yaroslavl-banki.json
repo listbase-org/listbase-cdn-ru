@@ -1,0 +1,177 @@
+{
+  "id": "ru-yaroslavl-banki",
+  "name": "Банки — Yaroslavl (коды SWIFT/BIC)",
+  "title": "Банки — Yaroslavl (коды SWIFT/BIC)",
+  "description": "SWIFT/BIC codes for banks and financial institutions in YAROSLAVL (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "bank",
+      "label": "Bank",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "branch",
+      "label": "Branch",
+      "type": "string"
+    },
+    {
+      "key": "swift_code",
+      "label": "Swift Code",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 264,
+      "bank": "'BANK SGB' PJSC",
+      "city": "YAROSLAVL",
+      "branch": "(YAROSLAVL BRANCH)",
+      "swift_code": "SGAZRU21YAR"
+    },
+    {
+      "id": 398,
+      "bank": "COMMERCIAL BANK 'YAROSLAVICH' AO",
+      "city": "YAROSLAVL",
+      "branch": "",
+      "swift_code": "YARORU21"
+    },
+    {
+      "id": 414,
+      "bank": "CREDPROMBANK",
+      "city": "YAROSLAVL",
+      "branch": "",
+      "swift_code": "CRDBRU21"
+    },
+    {
+      "id": 454,
+      "bank": "EVROFINANCE MOSNARBANK",
+      "city": "YAROSLAVL",
+      "branch": "(YAROSLAVL BRANCH)",
+      "swift_code": "EVRFRUM1YRS"
+    },
+    {
+      "id": 561,
+      "bank": "INVESTMENT COMMERCIAL BANK DEVELOPMENT 'YARINTERBANK' OOO",
+      "city": "YAROSLAVL",
+      "branch": "",
+      "swift_code": "ICDYRU2Y"
+    },
+    {
+      "id": 587,
+      "bank": "INVESTMENT TRADE BANK PJSC",
+      "city": "YAROSLAVL",
+      "branch": "(YAROSLAVSKY BRANCH)",
+      "swift_code": "INVJRUM1YAR"
+    },
+    {
+      "id": 750,
+      "bank": "JSC ROSSELKHOZBANK",
+      "city": "YAROSLAVL",
+      "branch": "(YAROSLAVSKY BRANCH)",
+      "swift_code": "RUAGRUM1061"
+    },
+    {
+      "id": 818,
+      "bank": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
+      "city": "YAROSLAVL",
+      "branch": "(YAROSLAVSKOE REGIONAL DEPARTMENT OFFICE)",
+      "swift_code": "MINNRUM1041"
+    },
+    {
+      "id": 1114,
+      "bank": "PJSC OK BANK",
+      "city": "YAROSLAVL",
+      "branch": "",
+      "swift_code": "OKSKRUMM"
+    },
+    {
+      "id": 1129,
+      "bank": "PJSC ROSBANK",
+      "city": "YAROSLAVL",
+      "branch": "(YAROSLAVL BRANCH)",
+      "swift_code": "RSBNRUM1YRS"
+    },
+    {
+      "id": 1166,
+      "bank": "PROMSVYAZBANK PJSC",
+      "city": "YAROSLAVL",
+      "branch": "(YAROSLAVL BRANCH)",
+      "swift_code": "PRMSRUMMYAB"
+    },
+    {
+      "id": 1184,
+      "bank": "REGION BANK",
+      "city": "YAROSLAVL",
+      "branch": "",
+      "swift_code": "REIIRU21"
+    },
+    {
+      "id": 1263,
+      "bank": "ROST BANK",
+      "city": "YAROSLAVL",
+      "branch": "(YAROSLAVL BRANCH)",
+      "swift_code": "JORORU21YRL"
+    },
+    {
+      "id": 1323,
+      "bank": "SBERBANK",
+      "city": "YAROSLAVL",
+      "branch": "(SEVERNY HEAD OFFICE)",
+      "swift_code": "SABRRUMMYA1"
+    },
+    {
+      "id": 1410,
+      "bank": "SOVCOMBANK",
+      "city": "YAROSLAVL",
+      "branch": "(YAROSLAVL BRANCH)",
+      "swift_code": "SOMRRUM1YAR"
+    },
+    {
+      "id": 1508,
+      "bank": "TRANSKAPITALBANK",
+      "city": "YAROSLAVL",
+      "branch": "(YAROSLAVL BRANCH)",
+      "swift_code": "TJSCRUM1YAR"
+    },
+    {
+      "id": 1617,
+      "bank": "YAROSLAVL JOINT STOCK CREDPROMBANK OPEN JOINT STO CK COMPANY",
+      "city": "YAROSLAVL",
+      "branch": "",
+      "swift_code": "KRPBRU2Y"
+    },
+    {
+      "id": 1618,
+      "bank": "YARSOTSBANK JSC",
+      "city": "YAROSLAVL",
+      "branch": "",
+      "swift_code": "YAYORUM1"
+    }
+  ],
+  "meta": {
+    "title": "Банки — Yaroslavl (коды SWIFT/BIC) - Бесплатная загрузка",
+    "description": "SWIFT/BIC codes for banks and financial institutions in YAROSLAVL (Russia). Source city string preserved verbatim from SwiftCodes AllCountries/RU.json. Содержит 18 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Банки — Yaroslavl (коды SWIFT/BIC) | ListBase",
+    "seo_description": "Скачать Банки — Yaroslavl (коды SWIFT/BIC) — 18 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 18 записей / 5 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

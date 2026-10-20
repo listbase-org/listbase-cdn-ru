@@ -1,0 +1,97 @@
+{
+  "id": "ru-karachaevo-cherkesskaya-respublika-goroda",
+  "name": "Города — Карачаево-Черкесская Республика",
+  "title": "Города — Карачаево-Черкесская Республика",
+  "description": "4 городов региона «Карачаево-Черкесская Республика» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "region_name",
+      "label": "Region Name",
+      "type": "string"
+    },
+    {
+      "key": "region_iso_code",
+      "label": "Region Iso Code",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Карачаевск",
+      "population_thousands": 20.8,
+      "latitude": 43.7732525,
+      "longitude": 41.9143472,
+      "region_name": "Карачаево-Черкесская Республика",
+      "region_iso_code": "RU-KC",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Теберда",
+      "population_thousands": 8.6,
+      "latitude": 43.4437731,
+      "longitude": 41.7415142,
+      "region_name": "Карачаево-Черкесская Республика",
+      "region_iso_code": "RU-KC",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Усть-Джегута",
+      "population_thousands": 30.6,
+      "latitude": 44.0838442,
+      "longitude": 41.9711046,
+      "region_name": "Карачаево-Черкесская Республика",
+      "region_iso_code": "RU-KC",
+      "federal_district": "Северо-Кавказский"
+    },
+    {
+      "name": "Черкесск",
+      "population_thousands": 123.2,
+      "latitude": 44.2269425,
+      "longitude": 42.0466704,
+      "region_name": "Карачаево-Черкесская Республика",
+      "region_iso_code": "RU-KC",
+      "federal_district": "Северо-Кавказский"
+    }
+  ],
+  "meta": {
+    "title": "Города — Карачаево-Черкесская Республика - Бесплатная загрузка",
+    "description": "4 городов региона «Карачаево-Черкесская Республика» с координатами, населением (тыс. чел., оценка Росстата на 1.1.2020), ISO-кодом региона и федеральным округом. Содержит 4 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Города — Карачаево-Черкесская Республика | ListBase",
+    "seo_description": "Скачать Города — Карачаево-Черкесская Республика — 4 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 4 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

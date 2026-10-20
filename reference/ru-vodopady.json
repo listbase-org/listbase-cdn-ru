@@ -1,0 +1,1645 @@
+{
+  "id": "ru-vodopady",
+  "name": "Водопады России",
+  "title": "Водопады России",
+  "description": "Список водопадов, расположенных в России. Источник — Wikidata через публичный SPARQL-эндпоинт (instance of водопад Q34038, страна Россия Q159). Для каждого водопада приведены русское название (rdfs:label@ru), английское название, географические координаты (WGS84, P625) и ссылка на статью русской Википедии. Записи отсортированы по алфавиту русского названия. Записи без русскоязычной (кириллической) этикетки отфильтрованы согласно правилу проекта о сохранении родного текста. Всего 176 уникальных QID; координаты доступны для 168.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 176,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ru",
+      "label": "Name Ru",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_ru",
+      "label": "Wikipedia Ru",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q4030936",
+      "name_ru": "33 водопада",
+      "name_en": "Thirty three Waterfalls",
+      "latitude": 43.83875,
+      "longitude": 39.55936,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/33_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D0%B0"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q4054232",
+      "name_ru": "Абай-Су",
+      "name_en": "",
+      "latitude": 43.215278,
+      "longitude": 43.034722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D0%B0%D0%B9-%D0%A1%D1%83"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q4057177",
+      "name_ru": "Агурские водопады",
+      "name_en": "Agura Waterfalls",
+      "latitude": 43.5438,
+      "longitude": 39.8073,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%B3%D1%83%D1%80%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q4058062",
+      "name_ru": "Ажек",
+      "name_en": "Waterfall Azhek",
+      "latitude": 43.710556,
+      "longitude": 39.819444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%B6%D0%B5%D0%BA_(%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4)"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q4062258",
+      "name_ru": "Алибекский водопад",
+      "name_en": "Alibeksky Waterfall",
+      "latitude": 43.299056,
+      "longitude": 41.555722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D0%B1%D0%B5%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q1035507",
+      "name_ru": "Андриановские водопады",
+      "name_en": "",
+      "latitude": 54.7,
+      "longitude": 157.566667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B8%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q4071445",
+      "name_ru": "Ассинский зеркальный водопад",
+      "name_en": "Абҙан шарлауығы",
+      "latitude": 54.461133,
+      "longitude": 56.647783,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%81%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%B5%D1%80%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q4072321",
+      "name_ru": "Атыш (водопад)",
+      "name_en": "Atysh waterfall",
+      "latitude": 54.555664,
+      "longitude": 57.270999,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%82%D1%8B%D1%88_(%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4)"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q4072320",
+      "name_ru": "Атыш-Сумган",
+      "name_en": "",
+      "latitude": 54.5725,
+      "longitude": 57.2883,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%82%D1%8B%D1%88-%D0%A1%D1%83%D0%BC%D0%B3%D0%B0%D0%BD"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q65157720",
+      "name_ru": "Ачипсинские водопады",
+      "name_en": "",
+      "latitude": 43.726111,
+      "longitude": 40.145278,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%87%D0%B8%D0%BF%D1%81%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q4073734",
+      "name_ru": "Аюкский водопад",
+      "name_en": "",
+      "latitude": 44.474722,
+      "longitude": 39.022222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%8E%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q106772699",
+      "name_ru": "Байновский водопад",
+      "name_en": "Baynovsky Waterfall",
+      "latitude": 56.702574,
+      "longitude": 62.092409,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q4081138",
+      "name_ru": "Безымянный водопад",
+      "name_en": "Waterfall Bezymyanny",
+      "latitude": 43.5896,
+      "longitude": 40.237,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q138857664",
+      "name_ru": "Беловский водопад",
+      "name_en": "",
+      "latitude": 54.559807,
+      "longitude": 83.620731,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q4083012",
+      "name_ru": "Белые водопады",
+      "name_en": "",
+      "latitude": 51.3903,
+      "longitude": 156.7221,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D1%8B%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q3157305",
+      "name_ru": "Беневские водопады",
+      "name_en": "",
+      "latitude": 43.24589,
+      "longitude": 133.71726,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BD%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q4092506",
+      "name_ru": "Большой Адегойский водопад",
+      "name_en": "",
+      "latitude": 44.735622,
+      "longitude": 38.021806,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%90%D0%B4%D0%B5%D0%B3%D0%BE%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q16274581",
+      "name_ru": "Большой Амгинский водопад",
+      "name_en": "Amginsky Waterfall",
+      "latitude": 45.894167,
+      "longitude": 137.311389,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%90%D0%BC%D0%B3%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q108543540",
+      "name_ru": "Большой Иркиндинский водопад",
+      "name_en": "Bolshoy Irkindinsky Waterfall",
+      "latitude": 68.751111,
+      "longitude": 92.116111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%98%D1%80%D0%BA%D0%B8%D0%BD%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q27942968",
+      "name_ru": "Большой Курейский водопад",
+      "name_en": "Great Kureika waterfall",
+      "latitude": 68.30657,
+      "longitude": 94.281,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%9A%D1%83%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q4092944",
+      "name_ru": "Большой Чульчинский водопад",
+      "name_en": "Uchar waterfall",
+      "latitude": 51.117856,
+      "longitude": 88.083572,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%A7%D1%83%D0%BB%D1%8C%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q4092946",
+      "name_ru": "Большой Шалтан",
+      "name_en": "",
+      "latitude": 51.8333,
+      "longitude": 87.8167,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%A8%D0%B0%D0%BB%D1%82%D0%B0%D0%BD"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q4092967",
+      "name_ru": "Большой Янискенгас",
+      "name_en": "",
+      "latitude": 66.706269,
+      "longitude": 30.018258,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%AF%D0%BD%D0%B8%D1%81%D0%BA%D0%B5%D0%BD%D0%B3%D0%B0%D1%81"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q55657367",
+      "name_ru": "Бучило",
+      "name_en": "",
+      "latitude": 54.629071,
+      "longitude": 83.830102,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%87%D0%B8%D0%BB%D0%BE"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q108829669",
+      "name_ru": "Васькин ключ",
+      "name_en": "",
+      "latitude": 60.5951,
+      "longitude": 45.283,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%81%D1%8C%D0%BA%D0%B8%D0%BD_%D0%BA%D0%BB%D1%8E%D1%87"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q28667327",
+      "name_ru": "Вашиндаройский водопад",
+      "name_en": "",
+      "latitude": 42.8614,
+      "longitude": 45.67,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%88%D0%B8%D0%BD%D0%B4%D0%B0%D1%80%D0%BE%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q4111440",
+      "name_ru": "Вилючинский водопад",
+      "name_en": "",
+      "latitude": 52.716667,
+      "longitude": 158.233333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BB%D1%8E%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q127283238",
+      "name_ru": "Водопад «Адам и Ева» в Свирском ущелье",
+      "name_en": "",
+      "latitude": 43.95719,
+      "longitude": 39.347971,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q127283123",
+      "name_ru": "Водопад «Чудо-Красотка» в Лазаревском",
+      "name_en": "",
+      "latitude": 43.885724,
+      "longitude": 39.397107,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q30890075",
+      "name_ru": "Водопад Арсеньева",
+      "name_en": "",
+      "latitude": 45.88139,
+      "longitude": 137.3375,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4_%D0%90%D1%80%D1%81%D0%B5%D0%BD%D1%8C%D0%B5%D0%B2%D0%B0"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q34761619",
+      "name_ru": "Водопад Второй Падун",
+      "name_en": "Vodopad Vtoroy Padun",
+      "latitude": 69.379722,
+      "longitude": 32.146111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q34761630",
+      "name_ru": "Водопад Заборный Падун",
+      "name_en": "Vodopad Zabornyy Padun",
+      "latitude": 69.403611,
+      "longitude": 32.150278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q34761499",
+      "name_ru": "Водопад Медвежий",
+      "name_en": "Vodopad Medvezhiy",
+      "latitude": 50.378889,
+      "longitude": 155.656389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q34761496",
+      "name_ru": "Водопад Медовый",
+      "name_en": "Vodopad Medovy",
+      "latitude": 43.880833,
+      "longitude": 42.581389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q107462911",
+      "name_ru": "Водопад Находкинский",
+      "name_en": "",
+      "latitude": 42.804611,
+      "longitude": 132.8085,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q34761505",
+      "name_ru": "Водопад Пакколан-Коски",
+      "name_en": "Vodopad Pakkolan-Koski",
+      "latitude": 60.75824,
+      "longitude": 29.47022,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q34761508",
+      "name_ru": "Водопад Партизанский",
+      "name_en": "Partizansky Waterfall",
+      "latitude": 45.529444,
+      "longitude": 148.869167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q104804517",
+      "name_ru": "Водопад Пасть Дракона",
+      "name_en": "Past' Drakona Waterfall",
+      "latitude": 43.581667,
+      "longitude": 40.014444,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q34761513",
+      "name_ru": "Водопад Пенистый",
+      "name_en": "Vodopad Penistyy",
+      "latitude": 50.297222,
+      "longitude": 155.602778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q34761525",
+      "name_ru": "Водопад Россыпной",
+      "name_en": "Vodopad Rossypnoy",
+      "latitude": 49.729167,
+      "longitude": 86.532222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q34761544",
+      "name_ru": "Водопад Савочкин",
+      "name_en": "Vodopad Savochkin",
+      "latitude": 50.107222,
+      "longitude": 155.239167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q34761531",
+      "name_ru": "Водопад Саханин",
+      "name_en": "Vodopad Sakhanin",
+      "latitude": 70.881389,
+      "longitude": 55.164722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q86684806",
+      "name_ru": "Водопад Святого ручья",
+      "name_en": "Водопад на ручье Святом",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4_%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE_%D1%80%D1%83%D1%87%D1%8C%D1%8F"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q34761603",
+      "name_ru": "Водопад Уковский",
+      "name_en": "Vodopad Ukovskiy",
+      "latitude": 55.021944,
+      "longitude": 98.972778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q34761586",
+      "name_ru": "Водопад Шумный",
+      "name_en": "Vodopad Shumnyy",
+      "latitude": 47.034722,
+      "longitude": 152.157778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q109116696",
+      "name_ru": "Водопад в Сырейке",
+      "name_en": "Waterfall in Syreyka",
+      "latitude": 53.364029,
+      "longitude": 50.584329,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q139763612",
+      "name_ru": "Водопад в селе Еланка",
+      "name_en": "",
+      "latitude": 61.268056,
+      "longitude": 128.105556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q4114119",
+      "name_ru": "Водопад на реке Урик",
+      "name_en": "Ourik waterfall",
+      "latitude": 52.483611,
+      "longitude": 101.108611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4_%D0%BD%D0%B0_%D1%80%D0%B5%D0%BA%D0%B5_%D0%A3%D1%80%D0%B8%D0%BA"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q127413788",
+      "name_ru": "Водопады Наджиго в Сочи",
+      "name_en": "",
+      "latitude": 44.062484,
+      "longitude": 39.248017,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q4114126",
+      "name_ru": "Водопады на реке Кынгарга",
+      "name_en": "Waterfalls on the Kyngarga River",
+      "latitude": 51.9325,
+      "longitude": 102.423333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B_%D0%BD%D0%B0_%D1%80%D0%B5%D0%BA%D0%B5_%D0%9A%D1%8B%D0%BD%D0%B3%D0%B0%D1%80%D0%B3%D0%B0"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q104668358",
+      "name_ru": "Водопады на реке Менделихе",
+      "name_en": "Mendelikha Waterfalls",
+      "latitude": 43.610556,
+      "longitude": 40.286111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q4114128",
+      "name_ru": "Водопады ручья Руфабго",
+      "name_en": "Falls Creek Rufabgo",
+      "latitude": 44.2308,
+      "longitude": 40.0978,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B_%D1%80%D1%83%D1%87%D1%8C%D1%8F_%D0%A0%D1%83%D1%84%D0%B0%D0%B1%D0%B3%D0%BE"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q108829670",
+      "name_ru": "Гавизед",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B2%D0%B8%D0%B7%D0%B5%D0%B4"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q4195389",
+      "name_ru": "Гадельша",
+      "name_en": "Gadelsha Falls",
+      "latitude": 52.757544,
+      "longitude": 58.3722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%88%D0%B0_(%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4)"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q97496247",
+      "name_ru": "Галдоридон",
+      "name_en": "Galduridon",
+      "latitude": 42.9106,
+      "longitude": 43.5523,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%BB%D0%B4%D0%BE%D1%80%D0%B8%D0%B4%D0%BE%D0%BD"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q18338417",
+      "name_ru": "Гедмыш (водопады)",
+      "name_en": "Gedmysh Waterfalls",
+      "latitude": 43.6916,
+      "longitude": 42.847,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%B4%D0%BC%D1%8B%D1%88_(%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4)"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q18691213",
+      "name_ru": "Гирвас",
+      "name_en": "Girvas",
+      "latitude": 62.456231,
+      "longitude": 33.668064,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q4148584",
+      "name_ru": "Гремячий (водопад)",
+      "name_en": "Gremyachy Waterfall",
+      "latitude": 56.26967,
+      "longitude": 38.34407,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D0%BC%D1%8F%D1%87%D0%B8%D0%B9_%D0%BA%D0%BB%D1%8E%D1%87_(%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA)"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q130461781",
+      "name_ru": "Грот нимфы Эгерии",
+      "name_en": "",
+      "latitude": 59.67725,
+      "longitude": 30.416415,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q4153516",
+      "name_ru": "Дабатский водопад",
+      "name_en": "",
+      "latitude": 52.3975,
+      "longitude": 100.38972,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%B1%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q46999397",
+      "name_ru": "Девичьи Косы",
+      "name_en": "Devichyi Kosy",
+      "latitude": 43.273943,
+      "longitude": 42.492355,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B2%D0%B8%D1%87%D1%8C%D0%B8_%D0%9A%D0%BE%D1%81%D1%8B"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q134636240",
+      "name_ru": "Джугутурлючат",
+      "name_en": "Dzhuguturluchat Waterfall",
+      "latitude": 43.265953,
+      "longitude": 41.644014,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q30889419",
+      "name_ru": "Донские водопады",
+      "name_en": "Don Falls",
+      "latitude": 48.1442,
+      "longitude": 40.0444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q4172163",
+      "name_ru": "Дюгакоски",
+      "name_en": "",
+      "latitude": 61.801023,
+      "longitude": 32.135782,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%94%D1%8E%D0%B3%D0%B0%D0%BA%D0%BE%D1%81%D0%BA%D0%B8"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q47548915",
+      "name_ru": "Жигаланские водопады",
+      "name_en": "Zhigalan Waterfalls",
+      "latitude": 60.159722,
+      "longitude": 58.739167,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D0%B3%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q4190158",
+      "name_ru": "Зейгалан",
+      "name_en": "Zæjgælan",
+      "latitude": 42.754444,
+      "longitude": 44.362778,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%B9%D0%B3%D0%B0%D0%BB%D0%B0%D0%BD"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q104709031",
+      "name_ru": "Змейковские водопады",
+      "name_en": "Zmeykovskiye Waterfalls",
+      "latitude": 43.635833,
+      "longitude": 39.815833,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%97%D0%BC%D0%B5%D0%B9%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q4196658",
+      "name_ru": "Ивановский водопад",
+      "name_en": "Ivanovsky Waterfall",
+      "latitude": 43.6086,
+      "longitude": 39.9794,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q48953468",
+      "name_ru": "Ильинский водопад",
+      "name_en": "",
+      "latitude": 55.016793,
+      "longitude": 48.8701,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D0%BB%D1%8C%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q649996",
+      "name_ru": "Илья Муромец",
+      "name_en": "Ilya Muromets Waterfall",
+      "latitude": 45.516667,
+      "longitude": 148.888889,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%98%D0%BB%D1%8C%D1%8F_%D0%9C%D1%83%D1%80%D0%BE%D0%BC%D0%B5%D1%86_(%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4)"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q4211962",
+      "name_ru": "Камышлинский водопад",
+      "name_en": "Kamyshlinsky Waterfall",
+      "latitude": 51.670833,
+      "longitude": 85.741667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D1%8B%D1%88%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q56152514",
+      "name_ru": "Карпысакский водопад",
+      "name_en": "",
+      "latitude": 55.0531,
+      "longitude": 83.7309,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%BF%D1%8B%D1%81%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q4216609",
+      "name_ru": "Каскад водопадов на реке Шинок",
+      "name_en": "Waterfall cascade on the Shinok river",
+      "latitude": 51.3595,
+      "longitude": 84.5512,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%81%D0%BA%D0%B0%D0%B4_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D0%BE%D0%B2_%D0%BD%D0%B0_%D1%80%D0%B5%D0%BA%D0%B5_%D0%A8%D0%B8%D0%BD%D0%BE%D0%BA"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q65157936",
+      "name_ru": "Кейва",
+      "name_en": "Keyva Waterfall",
+      "latitude": 43.7,
+      "longitude": 40.229444,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%B9%D0%B2%D0%B0"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q2994984",
+      "name_ru": "Кивач",
+      "name_en": "Kivach waterfall",
+      "latitude": 62.275278,
+      "longitude": 33.979722,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%B2%D0%B0%D1%87"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q4220843",
+      "name_ru": "Кинзелюкский водопад",
+      "name_en": "Kinzelyuk Waterfall",
+      "latitude": 54.1584,
+      "longitude": 95.8315,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BD%D0%B7%D0%B5%D0%BB%D1%8E%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q4222127",
+      "name_ru": "Киселёвские водопады",
+      "name_en": "",
+      "latitude": 53.066667,
+      "longitude": 158,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%81%D0%B5%D0%BB%D1%91%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q111851424",
+      "name_ru": "Клоковский водопад",
+      "name_en": "Klokovsky",
+      "latitude": 48.447222,
+      "longitude": 142.706111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%BE%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 79,
+      "wikidata_id": "Q4232691",
+      "name_ru": "Корбу (водопад)",
+      "name_en": "Korbu Waterfall",
+      "latitude": 51.706111,
+      "longitude": 87.684167,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B1%D1%83_(%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4)"
+    },
+    {
+      "id": 80,
+      "wikidata_id": "Q4245678",
+      "name_ru": "Кук-Караук (водопад)",
+      "name_en": "Kuk-Karauk waterfall",
+      "latitude": 53.600986,
+      "longitude": 56.684561,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BA-%D0%9A%D0%B0%D1%80%D0%B0%D1%83%D0%BA_(%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4)"
+    },
+    {
+      "id": 81,
+      "wikidata_id": "Q4247446",
+      "name_ru": "Куперля",
+      "name_en": "Kuperlya waterfall",
+      "latitude": 53.1525,
+      "longitude": 56.637778,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BF%D0%B5%D1%80%D0%BB%D1%8F"
+    },
+    {
+      "id": 82,
+      "wikidata_id": "Q113393908",
+      "name_ru": "Куркуре",
+      "name_en": "Kurkure",
+      "latitude": 50.900833,
+      "longitude": 88.256944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D0%BA%D1%83%D1%80%D0%B5_(%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4)"
+    },
+    {
+      "id": 83,
+      "wikidata_id": "Q130747495",
+      "name_ru": "Кутаркинские водопады",
+      "name_en": "Kutarkinskiye waterfalls",
+      "latitude": 43.678056,
+      "longitude": 39.780278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 84,
+      "wikidata_id": "Q19721911",
+      "name_ru": "Кюрюлюр",
+      "name_en": "Kyuryulyur",
+      "latitude": 61.408889,
+      "longitude": 129.558056,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%8E%D1%80%D1%8E%D0%BB%D1%8E%D1%80"
+    },
+    {
+      "id": 85,
+      "wikidata_id": "Q30888431",
+      "name_ru": "Ляжгинский водопад",
+      "name_en": "",
+      "latitude": 42.79861,
+      "longitude": 44.71944,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9B%D1%8F%D0%B6%D0%B3%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 86,
+      "wikidata_id": "Q4278869",
+      "name_ru": "Малый Жомболок",
+      "name_en": "Baga-Zjombolok",
+      "latitude": 52.765,
+      "longitude": 99.746667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%96%D0%BE%D0%BC%D0%B1%D0%BE%D0%BB%D0%BE%D0%BA"
+    },
+    {
+      "id": 87,
+      "wikidata_id": "Q4279231",
+      "name_ru": "Малый Янискенгас",
+      "name_en": "",
+      "latitude": 66.70755,
+      "longitude": 30.014125,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%AF%D0%BD%D0%B8%D1%81%D0%BA%D0%B5%D0%BD%D0%B3%D0%B0%D1%81"
+    },
+    {
+      "id": 88,
+      "wikidata_id": "Q86664037",
+      "name_ru": "Массандровский водопад",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 89,
+      "wikidata_id": "Q111503269",
+      "name_ru": "Медвежий водопад",
+      "name_en": "Medvezhiy Waterfall",
+      "latitude": 47.135556,
+      "longitude": 142.966111,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B6%D0%B8%D0%B9_(%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4,_%D0%A1%D0%B0%D1%85%D0%B0%D0%BB%D0%B8%D0%BD)"
+    },
+    {
+      "id": 90,
+      "wikidata_id": "Q18045710",
+      "name_ru": "Медовые водопады",
+      "name_en": "Medovyye Vodopady",
+      "latitude": 43.88361,
+      "longitude": 42.58639,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B"
+    },
+    {
+      "id": 91,
+      "wikidata_id": "Q108829673",
+      "name_ru": "Мидаграбинские водопады",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%B4%D0%B0%D0%B3%D1%80%D0%B0%D0%B1%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B"
+    },
+    {
+      "id": 92,
+      "wikidata_id": "Q4299066",
+      "name_ru": "Могак (водопад)",
+      "name_en": "Mogak waterfall",
+      "latitude": 53.488211,
+      "longitude": 58.511811,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B3%D0%B0%D0%BA_(%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4)"
+    },
+    {
+      "id": 93,
+      "wikidata_id": "Q4317189",
+      "name_ru": "Неожиданный (водопад)",
+      "name_en": "Waterfall on Left Gorbaty Spring",
+      "latitude": 43.401742,
+      "longitude": 132.72549,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BE%D0%B6%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_(%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4)"
+    },
+    {
+      "id": 94,
+      "wikidata_id": "Q57956157",
+      "name_ru": "Нихалоевские водопады",
+      "name_en": "Nikhaloy waterfalls",
+      "latitude": 42.8375,
+      "longitude": 45.6662,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D1%85%D0%B0%D0%BB%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B"
+    },
+    {
+      "id": 95,
+      "wikidata_id": "Q4335146",
+      "name_ru": "Опасный водопад",
+      "name_en": "",
+      "latitude": 52.466667,
+      "longitude": 158.116667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B0%D1%81%D0%BD%D1%8B%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 96,
+      "wikidata_id": "Q4336336",
+      "name_ru": "Ореховский водопад",
+      "name_en": "Orekhovsky",
+      "latitude": 43.707222,
+      "longitude": 39.774167,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%B5%D1%85%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 97,
+      "wikidata_id": "Q139604038",
+      "name_ru": "Падунец",
+      "name_en": "",
+      "latitude": 60.567032,
+      "longitude": 30.458545,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 98,
+      "wikidata_id": "Q23956955",
+      "name_ru": "Плакун (водопад)",
+      "name_en": "Plakun",
+      "latitude": 57.1906,
+      "longitude": 57.4747,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D0%BA%D1%83%D0%BD_(%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4)"
+    },
+    {
+      "id": 99,
+      "wikidata_id": "Q4369959",
+      "name_ru": "Поликаря",
+      "name_en": "Polikarya",
+      "latitude": 43.6517,
+      "longitude": 40.2712,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%BA%D0%B0%D1%80%D1%8F"
+    },
+    {
+      "id": 100,
+      "wikidata_id": "Q64697950",
+      "name_ru": "Поор-порог",
+      "name_en": "Por-Porog waterfall",
+      "latitude": 62.470833,
+      "longitude": 33.720833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 101,
+      "wikidata_id": "Q34849734",
+      "name_ru": "Порог Аварийный",
+      "name_en": "Porog Avariynyy",
+      "latitude": 51.548333,
+      "longitude": 132.467222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 102,
+      "wikidata_id": "Q34849765",
+      "name_ru": "Порог Базыбайский",
+      "name_en": "Porog Bazybayskiy",
+      "latitude": 53.7475,
+      "longitude": 94.956667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 103,
+      "wikidata_id": "Q34849780",
+      "name_ru": "Порог Большой",
+      "name_en": "Porog Bol'shoy",
+      "latitude": 64.8875,
+      "longitude": 42.869722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 104,
+      "wikidata_id": "Q34850536",
+      "name_ru": "Порог Верхнекитатский",
+      "name_en": "Porog Verkhnekitatskiy",
+      "latitude": 53.708611,
+      "longitude": 95.333611,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 105,
+      "wikidata_id": "Q34850552",
+      "name_ru": "Порог Волгин",
+      "name_en": "Porog Volgin",
+      "latitude": 57.743889,
+      "longitude": 95.446111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 106,
+      "wikidata_id": "Q34850566",
+      "name_ru": "Порог Ворон",
+      "name_en": "Porog Voron",
+      "latitude": 57.088611,
+      "longitude": 98.663333,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 107,
+      "wikidata_id": "Q34850594",
+      "name_ru": "Порог Второй",
+      "name_en": "Porog Vtoroy",
+      "latitude": 54.046389,
+      "longitude": 94.23,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 108,
+      "wikidata_id": "Q34849934",
+      "name_ru": "Порог Дешембинский",
+      "name_en": "Porog Deshembinskiy",
+      "latitude": 57.7075,
+      "longitude": 100.850556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 109,
+      "wikidata_id": "Q34850607",
+      "name_ru": "Порог Екунчет",
+      "name_en": "Porog Yekunchet",
+      "latitude": 57.046667,
+      "longitude": 98.654167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 110,
+      "wikidata_id": "Q34850010",
+      "name_ru": "Порог Каменистый",
+      "name_en": "Porog Kamenistyy",
+      "latitude": 51.530556,
+      "longitude": 132.491944,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 111,
+      "wikidata_id": "Q34850038",
+      "name_ru": "Порог Каменный",
+      "name_en": "Porog Kamenny",
+      "latitude": 63.875278,
+      "longitude": 53.763889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 112,
+      "wikidata_id": "Q34850054",
+      "name_ru": "Порог Камкамборский",
+      "name_en": "Porog Kamkamborskiy",
+      "latitude": 57.599444,
+      "longitude": 100.861111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 113,
+      "wikidata_id": "Q34850126",
+      "name_ru": "Порог Магдонский",
+      "name_en": "Porog Magdonskiy",
+      "latitude": 57.746667,
+      "longitude": 100.890278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 114,
+      "wikidata_id": "Q34850141",
+      "name_ru": "Порог Малый Падун",
+      "name_en": "Porog Malyy Padun",
+      "latitude": 69.026667,
+      "longitude": 35.719444,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 115,
+      "wikidata_id": "Q34850156",
+      "name_ru": "Порог Мирюгинский",
+      "name_en": "Porog Miryuginskiy",
+      "latitude": 60.328056,
+      "longitude": 99.309444,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 116,
+      "wikidata_id": "Q34850170",
+      "name_ru": "Порог Морской",
+      "name_en": "Porog Morskoy",
+      "latitude": 66.381667,
+      "longitude": 36.655278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 117,
+      "wikidata_id": "Q34850188",
+      "name_ru": "Порог Ольховец",
+      "name_en": "Porog Ol'khovets",
+      "latitude": 61.637778,
+      "longitude": 39.120833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 118,
+      "wikidata_id": "Q34850205",
+      "name_ru": "Порог Оралиха",
+      "name_en": "Porog Oralikha",
+      "latitude": 66.519444,
+      "longitude": 36.339722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 119,
+      "wikidata_id": "Q34850219",
+      "name_ru": "Порог Осиновский",
+      "name_en": "Porog Osinovskiy",
+      "latitude": 61.563056,
+      "longitude": 90.194444,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 120,
+      "wikidata_id": "Q34850236",
+      "name_ru": "Порог Паимбинский",
+      "name_en": "Porog Paimbinskiy",
+      "latitude": 61.696389,
+      "longitude": 99.107222,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 121,
+      "wikidata_id": "Q34850254",
+      "name_ru": "Порог Парамский",
+      "name_en": "Porog Paramsky",
+      "latitude": 56.656111,
+      "longitude": 115.415833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 122,
+      "wikidata_id": "Q34850268",
+      "name_ru": "Порог Сережный",
+      "name_en": "Porog Serezhnyy",
+      "latitude": 66.469722,
+      "longitude": 36.480833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 123,
+      "wikidata_id": "Q34850297",
+      "name_ru": "Порог Собачий",
+      "name_en": "Porog Sobachiy",
+      "latitude": 66.406667,
+      "longitude": 36.626944,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 124,
+      "wikidata_id": "Q34850314",
+      "name_ru": "Порог Сокол Первый",
+      "name_en": "Porog Sokol Pervyy",
+      "latitude": 64.990556,
+      "longitude": 43.225556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 125,
+      "wikidata_id": "Q34850329",
+      "name_ru": "Порог Сокол Третий",
+      "name_en": "Porog Sokol Tretiy",
+      "latitude": 64.985833,
+      "longitude": 43.211667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 126,
+      "wikidata_id": "Q34850360",
+      "name_ru": "Порог Сухой",
+      "name_en": "Porog Sukhoy",
+      "latitude": 67.134722,
+      "longitude": 31.721111,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 127,
+      "wikidata_id": "Q34850391",
+      "name_ru": "Порог Третий",
+      "name_en": "Porog Tretiy",
+      "latitude": 54.102778,
+      "longitude": 94.796389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 128,
+      "wikidata_id": "Q34850407",
+      "name_ru": "Порог Трёхглавый",
+      "name_en": "Porog Tryokhglavy",
+      "latitude": 63.765,
+      "longitude": 53.775278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 129,
+      "wikidata_id": "Q34850446",
+      "name_ru": "Порог Туракинский",
+      "name_en": "Porog Turakinskiy",
+      "latitude": 57.423611,
+      "longitude": 100.802778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 130,
+      "wikidata_id": "Q34850492",
+      "name_ru": "Порог Тюменец",
+      "name_en": "Porog Tyumenets",
+      "latitude": 56.632778,
+      "longitude": 99.019167,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 131,
+      "wikidata_id": "Q34850476",
+      "name_ru": "Порог Тюменье Горло",
+      "name_en": "Porog Tyumen'ye Gorlo",
+      "latitude": 54.281667,
+      "longitude": 126.849444,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 132,
+      "wikidata_id": "Q34850507",
+      "name_ru": "Порог Убинский",
+      "name_en": "Porog Ubinskiy",
+      "latitude": 53.703333,
+      "longitude": 93.931944,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 133,
+      "wikidata_id": "Q34850521",
+      "name_ru": "Порог Учаминский",
+      "name_en": "Porog Uchaminskiy",
+      "latitude": 63.773056,
+      "longitude": 96.565833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 134,
+      "wikidata_id": "Q34849979",
+      "name_ru": "Порог Финский",
+      "name_en": "Porog Finskiy",
+      "latitude": 67.102222,
+      "longitude": 31.845833,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 135,
+      "wikidata_id": "Q34850069",
+      "name_ru": "Порог Хонянгин",
+      "name_en": "Porog Khonyangin",
+      "latitude": 57.045833,
+      "longitude": 98.676667,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 136,
+      "wikidata_id": "Q34849842",
+      "name_ru": "Порог Чембенский",
+      "name_en": "Porog Chembenskiy",
+      "latitude": 57.838889,
+      "longitude": 100.815556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 137,
+      "wikidata_id": "Q34849857",
+      "name_ru": "Порог Чильчинский",
+      "name_en": "Porog Chil'chinskiy",
+      "latitude": 56.046389,
+      "longitude": 122.370278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 138,
+      "wikidata_id": "Q34849873",
+      "name_ru": "Порог Чулейский",
+      "name_en": "Porog Chuleyskiy",
+      "latitude": 57.0525,
+      "longitude": 98.695556,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 139,
+      "wikidata_id": "Q34850285",
+      "name_ru": "Порог Щеки",
+      "name_en": "Porog Shcheki",
+      "latitude": 53.681111,
+      "longitude": 95.4275,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 140,
+      "wikidata_id": "Q34757039",
+      "name_ru": "Пороги Мечев",
+      "name_en": "Porogi Mechev",
+      "latitude": 60.158889,
+      "longitude": 33.306389,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 141,
+      "wikidata_id": "Q21044974",
+      "name_ru": "Птичий водопад",
+      "name_en": "Ptichy Waterfall",
+      "latitude": 44.43963,
+      "longitude": 146.27327,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%82%D0%B8%D1%87%D0%B8%D0%B9_(%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4)"
+    },
+    {
+      "id": 142,
+      "wikidata_id": "Q4385079",
+      "name_ru": "Пшадские водопады",
+      "name_en": "",
+      "latitude": 44.600369,
+      "longitude": 38.475325,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%88%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B"
+    },
+    {
+      "id": 143,
+      "wikidata_id": "Q34757157",
+      "name_ru": "Пыжинский Порог",
+      "name_en": "Pyzhinsky Porog",
+      "latitude": 63.296944,
+      "longitude": 35.364722,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 144,
+      "wikidata_id": "Q139327954",
+      "name_ru": "Саблинский водопад",
+      "name_en": "Sablinsky waterfall",
+      "latitude": 59.661111,
+      "longitude": 30.785117,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 145,
+      "wikidata_id": "Q127413770",
+      "name_ru": "Самшитовый водопад в Дагомысе",
+      "name_en": "",
+      "latitude": 43.725784,
+      "longitude": 39.695799,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 146,
+      "wikidata_id": "Q127285999",
+      "name_ru": "Свирский водопад",
+      "name_en": "",
+      "latitude": 43.936844,
+      "longitude": 39.325106,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 147,
+      "wikidata_id": "Q4417416",
+      "name_ru": "Серебряные струи (водопад)",
+      "name_en": "Silver streams",
+      "latitude": 44.695556,
+      "longitude": 34.021667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D1%8F%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D1%83%D0%B8_(%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4)"
+    },
+    {
+      "id": 148,
+      "wikidata_id": "Q114083321",
+      "name_ru": "Словенские ключи",
+      "name_en": "Slovensky Springs",
+      "latitude": 57.7146,
+      "longitude": 27.8598,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BA%D0%BB%D1%8E%D1%87%D0%B8"
+    },
+    {
+      "id": 149,
+      "wikidata_id": "Q4438005",
+      "name_ru": "Спокойный водопад",
+      "name_en": "",
+      "latitude": 52.65,
+      "longitude": 158.183333,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%BE%D0%BA%D0%BE%D0%B9%D0%BD%D1%8B%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 150,
+      "wikidata_id": "Q4444908",
+      "name_ru": "Су-Учхан",
+      "name_en": "Su-Uchan waterfall",
+      "latitude": 44.867222,
+      "longitude": 34.348611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83-%D0%A3%D1%87%D1%85%D0%B0%D0%BD"
+    },
+    {
+      "id": 151,
+      "wikidata_id": "Q2390666",
+      "name_ru": "Тальниковый водопад",
+      "name_en": "Talnikovy Waterfall",
+      "latitude": 68.445583,
+      "longitude": 93.294361,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 152,
+      "wikidata_id": "Q108829672",
+      "name_ru": "Терскол",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D1%81%D0%BA%D0%BE%D0%BB_(%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4)"
+    },
+    {
+      "id": 153,
+      "wikidata_id": "Q108829674",
+      "name_ru": "Тобот",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%B1%D0%BE%D1%82_(%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4)"
+    },
+    {
+      "id": 154,
+      "wikidata_id": "Q4459800",
+      "name_ru": "Толмачёвские водопады",
+      "name_en": "",
+      "latitude": 53.05,
+      "longitude": 158.016667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BB%D0%BC%D0%B0%D1%87%D1%91%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B"
+    },
+    {
+      "id": 155,
+      "wikidata_id": "Q139383919",
+      "name_ru": "Тосненский водопад",
+      "name_en": "Tosnenskiy waterfall",
+      "latitude": 59.644297,
+      "longitude": 30.808778,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 156,
+      "wikidata_id": "Q133890406",
+      "name_ru": "Три сестры",
+      "name_en": "Three Sisters",
+      "latitude": 42.883333,
+      "longitude": 43.593889,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 157,
+      "wikidata_id": "Q86676500",
+      "name_ru": "Тумсойский водопад",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%BC%D1%81%D0%BE%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 158,
+      "wikidata_id": "Q29959071",
+      "name_ru": "Ускутские водопады",
+      "name_en": "Uskut waterfalls",
+      "latitude": 44.883,
+      "longitude": 34.679,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D0%BA%D1%83%D1%82%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B"
+    },
+    {
+      "id": 159,
+      "wikidata_id": "Q2990535",
+      "name_ru": "Учан-Су",
+      "name_en": "Uchan-su",
+      "latitude": 44.4925,
+      "longitude": 34.092222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A3%D1%87%D0%B0%D0%BD-%D0%A1%D1%83_(%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4)"
+    },
+    {
+      "id": 160,
+      "wikidata_id": "Q28790946",
+      "name_ru": "Фуртоугский водопад",
+      "name_en": "Furtoug Waterfall",
+      "latitude": 42.84667,
+      "longitude": 44.66667,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%80%D1%82%D0%BE%D1%83%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 161,
+      "wikidata_id": "Q48941577",
+      "name_ru": "Ханагский водопад",
+      "name_en": "Khanagsky Waterfall",
+      "latitude": 41.9725,
+      "longitude": 47.9284,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BD%D0%B0%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 162,
+      "wikidata_id": "Q30888532",
+      "name_ru": "Харачойский водопад",
+      "name_en": "",
+      "latitude": 42.917,
+      "longitude": 46.15,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80%D0%B0%D1%87%D0%BE%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 163,
+      "wikidata_id": "Q19373648",
+      "name_ru": "Харефоссен",
+      "name_en": "Harefossen",
+      "latitude": 69.60606,
+      "longitude": 30.15736,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 164,
+      "wikidata_id": "Q34673012",
+      "name_ru": "Хеваскоски",
+      "name_en": "Hestefossen",
+      "latitude": 69.11811,
+      "longitude": 29.24183,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 165,
+      "wikidata_id": "Q18274237",
+      "name_ru": "Чегемские водопады",
+      "name_en": "Chegem Waterfalls",
+      "latitude": 43.421389,
+      "longitude": 43.220278,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%B3%D0%B5%D0%BC%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B"
+    },
+    {
+      "id": 166,
+      "wikidata_id": "Q4512714",
+      "name_ru": "Черемисовские водопады",
+      "name_en": "Cheremisovskie waterfalls",
+      "latitude": 44.93,
+      "longitude": 34.7,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%B5%D0%BC%D0%B8%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B"
+    },
+    {
+      "id": 167,
+      "wikidata_id": "Q19916430",
+      "name_ru": "Чирхалю",
+      "name_en": "Vodopad Chyrkhalyu",
+      "latitude": 42.036944,
+      "longitude": 46.728611,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B8%D1%80%D1%85%D0%B0%D0%BB%D1%8E"
+    },
+    {
+      "id": 168,
+      "wikidata_id": "Q108829671",
+      "name_ru": "Чёртова Мельница",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A7%D1%91%D1%80%D1%82%D0%BE%D0%B2%D0%B0_%D0%9C%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0_(%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4)"
+    },
+    {
+      "id": 169,
+      "wikidata_id": "Q4520592",
+      "name_ru": "Шарлама (водопад)",
+      "name_en": "Sharlama waterfall",
+      "latitude": 54.284883,
+      "longitude": 54.50945,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B0_(%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4)"
+    },
+    {
+      "id": 170,
+      "wikidata_id": "Q4524294",
+      "name_ru": "Ширлак",
+      "name_en": "Shirlak Waterfall",
+      "latitude": 50.3439,
+      "longitude": 87.2204,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D1%80%D0%BB%D0%B0%D0%BA"
+    },
+    {
+      "id": 171,
+      "wikidata_id": "Q4527757",
+      "name_ru": "Шумиловский водопад",
+      "name_en": "Shumilovsky waterfall",
+      "latitude": 54.348233,
+      "longitude": 53.621883,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A8%D1%83%D0%BC%D0%B8%D0%BB%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 172,
+      "wikidata_id": "Q110309031",
+      "name_ru": "Эка-Чожинский водопад",
+      "name_en": "Eka-Chozhinsky Waterfall",
+      "latitude": 42.892222,
+      "longitude": 44.935,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D0%B0-%D0%A7%D0%BE%D0%B6%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4"
+    },
+    {
+      "id": 173,
+      "wikidata_id": "Q16722660",
+      "name_ru": "Юканкоски",
+      "name_en": "Belye Mosty Waterfall",
+      "latitude": 61.756111,
+      "longitude": 31.417222,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AE%D0%BA%D0%B0%D0%BD%D0%BA%D0%BE%D1%81%D0%BA%D0%B8"
+    },
+    {
+      "id": 174,
+      "wikidata_id": "Q11868330",
+      "name_ru": "Янискоски",
+      "name_en": "",
+      "latitude": 68.96869,
+      "longitude": 28.78555,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%AF%D0%BD%D0%B8%D1%81%D0%BA%D0%BE%D1%81%D0%BA%D0%B8_(%D0%BF%D0%BE%D1%80%D0%BE%D0%B3)"
+    },
+    {
+      "id": 175,
+      "wikidata_id": "Q34761477",
+      "name_ru": "водопад Каскад",
+      "name_en": "Vodopad Kaskad",
+      "latitude": 47.375833,
+      "longitude": 152.465278,
+      "wikipedia_ru": ""
+    },
+    {
+      "id": 176,
+      "wikidata_id": "Q4400356",
+      "name_ru": "водопады Ахинкоски",
+      "name_en": "Ruskeala waterfalls",
+      "latitude": 61.914261,
+      "longitude": 30.629122,
+      "wikipedia_ru": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D0%BA%D0%B5%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B4%D0%BE%D0%BF%D0%B0%D0%B4%D1%8B"
+    }
+  ],
+  "meta": {
+    "title": "Водопады России - Бесплатная загрузка",
+    "description": "Список водопадов, расположенных в России. Источник — Wikidata через публичный SPARQL-эндпоинт (instance of водопад Q34038, страна Россия Q159). Для каждого водопада приведены русское название (rdfs:label@ru), английское название, географические координаты (WGS84, P625) и ссылка на статью русской Википедии. Записи отсортированы по алфавиту русского названия. Записи без русскоязычной (кириллической) этикетки отфильтрованы согласно правилу проекта о сохранении родного текста. Всего 176 уникальных QID; координаты доступны для 168. Содержит 176 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Водопады России | ListBase",
+    "seo_description": "Скачать Водопады России — 176 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 176 записей / 7 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}

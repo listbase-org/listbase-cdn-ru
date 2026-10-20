@@ -1,0 +1,500 @@
+{
+  "id": "ru-rynki",
+  "name": "Marketplaces in Russia",
+  "title": "Marketplaces in Russia",
+  "description": "Marketplaces in Russia with coordinates, sourced from Wikidata (CC0).",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 39,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_ru",
+      "label": "Name Ru",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_ru",
+      "label": "Admin Area Ru",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q107315716",
+      "name_ru": "Садовод",
+      "name_en": "Sadovod",
+      "admin_area_ru": "Москва",
+      "admin_area_en": "Moscow",
+      "latitude": 55.652676,
+      "longitude": 37.831399,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107315716"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q116156262",
+      "name_ru": "рынок Большие Исады",
+      "name_en": "Bazaar Bolshiye Isady, Astrakhan",
+      "admin_area_ru": "Астрахань",
+      "admin_area_en": "Astrakhan",
+      "latitude": 46.346633333,
+      "longitude": 48.054780555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116156262"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q117319966",
+      "name_ru": "Андреевский рынок",
+      "name_en": "Andreyevskiy Market",
+      "admin_area_ru": "Василеостровский район",
+      "admin_area_en": "Vasileostrovsky District",
+      "latitude": 59.93846,
+      "longitude": 30.28462,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117319966"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q118236502",
+      "name_ru": "Шарташский рынок",
+      "name_en": "",
+      "admin_area_ru": "",
+      "admin_area_en": "",
+      "latitude": 56.830024,
+      "longitude": 60.637719,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q118236502"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q120674706",
+      "name_ru": "Кузнечный рынок",
+      "name_en": "Kuznechny Market",
+      "admin_area_ru": "Санкт-Петербург",
+      "admin_area_en": "Saint Petersburg",
+      "latitude": 59.927379,
+      "longitude": 30.349528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q120674706"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q131387145",
+      "name_ru": "Невский рынок",
+      "name_en": "",
+      "admin_area_ru": "Санкт-Петербург",
+      "admin_area_en": "Saint Petersburg",
+      "latitude": 59.901105,
+      "longitude": 30.425067,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131387145"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q1549518",
+      "name_ru": "Черкизовский рынок",
+      "name_en": "Cherkizovsky Market",
+      "admin_area_ru": "Москва",
+      "admin_area_en": "Moscow",
+      "latitude": 55.8,
+      "longitude": 37.7525,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1549518"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q16681614",
+      "name_ru": "Новые Черёмушки",
+      "name_en": "",
+      "admin_area_ru": "",
+      "admin_area_en": "",
+      "latitude": 55.5906457,
+      "longitude": 37.623186,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16681614"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q16693756",
+      "name_ru": "Савёловский торговый комплекс",
+      "name_en": "",
+      "admin_area_ru": "Улица Сущёвский Вал",
+      "admin_area_en": "Moscow",
+      "latitude": 55.794611,
+      "longitude": 37.592111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16693756"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q16715473",
+      "name_ru": "Центральный рынок Ростов-на-Дону",
+      "name_en": "Central Market",
+      "admin_area_ru": "Ростов-на-Дону",
+      "admin_area_en": "Rostov-on-Don",
+      "latitude": 47.216724,
+      "longitude": 39.710957,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16715473"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q18662846",
+      "name_ru": "Выборгский рынок",
+      "name_en": "Vyborg market",
+      "admin_area_ru": "Выборг",
+      "admin_area_en": "Vyborg",
+      "latitude": 60.71414,
+      "longitude": 28.736872,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18662846"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q19915223",
+      "name_ru": "Ямской рынок",
+      "name_en": "Yamskoy market",
+      "admin_area_ru": "Санкт-Петербург",
+      "admin_area_en": "Saint Petersburg",
+      "latitude": 59.922833,
+      "longitude": 30.349501,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19915223"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q27956043",
+      "name_ru": "Удельный рынок",
+      "name_en": "",
+      "admin_area_ru": "Санкт-Петербург",
+      "admin_area_en": "Saint Petersburg",
+      "latitude": 60.017394,
+      "longitude": 30.312674,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27956043"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q28032532",
+      "name_ru": "Центральный рынок",
+      "name_en": "",
+      "admin_area_ru": "Калуга",
+      "admin_area_en": "Kaluga",
+      "latitude": 54.514363,
+      "longitude": 36.251343,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28032532"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q28667354",
+      "name_ru": "Центральный рынок",
+      "name_en": "",
+      "admin_area_ru": "Пермь",
+      "admin_area_en": "Perm",
+      "latitude": 58.0025,
+      "longitude": 56.227222222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28667354"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q3289785",
+      "name_ru": "Горбушка (рынок)",
+      "name_en": "Gorbushka",
+      "admin_area_ru": "Филёвский Парк",
+      "admin_area_en": "Filyovsky Park District",
+      "latitude": 55.74194444,
+      "longitude": 37.50222222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3289785"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q3289962",
+      "name_ru": "Круглый рынок",
+      "name_en": "Round Market",
+      "admin_area_ru": "Санкт-Петербург",
+      "admin_area_en": "Saint Petersburg",
+      "latitude": 59.9425,
+      "longitude": 30.327222222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3289962"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q4108635",
+      "name_ru": "Верхний Базар (Саратов)",
+      "name_en": "Upper Market, Saratov",
+      "admin_area_ru": "Волжский район (Саратов)",
+      "admin_area_en": "Volzhskiy rayon, Saratov",
+      "latitude": 51.535218,
+      "longitude": 46.033604,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4108635"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q4218176",
+      "name_ru": "Каширский двор",
+      "name_en": "Kashirsky dvor",
+      "admin_area_ru": "",
+      "admin_area_en": "",
+      "latitude": 55.66461,
+      "longitude": 37.63228,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4218176"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q4278844",
+      "name_ru": "Малый Гостиный двор (Санкт-Петербург)",
+      "name_en": "Maly Gostiny Dvor (Saint Petersburg)",
+      "admin_area_ru": "Санкт-Петербург",
+      "admin_area_en": "Saint Petersburg",
+      "latitude": 59.932777777,
+      "longitude": 30.326666666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4278844"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q4279535",
+      "name_ru": "Мальцевский рынок",
+      "name_en": "Mal'zevskyi market",
+      "admin_area_ru": "Смольнинское",
+      "admin_area_en": "Smolninskoye Municipal Okrug",
+      "latitude": 59.938833333,
+      "longitude": 30.365805555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4279535"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q4322964",
+      "name_ru": "Ново-Сухаревский рынок",
+      "name_en": "Novo-Sukharev Market",
+      "admin_area_ru": "Мещанский район",
+      "admin_area_en": "Meshchansky District",
+      "latitude": 55.771811111,
+      "longitude": 37.627691666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4322964"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q4394565",
+      "name_ru": "Рижский рынок",
+      "name_en": "Rizhsky Market",
+      "admin_area_ru": "Проспект Мира",
+      "admin_area_en": "Kaluzhsko-Rizhskaya Line",
+      "latitude": 55.79310556,
+      "longitude": 37.63714444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4394565"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q4448257",
+      "name_ru": "Сытный рынок",
+      "name_en": "Sytny Market",
+      "admin_area_ru": "Петроградский район",
+      "admin_area_en": "Petrogradsky District",
+      "latitude": 59.956944444,
+      "longitude": 30.309444444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4448257"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q4461099",
+      "name_ru": "Торжковский рынок",
+      "name_en": "",
+      "admin_area_ru": "Торжковская улица",
+      "admin_area_en": "Saint Petersburg",
+      "latitude": 59.990622222,
+      "longitude": 30.314575,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4461099"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q4518915",
+      "name_ru": "Чёрный рынок в Перми",
+      "name_en": "Black Market in Perm",
+      "admin_area_ru": "Пермь",
+      "admin_area_en": "Perm",
+      "latitude": 58.013379,
+      "longitude": 56.233187,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4518915"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q48940524",
+      "name_ru": "Матвеевский рынок",
+      "name_en": "",
+      "admin_area_ru": "Очаково-Матвеевское",
+      "admin_area_en": "Ochakovo-Matveyevskoye District",
+      "latitude": 55.7039842,
+      "longitude": 37.4792549,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q48940524"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q55523843",
+      "name_ru": "Немецкий рынок (Москва)",
+      "name_en": "German market",
+      "admin_area_ru": "Басманный район",
+      "admin_area_en": "Basmanny District",
+      "latitude": 55.771958333,
+      "longitude": 37.683088888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55523843"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q55658546",
+      "name_ru": "Москворецкий рынок",
+      "name_en": "Moskvoretsky Market",
+      "admin_area_ru": "Нагорный район",
+      "admin_area_en": "Nagorny District",
+      "latitude": 55.656831,
+      "longitude": 37.607424,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q55658546"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q56229457",
+      "name_ru": "Гостиный двор (Владимир)",
+      "name_en": "Trading Arcades, Vladimir",
+      "admin_area_ru": "Владимир",
+      "admin_area_en": "Vladimir",
+      "latitude": 56.12833,
+      "longitude": 40.40312,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56229457"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q57238894",
+      "name_ru": "",
+      "name_en": "Sportivnaya market",
+      "admin_area_ru": "Владивосток",
+      "admin_area_en": "Vladivostok",
+      "latitude": 43.105628,
+      "longitude": 131.940109,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q57238894"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q60851616",
+      "name_ru": "Дорогомиловский рынок",
+      "name_en": "Dorogomilovsky market",
+      "admin_area_ru": "Дорогомилово",
+      "admin_area_en": "Dorogomilovo District",
+      "latitude": 55.742917,
+      "longitude": 37.554111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60851616"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q60851703",
+      "name_ru": "Преображенский рынок",
+      "name_en": "",
+      "admin_area_ru": "Преображенская площадь",
+      "admin_area_en": "Sokolnicheskaya line",
+      "latitude": 55.792193,
+      "longitude": 37.7168874,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60851703"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q60851981",
+      "name_ru": "Ленинградский рынок",
+      "name_en": "",
+      "admin_area_ru": "Часовая улица",
+      "admin_area_en": "Moscow",
+      "latitude": 55.808111,
+      "longitude": 37.529167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60851981"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q60853206",
+      "name_ru": "Черёмушкинский рынок",
+      "name_en": "Cheremushki market",
+      "admin_area_ru": "Гагаринский район",
+      "admin_area_en": "Gagarinsky District",
+      "latitude": 55.684056,
+      "longitude": 37.550528,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60853206"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q61819867",
+      "name_ru": "Усачёвский рынок",
+      "name_en": "Usachevsky market",
+      "admin_area_ru": "Хамовники",
+      "admin_area_en": "Khamovniki District",
+      "latitude": 55.72744,
+      "longitude": 37.56752,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61819867"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q65127483",
+      "name_ru": "Хилокский рынок",
+      "name_en": "",
+      "admin_area_ru": "Новосибирск",
+      "admin_area_en": "Novosibirsk",
+      "latitude": 54.94868,
+      "longitude": 82.828772,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65127483"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q65127590",
+      "name_ru": "Центральный рынок",
+      "name_en": "Central Market",
+      "admin_area_ru": "Новосибирск",
+      "admin_area_en": "Novosibirsk",
+      "latitude": 55.041912,
+      "longitude": 82.923287,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65127590"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q73179222",
+      "name_ru": "Ново-Александровский рынок",
+      "name_en": "Novo-Aleksandrovsky Market",
+      "admin_area_ru": "Санкт-Петербург",
+      "admin_area_en": "Saint Petersburg",
+      "latitude": 59.920597,
+      "longitude": 30.309348,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q73179222"
+    }
+  ],
+  "meta": {
+    "title": "Marketplaces in Russia - Бесплатная загрузка",
+    "description": "Marketplaces in Russia with coordinates, sourced from Wikidata (CC0). Содержит 39 записей. Скачать в форматах Excel, CSV, PDF.",
+    "seo_title": "Marketplaces in Russia | ListBase",
+    "seo_description": "Скачать Marketplaces in Russia — 39 записей. Доступно в форматах Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Содержит 39 записей / 9 полей",
+      "Бесплатная загрузка в форматах Excel, CSV и PDF",
+      "Источник данных: open data"
+    ]
+  }
+}
