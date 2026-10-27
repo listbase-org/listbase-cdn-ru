@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-10-27T02:13:23.834Z",
-  "total_datasets": 447,
-  "total_records": 214655,
+  "generated": "2026-10-27T02:13:26.402Z",
+  "total_datasets": 448,
+  "total_records": 214707,
   "categories": [
     {
       "id": "culture",
@@ -10,6 +10,10 @@
     },
     {
       "id": "education",
+      "dataset_count": 1
+    },
+    {
+      "id": "entertainment",
       "dataset_count": 1
     },
     {
@@ -368,6 +372,32 @@
         "xlsx": {
           "name": "ru-universitety_RU.xlsx",
           "size": 24024
+        }
+      }
+    },
+    {
+      "id": "ru-lidery-kinoprokata-2025",
+      "name": "Лидеры кинопроката России 2025 года (по уикендам)",
+      "category": "entertainment",
+      "record_count": 52,
+      "columns": [
+        "week",
+        "weekend_date",
+        "film",
+        "gross_usd",
+        "country"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BB%D0%B8%D0%B4%D0%B5%D1%80%D0%BE%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_2025_%D0%B3%D0%BE%D0%B4%D0%B0",
+      "updated": "2026-10",
+      "size": 13005,
+      "files": {
+        "csv": {
+          "name": "ru-lidery-kinoprokata-2025_RU.csv",
+          "size": 5081
+        },
+        "xlsx": {
+          "name": "ru-lidery-kinoprokata-2025_RU.xlsx",
+          "size": 9368
         }
       }
     },

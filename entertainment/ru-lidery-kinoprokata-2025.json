@@ -1,0 +1,415 @@
+{
+  "id": "ru-lidery-kinoprokata-2025",
+  "name": "Лидеры кинопроката России 2025 года (по уикендам)",
+  "title": "Лидеры кинопроката России 2025 года (по уикендам)",
+  "description": "Фильмы — лидеры кассовых сборов в России по уикендам 2025 года: дата, фильм, сборы и страна производства.",
+  "category": "entertainment",
+  "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BB%D0%B8%D0%B4%D0%B5%D1%80%D0%BE%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_2025_%D0%B3%D0%BE%D0%B4%D0%B0",
+  "source_url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BB%D0%B8%D0%B4%D0%B5%D1%80%D0%BE%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_2025_%D0%B3%D0%BE%D0%B4%D0%B0",
+  "updated": "2026-10",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "week",
+      "label": "Week",
+      "type": "number"
+    },
+    {
+      "key": "weekend_date",
+      "label": "Weekend Date",
+      "type": "string"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    },
+    {
+      "key": "gross_usd",
+      "label": "Gross Usd",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "week": "1",
+      "weekend_date": "5 января 2025",
+      "film": "Волшебник Изумрудного города. Дорога из жёлтого кирпича",
+      "gross_usd": "$15 682 512",
+      "country": "Россия"
+    },
+    {
+      "week": "2",
+      "weekend_date": "12 января 2025",
+      "film": "Финист. Первый богатырь",
+      "gross_usd": "$2 934 057",
+      "country": "Россия"
+    },
+    {
+      "week": "3",
+      "weekend_date": "19 января 2025",
+      "film": "Финист. Первый богатырь",
+      "gross_usd": "$1 483 271",
+      "country": "Россия"
+    },
+    {
+      "week": "4",
+      "weekend_date": "26 января 2025",
+      "film": "Холоп. Великолепный век",
+      "gross_usd": "$1 034 408",
+      "country": "Турция"
+    },
+    {
+      "week": "5",
+      "weekend_date": "2 февраля 2025",
+      "film": "Злой город",
+      "gross_usd": "$1 416 338",
+      "country": "Россия"
+    },
+    {
+      "week": "6",
+      "weekend_date": "9 февраля 2025",
+      "film": "Злой город",
+      "gross_usd": "$1 018 590",
+      "country": "Россия"
+    },
+    {
+      "week": "7",
+      "weekend_date": "16 февраля 2025",
+      "film": "Пророк. История Александра Пушкина",
+      "gross_usd": "$4 484 297",
+      "country": "Россия"
+    },
+    {
+      "week": "8",
+      "weekend_date": "23 февраля 2025",
+      "film": "Пророк. История Александра Пушкина",
+      "gross_usd": "$2 770 034",
+      "country": "Россия"
+    },
+    {
+      "week": "9",
+      "weekend_date": "2 марта 2025",
+      "film": "Пророк. История Александра Пушкина",
+      "gross_usd": "$1 948 886",
+      "country": "Россия"
+    },
+    {
+      "week": "10",
+      "weekend_date": "9 марта 2025",
+      "film": "Царевна-лягушка",
+      "gross_usd": "$2 244 884",
+      "country": "Россия"
+    },
+    {
+      "week": "11",
+      "weekend_date": "16 марта 2025",
+      "film": "Царевна-лягушка",
+      "gross_usd": "$1 377 680",
+      "country": "Россия"
+    },
+    {
+      "week": "12",
+      "weekend_date": "23 марта 2025",
+      "film": "Пальма 2",
+      "gross_usd": "$1 766 424",
+      "country": "Россия"
+    },
+    {
+      "week": "13",
+      "weekend_date": "30 марта 2025",
+      "film": "Пальма 2",
+      "gross_usd": "$1 583 062",
+      "country": "Россия"
+    },
+    {
+      "week": "14",
+      "weekend_date": "6 апреля 2025",
+      "film": "Батя 2. Дед",
+      "gross_usd": "$6 451 495",
+      "country": "Россия"
+    },
+    {
+      "week": "15",
+      "weekend_date": "13 апреля 2025",
+      "film": "Батя 2. Дед",
+      "gross_usd": "$4 067 021",
+      "country": "Россия"
+    },
+    {
+      "week": "16",
+      "weekend_date": "20 апреля 2025",
+      "film": "Кракен",
+      "gross_usd": "$2 048 456",
+      "country": "Россия"
+    },
+    {
+      "week": "17",
+      "weekend_date": "27 апреля 2025",
+      "film": "Кракен",
+      "gross_usd": "$2 167 962",
+      "country": "Россия"
+    },
+    {
+      "week": "18",
+      "weekend_date": "4 мая 2025",
+      "film": "В списках не значился",
+      "gross_usd": "$2 889 134",
+      "country": "Россия"
+    },
+    {
+      "week": "19",
+      "weekend_date": "11 мая 2025",
+      "film": "В списках не значился",
+      "gross_usd": "$2 263 574",
+      "country": "Россия"
+    },
+    {
+      "week": "20",
+      "weekend_date": "18 мая 2025",
+      "film": "Кракен",
+      "gross_usd": "$669 860",
+      "country": "Россия"
+    },
+    {
+      "week": "21",
+      "weekend_date": "25 мая 2025",
+      "film": "Соловей против Муромца",
+      "gross_usd": "$697 430",
+      "country": "Россия"
+    },
+    {
+      "week": "22",
+      "weekend_date": "1 июня 2025",
+      "film": "Лило и Стич",
+      "gross_usd": "$656 846",
+      "country": "США"
+    },
+    {
+      "week": "23",
+      "weekend_date": "8 июня 2025",
+      "film": "Балерина",
+      "gross_usd": "$1 542 043",
+      "country": "США"
+    },
+    {
+      "week": "24",
+      "weekend_date": "15 июня 2025",
+      "film": "На деревню дедушке",
+      "gross_usd": "$1 804 272",
+      "country": "Россия"
+    },
+    {
+      "week": "25",
+      "weekend_date": "22 июня 2025",
+      "film": "На деревню дедушке",
+      "gross_usd": "$1 299 939",
+      "country": "Россия"
+    },
+    {
+      "week": "26",
+      "weekend_date": "29 июня 2025",
+      "film": "На деревню дедушке",
+      "gross_usd": "$955 033",
+      "country": "Россия"
+    },
+    {
+      "week": "27",
+      "weekend_date": "6 июля 2025",
+      "film": "Не одна дома 2",
+      "gross_usd": "$858 642",
+      "country": "Россия"
+    },
+    {
+      "week": "28",
+      "weekend_date": "13 июля 2025",
+      "film": "Мир Юрского периода: Возрождение",
+      "gross_usd": "$755 676",
+      "country": "США"
+    },
+    {
+      "week": "29",
+      "weekend_date": "20 июля 2025",
+      "film": "Супермен",
+      "gross_usd": "$792 442",
+      "country": "США Канада Австралия Новая Зеландия"
+    },
+    {
+      "week": "30",
+      "weekend_date": "27 июля 2025",
+      "film": "Супермен",
+      "gross_usd": "$692 835",
+      "country": "США Канада Австралия Новая Зеландия"
+    },
+    {
+      "week": "31",
+      "weekend_date": "3 августа 2025",
+      "film": "Фантастическая четвёрка: Первые шаги",
+      "gross_usd": "$748 569",
+      "country": "США Канада Новая Зеландия Великобритания"
+    },
+    {
+      "week": "32",
+      "weekend_date": "10 августа 2025",
+      "film": "Фантастическая четвёрка: Первые шаги",
+      "gross_usd": "$599 180",
+      "country": "США Канада Новая Зеландия Великобритания"
+    },
+    {
+      "week": "33",
+      "weekend_date": "17 августа 2025",
+      "film": "Фантастическая четвёрка: Первые шаги",
+      "gross_usd": "$611 509",
+      "country": "США Канада Новая Зеландия Великобритания"
+    },
+    {
+      "week": "34",
+      "weekend_date": "24 августа 2025",
+      "film": "Фантастическая четвёрка: Первые шаги",
+      "gross_usd": "$487 405",
+      "country": "США Канада Новая Зеландия Великобритания"
+    },
+    {
+      "week": "35",
+      "weekend_date": "31 августа 2025",
+      "film": "Доктор Динозавров",
+      "gross_usd": "$602 153",
+      "country": "Россия"
+    },
+    {
+      "week": "36",
+      "weekend_date": "7 сентября 2025",
+      "film": "Вниз",
+      "gross_usd": "$587 338",
+      "country": "Россия"
+    },
+    {
+      "week": "37",
+      "weekend_date": "14 сентября 2025",
+      "film": "Дракула",
+      "gross_usd": "$1 211 507",
+      "country": "Франция Великобритания"
+    },
+    {
+      "week": "38",
+      "weekend_date": "21 сентября 2025",
+      "film": "Дракула",
+      "gross_usd": "$1 299 697",
+      "country": "Франция Великобритания"
+    },
+    {
+      "week": "39",
+      "weekend_date": "28 сентября 2025",
+      "film": "Август",
+      "gross_usd": "$3 000 961",
+      "country": "Россия"
+    },
+    {
+      "week": "40",
+      "weekend_date": "5 октября 2025",
+      "film": "Август",
+      "gross_usd": "$2 366 873",
+      "country": "Россия"
+    },
+    {
+      "week": "41",
+      "weekend_date": "12 октября 2025",
+      "film": "Август",
+      "gross_usd": "$2 263 772",
+      "country": "Россия"
+    },
+    {
+      "week": "42",
+      "weekend_date": "19 октября 2025",
+      "film": "Август",
+      "gross_usd": "$1 834 540",
+      "country": "Россия"
+    },
+    {
+      "week": "43",
+      "weekend_date": "26 октября 2025",
+      "film": "Горыныч",
+      "gross_usd": "$4 177 703",
+      "country": "Россия"
+    },
+    {
+      "week": "44",
+      "weekend_date": "2 ноября 2025",
+      "film": "Папины дочки. Мама вернулась",
+      "gross_usd": "$4 481 928",
+      "country": "Россия"
+    },
+    {
+      "week": "45",
+      "weekend_date": "9 ноября 2025",
+      "film": "Горыныч",
+      "gross_usd": "$1 872 415",
+      "country": "Россия"
+    },
+    {
+      "week": "46",
+      "weekend_date": "16 ноября 2025",
+      "film": "Иллюзия обмана 3",
+      "gross_usd": "$6 628 983",
+      "country": "США"
+    },
+    {
+      "week": "47",
+      "weekend_date": "23 ноября 2025",
+      "film": "Иллюзия обмана 3",
+      "gross_usd": "$4 470 861",
+      "country": "США"
+    },
+    {
+      "week": "48",
+      "weekend_date": "30 ноября 2025",
+      "film": "Иллюзия обмана 3",
+      "gross_usd": "$2 878 014",
+      "country": "США"
+    },
+    {
+      "week": "49",
+      "weekend_date": "7 декабря 2025",
+      "film": "Волчок",
+      "gross_usd": "$1 985 162",
+      "country": "Россия"
+    },
+    {
+      "week": "50",
+      "weekend_date": "14 декабря 2025",
+      "film": "Невероятные приключения Шурика",
+      "gross_usd": "$1 564 001",
+      "country": "Россия"
+    },
+    {
+      "week": "51",
+      "weekend_date": "21 декабря 2025",
+      "film": "Ёлки 12",
+      "gross_usd": "$2 085 633",
+      "country": "Россия"
+    },
+    {
+      "week": "52",
+      "weekend_date": "28 декабря 2025",
+      "film": "Ёлки 12",
+      "gross_usd": "$1 904 978",
+      "country": "Россия"
+    }
+  ],
+  "meta": {
+    "title": "Лидеры кинопроката России 2025 года (по уикендам) - Free Download",
+    "description": "Фильмы — лидеры кассовых сборов в России по уикендам 2025 года: дата, фильм, сборы и страна производства. Contains 52 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Лидеры кинопроката России 2025 года (по уикендам) | ListBase",
+    "seo_description": "Download Лидеры кинопроката России 2025 года (по уикендам) — 52 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 52 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BB%D0%B8%D0%B4%D0%B5%D1%80%D0%BE%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_2025_%D0%B3%D0%BE%D0%B4%D0%B0"
+    ]
+  }
+}
