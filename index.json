@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-10-27T02:13:39.193Z",
-  "total_datasets": 453,
-  "total_records": 215216,
+  "generated": "2026-10-27T02:13:41.712Z",
+  "total_datasets": 454,
+  "total_records": 215242,
   "categories": [
     {
       "id": "culture",
@@ -26,6 +26,10 @@
     },
     {
       "id": "finance",
+      "dataset_count": 1
+    },
+    {
+      "id": "food",
       "dataset_count": 1
     },
     {
@@ -552,6 +556,37 @@
         "xlsx": {
           "name": "ru-rynki_RU.xlsx",
           "size": 10664
+        }
+      }
+    },
+    {
+      "id": "ru-potreblenie-produktov-pitaniya",
+      "name": "Потребление основных продуктов питания в России на душу населения",
+      "category": "food",
+      "record_count": 26,
+      "columns": [
+        "year",
+        "potatoes",
+        "vegetables_melons",
+        "fruits_berries",
+        "meat",
+        "milk_dairy",
+        "eggs_pcs",
+        "sugar",
+        "vegetable_oil",
+        "bread_products"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8",
+      "updated": "2026-10",
+      "size": 10044,
+      "files": {
+        "csv": {
+          "name": "ru-potreblenie-produktov-pitaniya_RU.csv",
+          "size": 1626
+        },
+        "xlsx": {
+          "name": "ru-potreblenie-produktov-pitaniya_RU.xlsx",
+          "size": 8115
         }
       }
     },

@@ -1,0 +1,388 @@
+{
+  "id": "ru-potreblenie-produktov-pitaniya",
+  "name": "Потребление основных продуктов питания в России на душу населения",
+  "title": "Потребление основных продуктов питания в России на душу населения",
+  "description": "Потребление основных продуктов питания в Российской Федерации на душу населения в год (кг; яйца — штук): картофель, овощи, фрукты, мясо, молоко, сахар, растительное масло, хлебные продукты.",
+  "category": "food",
+  "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8",
+  "source_url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8",
+  "updated": "2026-10",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "potatoes",
+      "label": "Potatoes",
+      "type": "number"
+    },
+    {
+      "key": "vegetables_melons",
+      "label": "Vegetables Melons",
+      "type": "number"
+    },
+    {
+      "key": "fruits_berries",
+      "label": "Fruits Berries",
+      "type": "number"
+    },
+    {
+      "key": "meat",
+      "label": "Meat",
+      "type": "number"
+    },
+    {
+      "key": "milk_dairy",
+      "label": "Milk Dairy",
+      "type": "number"
+    },
+    {
+      "key": "eggs_pcs",
+      "label": "Eggs Pcs",
+      "type": "number"
+    },
+    {
+      "key": "sugar",
+      "label": "Sugar",
+      "type": "number"
+    },
+    {
+      "key": "vegetable_oil",
+      "label": "Vegetable Oil",
+      "type": "number"
+    },
+    {
+      "key": "bread_products",
+      "label": "Bread Products",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2015,
+      "potatoes": 112,
+      "vegetables_melons": 111,
+      "fruits_berries": 61,
+      "meat": 73,
+      "milk_dairy": 239,
+      "eggs_pcs": 269,
+      "sugar": 39,
+      "vegetable_oil": 13.6,
+      "bread_products": 118
+    },
+    {
+      "year": 2014,
+      "potatoes": 111,
+      "vegetables_melons": 111,
+      "fruits_berries": 64,
+      "meat": 74,
+      "milk_dairy": 244,
+      "eggs_pcs": 269,
+      "sugar": 40,
+      "vegetable_oil": 13.8,
+      "bread_products": 118
+    },
+    {
+      "year": 2013,
+      "potatoes": 111,
+      "vegetables_melons": 109,
+      "fruits_berries": 64,
+      "meat": 75,
+      "milk_dairy": 248,
+      "eggs_pcs": 269,
+      "sugar": 40,
+      "vegetable_oil": 13.7,
+      "bread_products": 118
+    },
+    {
+      "year": 2012,
+      "potatoes": 111,
+      "vegetables_melons": 109,
+      "fruits_berries": 61,
+      "meat": 74,
+      "milk_dairy": 249,
+      "eggs_pcs": 276,
+      "sugar": 40,
+      "vegetable_oil": 13.7,
+      "bread_products": 119
+    },
+    {
+      "year": 2011,
+      "potatoes": 110,
+      "vegetables_melons": 106,
+      "fruits_berries": 60,
+      "meat": 71,
+      "milk_dairy": 246,
+      "eggs_pcs": 271,
+      "sugar": 40,
+      "vegetable_oil": 13.5,
+      "bread_products": 119
+    },
+    {
+      "year": 2010,
+      "potatoes": 104,
+      "vegetables_melons": 101,
+      "fruits_berries": 58,
+      "meat": 69,
+      "milk_dairy": 247,
+      "eggs_pcs": 269,
+      "sugar": 39,
+      "vegetable_oil": 13.4,
+      "bread_products": 120
+    },
+    {
+      "year": 2009,
+      "potatoes": 112,
+      "vegetables_melons": 102,
+      "fruits_berries": 55,
+      "meat": 66,
+      "milk_dairy": 244,
+      "eggs_pcs": 260,
+      "sugar": 37,
+      "vegetable_oil": 13,
+      "bread_products": 118
+    },
+    {
+      "year": 2008,
+      "potatoes": 111,
+      "vegetables_melons": 99,
+      "fruits_berries": 53,
+      "meat": 66,
+      "milk_dairy": 242,
+      "eggs_pcs": 252,
+      "sugar": 39,
+      "vegetable_oil": 12.7,
+      "bread_products": 119
+    },
+    {
+      "year": 2007,
+      "potatoes": 108,
+      "vegetables_melons": 93,
+      "fruits_berries": 51,
+      "meat": 61,
+      "milk_dairy": 240,
+      "eggs_pcs": 255,
+      "sugar": 39,
+      "vegetable_oil": 12.7,
+      "bread_products": 120
+    },
+    {
+      "year": 2006,
+      "potatoes": 110,
+      "vegetables_melons": 90,
+      "fruits_berries": 48,
+      "meat": 58,
+      "milk_dairy": 237,
+      "eggs_pcs": 256,
+      "sugar": 39,
+      "vegetable_oil": 12.5,
+      "bread_products": 121
+    },
+    {
+      "year": 2005,
+      "potatoes": 109,
+      "vegetables_melons": 87,
+      "fruits_berries": 46,
+      "meat": 55,
+      "milk_dairy": 234,
+      "eggs_pcs": 250,
+      "sugar": 38,
+      "vegetable_oil": 12.1,
+      "bread_products": 121
+    },
+    {
+      "year": 2004,
+      "potatoes": 108,
+      "vegetables_melons": 85,
+      "fruits_berries": 43,
+      "meat": 54,
+      "milk_dairy": 232,
+      "eggs_pcs": 243,
+      "sugar": 37,
+      "vegetable_oil": 11.6,
+      "bread_products": 119
+    },
+    {
+      "year": 2003,
+      "potatoes": 109,
+      "vegetables_melons": 84,
+      "fruits_berries": 39,
+      "meat": 52,
+      "milk_dairy": 231,
+      "eggs_pcs": 246,
+      "sugar": 36,
+      "vegetable_oil": 11,
+      "bread_products": 120
+    },
+    {
+      "year": 2002,
+      "potatoes": 106,
+      "vegetables_melons": 80,
+      "fruits_berries": 39,
+      "meat": 50,
+      "milk_dairy": 227,
+      "eggs_pcs": 244,
+      "sugar": 36,
+      "vegetable_oil": 10.5,
+      "bread_products": 121
+    },
+    {
+      "year": 2001,
+      "potatoes": 109,
+      "vegetables_melons": 81,
+      "fruits_berries": 35,
+      "meat": 47,
+      "milk_dairy": 219,
+      "eggs_pcs": 235,
+      "sugar": 35,
+      "vegetable_oil": 10.4,
+      "bread_products": 120
+    },
+    {
+      "year": 2000,
+      "potatoes": 109,
+      "vegetables_melons": 79,
+      "fruits_berries": 32,
+      "meat": 45,
+      "milk_dairy": 215,
+      "eggs_pcs": 229,
+      "sugar": 35,
+      "vegetable_oil": 9.9,
+      "bread_products": 117
+    },
+    {
+      "year": 1999,
+      "potatoes": 108,
+      "vegetables_melons": 79,
+      "fruits_berries": 27,
+      "meat": 45,
+      "milk_dairy": 214,
+      "eggs_pcs": 221,
+      "sugar": 34,
+      "vegetable_oil": 9.3,
+      "bread_products": 119
+    },
+    {
+      "year": 1998,
+      "potatoes": 114,
+      "vegetables_melons": 74,
+      "fruits_berries": 30,
+      "meat": 48,
+      "milk_dairy": 220,
+      "eggs_pcs": 217,
+      "sugar": 33,
+      "vegetable_oil": 8.8,
+      "bread_products": 117
+    },
+    {
+      "year": 1997,
+      "potatoes": 122,
+      "vegetables_melons": 76,
+      "fruits_berries": 33,
+      "meat": 50,
+      "milk_dairy": 230,
+      "eggs_pcs": 211,
+      "sugar": 33,
+      "vegetable_oil": 8.4,
+      "bread_products": 118
+    },
+    {
+      "year": 1996,
+      "potatoes": 123,
+      "vegetables_melons": 74,
+      "fruits_berries": 31,
+      "meat": 51,
+      "milk_dairy": 233,
+      "eggs_pcs": 208,
+      "sugar": 33,
+      "vegetable_oil": 8,
+      "bread_products": 118
+    },
+    {
+      "year": 1995,
+      "potatoes": 124,
+      "vegetables_melons": 76,
+      "fruits_berries": 29,
+      "meat": 55,
+      "milk_dairy": 254,
+      "eggs_pcs": 216,
+      "sugar": 32,
+      "vegetable_oil": 7.5,
+      "bread_products": 122
+    },
+    {
+      "year": 1994,
+      "potatoes": 123,
+      "vegetables_melons": 68,
+      "fruits_berries": 28,
+      "meat": 57,
+      "milk_dairy": 281,
+      "eggs_pcs": 238,
+      "sugar": 31,
+      "vegetable_oil": 6.7,
+      "bread_products": 124
+    },
+    {
+      "year": 1993,
+      "potatoes": 127,
+      "vegetables_melons": 71,
+      "fruits_berries": 29,
+      "meat": 59,
+      "milk_dairy": 294,
+      "eggs_pcs": 251,
+      "sugar": 31,
+      "vegetable_oil": 7,
+      "bread_products": 123
+    },
+    {
+      "year": 1992,
+      "potatoes": 118,
+      "vegetables_melons": 77,
+      "fruits_berries": 32,
+      "meat": 60,
+      "milk_dairy": 282,
+      "eggs_pcs": 263,
+      "sugar": 30,
+      "vegetable_oil": 6.7,
+      "bread_products": 125
+    },
+    {
+      "year": 1991,
+      "potatoes": 113,
+      "vegetables_melons": 86,
+      "fruits_berries": 35,
+      "meat": 69,
+      "milk_dairy": 347,
+      "eggs_pcs": 288,
+      "sugar": 38,
+      "vegetable_oil": 7.8,
+      "bread_products": 121
+    },
+    {
+      "year": 1990,
+      "potatoes": 106,
+      "vegetables_melons": 89,
+      "fruits_berries": 35,
+      "meat": 75,
+      "milk_dairy": 387,
+      "eggs_pcs": 297,
+      "sugar": 47,
+      "vegetable_oil": 10.2,
+      "bread_products": 120
+    }
+  ],
+  "meta": {
+    "title": "Потребление основных продуктов питания в России на душу населения - Free Download",
+    "description": "Потребление основных продуктов питания в Российской Федерации на душу населения в год (кг; яйца — штук): картофель, овощи, фрукты, мясо, молоко, сахар, растительное масло, хлебные продукты. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Потребление основных продуктов питания в России на душу населения | ListBase",
+    "seo_description": "Download Потребление основных продуктов питания в России на душу населения — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8"
+    ]
+  }
+}
