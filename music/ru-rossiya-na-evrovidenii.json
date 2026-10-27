@@ -1,0 +1,412 @@
+{
+  "id": "ru-rossiya-na-evrovidenii",
+  "name": "Россия на «Евровидении» — участники и результаты",
+  "title": "Россия на «Евровидении» — участники и результаты",
+  "description": "Все участники от России на конкурсе песни «Евровидение» с 1994 года: исполнитель, песня, язык, место и баллы в финале и полуфинале.",
+  "category": "music",
+  "source": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_%D0%BD%D0%B0_%C2%AB%D0%95%D0%B2%D1%80%D0%BE%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%C2%BB",
+  "source_url": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_%D0%BD%D0%B0_%C2%AB%D0%95%D0%B2%D1%80%D0%BE%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%C2%BB",
+  "updated": "2026-10",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "host_city",
+      "label": "Host City",
+      "type": "string"
+    },
+    {
+      "key": "artist",
+      "label": "Artist",
+      "type": "string"
+    },
+    {
+      "key": "language",
+      "label": "Language",
+      "type": "string"
+    },
+    {
+      "key": "song",
+      "label": "Song",
+      "type": "string"
+    },
+    {
+      "key": "translation",
+      "label": "Translation",
+      "type": "string"
+    },
+    {
+      "key": "final_place",
+      "label": "Final Place",
+      "type": "number"
+    },
+    {
+      "key": "final_points",
+      "label": "Final Points",
+      "type": "number"
+    },
+    {
+      "key": "semifinal_place",
+      "label": "Semifinal Place",
+      "type": "string"
+    },
+    {
+      "key": "semifinal_points",
+      "label": "Semifinal Points",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1994,
+      "host_city": "Дублин",
+      "artist": "Юдифь (Маша Кац)",
+      "language": "Русский",
+      "song": "Английский: «Eternal Wanderer»*",
+      "translation": "« Вечный странник »",
+      "final_place": "9",
+      "final_points": "70",
+      "semifinal_place": "Полуфиналов не было",
+      "semifinal_points": "Полуфиналов не было"
+    },
+    {
+      "year": 1995,
+      "host_city": "Дублин",
+      "artist": "Филипп Киркоров",
+      "language": "Русский",
+      "song": "Английский: «Lullaby for the volcano»*",
+      "translation": "«Колыбельная вулкану»",
+      "final_place": "17",
+      "final_points": "17",
+      "semifinal_place": "Полуфиналов не было",
+      "semifinal_points": "Полуфиналов не было"
+    },
+    {
+      "year": 1996,
+      "host_city": "Осло",
+      "artist": "Андрей Косинский",
+      "language": "Русский",
+      "song": "Английский: «I’m me»*",
+      "translation": "«Я это я»",
+      "final_place": "Не прошёл",
+      "final_points": "Не прошёл",
+      "semifinal_place": "27",
+      "semifinal_points": "14"
+    },
+    {
+      "year": 1997,
+      "host_city": "Дублин",
+      "artist": "Алла Пугачёва",
+      "language": "Русский",
+      "song": "Английский: «Primadonna»*",
+      "translation": "« Примадонна »",
+      "final_place": "15",
+      "final_points": "33",
+      "semifinal_place": "Полуфиналов не было",
+      "semifinal_points": "Полуфиналов не было"
+    },
+    {
+      "year": "1998—1999",
+      "host_city": "Не участвовала",
+      "artist": "Не участвовала",
+      "language": "Не участвовала",
+      "song": "Не участвовала",
+      "translation": "Не участвовала",
+      "final_place": "Не участвовала",
+      "final_points": "Не участвовала",
+      "semifinal_place": "Не участвовала",
+      "semifinal_points": "Не участвовала"
+    },
+    {
+      "year": 2000,
+      "host_city": "Стокгольм",
+      "artist": "Алсу",
+      "language": "Английский",
+      "song": "«Solo»",
+      "translation": "«Сама по себе»",
+      "final_place": "2",
+      "final_points": "155",
+      "semifinal_place": "Полуфиналов не было",
+      "semifinal_points": "Полуфиналов не было"
+    },
+    {
+      "year": 2001,
+      "host_city": "Копенгаген",
+      "artist": "Мумий Тролль",
+      "language": "Английский",
+      "song": "« Lady Alpine Blue »",
+      "translation": "«Леди Синих Альп»",
+      "final_place": "12",
+      "final_points": "37",
+      "semifinal_place": "Полуфиналов не было",
+      "semifinal_points": "Полуфиналов не было"
+    },
+    {
+      "year": 2002,
+      "host_city": "Таллин",
+      "artist": "Премьер-министр",
+      "language": "Английский",
+      "song": "«Northern Girl»",
+      "translation": "«Девушка с севера»",
+      "final_place": "10",
+      "final_points": "55",
+      "semifinal_place": "Полуфиналов не было",
+      "semifinal_points": "Полуфиналов не было"
+    },
+    {
+      "year": 2003,
+      "host_city": "Рига",
+      "artist": "t.A.T.u.",
+      "language": "Русский",
+      "song": "Английский: «Don’t believe, don’t be afraid, don’t ask»*",
+      "translation": "«Не верь, не бойся, не проси»",
+      "final_place": "3",
+      "final_points": "164",
+      "semifinal_place": "Полуфиналов не было",
+      "semifinal_points": "Полуфиналов не было"
+    },
+    {
+      "year": 2004,
+      "host_city": "Стамбул",
+      "artist": "Юлия Савичева",
+      "language": "Английский",
+      "song": "«Believe Me»",
+      "translation": "«Поверь мне»",
+      "final_place": "11",
+      "final_points": "67",
+      "semifinal_place": "Топ-11 предыдущего года",
+      "semifinal_points": "Топ-11 предыдущего года"
+    },
+    {
+      "year": 2005,
+      "host_city": "Киев",
+      "artist": "Наталья Подольская",
+      "language": "Английский",
+      "song": "«Nobody Hurt No One»",
+      "translation": "«Никто не причинит друг другу боль»",
+      "final_place": "15",
+      "final_points": "57",
+      "semifinal_place": "Топ-12 предыдущего года",
+      "semifinal_points": "Топ-12 предыдущего года"
+    },
+    {
+      "year": 2006,
+      "host_city": "Афины",
+      "artist": "Дима Билан",
+      "language": "Английский",
+      "song": "« Never Let You Go »",
+      "translation": "«Никогда не отпущу тебя»",
+      "final_place": "2",
+      "final_points": "248",
+      "semifinal_place": "3",
+      "semifinal_points": "217"
+    },
+    {
+      "year": 2007,
+      "host_city": "Хельсинки",
+      "artist": "Serebro",
+      "language": "Английский",
+      "song": "« Song #1 »",
+      "translation": "«Песня № 1»",
+      "final_place": "3",
+      "final_points": "207",
+      "semifinal_place": "Топ-10 предыдущего года",
+      "semifinal_points": "Топ-10 предыдущего года"
+    },
+    {
+      "year": 2008,
+      "host_city": "Белград",
+      "artist": "Дима Билан",
+      "language": "Английский",
+      "song": "« Believe »",
+      "translation": "«Поверь»",
+      "final_place": "1",
+      "final_points": "272",
+      "semifinal_place": "3",
+      "semifinal_points": "135"
+    },
+    {
+      "year": 2009,
+      "host_city": "Москва",
+      "artist": "Анастасия Приходько",
+      "language": "Русский , украинский",
+      "song": "« Мамо »",
+      "translation": "«Мама!»",
+      "final_place": "11",
+      "final_points": "91",
+      "semifinal_place": "Страна победила в предыдущем году",
+      "semifinal_points": "Страна победила в предыдущем году"
+    },
+    {
+      "year": 2010,
+      "host_city": "Осло",
+      "artist": "Музыкальный коллектив Петра Налича",
+      "language": "Английский",
+      "song": "« Lost and Forgotten »",
+      "translation": "«Потерянный и забытый»",
+      "final_place": "11",
+      "final_points": "90",
+      "semifinal_place": "7",
+      "semifinal_points": "74"
+    },
+    {
+      "year": 2011,
+      "host_city": "Дюссельдорф",
+      "artist": "Алексей Воробьёв",
+      "language": "Английский , русский",
+      "song": "« Get You »",
+      "translation": "«Завоевать тебя»",
+      "final_place": "16",
+      "final_points": "77",
+      "semifinal_place": "9",
+      "semifinal_points": "64"
+    },
+    {
+      "year": 2012,
+      "host_city": "Баку",
+      "artist": "Бурановские бабушки",
+      "language": "Английский , удмуртский",
+      "song": "« Party for Everybody »",
+      "translation": "«Вечеринка для всех»",
+      "final_place": "2",
+      "final_points": "259",
+      "semifinal_place": "1",
+      "semifinal_points": "152"
+    },
+    {
+      "year": 2013,
+      "host_city": "Мальмё",
+      "artist": "Дина Гарипова",
+      "language": "Английский",
+      "song": "« What If »",
+      "translation": "«Что, если?»",
+      "final_place": "5",
+      "final_points": "174",
+      "semifinal_place": "2",
+      "semifinal_points": "156"
+    },
+    {
+      "year": 2014,
+      "host_city": "Копенгаген",
+      "artist": "Сёстры Толмачёвы",
+      "language": "Английский",
+      "song": "« Shine »",
+      "translation": "«Сияй»",
+      "final_place": "7",
+      "final_points": "89",
+      "semifinal_place": "6",
+      "semifinal_points": "63"
+    },
+    {
+      "year": 2015,
+      "host_city": "Вена",
+      "artist": "Полина Гагарина",
+      "language": "Английский",
+      "song": "« A Million Voices »",
+      "translation": "«Миллион голосов»",
+      "final_place": "2",
+      "final_points": "303",
+      "semifinal_place": "1",
+      "semifinal_points": "182"
+    },
+    {
+      "year": 2016,
+      "host_city": "Стокгольм",
+      "artist": "Сергей Лазарев",
+      "language": "Английский",
+      "song": "« You Are the Only One »",
+      "translation": "«Ты единственная»",
+      "final_place": "3",
+      "final_points": "491",
+      "semifinal_place": "1",
+      "semifinal_points": "342"
+    },
+    {
+      "year": 2017,
+      "host_city": "Киев",
+      "artist": "Юлия Самойлова",
+      "language": "Английский",
+      "song": "«Flame Is Burning»",
+      "translation": "«Пламя горит»",
+      "final_place": "Отказ",
+      "final_points": "Отказ",
+      "semifinal_place": "Отказ",
+      "semifinal_points": "Отказ"
+    },
+    {
+      "year": 2018,
+      "host_city": "Лиссабон",
+      "artist": "Юлия Самойлова",
+      "language": "Английский",
+      "song": "« I Won’t Break »",
+      "translation": "«Я не сломаюсь»",
+      "final_place": "Не прошла",
+      "final_points": "Не прошла",
+      "semifinal_place": "15",
+      "semifinal_points": "65"
+    },
+    {
+      "year": 2019,
+      "host_city": "Тель-Авив",
+      "artist": "Сергей Лазарев",
+      "language": "Английский",
+      "song": "« Scream »",
+      "translation": "«Крик»",
+      "final_place": "3",
+      "final_points": "370",
+      "semifinal_place": "6",
+      "semifinal_points": "217"
+    },
+    {
+      "year": 2020,
+      "host_city": "Роттердам",
+      "artist": "Little Big",
+      "language": "Английский , испанский",
+      "song": "« Uno »",
+      "translation": "«Один»",
+      "final_place": "Конкурс отменён",
+      "final_points": "Конкурс отменён",
+      "semifinal_place": "Конкурс отменён",
+      "semifinal_points": "Конкурс отменён"
+    },
+    {
+      "year": 2021,
+      "host_city": "Роттердам",
+      "artist": "Манижа",
+      "language": "Русский , английский",
+      "song": "« Russian Woman »",
+      "translation": "«Русская женщина»",
+      "final_place": "9",
+      "final_points": "204",
+      "semifinal_place": "3",
+      "semifinal_points": "225"
+    },
+    {
+      "year": "",
+      "host_city": "Не участвует с 2022 года из-за приостановки членства в ЕВС",
+      "artist": "Не участвует с 2022 года из-за приостановки членства в ЕВС",
+      "language": "Не участвует с 2022 года из-за приостановки членства в ЕВС",
+      "song": "Не участвует с 2022 года из-за приостановки членства в ЕВС",
+      "translation": "Не участвует с 2022 года из-за приостановки членства в ЕВС",
+      "final_place": "Не участвует с 2022 года из-за приостановки членства в ЕВС",
+      "final_points": "Не участвует с 2022 года из-за приостановки членства в ЕВС",
+      "semifinal_place": "Не участвует с 2022 года из-за приостановки членства в ЕВС",
+      "semifinal_points": "Не участвует с 2022 года из-за приостановки членства в ЕВС"
+    }
+  ],
+  "meta": {
+    "title": "Россия на «Евровидении» — участники и результаты - Free Download",
+    "description": "Все участники от России на конкурсе песни «Евровидение» с 1994 года: исполнитель, песня, язык, место и баллы в финале и полуфинале. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Россия на «Евровидении» — участники и результаты | ListBase",
+    "seo_description": "Download Россия на «Евровидении» — участники и результаты — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_%D0%BD%D0%B0_%C2%AB%D0%95%D0%B2%D1%80%D0%BE%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%C2%BB"
+    ]
+  }
+}
