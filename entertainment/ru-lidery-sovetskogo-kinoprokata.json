@@ -1,0 +1,394 @@
+{
+  "id": "ru-lidery-sovetskogo-kinoprokata",
+  "name": "Лидеры советского кинопроката — отечественные фильмы",
+  "title": "Лидеры советского кинопроката — отечественные фильмы",
+  "description": "Самые популярные советские фильмы в прокате СССР по числу зрителей (млн): название, год, киностудия и жанр.",
+  "category": "entertainment",
+  "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BB%D0%B8%D0%B4%D0%B5%D1%80%D0%BE%D0%B2_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D0%B8%D0%BD%D0%BE%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82%D0%B0",
+  "source_url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BB%D0%B8%D0%B4%D0%B5%D1%80%D0%BE%D0%B2_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D0%B8%D0%BD%D0%BE%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82%D0%B0",
+  "updated": "2026-10",
+  "record_count": 49,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "title_year",
+      "label": "Title Year",
+      "type": "string"
+    },
+    {
+      "key": "studio",
+      "label": "Studio",
+      "type": "string"
+    },
+    {
+      "key": "genre",
+      "label": "Genre",
+      "type": "string"
+    },
+    {
+      "key": "viewers_mln",
+      "label": "Viewers Mln",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "title_year": "Пираты XX века ( 1980 )",
+      "studio": "Киностудия им. Горького",
+      "genre": "боевик",
+      "viewers_mln": 87.6
+    },
+    {
+      "rank": 2,
+      "title_year": "Москва слезам не верит ( 1980 )",
+      "studio": "Мосфильм",
+      "genre": "мелодрама",
+      "viewers_mln": 84.4
+    },
+    {
+      "rank": 3,
+      "title_year": "Бриллиантовая рука ( 1969 )",
+      "studio": "Мосфильм",
+      "genre": "комедия",
+      "viewers_mln": 76.7
+    },
+    {
+      "rank": 4,
+      "title_year": "Кавказская пленница, или Новые приключения Шурика ( 1967 )",
+      "studio": "Мосфильм",
+      "genre": "комедия",
+      "viewers_mln": 76.5
+    },
+    {
+      "rank": 5,
+      "title_year": "Свадьба в Малиновке ( 1967 )",
+      "studio": "Ленфильм",
+      "genre": "комедия",
+      "viewers_mln": 74.6
+    },
+    {
+      "rank": 6,
+      "title_year": "Экипаж ( 1980 )",
+      "studio": "Мосфильм",
+      "genre": "мелодрама, остросюжетный",
+      "viewers_mln": 71.1
+    },
+    {
+      "rank": 7,
+      "title_year": "Операция «Ы» и другие приключения Шурика ( 1965 )",
+      "studio": "Мосфильм",
+      "genre": "комедия",
+      "viewers_mln": 69.6
+    },
+    {
+      "rank": 8,
+      "title_year": "Щит и меч ( 1968 )",
+      "studio": "Мосфильм",
+      "genre": "военный, остросюжетный",
+      "viewers_mln": 68.3
+    },
+    {
+      "rank": 9,
+      "title_year": "Новые приключения неуловимых ( 1969 )",
+      "studio": "Мосфильм",
+      "genre": "приключения",
+      "viewers_mln": 66.2
+    },
+    {
+      "rank": 10,
+      "title_year": "А зори здесь тихие… ( 1973 )",
+      "studio": "Киностудия им. Горького",
+      "genre": "военный, драма",
+      "viewers_mln": 66
+    },
+    {
+      "rank": 11,
+      "title_year": "Человек-амфибия ( 1962 )",
+      "studio": "Ленфильм",
+      "genre": "фантастика, мелодрама",
+      "viewers_mln": 65.4
+    },
+    {
+      "rank": 12,
+      "title_year": "Джентльмены удачи ( 1971 )",
+      "studio": "Мосфильм",
+      "genre": "комедия",
+      "viewers_mln": 65
+    },
+    {
+      "rank": 13,
+      "title_year": "Табор уходит в небо ( 1976 )",
+      "studio": "Мосфильм",
+      "genre": "мелодрама",
+      "viewers_mln": 64.9
+    },
+    {
+      "rank": 14,
+      "title_year": "Калина красная ( 1974 )",
+      "studio": "Мосфильм",
+      "genre": "драма",
+      "viewers_mln": 62.5
+    },
+    {
+      "rank": 15,
+      "title_year": "Афоня ( 1975 )",
+      "studio": "Мосфильм",
+      "genre": "комедия",
+      "viewers_mln": 62.2
+    },
+    {
+      "rank": 16,
+      "title_year": "Корона Российской империи, или Снова неуловимые ( 1973 )",
+      "studio": "Мосфильм",
+      "genre": "приключения",
+      "viewers_mln": 60.8
+    },
+    {
+      "rank": 17,
+      "title_year": "Иван Васильевич меняет профессию ( 1973 )",
+      "studio": "Мосфильм",
+      "genre": "комедия",
+      "viewers_mln": 60.7
+    },
+    {
+      "rank": 18,
+      "title_year": "Мачеха ( 1974 )",
+      "studio": "Мосфильм",
+      "genre": "мелодрама",
+      "viewers_mln": 59.4
+    },
+    {
+      "rank": 19,
+      "title_year": "Служебный роман ( 1978 )",
+      "studio": "Мосфильм",
+      "genre": "комедия",
+      "viewers_mln": 58.4
+    },
+    {
+      "rank": 20,
+      "title_year": "Война и мир ( 1966 )",
+      "studio": "Мосфильм",
+      "genre": "исторический, экранизация",
+      "viewers_mln": 58.3
+    },
+    {
+      "rank": 21,
+      "title_year": "Судьба ( 1977 )",
+      "studio": "Мосфильм",
+      "genre": "военный, мелодрама",
+      "viewers_mln": 57.8
+    },
+    {
+      "rank": 22,
+      "title_year": "Русское поле ( 1971 )",
+      "studio": "Мосфильм",
+      "genre": "драма, мелодрама",
+      "viewers_mln": 56.2
+    },
+    {
+      "rank": 23,
+      "title_year": "Освобождение ( 1970 )",
+      "studio": "Мосфильм",
+      "genre": "военный",
+      "viewers_mln": 56.1
+    },
+    {
+      "rank": 24,
+      "title_year": "Маленькая Вера ( 1988 )",
+      "studio": "Киностудия им. Горького",
+      "genre": "драма, мелодрама",
+      "viewers_mln": 56
+    },
+    {
+      "rank": 25,
+      "title_year": "Цыган ( 1967 )",
+      "studio": "Киевская киностудия имени Довженко",
+      "genre": "драма, мелодрама",
+      "viewers_mln": 55.6
+    },
+    {
+      "rank": 26,
+      "title_year": "Спортлото-82 ( 1982 )",
+      "studio": "Мосфильм",
+      "genre": "комедия",
+      "viewers_mln": 55.2
+    },
+    {
+      "rank": 27,
+      "title_year": "Сильные духом ( 1967 )",
+      "studio": "Свердловская киностудия",
+      "genre": "военный, приключения",
+      "viewers_mln": 55.2
+    },
+    {
+      "rank": 28,
+      "title_year": "Женщина, которая поёт ( 1979 )",
+      "studio": "Мосфильм",
+      "genre": "мелодрама",
+      "viewers_mln": 54.9
+    },
+    {
+      "rank": 29,
+      "title_year": "Неуловимые мстители ( 1967 )",
+      "studio": "Мосфильм",
+      "genre": "приключения",
+      "viewers_mln": 54.5
+    },
+    {
+      "rank": 30,
+      "title_year": "Трактир на Пятницкой ( 1978 )",
+      "studio": "Мосфильм",
+      "genre": "детектив, приключения",
+      "viewers_mln": 54.1
+    },
+    {
+      "rank": 31,
+      "title_year": "Петровка, 38 ( 1980 )",
+      "studio": "Киностудия им. Горького",
+      "genre": "детектив, приключения",
+      "viewers_mln": 53.4
+    },
+    {
+      "rank": 32,
+      "title_year": "Офицеры ( 1971 )",
+      "studio": "Киностудия им. Горького",
+      "genre": "драма",
+      "viewers_mln": 53.4
+    },
+    {
+      "rank": 33,
+      "title_year": "Приключения Али-Бабы и сорока разбойников ( 1979 )",
+      "studio": "Узбекфильм",
+      "genre": "сказка",
+      "viewers_mln": 52.8
+    },
+    {
+      "rank": 34,
+      "title_year": "Всадник без головы ( 1973 )",
+      "studio": "Ленфильм",
+      "genre": "вестерн",
+      "viewers_mln": 51.7
+    },
+    {
+      "rank": 35,
+      "title_year": "Трембита ( 1969 )",
+      "studio": "Свердловская киностудия",
+      "genre": "оперетта",
+      "viewers_mln": 51.2
+    },
+    {
+      "rank": 36,
+      "title_year": "Любовь земная ( 1975 )",
+      "studio": "Мосфильм",
+      "genre": "мелодрама",
+      "viewers_mln": 50.9
+    },
+    {
+      "rank": 37,
+      "title_year": "Человек с бульвара Капуцинов ( 1987 )",
+      "studio": "Мосфильм",
+      "genre": "музыкальная комедия",
+      "viewers_mln": 50.6
+    },
+    {
+      "rank": 38,
+      "title_year": "Даурия ( 1972 )",
+      "studio": "Ленфильм",
+      "genre": "приключения, истерн",
+      "viewers_mln": 49.6
+    },
+    {
+      "rank": 39,
+      "title_year": "Бабье царство ( 1968 )",
+      "studio": "Мосфильм",
+      "genre": "военная драма",
+      "viewers_mln": 49.6
+    },
+    {
+      "rank": 40,
+      "title_year": "Невероятные приключения итальянцев в России ( 1974 )",
+      "studio": "Мосфильм",
+      "genre": "комедия",
+      "viewers_mln": 49.2
+    },
+    {
+      "rank": 41,
+      "title_year": "Гусарская баллада ( 1962 )",
+      "studio": "Мосфильм",
+      "genre": "музыкальная комедия",
+      "viewers_mln": 48.6
+    },
+    {
+      "rank": 42,
+      "title_year": "Путь в «Сатурн» ( 1968 )",
+      "studio": "Мосфильм",
+      "genre": "военный",
+      "viewers_mln": 48.2
+    },
+    {
+      "rank": 43,
+      "title_year": "Тегеран-43 ( 1981 )",
+      "studio": "Мосфильм",
+      "genre": "политический детектив",
+      "viewers_mln": 47.5
+    },
+    {
+      "rank": 44,
+      "title_year": "Ч. П. — Чрезвычайное происшествие ( 1959 )",
+      "studio": "Киевская киностудия имени Довженко",
+      "genre": "драма",
+      "viewers_mln": 47.4
+    },
+    {
+      "rank": 45,
+      "title_year": "Не может быть! ( 1975 )",
+      "studio": "Мосфильм",
+      "genre": "комедия",
+      "viewers_mln": 46.9
+    },
+    {
+      "rank": 46,
+      "title_year": "Любовь Яровая ( 1953 )",
+      "studio": "Ленфильм",
+      "genre": "драма",
+      "viewers_mln": 46.4
+    },
+    {
+      "rank": 47,
+      "title_year": "В бой идут одни старики ( 1973 )",
+      "studio": "Киевская киностудия имени Довженко",
+      "genre": "военный фильм",
+      "viewers_mln": 44.3
+    },
+    {
+      "rank": 48,
+      "title_year": "Их знали только в лицо ( 1966 )",
+      "studio": "Киевская киностудия имени Довженко",
+      "genre": "военный фильм",
+      "viewers_mln": 43.8
+    },
+    {
+      "rank": 49,
+      "title_year": "Белое солнце пустыни ( 1970 )",
+      "studio": "Мосфильм",
+      "genre": "истерн",
+      "viewers_mln": 34.5
+    }
+  ],
+  "meta": {
+    "title": "Лидеры советского кинопроката — отечественные фильмы - Free Download",
+    "description": "Самые популярные советские фильмы в прокате СССР по числу зрителей (млн): название, год, киностудия и жанр. Contains 49 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Лидеры советского кинопроката — отечественные фильмы | ListBase",
+    "seo_description": "Download Лидеры советского кинопроката — отечественные фильмы — 49 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 49 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BB%D0%B8%D0%B4%D0%B5%D1%80%D0%BE%D0%B2_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D0%B8%D0%BD%D0%BE%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82%D0%B0"
+    ]
+  }
+}
