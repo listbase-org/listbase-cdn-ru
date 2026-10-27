@@ -1,0 +1,151 @@
+{
+  "id": "ru-starorusskie-mery-dliny",
+  "name": "Старорусские меры длины",
+  "title": "Старорусские меры длины",
+  "description": "Русская система мер длины (точка, линия, дюйм, вершок, аршин, сажень, верста и др.) с переводом в футы, аршины, миллиметры и метры.",
+  "category": "units",
+  "source": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BC%D0%B5%D1%80",
+  "source_url": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BC%D0%B5%D1%80",
+  "updated": "2026-10",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "unit",
+      "label": "Unit",
+      "type": "string"
+    },
+    {
+      "key": "ratio_to_smaller",
+      "label": "Ratio To Smaller",
+      "type": "string"
+    },
+    {
+      "key": "feet",
+      "label": "Feet",
+      "type": "string"
+    },
+    {
+      "key": "arshins",
+      "label": "Arshins",
+      "type": "string"
+    },
+    {
+      "key": "mm",
+      "label": "Mm",
+      "type": "number"
+    },
+    {
+      "key": "meters",
+      "label": "Meters",
+      "type": "number"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unit": "точка",
+      "ratio_to_smaller": "",
+      "feet": "1 ⁄ 1200",
+      "arshins": "1 ⁄ 2800",
+      "mm": 0.254,
+      "meters": 0.000254,
+      "notes": ""
+    },
+    {
+      "unit": "линия",
+      "ratio_to_smaller": "10 точек",
+      "feet": "1 ⁄ 120",
+      "arshins": "1 ⁄ 280",
+      "mm": 2.54,
+      "meters": 0.00254,
+      "notes": ""
+    },
+    {
+      "unit": "сотка",
+      "ratio_to_smaller": "84 точки",
+      "feet": "7 ⁄ 100",
+      "arshins": "3 ⁄ 100",
+      "mm": 21.336,
+      "meters": 0.021336,
+      "notes": ""
+    },
+    {
+      "unit": "дюйм",
+      "ratio_to_smaller": "10 линий",
+      "feet": "1 ⁄ 12",
+      "arshins": "1 ⁄ 28",
+      "mm": 25.4,
+      "meters": 0.0254,
+      "notes": "Дюйм заимствован вместе с футом при Петре I."
+    },
+    {
+      "unit": "вершок",
+      "ratio_to_smaller": "1 + 3 ⁄ 4 дюйма",
+      "feet": "7 ⁄ 48",
+      "arshins": "1 ⁄ 16",
+      "mm": 44.45,
+      "meters": 0.04445,
+      "notes": ""
+    },
+    {
+      "unit": "четверть (пядь)",
+      "ratio_to_smaller": "4 вершка или 7 дюймов",
+      "feet": "7 ⁄ 12",
+      "arshins": "1 ⁄ 4",
+      "mm": 177.8,
+      "meters": 0.1778,
+      "notes": ""
+    },
+    {
+      "unit": "фут",
+      "ratio_to_smaller": "12 дюймов",
+      "feet": "1",
+      "arshins": "3 ⁄ 7",
+      "mm": 304.8,
+      "meters": 0.3048,
+      "notes": "Английская мера длины, заимствованная при Петре I для упрощения кораблестроительных заказов за рубежом. При этом для точного соответствия 7 английским футам была немного уменьшена длина сажени (а следовательно, аршина и вершка)."
+    },
+    {
+      "unit": "аршин",
+      "ratio_to_smaller": "16 вершков или 28 дюймов",
+      "feet": "2 1 ⁄ 3",
+      "arshins": "1",
+      "mm": 711.2,
+      "meters": 0.7112,
+      "notes": ""
+    },
+    {
+      "unit": "сажень",
+      "ratio_to_smaller": "3 аршина или 7 футов",
+      "feet": "7",
+      "arshins": "3",
+      "mm": 2133.6,
+      "meters": 2.1336,
+      "notes": ""
+    },
+    {
+      "unit": "верста",
+      "ratio_to_smaller": "500 саженей",
+      "feet": "3500",
+      "arshins": "1500",
+      "mm": 1066800,
+      "meters": 1066.8,
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "Старорусские меры длины - Free Download",
+    "description": "Русская система мер длины (точка, линия, дюйм, вершок, аршин, сажень, верста и др.) с переводом в футы, аршины, миллиметры и метры. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Старорусские меры длины | ListBase",
+    "seo_description": "Download Старорусские меры длины — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BC%D0%B5%D1%80"
+    ]
+  }
+}

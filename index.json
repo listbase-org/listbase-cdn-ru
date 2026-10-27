@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-10-20T04:04:58.255Z",
-  "total_datasets": 439,
-  "total_records": 214253,
+  "generated": "2026-10-27T02:13:01.174Z",
+  "total_datasets": 440,
+  "total_records": 214263,
   "categories": [
     {
       "id": "culture",
@@ -55,6 +55,10 @@
     {
       "id": "transport",
       "dataset_count": 84
+    },
+    {
+      "id": "units",
+      "dataset_count": 1
     }
   ],
   "datasets": [
@@ -14130,6 +14134,34 @@
         "xlsx": {
           "name": "ru-zabaykalskiy-kray-aeroporty_RU.xlsx",
           "size": 14545
+        }
+      }
+    },
+    {
+      "id": "ru-starorusskie-mery-dliny",
+      "name": "Старорусские меры длины",
+      "category": "units",
+      "record_count": 10,
+      "columns": [
+        "unit",
+        "ratio_to_smaller",
+        "feet",
+        "arshins",
+        "mm",
+        "meters",
+        "notes"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BC%D0%B5%D1%80",
+      "updated": "2026-10",
+      "size": 4889,
+      "files": {
+        "csv": {
+          "name": "ru-starorusskie-mery-dliny_RU.csv",
+          "size": 1344
+        },
+        "xlsx": {
+          "name": "ru-starorusskie-mery-dliny_RU.xlsx",
+          "size": 7648
         }
       }
     }
