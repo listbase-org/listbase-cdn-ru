@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-10-27T02:13:56.840Z",
-  "total_datasets": 460,
-  "total_records": 215649,
+  "generated": "2026-10-27T02:13:59.313Z",
+  "total_datasets": 461,
+  "total_records": 215667,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tech",
@@ -11064,6 +11064,34 @@
         "xlsx": {
           "name": "ru-kubok-gagarina-finaly_RU.xlsx",
           "size": 8161
+        }
+      }
+    },
+    {
+      "id": "ru-rpl-poseshchaemost",
+      "name": "Посещаемость чемпионата России по футболу по сезонам",
+      "category": "sports",
+      "record_count": 18,
+      "columns": [
+        "season",
+        "total_attendance",
+        "matches",
+        "average",
+        "highest_avg",
+        "top_team",
+        "clubs"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83",
+      "updated": "2026-10",
+      "size": 6472,
+      "files": {
+        "csv": {
+          "name": "ru-rpl-poseshchaemost_RU.csv",
+          "size": 1328
+        },
+        "xlsx": {
+          "name": "ru-rpl-poseshchaemost_RU.xlsx",
+          "size": 7680
         }
       }
     },

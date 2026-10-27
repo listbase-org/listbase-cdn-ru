@@ -1,0 +1,223 @@
+{
+  "id": "ru-rpl-poseshchaemost",
+  "name": "Посещаемость чемпионата России по футболу по сезонам",
+  "title": "Посещаемость чемпионата России по футболу по сезонам",
+  "description": "Общая и средняя посещаемость матчей Российской Премьер-лиги по сезонам, клуб с наивысшей посещаемостью и число клубов.",
+  "category": "sports",
+  "source": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83",
+  "source_url": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83",
+  "updated": "2026-10",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "season",
+      "label": "Season",
+      "type": "number"
+    },
+    {
+      "key": "total_attendance",
+      "label": "Total Attendance",
+      "type": "number"
+    },
+    {
+      "key": "matches",
+      "label": "Matches",
+      "type": "number"
+    },
+    {
+      "key": "average",
+      "label": "Average",
+      "type": "number"
+    },
+    {
+      "key": "highest_avg",
+      "label": "Highest Avg",
+      "type": "number"
+    },
+    {
+      "key": "top_team",
+      "label": "Top Team",
+      "type": "string"
+    },
+    {
+      "key": "clubs",
+      "label": "Clubs",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "season": "2008",
+      "total_attendance": 3009451,
+      "matches": 240,
+      "average": 12914,
+      "highest_avg": 20811,
+      "top_team": "« Зенит »",
+      "clubs": 16
+    },
+    {
+      "season": "2009",
+      "total_attendance": 2872733,
+      "matches": 240,
+      "average": 11970,
+      "highest_avg": 23520,
+      "top_team": "«Спартак» (М)",
+      "clubs": 16
+    },
+    {
+      "season": "2010",
+      "total_attendance": 2901851,
+      "matches": 240,
+      "average": 12091,
+      "highest_avg": 21357,
+      "top_team": "«Спартак» (М)",
+      "clubs": 16
+    },
+    {
+      "season": "2011/2012",
+      "total_attendance": 4542505,
+      "matches": 356,
+      "average": 12905,
+      "highest_avg": 20877,
+      "top_team": "« Кубань »",
+      "clubs": 16
+    },
+    {
+      "season": "2012/2013",
+      "total_attendance": 3126393,
+      "matches": 240,
+      "average": 13027,
+      "highest_avg": 20934,
+      "top_team": "« Кубань »",
+      "clubs": 16
+    },
+    {
+      "season": "2013/2014",
+      "total_attendance": 2759684,
+      "matches": 240,
+      "average": 11499,
+      "highest_avg": 18952,
+      "top_team": "« Зенит »",
+      "clubs": 16
+    },
+    {
+      "season": "2014/2015",
+      "total_attendance": 2436299,
+      "matches": 240,
+      "average": 10151,
+      "highest_avg": 24698,
+      "top_team": "«Спартак» (М)",
+      "clubs": 16
+    },
+    {
+      "season": "2015/2016",
+      "total_attendance": 2561932,
+      "matches": 240,
+      "average": 10675,
+      "highest_avg": 25178,
+      "top_team": "«Спартак» (М)",
+      "clubs": 16
+    },
+    {
+      "season": "2016/2017",
+      "total_attendance": 2739516,
+      "matches": 240,
+      "average": 11415,
+      "highest_avg": 32760,
+      "top_team": "«Спартак» (М)",
+      "clubs": 16
+    },
+    {
+      "season": "2017/2018",
+      "total_attendance": 3353024,
+      "matches": 240,
+      "average": 13971,
+      "highest_avg": 43962,
+      "top_team": "« Зенит »",
+      "clubs": 16
+    },
+    {
+      "season": "2018/2019",
+      "total_attendance": 4036196,
+      "matches": 240,
+      "average": 16817,
+      "highest_avg": 48244,
+      "top_team": "« Зенит »",
+      "clubs": 16
+    },
+    {
+      "season": "2019/2020",
+      "total_attendance": 3219952,
+      "matches": 233,
+      "average": 13820,
+      "highest_avg": 39430,
+      "top_team": "« Зенит »",
+      "clubs": 16
+    },
+    {
+      "season": "2020/2021",
+      "total_attendance": 1878441,
+      "matches": 229,
+      "average": 8203,
+      "highest_avg": 19726,
+      "top_team": "« Зенит »",
+      "clubs": 16
+    },
+    {
+      "season": "2021/2022",
+      "total_attendance": 1703127,
+      "matches": 240,
+      "average": 7096,
+      "highest_avg": 20401,
+      "top_team": "« Зенит »",
+      "clubs": 16
+    },
+    {
+      "season": "2022/2023",
+      "total_attendance": 2262312,
+      "matches": 240,
+      "average": 9426,
+      "highest_avg": 30693,
+      "top_team": "« Зенит »",
+      "clubs": 16
+    },
+    {
+      "season": "2023/2024",
+      "total_attendance": 2678879,
+      "matches": 240,
+      "average": 11162,
+      "highest_avg": 28158,
+      "top_team": "« Зенит »",
+      "clubs": 16
+    },
+    {
+      "season": "2024/2025",
+      "total_attendance": 2905075,
+      "matches": 240,
+      "average": 12155,
+      "highest_avg": 35691,
+      "top_team": "« Зенит »",
+      "clubs": 16
+    },
+    {
+      "season": "2025/2026",
+      "total_attendance": 3270691,
+      "matches": 240,
+      "average": 13628,
+      "highest_avg": 37763,
+      "top_team": "« Зенит »",
+      "clubs": 16
+    }
+  ],
+  "meta": {
+    "title": "Посещаемость чемпионата России по футболу по сезонам - Free Download",
+    "description": "Общая и средняя посещаемость матчей Российской Премьер-лиги по сезонам, клуб с наивысшей посещаемостью и число клубов. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Посещаемость чемпионата России по футболу по сезонам | ListBase",
+    "seo_description": "Download Посещаемость чемпионата России по футболу по сезонам — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83"
+    ]
+  }
+}
