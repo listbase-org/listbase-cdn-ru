@@ -1,0 +1,128 @@
+{
+  "id": "ru-sudi-konstitucionnogo-suda",
+  "name": "Судьи Конституционного суда Российской Федерации",
+  "title": "Судьи Конституционного суда Российской Федерации",
+  "description": "Действующий состав Конституционного суда РФ: судьи, даты рождения, кем выдвинуты и дата начала полномочий.",
+  "category": "law",
+  "source": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D1%83%D0%B4_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8",
+  "source_url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D1%83%D0%B4_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8",
+  "updated": "2026-10",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "judge",
+      "label": "Judge",
+      "type": "string"
+    },
+    {
+      "key": "born",
+      "label": "Born",
+      "type": "string"
+    },
+    {
+      "key": "nominated_by",
+      "label": "Nominated By",
+      "type": "string"
+    },
+    {
+      "key": "service_start",
+      "label": "Service Start",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": "1",
+      "judge": "Валерий Зорькин Председатель Конституционного суда РФ",
+      "born": "18 февраля 1943 (83 года)",
+      "nominated_by": "Избран Съездом народных депутатов РСФСР",
+      "service_start": "30 октября 1991"
+    },
+    {
+      "no": "2",
+      "judge": "Людмила Жаркова Заместитель Председателя Конституционного суда РФ",
+      "born": "3 сентября 1955 (71 год)",
+      "nominated_by": "Борис Ельцин",
+      "service_start": "11 июня 1997"
+    },
+    {
+      "no": "3",
+      "judge": "Сергей Князев",
+      "born": "15 февраля 1959 (67 лет)",
+      "nominated_by": "Дмитрий Медведев",
+      "service_start": "15 октября 2008"
+    },
+    {
+      "no": "4",
+      "judge": "Александр Кокотов",
+      "born": "15 января 1961 (65 лет)",
+      "nominated_by": "Дмитрий Медведев",
+      "service_start": "3 марта 2010"
+    },
+    {
+      "no": "5",
+      "judge": "Андрей Бушев",
+      "born": "12 февраля 1966 (60 лет)",
+      "nominated_by": "Владимир Путин",
+      "service_start": "8 июня 2022"
+    },
+    {
+      "no": "6",
+      "judge": "Владимир Сивицкий",
+      "born": "2 октября 1974 (52 года)",
+      "nominated_by": "Владимир Путин",
+      "service_start": "21 июня 2023"
+    },
+    {
+      "no": "7",
+      "judge": "Михаил Лобов",
+      "born": "1 февраля 1971 (55 лет)",
+      "nominated_by": "Владимир Путин",
+      "service_start": "25 сентября 2023"
+    },
+    {
+      "no": "8",
+      "judge": "Александр Коновалов",
+      "born": "9 июня 1968 (58 лет)",
+      "nominated_by": "Владимир Путин",
+      "service_start": "16 апреля 2025"
+    },
+    {
+      "no": "9",
+      "judge": "Константин Калиновский",
+      "born": "12 декабря 1971 (54 года)",
+      "nominated_by": "Владимир Путин",
+      "service_start": "16 июля 2025"
+    },
+    {
+      "no": "10",
+      "judge": "Евгений Тарибо",
+      "born": "1976 (50 лет)",
+      "nominated_by": "Владимир Путин",
+      "service_start": "16 июля 2025"
+    },
+    {
+      "no": "11",
+      "judge": "Виктория Коробченко",
+      "born": "24 ноября 1975 (50 лет)",
+      "nominated_by": "Владимир Путин",
+      "service_start": "24 июля 2026"
+    }
+  ],
+  "meta": {
+    "title": "Судьи Конституционного суда Российской Федерации - Free Download",
+    "description": "Действующий состав Конституционного суда РФ: судьи, даты рождения, кем выдвинуты и дата начала полномочий. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Судьи Конституционного суда Российской Федерации | ListBase",
+    "seo_description": "Download Судьи Конституционного суда Российской Федерации — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D1%83%D0%B4_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8"
+    ]
+  }
+}
