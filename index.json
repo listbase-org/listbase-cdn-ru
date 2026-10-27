@@ -1,9 +1,13 @@
 {
   "lang": "ru",
-  "generated": "2026-10-27T02:13:46.622Z",
-  "total_datasets": 456,
-  "total_records": 215485,
+  "generated": "2026-10-27T02:13:49.208Z",
+  "total_datasets": 457,
+  "total_records": 215514,
   "categories": [
+    {
+      "id": "agriculture",
+      "dataset_count": 1
+    },
     {
       "id": "culture",
       "dataset_count": 9
@@ -94,6 +98,37 @@
     }
   ],
   "datasets": [
+    {
+      "id": "ru-proizvodstvo-zhivotnovodstva",
+      "name": "Производство основных продуктов животноводства в России",
+      "category": "agriculture",
+      "record_count": 29,
+      "columns": [
+        "year",
+        "meat_total",
+        "meat_cattle",
+        "meat_pigs",
+        "meat_sheep_goats",
+        "meat_poultry",
+        "milk",
+        "eggs_mln",
+        "wool_tonnes",
+        "honey_tonnes"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8",
+      "updated": "2026-10",
+      "size": 11343,
+      "files": {
+        "csv": {
+          "name": "ru-proizvodstvo-zhivotnovodstva_RU.csv",
+          "size": 2614
+        },
+        "xlsx": {
+          "name": "ru-proizvodstvo-zhivotnovodstva_RU.xlsx",
+          "size": 8780
+        }
+      }
+    },
     {
       "id": "ru-gerby-subektov-rf",
       "name": "Гербы субъектов Российской Федерации",

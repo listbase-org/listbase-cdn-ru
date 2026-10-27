@@ -1,0 +1,424 @@
+{
+  "id": "ru-proizvodstvo-zhivotnovodstva",
+  "name": "Производство основных продуктов животноводства в России",
+  "title": "Производство основных продуктов животноводства в России",
+  "description": "Производство скота и птицы на убой (в убойном весе), молока, яиц и шерсти в Российской Федерации по годам (тыс. тонн; яйца — млн штук).",
+  "category": "agriculture",
+  "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8",
+  "source_url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8",
+  "updated": "2026-10",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "meat_total",
+      "label": "Meat Total",
+      "type": "number"
+    },
+    {
+      "key": "meat_cattle",
+      "label": "Meat Cattle",
+      "type": "number"
+    },
+    {
+      "key": "meat_pigs",
+      "label": "Meat Pigs",
+      "type": "number"
+    },
+    {
+      "key": "meat_sheep_goats",
+      "label": "Meat Sheep Goats",
+      "type": "number"
+    },
+    {
+      "key": "meat_poultry",
+      "label": "Meat Poultry",
+      "type": "number"
+    },
+    {
+      "key": "milk",
+      "label": "Milk",
+      "type": "number"
+    },
+    {
+      "key": "eggs_mln",
+      "label": "Eggs Mln",
+      "type": "number"
+    },
+    {
+      "key": "wool_tonnes",
+      "label": "Wool Tonnes",
+      "type": "number"
+    },
+    {
+      "key": "honey_tonnes",
+      "label": "Honey Tonnes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2018,
+      "meat_total": 10629.4,
+      "meat_cattle": 1608.1,
+      "meat_pigs": 3744.2,
+      "meat_sheep_goats": 223.8,
+      "meat_poultry": 4980,
+      "milk": 30611.2,
+      "eggs_mln": 44901.2,
+      "wool_tonnes": 55471,
+      "honey_tonnes": 65006
+    },
+    {
+      "year": 2017,
+      "meat_total": 10319,
+      "meat_cattle": 1569.3,
+      "meat_pigs": 3515.7,
+      "meat_sheep_goats": 219.5,
+      "meat_poultry": 4941,
+      "milk": 30184.5,
+      "eggs_mln": 44829.2,
+      "wool_tonnes": 56733,
+      "honey_tonnes": 65167
+    },
+    {
+      "year": 2016,
+      "meat_total": 9853.3,
+      "meat_cattle": 1588.8,
+      "meat_pigs": 3355.1,
+      "meat_sheep_goats": 213.2,
+      "meat_poultry": 4622.4,
+      "milk": 29787.2,
+      "eggs_mln": 43514.5,
+      "wool_tonnes": 56006,
+      "honey_tonnes": 69222
+    },
+    {
+      "year": 2015,
+      "meat_total": 9518.5,
+      "meat_cattle": 1617.1,
+      "meat_pigs": 3083.2,
+      "meat_sheep_goats": 203.8,
+      "meat_poultry": 4540.9,
+      "milk": 29887.5,
+      "eggs_mln": 42509.6,
+      "wool_tonnes": 55495,
+      "honey_tonnes": 67120
+    },
+    {
+      "year": 2014,
+      "meat_total": 9026,
+      "meat_cattle": 1621.4,
+      "meat_pigs": 2963.6,
+      "meat_sheep_goats": 202.9,
+      "meat_poultry": 4164.3,
+      "milk": 29995.2,
+      "eggs_mln": 41747.3,
+      "wool_tonnes": 56044,
+      "honey_tonnes": 74214
+    },
+    {
+      "year": 2013,
+      "meat_total": 8525.3,
+      "meat_cattle": 1608,
+      "meat_pigs": 2817,
+      "meat_sheep_goats": 189.6,
+      "meat_poultry": 3838.9,
+      "milk": 29865.3,
+      "eggs_mln": 41390,
+      "wool_tonnes": 54442,
+      "honey_tonnes": 67767
+    },
+    {
+      "year": 2012,
+      "meat_total": 8077.6,
+      "meat_cattle": 1619.8,
+      "meat_pigs": 2563.3,
+      "meat_sheep_goats": 190,
+      "meat_poultry": 3632.2,
+      "milk": 31196.8,
+      "eggs_mln": 42132.5,
+      "wool_tonnes": 55038,
+      "honey_tonnes": 64175
+    },
+    {
+      "year": 2011,
+      "meat_total": 7515.7,
+      "meat_cattle": 1608.1,
+      "meat_pigs": 2433.8,
+      "meat_sheep_goats": 188.3,
+      "meat_poultry": 3213.2,
+      "milk": 31204.3,
+      "eggs_mln": 41288.8,
+      "wool_tonnes": 52344,
+      "honey_tonnes": 59323
+    },
+    {
+      "year": 2010,
+      "meat_total": 7164.8,
+      "meat_cattle": 1711.5,
+      "meat_pigs": 2337.4,
+      "meat_sheep_goats": 184.4,
+      "meat_poultry": 2855.4,
+      "milk": 31507.8,
+      "eggs_mln": 40758.9,
+      "wool_tonnes": 53443,
+      "honey_tonnes": 51006
+    },
+    {
+      "year": 2009,
+      "meat_total": 6715,
+      "meat_cattle": 1729.2,
+      "meat_pigs": 2175.6,
+      "meat_sheep_goats": 182.8,
+      "meat_poultry": 2556.1,
+      "milk": 32315.1,
+      "eggs_mln": 39468.4,
+      "wool_tonnes": 54601,
+      "honey_tonnes": 53164
+    },
+    {
+      "year": 2008,
+      "meat_total": 6276.7,
+      "meat_cattle": 1762.1,
+      "meat_pigs": 2054.4,
+      "meat_sheep_goats": 173.8,
+      "meat_poultry": 2220.2,
+      "milk": 32225.7,
+      "eggs_mln": 38077.5,
+      "wool_tonnes": 53513,
+      "honey_tonnes": 57096
+    },
+    {
+      "year": 2007,
+      "meat_total": 5785.9,
+      "meat_cattle": 1699.8,
+      "meat_pigs": 1929.9,
+      "meat_sheep_goats": 167.5,
+      "meat_poultry": 1924.6,
+      "milk": 31984.2,
+      "eggs_mln": 38161.8,
+      "wool_tonnes": 52013,
+      "honey_tonnes": 53720
+    },
+    {
+      "year": 2006,
+      "meat_total": 5278.1,
+      "meat_cattle": 1721.5,
+      "meat_pigs": 1699.2,
+      "meat_sheep_goats": 156.3,
+      "meat_poultry": 1632.1,
+      "milk": 31339.1,
+      "eggs_mln": 38216.3,
+      "wool_tonnes": 50276,
+      "honey_tonnes": 55678
+    },
+    {
+      "year": 2005,
+      "meat_total": 4989.5,
+      "meat_cattle": 1809.2,
+      "meat_pigs": 1569.1,
+      "meat_sheep_goats": 154.1,
+      "meat_poultry": 1387.8,
+      "milk": 31069.9,
+      "eggs_mln": 37139.7,
+      "wool_tonnes": 48800,
+      "honey_tonnes": 52469
+    },
+    {
+      "year": 2004,
+      "meat_total": 5046.4,
+      "meat_cattle": 1953.9,
+      "meat_pigs": 1685.8,
+      "meat_sheep_goats": 144.8,
+      "meat_poultry": 1192.2,
+      "milk": 31861.2,
+      "eggs_mln": 35900.7,
+      "wool_tonnes": 47359,
+      "honey_tonnes": 52964
+    },
+    {
+      "year": 2003,
+      "meat_total": 4993.3,
+      "meat_cattle": 2002.3,
+      "meat_pigs": 1742.6,
+      "meat_sheep_goats": 134.4,
+      "meat_poultry": 1047.7,
+      "milk": 33315.5,
+      "eggs_mln": 36625.2,
+      "wool_tonnes": 44988,
+      "honey_tonnes": 48495
+    },
+    {
+      "year": 2002,
+      "meat_total": 4732.8,
+      "meat_cattle": 1967.4,
+      "meat_pigs": 1608.3,
+      "meat_sheep_goats": 136.1,
+      "meat_poultry": 955.7,
+      "milk": 33462.2,
+      "eggs_mln": 36377.8,
+      "wool_tonnes": 42870,
+      "honey_tonnes": 49700
+    },
+    {
+      "year": 2001,
+      "meat_total": 4477.4,
+      "meat_cattle": 1878.6,
+      "meat_pigs": 1514.7,
+      "meat_sheep_goats": 134.2,
+      "meat_poultry": 885.7,
+      "milk": 32874.1,
+      "eggs_mln": 35241.7,
+      "wool_tonnes": 40515,
+      "honey_tonnes": 52960
+    },
+    {
+      "year": 2000,
+      "meat_total": 4445.8,
+      "meat_cattle": 1897.9,
+      "meat_pigs": 1578.2,
+      "meat_sheep_goats": 140.3,
+      "meat_poultry": 767.5,
+      "milk": 32259,
+      "eggs_mln": 34084.7,
+      "wool_tonnes": 40088,
+      "honey_tonnes": 54248
+    },
+    {
+      "year": 1999,
+      "meat_total": 4313,
+      "meat_cattle": 1867.6,
+      "meat_pigs": 1485,
+      "meat_sheep_goats": 143.6,
+      "meat_poultry": 748.1,
+      "milk": 32273.6,
+      "eggs_mln": 33134.6,
+      "wool_tonnes": 40234,
+      "honey_tonnes": 51034
+    },
+    {
+      "year": 1998,
+      "meat_total": 4702.8,
+      "meat_cattle": 2246.5,
+      "meat_pigs": 1504.9,
+      "meat_sheep_goats": 178.2,
+      "meat_poultry": 690.2,
+      "milk": 33255.2,
+      "eggs_mln": 32744.2,
+      "wool_tonnes": 47883,
+      "honey_tonnes": 49554
+    },
+    {
+      "year": 1997,
+      "meat_total": 4853.9,
+      "meat_cattle": 2394.9,
+      "meat_pigs": 1545.5,
+      "meat_sheep_goats": 199.3,
+      "meat_poultry": 630.3,
+      "milk": 34135.6,
+      "eggs_mln": 32198.7,
+      "wool_tonnes": 60768,
+      "honey_tonnes": 48756
+    },
+    {
+      "year": 1996,
+      "meat_total": 5335.8,
+      "meat_cattle": 2630,
+      "meat_pigs": 1705.2,
+      "meat_sheep_goats": 229.7,
+      "meat_poultry": 689.6,
+      "milk": 35818.9,
+      "eggs_mln": 31902.3,
+      "wool_tonnes": 76930,
+      "honey_tonnes": 46228
+    },
+    {
+      "year": 1995,
+      "meat_total": 5795.8,
+      "meat_cattle": 2733.5,
+      "meat_pigs": 1865.4,
+      "meat_sheep_goats": 261.3,
+      "meat_poultry": 859.2,
+      "milk": 39240.7,
+      "eggs_mln": 33830.2,
+      "wool_tonnes": 93012,
+      "honey_tonnes": 57748
+    },
+    {
+      "year": 1994,
+      "meat_total": 6803.3,
+      "meat_cattle": 3240.2,
+      "meat_pigs": 2103.5,
+      "meat_sheep_goats": 315.5,
+      "meat_poultry": 1068.4,
+      "milk": 42176.2,
+      "eggs_mln": 37476.6,
+      "wool_tonnes": 122166,
+      "honey_tonnes": 43899
+    },
+    {
+      "year": 1993,
+      "meat_total": 7512.9,
+      "meat_cattle": 3358.8,
+      "meat_pigs": 2432.1,
+      "meat_sheep_goats": 359.2,
+      "meat_poultry": 1276.8,
+      "milk": 46524,
+      "eggs_mln": 40297.1,
+      "wool_tonnes": 158390,
+      "honey_tonnes": 52747
+    },
+    {
+      "year": 1992,
+      "meat_total": 8260.3,
+      "meat_cattle": 3631.5,
+      "meat_pigs": 2783.5,
+      "meat_sheep_goats": 329.4,
+      "meat_poultry": 1427.8,
+      "milk": 47236,
+      "eggs_mln": 42902.1,
+      "wool_tonnes": 178640,
+      "honey_tonnes": 49556
+    },
+    {
+      "year": 1991,
+      "meat_total": 9375.2,
+      "meat_cattle": 3989,
+      "meat_pigs": 3189.7,
+      "meat_sheep_goats": 347.4,
+      "meat_poultry": 1750.9,
+      "milk": 51885.5,
+      "eggs_mln": 46874.9,
+      "wool_tonnes": 204497,
+      "honey_tonnes": 48433
+    },
+    {
+      "year": 1990,
+      "meat_total": 10111.6,
+      "meat_cattle": 4329.3,
+      "meat_pigs": 3480,
+      "meat_sheep_goats": 395,
+      "meat_poultry": 1801,
+      "milk": 55715.3,
+      "eggs_mln": 47469.7,
+      "wool_tonnes": 226743,
+      "honey_tonnes": 46091
+    }
+  ],
+  "meta": {
+    "title": "Производство основных продуктов животноводства в России - Free Download",
+    "description": "Производство скота и птицы на убой (в убойном весе), молока, яиц и шерсти в Российской Федерации по годам (тыс. тонн; яйца — млн штук). Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Производство основных продуктов животноводства в России | ListBase",
+    "seo_description": "Download Производство основных продуктов животноводства в России — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8"
+    ]
+  }
+}
