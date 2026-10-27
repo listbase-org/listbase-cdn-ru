@@ -1,12 +1,16 @@
 {
   "lang": "ru",
-  "generated": "2026-10-27T02:13:29.169Z",
-  "total_datasets": 449,
-  "total_records": 214756,
+  "generated": "2026-10-27T02:13:31.537Z",
+  "total_datasets": 450,
+  "total_records": 215091,
   "categories": [
     {
       "id": "culture",
       "dataset_count": 9
+    },
+    {
+      "id": "economy",
+      "dataset_count": 1
     },
     {
       "id": "education",
@@ -343,6 +347,31 @@
         "xlsx": {
           "name": "ru-vsemirnoe-nasledie-unesco_RU.xlsx",
           "size": 16419
+        }
+      }
+    },
+    {
+      "id": "ru-monogoroda",
+      "name": "Моногорода России",
+      "category": "economy",
+      "record_count": 335,
+      "columns": [
+        "town",
+        "region",
+        "population_thousands",
+        "main_enterprise"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%BE%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8",
+      "updated": "2026-10",
+      "size": 85725,
+      "files": {
+        "csv": {
+          "name": "ru-monogoroda_RU.csv",
+          "size": 50443
+        },
+        "xlsx": {
+          "name": "ru-monogoroda_RU.xlsx",
+          "size": 23547
         }
       }
     },

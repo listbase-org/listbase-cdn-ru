@@ -1,0 +1,2056 @@
+{
+  "id": "ru-monogoroda",
+  "name": "Моногорода России",
+  "title": "Моногорода России",
+  "description": "Перечень моногородов Российской Федерации по регионам с численностью населения (тыс. человек) и градообразующими предприятиями.",
+  "category": "economy",
+  "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%BE%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8",
+  "source_url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%BE%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8",
+  "updated": "2026-10",
+  "record_count": 335,
+  "columns": [
+    {
+      "key": "town",
+      "label": "Town",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "population_thousands",
+      "label": "Population Thousands",
+      "type": "number"
+    },
+    {
+      "key": "main_enterprise",
+      "label": "Main Enterprise",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "town": "Яровое",
+      "region": "Алтайский край",
+      "population_thousands": 18.05,
+      "main_enterprise": "ОАО «Алтайхимпром»"
+    },
+    {
+      "town": "Заринск",
+      "region": "Алтайский край",
+      "population_thousands": 46.25,
+      "main_enterprise": "ОАО «Алтай-кокс»"
+    },
+    {
+      "town": "Алейск",
+      "region": "Алтайский край",
+      "population_thousands": 29.2,
+      "main_enterprise": "АО «Алейскзернопродукт» имени С. Н. Старовойтова"
+    },
+    {
+      "town": "Новоалтайск",
+      "region": "Алтайский край",
+      "population_thousands": 73.7,
+      "main_enterprise": "ОАО « Алтайвагон », предприятия Западно-Сибирской железной дороги"
+    },
+    {
+      "town": "Степное Озеро (посёлок)",
+      "region": "Алтайский край",
+      "population_thousands": 6.3,
+      "main_enterprise": "ОАО « Кучуксульфат »"
+    },
+    {
+      "town": "Райчихинск",
+      "region": "Амурская область",
+      "population_thousands": 17.3,
+      "main_enterprise": "ООО «Амурский уголь»"
+    },
+    {
+      "town": "Свободный",
+      "region": "Амурская область",
+      "population_thousands": 53.6,
+      "main_enterprise": "Структурные подразделения Дальневосточной железной дороги — филиала ОАО « РЖД »"
+    },
+    {
+      "town": "Тында",
+      "region": "Амурская область",
+      "population_thousands": 33.06,
+      "main_enterprise": "Структурные подразделения Дальневосточной железной дороги — филиала ОАО «РЖД» (Тындинский регион)"
+    },
+    {
+      "town": "Прогресс (посёлок городского типа)",
+      "region": "Амурская область",
+      "population_thousands": 9.8,
+      "main_enterprise": "Райчихинская ГРЭС"
+    },
+    {
+      "town": "Кизема (посёлок)",
+      "region": "Архангельская область",
+      "population_thousands": 2.6,
+      "main_enterprise": "ООО «Дмитриевский леспромхоз»"
+    },
+    {
+      "town": "Онега",
+      "region": "Архангельская область",
+      "population_thousands": 20.2,
+      "main_enterprise": "ОАО «Онежский лесопильнодеревообрабатывающий комбинат»"
+    },
+    {
+      "town": "Октябрьский (посёлок)",
+      "region": "Архангельская область",
+      "population_thousands": 9.1,
+      "main_enterprise": "ОАО «Октябрьский ДСК»"
+    },
+    {
+      "town": "Коряжма",
+      "region": "Архангельская область",
+      "population_thousands": 38,
+      "main_enterprise": "Филиал ОАО «Группа „ Илим“ »"
+    },
+    {
+      "town": "Новодвинск",
+      "region": "Архангельская область",
+      "population_thousands": 39.6,
+      "main_enterprise": "ОАО « Архангельский целлюлозно-бумажный комбинат »"
+    },
+    {
+      "town": "Североонежск (посёлок)",
+      "region": "Архангельская область",
+      "population_thousands": 4.9,
+      "main_enterprise": "ОАО «Северо-Онежский бокситный рудник»"
+    },
+    {
+      "town": "Северодвинск",
+      "region": "Архангельская область",
+      "population_thousands": 188.4,
+      "main_enterprise": "ОАО «ПО „ Севмаш“ », ОАО «ЦС „Звёздочка“»"
+    },
+    {
+      "town": "Губкин",
+      "region": "Белгородская область",
+      "population_thousands": 120.5,
+      "main_enterprise": "ОАО « Лебединский ГОК »"
+    },
+    {
+      "town": "Белая Берёзка (посёлок)",
+      "region": "Брянская область",
+      "population_thousands": 6,
+      "main_enterprise": "ООО «Брянский фанерный комбинат»"
+    },
+    {
+      "town": "Бытошь (посёлок)",
+      "region": "Брянская область",
+      "population_thousands": 4.5,
+      "main_enterprise": "ОАО « Бытошевский стекольный завод »"
+    },
+    {
+      "town": "Ивот (посёлок)",
+      "region": "Брянская область",
+      "population_thousands": 6.4,
+      "main_enterprise": "ОАО « Ивотстекло »"
+    },
+    {
+      "town": "Любохна (посёлок)",
+      "region": "Брянская область",
+      "population_thousands": 6.3,
+      "main_enterprise": "ОАО «Сантехлит»"
+    },
+    {
+      "town": "Сураж",
+      "region": "Брянская область",
+      "population_thousands": 11.1,
+      "main_enterprise": "ЗАО «Пролетарий»"
+    },
+    {
+      "town": "Фокино",
+      "region": "Брянская область",
+      "population_thousands": "",
+      "main_enterprise": "ЗАО « Мальцовский портландцемент »"
+    },
+    {
+      "town": "Карачев",
+      "region": "Брянская область",
+      "population_thousands": 25.6,
+      "main_enterprise": "ФГУП «Карачевский завод „Электродеталь“»"
+    },
+    {
+      "town": "Погар (посёлок)",
+      "region": "Брянская область",
+      "population_thousands": 8.4,
+      "main_enterprise": "ОАО « Погарская сигаретно-сигарная фабрика »"
+    },
+    {
+      "town": "Клинцы",
+      "region": "Брянская область",
+      "population_thousands": 69.5,
+      "main_enterprise": "ОАО « Клинцовский автокрановый завод »"
+    },
+    {
+      "town": "Сельцо",
+      "region": "Брянская область",
+      "population_thousands": 17.1,
+      "main_enterprise": "ОАО «Брянский химический завод имени имени 50-летия СССР»"
+    },
+    {
+      "town": "Гороховец",
+      "region": "Владимирская область",
+      "population_thousands": 12.7,
+      "main_enterprise": "ООО «Русджам»"
+    },
+    {
+      "town": "Камешково",
+      "region": "Владимирская область",
+      "population_thousands": 12.4,
+      "main_enterprise": "Камешковский филиал ООО «Детская одежда»"
+    },
+    {
+      "town": "Курлово",
+      "region": "Владимирская область",
+      "population_thousands": 5.9,
+      "main_enterprise": "ООО «Завод Символ»"
+    },
+    {
+      "town": "Меленки",
+      "region": "Владимирская область",
+      "population_thousands": 13.7,
+      "main_enterprise": "Меленковский консервный завод"
+    },
+    {
+      "town": "Вязники",
+      "region": "Владимирская область",
+      "population_thousands": 43.9,
+      "main_enterprise": "ОАО « Освар »"
+    },
+    {
+      "town": "Ставрово (посёлок)",
+      "region": "Владимирская область",
+      "population_thousands": 7.2,
+      "main_enterprise": "ООО «СтиС-Владимир»"
+    },
+    {
+      "town": "Кольчугино",
+      "region": "Владимирская область",
+      "population_thousands": 44.9,
+      "main_enterprise": "ОАО \"Электрокабель « Кольчугинский завод », ЗАО «Кольчугинский завод цветных металлов»"
+    },
+    {
+      "town": "Михайловка",
+      "region": "Волгоградская область",
+      "population_thousands": 58.7,
+      "main_enterprise": "ОАО «Себряковцемент», ОАО «Себряковский комбинат асбестоцементных изделий»"
+    },
+    {
+      "town": "Фролово",
+      "region": "Волгоградская область",
+      "population_thousands": 38.5,
+      "main_enterprise": "ЗАО « Фроловский электросталеплавильный завод » (ЗАО «ВолгаФЭСТ»)"
+    },
+    {
+      "town": "Красавино",
+      "region": "Вологодская область",
+      "population_thousands": 6.8,
+      "main_enterprise": "ОАО «Вологодский текстиль» (на базе ОАО «Северлён», ликвидированного в 2012 году)"
+    },
+    {
+      "town": "Сазоново (посёлок)",
+      "region": "Вологодская область",
+      "population_thousands": 2.9,
+      "main_enterprise": "ОАО Стекольный завод «Русджам-Покровский»"
+    },
+    {
+      "town": "Череповец",
+      "region": "Вологодская область",
+      "population_thousands": 316.7,
+      "main_enterprise": "ОАО ЧерМК « Северсталь »"
+    },
+    {
+      "town": "Сокол",
+      "region": "Вологодская область",
+      "population_thousands": 37.7,
+      "main_enterprise": "ОАО « Сокольский деревообрабатывающий комбинат », ОАО « Сокольский целлюлозно-бумажный комбинат », ООО «Сухонский целлюлозно-бумажный комбинат»"
+    },
+    {
+      "town": "Елань-Коленовский",
+      "region": "Воронежская область",
+      "population_thousands": 3.5,
+      "main_enterprise": "ОАО «Елань-Коленовский сахарный завод»"
+    },
+    {
+      "town": "Семилуки",
+      "region": "Воронежская область",
+      "population_thousands": 26.5,
+      "main_enterprise": "ОАО «Семилукский огнеупорный завод»"
+    },
+    {
+      "town": "Павловск",
+      "region": "Воронежская область",
+      "population_thousands": 24.8,
+      "main_enterprise": "ОАО «Павловск Неруд» (в 2013 году стало правопреемником ОАО «Павловскгранит»)"
+    },
+    {
+      "town": "Россошь",
+      "region": "Воронежская область",
+      "population_thousands": 62.5,
+      "main_enterprise": "ОАО «Минудобрения»"
+    },
+    {
+      "town": "Теплоозёрск (посёлок)",
+      "region": "Еврейская автономная область",
+      "population_thousands": 3.6,
+      "main_enterprise": "ОАО «Теплоозёрский цементный завод»"
+    },
+    {
+      "town": "Жирекен (посёлок)",
+      "region": "Забайкальский край",
+      "population_thousands": 4.6,
+      "main_enterprise": "ОАО «Жирекенский ГОК», ООО «Жирекенский ферромолибденовый завод»"
+    },
+    {
+      "town": "Новоорловск (посёлок)",
+      "region": "Забайкальский край",
+      "population_thousands": 3,
+      "main_enterprise": "ЗАО «Новоорловский ГОК»"
+    },
+    {
+      "town": "Первомайский",
+      "region": "Забайкальский край",
+      "population_thousands": 12,
+      "main_enterprise": "ОАО «Забайкальский горнообогатительный комбинат» (включая дочернее ООО «Рос-шпат»)"
+    },
+    {
+      "town": "Краснокаменск",
+      "region": "Забайкальский край",
+      "population_thousands": 52.8,
+      "main_enterprise": "ОАО « ППГХО »"
+    },
+    {
+      "town": "Новопавловка (посёлок)",
+      "region": "Забайкальский край",
+      "population_thousands": 3.7,
+      "main_enterprise": "ООО «Мебельный комбинат „Рассвет“»"
+    },
+    {
+      "town": "Вершино-Дарасунский (посёлок)",
+      "region": "Забайкальский край",
+      "population_thousands": 5.4,
+      "main_enterprise": "ООО «Дарасунский рудник»"
+    },
+    {
+      "town": "Шерловая Гора (посёлок)",
+      "region": "Забайкальский край",
+      "population_thousands": 12.1,
+      "main_enterprise": "ОАО «Разрез Харанорский»"
+    },
+    {
+      "town": "Кокуй (посёлок)",
+      "region": "Забайкальский край",
+      "population_thousands": 7.3,
+      "main_enterprise": "ООО «Сретенский судостроительный завод»"
+    },
+    {
+      "town": "Петровский (посёлок)",
+      "region": "Ивановская область",
+      "population_thousands": 2.3,
+      "main_enterprise": "Спиртзавод «Петровский»"
+    },
+    {
+      "town": "Каменка (посёлок)",
+      "region": "Ивановская область",
+      "population_thousands": 3.8,
+      "main_enterprise": "ООО ПП «Красный Октябрь»"
+    },
+    {
+      "town": "Савино (посёлок)",
+      "region": "Ивановская область",
+      "population_thousands": 5,
+      "main_enterprise": "Савинский цементный завод"
+    },
+    {
+      "town": "Южа",
+      "region": "Ивановская область",
+      "population_thousands": 13.9,
+      "main_enterprise": "ООО «Мануфактура Балина», ООО «Спартак»"
+    },
+    {
+      "town": "Наволоки",
+      "region": "Ивановская область",
+      "population_thousands": 13,
+      "main_enterprise": "ХБК « Навтекс »"
+    },
+    {
+      "town": "Колобово (посёлок)",
+      "region": "Ивановская область",
+      "population_thousands": 3.5,
+      "main_enterprise": "Колобовский филиал ООО «Руса»"
+    },
+    {
+      "town": "Вичуга",
+      "region": "Ивановская область",
+      "population_thousands": 34.8,
+      "main_enterprise": "ООО «Машиностроительный завод»"
+    },
+    {
+      "town": "Приволжск",
+      "region": "Ивановская область",
+      "population_thousands": 15.8,
+      "main_enterprise": "ООО «Приволжская коммуна»"
+    },
+    {
+      "town": "Фурманов",
+      "region": "Ивановская область",
+      "population_thousands": 35.3,
+      "main_enterprise": "ОАО «Фурмановская прядильно-ткацкая фабрика № 2», Прядильно-ткацкая фабрика № 3 ХБК «Шуйские ситцы», ООО «Фурмановская текстильная фабрика»"
+    },
+    {
+      "town": "Тейково",
+      "region": "Ивановская область",
+      "population_thousands": 33.7,
+      "main_enterprise": "ООО «Текстильная компания Тейковский ХБК»"
+    },
+    {
+      "town": "Байкальск",
+      "region": "Иркутская область",
+      "population_thousands": 13.7,
+      "main_enterprise": "ОАО « Байкальский целлюлозно-бумажный комбинат » (ОАО «БЦБК»)"
+    },
+    {
+      "town": "Усолье-Сибирское",
+      "region": "Иркутская область",
+      "population_thousands": 80.3,
+      "main_enterprise": "ООО « Усольехимпром »"
+    },
+    {
+      "town": "Тулун",
+      "region": "Иркутская область",
+      "population_thousands": 41.6,
+      "main_enterprise": "«Разрез Тулунуголь», ООО « Востсибуголь »"
+    },
+    {
+      "town": "Черемхово",
+      "region": "Иркутская область",
+      "population_thousands": 51.2,
+      "main_enterprise": "ООО «Востсибуголь»"
+    },
+    {
+      "town": "Саянск",
+      "region": "Иркутская область",
+      "population_thousands": 39.1,
+      "main_enterprise": "ОАО « Саянскхимпласт »"
+    },
+    {
+      "town": "Усть-Илимск",
+      "region": "Иркутская область",
+      "population_thousands": 83.6,
+      "main_enterprise": "Филиал ОАО « Илим »"
+    },
+    {
+      "town": "Железногорск-Илимский",
+      "region": "Иркутская область",
+      "population_thousands": 24.5,
+      "main_enterprise": "ОАО « Коршуновский горно-обогатительный комбинат »"
+    },
+    {
+      "town": "Шелехов",
+      "region": "Иркутская область",
+      "population_thousands": 46.7,
+      "main_enterprise": "ОАО « СУАЛ » филиал Ирказ СУАЛ"
+    },
+    {
+      "town": "Янтарный (посёлок)",
+      "region": "Калининградская область",
+      "population_thousands": 5.5,
+      "main_enterprise": "АО « Калининградский янтарный комбинат »"
+    },
+    {
+      "town": "Протва",
+      "region": "Калужская область",
+      "population_thousands": "",
+      "main_enterprise": "АО «Калужский научно-исследовательский радиотехнический институт» (КНИРТИ), АО «Калужский завод радиотехнической аппаратуры» (входят в состав Концерна «Радиоэлектронные технологии»)"
+    },
+    {
+      "town": "Куровской",
+      "region": "Калужская область",
+      "population_thousands": "",
+      "main_enterprise": ""
+    },
+    {
+      "town": "Середейский",
+      "region": "Калужская область",
+      "population_thousands": 1.7,
+      "main_enterprise": ""
+    },
+    {
+      "town": "Воротынск",
+      "region": "Калужская область",
+      "population_thousands": "",
+      "main_enterprise": "Стройполимеркерамика"
+    },
+    {
+      "town": "Балабаново",
+      "region": "Калужская область",
+      "population_thousands": 25.5,
+      "main_enterprise": "Плитспичпром"
+    },
+    {
+      "town": "Новослободск",
+      "region": "Калужская область",
+      "population_thousands": 1.4,
+      "main_enterprise": "НОВОСЛОБОДСКИЙ МАШИНОСТРОИТЕЛЬНЫЙ ЗАВОД\""
+    },
+    {
+      "town": "Ермолино",
+      "region": "Калужская область",
+      "population_thousands": 10.2,
+      "main_enterprise": ""
+    },
+    {
+      "town": "Сосенский",
+      "region": "Калужская область",
+      "population_thousands": 10.6,
+      "main_enterprise": "Сосенский приборостроительный завод"
+    },
+    {
+      "town": "Кондрово",
+      "region": "Калужская область",
+      "population_thousands": 15.8,
+      "main_enterprise": "ОАО «Троицкая бумажная фабрика», ОАО «Кондровская бумажная компания», ООО «ГИГИЕНА-СЕРВИС», ООО « Веста », Кондровский филиал «ГеоПАК»"
+    },
+    {
+      "town": "Медногорский (посёлок)",
+      "region": "Карачаево-Черкесская Республика",
+      "population_thousands": 5.6,
+      "main_enterprise": "ЗАО «Урупский горнообогатительный комбинат»"
+    },
+    {
+      "town": "Анжеро-Судженск",
+      "region": "Кемеровская область",
+      "population_thousands": 69.2,
+      "main_enterprise": "ОАО «Шахтоуправление Анжерское», ООО «Обогатительная фабрика Анжерская», ООО «Шахта Анжерская-Южная», ОАО «Анжерский машиностроительный завод», Антоновское рудоуправление (филиал ОАО Кузнецкие ферросплавы )"
+    },
+    {
+      "town": "Гурьевск",
+      "region": "Кемеровская область",
+      "population_thousands": 24.1,
+      "main_enterprise": "ОАО « Гурьевский металлургический завод »"
+    },
+    {
+      "town": "Прокопьевск",
+      "region": "Кемеровская область",
+      "population_thousands": 191.8,
+      "main_enterprise": "ЗАО ХК «СДС», ООО « Шахта имени Дзержинского », ООО «Коксовая», ООО «Прокопьевская»"
+    },
+    {
+      "town": "Калтан",
+      "region": "Кемеровская область",
+      "population_thousands": 20.6,
+      "main_enterprise": "Шахта «Алардинская», Южно-Кузбасская ГРЭС"
+    },
+    {
+      "town": "Киселёвск",
+      "region": "Кемеровская область",
+      "population_thousands": 88.1,
+      "main_enterprise": "ООО «Шахта № 12», ООО «Шахта Киселёвская», ООО «Разрез Киселёвский», ООО «Участок Коксовый», ОАО «Разрез Октябринский», ООО «Вахрушевское поле», ОАО «Поляны»"
+    },
+    {
+      "town": "Мундыбаш (посёлок)",
+      "region": "Кемеровская область",
+      "population_thousands": 4.8,
+      "main_enterprise": "Мундыбашская обогатительная фабрика"
+    },
+    {
+      "town": "Юрга",
+      "region": "Кемеровская область",
+      "population_thousands": 81.4,
+      "main_enterprise": "ООО « Юргинский машиностроительный завод »"
+    },
+    {
+      "town": "Салаир",
+      "region": "Кемеровская область",
+      "population_thousands": 8.1,
+      "main_enterprise": "ОСП «Салаирское горнорудное производство»"
+    },
+    {
+      "town": "Таштагол",
+      "region": "Кемеровская область",
+      "population_thousands": 22.9,
+      "main_enterprise": "Таштагольский филиал ОАО « Евразруда »"
+    },
+    {
+      "town": "Мариинск",
+      "region": "Кемеровская область",
+      "population_thousands": 38.2,
+      "main_enterprise": "АО «Мариинский ликёро-водочный завод»"
+    },
+    {
+      "town": "Топки",
+      "region": "Кемеровская область",
+      "population_thousands": 27.6,
+      "main_enterprise": "ООО «Топкинский цемент»"
+    },
+    {
+      "town": "Яшкино (посёлок)",
+      "region": "Кемеровская область",
+      "population_thousands": 13.4,
+      "main_enterprise": "ООО «КДВ Яшкино»"
+    },
+    {
+      "town": "Мыски",
+      "region": "Кемеровская область",
+      "population_thousands": 40.9,
+      "main_enterprise": "ОАО «Южный Кузбасс» (включая Разрез «Сибиргинский», Шахта «Сибиргинская», ЦОФ «Сибирь»)"
+    },
+    {
+      "town": "Междуреченск",
+      "region": "Кемеровская область",
+      "population_thousands": 96.1,
+      "main_enterprise": "ЗАО « Распадская угольная компания », ОАО «Междуречье», ОАО «Южный Кузбасс»"
+    },
+    {
+      "town": "Берёзовский",
+      "region": "Кемеровская область",
+      "population_thousands": 45.8,
+      "main_enterprise": "Шахта «Березовская»"
+    },
+    {
+      "town": "Тайга",
+      "region": "Кемеровская область",
+      "population_thousands": 23.1,
+      "main_enterprise": "Филиалы и структурные подразделения ОАО «РЖД»"
+    },
+    {
+      "town": "Ленинск-Кузнецкий",
+      "region": "Кемеровская область",
+      "population_thousands": 95.2,
+      "main_enterprise": "ОАО «СУЭК-Кузбасс»"
+    },
+    {
+      "town": "Осинники",
+      "region": "Кемеровская область",
+      "population_thousands": 41.8,
+      "main_enterprise": "Шахта «Осинниковская»"
+    },
+    {
+      "town": "Полысаево",
+      "region": "Кемеровская область",
+      "population_thousands": 26,
+      "main_enterprise": "Шахта «Заречная»"
+    },
+    {
+      "town": "Белово",
+      "region": "Кемеровская область",
+      "population_thousands": 72.5,
+      "main_enterprise": "ООО «Шахта Грамотеинская», OOO «Шахта Чертинская-Коксовая», ООО «Шахта Листвяжная», « Бачатский угольный разрез », филиал ОАО « Кузбассразрезуголь »"
+    },
+    {
+      "town": "Шерегеш (посёлок)",
+      "region": "Кемеровская область",
+      "population_thousands": 10.3,
+      "main_enterprise": "Горно-шорский филиал"
+    },
+    {
+      "town": "Краснобродский (посёлок)",
+      "region": "Кемеровская область",
+      "population_thousands": 11.5,
+      "main_enterprise": "ООО «Краснобродский угольный разрез»"
+    },
+    {
+      "town": "Белогорск (посёлок)",
+      "region": "Кемеровская область",
+      "population_thousands": 2.6,
+      "main_enterprise": "Кия-Шалтырский нефелиновый рудник"
+    },
+    {
+      "town": "Новокузнецк",
+      "region": "Кемеровская область",
+      "population_thousands": 550.2,
+      "main_enterprise": "ОАО « ЗСМК », включая ОАО « Новокузнецкий металлургический комбинат »"
+    },
+    {
+      "town": "Вятские Поляны",
+      "region": "Кировская область",
+      "population_thousands": 33.5,
+      "main_enterprise": "Вятско-Полянский машиностроительный завод « Молот »"
+    },
+    {
+      "town": "Мурыгино (посёлок)",
+      "region": "Кировская область",
+      "population_thousands": 7.4,
+      "main_enterprise": "ОАО « Эликон »"
+    },
+    {
+      "town": "Белая Холуница",
+      "region": "Кировская область",
+      "population_thousands": 11.7,
+      "main_enterprise": "ОАО « Белохолуницкий машстройзавод »"
+    },
+    {
+      "town": "Луза",
+      "region": "Кировская область",
+      "population_thousands": 11.8,
+      "main_enterprise": "ООО «Лузский ЛПК»"
+    },
+    {
+      "town": "Кирс",
+      "region": "Кировская область",
+      "population_thousands": 10.8,
+      "main_enterprise": "ОАО «Кирскабель»"
+    },
+    {
+      "town": "Демьяново (посёлок)",
+      "region": "Кировская область",
+      "population_thousands": 6.4,
+      "main_enterprise": "Лесопромышленный комплекс «Полеко»"
+    },
+    {
+      "town": "Уржум",
+      "region": "Кировская область",
+      "population_thousands": 9.9,
+      "main_enterprise": "ОАО « Уржумский спиртоводочный завод »"
+    },
+    {
+      "town": "Красная Поляна (посёлок)",
+      "region": "Кировская область",
+      "population_thousands": 5.9,
+      "main_enterprise": "ООО «ИКЕА Индастри Вятка» (ОАО « Домостроитель »)"
+    },
+    {
+      "town": "Омутнинск",
+      "region": "Кировская область",
+      "population_thousands": 23.2,
+      "main_enterprise": "ЗАО «Омутнинский металлургический завод»"
+    },
+    {
+      "town": "Стрижи (посёлок)",
+      "region": "Кировская область",
+      "population_thousands": 3.3,
+      "main_enterprise": "ООО «Силворд-Стрижи» (на базе бывшего ОАО «Силикат»)"
+    },
+    {
+      "town": "Кирово-Чепецк",
+      "region": "Кировская область",
+      "population_thousands": 75.9,
+      "main_enterprise": "ОАО « Завод минеральных удобрений Кирово-Чепецкого химического комбината », ООО « ГалоПолимер КировоЧепецк »"
+    },
+    {
+      "town": "Мантурово",
+      "region": "Костромская область",
+      "population_thousands": 16.4,
+      "main_enterprise": "ОАО «Мантуровский фанерный комбинат»"
+    },
+    {
+      "town": "Галич",
+      "region": "Костромская область",
+      "population_thousands": 16.9,
+      "main_enterprise": "ОАО « Галичский автокрановый завод »"
+    },
+    {
+      "town": "Бородино",
+      "region": "Красноярский край",
+      "population_thousands": 16,
+      "main_enterprise": "АО « СУЭК »"
+    },
+    {
+      "town": "Зеленогорск",
+      "region": "Красноярский край",
+      "population_thousands": 61.9,
+      "main_enterprise": "АО «Электрохимический завод»"
+    },
+    {
+      "town": "Норильск",
+      "region": "Красноярский край",
+      "population_thousands": 177.3,
+      "main_enterprise": "Заполярный филиал Горно-металлургической компании « Норильский никель »"
+    },
+    {
+      "town": "Железногорск",
+      "region": "Красноярский край",
+      "population_thousands": 83.8,
+      "main_enterprise": "ФГУП «Управление специального строительства по территории № 9 при Спецстрое России»"
+    },
+    {
+      "town": "Лесосибирск",
+      "region": "Красноярский край",
+      "population_thousands": 65.2,
+      "main_enterprise": "ОАО «Лесосибирский ЛДК № 1», ЗАО « Новоенисейский лесохимический комплекс »"
+    },
+    {
+      "town": "Катайск",
+      "region": "Курганская область",
+      "population_thousands": 13.1,
+      "main_enterprise": "АО « Катайский насосный завод »"
+    },
+    {
+      "town": "Петухово",
+      "region": "Курганская область",
+      "population_thousands": 10.3,
+      "main_enterprise": "Петуховский литейно-механический завод"
+    },
+    {
+      "town": "Далматово",
+      "region": "Курганская область",
+      "population_thousands": 13.7,
+      "main_enterprise": "Завод «Старт»"
+    },
+    {
+      "town": "Варгаши (посёлок)",
+      "region": "Курганская область",
+      "population_thousands": 9.1,
+      "main_enterprise": "ОАО « Варгашинский завод противопожарного и специального оборудования »"
+    },
+    {
+      "town": "Железногорск",
+      "region": "Курская область",
+      "population_thousands": 97.6,
+      "main_enterprise": "ОАО « Михайловский ГОК » (ОАО «МГОК»)"
+    },
+    {
+      "town": "Пикалёво",
+      "region": "Ленинградская область",
+      "population_thousands": 20.8,
+      "main_enterprise": "ООО « Пикалёвский глиноземный завод »"
+    },
+    {
+      "town": "Сланцы",
+      "region": "Ленинградская область",
+      "population_thousands": 32.3,
+      "main_enterprise": "ОАО «Сланцы»"
+    },
+    {
+      "town": "Сясьстрой",
+      "region": "Ленинградская область",
+      "population_thousands": 14.2,
+      "main_enterprise": "ОАО « Сясьский целлюлозно-бумажный комбинат »"
+    },
+    {
+      "town": "Лебедянь",
+      "region": "Липецкая область",
+      "population_thousands": 19.2,
+      "main_enterprise": "ООО « Лебедянский »"
+    },
+    {
+      "town": "Кировск",
+      "region": "Мурманская область",
+      "population_thousands": 24.2,
+      "main_enterprise": "ОАО « Апатит »"
+    },
+    {
+      "town": "Ковдор",
+      "region": "Мурманская область",
+      "population_thousands": 15.4,
+      "main_enterprise": "ОАО « Ковдорский горнообогатительный комбинат »"
+    },
+    {
+      "town": "Ревда (посёлок)",
+      "region": "Мурманская область",
+      "population_thousands": 6.3,
+      "main_enterprise": "ООО «Ловозерский горнообогатительный комбинат»"
+    },
+    {
+      "town": "Никель (посёлок)",
+      "region": "Мурманская область",
+      "population_thousands": 9.5,
+      "main_enterprise": "ОАО « Кольская горнометаллургическая компания »"
+    },
+    {
+      "town": "Мончегорск",
+      "region": "Мурманская область",
+      "population_thousands": 39.4,
+      "main_enterprise": "ОАО « Кольская ГМК »"
+    },
+    {
+      "town": "Оленегорск",
+      "region": "Мурманская область",
+      "population_thousands": 20.8,
+      "main_enterprise": "ОАО « ОЛКОН »"
+    },
+    {
+      "town": "Заполярный",
+      "region": "Мурманская область",
+      "population_thousands": 14.2,
+      "main_enterprise": "ОАО « Кольская горнометаллургическая компания »"
+    },
+    {
+      "town": "Заволжье",
+      "region": "Нижегородская область",
+      "population_thousands": 39.3,
+      "main_enterprise": "ПАО « Заволжский моторный завод »"
+    },
+    {
+      "town": "Мухтолово (посёлок)",
+      "region": "Нижегородская область",
+      "population_thousands": 4.9,
+      "main_enterprise": "Производственный кооператив фирма «Мухтоловская спецодежда»"
+    },
+    {
+      "town": "Навашино",
+      "region": "Нижегородская область",
+      "population_thousands": 15.5,
+      "main_enterprise": "АО « Окская судоверфь »"
+    },
+    {
+      "town": "Ворсма",
+      "region": "Нижегородская область",
+      "population_thousands": 10.9,
+      "main_enterprise": "ОАО «Медицинский инструментарный завод имени В. И. Ленина»"
+    },
+    {
+      "town": "Кулебаки",
+      "region": "Нижегородская область",
+      "population_thousands": 34.1,
+      "main_enterprise": "ПАО « Русполимет »"
+    },
+    {
+      "town": "Первомайск",
+      "region": "Нижегородская область",
+      "population_thousands": 19.3,
+      "main_enterprise": "АО « Транспневматика »"
+    },
+    {
+      "town": "Павлово",
+      "region": "Нижегородская область",
+      "population_thousands": 59,
+      "main_enterprise": "ООО « Павловский автобусный завод »"
+    },
+    {
+      "town": "Володарск",
+      "region": "Нижегородская область",
+      "population_thousands": 10,
+      "main_enterprise": "ОАО «Агрофирма Птицефабрика Сеймовская»"
+    },
+    {
+      "town": "Княгинино",
+      "region": "Нижегородская область",
+      "population_thousands": 1.3,
+      "main_enterprise": "ОАО «Княгининское молоко»"
+    },
+    {
+      "town": "Решетиха (посёлок)",
+      "region": "Нижегородская область",
+      "population_thousands": 6.8,
+      "main_enterprise": "ОАО «Сетка» (ранее — Решетинская сетевязальная фабрика)"
+    },
+    {
+      "town": "Балахна",
+      "region": "Нижегородская область",
+      "population_thousands": 50.1,
+      "main_enterprise": "АО « Волга »"
+    },
+    {
+      "town": "Выкса",
+      "region": "Нижегородская область",
+      "population_thousands": 83.8,
+      "main_enterprise": "АО « Выксунский металлургический завод »"
+    },
+    {
+      "town": "Краснофарфорный (посёлок)",
+      "region": "Новгородская область",
+      "population_thousands": 1.3,
+      "main_enterprise": "ООО «Форфор на Волхове»"
+    },
+    {
+      "town": "Пестово",
+      "region": "Новгородская область",
+      "population_thousands": 15.8,
+      "main_enterprise": "Пестовский лесопильный завод ООО «ЮПМ Кюммене-Чудово»"
+    },
+    {
+      "town": "Боровичи",
+      "region": "Новгородская область",
+      "population_thousands": 52.6,
+      "main_enterprise": "ОАО «Боровичский комбинат огнеупоров»"
+    },
+    {
+      "town": "Парфино (посёлок)",
+      "region": "Новгородская область",
+      "population_thousands": 7.2,
+      "main_enterprise": "ООО «Парфинский фанерный комбинат»"
+    },
+    {
+      "town": "Угловка (посёлок)",
+      "region": "Новгородская область",
+      "population_thousands": 2.3,
+      "main_enterprise": "ОАО « Угловский известковый комбинат »"
+    },
+    {
+      "town": "Линёво (посёлок)",
+      "region": "Новосибирская область",
+      "population_thousands": 13.9,
+      "main_enterprise": "ЗАО Энергопром-Новосибирский электродный завод"
+    },
+    {
+      "town": "Горный (посёлок)",
+      "region": "Новосибирская область",
+      "population_thousands": 9.1,
+      "main_enterprise": "Горновский завод спецжелезобетона (филиал ОАО «РЖД»)"
+    },
+    {
+      "town": "Красный Яр (посёлок)",
+      "region": "Омская область",
+      "population_thousands": 5.2,
+      "main_enterprise": "Любинский молочноконсервный комбинат"
+    },
+    {
+      "town": "Новотроицк",
+      "region": "Оренбургская область",
+      "population_thousands": 100.7,
+      "main_enterprise": "ОАО « Уральская сталь »"
+    },
+    {
+      "town": "Кувандык",
+      "region": "Оренбургская область",
+      "population_thousands": 24.9,
+      "main_enterprise": "ОАО «Южно-Уральский криолитовый завод»"
+    },
+    {
+      "town": "Светлый (посёлок)",
+      "region": "Оренбургская область",
+      "population_thousands": 7.7,
+      "main_enterprise": "ООО «Буруктальский никелевый завод»"
+    },
+    {
+      "town": "Медногорск",
+      "region": "Оренбургская область",
+      "population_thousands": 28.1,
+      "main_enterprise": "ООО « Медногорский медно-серный комбинат »"
+    },
+    {
+      "town": "Гай",
+      "region": "Оренбургская область",
+      "population_thousands": 37.1,
+      "main_enterprise": "ОАО « Гайский ГОК »"
+    },
+    {
+      "town": "Соль-Илецк",
+      "region": "Оренбургская область",
+      "population_thousands": 27.1,
+      "main_enterprise": "ООО «Руссоль»"
+    },
+    {
+      "town": "Ясный",
+      "region": "Оренбургская область",
+      "population_thousands": 15.6,
+      "main_enterprise": "Киембаевский горнообогатительный комбинат « Оренбургские минералы »"
+    },
+    {
+      "town": "Мценск",
+      "region": "Орловская область",
+      "population_thousands": 39.7,
+      "main_enterprise": "ОАО «Мценский литейный завод», ОАО «Мценский завод коммунального машиностроения»"
+    },
+    {
+      "town": "Сердобск",
+      "region": "Пензенская область",
+      "population_thousands": 33.9,
+      "main_enterprise": "ЗАО «Сердобский машиностроительный завод»"
+    },
+    {
+      "town": "Никольск",
+      "region": "Пензенская область",
+      "population_thousands": 20.5,
+      "main_enterprise": "Никольский завод светотехнического стекла"
+    },
+    {
+      "town": "Мокшан (посёлок)",
+      "region": "Пензенская область",
+      "population_thousands": 11.3,
+      "main_enterprise": "ООО «Невский кондитер»"
+    },
+    {
+      "town": "Заречный",
+      "region": "Пензенская область",
+      "population_thousands": 65.1,
+      "main_enterprise": "ПО «Старт» имени М. В. Проценко"
+    },
+    {
+      "town": "Печоры",
+      "region": "Псковская область",
+      "population_thousands": 9.6,
+      "main_enterprise": "ООО «Еврокерамика»"
+    },
+    {
+      "town": "Красновишерск",
+      "region": "Пермский край",
+      "population_thousands": 15,
+      "main_enterprise": "ООО «Красновишерский ДСК»"
+    },
+    {
+      "town": "Очёр",
+      "region": "Пермский край",
+      "population_thousands": 14,
+      "main_enterprise": "ОАО « Очёрский машиностроительный завод »"
+    },
+    {
+      "town": "Чусовой",
+      "region": "Пермский край",
+      "population_thousands": 50.4,
+      "main_enterprise": "ОАО « Чусовской металлургический завод »"
+    },
+    {
+      "town": "Александровск",
+      "region": "Пермский край",
+      "population_thousands": 14.2,
+      "main_enterprise": "ОАО « Александровский машиностроительный завод »"
+    },
+    {
+      "town": "Горнозаводск",
+      "region": "Пермский край",
+      "population_thousands": 11.2,
+      "main_enterprise": "ОАО «Горнозаводскцемент»"
+    },
+    {
+      "town": "Юго-Камский (посёлок)",
+      "region": "Пермский край",
+      "population_thousands": 9.3,
+      "main_enterprise": "ООО «Машиностроительный завод ЮГОКАМА»"
+    },
+    {
+      "town": "Дальнегорск",
+      "region": "Приморский край",
+      "population_thousands": 44.4,
+      "main_enterprise": "ЗАО « Горно-химическая компания Бор »"
+    },
+    {
+      "town": "Светлогорье",
+      "region": "Приморский край",
+      "population_thousands": 1.6,
+      "main_enterprise": "ООО «Лермонтовский ГОК»"
+    },
+    {
+      "town": "Ярославский (посёлок)",
+      "region": "Приморский край",
+      "population_thousands": 10.5,
+      "main_enterprise": "ООО «Ярославская горнорудная компания»"
+    },
+    {
+      "town": "Восток (посёлок)",
+      "region": "Приморский край",
+      "population_thousands": 3.9,
+      "main_enterprise": "ОАО «Приморский горнообоготительный комбинат», горнорудная компания «АИР»"
+    },
+    {
+      "town": "Спасск-Дальний",
+      "region": "Приморский край",
+      "population_thousands": 40.2,
+      "main_enterprise": "ООО «Спасскцемент»"
+    },
+    {
+      "town": "Лучегорск (посёлок)",
+      "region": "Приморский край",
+      "population_thousands": 18.9,
+      "main_enterprise": "Приморской ГРЭС"
+    },
+    {
+      "town": "Арсеньев",
+      "region": "Приморский край",
+      "population_thousands": 5.4,
+      "main_enterprise": "ОАО «ПРОГРЕСС»"
+    },
+    {
+      "town": "Новошахтинский (посёлок)",
+      "region": "Приморский край",
+      "population_thousands": 8.2,
+      "main_enterprise": "Разрезуправление «Новошахтинское»"
+    },
+    {
+      "town": "Липовцы (посёлок)",
+      "region": "Приморский край",
+      "population_thousands": 7.1,
+      "main_enterprise": "Шахтоуправление «Восточное»"
+    },
+    {
+      "town": "Белебей",
+      "region": "Республика Башкортостан",
+      "population_thousands": 59.2,
+      "main_enterprise": "Белебеевский завод « Автонормаль », ООО «Белебеевский завод „Автокомплект“», ООО «Белебеевское предприятие „Автодеталь“»"
+    },
+    {
+      "town": "Кумертау",
+      "region": "Республика Башкортостан",
+      "population_thousands": 59.5,
+      "main_enterprise": "ОАО « Кумертауское авиационное производственное предприятие »"
+    },
+    {
+      "town": "Белорецк",
+      "region": "Республика Башкортостан",
+      "population_thousands": 64.9,
+      "main_enterprise": "ОАО « Белорецкий металлургический комбинат »"
+    },
+    {
+      "town": "Нефтекамск",
+      "region": "Республика Башкортостан",
+      "population_thousands": 131.1,
+      "main_enterprise": "ПАО « НЕФАЗ »"
+    },
+    {
+      "town": "Учалы",
+      "region": "Республика Башкортостан",
+      "population_thousands": 40.9,
+      "main_enterprise": "ОАО « Учалинский горно-обогатительный комбинат »"
+    },
+    {
+      "town": "Благовещенск",
+      "region": "Республика Башкортостан",
+      "population_thousands": 34.8,
+      "main_enterprise": "ОАО « Благовещенский арматурный завод »"
+    },
+    {
+      "town": "Селенгинск (посёлок)",
+      "region": "Республика Бурятия",
+      "population_thousands": 13.7,
+      "main_enterprise": "ОАО « Селенгинский целлюлозно-картонный комбинат »"
+    },
+    {
+      "town": "Каменск (посёлок)",
+      "region": "Республика Бурятия",
+      "population_thousands": 6.7,
+      "main_enterprise": "ООО «Тимлюйский завод», ООО « Тимлюйский цементный завод »"
+    },
+    {
+      "town": "Гусиноозёрск",
+      "region": "Республика Бурятия",
+      "population_thousands": 23.2,
+      "main_enterprise": "ОАО « ОГК-3 », Гусиноозёрская ГРЭС"
+    },
+    {
+      "town": "Северобайкальск",
+      "region": "Республика Бурятия",
+      "population_thousands": 23.6,
+      "main_enterprise": "Северобайкальский участок Восточно-Сибирской железной дороги ОАО РЖД"
+    },
+    {
+      "town": "Саган-Нур (посёлок)",
+      "region": "Республика Бурятия",
+      "population_thousands": 3.9,
+      "main_enterprise": "ОАО « Сибирская угольная энергетическая компания » (ОАО «СУЭК»)"
+    },
+    {
+      "town": "Закаменск",
+      "region": "Республика Бурятия",
+      "population_thousands": 11.4,
+      "main_enterprise": "ЗАО «Закаменск», ООО «Литейщик»"
+    },
+    {
+      "town": "Каспийск",
+      "region": "Республика Дагестан",
+      "population_thousands": 105.1,
+      "main_enterprise": "ОАО Завод « Дагдизель », ОАО «Каспийский завод точной механики»"
+    },
+    {
+      "town": "Дагестанские Огни",
+      "region": "Республика Дагестан",
+      "population_thousands": 29.5,
+      "main_enterprise": "ООО «ДагестанСтеклоТара»"
+    },
+    {
+      "town": "Суоярви",
+      "region": "Республика Карелия",
+      "population_thousands": 9.2,
+      "main_enterprise": "ЗАО «Запкареллес»"
+    },
+    {
+      "town": "Кондопога",
+      "region": "Республика Карелия",
+      "population_thousands": 32.2,
+      "main_enterprise": "ОАО « Кондопога »"
+    },
+    {
+      "town": "Муезерский (посёлок)",
+      "region": "Республика Карелия",
+      "population_thousands": 2.8,
+      "main_enterprise": "ОАО «Муезерский леспромхоз»"
+    },
+    {
+      "town": "Надвоицы (посёлок)",
+      "region": "Республика Карелия",
+      "population_thousands": 8,
+      "main_enterprise": "ОАО « Сибирско-Уральская Алюминиевая компания » филиал «НАЗ-СУАЛ»"
+    },
+    {
+      "town": "Питкяранта",
+      "region": "Республика Карелия",
+      "population_thousands": 11.2,
+      "main_enterprise": "Целлюлозный завод « Питкяранта »"
+    },
+    {
+      "town": "Пудож",
+      "region": "Республика Карелия",
+      "population_thousands": 9.2,
+      "main_enterprise": "ООО «Пудожлеспром»"
+    },
+    {
+      "town": "Сегежа",
+      "region": "Республика Карелия",
+      "population_thousands": 28.1,
+      "main_enterprise": "АО « Сегежский ЦБК » (ОАО «Сегежский ЦБК»)"
+    },
+    {
+      "town": "Пиндуши (посёлок)",
+      "region": "Республика Карелия",
+      "population_thousands": 5,
+      "main_enterprise": "ОАО «Карелия ДСП»"
+    },
+    {
+      "town": "Костомукша",
+      "region": "Республика Карелия",
+      "population_thousands": 29.5,
+      "main_enterprise": "ОАО « Карельский окатыш »"
+    },
+    {
+      "town": "Лахденпохья",
+      "region": "Республика Карелия",
+      "population_thousands": 7.5,
+      "main_enterprise": "Лахденпохский фанерный комбинат «Бумэкс»"
+    },
+    {
+      "town": "Вяртсиля (посёлок)",
+      "region": "Республика Карелия",
+      "population_thousands": 3,
+      "main_enterprise": "ЗАО « Вяртсильский метизный завод »"
+    },
+    {
+      "town": "Емва",
+      "region": "Республика Коми",
+      "population_thousands": 13.7,
+      "main_enterprise": "СЛДК « Северный лес » (ООО «Княжпогостский завод ДВП»)"
+    },
+    {
+      "town": "Инта",
+      "region": "Республика Коми",
+      "population_thousands": 26.2,
+      "main_enterprise": "АО «Шахта „ Интауголь “»"
+    },
+    {
+      "town": "Жешарт (посёлок)",
+      "region": "Республика Коми",
+      "population_thousands": 7.5,
+      "main_enterprise": "ЗАО «Жешартский фанерный комбинат»"
+    },
+    {
+      "town": "Воркута",
+      "region": "Республика Коми",
+      "population_thousands": 58.1,
+      "main_enterprise": "АО « Воркутауголь »"
+    },
+    {
+      "town": "Красноперекопск",
+      "region": "Республика Крым",
+      "population_thousands": 29.5,
+      "main_enterprise": "АО « Крымский содовый завод »"
+    },
+    {
+      "town": "Армянск",
+      "region": "Республика Крым",
+      "population_thousands": 25.4,
+      "main_enterprise": "АО « Крымский Титан »"
+    },
+    {
+      "town": "Козьмодемьянск",
+      "region": "Республика Марий Эл",
+      "population_thousands": 20,
+      "main_enterprise": "АО «Завод Копир», ООО «Потенциал»"
+    },
+    {
+      "town": "Умёт (посёлок)",
+      "region": "Республика Мордовия",
+      "population_thousands": 2.8,
+      "main_enterprise": "ЗАО «Плайтерра»"
+    },
+    {
+      "town": "Рузаевка",
+      "region": "Республика Мордовия",
+      "population_thousands": 46.4,
+      "main_enterprise": "ОАО « Рузхиммаш »"
+    },
+    {
+      "town": "Кадошкино (посёлок)",
+      "region": "Республика Мордовия",
+      "population_thousands": 4.3,
+      "main_enterprise": "ОА «Кадошкинский электротехнический завод»"
+    },
+    {
+      "town": "Тургенево (посёлок)",
+      "region": "Республика Мордовия",
+      "population_thousands": 4.8,
+      "main_enterprise": "ОАО « Ардатовский светотехнический завод »"
+    },
+    {
+      "town": "Комсомольский (посёлок)",
+      "region": "Республика Мордовия",
+      "population_thousands": 12.8,
+      "main_enterprise": "ОАО « Мордовский цементный завод », ОАО «Лато»"
+    },
+    {
+      "town": "Атяшево (посёлок)",
+      "region": "Республика Мордовия",
+      "population_thousands": 6,
+      "main_enterprise": "ООО «Мясоперерабатывающий комплекс Атяшевский»"
+    },
+    {
+      "town": "Удачный",
+      "region": "Республика Саха (Якутия)",
+      "population_thousands": 11.6,
+      "main_enterprise": "Удачнинский ГОК"
+    },
+    {
+      "town": "Нерюнгри",
+      "region": "Республика Саха (Якутия)",
+      "population_thousands": 57,
+      "main_enterprise": "ХК « Якутуголь »"
+    },
+    {
+      "town": "Айхал (посёлок)",
+      "region": "Республика Саха (Якутия)",
+      "population_thousands": 13.6,
+      "main_enterprise": "АК « АЛРОСА »"
+    },
+    {
+      "town": "Нижний Куранах (посёлок)",
+      "region": "Республика Саха (Якутия)",
+      "population_thousands": 5.2,
+      "main_enterprise": "ОАО «Алданзолото ГРК»"
+    },
+    {
+      "town": "Мохсоголлох (посёлок)",
+      "region": "Республика Саха (Якутия)",
+      "population_thousands": 6.1,
+      "main_enterprise": "Производственное объединение « ЯКУТЦЕМЕНТ »"
+    },
+    {
+      "town": "Мирный",
+      "region": "Республика Саха (Якутия)",
+      "population_thousands": 35.2,
+      "main_enterprise": "АК « АЛРОСА »"
+    },
+    {
+      "town": "Зеленодольск",
+      "region": "Республика Татарстан",
+      "population_thousands": 98.1,
+      "main_enterprise": "АО «ПОЗиС»"
+    },
+    {
+      "town": "Набережные Челны",
+      "region": "Республика Татарстан",
+      "population_thousands": 519,
+      "main_enterprise": "ПАО « КАМАЗ »"
+    },
+    {
+      "town": "Камские Поляны (посёлок)",
+      "region": "Республика Татарстан",
+      "population_thousands": 15,
+      "main_enterprise": "Управляющая компания «Индустриальный парк Камские Поляны»"
+    },
+    {
+      "town": "Елабуга",
+      "region": "Республика Татарстан",
+      "population_thousands": 72.4,
+      "main_enterprise": "ОАО « Производственное объединение Елабужский автомобильный завод » (ОАО ПО ЕЛАЗ)"
+    },
+    {
+      "town": "Менделеевск",
+      "region": "Республика Татарстан",
+      "population_thousands": 22.1,
+      "main_enterprise": "ОАО «Химзавод имени Л. Я. Карпова»"
+    },
+    {
+      "town": "Чистополь",
+      "region": "Республика Татарстан",
+      "population_thousands": 59.8,
+      "main_enterprise": "ООО ПКФ «Бетар», ООО ИПТ «Восток», ЗАО «Восток-Скай»"
+    },
+    {
+      "town": "Нижнекамск",
+      "region": "Республика Татарстан",
+      "population_thousands": 238.8,
+      "main_enterprise": "ПАО « Нижнекамскнефтехим »"
+    },
+    {
+      "town": "Абаза",
+      "region": "Республика Хакасия",
+      "population_thousands": 16.2,
+      "main_enterprise": "Абаканский филиал ОАО « Евразруда »"
+    },
+    {
+      "town": "Вершина Тёи (посёлок)",
+      "region": "Республика Хакасия",
+      "population_thousands": 3.5,
+      "main_enterprise": "Тейский филиал ОАО « Евразруда »"
+    },
+    {
+      "town": "Саяногорск",
+      "region": "Республика Хакасия",
+      "population_thousands": 62,
+      "main_enterprise": "ОАО « Саяногорский алюминиевый завод »"
+    },
+    {
+      "town": "Сорск",
+      "region": "Республика Хакасия",
+      "population_thousands": 11.4,
+      "main_enterprise": "ООО «Сорский горнообогатительный комбинат», ООО «Сорский ферромолибденовый завод»"
+    },
+    {
+      "town": "Черногорск",
+      "region": "Республика Хакасия",
+      "population_thousands": 75,
+      "main_enterprise": "«СУЭК-Хакасия»"
+    },
+    {
+      "town": "Гуково",
+      "region": "Ростовская область",
+      "population_thousands": 66.3,
+      "main_enterprise": "ОАО « Гуковуголь »"
+    },
+    {
+      "town": "Донецк",
+      "region": "Ростовская область",
+      "population_thousands": 48.4,
+      "main_enterprise": "ОАО « Донецкая мануфактура М »"
+    },
+    {
+      "town": "Зверево",
+      "region": "Ростовская область",
+      "population_thousands": 19.4,
+      "main_enterprise": "Шахтоуправление «Обуховская»"
+    },
+    {
+      "town": "Побединка (посёлок)",
+      "region": "Рязанская область",
+      "population_thousands": 29.1,
+      "main_enterprise": "ОАО « Скопинский автоагрегатный завод »"
+    },
+    {
+      "town": "Елатьма",
+      "region": "Рязанская область",
+      "population_thousands": 3.3,
+      "main_enterprise": "ОАО « Елатомский приборный завод »"
+    },
+    {
+      "town": "Лесной (посёлок)",
+      "region": "Рязанская область",
+      "population_thousands": 7.6,
+      "main_enterprise": "ФГУП «Эластик»"
+    },
+    {
+      "town": "Новомичуринск",
+      "region": "Рязанская область",
+      "population_thousands": 16.8,
+      "main_enterprise": "Рязанская ГРЭС"
+    },
+    {
+      "town": "Тольятти",
+      "region": "Самарская область",
+      "population_thousands": 718.17,
+      "main_enterprise": "ОАО « АВТОВАЗ »"
+    },
+    {
+      "town": "Новокуйбышевск",
+      "region": "Самарская область",
+      "population_thousands": 102.9,
+      "main_enterprise": "Новокуйбышевский НПЗ , Новокуйбышевская нефтехимическая компания, Новокуйбышевский завод масел и присадок"
+    },
+    {
+      "town": "Чапаевск",
+      "region": "Самарская область",
+      "population_thousands": 71.7,
+      "main_enterprise": "ОАО «Промсинтез»"
+    },
+    {
+      "town": "Петровск",
+      "region": "Саратовская область",
+      "population_thousands": 30.1,
+      "main_enterprise": "Петровский электромеханический завод «Молот»"
+    },
+    {
+      "town": "Вольск",
+      "region": "Саратовская область",
+      "population_thousands": 63.2,
+      "main_enterprise": "ОАО «Вольскцемент»"
+    },
+    {
+      "town": "Волчанск",
+      "region": "Свердловская область",
+      "population_thousands": 9.7,
+      "main_enterprise": "Волчанский механический завод"
+    },
+    {
+      "town": "Первоуральск",
+      "region": "Свердловская область",
+      "population_thousands": 149.5,
+      "main_enterprise": "ОАО « Первоуральский новотрубный завод »"
+    },
+    {
+      "town": "Североуральск",
+      "region": "Свердловская область",
+      "population_thousands": 42.6,
+      "main_enterprise": "ОАО «Севуралбокситруда»"
+    },
+    {
+      "town": "Карпинск",
+      "region": "Свердловская область",
+      "population_thousands": 30.8,
+      "main_enterprise": "ОАО « Электромашиностроительный завод », ООО «Завод горного машиностроения», ООО \" Машиностроительный завод «Звезда»"
+    },
+    {
+      "town": "Краснотурьинск",
+      "region": "Свердловская область",
+      "population_thousands": 56.5,
+      "main_enterprise": "Богословский алюминиевый завод , АО « Богословское рудоуправление »"
+    },
+    {
+      "town": "Красноуральск",
+      "region": "Свердловская область",
+      "population_thousands": 24.4,
+      "main_enterprise": "ОАО « Святогор »"
+    },
+    {
+      "town": "Верхняя Тура",
+      "region": "Свердловская область",
+      "population_thousands": 9.2,
+      "main_enterprise": "ОАО «Верхнетуринский машиностроительный завод»"
+    },
+    {
+      "town": "Каменск-Уральский",
+      "region": "Свердловская область",
+      "population_thousands": 173.3,
+      "main_enterprise": "ОАО « Синарский трубный завод (СинТЗ)»; ОАО « Каменск-Уральский завод по обработке цветных металлов »; ОАО « КаменскУральский металлургический завод »; филиал «УАЗ-СУАЛ» ОАО СУАЛ"
+    },
+    {
+      "town": "Качканар",
+      "region": "Свердловская область",
+      "population_thousands": 42.5,
+      "main_enterprise": "ОАО « ЕВРАЗ Качканарский горнообогатительный комбинат »"
+    },
+    {
+      "town": "Верхняя Пышма",
+      "region": "Свердловская область",
+      "population_thousands": 77.9,
+      "main_enterprise": "ОАО « Уралэлектромедь », ООО « Уральские локомотивы »"
+    },
+    {
+      "town": "Асбест",
+      "region": "Свердловская область",
+      "population_thousands": 63.3,
+      "main_enterprise": "ОАО « Уральский асбестовый горнообогатительный комбинат » (ОАО «Ураласбест»)"
+    },
+    {
+      "town": "Нижний Тагил",
+      "region": "Свердловская область",
+      "population_thousands": 360.6,
+      "main_enterprise": "ОАО «Научнопроизводственная корпорация „ Уралвагонзавод “ имени Ф. Э. Дзержинского», ОАО « Нижнетагильский металлургический комбинат »"
+    },
+    {
+      "town": "Верхняя Салда",
+      "region": "Свердловская область",
+      "population_thousands": 47.5,
+      "main_enterprise": "АО « Корпорация ВСМПОАВИСМА »"
+    },
+    {
+      "town": "Серов",
+      "region": "Свердловская область",
+      "population_thousands": 107.1,
+      "main_enterprise": "ОАО « Металлургический завод имени А. К. Серова », ОАО « Серовский завод ферросплавов »"
+    },
+    {
+      "town": "Ревда",
+      "region": "Свердловская область",
+      "population_thousands": 63.5,
+      "main_enterprise": "ОАО « Среднеуральский медеплавильный завод », ОАО « Ревдинский завод по обработке цветных металлов »"
+    },
+    {
+      "town": "Полевской",
+      "region": "Свердловская область",
+      "population_thousands": 70.7,
+      "main_enterprise": "ОАО « Северский трубный завод »"
+    },
+    {
+      "town": "Малышева (посёлок)",
+      "region": "Свердловская область",
+      "population_thousands": 8.9,
+      "main_enterprise": "ОАО «Малышевское рудоуправление»"
+    },
+    {
+      "town": "Покровск-Уральский (посёлок)",
+      "region": "Свердловская область",
+      "population_thousands": 1.1,
+      "main_enterprise": "ООО «Уральский щебень»"
+    },
+    {
+      "town": "Рефтинский (посёлок городского типа)",
+      "region": "Свердловская область",
+      "population_thousands": 15,
+      "main_enterprise": "Рефтинская ГРЭС"
+    },
+    {
+      "town": "Баранчинский (посёлок)",
+      "region": "Свердловская область",
+      "population_thousands": 8.7,
+      "main_enterprise": "ЗАО «Баранчинский электромеханический завод»"
+    },
+    {
+      "town": "Кушва",
+      "region": "Свердловская область",
+      "population_thousands": 26.8,
+      "main_enterprise": "ОАО « Гороблагодатское рудоуправление »"
+    },
+    {
+      "town": "Тавда",
+      "region": "Свердловская область",
+      "population_thousands": 32.2,
+      "main_enterprise": "ООО «Тавдинский фанеро-плиточный комбинат»"
+    },
+    {
+      "town": "Нижние Серги",
+      "region": "Свердловская область",
+      "population_thousands": 7.7,
+      "main_enterprise": "ОАО «Нижнесергинский метизно-металлургический завод»"
+    },
+    {
+      "town": "Реж",
+      "region": "Свердловская область",
+      "population_thousands": 36.2,
+      "main_enterprise": "АО «ПО Режникель», АО «Сафьяновская медь»"
+    },
+    {
+      "town": "Дорогобуж",
+      "region": "Смоленская область",
+      "population_thousands": 9.7,
+      "main_enterprise": "ПАО «Дорогобуж»"
+    },
+    {
+      "town": "Невинномысск",
+      "region": "Ставропольский край",
+      "population_thousands": 116.8,
+      "main_enterprise": "ОАО « Невинномысский Азот »"
+    },
+    {
+      "town": "Котовск",
+      "region": "Тамбовская область",
+      "population_thousands": 31.2,
+      "main_enterprise": "ФКП «Тамбовский пороховой завод»"
+    },
+    {
+      "town": "Знаменка (посёлок)",
+      "region": "Тамбовская область",
+      "population_thousands": 22.4,
+      "main_enterprise": "ОАО «Знаменский сахарный завод»"
+    },
+    {
+      "town": "Великооктябрьский (посёлок)",
+      "region": "Тверская область",
+      "population_thousands": 1.8,
+      "main_enterprise": "ОАО «Великооктябрьское стекло»"
+    },
+    {
+      "town": "Кувшиново",
+      "region": "Тверская область",
+      "population_thousands": 8.06,
+      "main_enterprise": "ОАО « Каменская бумажнокартонная фабрика »"
+    },
+    {
+      "town": "Жарковский (посёлок)",
+      "region": "Тверская область",
+      "population_thousands": 3.9,
+      "main_enterprise": "ООО «Жарковский деревообрабатывающий комбинат»"
+    },
+    {
+      "town": "Спирово (посёлок)",
+      "region": "Тверская область",
+      "population_thousands": 5.8,
+      "main_enterprise": "ООО «Индустрия»"
+    },
+    {
+      "town": "Западная Двина",
+      "region": "Тверская область",
+      "population_thousands": 8.6,
+      "main_enterprise": "ОАО «Деревообработчик»"
+    },
+    {
+      "town": "Калашниково (посёлок)",
+      "region": "Тверская область",
+      "population_thousands": 12.5,
+      "main_enterprise": "ООО «СветТехЭлектро», ОАО\"Лихославльский радиаторный завод\""
+    },
+    {
+      "town": "Изоплит (посёлок)",
+      "region": "Тверская область",
+      "population_thousands": 1.6,
+      "main_enterprise": "ООО «Парок» (Paroc)"
+    },
+    {
+      "town": "Удомля",
+      "region": "Тверская область",
+      "population_thousands": 27.6,
+      "main_enterprise": "Калининская АЭС"
+    },
+    {
+      "town": "Северск",
+      "region": "Томская область",
+      "population_thousands": 107.4,
+      "main_enterprise": "АО «Сибирский химический комбинат»"
+    },
+    {
+      "town": "Стрежевой",
+      "region": "Томская область",
+      "population_thousands": 39.17,
+      "main_enterprise": "АО «Томскнефть» ВНК"
+    },
+    {
+      "town": "Алексин",
+      "region": "Тульская область",
+      "population_thousands": 68.4,
+      "main_enterprise": "ОАО «Тяжпромарматура»"
+    },
+    {
+      "town": "Ефремов",
+      "region": "Тульская область",
+      "population_thousands": 35.1,
+      "main_enterprise": "ОАО «Ефремовский завод синтетического каучука»"
+    },
+    {
+      "town": "Кимовск",
+      "region": "Тульская область",
+      "population_thousands": 25.9,
+      "main_enterprise": "АО «Кимовский радиоэлектромеханический завод»"
+    },
+    {
+      "town": "Белёв",
+      "region": "Тульская область",
+      "population_thousands": 13.1,
+      "main_enterprise": "ОАО « Трансмаш »"
+    },
+    {
+      "town": "Первомайский (посёлок)",
+      "region": "Тульская область",
+      "population_thousands": 9,
+      "main_enterprise": "ОАО «Щёкиноазот» (включая Первомайский филиал)"
+    },
+    {
+      "town": "Суворов",
+      "region": "Тульская область",
+      "population_thousands": 17.4,
+      "main_enterprise": "филиал « Черепетская ГРЭС имени Д. Г. Жимерина », АО « Интер РАО — Электрогенерация »"
+    },
+    {
+      "town": "Сарапул",
+      "region": "Удмуртская Республика",
+      "population_thousands": 99.8,
+      "main_enterprise": "ОАО « Сарапульский электрогенераторный завод »; ОАО « Сарапульский радиозавод »"
+    },
+    {
+      "town": "Воткинск",
+      "region": "Удмуртская Республика",
+      "population_thousands": 98,
+      "main_enterprise": "ОАО « Воткинский завод »"
+    },
+    {
+      "town": "Глазов",
+      "region": "Удмуртская Республика",
+      "population_thousands": 96.3,
+      "main_enterprise": "АО «Чепецкий механический завод»"
+    },
+    {
+      "town": "Димитровград",
+      "region": "Ульяновская область",
+      "population_thousands": 118.5,
+      "main_enterprise": "ОАО « Димитровградский автоагрегатный завод », ООО « Димитровградский завод светотехники », ООО «Димитровградский инструментальный завод»"
+    },
+    {
+      "town": "Новоульяновск",
+      "region": "Ульяновская область",
+      "population_thousands": 13.9,
+      "main_enterprise": "ЗАО «Ульяновскцемент»"
+    },
+    {
+      "town": "Инза",
+      "region": "Ульяновская область",
+      "population_thousands": 18.4,
+      "main_enterprise": "ООО Производственная Фирма «Инзенский деревообрабатывающий завод» (ООО ПФ «Инзенский ДОЗ»)"
+    },
+    {
+      "town": "Силикатный",
+      "region": "Ульяновская область",
+      "population_thousands": 2.6,
+      "main_enterprise": "ЗАО «Силикатчик»"
+    },
+    {
+      "town": "Чегдомын (посёлок)",
+      "region": "Хабаровский край",
+      "population_thousands": 11.7,
+      "main_enterprise": "фабрика треста «Ургалуголь»"
+    },
+    {
+      "town": "Эльбан (посёлок)",
+      "region": "Хабаровский край",
+      "population_thousands": 10.9,
+      "main_enterprise": "ФГУП ДВПО «Восход»"
+    },
+    {
+      "town": "Усть-Катав",
+      "region": "Челябинская область",
+      "population_thousands": 26.2,
+      "main_enterprise": "« Усть-Катавский вагоностроительный завод имени С. М. Кирова » — филиал ФГУП « ГКНПЦ » имени М. В. Хруничева"
+    },
+    {
+      "town": "Карабаш",
+      "region": "Челябинская область",
+      "population_thousands": 12.1,
+      "main_enterprise": "ЗАО « Карабашмедь »"
+    },
+    {
+      "town": "Нязепетровск",
+      "region": "Челябинская область",
+      "population_thousands": 12,
+      "main_enterprise": "Нязепетровский филиал ООО «Литейномеханический завод»"
+    },
+    {
+      "town": "Аша",
+      "region": "Челябинская область",
+      "population_thousands": 30.7,
+      "main_enterprise": "ОАО « Ашинский металлургический завод »"
+    },
+    {
+      "town": "Миньяр",
+      "region": "Челябинская область",
+      "population_thousands": 9.3,
+      "main_enterprise": "ОАО «Миньярский карьер», ООО «Биянковский щебёночный завод»"
+    },
+    {
+      "town": "Верхний Уфалей",
+      "region": "Челябинская область",
+      "population_thousands": 26.8,
+      "main_enterprise": "ОАО « Уфалейникель »"
+    },
+    {
+      "town": "Бакал",
+      "region": "Челябинская область",
+      "population_thousands": 20.4,
+      "main_enterprise": "ООО « Бакальское рудоуправление »"
+    },
+    {
+      "town": "Сим",
+      "region": "Челябинская область",
+      "population_thousands": 13.7,
+      "main_enterprise": "ПАО «Агрегат»"
+    },
+    {
+      "town": "Сатка",
+      "region": "Челябинская область",
+      "population_thousands": 44.8,
+      "main_enterprise": "Комбинат «Магнезит»"
+    },
+    {
+      "town": "Миасс",
+      "region": "Челябинская область",
+      "population_thousands": 166.5,
+      "main_enterprise": "Автомобильный завод « УРАЛ »"
+    },
+    {
+      "town": "Златоуст",
+      "region": "Челябинская область",
+      "population_thousands": 173.1,
+      "main_enterprise": "ОАО « Златоустовский машиностроительный завод », ООО « Златоустовский металлургический завод »"
+    },
+    {
+      "town": "Чебаркуль",
+      "region": "Челябинская область",
+      "population_thousands": 40.9,
+      "main_enterprise": "ОАО «Уральская кузница»"
+    },
+    {
+      "town": "Озёрск",
+      "region": "Челябинская область",
+      "population_thousands": 79.2,
+      "main_enterprise": "Производственное объединение « Маяк »"
+    },
+    {
+      "town": "Трёхгорный",
+      "region": "Челябинская область",
+      "population_thousands": 32.3,
+      "main_enterprise": "ФГУП « Приборостроительный завод »"
+    },
+    {
+      "town": "Снежинск",
+      "region": "Челябинская область",
+      "population_thousands": 50.7,
+      "main_enterprise": "Всероссийский научно-исследовательский институт технической физики"
+    },
+    {
+      "town": "Магнитогорск",
+      "region": "Челябинская область",
+      "population_thousands": 414.8,
+      "main_enterprise": "ОАО « Магнитогорский металлургический комбинат »"
+    },
+    {
+      "town": "Канаш",
+      "region": "Чувашская Республика",
+      "population_thousands": 45.5,
+      "main_enterprise": "ЗАО « Промтрактор-Вагон »"
+    },
+    {
+      "town": "Мариинский Посад",
+      "region": "Чувашская Республика",
+      "population_thousands": 8.7,
+      "main_enterprise": "Спиртзавод «Марпосадский» с дочерним предприятием УП «Маслозавод»"
+    },
+    {
+      "town": "Алатырь",
+      "region": "Чувашская Республика",
+      "population_thousands": 36.6,
+      "main_enterprise": "Завод « Электроприбор », ОАО «Электроавтомат»"
+    },
+    {
+      "town": "Шумерля",
+      "region": "Чувашская Республика",
+      "population_thousands": 30.5,
+      "main_enterprise": "ОАО « Шумерлинский завод специализированных автомобилей », ОАО «Комбинат автомобильных фургонов»"
+    },
+    {
+      "town": "Новочебоксарск",
+      "region": "Чувашская Республика",
+      "population_thousands": 124.2,
+      "main_enterprise": "ОАО « Химпром »"
+    },
+    {
+      "town": "Песочное (посёлок)",
+      "region": "Ярославская область",
+      "population_thousands": 2.6,
+      "main_enterprise": "ЗАО « Первомайский фарфор »"
+    },
+    {
+      "town": "Гаврилов-Ям",
+      "region": "Ярославская область",
+      "population_thousands": 17.4,
+      "main_enterprise": "ОАО «Гаврилов-Ямский льнокомбинат»"
+    },
+    {
+      "town": "Тутаев",
+      "region": "Ярославская область",
+      "population_thousands": 40.3,
+      "main_enterprise": "ОАО « Тутаевский моторный завод »"
+    },
+    {
+      "town": "Ростов Великий",
+      "region": "Ярославская область",
+      "population_thousands": 30.9,
+      "main_enterprise": "ОАО « Ростовский оптикомеханический завод » (ОАО «РОМЗ»)"
+    },
+    {
+      "town": "Муравленко",
+      "region": "Ямало-Ненецкий Автономный округ",
+      "population_thousands": 33.4,
+      "main_enterprise": "АО « Газпромнефть-ННГ »"
+    }
+  ],
+  "meta": {
+    "title": "Моногорода России - Free Download",
+    "description": "Перечень моногородов Российской Федерации по регионам с численностью населения (тыс. человек) и градообразующими предприятиями. Contains 335 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Моногорода России | ListBase",
+    "seo_description": "Download Моногорода России — 335 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 335 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%BE%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8"
+    ]
+  }
+}
