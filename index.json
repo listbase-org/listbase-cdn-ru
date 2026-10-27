@@ -1,12 +1,12 @@
 {
   "lang": "ru",
-  "generated": "2026-10-27T02:14:06.670Z",
-  "total_datasets": 464,
-  "total_records": 215693,
+  "generated": "2026-10-27T02:14:09.244Z",
+  "total_datasets": 465,
+  "total_records": 215725,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "culture",
@@ -130,6 +130,40 @@
         "xlsx": {
           "name": "ru-proizvodstvo-zhivotnovodstva_RU.xlsx",
           "size": 8780
+        }
+      }
+    },
+    {
+      "id": "ru-urozhay-zernovykh",
+      "name": "Валовой сбор зерновых культур в России (тыс. тонн)",
+      "category": "agriculture",
+      "record_count": 32,
+      "columns": [
+        "year",
+        "total",
+        "wheat",
+        "rye",
+        "barley",
+        "oats",
+        "maize",
+        "millet",
+        "buckwheat",
+        "rice",
+        "triticale",
+        "sorghum",
+        "pulses"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8",
+      "updated": "2026-10",
+      "size": 12673,
+      "files": {
+        "csv": {
+          "name": "ru-urozhay-zernovykh_RU.csv",
+          "size": 2956
+        },
+        "xlsx": {
+          "name": "ru-urozhay-zernovykh_RU.xlsx",
+          "size": 9243
         }
       }
     },
