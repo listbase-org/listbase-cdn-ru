@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-10-27T02:13:01.174Z",
-  "total_datasets": 440,
-  "total_records": 214263,
+  "generated": "2026-10-27T02:13:08.388Z",
+  "total_datasets": 441,
+  "total_records": 214274,
   "categories": [
     {
       "id": "culture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "tourism",
@@ -10564,6 +10564,30 @@
         "xlsx": {
           "name": "ru-strany-emoji-flagi_RU.xlsx",
           "size": 16330
+        }
+      }
+    },
+    {
+      "id": "ru-chasovye-zony",
+      "name": "Часовые зоны России",
+      "category": "time",
+      "record_count": 11,
+      "columns": [
+        "time_zone",
+        "subjects",
+        "population_2024"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%80%D0%B5%D0%BC%D1%8F_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8",
+      "updated": "2026-10",
+      "size": 7062,
+      "files": {
+        "csv": {
+          "name": "ru-chasovye-zony_RU.csv",
+          "size": 4473
+        },
+        "xlsx": {
+          "name": "ru-chasovye-zony_RU.xlsx",
+          "size": 7983
         }
       }
     },
