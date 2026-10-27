@@ -1,0 +1,223 @@
+{
+  "id": "ru-kubok-gagarina-finaly",
+  "name": "Финалы Кубка Гагарина (КХЛ)",
+  "title": "Финалы Кубка Гагарина (КХЛ)",
+  "description": "Обладатели Кубка Гагарина — главного трофея Континентальной хоккейной лиги: победитель, финалист, тренеры, счёт серии и автор победного гола.",
+  "category": "sports",
+  "source": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0",
+  "source_url": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0",
+  "updated": "2026-10",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "winner",
+      "label": "Winner",
+      "type": "string"
+    },
+    {
+      "key": "winner_coach",
+      "label": "Winner Coach",
+      "type": "string"
+    },
+    {
+      "key": "finalist",
+      "label": "Finalist",
+      "type": "string"
+    },
+    {
+      "key": "finalist_coach",
+      "label": "Finalist Coach",
+      "type": "string"
+    },
+    {
+      "key": "series",
+      "label": "Series",
+      "type": "string"
+    },
+    {
+      "key": "winning_goal",
+      "label": "Winning Goal",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2026,
+      "winner": "Локомотив",
+      "winner_coach": "Боб Хартли",
+      "finalist": "Ак Барс ( В )",
+      "finalist_coach": "Анвар Гатиятулин",
+      "series": "4:2",
+      "winning_goal": "Максим Шалунов ( 52:30 )"
+    },
+    {
+      "year": 2025,
+      "winner": "Локомотив",
+      "winner_coach": "Игорь Никитин",
+      "finalist": "Трактор ( В )",
+      "finalist_coach": "Бенуа Гру",
+      "series": "4:1",
+      "winning_goal": "Максим Шалунов ( 68:01 )"
+    },
+    {
+      "year": 2024,
+      "winner": "Металлург",
+      "winner_coach": "Андрей Разин",
+      "finalist": "Локомотив ( З )",
+      "finalist_coach": "Игорь Никитин",
+      "series": "4:0",
+      "winning_goal": "Даниил Вовченко ( 51:10 )"
+    },
+    {
+      "year": 2023,
+      "winner": "ЦСКА",
+      "winner_coach": "Сергей Фёдоров",
+      "finalist": "Ак Барс ( В )",
+      "finalist_coach": "Зинэтула Билялетдинов",
+      "series": "4:3",
+      "winning_goal": "Даррен Диц ( 31:28 )"
+    },
+    {
+      "year": 2022,
+      "winner": "ЦСКА",
+      "winner_coach": "Сергей Фёдоров",
+      "finalist": "Металлург ( В )",
+      "finalist_coach": "Илья Воробьёв",
+      "series": "4:3",
+      "winning_goal": "Александр Попов (09:29)"
+    },
+    {
+      "year": 2021,
+      "winner": "Авангард",
+      "winner_coach": "Боб Хартли",
+      "finalist": "ЦСКА ( З )",
+      "finalist_coach": "Игорь Никитин",
+      "series": "4:2",
+      "winning_goal": "Сергей Толчинский (19:28)"
+    },
+    {
+      "year": 2020,
+      "winner": "Не состоялся (из-за covid-19)",
+      "winner_coach": "Не состоялся (из-за covid-19)",
+      "finalist": "Не состоялся (из-за covid-19)",
+      "finalist_coach": "Не состоялся (из-за covid-19)",
+      "series": "Не состоялся (из-за covid-19)",
+      "winning_goal": "Не состоялся (из-за covid-19)"
+    },
+    {
+      "year": 2019,
+      "winner": "ЦСКА",
+      "winner_coach": "Игорь Никитин",
+      "finalist": "Авангард ( В )",
+      "finalist_coach": "Боб Хартли",
+      "series": "4:0",
+      "winning_goal": "Максим Мамин (77:44)"
+    },
+    {
+      "year": 2018,
+      "winner": "Ак Барс",
+      "winner_coach": "Зинэтула Билялетдинов",
+      "finalist": "ЦСКА ( З )",
+      "finalist_coach": "Игорь Никитин",
+      "series": "4:1",
+      "winning_goal": "Роб Клинкхаммер (41:06)"
+    },
+    {
+      "year": 2017,
+      "winner": "СКА",
+      "winner_coach": "Олег Знарок",
+      "finalist": "Металлург ( В )",
+      "finalist_coach": "Илья Воробьёв",
+      "series": "4:1",
+      "winning_goal": "Илья Ковальчук (40:09)"
+    },
+    {
+      "year": 2016,
+      "winner": "Металлург",
+      "winner_coach": "Илья Воробьёв",
+      "finalist": "ЦСКА ( З )",
+      "finalist_coach": "Дмитрий Квартальнов",
+      "series": "4:3",
+      "winning_goal": "Крис Ли (38:57)"
+    },
+    {
+      "year": 2015,
+      "winner": "СКА",
+      "winner_coach": "Вячеслав Быков",
+      "finalist": "Ак Барс ( В )",
+      "finalist_coach": "Зинэтула Билялетдинов",
+      "series": "4:1",
+      "winning_goal": "Илья Ковальчук (06:31)"
+    },
+    {
+      "year": 2014,
+      "winner": "Металлург",
+      "winner_coach": "Майк Кинэн",
+      "finalist": "Лев ( З )",
+      "finalist_coach": "Кари Ялонен",
+      "series": "4:3",
+      "winning_goal": "Сергей Мозякин (43:10)"
+    },
+    {
+      "year": 2013,
+      "winner": "Динамо (Москва)",
+      "winner_coach": "Олег Знарок",
+      "finalist": "Трактор ( В )",
+      "finalist_coach": "Валерий Белоусов",
+      "series": "4:2",
+      "winning_goal": "Алексей Цветков (65:57)"
+    },
+    {
+      "year": 2012,
+      "winner": "Динамо (Москва)",
+      "winner_coach": "Олег Знарок",
+      "finalist": "Авангард ( В )",
+      "finalist_coach": "Раймо Сумманен",
+      "series": "4:3",
+      "winning_goal": "Якуб Клепиш (52:03)"
+    },
+    {
+      "year": 2011,
+      "winner": "Салават Юлаев",
+      "winner_coach": "Вячеслав Быков",
+      "finalist": "Атлант ( З )",
+      "finalist_coach": "Милош Ржига",
+      "series": "4:1",
+      "winning_goal": "Александр Свитов (55:48)"
+    },
+    {
+      "year": 2010,
+      "winner": "Ак Барс",
+      "winner_coach": "Зинэтула Билялетдинов",
+      "finalist": "ХК МВД ( З )",
+      "finalist_coach": "Олег Знарок",
+      "series": "4:3",
+      "winning_goal": "Никита Алексеев (21:18)"
+    },
+    {
+      "year": 2009,
+      "winner": "Ак Барс",
+      "winner_coach": "Зинэтула Билялетдинов",
+      "finalist": "Локомотив",
+      "finalist_coach": "Кари Хейккиля",
+      "series": "4:3",
+      "winning_goal": "Алексей Морозов (50:04)"
+    }
+  ],
+  "meta": {
+    "title": "Финалы Кубка Гагарина (КХЛ) - Free Download",
+    "description": "Обладатели Кубка Гагарина — главного трофея Континентальной хоккейной лиги: победитель, финалист, тренеры, счёт серии и автор победного гола. Contains 18 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Финалы Кубка Гагарина (КХЛ) | ListBase",
+    "seo_description": "Download Финалы Кубка Гагарина (КХЛ) — 18 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 18 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B1%D0%BE%D0%BA_%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0"
+    ]
+  }
+}
