@@ -1,0 +1,148 @@
+{
+  "id": "ru-obrashcheniya-v-konstitucionnyy-sud",
+  "name": "Количество обращений в Конституционный суд РФ по годам",
+  "title": "Количество обращений в Конституционный суд РФ по годам",
+  "description": "Число обращений граждан и организаций, поступивших в Конституционный суд Российской Федерации, по годам.",
+  "category": "law",
+  "source": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D1%83%D0%B4_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8",
+  "source_url": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D1%83%D0%B4_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8",
+  "updated": "2026-10",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "string"
+    },
+    {
+      "key": "appeals",
+      "label": "Appeals",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": "1995-99",
+      "appeals": 52068
+    },
+    {
+      "year": "2000",
+      "appeals": 10983
+    },
+    {
+      "year": "2001",
+      "appeals": 12296
+    },
+    {
+      "year": "2002",
+      "appeals": 14472
+    },
+    {
+      "year": "2003",
+      "appeals": 15668
+    },
+    {
+      "year": "2004",
+      "appeals": 15561
+    },
+    {
+      "year": "2005",
+      "appeals": 14943
+    },
+    {
+      "year": "2006",
+      "appeals": 14989
+    },
+    {
+      "year": "2007",
+      "appeals": 16612
+    },
+    {
+      "year": "2008",
+      "appeals": 16592
+    },
+    {
+      "year": "2009",
+      "appeals": 20629
+    },
+    {
+      "year": "2010",
+      "appeals": 18214
+    },
+    {
+      "year": "2011",
+      "appeals": 19142
+    },
+    {
+      "year": "2012",
+      "appeals": 18745
+    },
+    {
+      "year": "2013",
+      "appeals": 15101
+    },
+    {
+      "year": "2014",
+      "appeals": 16005
+    },
+    {
+      "year": "2015",
+      "appeals": 14622
+    },
+    {
+      "year": "2016",
+      "appeals": 14031
+    },
+    {
+      "year": "2017",
+      "appeals": 14638
+    },
+    {
+      "year": "2018",
+      "appeals": 15149
+    },
+    {
+      "year": "2019",
+      "appeals": 14809
+    },
+    {
+      "year": "2020",
+      "appeals": 12926
+    },
+    {
+      "year": "2021",
+      "appeals": 11828
+    },
+    {
+      "year": "2022",
+      "appeals": 12933
+    },
+    {
+      "year": "2023",
+      "appeals": 12540
+    },
+    {
+      "year": "2024",
+      "appeals": 13258
+    },
+    {
+      "year": "2025",
+      "appeals": 11098
+    },
+    {
+      "year": "2026",
+      "appeals": 2647
+    }
+  ],
+  "meta": {
+    "title": "Количество обращений в Конституционный суд РФ по годам - Free Download",
+    "description": "Число обращений граждан и организаций, поступивших в Конституционный суд Российской Федерации, по годам. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Количество обращений в Конституционный суд РФ по годам | ListBase",
+    "seo_description": "Download Количество обращений в Конституционный суд РФ по годам — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D1%83%D0%B4_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8"
+    ]
+  }
+}
