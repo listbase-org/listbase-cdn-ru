@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-10-27T02:13:18.312Z",
-  "total_datasets": 445,
-  "total_records": 214551,
+  "generated": "2026-10-27T02:13:21.194Z",
+  "total_datasets": 446,
+  "total_records": 214637,
   "categories": [
     {
       "id": "culture",
@@ -42,6 +42,10 @@
     },
     {
       "id": "science",
+      "dataset_count": 1
+    },
+    {
+      "id": "society",
       "dataset_count": 1
     },
     {
@@ -10568,6 +10572,49 @@
         "xlsx": {
           "name": "ru-ledniki_RU.xlsx",
           "size": 12644
+        }
+      }
+    },
+    {
+      "id": "ru-ichr-regiony",
+      "name": "Индекс человеческого развития субъектов РФ",
+      "category": "society",
+      "record_count": 86,
+      "columns": [
+        "rank",
+        "region",
+        "hdi_2018",
+        "hdi_2017",
+        "hdi_2016",
+        "hdi_2015",
+        "hdi_2014",
+        "hdi_2013",
+        "hdi_2012",
+        "hdi_2011",
+        "hdi_2010",
+        "hdi_2009",
+        "hdi_2008",
+        "hdi_2007",
+        "hdi_2006",
+        "hdi_2005",
+        "hdi_2004",
+        "hdi_2003",
+        "hdi_2002",
+        "hdi_2001",
+        "hdi_2000",
+        "hdi_1999"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%81%D1%83%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D1%83_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D1%8F",
+      "updated": "2026-10",
+      "size": 54651,
+      "files": {
+        "csv": {
+          "name": "ru-ichr-regiony_RU.csv",
+          "size": 17034
+        },
+        "xlsx": {
+          "name": "ru-ichr-regiony_RU.xlsx",
+          "size": 15796
         }
       }
     },
