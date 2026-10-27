@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-10-27T02:14:11.788Z",
-  "total_datasets": 466,
-  "total_records": 216021,
+  "generated": "2026-10-27T02:14:14.657Z",
+  "total_datasets": 467,
+  "total_records": 216107,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -457,6 +457,35 @@
         "xlsx": {
           "name": "ru-monogoroda_RU.xlsx",
           "size": 23547
+        }
+      }
+    },
+    {
+      "id": "ru-vrp-subektov-rf",
+      "name": "Валовой региональный продукт субъектов РФ (млрд руб.)",
+      "category": "economy",
+      "record_count": 86,
+      "columns": [
+        "rank",
+        "region",
+        "grp_2015",
+        "grp_2016",
+        "grp_2017",
+        "grp_2018",
+        "grp_2022",
+        "grp_2023"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%81%D1%83%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B2%D0%B0%D0%BB%D0%BE%D0%B2%D0%BE%D0%BC%D1%83_%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%83",
+      "updated": "2026-10",
+      "size": 23743,
+      "files": {
+        "csv": {
+          "name": "ru-vrp-subektov-rf_RU.csv",
+          "size": 8144
+        },
+        "xlsx": {
+          "name": "ru-vrp-subektov-rf_RU.xlsx",
+          "size": 11703
         }
       }
     },
