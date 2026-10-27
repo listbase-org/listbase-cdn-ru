@@ -1,0 +1,107 @@
+{
+  "id": "ru-starorusskie-mery-zhidkostey",
+  "name": "Старорусские меры объёма жидкостей",
+  "title": "Старорусские меры объёма жидкостей",
+  "description": "Русские меры объёма жидкостей (шкалик, чарка, бутылка, ведро, бочка и др.) с переводом в вёдра и литры.",
+  "category": "units",
+  "source": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BC%D0%B5%D1%80",
+  "source_url": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BC%D0%B5%D1%80",
+  "updated": "2026-10",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "unit",
+      "label": "Unit",
+      "type": "string"
+    },
+    {
+      "key": "ratio_to_smaller",
+      "label": "Ratio To Smaller",
+      "type": "string"
+    },
+    {
+      "key": "buckets",
+      "label": "Buckets",
+      "type": "string"
+    },
+    {
+      "key": "liters",
+      "label": "Liters",
+      "type": "number"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unit": "шкалик",
+      "ratio_to_smaller": "",
+      "buckets": "1 ⁄ 200",
+      "liters": 0.0615,
+      "notes": ""
+    },
+    {
+      "unit": "чарка",
+      "ratio_to_smaller": "2 шкалика",
+      "buckets": "1 ⁄ 100",
+      "liters": 0.123,
+      "notes": ""
+    },
+    {
+      "unit": "водочная бутылка",
+      "ratio_to_smaller": "5 чаркам",
+      "buckets": "1 ⁄ 20",
+      "liters": 0.614962,
+      "notes": ""
+    },
+    {
+      "unit": "винная бутылка",
+      "ratio_to_smaller": "3 стакана",
+      "buckets": "1 ⁄ 16",
+      "liters": 0.7687,
+      "notes": ""
+    },
+    {
+      "unit": "штоф",
+      "ratio_to_smaller": "2 водочные бутылки",
+      "buckets": "1 ⁄ 10",
+      "liters": 1.2299,
+      "notes": ""
+    },
+    {
+      "unit": "четверть",
+      "ratio_to_smaller": "4 винные бутылки или 5 водочных бутылок",
+      "buckets": "1 ⁄ 4",
+      "liters": 3.0748,
+      "notes": ""
+    },
+    {
+      "unit": "ведро",
+      "ratio_to_smaller": "4 четверти",
+      "buckets": "1",
+      "liters": 12.29941,
+      "notes": ""
+    },
+    {
+      "unit": "бочка",
+      "ratio_to_smaller": "40 вёдер",
+      "buckets": "40",
+      "liters": 491.976,
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "Старорусские меры объёма жидкостей - Free Download",
+    "description": "Русские меры объёма жидкостей (шкалик, чарка, бутылка, ведро, бочка и др.) с переводом в вёдра и литры. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Старорусские меры объёма жидкостей | ListBase",
+    "seo_description": "Download Старорусские меры объёма жидкостей — 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BC%D0%B5%D1%80"
+    ]
+  }
+}
