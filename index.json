@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-10-27T02:13:34.063Z",
-  "total_datasets": 451,
-  "total_records": 215119,
+  "generated": "2026-10-27T02:13:36.730Z",
+  "total_datasets": 452,
+  "total_records": 215199,
   "categories": [
     {
       "id": "culture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "tourism",
@@ -10891,6 +10891,32 @@
         "xlsx": {
           "name": "ru-chasovye-zony_RU.xlsx",
           "size": 7983
+        }
+      }
+    },
+    {
+      "id": "ru-perevod-chasov-istoriya",
+      "name": "История перевода часов в России",
+      "category": "time",
+      "record_count": 80,
+      "columns": [
+        "date",
+        "switch_time",
+        "change",
+        "notes",
+        "utc_offset"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/%D0%92%D1%80%D0%B5%D0%BC%D1%8F_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8",
+      "updated": "2026-10",
+      "size": 19473,
+      "files": {
+        "csv": {
+          "name": "ru-perevod-chasov-istoriya_RU.csv",
+          "size": 9081
+        },
+        "xlsx": {
+          "name": "ru-perevod-chasov-istoriya_RU.xlsx",
+          "size": 9522
         }
       }
     },
