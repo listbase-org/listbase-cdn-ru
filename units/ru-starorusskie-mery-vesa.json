@@ -1,0 +1,112 @@
+{
+  "id": "ru-starorusskie-mery-vesa",
+  "name": "Старорусские меры массы",
+  "title": "Старорусские меры массы",
+  "description": "Русские меры веса (доля, золотник, лот, фунт, пуд, берковец) с переводом в фунты, граммы и килограммы.",
+  "category": "units",
+  "source": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BC%D0%B5%D1%80",
+  "source_url": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BC%D0%B5%D1%80",
+  "updated": "2026-10",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "unit",
+      "label": "Unit",
+      "type": "string"
+    },
+    {
+      "key": "ratio_to_smaller",
+      "label": "Ratio To Smaller",
+      "type": "string"
+    },
+    {
+      "key": "pounds",
+      "label": "Pounds",
+      "type": "string"
+    },
+    {
+      "key": "grams",
+      "label": "Grams",
+      "type": "number"
+    },
+    {
+      "key": "kg",
+      "label": "Kg",
+      "type": "number"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unit": "доля (пирог)",
+      "ratio_to_smaller": "",
+      "pounds": "1 ⁄ 9216",
+      "grams": 0.0444,
+      "kg": "",
+      "notes": ""
+    },
+    {
+      "unit": "почка",
+      "ratio_to_smaller": "4 доли",
+      "pounds": "1 ⁄ 2400",
+      "grams": 0.17,
+      "kg": "",
+      "notes": ""
+    },
+    {
+      "unit": "золотник",
+      "ratio_to_smaller": "96 долей",
+      "pounds": "1 ⁄ 96",
+      "grams": 4.2657,
+      "kg": "",
+      "notes": ""
+    },
+    {
+      "unit": "лот",
+      "ratio_to_smaller": "3 золотника",
+      "pounds": "1 ⁄ 32",
+      "grams": 12.79726,
+      "kg": "",
+      "notes": ""
+    },
+    {
+      "unit": "фунт",
+      "ratio_to_smaller": "32 лота",
+      "pounds": "1",
+      "grams": 409.5124,
+      "kg": 0.40951241,
+      "notes": ""
+    },
+    {
+      "unit": "пуд",
+      "ratio_to_smaller": "40 фунтов",
+      "pounds": "40",
+      "grams": 16380.4964,
+      "kg": 16.380496,
+      "notes": ""
+    },
+    {
+      "unit": "берковец",
+      "ratio_to_smaller": "10 пудов",
+      "pounds": "400",
+      "grams": "",
+      "kg": 163.8,
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "Старорусские меры массы - Free Download",
+    "description": "Русские меры веса (доля, золотник, лот, фунт, пуд, берковец) с переводом в фунты, граммы и килограммы. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Старорусские меры массы | ListBase",
+    "seo_description": "Download Старорусские меры массы — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BC%D0%B5%D1%80"
+    ]
+  }
+}
