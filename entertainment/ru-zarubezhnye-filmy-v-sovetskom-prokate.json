@@ -1,0 +1,224 @@
+{
+  "id": "ru-zarubezhnye-filmy-v-sovetskom-prokate",
+  "name": "Лидеры советского кинопроката — зарубежные фильмы",
+  "title": "Лидеры советского кинопроката — зарубежные фильмы",
+  "description": "Самые популярные зарубежные фильмы в прокате СССР по числу зрителей (млн): название, страна, жанр и год проката.",
+  "category": "entertainment",
+  "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BB%D0%B8%D0%B4%D0%B5%D1%80%D0%BE%D0%B2_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D0%B8%D0%BD%D0%BE%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82%D0%B0",
+  "source_url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BB%D0%B8%D0%B4%D0%B5%D1%80%D0%BE%D0%B2_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D0%B8%D0%BD%D0%BE%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82%D0%B0",
+  "updated": "2026-10",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "title_year",
+      "label": "Title Year",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "genre",
+      "label": "Genre",
+      "type": "string"
+    },
+    {
+      "key": "ussr_release",
+      "label": "Ussr Release",
+      "type": "number"
+    },
+    {
+      "key": "viewers_mln",
+      "label": "Viewers Mln",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "title_year": "Есения ( исп. Yesenia , 1971 )",
+      "country": "Мексика",
+      "genre": "мелодрама",
+      "ussr_release": "1975",
+      "viewers_mln": 91.4
+    },
+    {
+      "rank": 2,
+      "title_year": "Великолепная семёрка ( англ. The Magnificent Seven , 1960 )",
+      "country": "США",
+      "genre": "вестерн",
+      "ussr_release": "1961",
+      "viewers_mln": 67
+    },
+    {
+      "rank": 3,
+      "title_year": "Бродяга ( хинди Awara , 1951 )",
+      "country": "Индия",
+      "genre": "мелодрама",
+      "ussr_release": "1954",
+      "viewers_mln": 63.7
+    },
+    {
+      "rank": 4,
+      "title_year": "Золото Маккенны ( англ. Mackenna’s Gold , 1969 )",
+      "country": "США",
+      "genre": "вестерн",
+      "ussr_release": "1974",
+      "viewers_mln": 63
+    },
+    {
+      "rank": 5,
+      "title_year": "Спартак ( англ. Spartacus , 1960)",
+      "country": "США",
+      "genre": "исторический",
+      "ussr_release": "1967",
+      "viewers_mln": 63
+    },
+    {
+      "rank": 6,
+      "title_year": "Бобби ( англ. Bobby , 1973 )",
+      "country": "Индия",
+      "genre": "мелодрама",
+      "ussr_release": "1975",
+      "viewers_mln": 62.6
+    },
+    {
+      "rank": 7,
+      "title_year": "Белое платье (с араб. — «Ар-рида аль-абьяд», 1973 )",
+      "country": "Египет",
+      "genre": "мелодрама",
+      "ussr_release": "1976",
+      "viewers_mln": 61
+    },
+    {
+      "rank": 8,
+      "title_year": "Танцор диско ( англ. Disco Dancer , 1982 )",
+      "country": "Индия",
+      "genre": "музыкальная мелодрама",
+      "ussr_release": "1984",
+      "viewers_mln": 61
+    },
+    {
+      "rank": 9,
+      "title_year": "Мститель [англ.] (др. назв. «Непоседа», хинди Barood , 1976 )",
+      "country": "Индия",
+      "genre": "боевик",
+      "ussr_release": "1978",
+      "viewers_mln": 60
+    },
+    {
+      "rank": 10,
+      "title_year": "Четыре мушкетёра ( фр. Les quatre Charlot mousquetaires , 1974 )",
+      "country": "Франция",
+      "genre": "комедия",
+      "ussr_release": "1978",
+      "viewers_mln": 56.6
+    },
+    {
+      "rank": 11,
+      "title_year": "Укрощение строптивого ( итал. Il bisbetico domato , 1980 )",
+      "country": "Италия",
+      "genre": "комедия",
+      "ussr_release": "1983",
+      "viewers_mln": 56
+    },
+    {
+      "rank": 12,
+      "title_year": "Виннету — сын Инчу-Чуна ( нем. Winnetou , 1963 )",
+      "country": "ФРГ, СФРЮ , Италия",
+      "genre": "вестерн",
+      "ussr_release": "1975",
+      "viewers_mln": 56
+    },
+    {
+      "rank": 13,
+      "title_year": "Зита и Гита ( хинди Seeta Aur Geeta , 1972 )",
+      "country": "Индия",
+      "genre": "мелодрама",
+      "ussr_release": "1976",
+      "viewers_mln": 55.3
+    },
+    {
+      "rank": 14,
+      "title_year": "Кинг-Конг жив ( англ. King Kong Lives , 1986 )",
+      "country": "США",
+      "genre": "фантастика приключения",
+      "ussr_release": "1988",
+      "viewers_mln": 55.2
+    },
+    {
+      "rank": 15,
+      "title_year": "Зорро ( итал. Zorro , 1975 )",
+      "country": "Италия, Франция",
+      "genre": "вестерн",
+      "ussr_release": "1976",
+      "viewers_mln": 53.6
+    },
+    {
+      "rank": 16,
+      "title_year": "Синьор Робинзон ( итал. Il signor Robinson , 1976 )",
+      "country": "Италия",
+      "genre": "комедия",
+      "ussr_release": "1979",
+      "viewers_mln": 52.1
+    },
+    {
+      "rank": 17,
+      "title_year": "Материнская любовь [англ.] (др. назв. «Материнство», хинди Mamta , 1966 )",
+      "country": "Индия",
+      "genre": "мелодрама",
+      "ussr_release": "1969",
+      "viewers_mln": 52.1
+    },
+    {
+      "rank": 18,
+      "title_year": "Новобранцы идут на войну ( фр. Les bidasses s’en vont en guerre , 1974 )",
+      "country": "Франция, Италия, ФРГ",
+      "genre": "комедия",
+      "ussr_release": "1978",
+      "viewers_mln": 50.1
+    },
+    {
+      "rank": 19,
+      "title_year": "Легенда о динозавре (Кё:рю: каитё: но дэнсэцу ( яп. 恐竜怪鳥の伝説 ), 1977 )",
+      "country": "Япония",
+      "genre": "фантастика, ужасы",
+      "ussr_release": "1979",
+      "viewers_mln": 48.7
+    },
+    {
+      "rank": 20,
+      "title_year": "Чёрный тюльпан ( фр. La tulipe noir , 1970 )",
+      "country": "Франция, Испания, Италия",
+      "genre": "исторический, приключения",
+      "ussr_release": "1976",
+      "viewers_mln": 47.8
+    },
+    {
+      "rank": 21,
+      "title_year": "Фантомас ( фр. Fantomas , 1964 )",
+      "country": "Франция",
+      "genre": "приключения",
+      "ussr_release": "1967",
+      "viewers_mln": 45.7
+    }
+  ],
+  "meta": {
+    "title": "Лидеры советского кинопроката — зарубежные фильмы - Free Download",
+    "description": "Самые популярные зарубежные фильмы в прокате СССР по числу зрителей (млн): название, страна, жанр и год проката. Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Лидеры советского кинопроката — зарубежные фильмы | ListBase",
+    "seo_description": "Download Лидеры советского кинопроката — зарубежные фильмы — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BB%D0%B8%D0%B4%D0%B5%D1%80%D0%BE%D0%B2_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D0%B8%D0%BD%D0%BE%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82%D0%B0"
+    ]
+  }
+}
