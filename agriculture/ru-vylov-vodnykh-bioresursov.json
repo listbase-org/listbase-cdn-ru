@@ -1,0 +1,445 @@
+{
+  "id": "ru-vylov-vodnykh-bioresursov",
+  "name": "Вылов водных биологических ресурсов в России (тыс. тонн)",
+  "title": "Вылов водных биологических ресурсов в России (тыс. тонн)",
+  "description": "Вылов основных видов рыбы и других водных биоресурсов в России по годам, тысяч тонн.",
+  "category": "agriculture",
+  "source": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8",
+  "source_url": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8",
+  "updated": "2026-10",
+  "record_count": 34,
+  "columns": [
+    {
+      "key": "resource",
+      "label": "Resource",
+      "type": "string"
+    },
+    {
+      "key": "catch_2015",
+      "label": "Catch 2015",
+      "type": "number"
+    },
+    {
+      "key": "catch_2016",
+      "label": "Catch 2016",
+      "type": "number"
+    },
+    {
+      "key": "catch_2017",
+      "label": "Catch 2017",
+      "type": "number"
+    },
+    {
+      "key": "catch_2018",
+      "label": "Catch 2018",
+      "type": "number"
+    },
+    {
+      "key": "catch_2019",
+      "label": "Catch 2019",
+      "type": "number"
+    },
+    {
+      "key": "catch_2020",
+      "label": "Catch 2020",
+      "type": "number"
+    },
+    {
+      "key": "catch_2021",
+      "label": "Catch 2021",
+      "type": "number"
+    },
+    {
+      "key": "catch_2022",
+      "label": "Catch 2022",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "resource": "Улов рыбы, в т.ч",
+      "catch_2015": 4505,
+      "catch_2016": 4812,
+      "catch_2017": 4955,
+      "catch_2018": 5110,
+      "catch_2019": 4998,
+      "catch_2020": 4975,
+      "catch_2021": 5061,
+      "catch_2022": 4920
+    },
+    {
+      "resource": "Тресковые, в т.ч",
+      "catch_2015": 2457,
+      "catch_2016": 2605,
+      "catch_2017": 2647,
+      "catch_2018": 2506,
+      "catch_2019": 2608,
+      "catch_2020": 2691,
+      "catch_2021": 2619,
+      "catch_2022": 2690
+    },
+    {
+      "resource": "- минтай",
+      "catch_2015": 1624,
+      "catch_2016": 1738,
+      "catch_2017": 1736,
+      "catch_2018": 1680,
+      "catch_2019": 1732,
+      "catch_2020": 1827,
+      "catch_2021": 1740,
+      "catch_2022": 1921
+    },
+    {
+      "resource": "- треска",
+      "catch_2015": 462,
+      "catch_2016": 487,
+      "catch_2017": 513,
+      "catch_2018": 468,
+      "catch_2019": 479,
+      "catch_2020": 480,
+      "catch_2021": 522,
+      "catch_2022": 470
+    },
+    {
+      "resource": "- путассу (северная)",
+      "catch_2015": 186,
+      "catch_2016": 174,
+      "catch_2017": 191,
+      "catch_2018": 171,
+      "catch_2019": 220,
+      "catch_2020": 181,
+      "catch_2021": 163,
+      "catch_2022": 128
+    },
+    {
+      "resource": "- пикша",
+      "catch_2015": 92,
+      "catch_2016": 116,
+      "catch_2017": 109,
+      "catch_2018": 90,
+      "catch_2019": 77,
+      "catch_2020": 89,
+      "catch_2021": 98,
+      "catch_2022": 82
+    },
+    {
+      "resource": "- навага",
+      "catch_2015": 39,
+      "catch_2016": 36,
+      "catch_2017": 45,
+      "catch_2018": 54,
+      "catch_2019": 51,
+      "catch_2020": 54,
+      "catch_2021": 44,
+      "catch_2022": 43
+    },
+    {
+      "resource": "- макрурус (макрорус)",
+      "catch_2015": 23,
+      "catch_2016": 24,
+      "catch_2017": 26,
+      "catch_2018": 22,
+      "catch_2019": 30,
+      "catch_2020": 39,
+      "catch_2021": 28,
+      "catch_2022": 29
+    },
+    {
+      "resource": "Сельдевые, анчоусовые, в т.ч",
+      "catch_2015": 620,
+      "catch_2016": 639,
+      "catch_2017": 695,
+      "catch_2018": 652,
+      "catch_2019": 768,
+      "catch_2020": 919,
+      "catch_2021": 885,
+      "catch_2022": 981
+    },
+    {
+      "resource": "- сельдь тихоокеанская",
+      "catch_2015": 386,
+      "catch_2016": 400,
+      "catch_2017": 426,
+      "catch_2018": 373,
+      "catch_2019": 387,
+      "catch_2020": 403,
+      "catch_2021": 416,
+      "catch_2022": 479
+    },
+    {
+      "resource": "- сельдь атлантическо-скандинавская",
+      "catch_2015": 67,
+      "catch_2016": 72,
+      "catch_2017": 91,
+      "catch_2018": 64,
+      "catch_2019": 98,
+      "catch_2020": 75,
+      "catch_2021": 93,
+      "catch_2022": 86
+    },
+    {
+      "resource": "- сельдь балтийская (салака)",
+      "catch_2015": 21,
+      "catch_2016": 21,
+      "catch_2017": 22,
+      "catch_2018": 24,
+      "catch_2019": 24,
+      "catch_2020": 25,
+      "catch_2021": 23,
+      "catch_2022": 25
+    },
+    {
+      "resource": "- сардины (Атлантика)",
+      "catch_2015": 56,
+      "catch_2016": 53,
+      "catch_2017": 39,
+      "catch_2018": 46,
+      "catch_2019": 35,
+      "catch_2020": 12,
+      "catch_2021": 9,
+      "catch_2022": 8
+    },
+    {
+      "resource": "- сардина иваси",
+      "catch_2015": 0,
+      "catch_2016": 7,
+      "catch_2017": 17,
+      "catch_2018": 62,
+      "catch_2019": 131,
+      "catch_2020": 305,
+      "catch_2021": 241,
+      "catch_2022": 288
+    },
+    {
+      "resource": "- (шпрот) килька (+каспийская)",
+      "catch_2015": 57,
+      "catch_2016": 56,
+      "catch_2017": 51,
+      "catch_2018": 53,
+      "catch_2019": "",
+      "catch_2020": "",
+      "catch_2021": "",
+      "catch_2022": ""
+    },
+    {
+      "resource": "Скумбрия",
+      "catch_2015": 215,
+      "catch_2016": 215,
+      "catch_2017": 295,
+      "catch_2018": 321,
+      "catch_2019": 308,
+      "catch_2020": 234,
+      "catch_2021": 272,
+      "catch_2022": 218
+    },
+    {
+      "resource": "Камбаловые",
+      "catch_2015": 124,
+      "catch_2016": 125,
+      "catch_2017": 127,
+      "catch_2018": 128,
+      "catch_2019": 132,
+      "catch_2020": 136,
+      "catch_2021": 112,
+      "catch_2022": 117
+    },
+    {
+      "resource": "Морские окуни, зубатки",
+      "catch_2015": 142,
+      "catch_2016": 134,
+      "catch_2017": 135,
+      "catch_2018": 121,
+      "catch_2019": 128,
+      "catch_2020": 125,
+      "catch_2021": 128,
+      "catch_2022": 116
+    },
+    {
+      "resource": "Ставридовые, кефалевые, сайра",
+      "catch_2015": 131,
+      "catch_2016": 117,
+      "catch_2017": 90,
+      "catch_2018": 78,
+      "catch_2019": 55,
+      "catch_2020": 58,
+      "catch_2021": 59,
+      "catch_2022": 73
+    },
+    {
+      "resource": "Карповые",
+      "catch_2015": 90,
+      "catch_2016": 109,
+      "catch_2017": 114,
+      "catch_2018": 98,
+      "catch_2019": 97,
+      "catch_2020": 101,
+      "catch_2021": 102,
+      "catch_2022": 101
+    },
+    {
+      "resource": "Прочие пресноводные",
+      "catch_2015": 48,
+      "catch_2016": 57,
+      "catch_2017": 66,
+      "catch_2018": 55,
+      "catch_2019": 44,
+      "catch_2020": 49,
+      "catch_2021": 48,
+      "catch_2022": 48
+    },
+    {
+      "resource": "Корюшковые",
+      "catch_2015": 62,
+      "catch_2016": 24,
+      "catch_2017": 31,
+      "catch_2018": 97,
+      "catch_2019": 27,
+      "catch_2020": 26,
+      "catch_2021": 20,
+      "catch_2022": 48
+    },
+    {
+      "resource": "Сиговые",
+      "catch_2015": 13,
+      "catch_2016": 18,
+      "catch_2017": 21,
+      "catch_2018": 13,
+      "catch_2019": 14,
+      "catch_2020": 14,
+      "catch_2021": 12,
+      "catch_2022": 14
+    },
+    {
+      "resource": "Лососевые, в т.ч",
+      "catch_2015": 377,
+      "catch_2016": 452,
+      "catch_2017": 360,
+      "catch_2018": 685,
+      "catch_2019": 509,
+      "catch_2020": 306,
+      "catch_2021": 545,
+      "catch_2022": 273
+    },
+    {
+      "resource": "- горбуша",
+      "catch_2015": 158,
+      "catch_2016": 266,
+      "catch_2017": 204,
+      "catch_2018": 511,
+      "catch_2019": 329,
+      "catch_2020": 175,
+      "catch_2021": 425,
+      "catch_2022": 143
+    },
+    {
+      "resource": "- кета",
+      "catch_2015": 145,
+      "catch_2016": 121,
+      "catch_2017": 100,
+      "catch_2018": 113,
+      "catch_2019": 113,
+      "catch_2020": 83,
+      "catch_2021": 76,
+      "catch_2022": 76
+    },
+    {
+      "resource": "- нерка",
+      "catch_2015": 51,
+      "catch_2016": 51,
+      "catch_2017": 42,
+      "catch_2018": 44,
+      "catch_2019": 51,
+      "catch_2020": 31,
+      "catch_2021": 31,
+      "catch_2022": 39
+    },
+    {
+      "resource": "- кижуч",
+      "catch_2015": 15,
+      "catch_2016": 7,
+      "catch_2017": 9,
+      "catch_2018": 11,
+      "catch_2019": 9,
+      "catch_2020": 10,
+      "catch_2021": 8,
+      "catch_2022": 10
+    },
+    {
+      "resource": "Морские беспозвоночные, в т.ч",
+      "catch_2015": 170,
+      "catch_2016": 221,
+      "catch_2017": 235,
+      "catch_2018": 268,
+      "catch_2019": 277,
+      "catch_2020": 295,
+      "catch_2021": 245,
+      "catch_2022": 222
+    },
+    {
+      "resource": "Кальмары",
+      "catch_2015": 54,
+      "catch_2016": 87,
+      "catch_2017": 83,
+      "catch_2018": 102,
+      "catch_2019": 98,
+      "catch_2020": 124,
+      "catch_2021": 83,
+      "catch_2022": 70
+    },
+    {
+      "resource": "Крабы",
+      "catch_2015": 64,
+      "catch_2016": 72,
+      "catch_2017": 86,
+      "catch_2018": 96,
+      "catch_2019": 92,
+      "catch_2020": 93,
+      "catch_2021": 96,
+      "catch_2022": 97
+    },
+    {
+      "resource": "Креветки",
+      "catch_2015": 15,
+      "catch_2016": 17,
+      "catch_2017": 22,
+      "catch_2018": 27,
+      "catch_2019": 42,
+      "catch_2020": 35,
+      "catch_2021": 23,
+      "catch_2022": 15
+    },
+    {
+      "resource": "Иглокожие",
+      "catch_2015": 13,
+      "catch_2016": 14,
+      "catch_2017": 15,
+      "catch_2018": 15,
+      "catch_2019": 17,
+      "catch_2020": 15,
+      "catch_2021": 16,
+      "catch_2022": 16
+    },
+    {
+      "resource": "Водоросли",
+      "catch_2015": 7,
+      "catch_2016": 14,
+      "catch_2017": 9,
+      "catch_2018": 8,
+      "catch_2019": 18,
+      "catch_2020": 8,
+      "catch_2021": 6,
+      "catch_2022": 6
+    }
+  ],
+  "meta": {
+    "title": "Вылов водных биологических ресурсов в России (тыс. тонн) - Free Download",
+    "description": "Вылов основных видов рыбы и других водных биоресурсов в России по годам, тысяч тонн. Contains 34 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Вылов водных биологических ресурсов в России (тыс. тонн) | ListBase",
+    "seo_description": "Download Вылов водных биологических ресурсов в России (тыс. тонн) — 34 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 34 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B5_%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%BE_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8"
+    ]
+  }
+}
