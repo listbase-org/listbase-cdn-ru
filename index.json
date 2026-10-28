@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-10-28T02:13:20.233Z",
-  "total_datasets": 472,
-  "total_records": 216326,
+  "generated": "2026-10-28T02:13:59.220Z",
+  "total_datasets": 473,
+  "total_records": 216373,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "language",
@@ -3883,6 +3883,33 @@
         "xlsx": {
           "name": "ru-prodolzhitelnost-zhizni-regiony_RU.xlsx",
           "size": 11620
+        }
+      }
+    },
+    {
+      "id": "ru-goroda-voinskoy-slavy",
+      "name": "Города воинской славы России",
+      "category": "history",
+      "record_count": 47,
+      "columns": [
+        "no",
+        "city",
+        "decree_date",
+        "decree_number",
+        "stele_opened",
+        "note"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_городов_воинской_славы",
+      "updated": "2026-10",
+      "size": 11667,
+      "files": {
+        "csv": {
+          "name": "ru-goroda-voinskoy-slavy_RU.csv",
+          "size": 3813
+        },
+        "xlsx": {
+          "name": "ru-goroda-voinskoy-slavy_RU.xlsx",
+          "size": 9143
         }
       }
     },

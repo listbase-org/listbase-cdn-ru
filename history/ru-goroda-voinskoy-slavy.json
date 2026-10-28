@@ -1,0 +1,432 @@
+{
+  "id": "ru-goroda-voinskoy-slavy",
+  "name": "Города воинской славы России",
+  "title": "Города воинской славы России",
+  "description": "Перечень городов, удостоенных почётного звания «Город воинской славы»: дата и номер указа Президента РФ, дата открытия памятной стелы.",
+  "category": "history",
+  "source": "https://ru.wikipedia.org/wiki/Список_городов_воинской_славы",
+  "source_url": "https://ru.wikipedia.org/wiki/Список_городов_воинской_славы",
+  "updated": "2026-10",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "decree_date",
+      "label": "Decree Date",
+      "type": "string"
+    },
+    {
+      "key": "decree_number",
+      "label": "Decree Number",
+      "type": "string"
+    },
+    {
+      "key": "stele_opened",
+      "label": "Stele Opened",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "city": "Белгород",
+      "decree_date": "27 апреля 2007",
+      "decree_number": "№ 558",
+      "stele_opened": "10 июля 2013",
+      "note": ""
+    },
+    {
+      "no": 2,
+      "city": "Курск",
+      "decree_date": "27 апреля 2007",
+      "decree_number": "№ 559",
+      "stele_opened": "22 апреля 2010",
+      "note": ""
+    },
+    {
+      "no": 3,
+      "city": "Орёл",
+      "decree_date": "27 апреля 2007",
+      "decree_number": "№ 560",
+      "stele_opened": "8 мая 2010",
+      "note": ""
+    },
+    {
+      "no": 4,
+      "city": "Владикавказ",
+      "decree_date": "8 октября 2007",
+      "decree_number": "№ 1343",
+      "stele_opened": "30 октября 2009",
+      "note": ""
+    },
+    {
+      "no": 5,
+      "city": "Малгобек",
+      "decree_date": "8 октября 2007",
+      "decree_number": "№ 1344",
+      "stele_opened": "9 мая 2010",
+      "note": ""
+    },
+    {
+      "no": 6,
+      "city": "Ржев",
+      "decree_date": "8 октября 2007",
+      "decree_number": "№ 1345",
+      "stele_opened": "8 мая 2010",
+      "note": ""
+    },
+    {
+      "no": 7,
+      "city": "Ельня",
+      "decree_date": "8 октября 2007",
+      "decree_number": "№ 1346",
+      "stele_opened": "30 августа 2010",
+      "note": ""
+    },
+    {
+      "no": 8,
+      "city": "Елец",
+      "decree_date": "8 октября 2007",
+      "decree_number": "№ 1347",
+      "stele_opened": "7 мая 2010",
+      "note": ""
+    },
+    {
+      "no": 9,
+      "city": "Воронеж",
+      "decree_date": "16 февраля 2008",
+      "decree_number": "№ 206",
+      "stele_opened": "6 мая 2010",
+      "note": ""
+    },
+    {
+      "no": 10,
+      "city": "Луга",
+      "decree_date": "5 мая 2008",
+      "decree_number": "№ 554",
+      "stele_opened": "9 мая 2010",
+      "note": ""
+    },
+    {
+      "no": 11,
+      "city": "Полярный",
+      "decree_date": "5 мая 2008",
+      "decree_number": "№ 555",
+      "stele_opened": "17 октября 2010",
+      "note": ""
+    },
+    {
+      "no": 12,
+      "city": "Ростов-на-Дону",
+      "decree_date": "5 мая 2008",
+      "decree_number": "№ 556",
+      "stele_opened": "6 мая 2010",
+      "note": ""
+    },
+    {
+      "no": 13,
+      "city": "Туапсе",
+      "decree_date": "5 мая 2008",
+      "decree_number": "№ 557",
+      "stele_opened": "8 мая 2012",
+      "note": ""
+    },
+    {
+      "no": 14,
+      "city": "Великие Луки",
+      "decree_date": "28 октября 2008",
+      "decree_number": "№ 1532",
+      "stele_opened": "17 июля 2010",
+      "note": ""
+    },
+    {
+      "no": 15,
+      "city": "Великий Новгород",
+      "decree_date": "28 октября 2008",
+      "decree_number": "№ 1533",
+      "stele_opened": "8 мая 2010",
+      "note": ""
+    },
+    {
+      "no": 16,
+      "city": "Дмитров",
+      "decree_date": "28 октября 2008",
+      "decree_number": "№ 1534",
+      "stele_opened": "4 сентября 2009",
+      "note": ""
+    },
+    {
+      "no": 17,
+      "city": "Вязьма",
+      "decree_date": "27 апреля 2009",
+      "decree_number": "№ 461",
+      "stele_opened": "12 июня 2011",
+      "note": ""
+    },
+    {
+      "no": 18,
+      "city": "Кронштадт",
+      "decree_date": "27 апреля 2009",
+      "decree_number": "№ 462",
+      "stele_opened": "6 мая 2015",
+      "note": ""
+    },
+    {
+      "no": 19,
+      "city": "Наро-Фоминск",
+      "decree_date": "27 апреля 2009",
+      "decree_number": "№ 463",
+      "stele_opened": "8 мая 2010",
+      "note": ""
+    },
+    {
+      "no": 20,
+      "city": "Псков",
+      "decree_date": "5 декабря 2009",
+      "decree_number": "№ 1387",
+      "stele_opened": "22 июля 2010",
+      "note": ""
+    },
+    {
+      "no": 21,
+      "city": "Козельск",
+      "decree_date": "5 декабря 2009",
+      "decree_number": "№ 1388",
+      "stele_opened": "15 июля 2010",
+      "note": ""
+    },
+    {
+      "no": 22,
+      "city": "Архангельск",
+      "decree_date": "5 декабря 2009",
+      "decree_number": "№ 1389",
+      "stele_opened": "31 августа 2011",
+      "note": ""
+    },
+    {
+      "no": 23,
+      "city": "Волоколамск",
+      "decree_date": "25 марта 2010",
+      "decree_number": "№ 338",
+      "stele_opened": "20 декабря 2014",
+      "note": ""
+    },
+    {
+      "no": 24,
+      "city": "Брянск",
+      "decree_date": "25 марта 2010",
+      "decree_number": "№ 339",
+      "stele_opened": "28 июня 2010",
+      "note": ""
+    },
+    {
+      "no": 25,
+      "city": "Нальчик",
+      "decree_date": "25 марта 2010",
+      "decree_number": "№ 340",
+      "stele_opened": "8 мая 2015",
+      "note": ""
+    },
+    {
+      "no": 26,
+      "city": "Выборг",
+      "decree_date": "25 марта 2010",
+      "decree_number": "№ 341",
+      "stele_opened": "9 мая 2011",
+      "note": ""
+    },
+    {
+      "no": 27,
+      "city": "Калач-на-Дону",
+      "decree_date": "25 марта 2010",
+      "decree_number": "№ 342",
+      "stele_opened": "19 ноября 2017",
+      "note": ""
+    },
+    {
+      "no": 28,
+      "city": "Владивосток",
+      "decree_date": "4 ноября 2010",
+      "decree_number": "№ 1333",
+      "stele_opened": "2 сентября 2012",
+      "note": ""
+    },
+    {
+      "no": 29,
+      "city": "Тихвин",
+      "decree_date": "4 ноября 2010",
+      "decree_number": "№ 1334",
+      "stele_opened": "9 декабря 2011",
+      "note": ""
+    },
+    {
+      "no": 30,
+      "city": "Тверь",
+      "decree_date": "4 ноября 2010",
+      "decree_number": "№ 1335",
+      "stele_opened": "16 декабря 2011",
+      "note": ""
+    },
+    {
+      "no": 31,
+      "city": "Анапа",
+      "decree_date": "5 мая 2011",
+      "decree_number": "№ 586",
+      "stele_opened": "8 мая 2013",
+      "note": ""
+    },
+    {
+      "no": 32,
+      "city": "Колпино",
+      "decree_date": "5 мая 2011",
+      "decree_number": "№ 587",
+      "stele_opened": "7 мая 2015",
+      "note": ""
+    },
+    {
+      "no": 33,
+      "city": "Старый Оскол",
+      "decree_date": "5 мая 2011",
+      "decree_number": "№ 588",
+      "stele_opened": "10 сентября 2011",
+      "note": ""
+    },
+    {
+      "no": 34,
+      "city": "Ковров",
+      "decree_date": "3 ноября 2011",
+      "decree_number": "№ 1456",
+      "stele_opened": "8 мая 2014",
+      "note": ""
+    },
+    {
+      "no": 35,
+      "city": "Ломоносов",
+      "decree_date": "3 ноября 2011",
+      "decree_number": "№ 1457",
+      "stele_opened": "8 мая 2015",
+      "note": ""
+    },
+    {
+      "no": 36,
+      "city": "Петропавловск-Камчатский",
+      "decree_date": "3 ноября 2011",
+      "decree_number": "№ 1458",
+      "stele_opened": "12 сентября 2015",
+      "note": ""
+    },
+    {
+      "no": 37,
+      "city": "Таганрог",
+      "decree_date": "3 ноября 2011",
+      "decree_number": "№ 1459",
+      "stele_opened": "8 мая 2015",
+      "note": ""
+    },
+    {
+      "no": 38,
+      "city": "Малоярославец",
+      "decree_date": "7 мая 2012",
+      "decree_number": "№ 608",
+      "stele_opened": "9 мая 2023",
+      "note": ""
+    },
+    {
+      "no": 39,
+      "city": "Можайск",
+      "decree_date": "7 мая 2012",
+      "decree_number": "№ 609",
+      "stele_opened": "20 января 2015",
+      "note": ""
+    },
+    {
+      "no": 40,
+      "city": "Хабаровск",
+      "decree_date": "3 ноября 2012",
+      "decree_number": "№ 1468",
+      "stele_opened": "29 августа 2015",
+      "note": ""
+    },
+    {
+      "no": 41,
+      "city": "Старая Русса",
+      "decree_date": "6 апреля 2015",
+      "decree_number": "№ 175",
+      "stele_opened": "4 ноября 2018",
+      "note": ""
+    },
+    {
+      "no": 42,
+      "city": "Грозный",
+      "decree_date": "6 апреля 2015",
+      "decree_number": "№ 176",
+      "stele_opened": "9 мая 2015",
+      "note": ""
+    },
+    {
+      "no": 43,
+      "city": "Гатчина",
+      "decree_date": "6 апреля 2015",
+      "decree_number": "№ 177",
+      "stele_opened": "10 сентября 2016",
+      "note": ""
+    },
+    {
+      "no": 44,
+      "city": "Петрозаводск",
+      "decree_date": "6 апреля 2015",
+      "decree_number": "№ 178",
+      "stele_opened": "30 сентября 2020",
+      "note": ""
+    },
+    {
+      "no": 45,
+      "city": "Феодосия",
+      "decree_date": "6 апреля 2015",
+      "decree_number": "№ 179",
+      "stele_opened": "5 мая 2025",
+      "note": ""
+    },
+    {
+      "no": 46,
+      "city": "Мариуполь",
+      "decree_date": "15 ноября 2022",
+      "decree_number": "№ 827",
+      "stele_opened": "2 мая 2025",
+      "note": ""
+    },
+    {
+      "no": 47,
+      "city": "Мелитополь",
+      "decree_date": "15 ноября 2022",
+      "decree_number": "№ 828",
+      "stele_opened": "23 октября 2023",
+      "note": ""
+    }
+  ],
+  "meta": {
+    "title": "Города воинской славы России - Free Download",
+    "description": "Перечень городов, удостоенных почётного звания «Город воинской славы»: дата и номер указа Президента РФ, дата открытия памятной стелы. Contains 47 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Города воинской славы России | ListBase",
+    "seo_description": "Download Города воинской славы России — 47 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 47 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Список_городов_воинской_славы"
+    ]
+  }
+}
