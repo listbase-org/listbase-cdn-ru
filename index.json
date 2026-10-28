@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-10-27T02:14:22.088Z",
-  "total_datasets": 470,
-  "total_records": 216270,
+  "generated": "2026-10-28T02:13:17.467Z",
+  "total_datasets": 471,
+  "total_records": 216308,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "politics",
@@ -4005,6 +4005,33 @@
         "xlsx": {
           "name": "ru-sudi-konstitucionnogo-suda_RU.xlsx",
           "size": 7645
+        }
+      }
+    },
+    {
+      "id": "ru-opernye-teatry",
+      "name": "Оперные театры России",
+      "category": "music",
+      "record_count": 38,
+      "columns": [
+        "name",
+        "city",
+        "address",
+        "founded",
+        "artistic_direction",
+        "halls_capacity"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_оперных_театров_России",
+      "updated": "2026-10",
+      "size": 18041,
+      "files": {
+        "csv": {
+          "name": "ru-opernye-teatry_RU.csv",
+          "size": 11015
+        },
+        "xlsx": {
+          "name": "ru-opernye-teatry_RU.xlsx",
+          "size": 10775
         }
       }
     },
