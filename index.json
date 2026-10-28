@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-10-28T02:14:01.899Z",
-  "total_datasets": 474,
-  "total_records": 216383,
+  "generated": "2026-10-28T02:14:12.372Z",
+  "total_datasets": 475,
+  "total_records": 216403,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -462,6 +462,31 @@
         "xlsx": {
           "name": "ru-vsemirnoe-nasledie-unesco_RU.xlsx",
           "size": 16419
+        }
+      }
+    },
+    {
+      "id": "ru-krupneyshie-kompanii-ekspert-2008",
+      "name": "Крупнейшие компании России по версии «Эксперт» (2008)",
+      "category": "economy",
+      "record_count": 20,
+      "columns": [
+        "rank",
+        "company",
+        "revenue_2008_mln_rub",
+        "growth_pct"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_крупнейших_компаний_России_по_версии_журнала_«Эксперт»",
+      "updated": "2026-10",
+      "size": 5077,
+      "files": {
+        "csv": {
+          "name": "ru-krupneyshie-kompanii-ekspert-2008_RU.csv",
+          "size": 969
+        },
+        "xlsx": {
+          "name": "ru-krupneyshie-kompanii-ekspert-2008_RU.xlsx",
+          "size": 7594
         }
       }
     },

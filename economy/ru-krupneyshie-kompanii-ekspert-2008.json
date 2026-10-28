@@ -1,0 +1,166 @@
+{
+  "id": "ru-krupneyshie-kompanii-ekspert-2008",
+  "name": "Крупнейшие компании России по версии «Эксперт» (2008)",
+  "title": "Крупнейшие компании России по версии «Эксперт» (2008)",
+  "description": "Топ-20 крупнейших компаний России по выручке за 2008 год (млн руб.) и темпу прироста по рейтингу журнала «Эксперт».",
+  "category": "economy",
+  "source": "https://ru.wikipedia.org/wiki/Список_крупнейших_компаний_России_по_версии_журнала_«Эксперт»",
+  "source_url": "https://ru.wikipedia.org/wiki/Список_крупнейших_компаний_России_по_версии_журнала_«Эксперт»",
+  "updated": "2026-10",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "company",
+      "label": "Company",
+      "type": "string"
+    },
+    {
+      "key": "revenue_2008_mln_rub",
+      "label": "Revenue 2008 Mln Rub",
+      "type": "number"
+    },
+    {
+      "key": "growth_pct",
+      "label": "Growth Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "company": "Газпром",
+      "revenue_2008_mln_rub": 3518960,
+      "growth_pct": 45.2
+    },
+    {
+      "rank": 2,
+      "company": "Лукойл",
+      "revenue_2008_mln_rub": 2146412.4,
+      "growth_pct": 25.5
+    },
+    {
+      "rank": 3,
+      "company": "Роснефть",
+      "revenue_2008_mln_rub": 1140203.9,
+      "growth_pct": 26.2
+    },
+    {
+      "rank": 4,
+      "company": "РЖД",
+      "revenue_2008_mln_rub": 1101710.5,
+      "growth_pct": 12.9
+    },
+    {
+      "rank": 5,
+      "company": "ТНК-BP Холдинг",
+      "revenue_2008_mln_rub": 763773.8,
+      "growth_pct": 19.7
+    },
+    {
+      "rank": 6,
+      "company": "Сбербанк России",
+      "revenue_2008_mln_rub": 696997,
+      "growth_pct": 32.3
+    },
+    {
+      "rank": 7,
+      "company": "Сургутнефтегаз",
+      "revenue_2008_mln_rub": 576571.6,
+      "growth_pct": ""
+    },
+    {
+      "rank": 8,
+      "company": "Северсталь",
+      "revenue_2008_mln_rub": 556682.9,
+      "growth_pct": 40.4
+    },
+    {
+      "rank": 9,
+      "company": "Евраз Груп С. А.",
+      "revenue_2008_mln_rub": 506646.8,
+      "growth_pct": 54
+    },
+    {
+      "rank": 10,
+      "company": "Татнефть",
+      "revenue_2008_mln_rub": 444332,
+      "growth_pct": 24.7
+    },
+    {
+      "rank": 11,
+      "company": "АФК «Система»",
+      "revenue_2008_mln_rub": 414436.3,
+      "growth_pct": 20.8
+    },
+    {
+      "rank": 12,
+      "company": "Объединенная компания Русал",
+      "revenue_2008_mln_rub": 389929.1,
+      "growth_pct": 1.9
+    },
+    {
+      "rank": 13,
+      "company": "Норильский никель",
+      "revenue_2008_mln_rub": 336927.6,
+      "growth_pct": ""
+    },
+    {
+      "rank": 14,
+      "company": "Группа ТАИФ",
+      "revenue_2008_mln_rub": 292413,
+      "growth_pct": 52.2
+    },
+    {
+      "rank": 15,
+      "company": "НЛМК",
+      "revenue_2008_mln_rub": 290828.7,
+      "growth_pct": 47.3
+    },
+    {
+      "rank": 16,
+      "company": "Транснефть",
+      "revenue_2008_mln_rub": 274977,
+      "growth_pct": 23.9
+    },
+    {
+      "rank": 17,
+      "company": "Банк ВТБ",
+      "revenue_2008_mln_rub": 269035,
+      "growth_pct": 50.9
+    },
+    {
+      "rank": 18,
+      "company": "ММК",
+      "revenue_2008_mln_rub": 262273,
+      "growth_pct": 25.1
+    },
+    {
+      "rank": 19,
+      "company": "Группа Связьинвест",
+      "revenue_2008_mln_rub": 253005.1,
+      "growth_pct": 3.5
+    },
+    {
+      "rank": 20,
+      "company": "Вымпелком",
+      "revenue_2008_mln_rub": 251506.9,
+      "growth_pct": 37.1
+    }
+  ],
+  "meta": {
+    "title": "Крупнейшие компании России по версии «Эксперт» (2008) - Free Download",
+    "description": "Топ-20 крупнейших компаний России по выручке за 2008 год (млн руб.) и темпу прироста по рейтингу журнала «Эксперт». Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Крупнейшие компании России по версии «Эксперт» (2008) | ListBase",
+    "seo_description": "Download Крупнейшие компании России по версии «Эксперт» (2008) — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Список_крупнейших_компаний_России_по_версии_журнала_«Эксперт»"
+    ]
+  }
+}
