@@ -1,0 +1,448 @@
+{
+  "id": "ru-makroekonomicheskie-pokazateli",
+  "name": "Основные макроэкономические показатели России (1992–2022)",
+  "title": "Основные макроэкономические показатели России (1992–2022)",
+  "description": "ВВП (в рублях, по ППС и номиналу), ВВП на душу населения, рост ВВП, инфляция, безработица и госдолг России по годам (по данным статьи Википедии «Экономика России»).",
+  "category": "economy",
+  "source": "https://ru.wikipedia.org/wiki/Экономика_России",
+  "source_url": "https://ru.wikipedia.org/wiki/Экономика_России",
+  "updated": "2026-10",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "gdp_current_trln_rub",
+      "label": "Gdp Current Trln Rub",
+      "type": "number"
+    },
+    {
+      "key": "gdp_ppp_bln_usd",
+      "label": "Gdp Ppp Bln Usd",
+      "type": "number"
+    },
+    {
+      "key": "gdp_nominal_bln_usd",
+      "label": "Gdp Nominal Bln Usd",
+      "type": "number"
+    },
+    {
+      "key": "gdp_per_capita_ppp_usd",
+      "label": "Gdp Per Capita Ppp Usd",
+      "type": "number"
+    },
+    {
+      "key": "gdp_per_capita_nominal_usd",
+      "label": "Gdp Per Capita Nominal Usd",
+      "type": "number"
+    },
+    {
+      "key": "gdp_growth_pct",
+      "label": "Gdp Growth Pct",
+      "type": "number"
+    },
+    {
+      "key": "inflation_pct",
+      "label": "Inflation Pct",
+      "type": "number"
+    },
+    {
+      "key": "unemployment_pct",
+      "label": "Unemployment Pct",
+      "type": "number"
+    },
+    {
+      "key": "gov_debt_pct_gdp",
+      "label": "Gov Debt Pct Gdp",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1992,
+      "gdp_current_trln_rub": "",
+      "gdp_ppp_bln_usd": 1602.609,
+      "gdp_nominal_bln_usd": 71.603,
+      "gdp_per_capita_ppp_usd": 10805.223,
+      "gdp_per_capita_nominal_usd": 482.767,
+      "gdp_growth_pct": "",
+      "inflation_pct": "",
+      "unemployment_pct": 5.2,
+      "gov_debt_pct_gdp": ""
+    },
+    {
+      "year": 1993,
+      "gdp_current_trln_rub": "",
+      "gdp_ppp_bln_usd": 1497.86,
+      "gdp_nominal_bln_usd": 196.227,
+      "gdp_per_capita_ppp_usd": 10091.285,
+      "gdp_per_capita_nominal_usd": 1322.006,
+      "gdp_growth_pct": -8.7,
+      "inflation_pct": 874.255,
+      "unemployment_pct": 5.9,
+      "gov_debt_pct_gdp": ""
+    },
+    {
+      "year": 1994,
+      "gdp_current_trln_rub": "",
+      "gdp_ppp_bln_usd": 1335.563,
+      "gdp_nominal_bln_usd": 293.768,
+      "gdp_per_capita_ppp_usd": 8999.021,
+      "gdp_per_capita_nominal_usd": 1979.411,
+      "gdp_growth_pct": -12.7,
+      "inflation_pct": 307.547,
+      "unemployment_pct": 8.1,
+      "gov_debt_pct_gdp": ""
+    },
+    {
+      "year": 1995,
+      "gdp_current_trln_rub": 1.429,
+      "gdp_ppp_bln_usd": 1307.66,
+      "gdp_nominal_bln_usd": 335.777,
+      "gdp_per_capita_ppp_usd": 8818.323,
+      "gdp_per_capita_nominal_usd": 2264.343,
+      "gdp_growth_pct": -4.1,
+      "inflation_pct": 197.3,
+      "unemployment_pct": 8.3,
+      "gov_debt_pct_gdp": ""
+    },
+    {
+      "year": 1996,
+      "gdp_current_trln_rub": 2.008,
+      "gdp_ppp_bln_usd": 1283.56,
+      "gdp_nominal_bln_usd": 412.685,
+      "gdp_per_capita_ppp_usd": 8668.371,
+      "gdp_per_capita_nominal_usd": 2787.022,
+      "gdp_growth_pct": -3.608,
+      "inflation_pct": 47.752,
+      "unemployment_pct": 9.258,
+      "gov_debt_pct_gdp": ""
+    },
+    {
+      "year": 1997,
+      "gdp_current_trln_rub": 2.343,
+      "gdp_ppp_bln_usd": 1323.738,
+      "gdp_nominal_bln_usd": 433.704,
+      "gdp_per_capita_ppp_usd": 8958.217,
+      "gdp_per_capita_nominal_usd": 2935.03,
+      "gdp_growth_pct": 1.382,
+      "inflation_pct": 14.761,
+      "unemployment_pct": 10.808,
+      "gov_debt_pct_gdp": 51.519
+    },
+    {
+      "year": 1998,
+      "gdp_current_trln_rub": 2.63,
+      "gdp_ppp_bln_usd": 1267.082,
+      "gdp_nominal_bln_usd": 287.672,
+      "gdp_per_capita_ppp_usd": 8588.117,
+      "gdp_per_capita_nominal_usd": 1949.801,
+      "gdp_growth_pct": -5.345,
+      "inflation_pct": 27.686,
+      "unemployment_pct": 11.875,
+      "gov_debt_pct_gdp": 135.193
+    },
+    {
+      "year": 1999,
+      "gdp_current_trln_rub": 4.823,
+      "gdp_ppp_bln_usd": 1366.548,
+      "gdp_nominal_bln_usd": 209.657,
+      "gdp_per_capita_ppp_usd": 9303.208,
+      "gdp_per_capita_nominal_usd": 1427.307,
+      "gdp_growth_pct": 6.351,
+      "inflation_pct": 85.746,
+      "unemployment_pct": 13.033,
+      "gov_debt_pct_gdp": 92.379
+    },
+    {
+      "year": 2000,
+      "gdp_current_trln_rub": 7.306,
+      "gdp_ppp_bln_usd": 1537.897,
+      "gdp_nominal_bln_usd": 278.264,
+      "gdp_per_capita_ppp_usd": 10511.652,
+      "gdp_per_capita_nominal_usd": 1901.956,
+      "gdp_growth_pct": 10.046,
+      "inflation_pct": 20.799,
+      "unemployment_pct": 10.558,
+      "gov_debt_pct_gdp": 55.868
+    },
+    {
+      "year": 2001,
+      "gdp_current_trln_rub": 8.944,
+      "gdp_ppp_bln_usd": 1652.594,
+      "gdp_nominal_bln_usd": 328.475,
+      "gdp_per_capita_ppp_usd": 11346.418,
+      "gdp_per_capita_nominal_usd": 2255.253,
+      "gdp_growth_pct": 5.09,
+      "inflation_pct": 21.477,
+      "unemployment_pct": 8.942,
+      "gov_debt_pct_gdp": 44.438
+    },
+    {
+      "year": 2002,
+      "gdp_current_trln_rub": 10.831,
+      "gdp_ppp_bln_usd": 1757.977,
+      "gdp_nominal_bln_usd": 370.062,
+      "gdp_per_capita_ppp_usd": 12126.991,
+      "gdp_per_capita_nominal_usd": 2552.788,
+      "gdp_growth_pct": 4.744,
+      "inflation_pct": 15.789,
+      "unemployment_pct": 8.042,
+      "gov_debt_pct_gdp": 37.577
+    },
+    {
+      "year": 2003,
+      "gdp_current_trln_rub": 13.208,
+      "gdp_ppp_bln_usd": 1924.417,
+      "gdp_nominal_bln_usd": 461.518,
+      "gdp_per_capita_ppp_usd": 13333.081,
+      "gdp_per_capita_nominal_usd": 3197.573,
+      "gdp_growth_pct": 7.349,
+      "inflation_pct": 13.663,
+      "unemployment_pct": 8.233,
+      "gov_debt_pct_gdp": 28.334
+    },
+    {
+      "year": 2004,
+      "gdp_current_trln_rub": 17.027,
+      "gdp_ppp_bln_usd": 2117.874,
+      "gdp_nominal_bln_usd": 633.294,
+      "gdp_per_capita_ppp_usd": 14727.813,
+      "gdp_per_capita_nominal_usd": 4403.962,
+      "gdp_growth_pct": 7.176,
+      "inflation_pct": 10.889,
+      "unemployment_pct": 7.733,
+      "gov_debt_pct_gdp": 20.828
+    },
+    {
+      "year": 2005,
+      "gdp_current_trln_rub": 21.61,
+      "gdp_ppp_bln_usd": 2323.559,
+      "gdp_nominal_bln_usd": 817.717,
+      "gdp_per_capita_ppp_usd": 16221.781,
+      "gdp_per_capita_nominal_usd": 5708.838,
+      "gdp_growth_pct": 6.376,
+      "inflation_pct": 12.685,
+      "unemployment_pct": 7.15,
+      "gov_debt_pct_gdp": 14.851
+    },
+    {
+      "year": 2006,
+      "gdp_current_trln_rub": 26.917,
+      "gdp_ppp_bln_usd": 2590.557,
+      "gdp_nominal_bln_usd": 1060.901,
+      "gdp_per_capita_ppp_usd": 18113.156,
+      "gdp_per_capita_nominal_usd": 7426.005,
+      "gdp_growth_pct": 8.154,
+      "inflation_pct": 9.669,
+      "unemployment_pct": 7.05,
+      "gov_debt_pct_gdp": 9.804
+    },
+    {
+      "year": 2007,
+      "gdp_current_trln_rub": 33.248,
+      "gdp_ppp_bln_usd": 2887.648,
+      "gdp_nominal_bln_usd": 1393.416,
+      "gdp_per_capita_ppp_usd": 20228.99,
+      "gdp_per_capita_nominal_usd": 9761.368,
+      "gdp_growth_pct": 8.535,
+      "inflation_pct": 9.007,
+      "unemployment_pct": 6.025,
+      "gov_debt_pct_gdp": 8.033
+    },
+    {
+      "year": 2008,
+      "gdp_current_trln_rub": 41.277,
+      "gdp_ppp_bln_usd": 3097.461,
+      "gdp_nominal_bln_usd": 1779.109,
+      "gdp_per_capita_ppp_usd": 21700.48,
+      "gdp_per_capita_nominal_usd": 12464.244,
+      "gdp_growth_pct": 5.248,
+      "inflation_pct": 14.111,
+      "unemployment_pct": 6.233,
+      "gov_debt_pct_gdp": 7.446
+    },
+    {
+      "year": 2009,
+      "gdp_current_trln_rub": 38.807,
+      "gdp_ppp_bln_usd": 2873.513,
+      "gdp_nominal_bln_usd": 1307.927,
+      "gdp_per_capita_ppp_usd": 20117.852,
+      "gdp_per_capita_nominal_usd": 9156.97,
+      "gdp_growth_pct": -7.821,
+      "inflation_pct": 11.647,
+      "unemployment_pct": 8.242,
+      "gov_debt_pct_gdp": 9.918
+    },
+    {
+      "year": 2010,
+      "gdp_current_trln_rub": 46.309,
+      "gdp_ppp_bln_usd": 3039.017,
+      "gdp_nominal_bln_usd": 1633.111,
+      "gdp_per_capita_ppp_usd": 21271.946,
+      "gdp_per_capita_nominal_usd": 11431.148,
+      "gdp_growth_pct": 4.503,
+      "inflation_pct": 6.849,
+      "unemployment_pct": 7.358,
+      "gov_debt_pct_gdp": 10.105
+    },
+    {
+      "year": 2011,
+      "gdp_current_trln_rub": 60.114,
+      "gdp_ppp_bln_usd": 3259.319,
+      "gdp_nominal_bln_usd": 2046.621,
+      "gdp_per_capita_ppp_usd": 22783.519,
+      "gdp_per_capita_nominal_usd": 14306.432,
+      "gdp_growth_pct": 5.066,
+      "inflation_pct": 8.44,
+      "unemployment_pct": 6.508,
+      "gov_debt_pct_gdp": 10.34
+    },
+    {
+      "year": 2012,
+      "gdp_current_trln_rub": 68.103,
+      "gdp_ppp_bln_usd": 3480.299,
+      "gdp_nominal_bln_usd": 2191.484,
+      "gdp_per_capita_ppp_usd": 24278.842,
+      "gdp_per_capita_nominal_usd": 15287.967,
+      "gdp_growth_pct": 4.024,
+      "inflation_pct": 5.075,
+      "unemployment_pct": 5.45,
+      "gov_debt_pct_gdp": 11.167
+    },
+    {
+      "year": 2013,
+      "gdp_current_trln_rub": 72.986,
+      "gdp_ppp_bln_usd": 3741.783,
+      "gdp_nominal_bln_usd": 2288.428,
+      "gdp_per_capita_ppp_usd": 26044.835,
+      "gdp_per_capita_nominal_usd": 15928.699,
+      "gdp_growth_pct": 1.755,
+      "inflation_pct": 6.754,
+      "unemployment_pct": 5.5,
+      "gov_debt_pct_gdp": 12.348
+    },
+    {
+      "year": 2014,
+      "gdp_current_trln_rub": 79.03,
+      "gdp_ppp_bln_usd": 3763.535,
+      "gdp_nominal_bln_usd": 2048.836,
+      "gdp_per_capita_ppp_usd": 25730.584,
+      "gdp_per_capita_nominal_usd": 14007.509,
+      "gdp_growth_pct": 0.736,
+      "inflation_pct": 7.823,
+      "unemployment_pct": 5.158,
+      "gov_debt_pct_gdp": 15.136
+    },
+    {
+      "year": 2015,
+      "gdp_current_trln_rub": 83.087,
+      "gdp_ppp_bln_usd": 3526.236,
+      "gdp_nominal_bln_usd": 1356.704,
+      "gdp_per_capita_ppp_usd": 24062.479,
+      "gdp_per_capita_nominal_usd": 9257.935,
+      "gdp_growth_pct": -1.973,
+      "inflation_pct": 15.534,
+      "unemployment_pct": 5.575,
+      "gov_debt_pct_gdp": 15.286
+    },
+    {
+      "year": 2016,
+      "gdp_current_trln_rub": 86.043,
+      "gdp_ppp_bln_usd": 3538.582,
+      "gdp_nominal_bln_usd": 1280.648,
+      "gdp_per_capita_ppp_usd": 24104.124,
+      "gdp_per_capita_nominal_usd": 8723.523,
+      "gdp_growth_pct": 0.194,
+      "inflation_pct": 7.042,
+      "unemployment_pct": 5.525,
+      "gov_debt_pct_gdp": 14.849
+    },
+    {
+      "year": 2017,
+      "gdp_current_trln_rub": 91.843,
+      "gdp_ppp_bln_usd": 3818.781,
+      "gdp_nominal_bln_usd": 1575.14,
+      "gdp_per_capita_ppp_usd": 25999.323,
+      "gdp_per_capita_nominal_usd": 10723.996,
+      "gdp_growth_pct": 1.826,
+      "inflation_pct": 3.683,
+      "unemployment_pct": 5.2,
+      "gov_debt_pct_gdp": 14.311
+    },
+    {
+      "year": 2018,
+      "gdp_current_trln_rub": 103.862,
+      "gdp_ppp_bln_usd": 4019.767,
+      "gdp_nominal_bln_usd": 1653.006,
+      "gdp_per_capita_ppp_usd": 27386.15,
+      "gdp_per_capita_nominal_usd": 11261.716,
+      "gdp_growth_pct": 2.807,
+      "inflation_pct": 2.878,
+      "unemployment_pct": 4.8,
+      "gov_debt_pct_gdp": 13.62
+    },
+    {
+      "year": 2019,
+      "gdp_current_trln_rub": 109.608,
+      "gdp_ppp_bln_usd": 4181.617,
+      "gdp_nominal_bln_usd": 1695.724,
+      "gdp_per_capita_ppp_usd": 28495.032,
+      "gdp_per_capita_nominal_usd": 11555.269,
+      "gdp_growth_pct": 2.198,
+      "inflation_pct": 4.47,
+      "unemployment_pct": 4.6,
+      "gov_debt_pct_gdp": 13.748
+    },
+    {
+      "year": 2020,
+      "gdp_current_trln_rub": 107.315,
+      "gdp_ppp_bln_usd": 4119.28,
+      "gdp_nominal_bln_usd": 1484.416,
+      "gdp_per_capita_ppp_usd": 28181.237,
+      "gdp_per_capita_nominal_usd": 10155.336,
+      "gdp_growth_pct": -2.664,
+      "inflation_pct": 3.382,
+      "unemployment_pct": 5.783,
+      "gov_debt_pct_gdp": 19.204
+    },
+    {
+      "year": 2021,
+      "gdp_current_trln_rub": 109.608,
+      "gdp_ppp_bln_usd": 4494.223,
+      "gdp_nominal_bln_usd": 1778.53,
+      "gdp_per_capita_ppp_usd": 30875.824,
+      "gdp_per_capita_nominal_usd": 12218.703,
+      "gdp_growth_pct": 4.749,
+      "inflation_pct": 6.694,
+      "unemployment_pct": 5.6,
+      "gov_debt_pct_gdp": 16.993
+    },
+    {
+      "year": 2022,
+      "gdp_current_trln_rub": 116.224,
+      "gdp_ppp_bln_usd": 4724,
+      "gdp_nominal_bln_usd": 2212.654,
+      "gdp_per_capita_ppp_usd": 34750,
+      "gdp_per_capita_nominal_usd": 13500,
+      "gdp_growth_pct": "",
+      "inflation_pct": 11.91,
+      "unemployment_pct": "",
+      "gov_debt_pct_gdp": 19.367
+    }
+  ],
+  "meta": {
+    "title": "Основные макроэкономические показатели России (1992–2022) - Free Download",
+    "description": "ВВП (в рублях, по ППС и номиналу), ВВП на душу населения, рост ВВП, инфляция, безработица и госдолг России по годам (по данным статьи Википедии «Экономика России»). Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Основные макроэкономические показатели России (1992–2022) | ListBase",
+    "seo_description": "Download Основные макроэкономические показатели России (1992–2022) — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 10 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Экономика_России"
+    ]
+  }
+}

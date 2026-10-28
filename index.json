@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-10-28T02:14:12.372Z",
-  "total_datasets": 475,
-  "total_records": 216403,
+  "generated": "2026-10-28T02:14:54.343Z",
+  "total_datasets": 476,
+  "total_records": 216434,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -487,6 +487,37 @@
         "xlsx": {
           "name": "ru-krupneyshie-kompanii-ekspert-2008_RU.xlsx",
           "size": 7594
+        }
+      }
+    },
+    {
+      "id": "ru-makroekonomicheskie-pokazateli",
+      "name": "Основные макроэкономические показатели России (1992–2022)",
+      "category": "economy",
+      "record_count": 31,
+      "columns": [
+        "year",
+        "gdp_current_trln_rub",
+        "gdp_ppp_bln_usd",
+        "gdp_nominal_bln_usd",
+        "gdp_per_capita_ppp_usd",
+        "gdp_per_capita_nominal_usd",
+        "gdp_growth_pct",
+        "inflation_pct",
+        "unemployment_pct",
+        "gov_debt_pct_gdp"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Экономика_России",
+      "updated": "2026-10",
+      "size": 14087,
+      "files": {
+        "csv": {
+          "name": "ru-makroekonomicheskie-pokazateli_RU.csv",
+          "size": 3001
+        },
+        "xlsx": {
+          "name": "ru-makroekonomicheskie-pokazateli_RU.xlsx",
+          "size": 9157
         }
       }
     },
