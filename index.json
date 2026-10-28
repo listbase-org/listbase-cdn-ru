@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-10-28T02:13:59.220Z",
-  "total_datasets": 473,
-  "total_records": 216373,
+  "generated": "2026-10-28T02:14:01.899Z",
+  "total_datasets": 474,
+  "total_records": 216383,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "entertainment",
@@ -516,6 +516,34 @@
         "xlsx": {
           "name": "ru-vrp-subektov-rf_RU.xlsx",
           "size": 11703
+        }
+      }
+    },
+    {
+      "id": "ru-federalnye-universitety",
+      "name": "Федеральные университеты России",
+      "category": "education",
+      "record_count": 10,
+      "columns": [
+        "no",
+        "name",
+        "founded",
+        "merged_institutions",
+        "ra_expert_rating",
+        "location",
+        "rector"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Федеральный_университет",
+      "updated": "2026-10",
+      "size": 10381,
+      "files": {
+        "csv": {
+          "name": "ru-federalnye-universitety_RU.csv",
+          "size": 6701
+        },
+        "xlsx": {
+          "name": "ru-federalnye-universitety_RU.xlsx",
+          "size": 8714
         }
       }
     },
