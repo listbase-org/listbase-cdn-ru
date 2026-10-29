@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-10-28T02:14:54.343Z",
-  "total_datasets": 476,
-  "total_records": 216434,
+  "generated": "2026-10-29T02:09:07.793Z",
+  "total_datasets": 477,
+  "total_records": 216469,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "food",
@@ -799,6 +799,35 @@
         "xlsx": {
           "name": "ru-zapovedniki_RU.xlsx",
           "size": 12247
+        }
+      }
+    },
+    {
+      "id": "ru-banknoty-banka-rossii",
+      "name": "Банкноты Банка России (серии 1993–2010)",
+      "category": "finance",
+      "record_count": 35,
+      "columns": [
+        "series",
+        "nominal_rub",
+        "size_mm",
+        "colors",
+        "city",
+        "front",
+        "back",
+        "issue_date"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Билеты_Банка_России",
+      "updated": "2026-10",
+      "size": 18117,
+      "files": {
+        "csv": {
+          "name": "ru-banknoty-banka-rossii_RU.csv",
+          "size": 10700
+        },
+        "xlsx": {
+          "name": "ru-banknoty-banka-rossii_RU.xlsx",
+          "size": 9321
         }
       }
     },
