@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-10-29T02:09:07.793Z",
-  "total_datasets": 477,
-  "total_records": 216469,
+  "generated": "2026-10-29T02:09:11.590Z",
+  "total_datasets": 478,
+  "total_records": 216558,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "reference",
@@ -4203,6 +4203,29 @@
         "xlsx": {
           "name": "ru-rossiya-na-evrovidenii_RU.xlsx",
           "size": 9801
+        }
+      }
+    },
+    {
+      "id": "ru-glavy-pravitelstv-subektov",
+      "name": "Главы правительств субъектов Российской Федерации",
+      "category": "politics",
+      "record_count": 89,
+      "columns": [
+        "name",
+        "subject"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Главы_правительств_субъектов_Российской_Федерации",
+      "updated": "2026-10",
+      "size": 13801,
+      "files": {
+        "csv": {
+          "name": "ru-glavy-pravitelstv-subektov_RU.csv",
+          "size": 7849
+        },
+        "xlsx": {
+          "name": "ru-glavy-pravitelstv-subektov_RU.xlsx",
+          "size": 9904
         }
       }
     },
