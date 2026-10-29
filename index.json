@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-10-29T02:09:14.015Z",
-  "total_datasets": 479,
-  "total_records": 216581,
+  "generated": "2026-10-29T02:09:16.725Z",
+  "total_datasets": 480,
+  "total_records": 216736,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "law",
@@ -4096,6 +4096,32 @@
         "xlsx": {
           "name": "ru-yazyki-mira_RU.xlsx",
           "size": 24881
+        }
+      }
+    },
+    {
+      "id": "ru-yazyki-rossii-nositeli",
+      "name": "Языки России по числу носителей",
+      "category": "language",
+      "record_count": 155,
+      "columns": [
+        "language",
+        "family",
+        "speakers",
+        "speakers_basis",
+        "linguists_estimate"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Языки_России",
+      "updated": "2026-10",
+      "size": 37442,
+      "files": {
+        "csv": {
+          "name": "ru-yazyki-rossii-nositeli_RU.csv",
+          "size": 17093
+        },
+        "xlsx": {
+          "name": "ru-yazyki-rossii-nositeli_RU.xlsx",
+          "size": 12123
         }
       }
     },

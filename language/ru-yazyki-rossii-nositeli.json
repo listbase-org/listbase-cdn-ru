@@ -1,0 +1,1136 @@
+{
+  "id": "ru-yazyki-rossii-nositeli",
+  "name": "Языки России по числу носителей",
+  "title": "Языки России по числу носителей",
+  "description": "Языки народов России, сгруппированные по языковым семьям, с числом носителей по переписи 2021 года или оценке лингвистов.",
+  "category": "language",
+  "source": "https://ru.wikipedia.org/wiki/Языки_России",
+  "source_url": "https://ru.wikipedia.org/wiki/Языки_России",
+  "updated": "2026-10",
+  "record_count": 155,
+  "columns": [
+    {
+      "key": "language",
+      "label": "Language",
+      "type": "string"
+    },
+    {
+      "key": "family",
+      "label": "Family",
+      "type": "string"
+    },
+    {
+      "key": "speakers",
+      "label": "Speakers",
+      "type": "number"
+    },
+    {
+      "key": "speakers_basis",
+      "label": "Speakers Basis",
+      "type": "string"
+    },
+    {
+      "key": "linguists_estimate",
+      "label": "Linguists Estimate",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "language": "русский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 134319233,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "украинский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 627106,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "белорусский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 60824,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "болгарский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 8842,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "польский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 22557,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "русинский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 227,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "югославянский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 5708,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "словацкий язык",
+      "family": "Индоевропейская семья",
+      "speakers": 652,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "чешский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 7234,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "албанский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 380,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "амшенский армянский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 66000,
+      "speakers_basis": "оценка лингвистов",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "донской армянский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 13000,
+      "speakers_basis": "оценка лингвистов",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "латышский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 8565,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "литовский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 10733,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "шведский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 2821,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "норвежский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 2063,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "английский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 5066515,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "идиш",
+      "family": "Индоевропейская семья",
+      "speakers": 1146,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "немецкий язык",
+      "family": "Индоевропейская семья",
+      "speakers": 1063037,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "нижненемецкий язык",
+      "family": "Индоевропейская семья",
+      "speakers": 2000,
+      "speakers_basis": "оценка лингвистов",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "понтийский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 23000,
+      "speakers_basis": "оценка лингвистов",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "осетинский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 344907,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "шугнанский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 79,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "рушанский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 23,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "пушту",
+      "family": "Индоевропейская семья",
+      "speakers": 2328,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "талышский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 2888,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "персидский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 6011,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "таджикский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 216450,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "татский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 3215,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "курдский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 31703,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "белуджский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 6,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "бенгальский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 282,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "хинди",
+      "family": "Индоевропейская семья",
+      "speakers": 5298,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "цыганский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 108425,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "румынский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 7901,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "молдавский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 46500,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "португальский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 5197,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "французский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 235199,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "итальянский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 37135,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "испанский язык",
+      "family": "Индоевропейская семья",
+      "speakers": 76010,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "абхазский язык",
+      "family": "Абхазо-адыгская семья",
+      "speakers": 4255,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "абазинский язык",
+      "family": "Абхазо-адыгская семья",
+      "speakers": 30194,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "адыгейский язык",
+      "family": "Абхазо-адыгская семья",
+      "speakers": 81294,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "кабардино-черкесский язык",
+      "family": "Абхазо-адыгская семья",
+      "speakers": 450276,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "аварский язык",
+      "family": "Нахско-дагестанская семья",
+      "speakers": 654363,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "ахвахский язык",
+      "family": "Нахско-дагестанская семья",
+      "speakers": 5019,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": 20000
+    },
+    {
+      "language": "каратинский язык",
+      "family": "Нахско-дагестанская семья",
+      "speakers": 10033,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": 21000
+    },
+    {
+      "language": "годоберинский язык",
+      "family": "Нахско-дагестанская семья",
+      "speakers": 2731,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": 8500
+    },
+    {
+      "language": "ботлихский язык",
+      "family": "Нахско-дагестанская семья",
+      "speakers": 5244,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": 8000
+    },
+    {
+      "language": "андийский язык",
+      "family": "Нахско-дагестанская семья",
+      "speakers": 18133,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": 23700
+    },
+    {
+      "language": "багвалинский язык",
+      "family": "Нахско-дагестанская семья",
+      "speakers": 2527,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": 6000
+    },
+    {
+      "language": "чамалинский язык",
+      "family": "Нахско-дагестанская семья",
+      "speakers": 4926,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": 19500
+    },
+    {
+      "language": "гинухский язык",
+      "family": "Нахско-дагестанская семья",
+      "speakers": 638,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "гунзибский язык",
+      "family": "Нахско-дагестанская семья",
+      "speakers": 3046,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "хваршинский язык",
+      "family": "Нахско-дагестанская семья",
+      "speakers": 2216,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": 8000
+    },
+    {
+      "language": "бежтинский язык",
+      "family": "Нахско-дагестанская семья",
+      "speakers": 6497,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": 10000
+    },
+    {
+      "language": "цезский язык",
+      "family": "Нахско-дагестанская семья",
+      "speakers": 14249,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": 35000
+    },
+    {
+      "language": "Даргинская ветвь",
+      "family": "Нахско-дагестанская семья",
+      "speakers": 362156,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "Лакский язык",
+      "family": "Нахско-дагестанская семья",
+      "speakers": 87957,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "арчинский язык",
+      "family": "Нахско-дагестанская семья",
+      "speakers": 1435,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "агульский язык",
+      "family": "Нахско-дагестанская семья",
+      "speakers": 20563,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "табасаранский язык",
+      "family": "Нахско-дагестанская семья",
+      "speakers": 87214,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "лезгинский язык",
+      "family": "Нахско-дагестанская семья",
+      "speakers": 287878,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "цахурский язык",
+      "family": "Нахско-дагестанская семья",
+      "speakers": 6340,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "удинский язык",
+      "family": "Нахско-дагестанская семья",
+      "speakers": 1320,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "ингушский язык",
+      "family": "Нахско-дагестанская семья",
+      "speakers": 333151,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "чеченский язык",
+      "family": "Нахско-дагестанская семья",
+      "speakers": 1493748,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "грузинский язык",
+      "family": "Картвельская семья",
+      "speakers": 81099,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "мегрельский язык",
+      "family": "Картвельская семья",
+      "speakers": 584,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "лазский язык",
+      "family": "Картвельская семья",
+      "speakers": 10,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "сванский язык",
+      "family": "Картвельская семья",
+      "speakers": 32,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "энецкий язык",
+      "family": "Уральская семья",
+      "speakers": 97,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": 40
+    },
+    {
+      "language": "нганасанский язык",
+      "family": "Уральская семья",
+      "speakers": 300,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": 30
+    },
+    {
+      "language": "ненецкий язык",
+      "family": "Уральская семья",
+      "speakers": 24487,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "селькупский язык",
+      "family": "Уральская семья",
+      "speakers": 975,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "коми-зырянский язык",
+      "family": "Уральская семья",
+      "speakers": 108958,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "коми-пермяцкий язык",
+      "family": "Уральская семья",
+      "speakers": 41447,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "коми-язьвинское наречие",
+      "family": "Уральская семья",
+      "speakers": 400,
+      "speakers_basis": "оценка лингвистов",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "удмуртский язык",
+      "family": "Уральская семья",
+      "speakers": 255877,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "мансийский язык",
+      "family": "Уральская семья",
+      "speakers": 1346,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "хантыйский язык",
+      "family": "Уральская семья",
+      "speakers": 9230,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "венгерский язык",
+      "family": "Уральская семья",
+      "speakers": 2469,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "Саамские языки",
+      "family": "Уральская семья",
+      "speakers": 259,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "бабинский саамский язык (аккала)",
+      "family": "Уральская семья",
+      "speakers": 1,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "кильдинский саамский язык",
+      "family": "Уральская семья",
+      "speakers": 100,
+      "speakers_basis": "оценка лингвистов",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "водский язык",
+      "family": "Уральская семья",
+      "speakers": 39,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "ижорский язык",
+      "family": "Уральская семья",
+      "speakers": 70,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "вепсский язык",
+      "family": "Уральская семья",
+      "speakers": 2173,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "эстонский язык",
+      "family": "Уральская семья",
+      "speakers": 6724,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "финский язык",
+      "family": "Уральская семья",
+      "speakers": 14075,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "карельский язык",
+      "family": "Уральская семья",
+      "speakers": 13872,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "людиковское наречие",
+      "family": "Уральская семья",
+      "speakers": 150,
+      "speakers_basis": "оценка лингвистов",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "собственно-карельское наречие",
+      "family": "Уральская семья",
+      "speakers": 2800,
+      "speakers_basis": "оценка лингвистов",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "тверское карельское наречие",
+      "family": "Уральская семья",
+      "speakers": 3600,
+      "speakers_basis": "оценка лингвистов",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "марийские языки",
+      "family": "Уральская семья",
+      "speakers": 258951,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "лугово-восточный марийский язык",
+      "family": "Уральская семья",
+      "speakers": 365316,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "горномарийский язык",
+      "family": "Уральская семья",
+      "speakers": 15352,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": 30000
+    },
+    {
+      "language": "мордовские языки",
+      "family": "Уральская семья",
+      "speakers": 280046,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "негидальский язык",
+      "family": "Тунгусо-маньчжурская семья",
+      "speakers": 22,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "эвенский язык",
+      "family": "Тунгусо-маньчжурская семья",
+      "speakers": 5304,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "эвенкийский язык",
+      "family": "Тунгусо-маньчжурская семья",
+      "speakers": 5831,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "удэгейский язык",
+      "family": "Тунгусо-маньчжурская семья",
+      "speakers": 193,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": 10
+    },
+    {
+      "language": "орочский язык",
+      "family": "Тунгусо-маньчжурская семья",
+      "speakers": 43,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": 0
+    },
+    {
+      "language": "ульчский язык",
+      "family": "Тунгусо-маньчжурская семья",
+      "speakers": 506,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "нанайский язык",
+      "family": "Тунгусо-маньчжурская семья",
+      "speakers": 3180,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": 300
+    },
+    {
+      "language": "монгольский язык",
+      "family": "Монгольская семья",
+      "speakers": 4502,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "калмыцкий язык",
+      "family": "Монгольская семья",
+      "speakers": 107742,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "бурятский язык",
+      "family": "Монгольская семья",
+      "speakers": 306857,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "чувашский язык",
+      "family": "Тюркская семья",
+      "speakers": 700222,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "уйгурский язык",
+      "family": "Тюркская семья",
+      "speakers": 468,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "узбекский язык",
+      "family": "Тюркская семья",
+      "speakers": 228962,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "тофаларский язык",
+      "family": "Тюркская семья",
+      "speakers": 8,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "долганский язык",
+      "family": "Тюркская семья",
+      "speakers": 4836,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "тувинский язык",
+      "family": "Тюркская семья",
+      "speakers": 252953,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "якутский язык",
+      "family": "Тюркская семья",
+      "speakers": 377722,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "шорский язык",
+      "family": "Тюркская семья",
+      "speakers": 2927,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "хакасский язык",
+      "family": "Тюркская семья",
+      "speakers": 29010,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "Горно-алтайская группа",
+      "family": "Тюркская семья",
+      "speakers": 62572,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "кумандинское наречие",
+      "family": "Тюркская семья",
+      "speakers": 476,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "тубаларское наречие",
+      "family": "Тюркская семья",
+      "speakers": 527,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "телеутское наречие",
+      "family": "Тюркская семья",
+      "speakers": 1246,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "теленгитское наречие",
+      "family": "Тюркская семья",
+      "speakers": 15000,
+      "speakers_basis": "оценка лингвистов",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "крымчакский язык",
+      "family": "Тюркская семья",
+      "speakers": 5,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "гагаузский язык",
+      "family": "Тюркская семья",
+      "speakers": 3885,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "азербайджанский язык",
+      "family": "Тюркская семья",
+      "speakers": 291484,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "караимский язык",
+      "family": "Тюркская семья",
+      "speakers": 45,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "каракалпакский язык",
+      "family": "Тюркская семья",
+      "speakers": 366,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "казахский язык",
+      "family": "Тюркская семья",
+      "speakers": 265703,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "ногайский язык",
+      "family": "Тюркская семья",
+      "speakers": 85640,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "астраханских ногайцев-карагашей наречие",
+      "family": "Тюркская семья",
+      "speakers": 146,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "алабугатских татар наречие",
+      "family": "Тюркская семья",
+      "speakers": 2,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": 1100
+    },
+    {
+      "language": "башкирский язык",
+      "family": "Тюркская семья",
+      "speakers": 1086423,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "крымскотатарский язык",
+      "family": "Тюркская семья",
+      "speakers": 149827,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "карачаево-балкарский язык",
+      "family": "Тюркская семья",
+      "speakers": 274038,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "кумыкский язык",
+      "family": "Тюркская семья",
+      "speakers": 400746,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "киргизский язык",
+      "family": "Тюркская семья",
+      "speakers": 85655,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "татарский язык",
+      "family": "Тюркская семья",
+      "speakers": 3261155,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "югский",
+      "family": "Енисейская семья",
+      "speakers": 7,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "кетский язык",
+      "family": "Енисейская семья",
+      "speakers": 153,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "северноюкагирский (нижнеколымский) язык",
+      "family": "Юкагирская семья",
+      "speakers": 100,
+      "speakers_basis": "оценка лингвистов",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "южноюкагирский (верхнеколымский) язык",
+      "family": "Юкагирская семья",
+      "speakers": 10,
+      "speakers_basis": "оценка лингвистов",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "ительменский язык",
+      "family": "Чукотско-камчатская семья",
+      "speakers": 82,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "чукотский язык",
+      "family": "Чукотско-камчатская семья",
+      "speakers": 2607,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "алюторский язык",
+      "family": "Чукотско-камчатская семья",
+      "speakers": 172,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "корякский язык",
+      "family": "Чукотско-камчатская семья",
+      "speakers": 2633,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "эскимосская ветвь",
+      "family": "Эскимосско-алеутская семья",
+      "speakers": 179,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "науканский язык",
+      "family": "Эскимосско-алеутская семья",
+      "speakers": 50,
+      "speakers_basis": "оценка лингвистов",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "сиреникский язык",
+      "family": "Эскимосско-алеутская семья",
+      "speakers": 5,
+      "speakers_basis": "оценка лингвистов",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "медновско-алеутский язык",
+      "family": "Эскимосско-алеутская семья",
+      "speakers": 2,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "арабский язык",
+      "family": "Семитская семья",
+      "speakers": 46028,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "иврит",
+      "family": "Семитская семья",
+      "speakers": 10569,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "дунганский язык",
+      "family": "Сино-тибетская семья",
+      "speakers": 2300,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "тибетский язык",
+      "family": "Сино-тибетская семья",
+      "speakers": 232,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "вьетнамский язык",
+      "family": "Австроазиатская семья",
+      "speakers": 5561,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    },
+    {
+      "language": "японский язык",
+      "family": "Японо-рюкюская семья",
+      "speakers": 16543,
+      "speakers_basis": "перепись 2021",
+      "linguists_estimate": ""
+    }
+  ],
+  "meta": {
+    "title": "Языки России по числу носителей - Free Download",
+    "description": "Языки народов России, сгруппированные по языковым семьям, с числом носителей по переписи 2021 года или оценке лингвистов. Contains 155 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Языки России по числу носителей | ListBase",
+    "seo_description": "Download Языки России по числу носителей — 155 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 155 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Языки_России"
+    ]
+  }
+}
