@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-10-29T02:09:16.725Z",
-  "total_datasets": 480,
-  "total_records": 216736,
+  "generated": "2026-10-29T02:09:19.365Z",
+  "total_datasets": 481,
+  "total_records": 216774,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "sports",
@@ -11445,6 +11445,32 @@
         "xlsx": {
           "name": "ru-rozhdaemost-regiony_RU.xlsx",
           "size": 14677
+        }
+      }
+    },
+    {
+      "id": "ru-zato",
+      "name": "Закрытые административно-территориальные образования (ЗАТО) России",
+      "category": "society",
+      "record_count": 38,
+      "columns": [
+        "zato",
+        "subject",
+        "urban_district",
+        "years",
+        "purpose"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Закрытые_административно-территориальные_образования_России",
+      "updated": "2026-10",
+      "size": 12763,
+      "files": {
+        "csv": {
+          "name": "ru-zato_RU.csv",
+          "size": 6407
+        },
+        "xlsx": {
+          "name": "ru-zato_RU.xlsx",
+          "size": 9022
         }
       }
     },
