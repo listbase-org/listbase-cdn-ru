@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-10-29T02:09:11.590Z",
-  "total_datasets": 478,
-  "total_records": 216558,
+  "generated": "2026-10-29T02:09:14.015Z",
+  "total_datasets": 479,
+  "total_records": 216581,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "society",
@@ -11289,6 +11289,31 @@
         "xlsx": {
           "name": "ru-ledniki_RU.xlsx",
           "size": 12644
+        }
+      }
+    },
+    {
+      "id": "ru-naukogrady",
+      "name": "Наукограды России",
+      "category": "science",
+      "record_count": 23,
+      "columns": [
+        "naukograd",
+        "subject",
+        "date",
+        "term"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Наукограды_России",
+      "updated": "2026-10",
+      "size": 5527,
+      "files": {
+        "csv": {
+          "name": "ru-naukogrady_RU.csv",
+          "size": 1994
+        },
+        "xlsx": {
+          "name": "ru-naukogrady_RU.xlsx",
+          "size": 7608
         }
       }
     },

@@ -1,0 +1,184 @@
+{
+  "id": "ru-naukogrady",
+  "name": "Наукограды России",
+  "title": "Наукограды России",
+  "description": "Список городов, которым присвоен статус наукограда Российской Федерации, с датой и сроком присвоения статуса.",
+  "category": "science",
+  "source": "https://ru.wikipedia.org/wiki/Наукограды_России",
+  "source_url": "https://ru.wikipedia.org/wiki/Наукограды_России",
+  "updated": "2026-10",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "naukograd",
+      "label": "Naukograd",
+      "type": "string"
+    },
+    {
+      "key": "subject",
+      "label": "Subject",
+      "type": "string"
+    },
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "string"
+    },
+    {
+      "key": "term",
+      "label": "Term",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "naukograd": "Бийск",
+      "subject": "Алтайский край",
+      "date": "21.11.2005",
+      "term": "5 лет"
+    },
+    {
+      "naukograd": "Бийск",
+      "subject": "Алтайский край",
+      "date": "29.03.2011",
+      "term": "5 лет"
+    },
+    {
+      "naukograd": "Бийск",
+      "subject": "Алтайский край",
+      "date": "30.12.2015",
+      "term": "до 01.01.2017"
+    },
+    {
+      "naukograd": "Бийск",
+      "subject": "Алтайский край",
+      "date": "01.01.2017",
+      "term": "15 лет"
+    },
+    {
+      "naukograd": "Дубна",
+      "subject": "Московская область",
+      "date": "20.12.2001",
+      "term": "до 31.12.2025"
+    },
+    {
+      "naukograd": "Долгопрудный",
+      "subject": "Московская область",
+      "date": "06.02.2026",
+      "term": "15 лет"
+    },
+    {
+      "naukograd": "Жуковский",
+      "subject": "Московская область",
+      "date": "29.01.2007",
+      "term": "5 лет"
+    },
+    {
+      "naukograd": "Жуковский",
+      "subject": "Московская область",
+      "date": "19.11.2012",
+      "term": "5 лет"
+    },
+    {
+      "naukograd": "Жуковский",
+      "subject": "Московская область",
+      "date": "19.11.2017",
+      "term": "15 лет"
+    },
+    {
+      "naukograd": "Кольцово",
+      "subject": "Новосибирская область",
+      "date": "17.01.2003",
+      "term": "до 31.12.2025"
+    },
+    {
+      "naukograd": "Королёв",
+      "subject": "Московская область",
+      "date": "12.04.2001",
+      "term": "до 31.12.2025"
+    },
+    {
+      "naukograd": "Мичуринск",
+      "subject": "Тамбовская область",
+      "date": "04.11.2003",
+      "term": "до 31.12.2027"
+    },
+    {
+      "naukograd": "Обнинск",
+      "subject": "Калужская область",
+      "date": "06.05.2000",
+      "term": "до 31.12.2024"
+    },
+    {
+      "naukograd": "Петергоф",
+      "subject": "Санкт-Петербург",
+      "date": "23.07.2005",
+      "term": "5 лет"
+    },
+    {
+      "naukograd": "Реутов",
+      "subject": "Московская область",
+      "date": "29.12.2003",
+      "term": "до 31.12.2027"
+    },
+    {
+      "naukograd": "Серпухов (городской округ)",
+      "subject": "Московская область",
+      "date": "24.07.2024",
+      "term": "15 лет"
+    },
+    {
+      "naukograd": "Троицк",
+      "subject": "Московская область / Москва",
+      "date": "29.01.2007",
+      "term": "5 лет"
+    },
+    {
+      "naukograd": "Троицк",
+      "subject": "Московская область / Москва",
+      "date": "07.09.2012",
+      "term": "5 лет"
+    },
+    {
+      "naukograd": "Троицк",
+      "subject": "Московская область / Москва",
+      "date": "07.09.2017",
+      "term": "15 лет"
+    },
+    {
+      "naukograd": "Фрязино",
+      "subject": "Московская область",
+      "date": "29.12.2003",
+      "term": "до 31.12.2027"
+    },
+    {
+      "naukograd": "Черноголовка",
+      "subject": "Московская область",
+      "date": "18.08.2008",
+      "term": "5 лет"
+    },
+    {
+      "naukograd": "Черноголовка",
+      "subject": "Московская область",
+      "date": "30.06.2014",
+      "term": "5 лет"
+    },
+    {
+      "naukograd": "Черноголовка",
+      "subject": "Московская область",
+      "date": "30.06.2019",
+      "term": "15 лет"
+    }
+  ],
+  "meta": {
+    "title": "Наукограды России - Free Download",
+    "description": "Список городов, которым присвоен статус наукограда Российской Федерации, с датой и сроком присвоения статуса. Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Наукограды России | ListBase",
+    "seo_description": "Download Наукограды России — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Наукограды_России"
+    ]
+  }
+}
