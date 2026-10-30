@@ -1,0 +1,112 @@
+{
+  "id": "ru-generalnye-prokurory-rf",
+  "name": "Генеральные прокуроры Российской Федерации",
+  "title": "Генеральные прокуроры Российской Федерации",
+  "description": "Список генеральных прокуроров РСФСР и Российской Федерации с 1991 года со сроками полномочий.",
+  "category": "law",
+  "source": "https://ru.wikipedia.org/wiki/Генеральный_прокурор_Российской_Федерации",
+  "source_url": "https://ru.wikipedia.org/wiki/Генеральный_прокурор_Российской_Федерации",
+  "updated": "2026-10",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "nomer",
+      "label": "Nomer",
+      "type": "number"
+    },
+    {
+      "key": "imya",
+      "label": "Imya",
+      "type": "string"
+    },
+    {
+      "key": "nachalo_polnomochiy",
+      "label": "Nachalo Polnomochiy",
+      "type": "string"
+    },
+    {
+      "key": "okonchanie_polnomochiy",
+      "label": "Okonchanie Polnomochiy",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nomer": "1",
+      "imya": "Степанков Валентин Георгиевич (род. 1951)",
+      "nachalo_polnomochiy": "28 февраля 1991",
+      "okonchanie_polnomochiy": "5 октября 1993"
+    },
+    {
+      "nomer": "2",
+      "imya": "Казанник Алексей Иванович (1941—2019)",
+      "nachalo_polnomochiy": "5 октября 1993",
+      "okonchanie_polnomochiy": "26 февраля 1994 (де-факто) 25 апреля 1994 (де-юре)"
+    },
+    {
+      "nomer": "и. о.",
+      "imya": "Ильюшенко Алексей Николаевич (1957—2021)",
+      "nachalo_polnomochiy": "26 февраля 1994 (де-факто) 25 апреля 1994 (де-юре)",
+      "okonchanie_polnomochiy": "8 октября 1995"
+    },
+    {
+      "nomer": "и. о.",
+      "imya": "Гайданов Олег Иванович (род. 1945)",
+      "nachalo_polnomochiy": "8 октября 1995",
+      "okonchanie_polnomochiy": "24 октября 1995"
+    },
+    {
+      "nomer": "3",
+      "imya": "Скуратов Юрий Ильич (род. 1952)",
+      "nachalo_polnomochiy": "24 октября 1995",
+      "okonchanie_polnomochiy": "2 апреля 1999 (отстранение) 19 апреля 2000 (отставка)"
+    },
+    {
+      "nomer": "и. о.",
+      "imya": "Чайка Юрий Яковлевич (род. 1951)",
+      "nachalo_polnomochiy": "2 апреля 1999",
+      "okonchanie_polnomochiy": "6 августа 1999"
+    },
+    {
+      "nomer": "и. о.",
+      "imya": "Устинов Владимир Васильевич (род. 1953)",
+      "nachalo_polnomochiy": "6 августа 1999",
+      "okonchanie_polnomochiy": "17 мая 2000"
+    },
+    {
+      "nomer": "4",
+      "imya": "Устинов Владимир Васильевич (род. 1953)",
+      "nachalo_polnomochiy": "17 мая 2000",
+      "okonchanie_polnomochiy": "2 июня 2006"
+    },
+    {
+      "nomer": "5",
+      "imya": "Чайка Юрий Яковлевич (род. 1951)",
+      "nachalo_polnomochiy": "23 июня 2006",
+      "okonchanie_polnomochiy": "22 января 2020"
+    },
+    {
+      "nomer": "6",
+      "imya": "Краснов Игорь Викторович (род. 1975)",
+      "nachalo_polnomochiy": "22 января 2020",
+      "okonchanie_polnomochiy": "24 сентября 2025"
+    },
+    {
+      "nomer": "7",
+      "imya": "Гуцан Александр Владимирович (род. 1960)",
+      "nachalo_polnomochiy": "24 сентября 2025",
+      "okonchanie_polnomochiy": "н. в."
+    }
+  ],
+  "meta": {
+    "title": "Генеральные прокуроры Российской Федерации - Free Download",
+    "description": "Список генеральных прокуроров РСФСР и Российской Федерации с 1991 года со сроками полномочий. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Генеральные прокуроры Российской Федерации | ListBase",
+    "seo_description": "Download Генеральные прокуроры Российской Федерации — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Генеральный_прокурор_Российской_Федерации"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-10-29T02:09:21.769Z",
-  "total_datasets": 482,
-  "total_records": 216823,
+  "generated": "2026-10-30T02:20:17.287Z",
+  "total_datasets": 483,
+  "total_records": 216834,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "music",
@@ -4122,6 +4122,31 @@
         "xlsx": {
           "name": "ru-yazyki-rossii-nositeli_RU.xlsx",
           "size": 12123
+        }
+      }
+    },
+    {
+      "id": "ru-generalnye-prokurory-rf",
+      "name": "Генеральные прокуроры Российской Федерации",
+      "category": "law",
+      "record_count": 11,
+      "columns": [
+        "nomer",
+        "imya",
+        "nachalo_polnomochiy",
+        "okonchanie_polnomochiy"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Генеральный_прокурор_Российской_Федерации",
+      "updated": "2026-10",
+      "size": 4715,
+      "files": {
+        "csv": {
+          "name": "ru-generalnye-prokurory-rf_RU.csv",
+          "size": 1509
+        },
+        "xlsx": {
+          "name": "ru-generalnye-prokurory-rf_RU.xlsx",
+          "size": 7448
         }
       }
     },
