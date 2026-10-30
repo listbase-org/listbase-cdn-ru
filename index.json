@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-10-30T02:20:39.494Z",
-  "total_datasets": 486,
-  "total_records": 216949,
+  "generated": "2026-10-30T02:20:46.873Z",
+  "total_datasets": 487,
+  "total_records": 216963,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 3
+      "dataset_count": 4
     }
   ],
   "datasets": [
@@ -15416,6 +15416,29 @@
         "xlsx": {
           "name": "ru-starorusskie-mery-dliny_RU.xlsx",
           "size": 7648
+        }
+      }
+    },
+    {
+      "id": "ru-starorusskie-mery-sypuchikh-tel",
+      "name": "Старорусские меры сыпучих тел (хлебные меры)",
+      "category": "units",
+      "record_count": 14,
+      "columns": [
+        "mera",
+        "litry"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Русская_система_мер",
+      "updated": "2026-10",
+      "size": 2921,
+      "files": {
+        "csv": {
+          "name": "ru-starorusskie-mery-sypuchikh-tel_RU.csv",
+          "size": 505
+        },
+        "xlsx": {
+          "name": "ru-starorusskie-mery-sypuchikh-tel_RU.xlsx",
+          "size": 7098
         }
       }
     },

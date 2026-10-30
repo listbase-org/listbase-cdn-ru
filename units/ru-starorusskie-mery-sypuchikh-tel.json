@@ -1,0 +1,92 @@
+{
+  "id": "ru-starorusskie-mery-sypuchikh-tel",
+  "name": "Старорусские меры сыпучих тел (хлебные меры)",
+  "title": "Старорусские меры сыпучих тел (хлебные меры)",
+  "description": "Старинные русские меры объёма сыпучих тел (цебр, четверть, осьмина, четверик, гарнец и др.) и их значения в литрах.",
+  "category": "units",
+  "source": "https://ru.wikipedia.org/wiki/Русская_система_мер",
+  "source_url": "https://ru.wikipedia.org/wiki/Русская_система_мер",
+  "updated": "2026-10",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "mera",
+      "label": "Mera",
+      "type": "string"
+    },
+    {
+      "key": "litry",
+      "label": "Litry",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "mera": "Цебр",
+      "litry": "5457,5872 — 6297,216"
+    },
+    {
+      "mera": "Кадка",
+      "litry": "839,69"
+    },
+    {
+      "mera": "Полокова",
+      "litry": "419,84"
+    },
+    {
+      "mera": "Четверть",
+      "litry": "209,9072"
+    },
+    {
+      "mera": "Осьмина",
+      "litry": "104,95"
+    },
+    {
+      "mera": "Полосьмина",
+      "litry": "52,48"
+    },
+    {
+      "mera": "Четверик",
+      "litry": "26,2387"
+    },
+    {
+      "mera": "Получетверик",
+      "litry": "13,12"
+    },
+    {
+      "mera": "Четвёрка",
+      "litry": "6,56"
+    },
+    {
+      "mera": "Гарнец",
+      "litry": "3,2798"
+    },
+    {
+      "mera": "Полугарнец (пол-малый четверик)",
+      "litry": "1,64"
+    },
+    {
+      "mera": "Пол-пол-малый четверик",
+      "litry": "0,82"
+    },
+    {
+      "mera": "Пол-пол-пол-малый четверик",
+      "litry": "0,41"
+    },
+    {
+      "mera": "1 стакан",
+      "litry": "0,273"
+    }
+  ],
+  "meta": {
+    "title": "Старорусские меры сыпучих тел (хлебные меры) - Free Download",
+    "description": "Старинные русские меры объёма сыпучих тел (цебр, четверть, осьмина, четверик, гарнец и др.) и их значения в литрах. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Старорусские меры сыпучих тел (хлебные меры) | ListBase",
+    "seo_description": "Download Старорусские меры сыпучих тел (хлебные меры) — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Русская_система_мер"
+    ]
+  }
+}
