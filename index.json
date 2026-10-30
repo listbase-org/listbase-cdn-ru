@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-10-30T02:20:17.287Z",
-  "total_datasets": 483,
-  "total_records": 216834,
+  "generated": "2026-10-30T02:20:23.861Z",
+  "total_datasets": 484,
+  "total_records": 216887,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "history",
@@ -3967,6 +3967,31 @@
         "xlsx": {
           "name": "ru-bolnitsy_RU.xlsx",
           "size": 27308
+        }
+      }
+    },
+    {
+      "id": "ru-ministry-zdravookhraneniya",
+      "name": "Министры здравоохранения России",
+      "category": "health",
+      "record_count": 53,
+      "columns": [
+        "imya",
+        "data_vstupleniya",
+        "data_osvobozhdeniya",
+        "vedomstvo"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_министров_здравоохранения_России",
+      "updated": "2026-10",
+      "size": 18810,
+      "files": {
+        "csv": {
+          "name": "ru-ministry-zdravookhraneniya_RU.csv",
+          "size": 11103
+        },
+        "xlsx": {
+          "name": "ru-ministry-zdravookhraneniya_RU.xlsx",
+          "size": 9647
         }
       }
     },
