@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-10-30T02:20:46.873Z",
-  "total_datasets": 487,
-  "total_records": 216963,
+  "generated": "2026-10-30T02:20:53.201Z",
+  "total_datasets": 488,
+  "total_records": 216977,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tourism",
@@ -11831,6 +11831,31 @@
         "xlsx": {
           "name": "ru-prazdniki-completos_RU.xlsx",
           "size": 49923
+        }
+      }
+    },
+    {
+      "id": "ru-starorusskie-mery-vremeni",
+      "name": "Старорусские меры времени",
+      "category": "time",
+      "record_count": 14,
+      "columns": [
+        "mera",
+        "otnoshenie_k_menshey",
+        "sekundy",
+        "primechaniya"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Русская_система_мер",
+      "updated": "2026-10",
+      "size": 6897,
+      "files": {
+        "csv": {
+          "name": "ru-starorusskie-mery-vremeni_RU.csv",
+          "size": 3665
+        },
+        "xlsx": {
+          "name": "ru-starorusskie-mery-vremeni_RU.xlsx",
+          "size": 8332
         }
       }
     },
