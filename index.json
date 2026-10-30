@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-10-30T02:20:23.861Z",
-  "total_datasets": 484,
-  "total_records": 216887,
+  "generated": "2026-10-30T02:20:32.422Z",
+  "total_datasets": 485,
+  "total_records": 216900,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "time",
@@ -11664,6 +11664,36 @@
         "xlsx": {
           "name": "ru-biblioteki_RU.xlsx",
           "size": 19651
+        }
+      }
+    },
+    {
+      "id": "ru-puski-raket-angara",
+      "name": "Пуски ракет-носителей семейства «Ангара»",
+      "category": "tech",
+      "record_count": 13,
+      "columns": [
+        "nomer",
+        "data_vremya_msk",
+        "modifikatsiya",
+        "razgonnyy_blok",
+        "poleznaya_nagruzka",
+        "kosmodrom_ploshchadka",
+        "tsel",
+        "zakazchik",
+        "rezultat"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_пусков_ракет-носителей_«Ангара»",
+      "updated": "2026-10",
+      "size": 10239,
+      "files": {
+        "csv": {
+          "name": "ru-puski-raket-angara_RU.csv",
+          "size": 4837
+        },
+        "xlsx": {
+          "name": "ru-puski-raket-angara_RU.xlsx",
+          "size": 8573
         }
       }
     },

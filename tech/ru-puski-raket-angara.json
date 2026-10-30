@@ -1,0 +1,214 @@
+{
+  "id": "ru-puski-raket-angara",
+  "name": "Пуски ракет-носителей семейства «Ангара»",
+  "title": "Пуски ракет-носителей семейства «Ангара»",
+  "description": "Список пусков российских ракет-носителей семейства «Ангара» с 2014 года: дата, модификация, разгонный блок, полезная нагрузка, космодром и результат.",
+  "category": "tech",
+  "source": "https://ru.wikipedia.org/wiki/Список_пусков_ракет-носителей_«Ангара»",
+  "source_url": "https://ru.wikipedia.org/wiki/Список_пусков_ракет-носителей_«Ангара»",
+  "updated": "2026-10",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "nomer",
+      "label": "Nomer",
+      "type": "number"
+    },
+    {
+      "key": "data_vremya_msk",
+      "label": "Data Vremya Msk",
+      "type": "string"
+    },
+    {
+      "key": "modifikatsiya",
+      "label": "Modifikatsiya",
+      "type": "string"
+    },
+    {
+      "key": "razgonnyy_blok",
+      "label": "Razgonnyy Blok",
+      "type": "string"
+    },
+    {
+      "key": "poleznaya_nagruzka",
+      "label": "Poleznaya Nagruzka",
+      "type": "string"
+    },
+    {
+      "key": "kosmodrom_ploshchadka",
+      "label": "Kosmodrom Ploshchadka",
+      "type": "string"
+    },
+    {
+      "key": "tsel",
+      "label": "Tsel",
+      "type": "string"
+    },
+    {
+      "key": "zakazchik",
+      "label": "Zakazchik",
+      "type": "string"
+    },
+    {
+      "key": "rezultat",
+      "label": "Rezultat",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nomer": 1,
+      "data_vremya_msk": "09.07.2014, 16:00:00",
+      "modifikatsiya": "Ангара-1.2ПП",
+      "razgonnyy_blok": "нет",
+      "poleznaya_nagruzka": "Неотделяемый габаритно-весовой макет",
+      "kosmodrom_ploshchadka": "Плесецк / 35/1",
+      "tsel": "ЛКИ с целью проверки функционирования составных частей ракетного комплекса «Ангара», отработки бортовых систем и эксплуатационной документации",
+      "zakazchik": "Министерство обороны РФ",
+      "rezultat": "Успех"
+    },
+    {
+      "nomer": 2,
+      "data_vremya_msk": "23.12.2014, 8:57:00",
+      "modifikatsiya": "Ангара-А5.1Л (1Л — первое лётное изделие)",
+      "razgonnyy_blok": "«Бриз-М»",
+      "poleznaya_nagruzka": "Неотделяемый от РБ «Бриз-М» габаритно-массовый макет спутника",
+      "kosmodrom_ploshchadka": "Плесецк / 35/1",
+      "tsel": "ЛКИ",
+      "zakazchik": "Министерство обороны РФ",
+      "rezultat": "Успех"
+    },
+    {
+      "nomer": 3,
+      "data_vremya_msk": "14.12.2020, 8:50:00",
+      "modifikatsiya": "Ангара-А5.2Л",
+      "razgonnyy_blok": "«Бриз-М»",
+      "poleznaya_nagruzka": "Габаритно-весовой макет космического аппарата",
+      "kosmodrom_ploshchadka": "Плесецк / 35/1",
+      "tsel": "ЛКИ (на предмет совместимости РБ с ракетой-носителем)",
+      "zakazchik": "Министерство обороны РФ",
+      "rezultat": "Успех"
+    },
+    {
+      "nomer": 4,
+      "data_vremya_msk": "27.12.2021, 22:00:01",
+      "modifikatsiya": "Ангара-А5.3Л",
+      "razgonnyy_blok": "«Персей» (14С48)",
+      "poleznaya_nagruzka": "Габаритно-весовой макет космического аппарата",
+      "kosmodrom_ploshchadka": "Плесецк / 35/1",
+      "tsel": "ЛКИ (включая испытания нового РБ)",
+      "zakazchik": "Министерство обороны РФ",
+      "rezultat": "Успешный запуск ракеты и неуспешная отработка разгонного блока"
+    },
+    {
+      "nomer": 5,
+      "data_vremya_msk": "29.04.2022, 22:55:23",
+      "modifikatsiya": "Ангара-1.2",
+      "razgonnyy_blok": "",
+      "poleznaya_nagruzka": "Космос-2555",
+      "kosmodrom_ploshchadka": "Плесецк / 35/1",
+      "tsel": "Запуск спутника",
+      "zakazchik": "Министерство обороны РФ",
+      "rezultat": "Успех. Первый запуск ракеты в штатной конфигурации"
+    },
+    {
+      "nomer": 6,
+      "data_vremya_msk": "15.10.2022, 22:55:15",
+      "modifikatsiya": "Ангара-1.2",
+      "razgonnyy_blok": "",
+      "poleznaya_nagruzka": "Космос-2560",
+      "kosmodrom_ploshchadka": "Плесецк / 35/1",
+      "tsel": "Запуск спутника",
+      "zakazchik": "Министерство обороны РФ",
+      "rezultat": "Успех. Последний запуск по программе лётных испытаний лёгкого носителя семейства «Ангара»"
+    },
+    {
+      "nomer": 7,
+      "data_vremya_msk": "11.04.2024, 12:00:00",
+      "modifikatsiya": "Ангара-А5",
+      "razgonnyy_blok": "«Орион» (14C48)",
+      "poleznaya_nagruzka": "Запуск массогабаритного макета на ГСО, попутно на НОО отделён кубсат «Гагаринец»",
+      "kosmodrom_ploshchadka": "Восточный / 1А",
+      "tsel": "ЛКИ космического ракетного комплекса «Амур» в составе ракеты-носителя Ангара А5 и стартового комплекса на космодроме «Восточный». Испытания РБ 14C48 «Орион»",
+      "zakazchik": "Министерство обороны РФ",
+      "rezultat": "Успех. Успешный запуск с третьей попытки. Малый спутник «Гагаринец» выведен на низкую околоземную орбиту. Испытательная полезная нагрузка доставлена на геостационарную орбиту, далее вместе с разгонным блоком «Орион» она будет уведена на орбиту хранения"
+    },
+    {
+      "nomer": 8,
+      "data_vremya_msk": "17.09.2024, 10:00",
+      "modifikatsiya": "Ангара-1.2",
+      "razgonnyy_blok": "",
+      "poleznaya_nagruzka": "Космос-2577 Космос-2578",
+      "kosmodrom_ploshchadka": "Плесецк / 35/1",
+      "tsel": "Запуск разведывательных спутников в интересах Министерства обороны РФ",
+      "zakazchik": "Министерство обороны РФ",
+      "rezultat": "Успех"
+    },
+    {
+      "nomer": 9,
+      "data_vremya_msk": "16.03.2025, 13:50",
+      "modifikatsiya": "Ангара-1.2",
+      "razgonnyy_blok": "",
+      "poleznaya_nagruzka": "Космос-2585 Космос-2586 Космос-2587",
+      "kosmodrom_ploshchadka": "Плесецк / 35/1",
+      "tsel": "Запуск в интересах Министерства обороны РФ",
+      "zakazchik": "Министерство обороны РФ",
+      "rezultat": "Успех"
+    },
+    {
+      "nomer": 10,
+      "data_vremya_msk": "19.06.2025",
+      "modifikatsiya": "Ангара-А5",
+      "razgonnyy_blok": "",
+      "poleznaya_nagruzka": "Космос-2589, Космос-2590",
+      "kosmodrom_ploshchadka": "Плесецк / 35/1",
+      "tsel": "Запуск в интересах Министерства обороны РФ",
+      "zakazchik": "Министерство обороны РФ",
+      "rezultat": "Успех"
+    },
+    {
+      "nomer": 11,
+      "data_vremya_msk": "21.08.2025 12:32",
+      "modifikatsiya": "Ангара-1.2",
+      "razgonnyy_blok": "",
+      "poleznaya_nagruzka": "",
+      "kosmodrom_ploshchadka": "Плесецк / 35/1",
+      "tsel": "Запуск в интересах Министерства обороны РФ",
+      "zakazchik": "Министерство обороны РФ",
+      "rezultat": "Успех"
+    },
+    {
+      "nomer": 12,
+      "data_vremya_msk": "25.11.2025 16:42",
+      "modifikatsiya": "Ангара-1.2",
+      "razgonnyy_blok": "",
+      "poleznaya_nagruzka": "",
+      "kosmodrom_ploshchadka": "Плесецк / 35/1",
+      "tsel": "Запуск в интересах Министерства обороны РФ",
+      "zakazchik": "Министерство обороны РФ",
+      "rezultat": "Успех"
+    },
+    {
+      "nomer": 13,
+      "data_vremya_msk": "23.04.2026 11:29",
+      "modifikatsiya": "Ангара-1.2",
+      "razgonnyy_blok": "",
+      "poleznaya_nagruzka": "",
+      "kosmodrom_ploshchadka": "Плесецк / 35/1",
+      "tsel": "Запуск в интересах Министерства обороны РФ",
+      "zakazchik": "Министерство обороны РФ",
+      "rezultat": "Успех"
+    }
+  ],
+  "meta": {
+    "title": "Пуски ракет-носителей семейства «Ангара» - Free Download",
+    "description": "Список пусков российских ракет-носителей семейства «Ангара» с 2014 года: дата, модификация, разгонный блок, полезная нагрузка, космодром и результат. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Пуски ракет-носителей семейства «Ангара» | ListBase",
+    "seo_description": "Download Пуски ракет-носителей семейства «Ангара» — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Список_пусков_ракет-носителей_«Ангара»"
+    ]
+  }
+}
