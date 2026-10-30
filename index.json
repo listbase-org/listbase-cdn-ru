@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-10-30T02:20:32.422Z",
-  "total_datasets": 485,
-  "total_records": 216900,
+  "generated": "2026-10-30T02:20:39.494Z",
+  "total_datasets": 486,
+  "total_records": 216949,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "food",
@@ -828,6 +828,32 @@
         "xlsx": {
           "name": "ru-banknoty-banka-rossii_RU.xlsx",
           "size": 9321
+        }
+      }
+    },
+    {
+      "id": "ru-rukovoditeli-banka-rossii",
+      "name": "Руководители Банка России (Госбанка) с 1860 года",
+      "category": "finance",
+      "record_count": 49,
+      "columns": [
+        "imya",
+        "nachalo",
+        "okonchanie",
+        "dolzhnost",
+        "uchrezhdenie"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_руководителей_Банка_России",
+      "updated": "2026-10",
+      "size": 17868,
+      "files": {
+        "csv": {
+          "name": "ru-rukovoditeli-banka-rossii_RU.csv",
+          "size": 10169
+        },
+        "xlsx": {
+          "name": "ru-rukovoditeli-banka-rossii_RU.xlsx",
+          "size": 9384
         }
       }
     },
