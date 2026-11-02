@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-10-30T02:20:53.201Z",
-  "total_datasets": 488,
-  "total_records": 216977,
+  "generated": "2026-11-02T02:13:44.892Z",
+  "total_datasets": 489,
+  "total_records": 217457,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "transport",
@@ -11886,6 +11886,32 @@
         "xlsx": {
           "name": "ru-gostinitsy_RU.xlsx",
           "size": 78171
+        }
+      }
+    },
+    {
+      "id": "ru-istoricheskie-poseleniya",
+      "name": "Исторические поселения России",
+      "category": "tourism",
+      "record_count": 480,
+      "columns": [
+        "nazvanie",
+        "subekt_rf",
+        "prezhnie_nazvaniya",
+        "klassifikatsiya",
+        "god_osnovaniya"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_исторических_поселений_России",
+      "updated": "2026-11",
+      "size": 119313,
+      "files": {
+        "csv": {
+          "name": "ru-istoricheskie-poseleniya_RU.csv",
+          "size": 54292
+        },
+        "xlsx": {
+          "name": "ru-istoricheskie-poseleniya_RU.xlsx",
+          "size": 24518
         }
       }
     },

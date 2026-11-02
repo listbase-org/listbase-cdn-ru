@@ -1,0 +1,3411 @@
+{
+  "id": "ru-istoricheskie-poseleniya",
+  "name": "Исторические поселения России",
+  "title": "Исторические поселения России",
+  "description": "Перечень исторических поселений России (по перечню Минкультуры 2010 года) по субъектам РФ: прежние названия, тип поселения и год основания.",
+  "category": "tourism",
+  "source": "https://ru.wikipedia.org/wiki/Список_исторических_поселений_России",
+  "source_url": "https://ru.wikipedia.org/wiki/Список_исторических_поселений_России",
+  "updated": "2026-11",
+  "record_count": 480,
+  "columns": [
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "subekt_rf",
+      "label": "Subekt Rf",
+      "type": "string"
+    },
+    {
+      "key": "prezhnie_nazvaniya",
+      "label": "Prezhnie Nazvaniya",
+      "type": "string"
+    },
+    {
+      "key": "klassifikatsiya",
+      "label": "Klassifikatsiya",
+      "type": "string"
+    },
+    {
+      "key": "god_osnovaniya",
+      "label": "God Osnovaniya",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nazvanie": "Майкоп",
+      "subekt_rf": "Республика Адыгея",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1857"
+    },
+    {
+      "nazvanie": "Горно-Алтайск",
+      "subekt_rf": "Республика Алтай",
+      "prezhnie_nazvaniya": "Улала, Ойрот-Тура",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1830"
+    },
+    {
+      "nazvanie": "Белебей",
+      "subekt_rf": "Республика Башкортостан",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1715"
+    },
+    {
+      "nazvanie": "Белорецк",
+      "subekt_rf": "Республика Башкортостан",
+      "prezhnie_nazvaniya": "Белорецкий завод",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1762"
+    },
+    {
+      "nazvanie": "Бирск",
+      "subekt_rf": "Республика Башкортостан",
+      "prezhnie_nazvaniya": "село Архангельское",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1663"
+    },
+    {
+      "nazvanie": "Николо-Берёзовка",
+      "subekt_rf": "Республика Башкортостан",
+      "prezhnie_nazvaniya": "Берёзовка",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1641"
+    },
+    {
+      "nazvanie": "Стерлитамак",
+      "subekt_rf": "Республика Башкортостан",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1735"
+    },
+    {
+      "nazvanie": "Уфа",
+      "subekt_rf": "Республика Башкортостан",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Крупнейшие города",
+      "god_osnovaniya": "1586"
+    },
+    {
+      "nazvanie": "Бабушкин",
+      "subekt_rf": "Республика Бурятия",
+      "prezhnie_nazvaniya": "Мысовск",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1892"
+    },
+    {
+      "nazvanie": "Баргузин",
+      "subekt_rf": "Республика Бурятия",
+      "prezhnie_nazvaniya": "Баргузинск",
+      "klassifikatsiya": "Сёла",
+      "god_osnovaniya": "1648"
+    },
+    {
+      "nazvanie": "Кяхта",
+      "subekt_rf": "Республика Бурятия",
+      "prezhnie_nazvaniya": "Троицкосавск",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1727"
+    },
+    {
+      "nazvanie": "Новоселенгинск",
+      "subekt_rf": "Республика Бурятия",
+      "prezhnie_nazvaniya": "Селенгинск",
+      "klassifikatsiya": "Посёлки",
+      "god_osnovaniya": "1665"
+    },
+    {
+      "nazvanie": "Улан-Удэ",
+      "subekt_rf": "Республика Бурятия",
+      "prezhnie_nazvaniya": "Верхнеудинск",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1666"
+    },
+    {
+      "nazvanie": "Дербент",
+      "subekt_rf": "Республика Дагестан",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "VIII век до н. э."
+    },
+    {
+      "nazvanie": "Кизляр",
+      "subekt_rf": "Республика Дагестан",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1735"
+    },
+    {
+      "nazvanie": "Махачкала",
+      "subekt_rf": "Республика Дагестан",
+      "prezhnie_nazvaniya": "Порт-Петровск",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1844"
+    },
+    {
+      "nazvanie": "Тарки",
+      "subekt_rf": "Республика Дагестан",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "Первое упоминание о городе Тарки относится к VIII веку"
+    },
+    {
+      "nazvanie": "Баксан",
+      "subekt_rf": "Кабардино-Балкарская Республика",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1891"
+    },
+    {
+      "nazvanie": "Майский",
+      "subekt_rf": "Кабардино-Балкарская Республика",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XIX век"
+    },
+    {
+      "nazvanie": "Нальчик",
+      "subekt_rf": "Кабардино-Балкарская Республика",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1724"
+    },
+    {
+      "nazvanie": "Прохладный",
+      "subekt_rf": "Кабардино-Балкарская Республика",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1765"
+    },
+    {
+      "nazvanie": "Тырныауз",
+      "subekt_rf": "Кабардино-Балкарская Республика",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1930-е"
+    },
+    {
+      "nazvanie": "Элиста",
+      "subekt_rf": "Республика Калмыкия",
+      "prezhnie_nazvaniya": "Степной",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1865"
+    },
+    {
+      "nazvanie": "Кемь",
+      "subekt_rf": "Республика Карелия",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XIV век"
+    },
+    {
+      "nazvanie": "Олонец",
+      "subekt_rf": "Республика Карелия",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1137"
+    },
+    {
+      "nazvanie": "Петрозаводск",
+      "subekt_rf": "Республика Карелия",
+      "prezhnie_nazvaniya": "Шуйский завод, Петровский завод, Яанислинна",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1703"
+    },
+    {
+      "nazvanie": "Пудож",
+      "subekt_rf": "Республика Карелия",
+      "prezhnie_nazvaniya": "Пудога",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1382"
+    },
+    {
+      "nazvanie": "Сортавала",
+      "subekt_rf": "Республика Карелия",
+      "prezhnie_nazvaniya": "Сердоболь",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XII век"
+    },
+    {
+      "nazvanie": "Сыктывкар",
+      "subekt_rf": "Республика Коми",
+      "prezhnie_nazvaniya": "Усть-Сысольск",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1780"
+    },
+    {
+      "nazvanie": "Йошкар-Ола",
+      "subekt_rf": "Республика Марий Эл",
+      "prezhnie_nazvaniya": "Царевококшайск, Краснококшайск",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1584"
+    },
+    {
+      "nazvanie": "Козьмодемьянск",
+      "subekt_rf": "Республика Марий Эл",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1583"
+    },
+    {
+      "nazvanie": "Ардатов",
+      "subekt_rf": "Республика Мордовия",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1671"
+    },
+    {
+      "nazvanie": "Инсар",
+      "subekt_rf": "Республика Мордовия",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1648"
+    },
+    {
+      "nazvanie": "Краснослободск",
+      "subekt_rf": "Республика Мордовия",
+      "prezhnie_nazvaniya": "Красная Слобода",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1571"
+    },
+    {
+      "nazvanie": "Рузаевка",
+      "subekt_rf": "Республика Мордовия",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1631"
+    },
+    {
+      "nazvanie": "Саранск",
+      "subekt_rf": "Республика Мордовия",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1641"
+    },
+    {
+      "nazvanie": "Темников",
+      "subekt_rf": "Республика Мордовия",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1536"
+    },
+    {
+      "nazvanie": "Вилюйск",
+      "subekt_rf": "Республика Саха (Якутия)",
+      "prezhnie_nazvaniya": "Оленск",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1634"
+    },
+    {
+      "nazvanie": "Олекминск",
+      "subekt_rf": "Республика Саха (Якутия)",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1635"
+    },
+    {
+      "nazvanie": "Среднеколымск",
+      "subekt_rf": "Республика Саха (Якутия)",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1644"
+    },
+    {
+      "nazvanie": "Якутск",
+      "subekt_rf": "Республика Саха (Якутия)",
+      "prezhnie_nazvaniya": "Ленский острог, Якутский острог",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1632"
+    },
+    {
+      "nazvanie": "Алагир",
+      "subekt_rf": "Республика Северная Осетия — Алания",
+      "prezhnie_nazvaniya": "Салугардан, Горная станция",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1850"
+    },
+    {
+      "nazvanie": "Владикавказ",
+      "subekt_rf": "Республика Северная Осетия — Алания",
+      "prezhnie_nazvaniya": "Орджоникидзе, Дзауджикау",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1784"
+    },
+    {
+      "nazvanie": "Мизур",
+      "subekt_rf": "Республика Северная Осетия — Алания",
+      "prezhnie_nazvaniya": "-",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1829"
+    },
+    {
+      "nazvanie": "Моздок",
+      "subekt_rf": "Республика Северная Осетия — Алания",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1759"
+    },
+    {
+      "nazvanie": "Садон",
+      "subekt_rf": "Республика Северная Осетия — Алания",
+      "prezhnie_nazvaniya": "-",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "Нач. XIX в."
+    },
+    {
+      "nazvanie": "Бугульма",
+      "subekt_rf": "Республика Татарстан",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1736"
+    },
+    {
+      "nazvanie": "Елабуга",
+      "subekt_rf": "Республика Татарстан",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "нач. XI века"
+    },
+    {
+      "nazvanie": "Казань",
+      "subekt_rf": "Республика Татарстан",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Крупнейшие города",
+      "god_osnovaniya": "1005"
+    },
+    {
+      "nazvanie": "Лаишево",
+      "subekt_rf": "Республика Татарстан",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1557"
+    },
+    {
+      "nazvanie": "Мамадыш",
+      "subekt_rf": "Республика Татарстан",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1391"
+    },
+    {
+      "nazvanie": "Мензелинск",
+      "subekt_rf": "Республика Татарстан",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1586"
+    },
+    {
+      "nazvanie": "Свияжск",
+      "subekt_rf": "Республика Татарстан",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1551"
+    },
+    {
+      "nazvanie": "Тетюши",
+      "subekt_rf": "Республика Татарстан",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1578"
+    },
+    {
+      "nazvanie": "Чистополь",
+      "subekt_rf": "Республика Татарстан",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "нач. XVIII века"
+    },
+    {
+      "nazvanie": "Кызыл",
+      "subekt_rf": "Республика Тыва",
+      "prezhnie_nazvaniya": "Белоцарск, Хем-Белдири",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1914"
+    },
+    {
+      "nazvanie": "Воткинск",
+      "subekt_rf": "Удмуртская Республика",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1759"
+    },
+    {
+      "nazvanie": "Глазов",
+      "subekt_rf": "Удмуртская Республика",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "XVII век"
+    },
+    {
+      "nazvanie": "Ижевск",
+      "subekt_rf": "Удмуртская Республика",
+      "prezhnie_nazvaniya": "Устинов",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1760"
+    },
+    {
+      "nazvanie": "Сарапул",
+      "subekt_rf": "Удмуртская Республика",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1596"
+    },
+    {
+      "nazvanie": "Грозный",
+      "subekt_rf": "Чеченская Республика",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1818"
+    },
+    {
+      "nazvanie": "Алатырь",
+      "subekt_rf": "Чувашская Республика — Чувашия",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1552"
+    },
+    {
+      "nazvanie": "Мариинский Посад",
+      "subekt_rf": "Чувашская Республика — Чувашия",
+      "prezhnie_nazvaniya": "Сундырь",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1620"
+    },
+    {
+      "nazvanie": "Цивильск",
+      "subekt_rf": "Чувашская Республика — Чувашия",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1589"
+    },
+    {
+      "nazvanie": "Чебоксары",
+      "subekt_rf": "Чувашская Республика — Чувашия",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1469"
+    },
+    {
+      "nazvanie": "Ядрин",
+      "subekt_rf": "Чувашская Республика — Чувашия",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1590"
+    },
+    {
+      "nazvanie": "Барнаул",
+      "subekt_rf": "Алтайский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1730-е"
+    },
+    {
+      "nazvanie": "Бийск",
+      "subekt_rf": "Алтайский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1709"
+    },
+    {
+      "nazvanie": "Нерчинск",
+      "subekt_rf": "Забайкальский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1658"
+    },
+    {
+      "nazvanie": "Петровск-Забайкальский",
+      "subekt_rf": "Забайкальский край",
+      "prezhnie_nazvaniya": "Петровский Завод",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1789"
+    },
+    {
+      "nazvanie": "Сретенск",
+      "subekt_rf": "Забайкальский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1689"
+    },
+    {
+      "nazvanie": "Чита",
+      "subekt_rf": "Забайкальский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1653"
+    },
+    {
+      "nazvanie": "Шилка",
+      "subekt_rf": "Забайкальский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1897"
+    },
+    {
+      "nazvanie": "Петропавловск-Камчатский",
+      "subekt_rf": "Камчатский край",
+      "prezhnie_nazvaniya": "Петропавловская гавань, Петропавловский порт",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1740"
+    },
+    {
+      "nazvanie": "Анапа",
+      "subekt_rf": "Краснодарский край",
+      "prezhnie_nazvaniya": "Горгиппия, Мапа",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1781"
+    },
+    {
+      "nazvanie": "Армавир",
+      "subekt_rf": "Краснодарский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1839"
+    },
+    {
+      "nazvanie": "Ейск",
+      "subekt_rf": "Краснодарский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1848"
+    },
+    {
+      "nazvanie": "Краснодар",
+      "subekt_rf": "Краснодарский край",
+      "prezhnie_nazvaniya": "Екатеринодар",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1793"
+    },
+    {
+      "nazvanie": "Сочи",
+      "subekt_rf": "Краснодарский край",
+      "prezhnie_nazvaniya": "Александрия, Навагинское, Даховский",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1838"
+    },
+    {
+      "nazvanie": "Ачинск",
+      "subekt_rf": "Красноярский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1683"
+    },
+    {
+      "nazvanie": "Енисейск",
+      "subekt_rf": "Красноярский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1619"
+    },
+    {
+      "nazvanie": "Канск",
+      "subekt_rf": "Красноярский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1628"
+    },
+    {
+      "nazvanie": "Красноярск",
+      "subekt_rf": "Красноярский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1628"
+    },
+    {
+      "nazvanie": "Минусинск",
+      "subekt_rf": "Красноярский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1739"
+    },
+    {
+      "nazvanie": "Шушенское",
+      "subekt_rf": "Красноярский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "первая половина XVIII века"
+    },
+    {
+      "nazvanie": "Добрянка",
+      "subekt_rf": "Пермский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1623"
+    },
+    {
+      "nazvanie": "Ильинский",
+      "subekt_rf": "Пермский край",
+      "prezhnie_nazvaniya": "погост Обва",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "—"
+    },
+    {
+      "nazvanie": "Кунгур",
+      "subekt_rf": "Пермский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1663"
+    },
+    {
+      "nazvanie": "Лысьва",
+      "subekt_rf": "Пермский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1785"
+    },
+    {
+      "nazvanie": "Ныроб",
+      "subekt_rf": "Пермский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1579"
+    },
+    {
+      "nazvanie": "Оса",
+      "subekt_rf": "Пермский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1591"
+    },
+    {
+      "nazvanie": "Оханск",
+      "subekt_rf": "Пермский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1547"
+    },
+    {
+      "nazvanie": "Очёр",
+      "subekt_rf": "Пермский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1759"
+    },
+    {
+      "nazvanie": "Павловский",
+      "subekt_rf": "Пермский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "—"
+    },
+    {
+      "nazvanie": "Полазна",
+      "subekt_rf": "Пермский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1624"
+    },
+    {
+      "nazvanie": "Пермь",
+      "subekt_rf": "Пермский край",
+      "prezhnie_nazvaniya": "Молотов",
+      "klassifikatsiya": "Крупнейшие города",
+      "god_osnovaniya": "1723"
+    },
+    {
+      "nazvanie": "Соликамск",
+      "subekt_rf": "Пермский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1430"
+    },
+    {
+      "nazvanie": "Суксун",
+      "subekt_rf": "Пермский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1651"
+    },
+    {
+      "nazvanie": "Усолье",
+      "subekt_rf": "Пермский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1606"
+    },
+    {
+      "nazvanie": "Чердынь",
+      "subekt_rf": "Пермский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1451"
+    },
+    {
+      "nazvanie": "Чёрмоз",
+      "subekt_rf": "Пермский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1701"
+    },
+    {
+      "nazvanie": "Кудымкар",
+      "subekt_rf": "Пермский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1579"
+    },
+    {
+      "nazvanie": "Пожва",
+      "subekt_rf": "Пермский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "—"
+    },
+    {
+      "nazvanie": "Владивосток",
+      "subekt_rf": "Приморский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1860"
+    },
+    {
+      "nazvanie": "Уссурийск",
+      "subekt_rf": "Приморский край",
+      "prezhnie_nazvaniya": "Никольск, Никольск-Уссурийский, Ворошилов",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1866"
+    },
+    {
+      "nazvanie": "Будённовск",
+      "subekt_rf": "Ставропольский край",
+      "prezhnie_nazvaniya": "Святой Крест, Прикумск",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1799"
+    },
+    {
+      "nazvanie": "Георгиевск",
+      "subekt_rf": "Ставропольский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1777"
+    },
+    {
+      "nazvanie": "Железноводск",
+      "subekt_rf": "Ставропольский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1842"
+    },
+    {
+      "nazvanie": "Кисловодск",
+      "subekt_rf": "Ставропольский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1803"
+    },
+    {
+      "nazvanie": "Пятигорск",
+      "subekt_rf": "Ставропольский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1780"
+    },
+    {
+      "nazvanie": "Ставрополь",
+      "subekt_rf": "Ставропольский край",
+      "prezhnie_nazvaniya": "Ставрополь-Кавказский, Ворошиловск",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1777"
+    },
+    {
+      "nazvanie": "Комсомольск-на-Амуре",
+      "subekt_rf": "Хабаровский край",
+      "prezhnie_nazvaniya": "село Пермское",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1932"
+    },
+    {
+      "nazvanie": "Николаевск-на-Амуре",
+      "subekt_rf": "Хабаровский край",
+      "prezhnie_nazvaniya": "Николаевск",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1850"
+    },
+    {
+      "nazvanie": "Охотск",
+      "subekt_rf": "Хабаровский край",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1647"
+    },
+    {
+      "nazvanie": "Хабаровск",
+      "subekt_rf": "Хабаровский край",
+      "prezhnie_nazvaniya": "Хабаровка",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1858"
+    },
+    {
+      "nazvanie": "Благовещенск",
+      "subekt_rf": "Амурская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1856"
+    },
+    {
+      "nazvanie": "Архангельск",
+      "subekt_rf": "Архангельская область",
+      "prezhnie_nazvaniya": "Новохолмогоры",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1584"
+    },
+    {
+      "nazvanie": "Каргополь",
+      "subekt_rf": "Архангельская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1447"
+    },
+    {
+      "nazvanie": "Мезень",
+      "subekt_rf": "Архангельская область",
+      "prezhnie_nazvaniya": "Окладниковая Слобода",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XVI век"
+    },
+    {
+      "nazvanie": "Онега",
+      "subekt_rf": "Архангельская область",
+      "prezhnie_nazvaniya": "Погост на море (?), Усть-Онега, Устьянская волость, Устье Онежское, Онег",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1137"
+    },
+    {
+      "nazvanie": "Сольвычегодск",
+      "subekt_rf": "Архангельская область",
+      "prezhnie_nazvaniya": "Усолье, Усольск, Соль-Вычегодская",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1492"
+    },
+    {
+      "nazvanie": "Шенкурск",
+      "subekt_rf": "Архангельская область",
+      "prezhnie_nazvaniya": "Вага",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1229"
+    },
+    {
+      "nazvanie": "Астрахань",
+      "subekt_rf": "Астраханская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1558"
+    },
+    {
+      "nazvanie": "Алексеевка",
+      "subekt_rf": "Белгородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1685"
+    },
+    {
+      "nazvanie": "Белгород",
+      "subekt_rf": "Белгородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1593"
+    },
+    {
+      "nazvanie": "Бирюч",
+      "subekt_rf": "Белгородская область",
+      "prezhnie_nazvaniya": "Будённый, Красногвардейское",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1705"
+    },
+    {
+      "nazvanie": "Борисовка",
+      "subekt_rf": "Белгородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1695"
+    },
+    {
+      "nazvanie": "Валуйки",
+      "subekt_rf": "Белгородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1593"
+    },
+    {
+      "nazvanie": "Грайворон",
+      "subekt_rf": "Белгородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1678"
+    },
+    {
+      "nazvanie": "Ивня",
+      "subekt_rf": "Белгородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1762"
+    },
+    {
+      "nazvanie": "Короча",
+      "subekt_rf": "Белгородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1638"
+    },
+    {
+      "nazvanie": "Новый Оскол",
+      "subekt_rf": "Белгородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1637"
+    },
+    {
+      "nazvanie": "Ровеньки",
+      "subekt_rf": "Белгородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "XVII век"
+    },
+    {
+      "nazvanie": "Старый Оскол",
+      "subekt_rf": "Белгородская область",
+      "prezhnie_nazvaniya": "Оскол",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1593"
+    },
+    {
+      "nazvanie": "Чернянка",
+      "subekt_rf": "Белгородская область",
+      "prezhnie_nazvaniya": "Ново-Ивановка",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1656"
+    },
+    {
+      "nazvanie": "Брянск",
+      "subekt_rf": "Брянская область",
+      "prezhnie_nazvaniya": "Дебрянск",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "985"
+    },
+    {
+      "nazvanie": "Дятьково",
+      "subekt_rf": "Брянская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1626"
+    },
+    {
+      "nazvanie": "Карачев",
+      "subekt_rf": "Брянская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1146"
+    },
+    {
+      "nazvanie": "Клинцы",
+      "subekt_rf": "Брянская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1707"
+    },
+    {
+      "nazvanie": "Мглин",
+      "subekt_rf": "Брянская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1389"
+    },
+    {
+      "nazvanie": "Новозыбков",
+      "subekt_rf": "Брянская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1701"
+    },
+    {
+      "nazvanie": "Почеп",
+      "subekt_rf": "Брянская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1447"
+    },
+    {
+      "nazvanie": "Севск",
+      "subekt_rf": "Брянская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1146"
+    },
+    {
+      "nazvanie": "Стародуб",
+      "subekt_rf": "Брянская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1080"
+    },
+    {
+      "nazvanie": "Трубчевск",
+      "subekt_rf": "Брянская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "975"
+    },
+    {
+      "nazvanie": "Александров",
+      "subekt_rf": "Владимирская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "сер. XIV века"
+    },
+    {
+      "nazvanie": "Боголюбово",
+      "subekt_rf": "Владимирская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1158"
+    },
+    {
+      "nazvanie": "Владимир",
+      "subekt_rf": "Владимирская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1108"
+    },
+    {
+      "nazvanie": "Вязники",
+      "subekt_rf": "Владимирская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1585"
+    },
+    {
+      "nazvanie": "Гороховец",
+      "subekt_rf": "Владимирская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1239"
+    },
+    {
+      "nazvanie": "Гусь-Хрустальный",
+      "subekt_rf": "Владимирская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1756"
+    },
+    {
+      "nazvanie": "Киржач",
+      "subekt_rf": "Владимирская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XIV век"
+    },
+    {
+      "nazvanie": "Ковров",
+      "subekt_rf": "Владимирская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "XII век"
+    },
+    {
+      "nazvanie": "Меленки",
+      "subekt_rf": "Владимирская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "нач. XVIII века"
+    },
+    {
+      "nazvanie": "Мстёра",
+      "subekt_rf": "Владимирская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1628"
+    },
+    {
+      "nazvanie": "Муром",
+      "subekt_rf": "Владимирская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "862"
+    },
+    {
+      "nazvanie": "Покров",
+      "subekt_rf": "Владимирская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XVII век"
+    },
+    {
+      "nazvanie": "Ставрово",
+      "subekt_rf": "Владимирская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1515"
+    },
+    {
+      "nazvanie": "Судогда",
+      "subekt_rf": "Владимирская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1529"
+    },
+    {
+      "nazvanie": "Суздаль",
+      "subekt_rf": "Владимирская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1024"
+    },
+    {
+      "nazvanie": "Юрьев-Польский",
+      "subekt_rf": "Владимирская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1152"
+    },
+    {
+      "nazvanie": "Волгоград",
+      "subekt_rf": "Волгоградская область",
+      "prezhnie_nazvaniya": "Царицын, Сталинград",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1589"
+    },
+    {
+      "nazvanie": "Дубовка",
+      "subekt_rf": "Волгоградская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1732"
+    },
+    {
+      "nazvanie": "Камышин",
+      "subekt_rf": "Волгоградская область",
+      "prezhnie_nazvaniya": "Дмитриевск",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1668"
+    },
+    {
+      "nazvanie": "Ленинск",
+      "subekt_rf": "Волгоградская область",
+      "prezhnie_nazvaniya": "Пришиб",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1802"
+    },
+    {
+      "nazvanie": "Рудня",
+      "subekt_rf": "Волгоградская область",
+      "prezhnie_nazvaniya": "Слобода Успенская",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1699"
+    },
+    {
+      "nazvanie": "Серафимович",
+      "subekt_rf": "Волгоградская область",
+      "prezhnie_nazvaniya": "Усть-Медведицкая",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1589"
+    },
+    {
+      "nazvanie": "Урюпинск",
+      "subekt_rf": "Волгоградская область",
+      "prezhnie_nazvaniya": "Урюпинская",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1618"
+    },
+    {
+      "nazvanie": "Белозерск",
+      "subekt_rf": "Вологодская область",
+      "prezhnie_nazvaniya": "Белоозеро",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "862"
+    },
+    {
+      "nazvanie": "Великий Устюг",
+      "subekt_rf": "Вологодская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1147"
+    },
+    {
+      "nazvanie": "Вологда",
+      "subekt_rf": "Вологодская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1147"
+    },
+    {
+      "nazvanie": "Вытегра",
+      "subekt_rf": "Вологодская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1710"
+    },
+    {
+      "nazvanie": "Грязовец",
+      "subekt_rf": "Вологодская область",
+      "prezhnie_nazvaniya": "Грязовитский, Грязлевицы, Грязливицы, Грязовицы, Грязница, Грязцы",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1538"
+    },
+    {
+      "nazvanie": "Кириллов",
+      "subekt_rf": "Вологодская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1397"
+    },
+    {
+      "nazvanie": "Никольск",
+      "subekt_rf": "Вологодская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1780"
+    },
+    {
+      "nazvanie": "Тотьма",
+      "subekt_rf": "Вологодская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1137"
+    },
+    {
+      "nazvanie": "Устюжна",
+      "subekt_rf": "Вологодская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1252"
+    },
+    {
+      "nazvanie": "Череповец",
+      "subekt_rf": "Вологодская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1777"
+    },
+    {
+      "nazvanie": "Бобров",
+      "subekt_rf": "Воронежская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "около 1697"
+    },
+    {
+      "nazvanie": "Богучар",
+      "subekt_rf": "Воронежская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1704"
+    },
+    {
+      "nazvanie": "Борисоглебск",
+      "subekt_rf": "Воронежская область",
+      "prezhnie_nazvaniya": "Павловск",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1698"
+    },
+    {
+      "nazvanie": "Воронеж",
+      "subekt_rf": "Воронежская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1585"
+    },
+    {
+      "nazvanie": "Новохопёрск",
+      "subekt_rf": "Воронежская область",
+      "prezhnie_nazvaniya": "Пристанской",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1711"
+    },
+    {
+      "nazvanie": "Острогожск",
+      "subekt_rf": "Воронежская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1652"
+    },
+    {
+      "nazvanie": "Павловск",
+      "subekt_rf": "Воронежская область",
+      "prezhnie_nazvaniya": "Осеред",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1709"
+    },
+    {
+      "nazvanie": "Вичуга",
+      "subekt_rf": "Ивановская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1925"
+    },
+    {
+      "nazvanie": "Гаврилов Посад",
+      "subekt_rf": "Ивановская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1434"
+    },
+    {
+      "nazvanie": "Иваново",
+      "subekt_rf": "Ивановская область",
+      "prezhnie_nazvaniya": "Иваново-Вознесенск",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1871"
+    },
+    {
+      "nazvanie": "Кинешма",
+      "subekt_rf": "Ивановская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1429"
+    },
+    {
+      "nazvanie": "Кохма",
+      "subekt_rf": "Ивановская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1619"
+    },
+    {
+      "nazvanie": "Лежнево",
+      "subekt_rf": "Ивановская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1239"
+    },
+    {
+      "nazvanie": "Лух",
+      "subekt_rf": "Ивановская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1404"
+    },
+    {
+      "nazvanie": "Палех",
+      "subekt_rf": "Ивановская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "XIII век"
+    },
+    {
+      "nazvanie": "Писцово",
+      "subekt_rf": "Ивановская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1568"
+    },
+    {
+      "nazvanie": "Плёс",
+      "subekt_rf": "Ивановская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XII век"
+    },
+    {
+      "nazvanie": "Пучеж",
+      "subekt_rf": "Ивановская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1594"
+    },
+    {
+      "nazvanie": "Тейково",
+      "subekt_rf": "Ивановская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XVII век"
+    },
+    {
+      "nazvanie": "Фурманов",
+      "subekt_rf": "Ивановская область",
+      "prezhnie_nazvaniya": "Середа",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1918"
+    },
+    {
+      "nazvanie": "Холуй",
+      "subekt_rf": "Ивановская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "XVI век"
+    },
+    {
+      "nazvanie": "Шуя",
+      "subekt_rf": "Ивановская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1393"
+    },
+    {
+      "nazvanie": "Юрьевец",
+      "subekt_rf": "Ивановская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1225"
+    },
+    {
+      "nazvanie": "Иркутск",
+      "subekt_rf": "Иркутская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1661"
+    },
+    {
+      "nazvanie": "Киренск",
+      "subekt_rf": "Иркутская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1630"
+    },
+    {
+      "nazvanie": "Нижнеудинск",
+      "subekt_rf": "Иркутская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1648"
+    },
+    {
+      "nazvanie": "Усолье-Сибирское",
+      "subekt_rf": "Иркутская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1669"
+    },
+    {
+      "nazvanie": "Багратионовск",
+      "subekt_rf": "Калининградская область",
+      "prezhnie_nazvaniya": "Прейсиш-Эйлау",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1336"
+    },
+    {
+      "nazvanie": "Балтийск",
+      "subekt_rf": "Калининградская область",
+      "prezhnie_nazvaniya": "Пиллау",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1626"
+    },
+    {
+      "nazvanie": "Гусев",
+      "subekt_rf": "Калининградская область",
+      "prezhnie_nazvaniya": "Гумбиннен",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1724"
+    },
+    {
+      "nazvanie": "Зеленоградск",
+      "subekt_rf": "Калининградская область",
+      "prezhnie_nazvaniya": "Кранц",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1252"
+    },
+    {
+      "nazvanie": "Калининград",
+      "subekt_rf": "Калининградская область",
+      "prezhnie_nazvaniya": "Твангсте, Кёнигсберг, Королевец",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1255"
+    },
+    {
+      "nazvanie": "Правдинск",
+      "subekt_rf": "Калининградская область",
+      "prezhnie_nazvaniya": "Фридланд",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1312"
+    },
+    {
+      "nazvanie": "Светлогорск",
+      "subekt_rf": "Калининградская область",
+      "prezhnie_nazvaniya": "Раушен",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1258"
+    },
+    {
+      "nazvanie": "Советск",
+      "subekt_rf": "Калининградская область",
+      "prezhnie_nazvaniya": "Тильзит",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1288"
+    },
+    {
+      "nazvanie": "Черняховск",
+      "subekt_rf": "Калининградская область",
+      "prezhnie_nazvaniya": "Инстербург",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1336"
+    },
+    {
+      "nazvanie": "Боровск",
+      "subekt_rf": "Калужская область",
+      "prezhnie_nazvaniya": "Боровеск",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1358"
+    },
+    {
+      "nazvanie": "Калуга",
+      "subekt_rf": "Калужская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1371"
+    },
+    {
+      "nazvanie": "Козельск",
+      "subekt_rf": "Калужская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1146"
+    },
+    {
+      "nazvanie": "Малоярославец",
+      "subekt_rf": "Калужская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XIV век"
+    },
+    {
+      "nazvanie": "Медынь",
+      "subekt_rf": "Калужская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1386"
+    },
+    {
+      "nazvanie": "Мещовск",
+      "subekt_rf": "Калужская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1238"
+    },
+    {
+      "nazvanie": "Мосальск",
+      "subekt_rf": "Калужская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1231"
+    },
+    {
+      "nazvanie": "Таруса",
+      "subekt_rf": "Калужская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1246"
+    },
+    {
+      "nazvanie": "Юхнов",
+      "subekt_rf": "Калужская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1410"
+    },
+    {
+      "nazvanie": "Перемышль",
+      "subekt_rf": "Калужская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1328"
+    },
+    {
+      "nazvanie": "Кемерово",
+      "subekt_rf": "Кемеровская область — Кузбасс",
+      "prezhnie_nazvaniya": "Щегловск",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1701"
+    },
+    {
+      "nazvanie": "Мариинск",
+      "subekt_rf": "Кемеровская область — Кузбасс",
+      "prezhnie_nazvaniya": "Кийское",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1698"
+    },
+    {
+      "nazvanie": "Новокузнецк",
+      "subekt_rf": "Кемеровская область — Кузбасс",
+      "prezhnie_nazvaniya": "Кузнецк, Сад-город, Сталинск-Кузнецк, Сталинск",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1618"
+    },
+    {
+      "nazvanie": "Киров",
+      "subekt_rf": "Кировская область",
+      "prezhnie_nazvaniya": "Хлынов, Вятка",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1181"
+    },
+    {
+      "nazvanie": "Белая Холуница",
+      "subekt_rf": "Кировская область",
+      "prezhnie_nazvaniya": "",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1764"
+    },
+    {
+      "nazvanie": "Котельнич",
+      "subekt_rf": "Кировская область",
+      "prezhnie_nazvaniya": "Кокшаров",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1181"
+    },
+    {
+      "nazvanie": "Лальск",
+      "subekt_rf": "Кировская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1570"
+    },
+    {
+      "nazvanie": "Малмыж",
+      "subekt_rf": "Кировская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XV век"
+    },
+    {
+      "nazvanie": "Нолинск",
+      "subekt_rf": "Кировская область",
+      "prezhnie_nazvaniya": "Молотовск",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1668"
+    },
+    {
+      "nazvanie": "Орлов",
+      "subekt_rf": "Кировская область",
+      "prezhnie_nazvaniya": "Халтурин",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1181"
+    },
+    {
+      "nazvanie": "Слободской",
+      "subekt_rf": "Кировская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XIII век"
+    },
+    {
+      "nazvanie": "Советск",
+      "subekt_rf": "Кировская область",
+      "prezhnie_nazvaniya": "Кукарка",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1594"
+    },
+    {
+      "nazvanie": "Уржум",
+      "subekt_rf": "Кировская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1584"
+    },
+    {
+      "nazvanie": "Яранск",
+      "subekt_rf": "Кировская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1584"
+    },
+    {
+      "nazvanie": "Буй",
+      "subekt_rf": "Костромская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1536"
+    },
+    {
+      "nazvanie": "Галич",
+      "subekt_rf": "Костромская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1159"
+    },
+    {
+      "nazvanie": "Кологрив",
+      "subekt_rf": "Костромская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XVII век"
+    },
+    {
+      "nazvanie": "Кострома",
+      "subekt_rf": "Костромская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1152"
+    },
+    {
+      "nazvanie": "Красное-на-Волге",
+      "subekt_rf": "Костромская область",
+      "prezhnie_nazvaniya": "Красное",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1569"
+    },
+    {
+      "nazvanie": "Макарьев",
+      "subekt_rf": "Костромская область",
+      "prezhnie_nazvaniya": "Макарьев-на-Унже",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1439"
+    },
+    {
+      "nazvanie": "Нерехта",
+      "subekt_rf": "Костромская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1214"
+    },
+    {
+      "nazvanie": "Солигалич",
+      "subekt_rf": "Костромская область",
+      "prezhnie_nazvaniya": "Соль-Галицкая",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1335"
+    },
+    {
+      "nazvanie": "Судиславль",
+      "subekt_rf": "Костромская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1360"
+    },
+    {
+      "nazvanie": "Сусанино",
+      "subekt_rf": "Костромская область",
+      "prezhnie_nazvaniya": "Молвитино",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "XVI век"
+    },
+    {
+      "nazvanie": "Чухлома",
+      "subekt_rf": "Костромская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1381"
+    },
+    {
+      "nazvanie": "Далматово",
+      "subekt_rf": "Курганская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1651"
+    },
+    {
+      "nazvanie": "Курган",
+      "subekt_rf": "Курганская область",
+      "prezhnie_nazvaniya": "Царёво Городище, Царёв Курган",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1662"
+    },
+    {
+      "nazvanie": "Шадринск",
+      "subekt_rf": "Курганская область",
+      "prezhnie_nazvaniya": "Шадрина заимка, Шадринская слобода, Малоархангельск",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1662"
+    },
+    {
+      "nazvanie": "Дмитриев",
+      "subekt_rf": "Курская область",
+      "prezhnie_nazvaniya": "Дмитриев, Дмитриев-на-Свапе",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XVII век"
+    },
+    {
+      "nazvanie": "Курск",
+      "subekt_rf": "Курская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1032"
+    },
+    {
+      "nazvanie": "Льгов",
+      "subekt_rf": "Курская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1152"
+    },
+    {
+      "nazvanie": "Обоянь",
+      "subekt_rf": "Курская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1639"
+    },
+    {
+      "nazvanie": "Рыльск",
+      "subekt_rf": "Курская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1152"
+    },
+    {
+      "nazvanie": "Суджа",
+      "subekt_rf": "Курская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XVII век"
+    },
+    {
+      "nazvanie": "Фатеж",
+      "subekt_rf": "Курская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XVII век"
+    },
+    {
+      "nazvanie": "Щигры",
+      "subekt_rf": "Курская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XVII век"
+    },
+    {
+      "nazvanie": "Выборг",
+      "subekt_rf": "Ленинградская область",
+      "prezhnie_nazvaniya": "Виипури",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1293"
+    },
+    {
+      "nazvanie": "Гатчина",
+      "subekt_rf": "Ленинградская область",
+      "prezhnie_nazvaniya": "Троцк, Красногвардейск",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1499"
+    },
+    {
+      "nazvanie": "Ивангород",
+      "subekt_rf": "Ленинградская область",
+      "prezhnie_nazvaniya": "Яанилинн",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1492"
+    },
+    {
+      "nazvanie": "Кингисепп",
+      "subekt_rf": "Ленинградская область",
+      "prezhnie_nazvaniya": "Ям, Ямбург",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1384"
+    },
+    {
+      "nazvanie": "Лодейное Поле",
+      "subekt_rf": "Ленинградская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1702"
+    },
+    {
+      "nazvanie": "Луга",
+      "subekt_rf": "Ленинградская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1777"
+    },
+    {
+      "nazvanie": "Новая Ладога",
+      "subekt_rf": "Ленинградская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1704"
+    },
+    {
+      "nazvanie": "Приозерск",
+      "subekt_rf": "Ленинградская область",
+      "prezhnie_nazvaniya": "Корела, Кексгольм, Кякисалми",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1143"
+    },
+    {
+      "nazvanie": "Тихвин",
+      "subekt_rf": "Ленинградская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1383"
+    },
+    {
+      "nazvanie": "Шлиссельбург",
+      "subekt_rf": "Ленинградская область",
+      "prezhnie_nazvaniya": "Орешек, Нотебург, Петрокрепость",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1323"
+    },
+    {
+      "nazvanie": "Елец",
+      "subekt_rf": "Липецкая область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1146"
+    },
+    {
+      "nazvanie": "Задонск",
+      "subekt_rf": "Липецкая область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1615"
+    },
+    {
+      "nazvanie": "Липецк",
+      "subekt_rf": "Липецкая область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1703"
+    },
+    {
+      "nazvanie": "Лебедянь",
+      "subekt_rf": "Липецкая область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1605"
+    },
+    {
+      "nazvanie": "Усмань",
+      "subekt_rf": "Липецкая область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1645"
+    },
+    {
+      "nazvanie": "Чаплыгин",
+      "subekt_rf": "Липецкая область",
+      "prezhnie_nazvaniya": "Раненбург",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1638"
+    },
+    {
+      "nazvanie": "Магадан",
+      "subekt_rf": "Магаданская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1929"
+    },
+    {
+      "nazvanie": "Балашиха",
+      "subekt_rf": "Московская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1830"
+    },
+    {
+      "nazvanie": "Бронницы",
+      "subekt_rf": "Московская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1453"
+    },
+    {
+      "nazvanie": "Верея",
+      "subekt_rf": "Московская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1371"
+    },
+    {
+      "nazvanie": "Волоколамск",
+      "subekt_rf": "Московская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1135"
+    },
+    {
+      "nazvanie": "Дедовск",
+      "subekt_rf": "Московская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1911"
+    },
+    {
+      "nazvanie": "Дмитров",
+      "subekt_rf": "Московская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1154"
+    },
+    {
+      "nazvanie": "Егорьевск",
+      "subekt_rf": "Московская область",
+      "prezhnie_nazvaniya": "Высокое, Егорий-Высокий, Егорьев",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1462"
+    },
+    {
+      "nazvanie": "Зарайск",
+      "subekt_rf": "Московская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XII век"
+    },
+    {
+      "nazvanie": "Звенигород",
+      "subekt_rf": "Московская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1152"
+    },
+    {
+      "nazvanie": "Истра",
+      "subekt_rf": "Московская область",
+      "prezhnie_nazvaniya": "Рогожа, Воскресенск",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1341"
+    },
+    {
+      "nazvanie": "Кашира",
+      "subekt_rf": "Московская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1356"
+    },
+    {
+      "nazvanie": "Клин",
+      "subekt_rf": "Московская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1317"
+    },
+    {
+      "nazvanie": "Коломна",
+      "subekt_rf": "Московская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1177"
+    },
+    {
+      "nazvanie": "Можайск",
+      "subekt_rf": "Московская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1231"
+    },
+    {
+      "nazvanie": "Ногинск",
+      "subekt_rf": "Московская область",
+      "prezhnie_nazvaniya": "Рогожа, Старый, Рогожский Ям, Богородск",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1389"
+    },
+    {
+      "nazvanie": "Озёры",
+      "subekt_rf": "Московская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1578"
+    },
+    {
+      "nazvanie": "Орехово-Зуево",
+      "subekt_rf": "Московская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1917"
+    },
+    {
+      "nazvanie": "Павловский Посад",
+      "subekt_rf": "Московская область",
+      "prezhnie_nazvaniya": "Павлово",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1328"
+    },
+    {
+      "nazvanie": "Подольск",
+      "subekt_rf": "Московская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1781"
+    },
+    {
+      "nazvanie": "Руза",
+      "subekt_rf": "Московская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1328"
+    },
+    {
+      "nazvanie": "Сергиев Посад",
+      "subekt_rf": "Московская область",
+      "prezhnie_nazvaniya": "Сергиев, Загорск",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1742"
+    },
+    {
+      "nazvanie": "Серпухов",
+      "subekt_rf": "Московская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1339"
+    },
+    {
+      "nazvanie": "Чехов",
+      "subekt_rf": "Московская область",
+      "prezhnie_nazvaniya": "Лопасня, Чёрное Озеро",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "XVIII век"
+    },
+    {
+      "nazvanie": "Мурманск",
+      "subekt_rf": "Мурманская область",
+      "prezhnie_nazvaniya": "Романов-на-Мурмане",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1916"
+    },
+    {
+      "nazvanie": "Арзамас",
+      "subekt_rf": "Нижегородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1578"
+    },
+    {
+      "nazvanie": "Балахна",
+      "subekt_rf": "Нижегородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1401"
+    },
+    {
+      "nazvanie": "Большое Мурашкино",
+      "subekt_rf": "Нижегородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1377"
+    },
+    {
+      "nazvanie": "Васильсурск",
+      "subekt_rf": "Нижегородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1523"
+    },
+    {
+      "nazvanie": "Ветлуга",
+      "subekt_rf": "Нижегородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1636"
+    },
+    {
+      "nazvanie": "Выкса",
+      "subekt_rf": "Нижегородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1767"
+    },
+    {
+      "nazvanie": "Горбатов",
+      "subekt_rf": "Нижегородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XVI век"
+    },
+    {
+      "nazvanie": "Городец",
+      "subekt_rf": "Нижегородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1152"
+    },
+    {
+      "nazvanie": "Дзержинск",
+      "subekt_rf": "Нижегородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1920"
+    },
+    {
+      "nazvanie": "Лукоянов",
+      "subekt_rf": "Нижегородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XVI век"
+    },
+    {
+      "nazvanie": "Лысково",
+      "subekt_rf": "Нижегородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1410"
+    },
+    {
+      "nazvanie": "Нижний Новгород",
+      "subekt_rf": "Нижегородская область",
+      "prezhnie_nazvaniya": "Горький",
+      "klassifikatsiya": "Крупнейшие города",
+      "god_osnovaniya": "1221"
+    },
+    {
+      "nazvanie": "Павлово",
+      "subekt_rf": "Нижегородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1566"
+    },
+    {
+      "nazvanie": "Семёнов",
+      "subekt_rf": "Нижегородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1644"
+    },
+    {
+      "nazvanie": "Сергач",
+      "subekt_rf": "Нижегородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1649"
+    },
+    {
+      "nazvanie": "Боровичи",
+      "subekt_rf": "Новгородская область",
+      "prezhnie_nazvaniya": "Боровицкий рядок",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "XV век"
+    },
+    {
+      "nazvanie": "Валдай",
+      "subekt_rf": "Новгородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XV век"
+    },
+    {
+      "nazvanie": "Великий Новгород",
+      "subekt_rf": "Новгородская область",
+      "prezhnie_nazvaniya": "Новгород",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "859"
+    },
+    {
+      "nazvanie": "Демянск",
+      "subekt_rf": "Новгородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1406"
+    },
+    {
+      "nazvanie": "Крестцы",
+      "subekt_rf": "Новгородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1393"
+    },
+    {
+      "nazvanie": "Кулотино",
+      "subekt_rf": "Новгородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1495"
+    },
+    {
+      "nazvanie": "Любытино",
+      "subekt_rf": "Новгородская область",
+      "prezhnie_nazvaniya": "Белое",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1495"
+    },
+    {
+      "nazvanie": "Сольцы",
+      "subekt_rf": "Новгородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1390"
+    },
+    {
+      "nazvanie": "Старая Русса",
+      "subekt_rf": "Новгородская область",
+      "prezhnie_nazvaniya": "Руса, Старая Руса",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1167"
+    },
+    {
+      "nazvanie": "Холм",
+      "subekt_rf": "Новгородская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1144"
+    },
+    {
+      "nazvanie": "Колывань",
+      "subekt_rf": "Новосибирская область",
+      "prezhnie_nazvaniya": "Чаусский острог",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1797"
+    },
+    {
+      "nazvanie": "Куйбышев",
+      "subekt_rf": "Новосибирская область",
+      "prezhnie_nazvaniya": "Каинск",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1722"
+    },
+    {
+      "nazvanie": "Новосибирск",
+      "subekt_rf": "Новосибирская область",
+      "prezhnie_nazvaniya": "Новониколаевск",
+      "klassifikatsiya": "Крупнейшие города",
+      "god_osnovaniya": "1893"
+    },
+    {
+      "nazvanie": "Сузун",
+      "subekt_rf": "Новосибирская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1765"
+    },
+    {
+      "nazvanie": "Омск",
+      "subekt_rf": "Омская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Крупнейшие города",
+      "god_osnovaniya": "1716"
+    },
+    {
+      "nazvanie": "Тара",
+      "subekt_rf": "Омская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1594"
+    },
+    {
+      "nazvanie": "Тюкалинск",
+      "subekt_rf": "Омская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1759"
+    },
+    {
+      "nazvanie": "Бугуруслан",
+      "subekt_rf": "Оренбургская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1748"
+    },
+    {
+      "nazvanie": "Бузулук",
+      "subekt_rf": "Оренбургская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1736"
+    },
+    {
+      "nazvanie": "Оренбург",
+      "subekt_rf": "Оренбургская область",
+      "prezhnie_nazvaniya": "Чкалов",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1743"
+    },
+    {
+      "nazvanie": "Орск",
+      "subekt_rf": "Оренбургская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1735"
+    },
+    {
+      "nazvanie": "Болхов",
+      "subekt_rf": "Орловская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XIII век"
+    },
+    {
+      "nazvanie": "Дмитровск",
+      "subekt_rf": "Орловская область",
+      "prezhnie_nazvaniya": "Дмитровск- Орловский",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1711"
+    },
+    {
+      "nazvanie": "Ливны",
+      "subekt_rf": "Орловская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1177"
+    },
+    {
+      "nazvanie": "Малоархангельск",
+      "subekt_rf": "Орловская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XVII век"
+    },
+    {
+      "nazvanie": "Мценск",
+      "subekt_rf": "Орловская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1146"
+    },
+    {
+      "nazvanie": "Новосиль",
+      "subekt_rf": "Орловская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1155"
+    },
+    {
+      "nazvanie": "Орёл",
+      "subekt_rf": "Орловская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1566"
+    },
+    {
+      "nazvanie": "Белинский",
+      "subekt_rf": "Пензенская область",
+      "prezhnie_nazvaniya": "Чембар",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1713"
+    },
+    {
+      "nazvanie": "Городище",
+      "subekt_rf": "Пензенская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1681"
+    },
+    {
+      "nazvanie": "Кузнецк",
+      "subekt_rf": "Пензенская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1699"
+    },
+    {
+      "nazvanie": "Мокшан",
+      "subekt_rf": "Пензенская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1566"
+    },
+    {
+      "nazvanie": "Нижний Ломов",
+      "subekt_rf": "Пензенская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1636"
+    },
+    {
+      "nazvanie": "Пенза",
+      "subekt_rf": "Пензенская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1663"
+    },
+    {
+      "nazvanie": "Сердобск",
+      "subekt_rf": "Пензенская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1699"
+    },
+    {
+      "nazvanie": "Спасск",
+      "subekt_rf": "Пензенская область",
+      "prezhnie_nazvaniya": "Беднодемьяновск",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XVII век"
+    },
+    {
+      "nazvanie": "Гдов",
+      "subekt_rf": "Псковская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XIV век"
+    },
+    {
+      "nazvanie": "Великие Луки",
+      "subekt_rf": "Псковская область",
+      "prezhnie_nazvaniya": "Луки",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1166"
+    },
+    {
+      "nazvanie": "Невель",
+      "subekt_rf": "Псковская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1503"
+    },
+    {
+      "nazvanie": "Новоржев",
+      "subekt_rf": "Псковская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1777"
+    },
+    {
+      "nazvanie": "Новосокольники",
+      "subekt_rf": "Псковская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1901"
+    },
+    {
+      "nazvanie": "Опочка",
+      "subekt_rf": "Псковская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1414"
+    },
+    {
+      "nazvanie": "Остров",
+      "subekt_rf": "Псковская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1342"
+    },
+    {
+      "nazvanie": "Печоры",
+      "subekt_rf": "Псковская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1473"
+    },
+    {
+      "nazvanie": "Порхов",
+      "subekt_rf": "Псковская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1239"
+    },
+    {
+      "nazvanie": "Псков",
+      "subekt_rf": "Псковская область",
+      "prezhnie_nazvaniya": "Плесков",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "903"
+    },
+    {
+      "nazvanie": "Пушкинские Горы",
+      "subekt_rf": "Псковская область",
+      "prezhnie_nazvaniya": "Святые Горы",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "XVI век"
+    },
+    {
+      "nazvanie": "Себеж",
+      "subekt_rf": "Псковская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1414"
+    },
+    {
+      "nazvanie": "Азов",
+      "subekt_rf": "Ростовская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1067"
+    },
+    {
+      "nazvanie": "Гигант",
+      "subekt_rf": "Ростовская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1928"
+    },
+    {
+      "nazvanie": "Новочеркасск",
+      "subekt_rf": "Ростовская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1805"
+    },
+    {
+      "nazvanie": "Ростов-на-Дону",
+      "subekt_rf": "Ростовская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Крупнейшие города",
+      "god_osnovaniya": "1749"
+    },
+    {
+      "nazvanie": "Таганрог",
+      "subekt_rf": "Ростовская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1698"
+    },
+    {
+      "nazvanie": "Шахты",
+      "subekt_rf": "Ростовская область",
+      "prezhnie_nazvaniya": "Александровск- Грушевский",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1805"
+    },
+    {
+      "nazvanie": "Касимов",
+      "subekt_rf": "Рязанская область",
+      "prezhnie_nazvaniya": "Городец Мещёрский, Новый Низовой Город",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1152"
+    },
+    {
+      "nazvanie": "Михайлов",
+      "subekt_rf": "Рязанская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1137"
+    },
+    {
+      "nazvanie": "Ряжск",
+      "subekt_rf": "Рязанская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1502"
+    },
+    {
+      "nazvanie": "Рязань",
+      "subekt_rf": "Рязанская область",
+      "prezhnie_nazvaniya": "Переяславль-Рязанский",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1095"
+    },
+    {
+      "nazvanie": "Скопин",
+      "subekt_rf": "Рязанская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XII век"
+    },
+    {
+      "nazvanie": "Спас-Клепики",
+      "subekt_rf": "Рязанская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XVI век"
+    },
+    {
+      "nazvanie": "Спасск-Рязанский",
+      "subekt_rf": "Рязанская область",
+      "prezhnie_nazvaniya": "Спасск",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1629"
+    },
+    {
+      "nazvanie": "Шацк",
+      "subekt_rf": "Рязанская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1553"
+    },
+    {
+      "nazvanie": "Самара",
+      "subekt_rf": "Самарская область",
+      "prezhnie_nazvaniya": "Куйбышев",
+      "klassifikatsiya": "Крупнейшие города",
+      "god_osnovaniya": "1586"
+    },
+    {
+      "nazvanie": "Сызрань",
+      "subekt_rf": "Самарская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1683"
+    },
+    {
+      "nazvanie": "Тольятти",
+      "subekt_rf": "Самарская область",
+      "prezhnie_nazvaniya": "Ставрополь-на-Волге",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1737"
+    },
+    {
+      "nazvanie": "Аткарск",
+      "subekt_rf": "Саратовская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XVIII век"
+    },
+    {
+      "nazvanie": "Балаково",
+      "subekt_rf": "Саратовская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1762"
+    },
+    {
+      "nazvanie": "Балашов",
+      "subekt_rf": "Саратовская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "XVII век"
+    },
+    {
+      "nazvanie": "Вольск",
+      "subekt_rf": "Саратовская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1690"
+    },
+    {
+      "nazvanie": "Новоузенск",
+      "subekt_rf": "Саратовская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1760"
+    },
+    {
+      "nazvanie": "Петровск",
+      "subekt_rf": "Саратовская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1698"
+    },
+    {
+      "nazvanie": "Пугачев",
+      "subekt_rf": "Саратовская область",
+      "prezhnie_nazvaniya": "Николаевск",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1764"
+    },
+    {
+      "nazvanie": "Саратов",
+      "subekt_rf": "Саратовская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1590"
+    },
+    {
+      "nazvanie": "Хвалынск",
+      "subekt_rf": "Саратовская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1556"
+    },
+    {
+      "nazvanie": "Энгельс",
+      "subekt_rf": "Саратовская область",
+      "prezhnie_nazvaniya": "Покровск",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1747"
+    },
+    {
+      "nazvanie": "Алапаевск",
+      "subekt_rf": "Свердловская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1639"
+    },
+    {
+      "nazvanie": "Верхотурье",
+      "subekt_rf": "Свердловская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1597"
+    },
+    {
+      "nazvanie": "Екатеринбург",
+      "subekt_rf": "Свердловская область",
+      "prezhnie_nazvaniya": "Свердловск",
+      "klassifikatsiya": "Крупнейшие города",
+      "god_osnovaniya": "1723"
+    },
+    {
+      "nazvanie": "Ирбит",
+      "subekt_rf": "Свердловская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1631"
+    },
+    {
+      "nazvanie": "Каменск-Уральский",
+      "subekt_rf": "Свердловская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1701"
+    },
+    {
+      "nazvanie": "Камышлов",
+      "subekt_rf": "Свердловская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1668"
+    },
+    {
+      "nazvanie": "Красноуфимск",
+      "subekt_rf": "Свердловская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1736"
+    },
+    {
+      "nazvanie": "Нижний Тагил",
+      "subekt_rf": "Свердловская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1722"
+    },
+    {
+      "nazvanie": "Талица",
+      "subekt_rf": "Свердловская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1732"
+    },
+    {
+      "nazvanie": "Туринск",
+      "subekt_rf": "Свердловская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1600"
+    },
+    {
+      "nazvanie": "Велиж",
+      "subekt_rf": "Смоленская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1536"
+    },
+    {
+      "nazvanie": "Вязьма",
+      "subekt_rf": "Смоленская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1239"
+    },
+    {
+      "nazvanie": "Гагарин",
+      "subekt_rf": "Смоленская область",
+      "prezhnie_nazvaniya": "Гжатск",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1718"
+    },
+    {
+      "nazvanie": "Демидов",
+      "subekt_rf": "Смоленская область",
+      "prezhnie_nazvaniya": "Поречье",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1499"
+    },
+    {
+      "nazvanie": "Дорогобуж",
+      "subekt_rf": "Смоленская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1150"
+    },
+    {
+      "nazvanie": "Духовщина",
+      "subekt_rf": "Смоленская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XVI век"
+    },
+    {
+      "nazvanie": "Ельня",
+      "subekt_rf": "Смоленская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1150"
+    },
+    {
+      "nazvanie": "Красный",
+      "subekt_rf": "Смоленская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1150"
+    },
+    {
+      "nazvanie": "Рославль",
+      "subekt_rf": "Смоленская область",
+      "prezhnie_nazvaniya": "Ростиславль",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1137"
+    },
+    {
+      "nazvanie": "Смоленск",
+      "subekt_rf": "Смоленская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "863"
+    },
+    {
+      "nazvanie": "Сычёвка",
+      "subekt_rf": "Смоленская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1488"
+    },
+    {
+      "nazvanie": "Кирсанов",
+      "subekt_rf": "Тамбовская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1702"
+    },
+    {
+      "nazvanie": "Мичуринск",
+      "subekt_rf": "Тамбовская область",
+      "prezhnie_nazvaniya": "Козлов",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1635"
+    },
+    {
+      "nazvanie": "Моршанск",
+      "subekt_rf": "Тамбовская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1623"
+    },
+    {
+      "nazvanie": "Тамбов",
+      "subekt_rf": "Тамбовская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1636"
+    },
+    {
+      "nazvanie": "Бежецк",
+      "subekt_rf": "Тверская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1137"
+    },
+    {
+      "nazvanie": "Белый",
+      "subekt_rf": "Тверская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1359"
+    },
+    {
+      "nazvanie": "Весьегонск",
+      "subekt_rf": "Тверская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1524"
+    },
+    {
+      "nazvanie": "Вышний Волочёк",
+      "subekt_rf": "Тверская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1471"
+    },
+    {
+      "nazvanie": "Зубцов",
+      "subekt_rf": "Тверская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1216"
+    },
+    {
+      "nazvanie": "Калязин",
+      "subekt_rf": "Тверская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1434"
+    },
+    {
+      "nazvanie": "Кашин",
+      "subekt_rf": "Тверская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1238"
+    },
+    {
+      "nazvanie": "Красный Холм",
+      "subekt_rf": "Тверская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1518"
+    },
+    {
+      "nazvanie": "Осташков",
+      "subekt_rf": "Тверская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XIV век"
+    },
+    {
+      "nazvanie": "Ржев",
+      "subekt_rf": "Тверская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1216"
+    },
+    {
+      "nazvanie": "Старица",
+      "subekt_rf": "Тверская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1297"
+    },
+    {
+      "nazvanie": "Тверь",
+      "subekt_rf": "Тверская область",
+      "prezhnie_nazvaniya": "Калинин",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1135"
+    },
+    {
+      "nazvanie": "Торжок",
+      "subekt_rf": "Тверская область",
+      "prezhnie_nazvaniya": "Новый Торг",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1139"
+    },
+    {
+      "nazvanie": "Торопец",
+      "subekt_rf": "Тверская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1074"
+    },
+    {
+      "nazvanie": "Томск",
+      "subekt_rf": "Томская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1604"
+    },
+    {
+      "nazvanie": "Алексин",
+      "subekt_rf": "Тульская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1236"
+    },
+    {
+      "nazvanie": "Белёв",
+      "subekt_rf": "Тульская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1147"
+    },
+    {
+      "nazvanie": "Богородицк",
+      "subekt_rf": "Тульская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1663"
+    },
+    {
+      "nazvanie": "Венёв",
+      "subekt_rf": "Тульская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1371"
+    },
+    {
+      "nazvanie": "Епифань",
+      "subekt_rf": "Тульская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1566"
+    },
+    {
+      "nazvanie": "Одоев",
+      "subekt_rf": "Тульская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1380"
+    },
+    {
+      "nazvanie": "Плавск",
+      "subekt_rf": "Тульская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1540"
+    },
+    {
+      "nazvanie": "Тула",
+      "subekt_rf": "Тульская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1146"
+    },
+    {
+      "nazvanie": "Чекалин",
+      "subekt_rf": "Тульская область",
+      "prezhnie_nazvaniya": "Лихвин",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1565"
+    },
+    {
+      "nazvanie": "Ишим",
+      "subekt_rf": "Тюменская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1687"
+    },
+    {
+      "nazvanie": "Тобольск",
+      "subekt_rf": "Тюменская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1587"
+    },
+    {
+      "nazvanie": "Тюмень",
+      "subekt_rf": "Тюменская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1586"
+    },
+    {
+      "nazvanie": "Ялуторовск",
+      "subekt_rf": "Тюменская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1659"
+    },
+    {
+      "nazvanie": "Димитровград",
+      "subekt_rf": "Ульяновская область",
+      "prezhnie_nazvaniya": "Мелекесс",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1698"
+    },
+    {
+      "nazvanie": "Карсун",
+      "subekt_rf": "Ульяновская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1647"
+    },
+    {
+      "nazvanie": "Сенгилей",
+      "subekt_rf": "Ульяновская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1666"
+    },
+    {
+      "nazvanie": "Ульяновск",
+      "subekt_rf": "Ульяновская область",
+      "prezhnie_nazvaniya": "Синбирск, Симбирск",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1648"
+    },
+    {
+      "nazvanie": "Языково",
+      "subekt_rf": "Ульяновская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1931"
+    },
+    {
+      "nazvanie": "Верхнеуральск",
+      "subekt_rf": "Челябинская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1734"
+    },
+    {
+      "nazvanie": "Златоуст",
+      "subekt_rf": "Челябинская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1754"
+    },
+    {
+      "nazvanie": "Касли",
+      "subekt_rf": "Челябинская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1747"
+    },
+    {
+      "nazvanie": "Кыштым",
+      "subekt_rf": "Челябинская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1757"
+    },
+    {
+      "nazvanie": "Магнитогорск",
+      "subekt_rf": "Челябинская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1929"
+    },
+    {
+      "nazvanie": "Миасс",
+      "subekt_rf": "Челябинская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1773"
+    },
+    {
+      "nazvanie": "Миньяр",
+      "subekt_rf": "Челябинская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1771"
+    },
+    {
+      "nazvanie": "Троицк",
+      "subekt_rf": "Челябинская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1743"
+    },
+    {
+      "nazvanie": "Челябинск",
+      "subekt_rf": "Челябинская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Крупнейшие города",
+      "god_osnovaniya": "1736"
+    },
+    {
+      "nazvanie": "Борисоглебский",
+      "subekt_rf": "Ярославская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1363"
+    },
+    {
+      "nazvanie": "Гаврилов-Ям",
+      "subekt_rf": "Ярославская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1545"
+    },
+    {
+      "nazvanie": "Данилов",
+      "subekt_rf": "Ярославская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XIII век"
+    },
+    {
+      "nazvanie": "Любим",
+      "subekt_rf": "Ярославская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1546"
+    },
+    {
+      "nazvanie": "Мышкин",
+      "subekt_rf": "Ярославская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XV век"
+    },
+    {
+      "nazvanie": "Переславль-Залесский",
+      "subekt_rf": "Ярославская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1152"
+    },
+    {
+      "nazvanie": "Пошехонье",
+      "subekt_rf": "Ярославская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "XVII век"
+    },
+    {
+      "nazvanie": "Ростов",
+      "subekt_rf": "Ярославская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "862"
+    },
+    {
+      "nazvanie": "Рыбинск",
+      "subekt_rf": "Ярославская область",
+      "prezhnie_nazvaniya": "Щербаков, Андропов",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1071"
+    },
+    {
+      "nazvanie": "Тутаев",
+      "subekt_rf": "Ярославская область",
+      "prezhnie_nazvaniya": "Романов-Борисоглебск",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1370"
+    },
+    {
+      "nazvanie": "Углич",
+      "subekt_rf": "Ярославская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "937"
+    },
+    {
+      "nazvanie": "Ярославль",
+      "subekt_rf": "Ярославская область",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Большие и крупные города",
+      "god_osnovaniya": "1010"
+    },
+    {
+      "nazvanie": "Москва",
+      "subekt_rf": "Москва",
+      "prezhnie_nazvaniya": "Кучково",
+      "klassifikatsiya": "Крупнейшие города",
+      "god_osnovaniya": "1147"
+    },
+    {
+      "nazvanie": "Колпино",
+      "subekt_rf": "Санкт-Петербург",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1722"
+    },
+    {
+      "nazvanie": "Кронштадт",
+      "subekt_rf": "Санкт-Петербург",
+      "prezhnie_nazvaniya": "—",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1704"
+    },
+    {
+      "nazvanie": "Ломоносов",
+      "subekt_rf": "Санкт-Петербург",
+      "prezhnie_nazvaniya": "Ораниенбаум",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1710"
+    },
+    {
+      "nazvanie": "Павловск",
+      "subekt_rf": "Санкт-Петербург",
+      "prezhnie_nazvaniya": "Слуцк",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1777"
+    },
+    {
+      "nazvanie": "Петергоф",
+      "subekt_rf": "Санкт-Петербург",
+      "prezhnie_nazvaniya": "Петродворец",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1709"
+    },
+    {
+      "nazvanie": "Пушкин",
+      "subekt_rf": "Санкт-Петербург",
+      "prezhnie_nazvaniya": "Царское Село, Детское Село",
+      "klassifikatsiya": "Средние города",
+      "god_osnovaniya": "1710"
+    },
+    {
+      "nazvanie": "Санкт-Петербург",
+      "subekt_rf": "Санкт-Петербург",
+      "prezhnie_nazvaniya": "Петроград, Ленинград",
+      "klassifikatsiya": "Крупнейшие города",
+      "god_osnovaniya": "1703"
+    },
+    {
+      "nazvanie": "Берёзово",
+      "subekt_rf": "Ханты-Мансийский автономный округ — Югра",
+      "prezhnie_nazvaniya": "Берёзовский Острог, Берёзов",
+      "klassifikatsiya": "Посёлки городского типа",
+      "god_osnovaniya": "1593"
+    },
+    {
+      "nazvanie": "Салехард",
+      "subekt_rf": "Ямало-Ненецкий автономный округ",
+      "prezhnie_nazvaniya": "Обдорск",
+      "klassifikatsiya": "Малые города",
+      "god_osnovaniya": "1595"
+    }
+  ],
+  "meta": {
+    "title": "Исторические поселения России - Free Download",
+    "description": "Перечень исторических поселений России (по перечню Минкультуры 2010 года) по субъектам РФ: прежние названия, тип поселения и год основания. Contains 480 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Исторические поселения России | ListBase",
+    "seo_description": "Download Исторические поселения России — 480 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 480 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Список_исторических_поселений_России"
+    ]
+  }
+}
