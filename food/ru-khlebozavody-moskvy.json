@@ -1,0 +1,340 @@
+{
+  "id": "ru-khlebozavody-moskvy",
+  "name": "Хлебозаводы Москвы",
+  "title": "Хлебозаводы Москвы",
+  "description": "Список московских хлебозаводов и хлебокомбинатов: расположение, год основания и закрытия, владелец и специализация (виды продукции).",
+  "category": "food",
+  "source": "https://ru.wikipedia.org/wiki/Хлебозаводы_Москвы",
+  "source_url": "https://ru.wikipedia.org/wiki/Хлебозаводы_Москвы",
+  "updated": "2026-11",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "nomer",
+      "label": "Nomer",
+      "type": "string"
+    },
+    {
+      "key": "naimenovanie",
+      "label": "Naimenovanie",
+      "type": "string"
+    },
+    {
+      "key": "raspolozhenie",
+      "label": "Raspolozhenie",
+      "type": "string"
+    },
+    {
+      "key": "god_osnovaniya",
+      "label": "God Osnovaniya",
+      "type": "number"
+    },
+    {
+      "key": "god_zakrytiya",
+      "label": "God Zakrytiya",
+      "type": "string"
+    },
+    {
+      "key": "vladelets",
+      "label": "Vladelets",
+      "type": "string"
+    },
+    {
+      "key": "spetsializatsiya",
+      "label": "Spetsializatsiya",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nomer": "№ 1",
+      "naimenovanie": "",
+      "raspolozhenie": "Замоскворечье (Валовая, 37)",
+      "god_osnovaniya": "1925",
+      "god_zakrytiya": "2000-е годы (начало)",
+      "vladelets": "ФГУП",
+      "spetsializatsiya": "Сдобные и сухарные изделия, пшеничный хлеб"
+    },
+    {
+      "nomer": "№ 2",
+      "naimenovanie": "«Славянское»",
+      "raspolozhenie": "Тверской (Бутырский вал, 68/70)",
+      "god_osnovaniya": "1925",
+      "god_zakrytiya": "2000-е годы (середина)",
+      "vladelets": "",
+      "spetsializatsiya": "Хлеб, калачи, печенье"
+    },
+    {
+      "nomer": "№ 3",
+      "naimenovanie": "«Золоторожский хлеб»",
+      "raspolozhenie": "Лефортово (Золоторожский вал, 6)",
+      "god_osnovaniya": "1929",
+      "god_zakrytiya": "",
+      "vladelets": "« Настюша »",
+      "spetsializatsiya": "Ржано-пшеничный и подовый хлеб, пшеничные батоны, мучнистые кондитерские изделия"
+    },
+    {
+      "nomer": "№ 4",
+      "naimenovanie": "«Русский хлеб»",
+      "raspolozhenie": "Красносельский (Верхняя Красносельская, 3)",
+      "god_osnovaniya": "1929",
+      "god_zakrytiya": "2002",
+      "vladelets": "",
+      "spetsializatsiya": "Формовой хлеб"
+    },
+    {
+      "nomer": "№ 5 ◎",
+      "naimenovanie": "Хлебозавод имени Зотова",
+      "raspolozhenie": "Пресненский (Ходынская, 2)",
+      "god_osnovaniya": "1931",
+      "god_zakrytiya": "2007",
+      "vladelets": "",
+      "spetsializatsiya": "Формовой хлеб, батоны"
+    },
+    {
+      "nomer": "№ 6",
+      "naimenovanie": "",
+      "raspolozhenie": "Хамовники (Кооперативная, 16)",
+      "god_osnovaniya": "1931",
+      "god_zakrytiya": "2011",
+      "vladelets": "« Черёмушки »",
+      "spetsializatsiya": "Формовой хлеб, бородинский хлеб"
+    },
+    {
+      "nomer": "№ 7 ◎",
+      "naimenovanie": "« Москворечье »",
+      "raspolozhenie": "Даниловский (2-й Павелецкий проезд, 6)",
+      "god_osnovaniya": "1932",
+      "god_zakrytiya": "2023",
+      "vladelets": "« Настюша »",
+      "spetsializatsiya": "Батоны"
+    },
+    {
+      "nomer": "№ 8 ◎",
+      "naimenovanie": "« Черкизово »",
+      "raspolozhenie": "Преображенское (Большая Черкизовская, 32 Б)",
+      "god_osnovaniya": "1932",
+      "god_zakrytiya": "",
+      "vladelets": "Борис Грабчинский (в 2007—2023 годы — « Настюша »)",
+      "spetsializatsiya": "Ржаной хлеб, булочные изделия"
+    },
+    {
+      "nomer": "№ 9 ◎",
+      "naimenovanie": "Хлебозавод № 9",
+      "raspolozhenie": "Бутырский (Новодмитровская, 1)",
+      "god_osnovaniya": "1934",
+      "god_zakrytiya": "2015",
+      "vladelets": "",
+      "spetsializatsiya": "Формовой хлеб, батоны, мелкоштучные булочные изделия (изначально — крупноразвесный хлеб)"
+    },
+    {
+      "nomer": "№ 10",
+      "naimenovanie": "«Пролетарец»",
+      "raspolozhenie": "Южнопортовый (Новоостаповская, 12)",
+      "god_osnovaniya": "1933",
+      "god_zakrytiya": "",
+      "vladelets": "",
+      "spetsializatsiya": "Ржаные сорта хлеба"
+    },
+    {
+      "nomer": "№ 11 ◎",
+      "naimenovanie": "«Звёздный»",
+      "raspolozhenie": "Останкинский (Звёздный бульвар, 23)",
+      "god_osnovaniya": "1937",
+      "god_zakrytiya": "",
+      "vladelets": "« Коломенский » (в 2005—2022 годы — Fazer)",
+      "spetsializatsiya": "Хлеб, замороженные хлебные полуфабрикаты, кондитерские изделия"
+    },
+    {
+      "nomer": "№ 12",
+      "naimenovanie": "",
+      "raspolozhenie": "Лефортово (Красноказарменная, 15)",
+      "god_osnovaniya": "1933",
+      "god_zakrytiya": "2019",
+      "vladelets": "« Черёмушки »",
+      "spetsializatsiya": "Батоны, формовой хлеб, блинная мука, панировочные сухари, сухой квас"
+    },
+    {
+      "nomer": "№ 14",
+      "naimenovanie": "«Русский каравай»",
+      "raspolozhenie": "Красносельский (Сретенка, 18)",
+      "god_osnovaniya": "1931",
+      "god_zakrytiya": "1993",
+      "vladelets": "",
+      "spetsializatsiya": "Пшеничный хлеб"
+    },
+    {
+      "nomer": "№ 15",
+      "naimenovanie": "« Коломенское »",
+      "raspolozhenie": "Нагатино-Садовники (Хлебозаводский проезд, 7)",
+      "god_osnovaniya": "1956",
+      "god_zakrytiya": "",
+      "vladelets": "« Коломенский »",
+      "spetsializatsiya": "Пшеничные сорта хлеба, вафельные торты"
+    },
+    {
+      "nomer": "№ 16",
+      "naimenovanie": "",
+      "raspolozhenie": "Пресненский (Звенигородское шоссе, 11)",
+      "god_osnovaniya": "1947",
+      "god_zakrytiya": "2014",
+      "vladelets": "",
+      "spetsializatsiya": "Пшеничные сорта хлеба"
+    },
+    {
+      "nomer": "№ 17",
+      "naimenovanie": "«Серебряный бор»",
+      "raspolozhenie": "Хорошёво-Мнёвники (Паршина, 10)",
+      "god_osnovaniya": "1992",
+      "god_zakrytiya": "2016",
+      "vladelets": "« Объединённые кондитеры »",
+      "spetsializatsiya": "Ржано-пшеничные сорта хлеба, мелкоштучные и сдобные хлебобулочные изделия, вафли, пряники"
+    },
+    {
+      "nomer": "№ 18",
+      "naimenovanie": "",
+      "raspolozhenie": "Аэропорт (Часовая, 6к3)",
+      "god_osnovaniya": "1961",
+      "god_zakrytiya": "",
+      "vladelets": "«Бэсткон» (до 2022 года — « Настюша »)",
+      "spetsializatsiya": "Хлеб «Столичный», мелкоштучные хлебобулочные изделия"
+    },
+    {
+      "nomer": "№ 19",
+      "naimenovanie": "«Яуза-Хлеб»",
+      "raspolozhenie": "Ростокино (Проспект Мира, 220 А)",
+      "god_osnovaniya": "1959",
+      "god_zakrytiya": "",
+      "vladelets": "« Настюша »",
+      "spetsializatsiya": "Пшеничные хлебобулочные изделия, вафельные торты"
+    },
+    {
+      "nomer": "№ 20",
+      "naimenovanie": "«Калошино»",
+      "raspolozhenie": "Гольяново (Амурская, 22 А)",
+      "god_osnovaniya": "1972",
+      "god_zakrytiya": "",
+      "vladelets": "",
+      "spetsializatsiya": ""
+    },
+    {
+      "nomer": "№ 21",
+      "naimenovanie": "«Экспохлеб»",
+      "raspolozhenie": "Ховрино (Лавочкина, 21)",
+      "god_osnovaniya": "1974",
+      "god_zakrytiya": "",
+      "vladelets": "« Грейн »",
+      "spetsializatsiya": ""
+    },
+    {
+      "nomer": "№ 22",
+      "naimenovanie": "",
+      "raspolozhenie": "Кунцево (Академика Павлова, 4)",
+      "god_osnovaniya": "1969",
+      "god_zakrytiya": "",
+      "vladelets": "",
+      "spetsializatsiya": "Хлебобулочные изделия, включая хлебную соломку"
+    },
+    {
+      "nomer": "№ 23",
+      "naimenovanie": "«Белый хлеб»",
+      "raspolozhenie": "Западное Дегунино (Коровинское шоссе, 1 А)",
+      "god_osnovaniya": "1972",
+      "god_zakrytiya": "2010-е годы",
+      "vladelets": "",
+      "spetsializatsiya": "Ржано-пшеничные и пшеничные сорта хлеба, торты, пирожные, пряники"
+    },
+    {
+      "nomer": "№ 24",
+      "naimenovanie": "",
+      "raspolozhenie": "Сокол (Светлый проезд, 2)",
+      "god_osnovaniya": "1972",
+      "god_zakrytiya": "",
+      "vladelets": "Хлебозавод № 28 ➤",
+      "spetsializatsiya": "Хлебобулочные изделия, в том числе диетические сорта, кексы, сушки, пряники"
+    },
+    {
+      "nomer": "№ 25",
+      "naimenovanie": "",
+      "raspolozhenie": "Рязанский (Рязанский проспект, 28)",
+      "god_osnovaniya": "1973",
+      "god_zakrytiya": "2000-е годы (начало)",
+      "vladelets": "",
+      "spetsializatsiya": ""
+    },
+    {
+      "nomer": "№ 26",
+      "naimenovanie": "«Пеко»",
+      "raspolozhenie": "Северное Медведково (Полярная, 29)",
+      "god_osnovaniya": "1973",
+      "god_zakrytiya": "",
+      "vladelets": "« Настюша »",
+      "spetsializatsiya": "Ржаной и пшеничный хлеб, сдобные и слоёные изделия, торты, батончки-мюсли"
+    },
+    {
+      "nomer": "№ 27",
+      "naimenovanie": "«Русский пряник»",
+      "raspolozhenie": "Люблино (Люблинская, 82)",
+      "god_osnovaniya": "1942",
+      "god_zakrytiya": "",
+      "vladelets": "",
+      "spetsializatsiya": "Пряники, кексы, коврижки"
+    },
+    {
+      "nomer": "№ 28",
+      "naimenovanie": "Зеленоградхлеб",
+      "raspolozhenie": "Зеленоград (Проспект Генерала Алексеева, 44)",
+      "god_osnovaniya": "1981",
+      "god_zakrytiya": "",
+      "vladelets": "",
+      "spetsializatsiya": "Пшеничный и ржаной хлеб, зерновой хлеб, лукумные торты"
+    },
+    {
+      "nomer": "",
+      "naimenovanie": "« Черёмушки »",
+      "raspolozhenie": "Черёмушки (Намёткина, 10 А)",
+      "god_osnovaniya": "1973",
+      "god_zakrytiya": "",
+      "vladelets": "« Черёмушки »",
+      "spetsializatsiya": "Торты, пирожные, сдобная продукция"
+    },
+    {
+      "nomer": "",
+      "naimenovanie": "« Простор »",
+      "raspolozhenie": "Выхино-Жулебино (Академика Скрябина, 9)",
+      "god_osnovaniya": "1986",
+      "god_zakrytiya": "",
+      "vladelets": "« Черёмушки »",
+      "spetsializatsiya": "Торты, пирожные, хлебобулочные изделия, пряники, вафли"
+    },
+    {
+      "nomer": "",
+      "naimenovanie": "« Комби »",
+      "raspolozhenie": "Соколиная Гора (Большая Семёновская улица, 55)",
+      "god_osnovaniya": "1939 (корпус постройки 1866 года)",
+      "god_zakrytiya": "1998",
+      "vladelets": "",
+      "spetsializatsiya": "Пряники, сушки"
+    },
+    {
+      "nomer": "",
+      "naimenovanie": "Останкинский завод бараночных изделий (ОЗБИ)",
+      "raspolozhenie": "Бутырский (Огородный проезд, 11)",
+      "god_osnovaniya": "1967",
+      "god_zakrytiya": "",
+      "vladelets": "",
+      "spetsializatsiya": "Баранки, сушки, гриссини, печенье"
+    }
+  ],
+  "meta": {
+    "title": "Хлебозаводы Москвы - Free Download",
+    "description": "Список московских хлебозаводов и хлебокомбинатов: расположение, год основания и закрытия, владелец и специализация (виды продукции). Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Хлебозаводы Москвы | ListBase",
+    "seo_description": "Download Хлебозаводы Москвы — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Хлебозаводы_Москвы"
+    ]
+  }
+}
