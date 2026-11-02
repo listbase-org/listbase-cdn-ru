@@ -1,0 +1,366 @@
+{
+  "id": "ru-kirillica-nazvaniya-bukv",
+  "name": "Буквы старой кириллицы: названия и числовые значения",
+  "title": "Буквы старой кириллицы: названия и числовые значения",
+  "description": "Буквы кириллического алфавита в церковнославянской традиции (из статьи «Русский алфавит»): традиционное название буквы (аз, буки, веди…), числовое значение и происхождение начертания.",
+  "category": "language",
+  "source": "https://ru.wikipedia.org/wiki/Русский_алфавит",
+  "source_url": "https://ru.wikipedia.org/wiki/Русский_алфавит",
+  "updated": "2026-11",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "bukva",
+      "label": "Bukva",
+      "type": "string"
+    },
+    {
+      "key": "chislovoe_znachenie",
+      "label": "Chislovoe Znachenie",
+      "type": "number"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "proiskhozhdenie",
+      "label": "Proiskhozhdenie",
+      "type": "string"
+    },
+    {
+      "key": "primechanie",
+      "label": "Primechanie",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bukva": "А",
+      "chislovoe_znachenie": "1",
+      "nazvanie": "аз",
+      "proiskhozhdenie": "греческая «альфа»",
+      "primechanie": ""
+    },
+    {
+      "bukva": "Б",
+      "chislovoe_znachenie": "—",
+      "nazvanie": "бу́ки",
+      "proiskhozhdenie": "греческая «бета/вита» нестандартного написания",
+      "primechanie": ""
+    },
+    {
+      "bukva": "В",
+      "chislovoe_znachenie": "2",
+      "nazvanie": "ве́ди",
+      "proiskhozhdenie": "греческая «бета/вита»",
+      "primechanie": ""
+    },
+    {
+      "bukva": "Г",
+      "chislovoe_znachenie": "3",
+      "nazvanie": "глаго́ль",
+      "proiskhozhdenie": "греческая «гамма»",
+      "primechanie": ""
+    },
+    {
+      "bukva": "Д",
+      "chislovoe_znachenie": "4",
+      "nazvanie": "добро́",
+      "proiskhozhdenie": "греческая «дельта»",
+      "primechanie": ""
+    },
+    {
+      "bukva": "Є Э Е",
+      "chislovoe_znachenie": "5",
+      "nazvanie": "есть",
+      "proiskhozhdenie": "греческая «эпсилон»",
+      "primechanie": "начертание Э введено реформой 1708 года Ё введена в алфавит в 1942 году"
+    },
+    {
+      "bukva": "Ж",
+      "chislovoe_znachenie": "—",
+      "nazvanie": "живе́те",
+      "proiskhozhdenie": "изменённая глаголическая «живете» Ⰶ восходящая к коптской «джанджа» Ϫ",
+      "primechanie": ""
+    },
+    {
+      "bukva": "Ѕ Ꙃ",
+      "chislovoe_znachenie": "6",
+      "nazvanie": "зело́",
+      "proiskhozhdenie": "греческая «стигма»",
+      "primechanie": "отменена в 1735 году"
+    },
+    {
+      "bukva": "Ꙁ З",
+      "chislovoe_znachenie": "7",
+      "nazvanie": "земля́",
+      "proiskhozhdenie": "греческая «дзета/зита»",
+      "primechanie": ""
+    },
+    {
+      "bukva": "И",
+      "chislovoe_znachenie": "8",
+      "nazvanie": "и́же (восьмеричное)",
+      "proiskhozhdenie": "греческая «эта»",
+      "primechanie": ""
+    },
+    {
+      "bukva": "І Ї",
+      "chislovoe_znachenie": "10",
+      "nazvanie": "и (десятеричное)",
+      "proiskhozhdenie": "греческая «йота»",
+      "primechanie": "отменена реформой 1918 года"
+    },
+    {
+      "bukva": "К",
+      "chislovoe_znachenie": "20",
+      "nazvanie": "ка́ко",
+      "proiskhozhdenie": "греческая «каппа»",
+      "primechanie": ""
+    },
+    {
+      "bukva": "Л",
+      "chislovoe_znachenie": "30",
+      "nazvanie": "лю́ди",
+      "proiskhozhdenie": "греческая «лямбда»",
+      "primechanie": ""
+    },
+    {
+      "bukva": "М",
+      "chislovoe_znachenie": "40",
+      "nazvanie": "мысле́те",
+      "proiskhozhdenie": "греческая «мю»",
+      "primechanie": ""
+    },
+    {
+      "bukva": "Н",
+      "chislovoe_znachenie": "50",
+      "nazvanie": "наш",
+      "proiskhozhdenie": "греческая «ню»",
+      "primechanie": ""
+    },
+    {
+      "bukva": "О Ѻ",
+      "chislovoe_znachenie": "70",
+      "nazvanie": "он",
+      "proiskhozhdenie": "греческая «омикрон»",
+      "primechanie": ""
+    },
+    {
+      "bukva": "П",
+      "chislovoe_znachenie": "80",
+      "nazvanie": "поко́й",
+      "proiskhozhdenie": "греческая «пи»",
+      "primechanie": ""
+    },
+    {
+      "bukva": "Р",
+      "chislovoe_znachenie": "100",
+      "nazvanie": "рцы",
+      "proiskhozhdenie": "греческая «ро»",
+      "primechanie": ""
+    },
+    {
+      "bukva": "С",
+      "chislovoe_znachenie": "200",
+      "nazvanie": "сло́во",
+      "proiskhozhdenie": "серповидная греческая «сигма»",
+      "primechanie": ""
+    },
+    {
+      "bukva": "Т",
+      "chislovoe_znachenie": "300",
+      "nazvanie": "тве́рдо",
+      "proiskhozhdenie": "греческая «тау»",
+      "primechanie": ""
+    },
+    {
+      "bukva": "Ѹ Ȣ У",
+      "chislovoe_znachenie": "(400)",
+      "nazvanie": "ук",
+      "proiskhozhdenie": "калька греческого диграфа «омикрон» + «упсилон/ипсилон»",
+      "primechanie": "заменена реформой 1708 года начертанием У"
+    },
+    {
+      "bukva": "Ф",
+      "chislovoe_znachenie": "500",
+      "nazvanie": "ферт",
+      "proiskhozhdenie": "греческая «фи», аналогичная глаголическая «ферт» Ⱇ",
+      "primechanie": ""
+    },
+    {
+      "bukva": "Х",
+      "chislovoe_znachenie": "600",
+      "nazvanie": "хер",
+      "proiskhozhdenie": "греческая «хи»",
+      "primechanie": ""
+    },
+    {
+      "bukva": "Ѡ",
+      "chislovoe_znachenie": "800",
+      "nazvanie": "оме́га",
+      "proiskhozhdenie": "греческая «омега»",
+      "primechanie": "отменена реформой 1708 года"
+    },
+    {
+      "bukva": "Ѿ",
+      "chislovoe_znachenie": "—",
+      "nazvanie": "от",
+      "proiskhozhdenie": "лигатура «омега» + «твердо»",
+      "primechanie": "отменена реформой 1708 года"
+    },
+    {
+      "bukva": "Ц",
+      "chislovoe_znachenie": "900",
+      "nazvanie": "цы",
+      "proiskhozhdenie": "изменённая глаголическая «цы» Ⱌ восходящая к еврейской конечной «цади» ץ",
+      "primechanie": ""
+    },
+    {
+      "bukva": "Ч",
+      "chislovoe_znachenie": "90",
+      "nazvanie": "червь",
+      "proiskhozhdenie": "изменённая глаголическая «червь» Ⱍ восходящая к еврейской начальной «цади» צ",
+      "primechanie": ""
+    },
+    {
+      "bukva": "Ш",
+      "chislovoe_znachenie": "—",
+      "nazvanie": "ша",
+      "proiskhozhdenie": "глаголическая «ша» Ⱎ восходящая к еврейской «шин» ש или коптской «шай» Ϣ",
+      "primechanie": ""
+    },
+    {
+      "bukva": "Щ",
+      "chislovoe_znachenie": "—",
+      "nazvanie": "ща (шта)",
+      "proiskhozhdenie": "изменённая глаголическая «шта» Ⱋ",
+      "primechanie": ""
+    },
+    {
+      "bukva": "Ъ",
+      "chislovoe_znachenie": "—",
+      "nazvanie": "ер",
+      "proiskhozhdenie": "«ерь» с выносным элементом",
+      "primechanie": ""
+    },
+    {
+      "bukva": "Ꙑ Ы",
+      "chislovoe_znachenie": "—",
+      "nazvanie": "еры́",
+      "proiskhozhdenie": "диграф «ер» + «и»",
+      "primechanie": ""
+    },
+    {
+      "bukva": "Ь",
+      "chislovoe_znachenie": "—",
+      "nazvanie": "ерь",
+      "proiskhozhdenie": "глаголическая «рцы» Ⱃ или изменённая глаголическая «он» Ⱁ",
+      "primechanie": ""
+    },
+    {
+      "bukva": "Ѣ",
+      "chislovoe_znachenie": "—",
+      "nazvanie": "ять",
+      "proiskhozhdenie": "«ерь» с перекладиной",
+      "primechanie": "отменена реформой 1918 года"
+    },
+    {
+      "bukva": "Ю",
+      "chislovoe_znachenie": "—",
+      "nazvanie": "ю",
+      "proiskhozhdenie": "лигатура «и» + «ук»",
+      "primechanie": ""
+    },
+    {
+      "bukva": "Ꙗ",
+      "chislovoe_znachenie": "—",
+      "nazvanie": "а йотированное",
+      "proiskhozhdenie": "лигатура «и» + «аз»",
+      "primechanie": "заменена реформой 1708 года начертанием Я"
+    },
+    {
+      "bukva": "Ѥ",
+      "chislovoe_znachenie": "—",
+      "nazvanie": "е йотированное",
+      "proiskhozhdenie": "лигатура «и» + «есть»",
+      "primechanie": "вышла из употребления к концу XIV века"
+    },
+    {
+      "bukva": "Ѧ Ꙙ Я",
+      "chislovoe_znachenie": "(900)",
+      "nazvanie": "юс малый",
+      "proiskhozhdenie": "изменённый глаголический «юс малый» Ⱔ повернутый на 90° или греческая эмфатическая «альфа» А",
+      "primechanie": "заменена реформой 1708 года начертанием Я"
+    },
+    {
+      "bukva": "Ѫ Ꙛ",
+      "chislovoe_znachenie": "—",
+      "nazvanie": "юс большой",
+      "proiskhozhdenie": "изменённый глаголический «юс большой» Ⱘ повернутый на 90° или «юс малый» Ѧ с перевёрнутым верхним треугольным элементом",
+      "primechanie": "отменена реформой 1708 года"
+    },
+    {
+      "bukva": "Ѩ Ꙝ",
+      "chislovoe_znachenie": "—",
+      "nazvanie": "юс малый йотированный",
+      "proiskhozhdenie": "лигатура «и» + «юс малый»",
+      "primechanie": "отменена реформой 1708 года"
+    },
+    {
+      "bukva": "Ѭ",
+      "chislovoe_znachenie": "—",
+      "nazvanie": "юс большой йотированный",
+      "proiskhozhdenie": "лигатура «и» + «юс большой»",
+      "primechanie": "отменена реформой 1708 года"
+    },
+    {
+      "bukva": "Ѯ",
+      "chislovoe_znachenie": "60",
+      "nazvanie": "кси",
+      "proiskhozhdenie": "греческая «кси»",
+      "primechanie": "отменена в 1735 году"
+    },
+    {
+      "bukva": "Ѱ",
+      "chislovoe_znachenie": "700",
+      "nazvanie": "пси",
+      "proiskhozhdenie": "греческая «пси»",
+      "primechanie": "отменена реформой 1708 года"
+    },
+    {
+      "bukva": "Ѳ",
+      "chislovoe_znachenie": "9",
+      "nazvanie": "фита́",
+      "proiskhozhdenie": "греческая «тета/фита», аналогичная глаголическая «фита» Ⱚ",
+      "primechanie": "отменена реформой 1918 года"
+    },
+    {
+      "bukva": "Ѵ",
+      "chislovoe_znachenie": "400",
+      "nazvanie": "и́жица",
+      "proiskhozhdenie": "греческая «упсилон/ипсилон»",
+      "primechanie": "вышла из употребления к концу XIX века"
+    },
+    {
+      "bukva": "Ҁ",
+      "chislovoe_znachenie": "(90)",
+      "nazvanie": "ко́ппа",
+      "proiskhozhdenie": "греческая «коппа», использовалась только как числительное",
+      "primechanie": "вышла из употребления к концу XIV века"
+    }
+  ],
+  "meta": {
+    "title": "Буквы старой кириллицы: названия и числовые значения - Free Download",
+    "description": "Буквы кириллического алфавита в церковнославянской традиции (из статьи «Русский алфавит»): традиционное название буквы (аз, буки, веди…), числовое значение и происхождение начертания. Contains 45 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Буквы старой кириллицы: названия и числовые значения | ListBase",
+    "seo_description": "Download Буквы старой кириллицы: названия и числовые значения — 45 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 45 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Русский_алфавит"
+    ]
+  }
+}

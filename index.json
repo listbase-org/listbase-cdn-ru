@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-02T02:13:52.057Z",
-  "total_datasets": 490,
-  "total_records": 217488,
+  "generated": "2026-11-02T02:13:58.687Z",
+  "total_datasets": 491,
+  "total_records": 217533,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "law",
@@ -4151,6 +4151,32 @@
         "xlsx": {
           "name": "ru-voyny-rossii_RU.xlsx",
           "size": 20755
+        }
+      }
+    },
+    {
+      "id": "ru-kirillica-nazvaniya-bukv",
+      "name": "Буквы старой кириллицы: названия и числовые значения",
+      "category": "language",
+      "record_count": 45,
+      "columns": [
+        "bukva",
+        "chislovoe_znachenie",
+        "nazvanie",
+        "proiskhozhdenie",
+        "primechanie"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Русский_алфавит",
+      "updated": "2026-11",
+      "size": 13365,
+      "files": {
+        "csv": {
+          "name": "ru-kirillica-nazvaniya-bukv_RU.csv",
+          "size": 5349
+        },
+        "xlsx": {
+          "name": "ru-kirillica-nazvaniya-bukv_RU.xlsx",
+          "size": 9342
         }
       }
     },
