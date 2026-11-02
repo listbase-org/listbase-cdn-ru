@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-02T02:13:58.687Z",
-  "total_datasets": 491,
-  "total_records": 217533,
+  "generated": "2026-11-02T02:14:06.775Z",
+  "total_datasets": 492,
+  "total_records": 217545,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "politics",
@@ -4301,6 +4301,32 @@
         "xlsx": {
           "name": "ru-sudi-konstitucionnogo-suda_RU.xlsx",
           "size": 7645
+        }
+      }
+    },
+    {
+      "id": "ru-konservatorii",
+      "name": "Консерватории России",
+      "category": "music",
+      "record_count": 12,
+      "columns": [
+        "nomer",
+        "nazvanie",
+        "gorod",
+        "god_osnovaniya",
+        "primechaniya"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Консерватории_России",
+      "updated": "2026-11",
+      "size": 5226,
+      "files": {
+        "csv": {
+          "name": "ru-konservatorii_RU.csv",
+          "size": 2163
+        },
+        "xlsx": {
+          "name": "ru-konservatorii_RU.xlsx",
+          "size": 7639
         }
       }
     },
