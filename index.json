@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-02T02:14:06.775Z",
-  "total_datasets": 492,
-  "total_records": 217545,
+  "generated": "2026-11-02T02:14:14.116Z",
+  "total_datasets": 493,
+  "total_records": 217645,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "entertainment",
@@ -600,6 +600,32 @@
         "xlsx": {
           "name": "ru-federalnye-universitety_RU.xlsx",
           "size": 8714
+        }
+      }
+    },
+    {
+      "id": "ru-krupneyshie-universitety-po-studentam",
+      "name": "Крупнейшие университеты России по количеству студентов",
+      "category": "education",
+      "record_count": 100,
+      "columns": [
+        "mesto",
+        "nazvanie",
+        "gorod",
+        "god_osnovaniya",
+        "kolichestvo_studentov"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Крупнейшие_университеты_России_по_количеству_студентов",
+      "updated": "2026-11",
+      "size": 29025,
+      "files": {
+        "csv": {
+          "name": "ru-krupneyshie-universitety-po-studentam_RU.csv",
+          "size": 15283
+        },
+        "xlsx": {
+          "name": "ru-krupneyshie-universitety-po-studentam_RU.xlsx",
+          "size": 11870
         }
       }
     },

@@ -1,0 +1,751 @@
+{
+  "id": "ru-krupneyshie-universitety-po-studentam",
+  "name": "Крупнейшие университеты России по количеству студентов",
+  "title": "Крупнейшие университеты России по количеству студентов",
+  "description": "Сто крупнейших вузов России по числу студентов: город, год основания и количество обучающихся.",
+  "category": "education",
+  "source": "https://ru.wikipedia.org/wiki/Крупнейшие_университеты_России_по_количеству_студентов",
+  "source_url": "https://ru.wikipedia.org/wiki/Крупнейшие_университеты_России_по_количеству_студентов",
+  "updated": "2026-11",
+  "record_count": 100,
+  "columns": [
+    {
+      "key": "mesto",
+      "label": "Mesto",
+      "type": "number"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "gorod",
+      "label": "Gorod",
+      "type": "string"
+    },
+    {
+      "key": "god_osnovaniya",
+      "label": "God Osnovaniya",
+      "type": "number"
+    },
+    {
+      "key": "kolichestvo_studentov",
+      "label": "Kolichestvo Studentov",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "mesto": 1,
+      "nazvanie": "Московский финансово-промышленный университет «Синергия»",
+      "gorod": "Москва",
+      "god_osnovaniya": 1995,
+      "kolichestvo_studentov": 43222
+    },
+    {
+      "mesto": 2,
+      "nazvanie": "Московский государственный университет имени М. В. Ломоносова",
+      "gorod": "Москва",
+      "god_osnovaniya": 1755,
+      "kolichestvo_studentov": 39828
+    },
+    {
+      "mesto": 3,
+      "nazvanie": "Уральский федеральный университет имени первого Президента России Б. Н. Ельцина",
+      "gorod": "Екатеринбург",
+      "god_osnovaniya": 1920,
+      "kolichestvo_studentov": 38797
+    },
+    {
+      "mesto": 4,
+      "nazvanie": "Национальный исследовательский университет «Высшая школа экономики»",
+      "gorod": "Москва, Санкт-Петербург, Нижний Новгород, Пермь",
+      "god_osnovaniya": 1992,
+      "kolichestvo_studentov": 38757
+    },
+    {
+      "mesto": 5,
+      "nazvanie": "Казанский (Приволжский) федеральный университет",
+      "gorod": "Казань",
+      "god_osnovaniya": 1804,
+      "kolichestvo_studentov": 38653
+    },
+    {
+      "mesto": 6,
+      "nazvanie": "Российский университет дружбы народов имени Патриса Лумумбы",
+      "gorod": "Москва",
+      "god_osnovaniya": 1960,
+      "kolichestvo_studentov": 31759
+    },
+    {
+      "mesto": 7,
+      "nazvanie": "Российский университет транспорта",
+      "gorod": "Москва",
+      "god_osnovaniya": 1896,
+      "kolichestvo_studentov": 29643
+    },
+    {
+      "mesto": 8,
+      "nazvanie": "Санкт-Петербургский политехнический университет Петра Великого",
+      "gorod": "Санкт-Петербург",
+      "god_osnovaniya": 1899,
+      "kolichestvo_studentov": 29128
+    },
+    {
+      "mesto": 9,
+      "nazvanie": "Донской государственный технический университет",
+      "gorod": "Ростов-на-Дону",
+      "god_osnovaniya": 1930,
+      "kolichestvo_studentov": 28916
+    },
+    {
+      "mesto": 10,
+      "nazvanie": "Российская академия народного хозяйства и государственной службы при Президенте РФ",
+      "gorod": "Москва",
+      "god_osnovaniya": 1977,
+      "kolichestvo_studentov": 28516
+    },
+    {
+      "mesto": 11,
+      "nazvanie": "МИРЭА — Российский технологический университет",
+      "gorod": "Москва",
+      "god_osnovaniya": 1947,
+      "kolichestvo_studentov": 27838
+    },
+    {
+      "mesto": 12,
+      "nazvanie": "Уфимский университет науки и технологий",
+      "gorod": "Уфа",
+      "god_osnovaniya": "1909, 1932",
+      "kolichestvo_studentov": 26919
+    },
+    {
+      "mesto": 13,
+      "nazvanie": "Сибирский федеральный университет",
+      "gorod": "Красноярск",
+      "god_osnovaniya": 2006,
+      "kolichestvo_studentov": 25208
+    },
+    {
+      "mesto": 14,
+      "nazvanie": "Южный федеральный университет",
+      "gorod": "Ростов-на-Дону, Таганрог",
+      "god_osnovaniya": 1915,
+      "kolichestvo_studentov": 24762
+    },
+    {
+      "mesto": 15,
+      "nazvanie": "Московский международный университет",
+      "gorod": "Москва",
+      "god_osnovaniya": 1991,
+      "kolichestvo_studentov": 24319
+    },
+    {
+      "mesto": 16,
+      "nazvanie": "Финансовый университет при Правительстве Российской Федерации",
+      "gorod": "Москва",
+      "god_osnovaniya": 1919,
+      "kolichestvo_studentov": 24290
+    },
+    {
+      "mesto": 17,
+      "nazvanie": "Кубанский государственный университет",
+      "gorod": "Краснодар",
+      "god_osnovaniya": 1920,
+      "kolichestvo_studentov": 23561
+    },
+    {
+      "mesto": 18,
+      "nazvanie": "Санкт-Петербургский государственный университет",
+      "gorod": "Санкт-Петербург",
+      "god_osnovaniya": 1724,
+      "kolichestvo_studentov": 23378
+    },
+    {
+      "mesto": 19,
+      "nazvanie": "Московский государственный технический университет имени Н. Э. Баумана",
+      "gorod": "Москва",
+      "god_osnovaniya": 1830,
+      "kolichestvo_studentov": 23150
+    },
+    {
+      "mesto": 20,
+      "nazvanie": "Московский педагогический государственный университет",
+      "gorod": "Москва",
+      "god_osnovaniya": 1872,
+      "kolichestvo_studentov": 21627
+    },
+    {
+      "mesto": 21,
+      "nazvanie": "Крымский федеральный университет имени В. И. Вернадского",
+      "gorod": "Симферополь",
+      "god_osnovaniya": 1918,
+      "kolichestvo_studentov": 20536
+    },
+    {
+      "mesto": 22,
+      "nazvanie": "Тольяттинский государственный университет",
+      "gorod": "Тольятти",
+      "god_osnovaniya": "1951, 1966",
+      "kolichestvo_studentov": 20202
+    },
+    {
+      "mesto": 23,
+      "nazvanie": "Национальный исследовательский Нижегородский государственный университет им. Н. И. Лобачевского",
+      "gorod": "Нижний Новгород",
+      "god_osnovaniya": 1916,
+      "kolichestvo_studentov": 20096
+    },
+    {
+      "mesto": 24,
+      "nazvanie": "Московский финансово-юридический университет МФЮА",
+      "gorod": "Москва",
+      "god_osnovaniya": "",
+      "kolichestvo_studentov": 20031
+    },
+    {
+      "mesto": 25,
+      "nazvanie": "Южно-Уральский государственный университет (национальный исследовательский университет)",
+      "gorod": "Челябинск",
+      "god_osnovaniya": 1943,
+      "kolichestvo_studentov": 19644
+    },
+    {
+      "mesto": 26,
+      "nazvanie": "Дальневосточный федеральный университет",
+      "gorod": "Владивосток",
+      "god_osnovaniya": 1899,
+      "kolichestvo_studentov": 19383
+    },
+    {
+      "mesto": 27,
+      "nazvanie": "Российский государственный педагогический университет им. А. И. Герцена",
+      "gorod": "Санкт-Петербург",
+      "god_osnovaniya": 1797,
+      "kolichestvo_studentov": 19360
+    },
+    {
+      "mesto": 28,
+      "nazvanie": "Белгородский государственный национальный исследовательский университет",
+      "gorod": "Белгород",
+      "god_osnovaniya": 1876,
+      "kolichestvo_studentov": 19188
+    },
+    {
+      "mesto": 29,
+      "nazvanie": "Тульский государственный университет",
+      "gorod": "Тула",
+      "god_osnovaniya": 1930,
+      "kolichestvo_studentov": 18895
+    },
+    {
+      "mesto": 30,
+      "nazvanie": "Российский экономический университет имени Г. В. Плеханова",
+      "gorod": "Москва",
+      "god_osnovaniya": 1907,
+      "kolichestvo_studentov": 18655
+    },
+    {
+      "mesto": 31,
+      "nazvanie": "Национальный исследовательский университет «МЭИ»",
+      "gorod": "Москва",
+      "god_osnovaniya": 1930,
+      "kolichestvo_studentov": 18619
+    },
+    {
+      "mesto": 32,
+      "nazvanie": "Чувашский государственный университет имени И. Н. Ульянова",
+      "gorod": "Чебоксары",
+      "god_osnovaniya": 1967,
+      "kolichestvo_studentov": 18578
+    },
+    {
+      "mesto": 33,
+      "nazvanie": "Первый Московский государственный медицинский университет имени И. М. Сеченова",
+      "gorod": "Москва",
+      "god_osnovaniya": 1758,
+      "kolichestvo_studentov": 18125
+    },
+    {
+      "mesto": 34,
+      "nazvanie": "Воронежский государственный университет",
+      "gorod": "Воронеж",
+      "god_osnovaniya": 1918,
+      "kolichestvo_studentov": 18033
+    },
+    {
+      "mesto": 35,
+      "nazvanie": "Тюменский индустриальный университет",
+      "gorod": "Тюмень",
+      "god_osnovaniya": 1963,
+      "kolichestvo_studentov": 17496
+    },
+    {
+      "mesto": 36,
+      "nazvanie": "Пензенский государственный университет",
+      "gorod": "Пенза",
+      "god_osnovaniya": 1943,
+      "kolichestvo_studentov": 17450
+    },
+    {
+      "mesto": 37,
+      "nazvanie": "Северо-Кавказский федеральный университет",
+      "gorod": "Ставрополь",
+      "god_osnovaniya": 1930,
+      "kolichestvo_studentov": 17418
+    },
+    {
+      "mesto": 38,
+      "nazvanie": "Санкт-Петербургский государственный университет промышленных технологий и дизайна",
+      "gorod": "Санкт-Петербург",
+      "god_osnovaniya": 1930,
+      "kolichestvo_studentov": 17168
+    },
+    {
+      "mesto": 39,
+      "nazvanie": "Московский авиационный институт (национальный исследовательский университет)",
+      "gorod": "Москва",
+      "god_osnovaniya": 1930,
+      "kolichestvo_studentov": 17117
+    },
+    {
+      "mesto": 40,
+      "nazvanie": "Саратовский национальный исследовательский государственный университет имени Н. Г. Чернышевского",
+      "gorod": "Саратов",
+      "god_osnovaniya": 1909,
+      "kolichestvo_studentov": 16774
+    },
+    {
+      "mesto": 41,
+      "nazvanie": "Самарский государственный технический университет",
+      "gorod": "Самара",
+      "god_osnovaniya": 1914,
+      "kolichestvo_studentov": 16579
+    },
+    {
+      "mesto": 42,
+      "nazvanie": "Казанский национальный исследовательский технологический университет",
+      "gorod": "Казань",
+      "god_osnovaniya": 1890,
+      "kolichestvo_studentov": 16493
+    },
+    {
+      "mesto": 43,
+      "nazvanie": "Самарский национальный исследовательский университет имени академика С. П. Королёва",
+      "gorod": "Самара",
+      "god_osnovaniya": "1918, 1942",
+      "kolichestvo_studentov": 16243
+    },
+    {
+      "mesto": 44,
+      "nazvanie": "Российский государственный гуманитарный университет",
+      "gorod": "Москва",
+      "god_osnovaniya": 1930,
+      "kolichestvo_studentov": 16163
+    },
+    {
+      "mesto": 45,
+      "nazvanie": "Уфимский государственный нефтяной технический университет",
+      "gorod": "Уфа",
+      "god_osnovaniya": 1948,
+      "kolichestvo_studentov": 16122
+    },
+    {
+      "mesto": 46,
+      "nazvanie": "Тюменский государственный университет",
+      "gorod": "Тюмень",
+      "god_osnovaniya": 1930,
+      "kolichestvo_studentov": 15749
+    },
+    {
+      "mesto": 47,
+      "nazvanie": "Чеченский государственный университет имени А. А. Кадырова",
+      "gorod": "Грозный",
+      "god_osnovaniya": 1938,
+      "kolichestvo_studentov": 15730
+    },
+    {
+      "mesto": 48,
+      "nazvanie": "Воронежский государственный технический университет",
+      "gorod": "Воронеж",
+      "god_osnovaniya": 1956,
+      "kolichestvo_studentov": 15574
+    },
+    {
+      "mesto": 49,
+      "nazvanie": "Новосибирский государственный технический университет",
+      "gorod": "Новосибирск",
+      "god_osnovaniya": 1950,
+      "kolichestvo_studentov": 15491
+    },
+    {
+      "mesto": 50,
+      "nazvanie": "Вятский государственный университет",
+      "gorod": "Киров",
+      "god_osnovaniya": 1914,
+      "kolichestvo_studentov": 15429
+    },
+    {
+      "mesto": 51,
+      "nazvanie": "Национальный исследовательский университет ИТМО",
+      "gorod": "Санкт-Петербург",
+      "god_osnovaniya": 1900,
+      "kolichestvo_studentov": 15219
+    },
+    {
+      "mesto": 52,
+      "nazvanie": "Кубанский государственный аграрный университет имени И. Т. Трубилина",
+      "gorod": "Краснодар",
+      "god_osnovaniya": 1922,
+      "kolichestvo_studentov": 15122
+    },
+    {
+      "mesto": 53,
+      "nazvanie": "Удмуртский государственный университет",
+      "gorod": "Ижевск",
+      "god_osnovaniya": 1931,
+      "kolichestvo_studentov": 15102
+    },
+    {
+      "mesto": 54,
+      "nazvanie": "Иркутский национальный исследовательский технический университет",
+      "gorod": "Иркутск",
+      "god_osnovaniya": 1930,
+      "kolichestvo_studentov": 14994
+    },
+    {
+      "mesto": 55,
+      "nazvanie": "Московский университет им. С. Ю. Витте",
+      "gorod": "",
+      "god_osnovaniya": "",
+      "kolichestvo_studentov": 14977
+    },
+    {
+      "mesto": 56,
+      "nazvanie": "Иркутский государственный университет",
+      "gorod": "Иркутск",
+      "god_osnovaniya": 1918,
+      "kolichestvo_studentov": 14910
+    },
+    {
+      "mesto": 57,
+      "nazvanie": "Северо-Восточный федеральный университет имени М. К. Аммосова",
+      "gorod": "Якутск",
+      "god_osnovaniya": 1934,
+      "kolichestvo_studentov": 14885
+    },
+    {
+      "mesto": 58,
+      "nazvanie": "Московский городской педагогический университет",
+      "gorod": "Москва",
+      "god_osnovaniya": 1995,
+      "kolichestvo_studentov": 14593
+    },
+    {
+      "mesto": 59,
+      "nazvanie": "Национальный исследовательский Мордовский государственный университет им. Н. П. Огарёва",
+      "gorod": "Саранск",
+      "god_osnovaniya": 1931,
+      "kolichestvo_studentov": 14591
+    },
+    {
+      "mesto": 60,
+      "nazvanie": "Алтайский государственный университет",
+      "gorod": "Барнаул",
+      "god_osnovaniya": 1973,
+      "kolichestvo_studentov": 14470
+    },
+    {
+      "mesto": 61,
+      "nazvanie": "Национальный исследовательский Томский государственный университет",
+      "gorod": "Томск",
+      "god_osnovaniya": 1878,
+      "kolichestvo_studentov": 14460
+    },
+    {
+      "mesto": 62,
+      "nazvanie": "Омский государственный технический университет",
+      "gorod": "Омск",
+      "god_osnovaniya": 1942,
+      "kolichestvo_studentov": 14367
+    },
+    {
+      "mesto": 63,
+      "nazvanie": "Томский государственный университет систем управления и радиоэлектроники",
+      "gorod": "Томск",
+      "god_osnovaniya": 1962,
+      "kolichestvo_studentov": 14330
+    },
+    {
+      "mesto": 64,
+      "nazvanie": "Владимирский государственный университет имени Столетовых",
+      "gorod": "Владимир",
+      "god_osnovaniya": 1958,
+      "kolichestvo_studentov": 14256
+    },
+    {
+      "mesto": 65,
+      "nazvanie": "Сибирский государственный университет науки и технологий имени академика М. Ф. Решетнева",
+      "gorod": "Красноярск",
+      "god_osnovaniya": 1960,
+      "kolichestvo_studentov": 13937
+    },
+    {
+      "mesto": 66,
+      "nazvanie": "Орловский государственный университет имени И. С. Тургенева",
+      "gorod": "Орёл",
+      "god_osnovaniya": 1919,
+      "kolichestvo_studentov": 13855
+    },
+    {
+      "mesto": 67,
+      "nazvanie": "Российский государственный аграрный университет — МСХА имени К. А. Тимирязева",
+      "gorod": "Москва",
+      "god_osnovaniya": 1865,
+      "kolichestvo_studentov": 13698
+    },
+    {
+      "mesto": 68,
+      "nazvanie": "Пермский национальный исследовательский политехнический университет",
+      "gorod": "Пермь",
+      "god_osnovaniya": 1953,
+      "kolichestvo_studentov": 13621
+    },
+    {
+      "mesto": 69,
+      "nazvanie": "Новосибирский государственный педагогический университет",
+      "gorod": "Новосибирск",
+      "god_osnovaniya": 1935,
+      "kolichestvo_studentov": 13224
+    },
+    {
+      "mesto": 70,
+      "nazvanie": "Волгоградский государственный технический университет",
+      "gorod": "Волгоград",
+      "god_osnovaniya": 1930,
+      "kolichestvo_studentov": 13125
+    },
+    {
+      "mesto": 71,
+      "nazvanie": "Пермский государственный национальный исследовательский университет",
+      "gorod": "Пермь",
+      "god_osnovaniya": 1916,
+      "kolichestvo_studentov": 13032
+    },
+    {
+      "mesto": 72,
+      "nazvanie": "Оренбургский государственный университет",
+      "gorod": "Оренбург",
+      "god_osnovaniya": 1955,
+      "kolichestvo_studentov": 12955
+    },
+    {
+      "mesto": 73,
+      "nazvanie": "Тамбовский государственный университет имени Г. Р. Державина",
+      "gorod": "Тамбов",
+      "god_osnovaniya": 1918,
+      "kolichestvo_studentov": 12912
+    },
+    {
+      "mesto": 74,
+      "nazvanie": "Кемеровский государственный университет",
+      "gorod": "Кемерово",
+      "god_osnovaniya": 1953,
+      "kolichestvo_studentov": 12706
+    },
+    {
+      "mesto": 75,
+      "nazvanie": "Национальный исследовательский Московский государственный строительный университет",
+      "gorod": "Москва",
+      "god_osnovaniya": 1921,
+      "kolichestvo_studentov": 12683
+    },
+    {
+      "mesto": 76,
+      "nazvanie": "Московский политехнический университет",
+      "gorod": "Москва",
+      "god_osnovaniya": 1865,
+      "kolichestvo_studentov": 12599
+    },
+    {
+      "mesto": 77,
+      "nazvanie": "Челябинский государственный университет",
+      "gorod": "Челябинск",
+      "god_osnovaniya": 1976,
+      "kolichestvo_studentov": 12535
+    },
+    {
+      "mesto": 78,
+      "nazvanie": "Санкт-Петербургский государственный университет аэрокосмического приборостроения",
+      "gorod": "Санкт-Петербург",
+      "god_osnovaniya": 1941,
+      "kolichestvo_studentov": 12316
+    },
+    {
+      "mesto": 79,
+      "nazvanie": "Воронежский государственный аграрный университет имени императора Петра I",
+      "gorod": "Воронеж",
+      "god_osnovaniya": 1912,
+      "kolichestvo_studentov": 12284
+    },
+    {
+      "mesto": 80,
+      "nazvanie": "Кабардино-Балкарский государственный университет им. Х. М. Бербекова",
+      "gorod": "Нальчик",
+      "god_osnovaniya": 1957,
+      "kolichestvo_studentov": 12255
+    },
+    {
+      "mesto": 81,
+      "nazvanie": "Российский государственный социальный университет",
+      "gorod": "Москва",
+      "god_osnovaniya": "де-факто — 1978, де-юре — 1991",
+      "kolichestvo_studentov": 12070
+    },
+    {
+      "mesto": 82,
+      "nazvanie": "Забайкальский государственный университет",
+      "gorod": "Чита",
+      "god_osnovaniya": 1938,
+      "kolichestvo_studentov": 11966
+    },
+    {
+      "mesto": 83,
+      "nazvanie": "Санкт-Петербургский государственный экономический университет",
+      "gorod": "Санкт-Петербург",
+      "god_osnovaniya": 1930,
+      "kolichestvo_studentov": 11935
+    },
+    {
+      "mesto": 84,
+      "nazvanie": "Санкт-Петербургский государственный архитектурно-строительный университет",
+      "gorod": "Санкт-Петербург",
+      "god_osnovaniya": 1832,
+      "kolichestvo_studentov": 11881
+    },
+    {
+      "mesto": 85,
+      "nazvanie": "Саратовская государственная юридическая академия",
+      "gorod": "Саратов",
+      "god_osnovaniya": 1931,
+      "kolichestvo_studentov": 11840
+    },
+    {
+      "mesto": 86,
+      "nazvanie": "Петербургский государственный университет путей сообщения Императора Александра I",
+      "gorod": "Санкт-Петербург",
+      "god_osnovaniya": 1809,
+      "kolichestvo_studentov": 11837
+    },
+    {
+      "mesto": 87,
+      "nazvanie": "Белгородский государственный технологический университет им. В. Г. Шухова",
+      "gorod": "Белгород",
+      "god_osnovaniya": 1854,
+      "kolichestvo_studentov": 11819
+    },
+    {
+      "mesto": 88,
+      "nazvanie": "Южно-Уральский государственный гуманитарно-педагогический университет",
+      "gorod": "Челябинск",
+      "god_osnovaniya": 1934,
+      "kolichestvo_studentov": 11726
+    },
+    {
+      "mesto": 89,
+      "nazvanie": "Саратовский государственный технический университет имени Гагарина Ю. А.",
+      "gorod": "Саратов",
+      "god_osnovaniya": 1930,
+      "kolichestvo_studentov": 11620
+    },
+    {
+      "mesto": 90,
+      "nazvanie": "Национальный исследовательский Томский политехнический университет",
+      "gorod": "Томск",
+      "god_osnovaniya": 1896,
+      "kolichestvo_studentov": 11553
+    },
+    {
+      "mesto": 91,
+      "nazvanie": "Государственный университет просвещения",
+      "gorod": "Москва",
+      "god_osnovaniya": 1931,
+      "kolichestvo_studentov": 11198
+    },
+    {
+      "mesto": 92,
+      "nazvanie": "Московский государственный юридический университет имени О. Е. Кутафина (МГЮА)",
+      "gorod": "Москва",
+      "god_osnovaniya": 1931,
+      "kolichestvo_studentov": 11096
+    },
+    {
+      "mesto": 93,
+      "nazvanie": "Северо-Западный институт управления — филиал РАНХиГС при Президенте РФ",
+      "gorod": "Санкт-Петербург",
+      "god_osnovaniya": "де-факто — 1918, де-юре — 1944",
+      "kolichestvo_studentov": 11083
+    },
+    {
+      "mesto": 94,
+      "nazvanie": "Юго-Западный государственный университет",
+      "gorod": "Курск",
+      "god_osnovaniya": 1964,
+      "kolichestvo_studentov": 10920
+    },
+    {
+      "mesto": 95,
+      "nazvanie": "Ростовский государственный экономический университет (РИНХ)",
+      "gorod": "Ростов-на-Дону",
+      "god_osnovaniya": 1931,
+      "kolichestvo_studentov": 10814
+    },
+    {
+      "mesto": 96,
+      "nazvanie": "Севастопольский государственный университет",
+      "gorod": "Севастополь",
+      "god_osnovaniya": "",
+      "kolichestvo_studentov": 10790
+    },
+    {
+      "mesto": 97,
+      "nazvanie": "Дагестанский государственный университет",
+      "gorod": "Махачкала",
+      "god_osnovaniya": 1931,
+      "kolichestvo_studentov": 10700
+    },
+    {
+      "mesto": 98,
+      "nazvanie": "Магнитогорский государственный технический университет им. Г. И. Носова",
+      "gorod": "Магнитогорск",
+      "god_osnovaniya": 1934,
+      "kolichestvo_studentov": 10695
+    },
+    {
+      "mesto": 99,
+      "nazvanie": "Ульяновский государственный университет",
+      "gorod": "Ульяновск",
+      "god_osnovaniya": 1988,
+      "kolichestvo_studentov": 10622
+    },
+    {
+      "mesto": 100,
+      "nazvanie": "Тихоокеанский государственный университет",
+      "gorod": "Хабаровск",
+      "god_osnovaniya": 1958,
+      "kolichestvo_studentov": 10490
+    }
+  ],
+  "meta": {
+    "title": "Крупнейшие университеты России по количеству студентов - Free Download",
+    "description": "Сто крупнейших вузов России по числу студентов: город, год основания и количество обучающихся. Contains 100 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Крупнейшие университеты России по количеству студентов | ListBase",
+    "seo_description": "Download Крупнейшие университеты России по количеству студентов — 100 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 100 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Крупнейшие_университеты_России_по_количеству_студентов"
+    ]
+  }
+}
