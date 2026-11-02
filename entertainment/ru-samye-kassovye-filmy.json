@@ -1,0 +1,758 @@
+{
+  "id": "ru-samye-kassovye-filmy",
+  "name": "Самые кассовые фильмы в российском прокате",
+  "title": "Самые кассовые фильмы в российском прокате",
+  "description": "Сто самых кассовых фильмов в истории проката России: кассовые сборы в рублях, число зрителей и год выхода.",
+  "category": "entertainment",
+  "source": "https://ru.wikipedia.org/wiki/Список_самых_кассовых_фильмов_в_России",
+  "source_url": "https://ru.wikipedia.org/wiki/Список_самых_кассовых_фильмов_в_России",
+  "updated": "2026-11",
+  "record_count": 101,
+  "columns": [
+    {
+      "key": "mesto",
+      "label": "Mesto",
+      "type": "number"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "kassovye_sbory_rub",
+      "label": "Kassovye Sbory Rub",
+      "type": "number"
+    },
+    {
+      "key": "zriteli",
+      "label": "Zriteli",
+      "type": "number"
+    },
+    {
+      "key": "god",
+      "label": "God",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "mesto": 1,
+      "nazvanie": "Чебурашка",
+      "kassovye_sbory_rub": 7045716550,
+      "zriteli": 22448799,
+      "god": 2023
+    },
+    {
+      "mesto": 2,
+      "nazvanie": "Чебурашка 2",
+      "kassovye_sbory_rub": 6276652575,
+      "zriteli": "",
+      "god": 2026
+    },
+    {
+      "mesto": 3,
+      "nazvanie": "Холоп 2",
+      "kassovye_sbory_rub": 3842889545,
+      "zriteli": 9864758,
+      "god": 2024
+    },
+    {
+      "mesto": 4,
+      "nazvanie": "Аватар",
+      "kassovye_sbory_rub": 3516796661,
+      "zriteli": 13466217,
+      "god": 2009
+    },
+    {
+      "mesto": 5,
+      "nazvanie": "Холоп",
+      "kassovye_sbory_rub": 3082031789,
+      "zriteli": 11636735,
+      "god": 2019
+    },
+    {
+      "mesto": 6,
+      "nazvanie": "Бременские музыканты",
+      "kassovye_sbory_rub": 3035347378,
+      "zriteli": 8443330,
+      "god": 2024
+    },
+    {
+      "mesto": 7,
+      "nazvanie": "Человек-паук: Нет пути домой",
+      "kassovye_sbory_rub": 2994456517,
+      "zriteli": 8978243,
+      "god": 2021
+    },
+    {
+      "mesto": 8,
+      "nazvanie": "Движение вверх",
+      "kassovye_sbory_rub": 2970588767,
+      "zriteli": 12020021,
+      "god": 2017
+    },
+    {
+      "mesto": 9,
+      "nazvanie": "Король Лев",
+      "kassovye_sbory_rub": 2641791506,
+      "zriteli": 10902932,
+      "god": 2019
+    },
+    {
+      "mesto": 10,
+      "nazvanie": "Мстители: Финал",
+      "kassovye_sbory_rub": 2594826571,
+      "zriteli": 8764679,
+      "god": 2019
+    },
+    {
+      "mesto": 11,
+      "nazvanie": "По щучьему велению",
+      "kassovye_sbory_rub": 2489637434,
+      "zriteli": 8633280,
+      "god": 2023
+    },
+    {
+      "mesto": 12,
+      "nazvanie": "Мастер и Маргарита",
+      "kassovye_sbory_rub": 2310585215,
+      "zriteli": 5542681,
+      "god": 2024
+    },
+    {
+      "mesto": 13,
+      "nazvanie": "Т-34",
+      "kassovye_sbory_rub": 2273745807,
+      "zriteli": 8840748,
+      "god": 2018
+    },
+    {
+      "mesto": 14,
+      "nazvanie": "Последний богатырь: Посланник тьмы",
+      "kassovye_sbory_rub": 2204616988,
+      "zriteli": 7267585,
+      "god": 2021
+    },
+    {
+      "mesto": 15,
+      "nazvanie": "Вызов",
+      "kassovye_sbory_rub": 2139247373,
+      "zriteli": 6727734,
+      "god": 2023
+    },
+    {
+      "mesto": 16,
+      "nazvanie": "Пираты Карибского моря: Мертвецы не рассказывают сказки",
+      "kassovye_sbory_rub": 2131816926,
+      "zriteli": 8024965,
+      "god": 2017
+    },
+    {
+      "mesto": 17,
+      "nazvanie": "Зверополис",
+      "kassovye_sbory_rub": 2082859518,
+      "zriteli": 8457297,
+      "god": 2016
+    },
+    {
+      "mesto": 18,
+      "nazvanie": "Веном 2",
+      "kassovye_sbory_rub": 2055798176,
+      "zriteli": 6697068,
+      "god": 2021
+    },
+    {
+      "mesto": 19,
+      "nazvanie": "Последний богатырь: Корень зла",
+      "kassovye_sbory_rub": 2049717822,
+      "zriteli": 7157705,
+      "god": 2020
+    },
+    {
+      "mesto": 20,
+      "nazvanie": "Тайная жизнь домашних животных",
+      "kassovye_sbory_rub": 1992614872,
+      "zriteli": 8702492,
+      "god": 2016
+    },
+    {
+      "mesto": 21,
+      "nazvanie": "Веном",
+      "kassovye_sbory_rub": 1921830115,
+      "zriteli": 7099439,
+      "god": 2018
+    },
+    {
+      "mesto": 22,
+      "nazvanie": "Малефисента: Владычица тьмы",
+      "kassovye_sbory_rub": 1919855364,
+      "zriteli": 7672023,
+      "god": 2019
+    },
+    {
+      "mesto": 23,
+      "nazvanie": "Джокер",
+      "kassovye_sbory_rub": 1890425865,
+      "zriteli": 6841708,
+      "god": 2019
+    },
+    {
+      "mesto": 24,
+      "nazvanie": "Мстители: Война бесконечности",
+      "kassovye_sbory_rub": 1882793307,
+      "zriteli": 6610515,
+      "god": 2018
+    },
+    {
+      "mesto": 25,
+      "nazvanie": "Лёд 3",
+      "kassovye_sbory_rub": 1855172075,
+      "zriteli": 5193429,
+      "god": 2024
+    },
+    {
+      "mesto": 26,
+      "nazvanie": "Холодное сердце 2",
+      "kassovye_sbory_rub": 1833685501,
+      "zriteli": 7543868,
+      "god": 2019
+    },
+    {
+      "mesto": 27,
+      "nazvanie": "Звёздные войны: Пробуждение силы",
+      "kassovye_sbory_rub": 1719533343,
+      "zriteli": 5228044,
+      "god": 2015
+    },
+    {
+      "mesto": 28,
+      "nazvanie": "Как приручить дракона 3",
+      "kassovye_sbory_rub": 1699657076,
+      "zriteli": 7289343,
+      "god": 2019
+    },
+    {
+      "mesto": 29,
+      "nazvanie": "Пираты Карибского моря: На странных берегах",
+      "kassovye_sbory_rub": 1696795264,
+      "zriteli": 6876304,
+      "god": 2011
+    },
+    {
+      "mesto": 30,
+      "nazvanie": "Полицейский с Рублёвки. Новогодний беспредел",
+      "kassovye_sbory_rub": 1688520350,
+      "zriteli": 6334950,
+      "god": 2018
+    },
+    {
+      "mesto": 31,
+      "nazvanie": "Последний богатырь",
+      "kassovye_sbory_rub": 1672982876,
+      "zriteli": 7405891,
+      "god": 2017
+    },
+    {
+      "mesto": 32,
+      "nazvanie": "Миньоны",
+      "kassovye_sbory_rub": 1672296305,
+      "zriteli": 7509147,
+      "god": 2015
+    },
+    {
+      "mesto": 33,
+      "nazvanie": "Хоббит: Битва пяти воинств",
+      "kassovye_sbory_rub": 1666500000,
+      "zriteli": 5555000,
+      "god": 2014
+    },
+    {
+      "mesto": 34,
+      "nazvanie": "Сталинград",
+      "kassovye_sbory_rub": 1620750726,
+      "zriteli": 5913693,
+      "god": 2013
+    },
+    {
+      "mesto": 35,
+      "nazvanie": "Дэдпул",
+      "kassovye_sbory_rub": 1610032115,
+      "zriteli": 6107298,
+      "god": 2016
+    },
+    {
+      "mesto": 36,
+      "nazvanie": "Отряд самоубийц",
+      "kassovye_sbory_rub": 1588307200,
+      "zriteli": 6133567,
+      "god": 2016
+    },
+    {
+      "mesto": 37,
+      "nazvanie": "Ледниковый период 4: Континентальный дрейф",
+      "kassovye_sbory_rub": 1566494894,
+      "zriteli": 7225202,
+      "god": 2012
+    },
+    {
+      "mesto": 38,
+      "nazvanie": "Анчартед: На картах не значится",
+      "kassovye_sbory_rub": 1562336230,
+      "zriteli": 4846145,
+      "god": 2022
+    },
+    {
+      "mesto": 39,
+      "nazvanie": "Шрек навсегда",
+      "kassovye_sbory_rub": 1555845727,
+      "zriteli": 7711676,
+      "god": 2010
+    },
+    {
+      "mesto": 40,
+      "nazvanie": "Дюна",
+      "kassovye_sbory_rub": 1549977976,
+      "zriteli": 4676752,
+      "god": 2021
+    },
+    {
+      "mesto": 41,
+      "nazvanie": "Мстители: Эра Альтрона",
+      "kassovye_sbory_rub": 1548386369,
+      "zriteli": 5398923,
+      "god": 2015
+    },
+    {
+      "mesto": 42,
+      "nazvanie": "Фантастические твари: Преступления Грин-де-Вальда",
+      "kassovye_sbory_rub": 1530137881,
+      "zriteli": 5446785,
+      "god": 2018
+    },
+    {
+      "mesto": 43,
+      "nazvanie": "Мадагаскар 3",
+      "kassovye_sbory_rub": 1517914413,
+      "zriteli": 7053833,
+      "god": 2012
+    },
+    {
+      "mesto": 44,
+      "nazvanie": "Форсаж 7",
+      "kassovye_sbory_rub": 1514414399,
+      "zriteli": 5470305,
+      "god": 2015
+    },
+    {
+      "mesto": 45,
+      "nazvanie": "Викинг",
+      "kassovye_sbory_rub": 1511525876,
+      "zriteli": 5734517,
+      "god": 2016
+    },
+    {
+      "mesto": 46,
+      "nazvanie": "Тайная жизнь домашних животных 2",
+      "kassovye_sbory_rub": 1485768139,
+      "zriteli": 6931485,
+      "god": 2019
+    },
+    {
+      "mesto": 47,
+      "nazvanie": "Стражи Галактики. Часть 2",
+      "kassovye_sbory_rub": 1480025694,
+      "zriteli": 5300733,
+      "god": 2017
+    },
+    {
+      "mesto": 48,
+      "nazvanie": "Лёд 2",
+      "kassovye_sbory_rub": 1472444770,
+      "zriteli": 6015639,
+      "god": 2020
+    },
+    {
+      "mesto": 49,
+      "nazvanie": "Хоббит: Пустошь Смауга",
+      "kassovye_sbory_rub": 1470000000,
+      "zriteli": 4800000,
+      "god": 2013
+    },
+    {
+      "mesto": 50,
+      "nazvanie": "Лёд",
+      "kassovye_sbory_rub": 1452746309,
+      "zriteli": 6083465,
+      "god": 2018
+    },
+    {
+      "mesto": 51,
+      "nazvanie": "Форсаж 8",
+      "kassovye_sbory_rub": 1443396514,
+      "zriteli": 5320412,
+      "god": 2017
+    },
+    {
+      "mesto": 52,
+      "nazvanie": "Трансформеры: Эпоха истребления",
+      "kassovye_sbory_rub": 1432265890,
+      "zriteli": 5166873,
+      "god": 2014
+    },
+    {
+      "mesto": 52,
+      "nazvanie": "Экипаж",
+      "kassovye_sbory_rub": 1428648768,
+      "zriteli": 5040153,
+      "god": 2016
+    },
+    {
+      "mesto": 54,
+      "nazvanie": "Фантастические твари и где они обитают",
+      "kassovye_sbory_rub": 1418505242,
+      "zriteli": 5190015,
+      "god": 2016
+    },
+    {
+      "mesto": 55,
+      "nazvanie": "Гадкий я 3",
+      "kassovye_sbory_rub": 1397196086,
+      "zriteli": 6674832,
+      "god": 2017
+    },
+    {
+      "mesto": 56,
+      "nazvanie": "Босс-молокосос",
+      "kassovye_sbory_rub": 1391072067,
+      "zriteli": 6320703,
+      "god": 2017
+    },
+    {
+      "mesto": 57,
+      "nazvanie": "Ледниковый период 3: Эра динозавров",
+      "kassovye_sbory_rub": 1383501046,
+      "zriteli": 8270580,
+      "god": 2009
+    },
+    {
+      "mesto": 58,
+      "nazvanie": "Кот в сапогах",
+      "kassovye_sbory_rub": 1378866263,
+      "zriteli": 6162031,
+      "god": 2011
+    },
+    {
+      "mesto": 59,
+      "nazvanie": "Сумерки. Сага: Рассвет — Часть 2",
+      "kassovye_sbory_rub": 1361914256,
+      "zriteli": 6177547,
+      "god": 2012
+    },
+    {
+      "mesto": 60,
+      "nazvanie": "Хоббит: Нежданное путешествие",
+      "kassovye_sbory_rub": 1350000000,
+      "zriteli": 4500000,
+      "god": 2012
+    },
+    {
+      "mesto": 60,
+      "nazvanie": "Варкрафт",
+      "kassovye_sbory_rub": 1322818669,
+      "zriteli": 4799165,
+      "god": 2016
+    },
+    {
+      "mesto": 61,
+      "nazvanie": "Доктор Стрэндж",
+      "kassovye_sbory_rub": 1303115209,
+      "zriteli": 4545479,
+      "god": 2016
+    },
+    {
+      "mesto": 62,
+      "nazvanie": "Джуманджи: Зов джунглей",
+      "kassovye_sbory_rub": 1298517507,
+      "zriteli": 4797324,
+      "god": 2017
+    },
+    {
+      "mesto": 63,
+      "nazvanie": "Железный человек 3",
+      "kassovye_sbory_rub": 1294237028,
+      "zriteli": 4724274,
+      "god": 2013
+    },
+    {
+      "mesto": 64,
+      "nazvanie": "Душа",
+      "kassovye_sbory_rub": 1290829879,
+      "zriteli": 4824688,
+      "god": 2020
+    },
+    {
+      "mesto": 65,
+      "nazvanie": "Дэдпул 2",
+      "kassovye_sbory_rub": 1284738585,
+      "zriteli": 4957613,
+      "god": 2018
+    },
+    {
+      "mesto": 66,
+      "nazvanie": "Аквамен",
+      "kassovye_sbory_rub": 1281277239,
+      "zriteli": 4423470,
+      "god": 2018
+    },
+    {
+      "mesto": 67,
+      "nazvanie": "Стражи Галактики",
+      "kassovye_sbory_rub": 1272064437,
+      "zriteli": 4848233,
+      "god": 2014
+    },
+    {
+      "mesto": 68,
+      "nazvanie": "Тор: Рагнарёк",
+      "kassovye_sbory_rub": 1251193808,
+      "zriteli": 4334537,
+      "god": 2017
+    },
+    {
+      "mesto": 69,
+      "nazvanie": "Малефисента",
+      "kassovye_sbory_rub": 1230792134,
+      "zriteli": 4861066,
+      "god": 2014
+    },
+    {
+      "mesto": 70,
+      "nazvanie": "Трансформеры 3: Тёмная сторона Луны",
+      "kassovye_sbory_rub": 1230452545,
+      "zriteli": 4971221,
+      "god": 2011
+    },
+    {
+      "mesto": 71,
+      "nazvanie": "Книга джунглей",
+      "kassovye_sbory_rub": 1229980134,
+      "zriteli": 4689158,
+      "god": 2016
+    },
+    {
+      "mesto": 72,
+      "nazvanie": "Джентльмены",
+      "kassovye_sbory_rub": 1225354742,
+      "zriteli": 4047758,
+      "god": 2020
+    },
+    {
+      "mesto": 73,
+      "nazvanie": "Аладдин",
+      "kassovye_sbory_rub": 1221271916,
+      "zriteli": 4946296,
+      "god": 2019
+    },
+    {
+      "mesto": 74,
+      "nazvanie": "Алиса в Стране чудес",
+      "kassovye_sbory_rub": 1221224803,
+      "zriteli": 4980045,
+      "god": 2010
+    },
+    {
+      "mesto": 75,
+      "nazvanie": "Мир юрского периода",
+      "kassovye_sbory_rub": 1217548322,
+      "zriteli": 4448818,
+      "god": 2015
+    },
+    {
+      "mesto": 76,
+      "nazvanie": "Человек-паук: Вдали от дома",
+      "kassovye_sbory_rub": 1208460770,
+      "zriteli": 4785380,
+      "god": 2019
+    },
+    {
+      "mesto": 77,
+      "nazvanie": "Мстители",
+      "kassovye_sbory_rub": 1205272295,
+      "zriteli": 4498822,
+      "god": 2012
+    },
+    {
+      "mesto": 78,
+      "nazvanie": "Конёк-Горбунок",
+      "kassovye_sbory_rub": 1176544102,
+      "zriteli": 4813001,
+      "god": 2021
+    },
+    {
+      "mesto": 79,
+      "nazvanie": "Ной",
+      "kassovye_sbory_rub": 1164101259,
+      "zriteli": 4144093,
+      "god": 2014
+    },
+    {
+      "mesto": 80,
+      "nazvanie": "Ирония судьбы. Продолжение",
+      "kassovye_sbory_rub": 1156685306,
+      "zriteli": 7972865,
+      "god": 2007
+    },
+    {
+      "mesto": 81,
+      "nazvanie": "Форсаж 9",
+      "kassovye_sbory_rub": 1156546545,
+      "zriteli": 4041271,
+      "god": 2021
+    },
+    {
+      "mesto": 82,
+      "nazvanie": "Интерстеллар",
+      "kassovye_sbory_rub": 1155358009,
+      "zriteli": 4370738,
+      "god": 2014
+    },
+    {
+      "mesto": 83,
+      "nazvanie": "Ёлки 3",
+      "kassovye_sbory_rub": 1154418577,
+      "zriteli": 4837746,
+      "god": 2013
+    },
+    {
+      "mesto": 84,
+      "nazvanie": "Аватар: Путь воды",
+      "kassovye_sbory_rub": 1147827025,
+      "zriteli": 2178697,
+      "god": 2022
+    },
+    {
+      "mesto": 85,
+      "nazvanie": "Терминатор: Генезис",
+      "kassovye_sbory_rub": 1146346842,
+      "zriteli": 4171259,
+      "god": 2015
+    },
+    {
+      "mesto": 86,
+      "nazvanie": "Капитан Марвел",
+      "kassovye_sbory_rub": 1146265757,
+      "zriteli": 4095813,
+      "god": 2019
+    },
+    {
+      "mesto": 87,
+      "nazvanie": "Вий",
+      "kassovye_sbory_rub": 1144128522,
+      "zriteli": 4125058,
+      "god": 2014
+    },
+    {
+      "mesto": 88,
+      "nazvanie": "Монстры на каникулах 3: Море зовёт",
+      "kassovye_sbory_rub": 1129101636,
+      "zriteli": 5410205,
+      "god": 2018
+    },
+    {
+      "mesto": 89,
+      "nazvanie": "Однажды в Голливуде",
+      "kassovye_sbory_rub": 1122872960,
+      "zriteli": 3880436,
+      "god": 2019
+    },
+    {
+      "mesto": 90,
+      "nazvanie": "Джуманджи: Новый уровень",
+      "kassovye_sbory_rub": 1120973314,
+      "zriteli": 4072934,
+      "god": 2019
+    },
+    {
+      "mesto": 91,
+      "nazvanie": "Три богатыря и Пуп Земли",
+      "kassovye_sbory_rub": 1112292106,
+      "zriteli": 3440444,
+      "god": 2023
+    },
+    {
+      "mesto": 92,
+      "nazvanie": "Оно 2",
+      "kassovye_sbory_rub": 1110947137,
+      "zriteli": 4255050,
+      "god": 2019
+    },
+    {
+      "mesto": 93,
+      "nazvanie": "Марсианин",
+      "kassovye_sbory_rub": 1103962655,
+      "zriteli": 3920433,
+      "god": 2015
+    },
+    {
+      "mesto": 94,
+      "nazvanie": "Мир юрского периода 2",
+      "kassovye_sbory_rub": 1103089599,
+      "zriteli": 4150861,
+      "god": 2018
+    },
+    {
+      "mesto": 95,
+      "nazvanie": "Тор 2: Царство тьмы",
+      "kassovye_sbory_rub": 1093674790,
+      "zriteli": 3868670,
+      "god": 2013
+    },
+    {
+      "mesto": 96,
+      "nazvanie": "Люди в чёрном 3",
+      "kassovye_sbory_rub": 1091369028,
+      "zriteli": 4187794,
+      "god": 2012
+    },
+    {
+      "mesto": 97,
+      "nazvanie": "Гадкий я 2",
+      "kassovye_sbory_rub": 1087315014,
+      "zriteli": 4913600,
+      "god": 2013
+    },
+    {
+      "mesto": 98,
+      "nazvanie": "Форсаж: Хоббс и Шоу",
+      "kassovye_sbory_rub": 1066618259,
+      "zriteli": 4034157,
+      "god": 2019
+    },
+    {
+      "mesto": 99,
+      "nazvanie": "Мадагаскар 2",
+      "kassovye_sbory_rub": 1063370912,
+      "zriteli": 7376908,
+      "god": 2008
+    },
+    {
+      "mesto": 100,
+      "nazvanie": "Черепашки-ниндзя",
+      "kassovye_sbory_rub": 1051038246,
+      "zriteli": 4579737,
+      "god": 2014
+    }
+  ],
+  "meta": {
+    "title": "Самые кассовые фильмы в российском прокате - Free Download",
+    "description": "Сто самых кассовых фильмов в истории проката России: кассовые сборы в рублях, число зрителей и год выхода. Contains 101 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Самые кассовые фильмы в российском прокате | ListBase",
+    "seo_description": "Download Самые кассовые фильмы в российском прокате — 101 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 101 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Список_самых_кассовых_фильмов_в_России"
+    ]
+  }
+}
