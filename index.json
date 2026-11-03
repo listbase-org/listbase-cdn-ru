@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-02T02:14:21.369Z",
-  "total_datasets": 494,
-  "total_records": 217746,
+  "generated": "2026-11-03T02:09:59.260Z",
+  "total_datasets": 495,
+  "total_records": 217971,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "reference",
@@ -4437,6 +4437,33 @@
         "xlsx": {
           "name": "ru-rossiya-na-evrovidenii_RU.xlsx",
           "size": 9801
+        }
+      }
+    },
+    {
+      "id": "ru-deputaty-gosdumy-9-sozyva-odnomandatniki",
+      "name": "Депутаты Государственной думы IX созыва по одномандатным округам",
+      "category": "politics",
+      "record_count": 225,
+      "columns": [
+        "nomer",
+        "subekt",
+        "okrug",
+        "fio",
+        "partiya",
+        "fraktsiya"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_депутатов_Государственной_думы_Российской_Федерации_IX_созыва",
+      "updated": "2026-11",
+      "size": 67379,
+      "files": {
+        "csv": {
+          "name": "ru-deputaty-gosdumy-9-sozyva-odnomandatniki_RU.csv",
+          "size": 39655
+        },
+        "xlsx": {
+          "name": "ru-deputaty-gosdumy-9-sozyva-odnomandatniki_RU.xlsx",
+          "size": 18306
         }
       }
     },
