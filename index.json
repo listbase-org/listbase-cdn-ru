@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-03T02:10:22.339Z",
-  "total_datasets": 498,
-  "total_records": 218335,
+  "generated": "2026-11-03T02:10:30.458Z",
+  "total_datasets": 499,
+  "total_records": 219211,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "politics",
@@ -4489,6 +4489,30 @@
         "xlsx": {
           "name": "ru-rossiya-na-evrovidenii_RU.xlsx",
           "size": 9801
+        }
+      }
+    },
+    {
+      "id": "ru-zolotoy-grammofon-laureaty",
+      "name": "Лауреаты премии «Золотой граммофон»",
+      "category": "music",
+      "record_count": 876,
+      "columns": [
+        "god",
+        "ispolnitel",
+        "pesnya"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_лауреатов_премии_«Золотой_граммофон»",
+      "updated": "2026-11",
+      "size": 116261,
+      "files": {
+        "csv": {
+          "name": "ru-zolotoy-grammofon-laureaty_RU.csv",
+          "size": 59955
+        },
+        "xlsx": {
+          "name": "ru-zolotoy-grammofon-laureaty_RU.xlsx",
+          "size": 33395
         }
       }
     },
