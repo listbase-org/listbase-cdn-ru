@@ -1,12 +1,12 @@
 {
   "lang": "ru",
-  "generated": "2026-11-03T02:10:07.371Z",
-  "total_datasets": 496,
-  "total_records": 218112,
+  "generated": "2026-11-03T02:10:14.848Z",
+  "total_datasets": 497,
+  "total_records": 218241,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -102,6 +102,32 @@
     }
   ],
   "datasets": [
+    {
+      "id": "ru-ministry-selskogo-khozyaystva",
+      "name": "Министры сельского хозяйства России",
+      "category": "agriculture",
+      "record_count": 129,
+      "columns": [
+        "period",
+        "imya",
+        "gody_zhizni",
+        "vstuplenie_v_dolzhnost",
+        "snyatie_s_dolzhnosti"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_министров_сельского_хозяйства_России",
+      "updated": "2026-11",
+      "size": 45431,
+      "files": {
+        "csv": {
+          "name": "ru-ministry-selskogo-khozyaystva_RU.csv",
+          "size": 26368
+        },
+        "xlsx": {
+          "name": "ru-ministry-selskogo-khozyaystva_RU.xlsx",
+          "size": 13458
+        }
+      }
+    },
     {
       "id": "ru-proizvodstvo-zhivotnovodstva",
       "name": "Производство основных продуктов животноводства в России",
