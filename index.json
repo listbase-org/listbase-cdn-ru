@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-03T02:10:14.848Z",
-  "total_datasets": 497,
-  "total_records": 218241,
+  "generated": "2026-11-03T02:10:22.339Z",
+  "total_datasets": 498,
+  "total_records": 218335,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "music",
@@ -4330,6 +4330,32 @@
         "xlsx": {
           "name": "ru-generalnye-prokurory-rf_RU.xlsx",
           "size": 7448
+        }
+      }
+    },
+    {
+      "id": "ru-ministry-yustitsii",
+      "name": "Министры юстиции России",
+      "category": "law",
+      "record_count": 94,
+      "columns": [
+        "period",
+        "imya",
+        "gody_zhizni",
+        "vstuplenie_v_dolzhnost",
+        "snyatie_s_dolzhnosti"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_министров_юстиции_России",
+      "updated": "2026-11",
+      "size": 32031,
+      "files": {
+        "csv": {
+          "name": "ru-ministry-yustitsii_RU.csv",
+          "size": 17781
+        },
+        "xlsx": {
+          "name": "ru-ministry-yustitsii_RU.xlsx",
+          "size": 11671
         }
       }
     },

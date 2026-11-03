@@ -1,0 +1,709 @@
+{
+  "id": "ru-ministry-yustitsii",
+  "name": "Министры юстиции России",
+  "title": "Министры юстиции России",
+  "description": "Министры юстиции Российской империи, РСФСР, СССР и Российской Федерации с 1802 года: годы жизни, даты вступления в должность и ухода с неё.",
+  "category": "law",
+  "source": "https://ru.wikipedia.org/wiki/Список_министров_юстиции_России",
+  "source_url": "https://ru.wikipedia.org/wiki/Список_министров_юстиции_России",
+  "updated": "2026-11",
+  "record_count": 94,
+  "columns": [
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    },
+    {
+      "key": "imya",
+      "label": "Imya",
+      "type": "string"
+    },
+    {
+      "key": "gody_zhizni",
+      "label": "Gody Zhizni",
+      "type": "string"
+    },
+    {
+      "key": "vstuplenie_v_dolzhnost",
+      "label": "Vstuplenie V Dolzhnost",
+      "type": "string"
+    },
+    {
+      "key": "snyatie_s_dolzhnosti",
+      "label": "Snyatie S Dolzhnosti",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Державин, Гавриил Романович",
+      "gody_zhizni": "1743—1816",
+      "vstuplenie_v_dolzhnost": "8 сентября 1802",
+      "snyatie_s_dolzhnosti": "7 октября 1803"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Лопухин, Пётр Васильевич",
+      "gody_zhizni": "1753—1827",
+      "vstuplenie_v_dolzhnost": "8 октября 1803",
+      "snyatie_s_dolzhnosti": "17 января 1810"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Дмитриев, Иван Иванович",
+      "gody_zhizni": "1760—1837",
+      "vstuplenie_v_dolzhnost": "17 января 1810",
+      "snyatie_s_dolzhnosti": "30 августа 1814"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Трощинский, Дмитрий Прокофьевич",
+      "gody_zhizni": "1749—1829",
+      "vstuplenie_v_dolzhnost": "30 августа 1814",
+      "snyatie_s_dolzhnosti": "25 августа 1817"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Лобанов-Ростовский, Дмитрий Иванович",
+      "gody_zhizni": "1758—1838",
+      "vstuplenie_v_dolzhnost": "25 августа 1817",
+      "snyatie_s_dolzhnosti": "18 октября 1827"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Долгоруков (Долгорукий) Алексей Алексеевич",
+      "gody_zhizni": "1767—1834",
+      "vstuplenie_v_dolzhnost": "18 октября 1827",
+      "snyatie_s_dolzhnosti": "20 сентября 1829"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Дашков, Дмитрий Васильевич",
+      "gody_zhizni": "1788—1839",
+      "vstuplenie_v_dolzhnost": "20 сентября 1829",
+      "snyatie_s_dolzhnosti": "14 февраля 1839"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Блудов, Дмитрий Николаевич",
+      "gody_zhizni": "1785—1864",
+      "vstuplenie_v_dolzhnost": "15 февраля 1839",
+      "snyatie_s_dolzhnosti": "31 декабря 1839"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Панин, Виктор Никитич",
+      "gody_zhizni": "1801—1874",
+      "vstuplenie_v_dolzhnost": "31 декабря 1839",
+      "snyatie_s_dolzhnosti": "21 октября 1862"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Замятнин, Дмитрий Николаевич",
+      "gody_zhizni": "1805—1881",
+      "vstuplenie_v_dolzhnost": "21 октября 1862",
+      "snyatie_s_dolzhnosti": "18 апреля 1867"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Урусов, Сергей Николаевич",
+      "gody_zhizni": "1816—1883",
+      "vstuplenie_v_dolzhnost": "18 апреля 1867",
+      "snyatie_s_dolzhnosti": "15 октября 1867"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Пален, Константин Иванович",
+      "gody_zhizni": "1833—1912",
+      "vstuplenie_v_dolzhnost": "15 октября 1867",
+      "snyatie_s_dolzhnosti": "30 мая 1878"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Набоков, Дмитрий Николаевич",
+      "gody_zhizni": "1827—1904",
+      "vstuplenie_v_dolzhnost": "30 мая 1878",
+      "snyatie_s_dolzhnosti": "6 ноября 1885"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Манасеин, Николай Авксентьевич",
+      "gody_zhizni": "1834—1895",
+      "vstuplenie_v_dolzhnost": "6 ноября 1885",
+      "snyatie_s_dolzhnosti": "1 января 1894"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Муравьёв, Николай Валерианович",
+      "gody_zhizni": "1850—1908",
+      "vstuplenie_v_dolzhnost": "1 января 1894",
+      "snyatie_s_dolzhnosti": "14 января 1905"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Манухин, Сергей Сергеевич",
+      "gody_zhizni": "1856—1922",
+      "vstuplenie_v_dolzhnost": "21 января 1905",
+      "snyatie_s_dolzhnosti": "16 декабря 1905"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Акимов, Михаил Григорьевич",
+      "gody_zhizni": "1847—1914",
+      "vstuplenie_v_dolzhnost": "16 декабря 1905",
+      "snyatie_s_dolzhnosti": "24 апреля 1906"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Щегловитов, Иван Григорьевич",
+      "gody_zhizni": "1861—1918",
+      "vstuplenie_v_dolzhnost": "24 апреля 1906",
+      "snyatie_s_dolzhnosti": "6 июля 1915"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Хвостов, Александр Алексеевич",
+      "gody_zhizni": "1857—1922",
+      "vstuplenie_v_dolzhnost": "6 июля 1915",
+      "snyatie_s_dolzhnosti": "7 июля 1916"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Макаров, Александр Александрович",
+      "gody_zhizni": "1857—1919",
+      "vstuplenie_v_dolzhnost": "7 июля 1916",
+      "snyatie_s_dolzhnosti": "20 декабря 1916"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Добровольский, Николай Александрович",
+      "gody_zhizni": "1854—1918",
+      "vstuplenie_v_dolzhnost": "20 декабря 1916",
+      "snyatie_s_dolzhnosti": "28 февраля 1917"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Новосильцев, Николай Николаевич",
+      "gody_zhizni": "1761—1838",
+      "vstuplenie_v_dolzhnost": "21 октября 1803",
+      "snyatie_s_dolzhnosti": "16 декабря 1808"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Сперанский, Михаил Михайлович",
+      "gody_zhizni": "1772—1839",
+      "vstuplenie_v_dolzhnost": "16 декабря 1808",
+      "snyatie_s_dolzhnosti": "30 августа 1810"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Долгоруков, Алексей Алексеевич",
+      "gody_zhizni": "1767—1834",
+      "vstuplenie_v_dolzhnost": "27 апреля 1827",
+      "snyatie_s_dolzhnosti": "18 октября 1827"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Дашков, Дмитрий Васильевич",
+      "gody_zhizni": "1784?—1839",
+      "vstuplenie_v_dolzhnost": "26 марта 1829",
+      "snyatie_s_dolzhnosti": "20 сентября 1829"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Панин, Виктор Никитич",
+      "gody_zhizni": "1801—1874",
+      "vstuplenie_v_dolzhnost": "21 апреля 1832",
+      "snyatie_s_dolzhnosti": "31 декабря 1839"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Шереметев, Василий Александрович",
+      "gody_zhizni": "1795—1862",
+      "vstuplenie_v_dolzhnost": "28 июня 1843",
+      "snyatie_s_dolzhnosti": "3 марта 1847"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Илличевский, Платон Демьянович",
+      "gody_zhizni": "1808—1858",
+      "vstuplenie_v_dolzhnost": "28 марта 1847",
+      "snyatie_s_dolzhnosti": "1 мая 1858"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Замятнин, Дмитрий Николаевич",
+      "gody_zhizni": "1805—1881",
+      "vstuplenie_v_dolzhnost": "9 мая 1858",
+      "snyatie_s_dolzhnosti": "21 октября 1862"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Стояновский, Николай Иванович",
+      "gody_zhizni": "1820/1821—1900",
+      "vstuplenie_v_dolzhnost": "8 ноября 1862",
+      "snyatie_s_dolzhnosti": "1 января 1867"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Пален, Константин Иванович",
+      "gody_zhizni": "1830—1912",
+      "vstuplenie_v_dolzhnost": "1 января 1867",
+      "snyatie_s_dolzhnosti": "15 октября 1867"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Перцов, Александр Петрович",
+      "gody_zhizni": "1819—1896",
+      "vstuplenie_v_dolzhnost": "30 ноября 1867",
+      "snyatie_s_dolzhnosti": "13 августа 1870"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Эссен, Отто Васильевич",
+      "gody_zhizni": "1827—1876",
+      "vstuplenie_v_dolzhnost": "30 августа 1870",
+      "snyatie_s_dolzhnosti": "16 февраля 1876"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Фриш, Эдуард Васильевич",
+      "gody_zhizni": "1833—1907",
+      "vstuplenie_v_dolzhnost": "22 февраля 1876",
+      "snyatie_s_dolzhnosti": "1 января 1883"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Марков, Павел Алексеевич",
+      "gody_zhizni": "1841—1913",
+      "vstuplenie_v_dolzhnost": "4 мая 1883",
+      "snyatie_s_dolzhnosti": "1 апреля 1890"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Аракин, Александр Тихонович",
+      "gody_zhizni": "1846—1891",
+      "vstuplenie_v_dolzhnost": "1 апреля 1890",
+      "snyatie_s_dolzhnosti": "14 июня 1891"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Горемыкин, Иван Логгинович",
+      "gody_zhizni": "1839—1917",
+      "vstuplenie_v_dolzhnost": "27 ноября 1891",
+      "snyatie_s_dolzhnosti": "12 января 1894"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Бутовский, Пётр Михайлович",
+      "gody_zhizni": "1842—1912",
+      "vstuplenie_v_dolzhnost": "12 января 1894",
+      "snyatie_s_dolzhnosti": "1 января 1901"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Манухин, Сергей Сергеевич",
+      "gody_zhizni": "1856—1922",
+      "vstuplenie_v_dolzhnost": "1 января 1901",
+      "snyatie_s_dolzhnosti": "21 января 1905"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Щегловитов, Иван Григорьевич",
+      "gody_zhizni": "1861—1918",
+      "vstuplenie_v_dolzhnost": "1 февраля 1906",
+      "snyatie_s_dolzhnosti": "24 апреля 1906"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Гасман, Анатолий Григорьевич",
+      "gody_zhizni": "1844—1919",
+      "vstuplenie_v_dolzhnost": "май 1906",
+      "snyatie_s_dolzhnosti": "1913"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Люце, Михаил Фёдорович",
+      "gody_zhizni": "1844—1918",
+      "vstuplenie_v_dolzhnost": "1907",
+      "snyatie_s_dolzhnosti": "1909"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Верёвкин, Александр Николаевич",
+      "gody_zhizni": "1864—1920",
+      "vstuplenie_v_dolzhnost": "1 января 1910",
+      "snyatie_s_dolzhnosti": "1 января 1917"
+    },
+    {
+      "period": "Министерство юстиции Российской империи",
+      "imya": "Ильяшенко, Илья Ефимович",
+      "gody_zhizni": "1859—1920",
+      "vstuplenie_v_dolzhnost": "1913",
+      "snyatie_s_dolzhnosti": "10 марта 1917"
+    },
+    {
+      "period": "Министерство юстиции Временного правительства",
+      "imya": "Керенский, Александр Фёдорович",
+      "gody_zhizni": "1881—1970",
+      "vstuplenie_v_dolzhnost": "15 марта 1917",
+      "snyatie_s_dolzhnosti": "18 мая 1917"
+    },
+    {
+      "period": "Министерство юстиции Временного правительства",
+      "imya": "Переверзев, Павел Николаевич",
+      "gody_zhizni": "1871—1944",
+      "vstuplenie_v_dolzhnost": "18 мая 1917",
+      "snyatie_s_dolzhnosti": "19 июля 1917"
+    },
+    {
+      "period": "Министерство юстиции Временного правительства",
+      "imya": "Ефремов, Иван Николаевич",
+      "gody_zhizni": "1866—1945",
+      "vstuplenie_v_dolzhnost": "23 июля 1917",
+      "snyatie_s_dolzhnosti": "6 августа 1917"
+    },
+    {
+      "period": "Министерство юстиции Временного правительства",
+      "imya": "Зарудный, Александр Сергеевич",
+      "gody_zhizni": "1863—1934",
+      "vstuplenie_v_dolzhnost": "7 августа 1917",
+      "snyatie_s_dolzhnosti": "15 сентября 1917"
+    },
+    {
+      "period": "Министерство юстиции Временного правительства",
+      "imya": "Демьянов, Александр Алексеевич",
+      "gody_zhizni": "1865—1925",
+      "vstuplenie_v_dolzhnost": "16 сентября 1917",
+      "snyatie_s_dolzhnosti": "8 октября 1917"
+    },
+    {
+      "period": "Министерство юстиции Временного правительства",
+      "imya": "Малянтович, Павел Николаевич",
+      "gody_zhizni": "1869—1940",
+      "vstuplenie_v_dolzhnost": "8 октября 1917",
+      "snyatie_s_dolzhnosti": "25 октября 1917"
+    },
+    {
+      "period": "Министерство юстиции Российского государства",
+      "imya": "Старынкевич Сергей Созонтович",
+      "gody_zhizni": "1874—1933",
+      "vstuplenie_v_dolzhnost": "18 ноября 1918",
+      "snyatie_s_dolzhnosti": "2 мая 1919"
+    },
+    {
+      "period": "Министерство юстиции Российского государства",
+      "imya": "Тельберг Георгий Густавович",
+      "gody_zhizni": "1881—1954",
+      "vstuplenie_v_dolzhnost": "2 мая 1919",
+      "snyatie_s_dolzhnosti": "29 ноября 1919"
+    },
+    {
+      "period": "Министерство юстиции Российского государства",
+      "imya": "Морозов, Александр Павлович",
+      "gody_zhizni": "1864—1933",
+      "vstuplenie_v_dolzhnost": "29 ноября 1919",
+      "snyatie_s_dolzhnosti": "4 января 1920"
+    },
+    {
+      "period": "Народный комиссариат юстиции СССР",
+      "imya": "Крыленко, Николай Васильевич",
+      "gody_zhizni": "1885—1938",
+      "vstuplenie_v_dolzhnost": "20 июля 1936",
+      "snyatie_s_dolzhnosti": "15 января 1938"
+    },
+    {
+      "period": "Народный комиссариат юстиции СССР",
+      "imya": "Рычков, Николай Михайлович",
+      "gody_zhizni": "1897—1959",
+      "vstuplenie_v_dolzhnost": "19 января 1938",
+      "snyatie_s_dolzhnosti": "15 марта 1946"
+    },
+    {
+      "period": "Министерство юстиции СССР",
+      "imya": "Рычков, Николай Михайлович",
+      "gody_zhizni": "1897—1959",
+      "vstuplenie_v_dolzhnost": "15 марта 1946",
+      "snyatie_s_dolzhnosti": "29 января 1948"
+    },
+    {
+      "period": "Министерство юстиции СССР",
+      "imya": "Горшенин, Константин Петрович",
+      "gody_zhizni": "1907—1978",
+      "vstuplenie_v_dolzhnost": "29 января 1948",
+      "snyatie_s_dolzhnosti": "31 мая 1956"
+    },
+    {
+      "period": "Юридическая комиссия при Совете министров СССР",
+      "imya": "Денисов, Андрей Иванович",
+      "gody_zhizni": "1906—1984",
+      "vstuplenie_v_dolzhnost": "1 августа 1956",
+      "snyatie_s_dolzhnosti": "24 июля 1962"
+    },
+    {
+      "period": "Юридическая комиссия при Совете министров СССР",
+      "imya": "Чхиквадзе, Виктор Михайлович",
+      "gody_zhizni": "1912—2006",
+      "vstuplenie_v_dolzhnost": "24 июля 1962",
+      "snyatie_s_dolzhnosti": "26 марта 1964"
+    },
+    {
+      "period": "Юридическая комиссия при Совете министров СССР",
+      "imya": "Мишутин, Александр Николаевич",
+      "gody_zhizni": "1905—1988",
+      "vstuplenie_v_dolzhnost": "26 марта 1964",
+      "snyatie_s_dolzhnosti": "30 июля 1970"
+    },
+    {
+      "period": "Министерство юстиции СССР",
+      "imya": "Теребилов, Владимир Иванович",
+      "gody_zhizni": "1916—2004",
+      "vstuplenie_v_dolzhnost": "1 сентября 1970",
+      "snyatie_s_dolzhnosti": "12 апреля 1984"
+    },
+    {
+      "period": "Министерство юстиции СССР",
+      "imya": "Кравцов, Борис Васильевич",
+      "gody_zhizni": "род. 1922",
+      "vstuplenie_v_dolzhnost": "12 апреля 1984",
+      "snyatie_s_dolzhnosti": "7 июня 1989"
+    },
+    {
+      "period": "Министерство юстиции СССР",
+      "imya": "Яковлев, Вениамин Федорович",
+      "gody_zhizni": "1932—2018",
+      "vstuplenie_v_dolzhnost": "11 июля 1989",
+      "snyatie_s_dolzhnosti": "11 декабря 1990"
+    },
+    {
+      "period": "Министерство юстиции СССР",
+      "imya": "Лущиков, Сергей Геннадьевич",
+      "gody_zhizni": "род. 1951",
+      "vstuplenie_v_dolzhnost": "11 декабря 1990 и. о. 28 августа 1991",
+      "snyatie_s_dolzhnosti": "28 августа 1991 26 ноября 1991"
+    },
+    {
+      "period": "Народный комиссариат юстиции РСФСР",
+      "imya": "Оппоков, Георгий Ипполитович",
+      "gody_zhizni": "1888—1938",
+      "vstuplenie_v_dolzhnost": "25 октября 1917",
+      "snyatie_s_dolzhnosti": "16 ноября 1917"
+    },
+    {
+      "period": "Народный комиссариат юстиции РСФСР",
+      "imya": "Стучка, Пётр Иванович",
+      "gody_zhizni": "1865—1932",
+      "vstuplenie_v_dolzhnost": "16 ноября 1917",
+      "snyatie_s_dolzhnosti": "12 декабря 1917"
+    },
+    {
+      "period": "Народный комиссариат юстиции РСФСР",
+      "imya": "Штейнберг, Исаак Захарович",
+      "gody_zhizni": "1888—1957",
+      "vstuplenie_v_dolzhnost": "12 декабря 1917",
+      "snyatie_s_dolzhnosti": "18 марта 1918"
+    },
+    {
+      "period": "Народный комиссариат юстиции РСФСР",
+      "imya": "Стучка, Пётр Иванович",
+      "gody_zhizni": "1865—1932",
+      "vstuplenie_v_dolzhnost": "18 марта 1918",
+      "snyatie_s_dolzhnosti": "22 августа 1918"
+    },
+    {
+      "period": "Народный комиссариат юстиции РСФСР",
+      "imya": "Курский, Дмитрий Иванович",
+      "gody_zhizni": "1874—1932",
+      "vstuplenie_v_dolzhnost": "22 августа 1918",
+      "snyatie_s_dolzhnosti": "16 января 1928"
+    },
+    {
+      "period": "Народный комиссариат юстиции РСФСР",
+      "imya": "Янсон, Николай Михайлович",
+      "gody_zhizni": "1882—1938",
+      "vstuplenie_v_dolzhnost": "16 января 1928",
+      "snyatie_s_dolzhnosti": "6 марта 1931"
+    },
+    {
+      "period": "Народный комиссариат юстиции РСФСР",
+      "imya": "Крыленко, Николай Васильевич",
+      "gody_zhizni": "1885—1938",
+      "vstuplenie_v_dolzhnost": "5 мая 1931",
+      "snyatie_s_dolzhnosti": "20 июля 1936"
+    },
+    {
+      "period": "Народный комиссариат юстиции РСФСР",
+      "imya": "Булат, Иван Лазаревич",
+      "gody_zhizni": "1896—1938",
+      "vstuplenie_v_dolzhnost": "20 июля 1936",
+      "snyatie_s_dolzhnosti": "31 августа 1937"
+    },
+    {
+      "period": "Народный комиссариат юстиции РСФСР",
+      "imya": "Антонов-Овсеенко, Владимир Александрович",
+      "gody_zhizni": "1883—1938",
+      "vstuplenie_v_dolzhnost": "15 сентября 1937",
+      "snyatie_s_dolzhnosti": "11 октября 1937"
+    },
+    {
+      "period": "Народный комиссариат юстиции РСФСР",
+      "imya": "Дмитриев, Яков Петрович",
+      "gody_zhizni": "1892—1975",
+      "vstuplenie_v_dolzhnost": "17 октября 1937",
+      "snyatie_s_dolzhnosti": "25 января 1940"
+    },
+    {
+      "period": "Народный комиссариат юстиции РСФСР",
+      "imya": "Горшенин, Константин Петрович",
+      "gody_zhizni": "1907—1978",
+      "vstuplenie_v_dolzhnost": "27 января 1940",
+      "snyatie_s_dolzhnosti": "12 ноября 1943"
+    },
+    {
+      "period": "Народный комиссариат юстиции РСФСР",
+      "imya": "Басавин, Иван Александрович",
+      "gody_zhizni": "1907—1984",
+      "vstuplenie_v_dolzhnost": "5 января 1944",
+      "snyatie_s_dolzhnosti": "15 марта 1946"
+    },
+    {
+      "period": "Министерство юстиции РСФСР",
+      "imya": "Басавин, Иван Александрович",
+      "gody_zhizni": "1907—1984",
+      "vstuplenie_v_dolzhnost": "15 марта 1946",
+      "snyatie_s_dolzhnosti": "5 октября 1949"
+    },
+    {
+      "period": "Министерство юстиции РСФСР",
+      "imya": "Беляев, Фёдор Архипович",
+      "gody_zhizni": "1904—1966",
+      "vstuplenie_v_dolzhnost": "5 октября 1949",
+      "snyatie_s_dolzhnosti": "11 июня 1953"
+    },
+    {
+      "period": "Министерство юстиции РСФСР",
+      "imya": "Рубичев, Анатолий Тимофеевич",
+      "gody_zhizni": "1903—1973",
+      "vstuplenie_v_dolzhnost": "11 июня 1953",
+      "snyatie_s_dolzhnosti": "27 марта 1957"
+    },
+    {
+      "period": "Министерство юстиции РСФСР",
+      "imya": "Болдырев, Владимир Афанасьевич",
+      "gody_zhizni": "1900—1976",
+      "vstuplenie_v_dolzhnost": "11 мая 1957",
+      "snyatie_s_dolzhnosti": "13 апреля 1963"
+    },
+    {
+      "period": "Юридическая комиссия СМ РСФСР",
+      "imya": "Круглов, Алексей Андреевич",
+      "gody_zhizni": "1907—1974",
+      "vstuplenie_v_dolzhnost": "13 апреля 1963",
+      "snyatie_s_dolzhnosti": "24 сентября 1970"
+    },
+    {
+      "period": "Министерство юстиции РСФСР",
+      "imya": "Блинов, Владимир Михайлович",
+      "gody_zhizni": "1918—1990",
+      "vstuplenie_v_dolzhnost": "24 сентября 1970",
+      "snyatie_s_dolzhnosti": "15 февраля 1984"
+    },
+    {
+      "period": "Министерство юстиции РСФСР",
+      "imya": "Сухарев, Александр Яковлевич",
+      "gody_zhizni": "1923—2021",
+      "vstuplenie_v_dolzhnost": "15 марта 1984",
+      "snyatie_s_dolzhnosti": "25 февраля 1988"
+    },
+    {
+      "period": "Министерство юстиции РСФСР",
+      "imya": "Аболенцев, Владимир Александрович",
+      "gody_zhizni": "1927—2012",
+      "vstuplenie_v_dolzhnost": "5 апреля 1988 и. о. 15 июня 1990",
+      "snyatie_s_dolzhnosti": "15 июня 1990 14 июля 1990"
+    },
+    {
+      "period": "Министерство юстиции РСФСР",
+      "imya": "Фёдоров, Николай Васильевич",
+      "gody_zhizni": "род. 1958",
+      "vstuplenie_v_dolzhnost": "14 июля 1990",
+      "snyatie_s_dolzhnosti": "25 декабря 1991"
+    },
+    {
+      "period": "Министерство юстиции Российской Федерации",
+      "imya": "Фёдоров, Николай Васильевич",
+      "gody_zhizni": "род. 1958",
+      "vstuplenie_v_dolzhnost": "25 декабря 1991",
+      "snyatie_s_dolzhnosti": "24 марта 1993"
+    },
+    {
+      "period": "Министерство юстиции Российской Федерации",
+      "imya": "Калмыков, Юрий Хамзатович",
+      "gody_zhizni": "1934—1997",
+      "vstuplenie_v_dolzhnost": "13 апреля 1993",
+      "snyatie_s_dolzhnosti": "7 декабря 1994"
+    },
+    {
+      "period": "Министерство юстиции Российской Федерации",
+      "imya": "Ковалёв, Валентин Алексеевич",
+      "gody_zhizni": "род. 1944",
+      "vstuplenie_v_dolzhnost": "5 января 1995",
+      "snyatie_s_dolzhnosti": "2 июля 1997"
+    },
+    {
+      "period": "Министерство юстиции Российской Федерации",
+      "imya": "Степашин, Сергей Вадимович",
+      "gody_zhizni": "род. 1952",
+      "vstuplenie_v_dolzhnost": "2 июля 1997",
+      "snyatie_s_dolzhnosti": "29 марта 1998"
+    },
+    {
+      "period": "Министерство юстиции Российской Федерации",
+      "imya": "Крашенинников, Павел Владимирович",
+      "gody_zhizni": "род. 1964",
+      "vstuplenie_v_dolzhnost": "30 апреля 1998",
+      "snyatie_s_dolzhnosti": "17 августа 1999"
+    },
+    {
+      "period": "Министерство юстиции Российской Федерации",
+      "imya": "Чайка, Юрий Яковлевич",
+      "gody_zhizni": "род. 1951",
+      "vstuplenie_v_dolzhnost": "17 августа 1999",
+      "snyatie_s_dolzhnosti": "23 июня 2006"
+    },
+    {
+      "period": "Министерство юстиции Российской Федерации",
+      "imya": "Устинов, Владимир Васильевич",
+      "gody_zhizni": "род. 1953",
+      "vstuplenie_v_dolzhnost": "23 июня 2006",
+      "snyatie_s_dolzhnosti": "12 мая 2008"
+    },
+    {
+      "period": "Министерство юстиции Российской Федерации",
+      "imya": "Коновалов, Александр Владимирович",
+      "gody_zhizni": "род. 1968",
+      "vstuplenie_v_dolzhnost": "12 мая 2008",
+      "snyatie_s_dolzhnosti": "21 января 2020"
+    },
+    {
+      "period": "Министерство юстиции Российской Федерации",
+      "imya": "Чуйченко, Константин Анатольевич",
+      "gody_zhizni": "род. 1965",
+      "vstuplenie_v_dolzhnost": "с 21 января 2020",
+      "snyatie_s_dolzhnosti": "по н. в."
+    }
+  ],
+  "meta": {
+    "title": "Министры юстиции России - Free Download",
+    "description": "Министры юстиции Российской империи, РСФСР, СССР и Российской Федерации с 1802 года: годы жизни, даты вступления в должность и ухода с неё. Contains 94 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Министры юстиции России | ListBase",
+    "seo_description": "Download Министры юстиции России — 94 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 94 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Список_министров_юстиции_России"
+    ]
+  }
+}
