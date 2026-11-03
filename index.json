@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-03T02:09:59.260Z",
-  "total_datasets": 495,
-  "total_records": 217971,
+  "generated": "2026-11-03T02:10:07.371Z",
+  "total_datasets": 496,
+  "total_records": 218112,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "society",
@@ -11522,6 +11522,36 @@
         "xlsx": {
           "name": "ru-zooparki_RU.xlsx",
           "size": 10745
+        }
+      }
+    },
+    {
+      "id": "ru-kosmonavty-sssr-i-rossii",
+      "name": "Космонавты СССР и России",
+      "category": "science",
+      "record_count": 141,
+      "columns": [
+        "nomer",
+        "kosmonavt",
+        "gody_zhizni",
+        "ekspeditsii",
+        "chislo_poletov",
+        "summarnyy_nalet",
+        "vykhody_v_kosmos",
+        "vremya_v_otkrytom_kosmose",
+        "spetsializatsiya"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_космонавтов_СССР_и_России",
+      "updated": "2026-11",
+      "size": 88674,
+      "files": {
+        "csv": {
+          "name": "ru-kosmonavty-sssr-i-rossii_RU.csv",
+          "size": 54178
+        },
+        "xlsx": {
+          "name": "ru-kosmonavty-sssr-i-rossii_RU.xlsx",
+          "size": 22920
         }
       }
     },
