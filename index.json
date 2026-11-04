@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-03T02:10:30.458Z",
-  "total_datasets": 499,
-  "total_records": 219211,
+  "generated": "2026-11-04T02:20:20.774Z",
+  "total_datasets": 500,
+  "total_records": 219232,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "language",
@@ -4153,6 +4153,32 @@
         "xlsx": {
           "name": "ru-prodolzhitelnost-zhizni-regiony_RU.xlsx",
           "size": 11620
+        }
+      }
+    },
+    {
+      "id": "ru-bashni-moskovskogo-kremlya",
+      "name": "Башни Московского Кремля",
+      "category": "history",
+      "record_count": 21,
+      "columns": [
+        "nazvanie",
+        "vysota_m",
+        "god_postroyki",
+        "sokhranilas",
+        "primechanie"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Башни_Московского_Кремля",
+      "updated": "2026-11",
+      "size": 20305,
+      "files": {
+        "csv": {
+          "name": "ru-bashni-moskovskogo-kremlya_RU.csv",
+          "size": 15950
+        },
+        "xlsx": {
+          "name": "ru-bashni-moskovskogo-kremlya_RU.xlsx",
+          "size": 11726
         }
       }
     },
