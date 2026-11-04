@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-04T02:20:48.735Z",
-  "total_datasets": 503,
-  "total_records": 219755,
+  "generated": "2026-11-04T02:20:58.008Z",
+  "total_datasets": 504,
+  "total_records": 219935,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "transport",
@@ -12286,6 +12286,37 @@
         "xlsx": {
           "name": "ru-istoricheskie-poseleniya_RU.xlsx",
           "size": 24518
+        }
+      }
+    },
+    {
+      "id": "ru-samye-vysokie-zdaniya-rossii",
+      "name": "Самые высокие здания России",
+      "category": "tourism",
+      "record_count": 180,
+      "columns": [
+        "mesto",
+        "delit_mesto",
+        "nazvanie",
+        "gorod",
+        "maks_vysota_m",
+        "vysota_m",
+        "etazhey",
+        "god_postroyki",
+        "adres",
+        "primechanie"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_самых_высоких_зданий_России",
+      "updated": "2026-11",
+      "size": 64775,
+      "files": {
+        "csv": {
+          "name": "ru-samye-vysokie-zdaniya-rossii_RU.csv",
+          "size": 26600
+        },
+        "xlsx": {
+          "name": "ru-samye-vysokie-zdaniya-rossii_RU.xlsx",
+          "size": 18874
         }
       }
     },
