@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-04T02:20:20.774Z",
-  "total_datasets": 500,
-  "total_records": 219232,
+  "generated": "2026-11-04T02:20:29.965Z",
+  "total_datasets": 501,
+  "total_records": 219565,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "food",
@@ -906,6 +906,31 @@
         "xlsx": {
           "name": "ru-banknoty-banka-rossii_RU.xlsx",
           "size": 9321
+        }
+      }
+    },
+    {
+      "id": "ru-pamyatnye-monety-po-godam",
+      "name": "Памятные монеты России из драгоценных металлов по годам",
+      "category": "finance",
+      "record_count": 333,
+      "columns": [
+        "god",
+        "metall",
+        "nominal_rub",
+        "kolichestvo_vypuskov"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Памятные_монеты_России",
+      "updated": "2026-11",
+      "size": 43820,
+      "files": {
+        "csv": {
+          "name": "ru-pamyatnye-monety-po-godam_RU.csv",
+          "size": 11611
+        },
+        "xlsx": {
+          "name": "ru-pamyatnye-monety-po-godam_RU.xlsx",
+          "size": 12444
         }
       }
     },

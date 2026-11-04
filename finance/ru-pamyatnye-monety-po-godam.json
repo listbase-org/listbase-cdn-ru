@@ -1,0 +1,2044 @@
+{
+  "id": "ru-pamyatnye-monety-po-godam",
+  "name": "Памятные монеты России из драгоценных металлов по годам",
+  "title": "Памятные монеты России из драгоценных металлов по годам",
+  "description": "Число выпущенных Банком России памятных монет из драгоценных металлов (золото, серебро, платина, палладий, биметалл) по годам и номиналам с 1992 года.",
+  "category": "finance",
+  "source": "https://ru.wikipedia.org/wiki/Памятные_монеты_России",
+  "source_url": "https://ru.wikipedia.org/wiki/Памятные_монеты_России",
+  "updated": "2026-11",
+  "record_count": 333,
+  "columns": [
+    {
+      "key": "god",
+      "label": "God",
+      "type": "number"
+    },
+    {
+      "key": "metall",
+      "label": "Metall",
+      "type": "string"
+    },
+    {
+      "key": "nominal_rub",
+      "label": "Nominal Rub",
+      "type": "number"
+    },
+    {
+      "key": "kolichestvo_vypuskov",
+      "label": "Kolichestvo Vypuskov",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "god": 1992,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 1992,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 1992,
+      "metall": "золото",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 1992,
+      "metall": "платина",
+      "nominal_rub": 150,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1992,
+      "metall": "палладий",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1993,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 1993,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 10
+    },
+    {
+      "god": 1993,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1993,
+      "metall": "золото",
+      "nominal_rub": 10,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 1993,
+      "metall": "золото",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 1993,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 5
+    },
+    {
+      "god": 1993,
+      "metall": "золото",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 1993,
+      "metall": "золото",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1993,
+      "metall": "платина",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1993,
+      "metall": "платина",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 1993,
+      "metall": "платина",
+      "nominal_rub": 150,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 1993,
+      "metall": "палладий",
+      "nominal_rub": 5,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 1993,
+      "metall": "палладий",
+      "nominal_rub": 10,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 1993,
+      "metall": "палладий",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 5
+    },
+    {
+      "god": 1994,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 1994,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 5
+    },
+    {
+      "god": 1994,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 10
+    },
+    {
+      "god": 1994,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 1994,
+      "metall": "золото",
+      "nominal_rub": 10,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1994,
+      "metall": "золото",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 1994,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 1994,
+      "metall": "золото",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 1994,
+      "metall": "золото",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1994,
+      "metall": "платина",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1994,
+      "metall": "платина",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1994,
+      "metall": "платина",
+      "nominal_rub": 150,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 1994,
+      "metall": "палладий",
+      "nominal_rub": 5,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 1994,
+      "metall": "палладий",
+      "nominal_rub": 10,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 1994,
+      "metall": "палладий",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 5
+    },
+    {
+      "god": 1995,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 1995,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 7
+    },
+    {
+      "god": 1995,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 13
+    },
+    {
+      "god": 1995,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 1995,
+      "metall": "серебро",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 1995,
+      "metall": "золото",
+      "nominal_rub": 10,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1995,
+      "metall": "золото",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1995,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 5
+    },
+    {
+      "god": 1995,
+      "metall": "золото",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 1995,
+      "metall": "золото",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1995,
+      "metall": "платина",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1995,
+      "metall": "платина",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1995,
+      "metall": "платина",
+      "nominal_rub": 150,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 1995,
+      "metall": "палладий",
+      "nominal_rub": 5,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1995,
+      "metall": "палладий",
+      "nominal_rub": 10,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1995,
+      "metall": "палладий",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 1996,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 1996,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 1996,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 11
+    },
+    {
+      "god": 1996,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 7
+    },
+    {
+      "god": 1996,
+      "metall": "серебро",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 1996,
+      "metall": "золото",
+      "nominal_rub": 10,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1996,
+      "metall": "золото",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1996,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 1996,
+      "metall": "золото",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 1996,
+      "metall": "золото",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1996,
+      "metall": "золото",
+      "nominal_rub": 10000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1997,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 17
+    },
+    {
+      "god": 1997,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 6
+    },
+    {
+      "god": 1997,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 11
+    },
+    {
+      "god": 1997,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 5
+    },
+    {
+      "god": 1997,
+      "metall": "серебро",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 1997,
+      "metall": "золото",
+      "nominal_rub": 10,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1997,
+      "metall": "золото",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1997,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 1997,
+      "metall": "золото",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 1997,
+      "metall": "золото",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1997,
+      "metall": "золото",
+      "nominal_rub": 1000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1997,
+      "metall": "золото",
+      "nominal_rub": 10000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1998,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 9
+    },
+    {
+      "god": 1998,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 6
+    },
+    {
+      "god": 1998,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 7
+    },
+    {
+      "god": 1999,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 1999,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 7
+    },
+    {
+      "god": 1999,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 13
+    },
+    {
+      "god": 1999,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 1999,
+      "metall": "серебро",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 1999,
+      "metall": "серебро",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1999,
+      "metall": "золото",
+      "nominal_rub": 10,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1999,
+      "metall": "золото",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 1999,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 1999,
+      "metall": "золото",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2000,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2000,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 2000,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 12
+    },
+    {
+      "god": 2000,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 2000,
+      "metall": "серебро",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2000,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 2000,
+      "metall": "золото",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2000,
+      "metall": "золото",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2000,
+      "metall": "золото",
+      "nominal_rub": 10000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2001,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2001,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2001,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 8
+    },
+    {
+      "god": 2001,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2001,
+      "metall": "серебро",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2001,
+      "metall": "золото",
+      "nominal_rub": 10,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2001,
+      "metall": "золото",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2001,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2001,
+      "metall": "золото",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2001,
+      "metall": "золото",
+      "nominal_rub": 1000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2002,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 10
+    },
+    {
+      "god": 2002,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 7
+    },
+    {
+      "god": 2002,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 9
+    },
+    {
+      "god": 2002,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2002,
+      "metall": "серебро",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2002,
+      "metall": "золото",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 6
+    },
+    {
+      "god": 2002,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 2002,
+      "metall": "золото",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2002,
+      "metall": "золото",
+      "nominal_rub": 10000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2003,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 9
+    },
+    {
+      "god": 2003,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 9
+    },
+    {
+      "god": 2003,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 14
+    },
+    {
+      "god": 2003,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2003,
+      "metall": "серебро",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2003,
+      "metall": "серебро",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2003,
+      "metall": "золото",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 6
+    },
+    {
+      "god": 2003,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 8
+    },
+    {
+      "god": 2003,
+      "metall": "золото",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2003,
+      "metall": "золото",
+      "nominal_rub": 1000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2003,
+      "metall": "золото",
+      "nominal_rub": 10000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2004,
+      "metall": "биметаллические (золото+серебро)",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2004,
+      "metall": "биметаллические (золото+серебро)",
+      "nominal_rub": 5,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2004,
+      "metall": "биметаллические (золото+серебро)",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2004,
+      "metall": "биметаллические (золото+серебро)",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2004,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2004,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2004,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 16
+    },
+    {
+      "god": 2004,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 2004,
+      "metall": "серебро",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2004,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 10
+    },
+    {
+      "god": 2004,
+      "metall": "золото",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2004,
+      "metall": "золото",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2004,
+      "metall": "золото",
+      "nominal_rub": 10000,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2005,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 6
+    },
+    {
+      "god": 2005,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 14
+    },
+    {
+      "god": 2005,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 11
+    },
+    {
+      "god": 2005,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2005,
+      "metall": "серебро",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2005,
+      "metall": "золото",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 12
+    },
+    {
+      "god": 2005,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2005,
+      "metall": "золото",
+      "nominal_rub": 10000,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2006,
+      "metall": "биметаллические (золото+серебро)",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2006,
+      "metall": "биметаллические (золото+серебро)",
+      "nominal_rub": 5,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2006,
+      "metall": "биметаллические (золото+серебро)",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2006,
+      "metall": "биметаллические (золото+серебро)",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2006,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 9
+    },
+    {
+      "god": 2006,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 5
+    },
+    {
+      "god": 2006,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 7
+    },
+    {
+      "god": 2006,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2006,
+      "metall": "серебро",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2006,
+      "metall": "серебро",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2006,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 2006,
+      "metall": "золото",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2006,
+      "metall": "золото",
+      "nominal_rub": 1000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2006,
+      "metall": "золото",
+      "nominal_rub": 10000,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2007,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 6
+    },
+    {
+      "god": 2007,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 6
+    },
+    {
+      "god": 2007,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 9
+    },
+    {
+      "god": 2007,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 5
+    },
+    {
+      "god": 2007,
+      "metall": "серебро",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 5
+    },
+    {
+      "god": 2007,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 2007,
+      "metall": "золото",
+      "nominal_rub": 1000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2007,
+      "metall": "золото",
+      "nominal_rub": 10000,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2008,
+      "metall": "биметаллические (золото+серебро)",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2008,
+      "metall": "биметаллические (золото+серебро)",
+      "nominal_rub": 5,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2008,
+      "metall": "биметаллические (золото+серебро)",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2008,
+      "metall": "биметаллические (золото+серебро)",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2008,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 10
+    },
+    {
+      "god": 2008,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 14
+    },
+    {
+      "god": 2008,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2008,
+      "metall": "серебро",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2008,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 2008,
+      "metall": "золото",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2008,
+      "metall": "золото",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2008,
+      "metall": "золото",
+      "nominal_rub": 1000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2008,
+      "metall": "золото",
+      "nominal_rub": 10000,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2008,
+      "metall": "золото",
+      "nominal_rub": 25000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2009,
+      "metall": "биметаллические (золото+серебро)",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2009,
+      "metall": "биметаллические (золото+серебро)",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2009,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2009,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 10
+    },
+    {
+      "god": 2009,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 14
+    },
+    {
+      "god": 2009,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 6
+    },
+    {
+      "god": 2009,
+      "metall": "серебро",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 2009,
+      "metall": "серебро",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2009,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 5
+    },
+    {
+      "god": 2009,
+      "metall": "золото",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2009,
+      "metall": "золото",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 7
+    },
+    {
+      "god": 2009,
+      "metall": "золото",
+      "nominal_rub": 1000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2009,
+      "metall": "золото",
+      "nominal_rub": 10000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2009,
+      "metall": "золото",
+      "nominal_rub": 25000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2010,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 5
+    },
+    {
+      "god": 2010,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 5
+    },
+    {
+      "god": 2010,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 17
+    },
+    {
+      "god": 2010,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 7
+    },
+    {
+      "god": 2010,
+      "metall": "серебро",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2010,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2010,
+      "metall": "золото",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 10
+    },
+    {
+      "god": 2010,
+      "metall": "золото",
+      "nominal_rub": 1000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2010,
+      "metall": "золото",
+      "nominal_rub": 10000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2010,
+      "metall": "золото",
+      "nominal_rub": 50000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2011,
+      "metall": "биметаллические (золото+серебро)",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2011,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 5
+    },
+    {
+      "god": 2011,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 2011,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 18
+    },
+    {
+      "god": 2011,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 7
+    },
+    {
+      "god": 2011,
+      "metall": "серебро",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 5
+    },
+    {
+      "god": 2011,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 7
+    },
+    {
+      "god": 2011,
+      "metall": "золото",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2011,
+      "metall": "золото",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2011,
+      "metall": "золото",
+      "nominal_rub": 1000,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2011,
+      "metall": "золото",
+      "nominal_rub": 10000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2012,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2012,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 11
+    },
+    {
+      "god": 2012,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 23
+    },
+    {
+      "god": 2012,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 12
+    },
+    {
+      "god": 2012,
+      "metall": "серебро",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 2012,
+      "metall": "серебро",
+      "nominal_rub": 500,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2012,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 9
+    },
+    {
+      "god": 2012,
+      "metall": "золото",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2012,
+      "metall": "золото",
+      "nominal_rub": 1000,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2012,
+      "metall": "золото",
+      "nominal_rub": 10000,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2012,
+      "metall": "золото",
+      "nominal_rub": 25000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2013,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2013,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 7
+    },
+    {
+      "god": 2013,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 24
+    },
+    {
+      "god": 2013,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 15
+    },
+    {
+      "god": 2013,
+      "metall": "серебро",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2013,
+      "metall": "серебро",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2013,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 11
+    },
+    {
+      "god": 2013,
+      "metall": "золото",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 2013,
+      "metall": "золото",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2013,
+      "metall": "золото",
+      "nominal_rub": 1000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2013,
+      "metall": "золото",
+      "nominal_rub": 10000,
+      "kolichestvo_vypuskov": 5
+    },
+    {
+      "god": 2013,
+      "metall": "золото",
+      "nominal_rub": 25000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2014,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2014,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 7
+    },
+    {
+      "god": 2014,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 13
+    },
+    {
+      "god": 2014,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 10
+    },
+    {
+      "god": 2014,
+      "metall": "серебро",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2014,
+      "metall": "серебро",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 2014,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 6
+    },
+    {
+      "god": 2014,
+      "metall": "золото",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2014,
+      "metall": "золото",
+      "nominal_rub": 1000,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 2014,
+      "metall": "золото",
+      "nominal_rub": 10000,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2015,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 2015,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 2015,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 44
+    },
+    {
+      "god": 2015,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 12
+    },
+    {
+      "god": 2015,
+      "metall": "серебро",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2015,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 5
+    },
+    {
+      "god": 2015,
+      "metall": "золото",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2015,
+      "metall": "золото",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2015,
+      "metall": "золото",
+      "nominal_rub": 1000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2015,
+      "metall": "золото",
+      "nominal_rub": 10000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2016,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2016,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2016,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 17
+    },
+    {
+      "god": 2016,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 12
+    },
+    {
+      "god": 2016,
+      "metall": "серебро",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2016,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 5
+    },
+    {
+      "god": 2016,
+      "metall": "золото",
+      "nominal_rub": 10000,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2016,
+      "metall": "золото",
+      "nominal_rub": 50000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2017,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 5
+    },
+    {
+      "god": 2017,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 6
+    },
+    {
+      "god": 2017,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 20
+    },
+    {
+      "god": 2017,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 9
+    },
+    {
+      "god": 2017,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2018,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2018,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 5
+    },
+    {
+      "god": 2018,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 25
+    },
+    {
+      "god": 2018,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 6
+    },
+    {
+      "god": 2018,
+      "metall": "серебро",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2018,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 5
+    },
+    {
+      "god": 2019,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 2019,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 6
+    },
+    {
+      "god": 2019,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 17
+    },
+    {
+      "god": 2019,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 5
+    },
+    {
+      "god": 2019,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 2020,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2020,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2020,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 16
+    },
+    {
+      "god": 2020,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2020,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2021,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2021,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2021,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 15
+    },
+    {
+      "god": 2021,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2021,
+      "metall": "золото",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2021,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2021,
+      "metall": "золото",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2021,
+      "metall": "золото",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2022,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 7
+    },
+    {
+      "god": 2022,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 25
+    },
+    {
+      "god": 2022,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 5
+    },
+    {
+      "god": 2022,
+      "metall": "серебро",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2022,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2022,
+      "metall": "золото",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2022,
+      "metall": "золото",
+      "nominal_rub": 10000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2023,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2023,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 5
+    },
+    {
+      "god": 2023,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 18
+    },
+    {
+      "god": 2023,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2023,
+      "metall": "серебро",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2023,
+      "metall": "золото",
+      "nominal_rub": 10,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2023,
+      "metall": "золото",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2023,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2023,
+      "metall": "золото",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2023,
+      "metall": "золото",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2023,
+      "metall": "золото",
+      "nominal_rub": 10000,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2024,
+      "metall": "серебро",
+      "nominal_rub": 1,
+      "kolichestvo_vypuskov": 5
+    },
+    {
+      "god": 2024,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 6
+    },
+    {
+      "god": 2024,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 21
+    },
+    {
+      "god": 2024,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 3
+    },
+    {
+      "god": 2024,
+      "metall": "серебро",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2024,
+      "metall": "серебро",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2024,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2024,
+      "metall": "золото",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2024,
+      "metall": "золото",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2024,
+      "metall": "золото",
+      "nominal_rub": 10000,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2025,
+      "metall": "серебро",
+      "nominal_rub": 2,
+      "kolichestvo_vypuskov": 4
+    },
+    {
+      "god": 2025,
+      "metall": "серебро",
+      "nominal_rub": 3,
+      "kolichestvo_vypuskov": 16
+    },
+    {
+      "god": 2025,
+      "metall": "серебро",
+      "nominal_rub": 25,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2025,
+      "metall": "серебро",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2025,
+      "metall": "золото",
+      "nominal_rub": 50,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2025,
+      "metall": "золото",
+      "nominal_rub": 100,
+      "kolichestvo_vypuskov": 2
+    },
+    {
+      "god": 2025,
+      "metall": "золото",
+      "nominal_rub": 200,
+      "kolichestvo_vypuskov": 1
+    },
+    {
+      "god": 2025,
+      "metall": "золото",
+      "nominal_rub": 10000,
+      "kolichestvo_vypuskov": 2
+    }
+  ],
+  "meta": {
+    "title": "Памятные монеты России из драгоценных металлов по годам - Free Download",
+    "description": "Число выпущенных Банком России памятных монет из драгоценных металлов (золото, серебро, платина, палладий, биметалл) по годам и номиналам с 1992 года. Contains 333 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Памятные монеты России из драгоценных металлов по годам | ListBase",
+    "seo_description": "Download Памятные монеты России из драгоценных металлов по годам — 333 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 333 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Памятные_монеты_России"
+    ]
+  }
+}
