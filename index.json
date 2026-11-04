@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-04T02:20:29.965Z",
-  "total_datasets": 501,
-  "total_records": 219565,
+  "generated": "2026-11-04T02:20:38.564Z",
+  "total_datasets": 502,
+  "total_records": 219708,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "time",
@@ -12036,6 +12036,35 @@
         "xlsx": {
           "name": "ru-puski-raket-angara_RU.xlsx",
           "size": 8573
+        }
+      }
+    },
+    {
+      "id": "ru-puski-raket-proton-m",
+      "name": "Пуски ракет-носителей «Протон-М»",
+      "category": "tech",
+      "record_count": 143,
+      "columns": [
+        "nomer",
+        "data_utc",
+        "razgonnyy_blok",
+        "poleznaya_nagruzka",
+        "prednaznachenie",
+        "platforma",
+        "operator",
+        "primechaniya"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_пусков_ракет-носителей_«Протон-М»_(8К82КМ)",
+      "updated": "2026-11",
+      "size": 96397,
+      "files": {
+        "csv": {
+          "name": "ru-puski-raket-proton-m_RU.csv",
+          "size": 66946
+        },
+        "xlsx": {
+          "name": "ru-puski-raket-proton-m_RU.xlsx",
+          "size": 23272
         }
       }
     },
