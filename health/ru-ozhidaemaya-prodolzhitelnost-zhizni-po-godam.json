@@ -1,0 +1,178 @@
+{
+  "id": "ru-ozhidaemaya-prodolzhitelnost-zhizni-po-godam",
+  "name": "Ожидаемая продолжительность жизни в России по годам",
+  "title": "Ожидаемая продолжительность жизни в России по годам",
+  "description": "Ожидаемая продолжительность жизни при рождении в России по годам: мужчины, женщины и в среднем.",
+  "category": "health",
+  "source": "https://ru.wikipedia.org/wiki/Здравоохранение_в_России",
+  "source_url": "https://ru.wikipedia.org/wiki/Здравоохранение_в_России",
+  "updated": "2026-11",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "god",
+      "label": "God",
+      "type": "number"
+    },
+    {
+      "key": "muzhchiny",
+      "label": "Muzhchiny",
+      "type": "number"
+    },
+    {
+      "key": "zhenshchiny",
+      "label": "Zhenshchiny",
+      "type": "number"
+    },
+    {
+      "key": "v_srednem",
+      "label": "V Srednem",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "god": 2000,
+      "muzhchiny": 58.8,
+      "zhenshchiny": 72.1,
+      "v_srednem": 65.2
+    },
+    {
+      "god": 2001,
+      "muzhchiny": 58.8,
+      "zhenshchiny": 72.1,
+      "v_srednem": 65.1
+    },
+    {
+      "god": 2002,
+      "muzhchiny": 58.6,
+      "zhenshchiny": 71.8,
+      "v_srednem": 64.9
+    },
+    {
+      "god": 2003,
+      "muzhchiny": 58.4,
+      "zhenshchiny": 71.7,
+      "v_srednem": 64.7
+    },
+    {
+      "god": 2004,
+      "muzhchiny": 58.8,
+      "zhenshchiny": 72.3,
+      "v_srednem": 65.1
+    },
+    {
+      "god": 2005,
+      "muzhchiny": 58.8,
+      "zhenshchiny": 72.8,
+      "v_srednem": 65.2
+    },
+    {
+      "god": 2006,
+      "muzhchiny": 60.3,
+      "zhenshchiny": 73.1,
+      "v_srednem": 66.5
+    },
+    {
+      "god": 2007,
+      "muzhchiny": 61.3,
+      "zhenshchiny": 73.8,
+      "v_srednem": 67.4
+    },
+    {
+      "god": 2008,
+      "muzhchiny": 61.8,
+      "zhenshchiny": 74.1,
+      "v_srednem": 67.8
+    },
+    {
+      "god": 2009,
+      "muzhchiny": 62.7,
+      "zhenshchiny": 74.6,
+      "v_srednem": 68.6
+    },
+    {
+      "god": 2010,
+      "muzhchiny": 63,
+      "zhenshchiny": 74.8,
+      "v_srednem": 68.8
+    },
+    {
+      "god": 2011,
+      "muzhchiny": 64,
+      "zhenshchiny": 75.6,
+      "v_srednem": 69.8
+    },
+    {
+      "god": 2012,
+      "muzhchiny": 64.5,
+      "zhenshchiny": 75.8,
+      "v_srednem": 70.2
+    },
+    {
+      "god": 2013,
+      "muzhchiny": 65.1,
+      "zhenshchiny": 76.3,
+      "v_srednem": 70.7
+    },
+    {
+      "god": 2014,
+      "muzhchiny": 65,
+      "zhenshchiny": 76.3,
+      "v_srednem": 70.7
+    },
+    {
+      "god": 2015,
+      "muzhchiny": 65.8,
+      "zhenshchiny": 76.6,
+      "v_srednem": 71.3
+    },
+    {
+      "god": 2016,
+      "muzhchiny": 66.3,
+      "zhenshchiny": 76.8,
+      "v_srednem": 71.6
+    },
+    {
+      "god": 2017,
+      "muzhchiny": 67.3,
+      "zhenshchiny": 77.5,
+      "v_srednem": 72.5
+    },
+    {
+      "god": 2018,
+      "muzhchiny": 67.5,
+      "zhenshchiny": 77.6,
+      "v_srednem": 72.7
+    },
+    {
+      "god": 2019,
+      "muzhchiny": 68.2,
+      "zhenshchiny": 78,
+      "v_srednem": 73.2
+    },
+    {
+      "god": 2020,
+      "muzhchiny": 66.4,
+      "zhenshchiny": 76.2,
+      "v_srednem": 71.4
+    },
+    {
+      "god": 2021,
+      "muzhchiny": 65.6,
+      "zhenshchiny": 74.3,
+      "v_srednem": 70
+    }
+  ],
+  "meta": {
+    "title": "Ожидаемая продолжительность жизни в России по годам - Free Download",
+    "description": "Ожидаемая продолжительность жизни при рождении в России по годам: мужчины, женщины и в среднем. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ожидаемая продолжительность жизни в России по годам | ListBase",
+    "seo_description": "Download Ожидаемая продолжительность жизни в России по годам — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Здравоохранение_в_России"
+    ]
+  }
+}

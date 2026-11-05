@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-05T02:30:31.565Z",
-  "total_datasets": 505,
-  "total_records": 220134,
+  "generated": "2026-11-05T02:30:40.667Z",
+  "total_datasets": 506,
+  "total_records": 220156,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "history",
@@ -4178,6 +4178,31 @@
         "xlsx": {
           "name": "ru-ministry-zdravookhraneniya_RU.xlsx",
           "size": 9647
+        }
+      }
+    },
+    {
+      "id": "ru-ozhidaemaya-prodolzhitelnost-zhizni-po-godam",
+      "name": "Ожидаемая продолжительность жизни в России по годам",
+      "category": "health",
+      "record_count": 22,
+      "columns": [
+        "god",
+        "muzhchiny",
+        "zhenshchiny",
+        "v_srednem"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Здравоохранение_в_России",
+      "updated": "2026-11",
+      "size": 4444,
+      "files": {
+        "csv": {
+          "name": "ru-ozhidaemaya-prodolzhitelnost-zhizni-po-godam_RU.csv",
+          "size": 652
+        },
+        "xlsx": {
+          "name": "ru-ozhidaemaya-prodolzhitelnost-zhizni-po-godam_RU.xlsx",
+          "size": 7248
         }
       }
     },
