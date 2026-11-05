@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-05T02:30:50.975Z",
-  "total_datasets": 507,
-  "total_records": 220198,
+  "generated": "2026-11-05T02:31:00.490Z",
+  "total_datasets": 508,
+  "total_records": 220384,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "law",
@@ -4383,6 +4383,30 @@
         "xlsx": {
           "name": "ru-kirillica-nazvaniya-bukv_RU.xlsx",
           "size": 9342
+        }
+      }
+    },
+    {
+      "id": "ru-tyurkizmy-v-russkom-yazyke",
+      "name": "Тюркизмы в русском языке",
+      "category": "language",
+      "record_count": 186,
+      "columns": [
+        "slovo",
+        "period_zaimstvovaniya",
+        "kategoriya"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Тюркизмы_в_русском_языке",
+      "updated": "2026-11",
+      "size": 27203,
+      "files": {
+        "csv": {
+          "name": "ru-tyurkizmy-v-russkom-yazyke_RU.csv",
+          "size": 10242
+        },
+        "xlsx": {
+          "name": "ru-tyurkizmy-v-russkom-yazyke_RU.xlsx",
+          "size": 10695
         }
       }
     },

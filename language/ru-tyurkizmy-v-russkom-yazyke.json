@@ -1,0 +1,971 @@
+{
+  "id": "ru-tyurkizmy-v-russkom-yazyke",
+  "name": "Тюркизмы в русском языке",
+  "title": "Тюркизмы в русском языке",
+  "description": "Слова русского языка, заимствованные из тюркских языков, по векам заимствования (XVI–XIX вв.), а также западноевропейские и ложные или спорные тюркизмы.",
+  "category": "language",
+  "source": "https://ru.wikipedia.org/wiki/Тюркизмы_в_русском_языке",
+  "source_url": "https://ru.wikipedia.org/wiki/Тюркизмы_в_русском_языке",
+  "updated": "2026-11",
+  "record_count": 186,
+  "columns": [
+    {
+      "key": "slovo",
+      "label": "Slovo",
+      "type": "string"
+    },
+    {
+      "key": "period_zaimstvovaniya",
+      "label": "Period Zaimstvovaniya",
+      "type": "string"
+    },
+    {
+      "key": "kategoriya",
+      "label": "Kategoriya",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "slovo": "артель",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "чулан",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "юфть",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "амбар",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "арап",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "барабан",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "барс",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "бахрома",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "бахча",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "бирюза",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "бугор",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "буланый",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "бурав",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "войлок",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "вьюк",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "епанча",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "ишак",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "каблук",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "кайма",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "кандалы",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "каурый",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "кистень",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "колчан",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "кушак",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "лапша",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "лафа",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "палач",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "саранча",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "сундук",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "таз",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "толмач",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "тулуп",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "чалма",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "чалый",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "чемодан",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "чердак",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "чобот",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "яр",
+      "period_zaimstvovaniya": "XVI век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "каракули",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "штаны",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "яшма",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "айва",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "лиман",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "шашлык",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "аркан",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "кисея",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "нефть",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "фитиль",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "балаган",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "балда",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "башлык",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "беркут",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "изюм",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "кавардак",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "каланча",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "капкан",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "караван",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "карга",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "кинжал",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "кирка",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "кузов",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "кумач",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "нашатырь",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "очаг",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "сазан",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "сарай",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "сафьян",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "севрюга",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "сурьма",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "табун",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "туман",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "утюг",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "халат",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "чугун",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "шайка (таз)",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "шалаш",
+      "period_zaimstvovaniya": "XVII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "баклажан",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "башка",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "игрений",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "изъян",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "кабан",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "кадык",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "камыш",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "карандаш",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "кибитка",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "парча",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "плов",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "сурок",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "сычуг",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "тормоз",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "туша",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "фарфор",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "ханжа",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "бакалея",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "дымка (ткань)",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "пай (доля)",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "тюк",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "шаровары",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "балык",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "буран",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "ералаш",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "кутерьма",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "чинар",
+      "period_zaimstvovaniya": "XVIII век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "айда",
+      "period_zaimstvovaniya": "XIX век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "алыча",
+      "period_zaimstvovaniya": "XIX век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "балбес",
+      "period_zaimstvovaniya": "XIX век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "карапуз",
+      "period_zaimstvovaniya": "XIX век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "чебурек",
+      "period_zaimstvovaniya": "XIX век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "кетмень",
+      "period_zaimstvovaniya": "XIX век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "кизил",
+      "period_zaimstvovaniya": "XIX век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "кобура",
+      "period_zaimstvovaniya": "XIX век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "папаха",
+      "period_zaimstvovaniya": "XIX век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "сарыч",
+      "period_zaimstvovaniya": "XIX век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "тюбетейка",
+      "period_zaimstvovaniya": "XIX век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "хурма",
+      "period_zaimstvovaniya": "XIX век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "чекмень",
+      "period_zaimstvovaniya": "XIX век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "якшаться",
+      "period_zaimstvovaniya": "XIX век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "люля-кебаб",
+      "period_zaimstvovaniya": "XIX век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "чурек",
+      "period_zaimstvovaniya": "XIX век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "тахта",
+      "period_zaimstvovaniya": "XIX век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "байджарах",
+      "period_zaimstvovaniya": "XIX век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "каракал",
+      "period_zaimstvovaniya": "XIX век",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "бабай",
+      "period_zaimstvovaniya": "Неопределённое время заимствования",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "Тугаи (в значении излучина реки), также Тугайные леса",
+      "period_zaimstvovaniya": "Неопределённое время заимствования",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "арык",
+      "period_zaimstvovaniya": "Неопределённое время заимствования",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "бархан",
+      "period_zaimstvovaniya": "Неопределённое время заимствования",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "саман",
+      "period_zaimstvovaniya": "Неопределённое время заимствования",
+      "kategoriya": "тюркизм"
+    },
+    {
+      "slovo": "диван",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "западноевропейский тюркизм"
+    },
+    {
+      "slovo": "жасмин",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "западноевропейский тюркизм"
+    },
+    {
+      "slovo": "каракуль",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "западноевропейский тюркизм"
+    },
+    {
+      "slovo": "киоск",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "западноевропейский тюркизм"
+    },
+    {
+      "slovo": "софа",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "западноевропейский тюркизм"
+    },
+    {
+      "slovo": "тюльпан",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "западноевропейский тюркизм"
+    },
+    {
+      "slovo": "тюрбан",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "западноевропейский тюркизм"
+    },
+    {
+      "slovo": "йогурт",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "западноевропейский тюркизм"
+    },
+    {
+      "slovo": "лагуна",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "баламут",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "барбарис",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "багульник",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "бардак",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "бергамот",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "бирка",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "бурка",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "бурлак",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "бусы",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "вишня",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "вол",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "гашиш",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "гоголь",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "гурт",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "ендова",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "калач",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "кайф",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "карась",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "каторга",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "кисет",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "клянчить",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "ковш",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "колбаса",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "колики",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "кольчуга",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "лебеда",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "лимон",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "лохань",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "магарыч",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "маяк",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "мех",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "мусор",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "набекрень",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "осина",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "осот",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "пирог",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "тьма",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "упырь",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "ураган",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "урон",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "факир",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "чайка",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "шакал",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "шаль",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "шафран",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "шериф",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "шершавый",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "шишка",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "щи",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    },
+    {
+      "slovo": "ящик",
+      "period_zaimstvovaniya": "",
+      "kategoriya": "ложный или спорный тюркизм"
+    }
+  ],
+  "meta": {
+    "title": "Тюркизмы в русском языке - Free Download",
+    "description": "Слова русского языка, заимствованные из тюркских языков, по векам заимствования (XVI–XIX вв.), а также западноевропейские и ложные или спорные тюркизмы. Contains 186 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Тюркизмы в русском языке | ListBase",
+    "seo_description": "Download Тюркизмы в русском языке — 186 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 186 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Тюркизмы_в_русском_языке"
+    ]
+  }
+}
