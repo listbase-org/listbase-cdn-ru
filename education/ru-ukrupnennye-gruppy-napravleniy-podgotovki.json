@@ -1,0 +1,316 @@
+{
+  "id": "ru-ukrupnennye-gruppy-napravleniy-podgotovki",
+  "name": "Укрупнённые группы специальностей и направлений подготовки высшего образования",
+  "title": "Укрупнённые группы специальностей и направлений подготовки высшего образования",
+  "description": "Коды и названия укрупнённых групп специальностей и направлений подготовки высшего образования в России по областям образования.",
+  "category": "education",
+  "source": "https://ru.wikipedia.org/wiki/Высшее_образование_в_России",
+  "source_url": "https://ru.wikipedia.org/wiki/Высшее_образование_в_России",
+  "updated": "2026-11",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "kod",
+      "label": "Kod",
+      "type": "string"
+    },
+    {
+      "key": "ukrupnennaya_gruppa",
+      "label": "Ukrupnennaya Gruppa",
+      "type": "string"
+    },
+    {
+      "key": "oblast_obrazovaniya",
+      "label": "Oblast Obrazovaniya",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kod": "01.00.00",
+      "ukrupnennaya_gruppa": "Математика и механика",
+      "oblast_obrazovaniya": "Математические и естественные науки"
+    },
+    {
+      "kod": "02.00.00",
+      "ukrupnennaya_gruppa": "Компьютерные и информационные науки",
+      "oblast_obrazovaniya": "Математические и естественные науки"
+    },
+    {
+      "kod": "03.00.00",
+      "ukrupnennaya_gruppa": "Физика и астрономия",
+      "oblast_obrazovaniya": "Математические и естественные науки"
+    },
+    {
+      "kod": "04.00.00",
+      "ukrupnennaya_gruppa": "Химия",
+      "oblast_obrazovaniya": "Математические и естественные науки"
+    },
+    {
+      "kod": "05.00.00",
+      "ukrupnennaya_gruppa": "Науки о земле",
+      "oblast_obrazovaniya": "Математические и естественные науки"
+    },
+    {
+      "kod": "06.00.00",
+      "ukrupnennaya_gruppa": "Биологические науки",
+      "oblast_obrazovaniya": "Математические и естественные науки"
+    },
+    {
+      "kod": "07.00.00",
+      "ukrupnennaya_gruppa": "Архитектура",
+      "oblast_obrazovaniya": "Инженерное дело, технологии и технические науки"
+    },
+    {
+      "kod": "08.00.00",
+      "ukrupnennaya_gruppa": "Техника и технологии строительства",
+      "oblast_obrazovaniya": "Инженерное дело, технологии и технические науки"
+    },
+    {
+      "kod": "09.00.00",
+      "ukrupnennaya_gruppa": "Информатика и вычислительная техника",
+      "oblast_obrazovaniya": "Инженерное дело, технологии и технические науки"
+    },
+    {
+      "kod": "10.00.00",
+      "ukrupnennaya_gruppa": "Информационная безопасность",
+      "oblast_obrazovaniya": "Инженерное дело, технологии и технические науки"
+    },
+    {
+      "kod": "11.00.00",
+      "ukrupnennaya_gruppa": "Электроника, радиотехника и системы связи",
+      "oblast_obrazovaniya": "Инженерное дело, технологии и технические науки"
+    },
+    {
+      "kod": "12.00.00",
+      "ukrupnennaya_gruppa": "Фотоника, приборостроение, оптические и биотехнические системы и технологии",
+      "oblast_obrazovaniya": "Инженерное дело, технологии и технические науки"
+    },
+    {
+      "kod": "13.00.00",
+      "ukrupnennaya_gruppa": "Электро- и теплоэнергетика",
+      "oblast_obrazovaniya": "Инженерное дело, технологии и технические науки"
+    },
+    {
+      "kod": "14.00.00",
+      "ukrupnennaya_gruppa": "Ядерная энергетика и технологии",
+      "oblast_obrazovaniya": "Инженерное дело, технологии и технические науки"
+    },
+    {
+      "kod": "15.00.00",
+      "ukrupnennaya_gruppa": "Машиностроение",
+      "oblast_obrazovaniya": "Инженерное дело, технологии и технические науки"
+    },
+    {
+      "kod": "16.00.00",
+      "ukrupnennaya_gruppa": "Физико-технические науки и технологии",
+      "oblast_obrazovaniya": "Инженерное дело, технологии и технические науки"
+    },
+    {
+      "kod": "17.00.00",
+      "ukrupnennaya_gruppa": "Оружие и системы вооружения",
+      "oblast_obrazovaniya": "Инженерное дело, технологии и технические науки"
+    },
+    {
+      "kod": "18.00.00",
+      "ukrupnennaya_gruppa": "Химические технологии",
+      "oblast_obrazovaniya": "Инженерное дело, технологии и технические науки"
+    },
+    {
+      "kod": "19.00.00",
+      "ukrupnennaya_gruppa": "Промышленная экология и биотехнологии",
+      "oblast_obrazovaniya": "Инженерное дело, технологии и технические науки"
+    },
+    {
+      "kod": "20.00.00",
+      "ukrupnennaya_gruppa": "Техносферная безопасность и природообустройство",
+      "oblast_obrazovaniya": "Инженерное дело, технологии и технические науки"
+    },
+    {
+      "kod": "21.00.00",
+      "ukrupnennaya_gruppa": "Прикладная геология, горное дело, нефтегазовое дело и геодезия",
+      "oblast_obrazovaniya": "Инженерное дело, технологии и технические науки"
+    },
+    {
+      "kod": "22.00.00",
+      "ukrupnennaya_gruppa": "Технологии материалов",
+      "oblast_obrazovaniya": "Инженерное дело, технологии и технические науки"
+    },
+    {
+      "kod": "23.00.00",
+      "ukrupnennaya_gruppa": "Техника и технологии наземного транспорта",
+      "oblast_obrazovaniya": "Инженерное дело, технологии и технические науки"
+    },
+    {
+      "kod": "24.00.00",
+      "ukrupnennaya_gruppa": "Авиационная и ракетно-космическая техника",
+      "oblast_obrazovaniya": "Инженерное дело, технологии и технические науки"
+    },
+    {
+      "kod": "25.00.00",
+      "ukrupnennaya_gruppa": "Аэронавигация и эксплуатация авиационной и ракетно-космической техники",
+      "oblast_obrazovaniya": "Инженерное дело, технологии и технические науки"
+    },
+    {
+      "kod": "26.00.00",
+      "ukrupnennaya_gruppa": "Техника и технологии кораблестроения и водного транспорта",
+      "oblast_obrazovaniya": "Инженерное дело, технологии и технические науки"
+    },
+    {
+      "kod": "27.00.00",
+      "ukrupnennaya_gruppa": "Управление в технических системах",
+      "oblast_obrazovaniya": "Инженерное дело, технологии и технические науки"
+    },
+    {
+      "kod": "28.00.00",
+      "ukrupnennaya_gruppa": "Нанотехнологии и наноматериалы",
+      "oblast_obrazovaniya": "Инженерное дело, технологии и технические науки"
+    },
+    {
+      "kod": "29.00.00",
+      "ukrupnennaya_gruppa": "Технологии легкой промышленности",
+      "oblast_obrazovaniya": "Инженерное дело, технологии и технические науки"
+    },
+    {
+      "kod": "30.00.00",
+      "ukrupnennaya_gruppa": "фундаментальная медицина",
+      "oblast_obrazovaniya": "Здравоохранение и медицинские науки"
+    },
+    {
+      "kod": "31.00.00",
+      "ukrupnennaya_gruppa": "Клиническая медицина",
+      "oblast_obrazovaniya": "Здравоохранение и медицинские науки"
+    },
+    {
+      "kod": "32.00.00",
+      "ukrupnennaya_gruppa": "Науки о здоровье и профилактическая медицина",
+      "oblast_obrazovaniya": "Здравоохранение и медицинские науки"
+    },
+    {
+      "kod": "33.00.00",
+      "ukrupnennaya_gruppa": "Фармация",
+      "oblast_obrazovaniya": "Здравоохранение и медицинские науки"
+    },
+    {
+      "kod": "34.00.00",
+      "ukrupnennaya_gruppa": "Сестринское дело",
+      "oblast_obrazovaniya": "Здравоохранение и медицинские науки"
+    },
+    {
+      "kod": "35.00.00",
+      "ukrupnennaya_gruppa": "Сельское, лесное и рыбное хозяйство",
+      "oblast_obrazovaniya": "Сельское хозяйство и сельскохозяйственные науки"
+    },
+    {
+      "kod": "36.00.00",
+      "ukrupnennaya_gruppa": "Ветеринария и зоотехния",
+      "oblast_obrazovaniya": "Сельское хозяйство и сельскохозяйственные науки"
+    },
+    {
+      "kod": "37.00.00",
+      "ukrupnennaya_gruppa": "Психологические науки",
+      "oblast_obrazovaniya": "Науки об обществе"
+    },
+    {
+      "kod": "38.00.00",
+      "ukrupnennaya_gruppa": "Экономика и управление",
+      "oblast_obrazovaniya": "Науки об обществе"
+    },
+    {
+      "kod": "39.00.00",
+      "ukrupnennaya_gruppa": "Социология и социальная работа",
+      "oblast_obrazovaniya": "Науки об обществе"
+    },
+    {
+      "kod": "40.00.00",
+      "ukrupnennaya_gruppa": "Юриспруденция",
+      "oblast_obrazovaniya": "Науки об обществе"
+    },
+    {
+      "kod": "41.00.00",
+      "ukrupnennaya_gruppa": "Политические науки и регионоведение",
+      "oblast_obrazovaniya": "Науки об обществе"
+    },
+    {
+      "kod": "42.00.00",
+      "ukrupnennaya_gruppa": "Средства массовой информации и информационно - библиотечное дело",
+      "oblast_obrazovaniya": "Науки об обществе"
+    },
+    {
+      "kod": "43.00.00",
+      "ukrupnennaya_gruppa": "Сервис и туризм",
+      "oblast_obrazovaniya": "Науки об обществе"
+    },
+    {
+      "kod": "44.00.00",
+      "ukrupnennaya_gruppa": "Образование и педагогические науки",
+      "oblast_obrazovaniya": "Образование и педагогические науки"
+    },
+    {
+      "kod": "45.00.00",
+      "ukrupnennaya_gruppa": "Языкознание и литературоведение",
+      "oblast_obrazovaniya": "Гуманитарные науки"
+    },
+    {
+      "kod": "46.00.00",
+      "ukrupnennaya_gruppa": "История и археология",
+      "oblast_obrazovaniya": "Гуманитарные науки"
+    },
+    {
+      "kod": "47.00.00",
+      "ukrupnennaya_gruppa": "Философия, этика и религиоведение",
+      "oblast_obrazovaniya": "Гуманитарные науки"
+    },
+    {
+      "kod": "48.00.00",
+      "ukrupnennaya_gruppa": "Теология",
+      "oblast_obrazovaniya": "Гуманитарные науки"
+    },
+    {
+      "kod": "49.00.00",
+      "ukrupnennaya_gruppa": "Физическая культура и спорт",
+      "oblast_obrazovaniya": "Гуманитарные науки"
+    },
+    {
+      "kod": "50.00.00",
+      "ukrupnennaya_gruppa": "Искусствознание",
+      "oblast_obrazovaniya": "Искусство и культура"
+    },
+    {
+      "kod": "51.00.00",
+      "ukrupnennaya_gruppa": "Культуроведение и социокультурные проекты",
+      "oblast_obrazovaniya": "Искусство и культура"
+    },
+    {
+      "kod": "52.00.00",
+      "ukrupnennaya_gruppa": "Сценические искусства и литературное творчество",
+      "oblast_obrazovaniya": "Искусство и культура"
+    },
+    {
+      "kod": "53.00.00",
+      "ukrupnennaya_gruppa": "Музыкальное искусство",
+      "oblast_obrazovaniya": "Искусство и культура"
+    },
+    {
+      "kod": "54.00.00",
+      "ukrupnennaya_gruppa": "Изобразительное и прикладные виды искусств",
+      "oblast_obrazovaniya": "Искусство и культура"
+    },
+    {
+      "kod": "55.00.00",
+      "ukrupnennaya_gruppa": "Экранные искусства",
+      "oblast_obrazovaniya": "Искусство и культура"
+    }
+  ],
+  "meta": {
+    "title": "Укрупнённые группы специальностей и направлений подготовки высшего образования - Free Download",
+    "description": "Коды и названия укрупнённых групп специальностей и направлений подготовки высшего образования в России по областям образования. Contains 55 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Укрупнённые группы специальностей и направлений подготовки высшего образования | ListBase",
+    "seo_description": "Download Укрупнённые группы специальностей и направлений подготовки высшего образования — 55 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 55 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Высшее_образование_в_России"
+    ]
+  }
+}

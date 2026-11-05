@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-05T02:31:00.490Z",
-  "total_datasets": 508,
-  "total_records": 220384,
+  "generated": "2026-11-05T02:31:10.266Z",
+  "total_datasets": 509,
+  "total_records": 220439,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "entertainment",
@@ -652,6 +652,30 @@
         "xlsx": {
           "name": "ru-krupneyshie-universitety-po-studentam_RU.xlsx",
           "size": 11870
+        }
+      }
+    },
+    {
+      "id": "ru-ukrupnennye-gruppy-napravleniy-podgotovki",
+      "name": "Укрупнённые группы специальностей и направлений подготовки высшего образования",
+      "category": "education",
+      "record_count": 55,
+      "columns": [
+        "kod",
+        "ukrupnennaya_gruppa",
+        "oblast_obrazovaniya"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Высшее_образование_в_России",
+      "updated": "2026-11",
+      "size": 14920,
+      "files": {
+        "csv": {
+          "name": "ru-ukrupnennye-gruppy-napravleniy-podgotovki_RU.csv",
+          "size": 7810
+        },
+        "xlsx": {
+          "name": "ru-ukrupnennye-gruppy-napravleniy-podgotovki_RU.xlsx",
+          "size": 8969
         }
       }
     },
