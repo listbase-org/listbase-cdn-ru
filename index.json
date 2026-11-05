@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-04T02:20:58.008Z",
-  "total_datasets": 504,
-  "total_records": 219935,
+  "generated": "2026-11-05T02:30:31.565Z",
+  "total_datasets": 505,
+  "total_records": 220134,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -11830,6 +11830,38 @@
         "xlsx": {
           "name": "ru-ichr-regiony_RU.xlsx",
           "size": 15796
+        }
+      }
+    },
+    {
+      "id": "ru-natsionalnyy-sostav-perepis-2021-2010",
+      "name": "Национальный состав населения России по переписям 2021 и 2010 годов",
+      "category": "society",
+      "record_count": 199,
+      "columns": [
+        "nomer",
+        "narodnost",
+        "v_tom_chisle",
+        "chislennost_2021",
+        "dolya_ot_vsego_2021_pct",
+        "dolya_ot_ukazavshikh_2021_pct",
+        "chislennost_2010",
+        "dolya_ot_vsego_2010_pct",
+        "dolya_ot_ukazavshikh_2010_pct",
+        "izmenenie_chel",
+        "izmenenie_pct"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Национальный_состав_России",
+      "updated": "2026-11",
+      "size": 81666,
+      "files": {
+        "csv": {
+          "name": "ru-natsionalnyy-sostav-perepis-2021-2010_RU.csv",
+          "size": 17710
+        },
+        "xlsx": {
+          "name": "ru-natsionalnyy-sostav-perepis-2021-2010_RU.xlsx",
+          "size": 20120
         }
       }
     },
