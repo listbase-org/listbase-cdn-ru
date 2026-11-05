@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-05T02:30:40.667Z",
-  "total_datasets": 506,
-  "total_records": 220156,
+  "generated": "2026-11-05T02:30:50.975Z",
+  "total_datasets": 507,
+  "total_records": 220198,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "geography",
@@ -1103,6 +1103,29 @@
         "xlsx": {
           "name": "ru-rossiyskie-syry_RU.xlsx",
           "size": 8461
+        }
+      }
+    },
+    {
+      "id": "ru-sovetskaya-kukhnya-blyuda",
+      "name": "Блюда советской кухни",
+      "category": "food",
+      "record_count": 42,
+      "columns": [
+        "bliudo",
+        "razdel"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Советская_кухня",
+      "updated": "2026-11",
+      "size": 6711,
+      "files": {
+        "csv": {
+          "name": "ru-sovetskaya-kukhnya-blyuda_RU.csv",
+          "size": 3057
+        },
+        "xlsx": {
+          "name": "ru-sovetskaya-kukhnya-blyuda_RU.xlsx",
+          "size": 8052
         }
       }
     },
