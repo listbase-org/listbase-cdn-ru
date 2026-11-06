@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-06T02:23:54.630Z",
-  "total_datasets": 510,
-  "total_records": 220476,
+  "generated": "2026-11-06T02:24:04.512Z",
+  "total_datasets": 511,
+  "total_records": 220505,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "economy",
@@ -306,6 +306,31 @@
         "xlsx": {
           "name": "ru-mecheti_RU.xlsx",
           "size": 25745
+        }
+      }
+    },
+    {
+      "id": "ru-ministry-kultury",
+      "name": "Министры культуры России",
+      "category": "culture",
+      "record_count": 29,
+      "columns": [
+        "imya",
+        "nachalo",
+        "okonchanie",
+        "period"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_министров_культуры_России",
+      "updated": "2026-11",
+      "size": 9496,
+      "files": {
+        "csv": {
+          "name": "ru-ministry-kultury_RU.csv",
+          "size": 5298
+        },
+        "xlsx": {
+          "name": "ru-ministry-kultury_RU.xlsx",
+          "size": 8425
         }
       }
     },
