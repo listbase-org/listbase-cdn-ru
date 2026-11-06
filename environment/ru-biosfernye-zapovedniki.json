@@ -1,0 +1,352 @@
+{
+  "id": "ru-biosfernye-zapovedniki",
+  "name": "Биосферные заповедники России",
+  "title": "Биосферные заповедники России",
+  "description": "Список биосферных заповедников России с расположением, площадью и датой образования.",
+  "category": "environment",
+  "source": "https://ru.wikipedia.org/wiki/Список_биосферных_заповедников_России",
+  "source_url": "https://ru.wikipedia.org/wiki/Список_биосферных_заповедников_России",
+  "updated": "2026-11",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "nomer",
+      "label": "Nomer",
+      "type": "number"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "raspolozhenie",
+      "label": "Raspolozhenie",
+      "type": "string"
+    },
+    {
+      "key": "ploshchad_km2",
+      "label": "Ploshchad Km2",
+      "type": "number"
+    },
+    {
+      "key": "data_obrazovaniya",
+      "label": "Data Obrazovaniya",
+      "type": "string"
+    },
+    {
+      "key": "vid",
+      "label": "Vid",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nomer": 1,
+      "nazvanie": "Алтайский заповедник",
+      "raspolozhenie": "Алтай",
+      "ploshchad_km2": "8812.38",
+      "data_obrazovaniya": "16 апреля 1932",
+      "vid": ""
+    },
+    {
+      "nomer": 2,
+      "nazvanie": "Астраханский заповедник",
+      "raspolozhenie": "Астраханская область",
+      "ploshchad_km2": "679.17",
+      "data_obrazovaniya": "11 апреля 1919",
+      "vid": ""
+    },
+    {
+      "nomer": 3,
+      "nazvanie": "Байкальский заповедник",
+      "raspolozhenie": "Бурятия",
+      "ploshchad_km2": "1657.24",
+      "data_obrazovaniya": "26 сентября 1969",
+      "vid": ""
+    },
+    {
+      "nomer": 4,
+      "nazvanie": "Баргузинский заповедник",
+      "raspolozhenie": "Бурятия",
+      "ploshchad_km2": "3743.22",
+      "data_obrazovaniya": "11 января 1917",
+      "vid": ""
+    },
+    {
+      "nomer": 5,
+      "nazvanie": "Брянский лес",
+      "raspolozhenie": "Брянская область",
+      "ploshchad_km2": "121.86",
+      "data_obrazovaniya": "14 июля 1987",
+      "vid": ""
+    },
+    {
+      "nomer": 6,
+      "nazvanie": "Висимский заповедник",
+      "raspolozhenie": "Свердловская область",
+      "ploshchad_km2": "335.00",
+      "data_obrazovaniya": "6 июля 1971",
+      "vid": ""
+    },
+    {
+      "nomer": 7,
+      "nazvanie": "Волжско-Камский заповедник",
+      "raspolozhenie": "Татарстан",
+      "ploshchad_km2": "100.91",
+      "data_obrazovaniya": "30 апреля 1960",
+      "vid": ""
+    },
+    {
+      "nomer": 8,
+      "nazvanie": "Воронежский заповедник",
+      "raspolozhenie": "Воронежская область, Липецкая область",
+      "ploshchad_km2": "310.53",
+      "data_obrazovaniya": "3 декабря 1923",
+      "vid": ""
+    },
+    {
+      "nomer": 9,
+      "nazvanie": "Дагестанский заповедник",
+      "raspolozhenie": "Дагестан",
+      "ploshchad_km2": "190.61",
+      "data_obrazovaniya": "9 января 1987",
+      "vid": ""
+    },
+    {
+      "nomer": 10,
+      "nazvanie": "Дальневосточный морской заповедник",
+      "raspolozhenie": "Приморский край",
+      "ploshchad_km2": "643.16",
+      "data_obrazovaniya": "24 марта 1978",
+      "vid": ""
+    },
+    {
+      "nomer": 11,
+      "nazvanie": "Дарвинский заповедник",
+      "raspolozhenie": "Вологодская область, Ярославская область",
+      "ploshchad_km2": "1126.30",
+      "data_obrazovaniya": "18 июля 1945",
+      "vid": ""
+    },
+    {
+      "nomer": 12,
+      "nazvanie": "Даурский заповедник",
+      "raspolozhenie": "Забайкальский край",
+      "ploshchad_km2": "457.90",
+      "data_obrazovaniya": "25 декабря 1987",
+      "vid": ""
+    },
+    {
+      "nomer": 13,
+      "nazvanie": "Жигулёвский заповедник",
+      "raspolozhenie": "Самарская область",
+      "ploshchad_km2": "231.57",
+      "data_obrazovaniya": "19 августа 1927",
+      "vid": ""
+    },
+    {
+      "nomer": 14,
+      "nazvanie": "Ильменский заповедник",
+      "raspolozhenie": "Челябинская область",
+      "ploshchad_km2": "303.80",
+      "data_obrazovaniya": "14 мая 1920",
+      "vid": ""
+    },
+    {
+      "nomer": 15,
+      "nazvanie": "Кавказский заповедник",
+      "raspolozhenie": "Адыгея, Карачаево-Черкесия, Краснодарский край",
+      "ploshchad_km2": "2800.00",
+      "data_obrazovaniya": "12 мая 1924",
+      "vid": ""
+    },
+    {
+      "nomer": 16,
+      "nazvanie": "Катунский заповедник",
+      "raspolozhenie": "Алтай",
+      "ploshchad_km2": "1500.79",
+      "data_obrazovaniya": "25 июля 1991",
+      "vid": ""
+    },
+    {
+      "nomer": 17,
+      "nazvanie": "Кедровая Падь",
+      "raspolozhenie": "Приморский край",
+      "ploshchad_km2": "178.97",
+      "data_obrazovaniya": "1 января 1970",
+      "vid": ""
+    },
+    {
+      "nomer": 18,
+      "nazvanie": "Керженский заповедник",
+      "raspolozhenie": "Нижегородская область",
+      "ploshchad_km2": "467.89",
+      "data_obrazovaniya": "23 апреля 1993",
+      "vid": ""
+    },
+    {
+      "nomer": 19,
+      "nazvanie": "Костомукшский заповедник",
+      "raspolozhenie": "Карелия",
+      "ploshchad_km2": "475.69",
+      "data_obrazovaniya": "14 декабря 1983",
+      "vid": ""
+    },
+    {
+      "nomer": 20,
+      "nazvanie": "Кроноцкий заповедник",
+      "raspolozhenie": "Камчатский край",
+      "ploshchad_km2": "11 476.19",
+      "data_obrazovaniya": "1 ноября 1934",
+      "vid": ""
+    },
+    {
+      "nomer": 21,
+      "nazvanie": "Лапландский заповедник",
+      "raspolozhenie": "Мурманская область",
+      "ploshchad_km2": "2784.35",
+      "data_obrazovaniya": "17 января 1930",
+      "vid": ""
+    },
+    {
+      "nomer": 22,
+      "nazvanie": "Окский заповедник",
+      "raspolozhenie": "Рязанская область",
+      "ploshchad_km2": "557.28",
+      "data_obrazovaniya": "10 февраля 1935",
+      "vid": ""
+    },
+    {
+      "nomer": 23,
+      "nazvanie": "Печоро-Илычский заповедник",
+      "raspolozhenie": "Коми",
+      "ploshchad_km2": "7213.22",
+      "data_obrazovaniya": "4 мая 1930",
+      "vid": ""
+    },
+    {
+      "nomer": 24,
+      "nazvanie": "Приокско-Террасный заповедник",
+      "raspolozhenie": "Московская область",
+      "ploshchad_km2": "49.45",
+      "data_obrazovaniya": "19 июня 1945",
+      "vid": ""
+    },
+    {
+      "nomer": 25,
+      "nazvanie": "Ростовский заповедник",
+      "raspolozhenie": "Ростовская область",
+      "ploshchad_km2": "95.32",
+      "data_obrazovaniya": "27 декабря 1995",
+      "vid": ""
+    },
+    {
+      "nomer": 26,
+      "nazvanie": "Саяно-Шушенский заповедник",
+      "raspolozhenie": "Красноярский край",
+      "ploshchad_km2": "3903.68",
+      "data_obrazovaniya": "17 марта 1976",
+      "vid": ""
+    },
+    {
+      "nomer": 27,
+      "nazvanie": "Сихотэ-Алинский заповедник",
+      "raspolozhenie": "Приморский край",
+      "ploshchad_km2": "4014.28",
+      "data_obrazovaniya": "10 февраля 1935",
+      "vid": ""
+    },
+    {
+      "nomer": 28,
+      "nazvanie": "Сохондинский заповедник",
+      "raspolozhenie": "Забайкальский край",
+      "ploshchad_km2": "2109.88",
+      "data_obrazovaniya": "11 декабря 1973",
+      "vid": ""
+    },
+    {
+      "nomer": 29,
+      "nazvanie": "Таймырский заповедник",
+      "raspolozhenie": "Красноярский край",
+      "ploshchad_km2": "17 819.28",
+      "data_obrazovaniya": "23 февраля 1979",
+      "vid": ""
+    },
+    {
+      "nomer": 30,
+      "nazvanie": "Убсунурская котловина",
+      "raspolozhenie": "Тыва",
+      "ploshchad_km2": "9251.36",
+      "data_obrazovaniya": "24 января 1993",
+      "vid": ""
+    },
+    {
+      "nomer": 31,
+      "nazvanie": "Хакасский заповедник",
+      "raspolozhenie": "Хакасия",
+      "ploshchad_km2": "2675.65",
+      "data_obrazovaniya": "4 сентября 1999",
+      "vid": ""
+    },
+    {
+      "nomer": 32,
+      "nazvanie": "Ханкайский заповедник",
+      "raspolozhenie": "Приморский край",
+      "ploshchad_km2": "392.89",
+      "data_obrazovaniya": "28 декабря 1990",
+      "vid": ""
+    },
+    {
+      "nomer": 33,
+      "nazvanie": "Центрально-Лесной заповедник",
+      "raspolozhenie": "Тверская область",
+      "ploshchad_km2": "244.47",
+      "data_obrazovaniya": "4 мая 1930",
+      "vid": ""
+    },
+    {
+      "nomer": 34,
+      "nazvanie": "Центрально-Чернозёмный заповедник",
+      "raspolozhenie": "Курская область",
+      "ploshchad_km2": "52.87",
+      "data_obrazovaniya": "10 февраля 1935",
+      "vid": ""
+    },
+    {
+      "nomer": 35,
+      "nazvanie": "Центральносибирский заповедник",
+      "raspolozhenie": "Красноярский край",
+      "ploshchad_km2": "9720.17",
+      "data_obrazovaniya": "9 января 1985",
+      "vid": ""
+    },
+    {
+      "nomer": 36,
+      "nazvanie": "Чёрные земли",
+      "raspolozhenie": "Калмыкия",
+      "ploshchad_km2": "1219.00",
+      "data_obrazovaniya": "11 июня 1990",
+      "vid": ""
+    },
+    {
+      "nomer": 37,
+      "nazvanie": "Шульган-Таш",
+      "raspolozhenie": "Башкирия",
+      "ploshchad_km2": "225.31",
+      "data_obrazovaniya": "16 января 1986",
+      "vid": ""
+    }
+  ],
+  "meta": {
+    "title": "Биосферные заповедники России - Free Download",
+    "description": "Список биосферных заповедников России с расположением, площадью и датой образования. Contains 37 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Биосферные заповедники России | ListBase",
+    "seo_description": "Download Биосферные заповедники России — 37 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 37 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Список_биосферных_заповедников_России"
+    ]
+  }
+}

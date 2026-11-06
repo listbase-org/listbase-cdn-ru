@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-05T02:31:10.266Z",
-  "total_datasets": 509,
-  "total_records": 220439,
+  "generated": "2026-11-06T02:23:54.630Z",
+  "total_datasets": 510,
+  "total_records": 220476,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "finance",
@@ -843,6 +843,33 @@
         "xlsx": {
           "name": "ru-atomnye-elektrostantsii_RU.xlsx",
           "size": 10870
+        }
+      }
+    },
+    {
+      "id": "ru-biosfernye-zapovedniki",
+      "name": "Биосферные заповедники России",
+      "category": "environment",
+      "record_count": 37,
+      "columns": [
+        "nomer",
+        "nazvanie",
+        "raspolozhenie",
+        "ploshchad_km2",
+        "data_obrazovaniya",
+        "vid"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_биосферных_заповедников_России",
+      "updated": "2026-11",
+      "size": 11480,
+      "files": {
+        "csv": {
+          "name": "ru-biosfernye-zapovedniki_RU.csv",
+          "size": 4464
+        },
+        "xlsx": {
+          "name": "ru-biosfernye-zapovedniki_RU.xlsx",
+          "size": 9107
         }
       }
     },
