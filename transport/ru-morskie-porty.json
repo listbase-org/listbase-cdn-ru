@@ -1,0 +1,664 @@
+{
+  "id": "ru-morskie-porty",
+  "name": "Морские порты России",
+  "title": "Морские порты России",
+  "description": "Список морских портов России с расположением, площадью, пропускной способностью, габаритами судов и бассейном.",
+  "category": "transport",
+  "source": "https://ru.wikipedia.org/wiki/Список_морских_портов_России",
+  "source_url": "https://ru.wikipedia.org/wiki/Список_морских_портов_России",
+  "updated": "2026-11",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "port",
+      "label": "Port",
+      "type": "string"
+    },
+    {
+      "key": "raspolozhenie",
+      "label": "Raspolozhenie",
+      "type": "string"
+    },
+    {
+      "key": "ploshchad_km2",
+      "label": "Ploshchad Km2",
+      "type": "string"
+    },
+    {
+      "key": "propusknaya_tys_t",
+      "label": "Propusknaya Tys T",
+      "type": "string"
+    },
+    {
+      "key": "gabarity_sudov",
+      "label": "Gabarity Sudov",
+      "type": "string"
+    },
+    {
+      "key": "prichaly",
+      "label": "Prichaly",
+      "type": "string"
+    },
+    {
+      "key": "bassein",
+      "label": "Bassein",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "port": "Азов",
+      "raspolozhenie": "гор. Азов Ростовская область",
+      "ploshchad_km2": "17,42 + 1,54",
+      "propusknaya_tys_t": "16 530,87",
+      "gabarity_sudov": "150 / 20 / 3,7",
+      "prichaly": "35 ед. (4 948,56 м)",
+      "bassein": "Азово-Черноморский бассейн"
+    },
+    {
+      "port": "Ейск",
+      "raspolozhenie": "гор. Ейск Краснодарский край",
+      "ploshchad_km2": "0,87 + 0,6861",
+      "propusknaya_tys_t": "6 800",
+      "gabarity_sudov": "150 / 22 / 4,5",
+      "prichaly": "15 ед. (2 346,2 м)",
+      "bassein": "Азово-Черноморский бассейн"
+    },
+    {
+      "port": "Ростов-на-Дону",
+      "raspolozhenie": "гор. Ростов-на-Дону Ростовская область",
+      "ploshchad_km2": "12,605 + 3,1333",
+      "propusknaya_tys_t": "23 286,6",
+      "gabarity_sudov": "142 / 18 / 4,1",
+      "prichaly": "64 ед. (10 163,42 м)",
+      "bassein": "Азово-Черноморский бассейн"
+    },
+    {
+      "port": "Таганрог",
+      "raspolozhenie": "гор. Таганрог Ростовская область",
+      "ploshchad_km2": "9,76 + 0,5399",
+      "propusknaya_tys_t": "4 920",
+      "gabarity_sudov": "149 / 18 / 4,7",
+      "prichaly": "11 ед. (1 835,3 м)",
+      "bassein": "Азово-Черноморский бассейн"
+    },
+    {
+      "port": "Темрюк",
+      "raspolozhenie": "гор. Темрюк Краснодарский край",
+      "ploshchad_km2": "22,68 + 2,292",
+      "propusknaya_tys_t": "11 500",
+      "gabarity_sudov": "140 / 17,5 / 4,6",
+      "prichaly": "22 ед. (2 833,78 м)",
+      "bassein": "Азово-Черноморский бассейн"
+    },
+    {
+      "port": "Кавказ",
+      "raspolozhenie": "Темрюкский район Краснодарский край",
+      "ploshchad_km2": "36,3016 + 0,465",
+      "propusknaya_tys_t": "27 559,3",
+      "gabarity_sudov": "150 / 22 / 5,3 260 / 46 /16 (на рейде)",
+      "prichaly": "10 ед. (1 347,64 м)",
+      "bassein": "Азово-Черноморский бассейн"
+    },
+    {
+      "port": "Анапа",
+      "raspolozhenie": "гор. Анапа Краснодарский край",
+      "ploshchad_km2": "2,093 + 0,0307",
+      "propusknaya_tys_t": "374",
+      "gabarity_sudov": "117,5 / 28 / 3,6",
+      "prichaly": "6 ед. (828 м)",
+      "bassein": "Азово-Черноморский бассейн"
+    },
+    {
+      "port": "Геленджик",
+      "raspolozhenie": "гор. Геленджик Краснодарский край",
+      "ploshchad_km2": "10,7 + 0,067",
+      "propusknaya_tys_t": "185 000",
+      "gabarity_sudov": "114 / 14 / 3,8",
+      "prichaly": "9 ед. (795,75 м)",
+      "bassein": "Азово-Черноморский бассейн"
+    },
+    {
+      "port": "Новороссийск",
+      "raspolozhenie": "гор. Новороссийск Краснодарский край",
+      "ploshchad_km2": "344 + 2,7812",
+      "propusknaya_tys_t": "218 875",
+      "gabarity_sudov": "295,2 / 45,04 / 13,1 (во внутреннюю гавань) не огр. / 324 / 58 (к причалам ВПУ КТК-1, КТК-2, КТК-3)",
+      "prichaly": "90 ед. (16 556 м)",
+      "bassein": "Азово-Черноморский бассейн"
+    },
+    {
+      "port": "Сочи",
+      "raspolozhenie": "гор. Сочи Краснодарский край",
+      "ploshchad_km2": "17,6516 + 0,2473",
+      "propusknaya_tys_t": "5 010",
+      "gabarity_sudov": "311 / 38,6 / 8,8",
+      "prichaly": "40 ед. (4 332,86 м)",
+      "bassein": "Азово-Черноморский бассейн"
+    },
+    {
+      "port": "Тамань",
+      "raspolozhenie": "с. Волна Темрюкский район Краснодарский край",
+      "ploshchad_km2": "99,22 + 0,4114",
+      "propusknaya_tys_t": "54 500",
+      "gabarity_sudov": "252 / 44 / 14",
+      "prichaly": "13 ед. (3 901,5 м)",
+      "bassein": "Азово-Черноморский бассейн"
+    },
+    {
+      "port": "Туапсе",
+      "raspolozhenie": "гор. Туапсе Краснодарский край",
+      "ploshchad_km2": "25,18 + 0,3775",
+      "propusknaya_tys_t": "38 490",
+      "gabarity_sudov": "250 / 45 / 15",
+      "prichaly": "36 ед. (5 877,12 м)",
+      "bassein": "Азово-Черноморский бассейн"
+    },
+    {
+      "port": "Керчь",
+      "raspolozhenie": "гор. Керчь Крым",
+      "ploshchad_km2": "868,33 + 0,26",
+      "propusknaya_tys_t": "2 484,97",
+      "gabarity_sudov": "200 / нет данных / 8",
+      "prichaly": "7 ед. (1484 м)",
+      "bassein": "Азово-Черноморский бассейн"
+    },
+    {
+      "port": "Севастополь",
+      "raspolozhenie": "Севастополь",
+      "ploshchad_km2": "215,6 + 12",
+      "propusknaya_tys_t": "5 891,08",
+      "gabarity_sudov": "229,1 / 32,26 / 12,4 (Севастопольская бухта) 225 / 36 / 11,5 (Камышовая бухта)",
+      "prichaly": "39 (3 530,4 м)",
+      "bassein": "Азово-Черноморский бассейн"
+    },
+    {
+      "port": "Феодосия",
+      "raspolozhenie": "гор. Феодосия Крым",
+      "ploshchad_km2": "3,571 + 0,0496",
+      "propusknaya_tys_t": "2 840",
+      "gabarity_sudov": "нет данных",
+      "prichaly": "5 ед. (862 м)",
+      "bassein": "Азово-Черноморский бассейн"
+    },
+    {
+      "port": "Ялта",
+      "raspolozhenie": "гор. Ялта Крым",
+      "ploshchad_km2": "0,12 + 0,09",
+      "propusknaya_tys_t": "300",
+      "gabarity_sudov": "170 / нет данных / 6,5",
+      "prichaly": "3 ед. (513,65)",
+      "bassein": "Азово-Черноморский бассейн"
+    },
+    {
+      "port": "Евпатория",
+      "raspolozhenie": "гор. Евпатория Крым",
+      "ploshchad_km2": "51,5 + 0,25",
+      "propusknaya_tys_t": "2 650",
+      "gabarity_sudov": "нет данных",
+      "prichaly": "8 ед. (1 486 м)",
+      "bassein": "Азово-Черноморский бассейн"
+    },
+    {
+      "port": "Выборг",
+      "raspolozhenie": "гор. Выборг Ленинградская область",
+      "ploshchad_km2": "2,87 + 0,1666",
+      "propusknaya_tys_t": "23000",
+      "gabarity_sudov": "135 / 25 / 6,5",
+      "prichaly": "9 ед. (1 122,7 м)",
+      "bassein": "Балтийский бассейн"
+    },
+    {
+      "port": "Высоцк",
+      "raspolozhenie": "гор. Высоцк Выборгский район Ленинградская область",
+      "ploshchad_km2": "1,26 + 1,436",
+      "propusknaya_tys_t": "21 200",
+      "gabarity_sudov": "260 / 45 / 13,2",
+      "prichaly": "8 ед. (1 703,6 м)",
+      "bassein": "Балтийский бассейн"
+    },
+    {
+      "port": "Калининград",
+      "raspolozhenie": "гор. Калининград Калининградская область",
+      "ploshchad_km2": "21,33 + 3,7691",
+      "propusknaya_tys_t": "45 023,2",
+      "gabarity_sudov": "200 / 30 / 9,5",
+      "prichaly": "106 ед. (16 546,21 м)",
+      "bassein": "Балтийский бассейн"
+    },
+    {
+      "port": "Приморск",
+      "raspolozhenie": "гор. Приморск Выборгский район Ленинградская область",
+      "ploshchad_km2": "31,77 + 2,47448",
+      "propusknaya_tys_t": "89 500",
+      "gabarity_sudov": "307 / 55 / 15,85",
+      "prichaly": "12 ед. (3058,66 м)",
+      "bassein": "Балтийский бассейн"
+    },
+    {
+      "port": "Санкт-Петербург (Большой порт)",
+      "raspolozhenie": "Санкт-Петербург",
+      "ploshchad_km2": "616,93 + 7,459",
+      "propusknaya_tys_t": "118 246,01",
+      "gabarity_sudov": "320 / 42 / 11",
+      "prichaly": "149 ед. (23 677,65 м)",
+      "bassein": "Балтийский бассейн"
+    },
+    {
+      "port": "Санкт-Петербург (Пассажирский порт)",
+      "raspolozhenie": "Санкт-Петербург",
+      "ploshchad_km2": "3,055 + 0,3303",
+      "propusknaya_tys_t": "0",
+      "gabarity_sudov": "340 / 42 / 8,8",
+      "prichaly": "7 ед. (2 171,1 м)",
+      "bassein": "Балтийский бассейн"
+    },
+    {
+      "port": "Усть-Луга",
+      "raspolozhenie": "Кингисеппский район Ленинградская область",
+      "ploshchad_km2": "67,56 + 11,8193",
+      "propusknaya_tys_t": "144 000,25",
+      "gabarity_sudov": "320 / 50 / 15",
+      "prichaly": "38 ед. (7 303 м)",
+      "bassein": "Балтийский бассейн"
+    },
+    {
+      "port": "Астрахань",
+      "raspolozhenie": "гор. Астрахань Астраханская область",
+      "ploshchad_km2": "55,007 + 1,9729",
+      "propusknaya_tys_t": "12 124,24",
+      "gabarity_sudov": "150 / 20 / 4,5",
+      "prichaly": "32 ед. (5 130,45 м)",
+      "bassein": "Каспийский бассейн"
+    },
+    {
+      "port": "Махачкала",
+      "raspolozhenie": "гор. Махачкала Дагестан",
+      "ploshchad_km2": "5,58 + 0,593",
+      "propusknaya_tys_t": "7 260",
+      "gabarity_sudov": "150 / 20 / 6,5",
+      "prichaly": "18 ед. (2 014 м)",
+      "bassein": "Каспийский бассейн"
+    },
+    {
+      "port": "Оля",
+      "raspolozhenie": "с. Оля Лиманский район Астраханская область",
+      "ploshchad_km2": "53,12 + 3,3125",
+      "propusknaya_tys_t": "1 580",
+      "gabarity_sudov": "135 /16,2 / 4,5",
+      "prichaly": "7 ед. (1 087,2 м)",
+      "bassein": "Каспийский бассейн"
+    },
+    {
+      "port": "Петропавловск-Камчатский",
+      "raspolozhenie": "гор. Петропавловск-Камчатский Камчатский край",
+      "ploshchad_km2": "1792,16 + 1,3696",
+      "propusknaya_tys_t": "2 198,4",
+      "gabarity_sudov": "200 / 25 / 9",
+      "prichaly": "61 ед. (6 743,16 м)",
+      "bassein": "Дальневосточный бассейн"
+    },
+    {
+      "port": "Корсаков",
+      "raspolozhenie": "гор. Корсаков Сахалинская область",
+      "ploshchad_km2": "113,26 + 0,4534",
+      "propusknaya_tys_t": "5 278,3",
+      "gabarity_sudov": "150 / 40 / 7,5",
+      "prichaly": "30 ед. (3 406,66 м)",
+      "bassein": "Дальневосточный бассейн"
+    },
+    {
+      "port": "Магадан",
+      "raspolozhenie": "гор. Магадан Магаданская область",
+      "ploshchad_km2": "17,38 + 0,3264",
+      "propusknaya_tys_t": "2 990",
+      "gabarity_sudov": "200 / 24,55 / 11",
+      "prichaly": "7 ед. + 3 пирса (1 707,55 м)",
+      "bassein": "Дальневосточный бассейн"
+    },
+    {
+      "port": "Москальво",
+      "raspolozhenie": "с. Москальво Охинский район Сахалинская область",
+      "ploshchad_km2": "52,3 + 0,1803",
+      "propusknaya_tys_t": "600",
+      "gabarity_sudov": "150 / 40 / 6",
+      "prichaly": "6 ед. (657 м)",
+      "bassein": "Дальневосточный бассейн"
+    },
+    {
+      "port": "Мыс Лазарева",
+      "raspolozhenie": "пгт Лазарев Николаевский район Хабаровский край",
+      "ploshchad_km2": "0,07 + 0,0199",
+      "propusknaya_tys_t": "100",
+      "gabarity_sudov": "140 / 14 / 0,9 (у причала) 120 / 14 / 4,5 (погрузка на рейде)",
+      "prichaly": "4 ед. (582 м)",
+      "bassein": "Дальневосточный бассейн"
+    },
+    {
+      "port": "Николаевск-на-Амуре",
+      "raspolozhenie": "гор. Николаевск-на-Амуре Хабаровский край",
+      "ploshchad_km2": "6,93 + 0,1672",
+      "propusknaya_tys_t": "784,4",
+      "gabarity_sudov": "140 / 18 / 4,5",
+      "prichaly": "8 ед. (791,6 м)",
+      "bassein": "Дальневосточный бассейн"
+    },
+    {
+      "port": "Охотск",
+      "raspolozhenie": "пгт Охотск Хабаровский край",
+      "ploshchad_km2": "56,89 + 0,0379",
+      "propusknaya_tys_t": "151,73",
+      "gabarity_sudov": "110 / 18 / 3,5",
+      "prichaly": "5 ед. (555,77 м)",
+      "bassein": "Дальневосточный бассейн"
+    },
+    {
+      "port": "Поронайск",
+      "raspolozhenie": "гор. Поронайск Сахалинская область",
+      "ploshchad_km2": "12,50 + 0,0382",
+      "propusknaya_tys_t": "-",
+      "gabarity_sudov": "37 / 7 / 1,9",
+      "prichaly": "6 ед. (386,7 м)",
+      "bassein": "Дальневосточный бассейн"
+    },
+    {
+      "port": "Пригородное",
+      "raspolozhenie": "Корсаковский район Сахалинская область",
+      "ploshchad_km2": "57,8 + 0,1981",
+      "propusknaya_tys_t": "19 600",
+      "gabarity_sudov": "300 / б/о / 17,5",
+      "prichaly": "4 ед. (951,31 м)",
+      "bassein": "Дальневосточный бассейн"
+    },
+    {
+      "port": "Александровск-Сахалинский",
+      "raspolozhenie": "гор. Александровск-Сахалинский Сахалинская область",
+      "ploshchad_km2": "3,69 + 0,0441",
+      "propusknaya_tys_t": "350",
+      "gabarity_sudov": "34 / 7,2 / 2,4",
+      "prichaly": "4 ед. (442,05 м)",
+      "bassein": "Дальневосточный бассейн"
+    },
+    {
+      "port": "Ванино",
+      "raspolozhenie": "пгт Ванино Хабаровский край",
+      "ploshchad_km2": "16 + 4,58",
+      "propusknaya_tys_t": "49 840",
+      "gabarity_sudov": "292 / 45 / 18,5",
+      "prichaly": "22 ед. (3 707 м)",
+      "bassein": "Дальневосточный бассейн"
+    },
+    {
+      "port": "Владивосток",
+      "raspolozhenie": "гор. Владивосток Приморский край",
+      "ploshchad_km2": "141,2523 + 3,9575",
+      "propusknaya_tys_t": "31 236,43",
+      "gabarity_sudov": "400 / 48,2 / 18",
+      "prichaly": "66 ед. (13 332,45 м)",
+      "bassein": "Дальневосточный бассейн"
+    },
+    {
+      "port": "Восточный",
+      "raspolozhenie": "гор. Находка Приморский край",
+      "ploshchad_km2": "66,37 + 4,0358",
+      "propusknaya_tys_t": "81 738",
+      "gabarity_sudov": "400 / 59 / 17",
+      "prichaly": "28 ед. (6 058,7 м)",
+      "bassein": "Дальневосточный бассейн"
+    },
+    {
+      "port": "Де-Кастри",
+      "raspolozhenie": "с. Де-Кастри Ульчский район Хабаровский край",
+      "ploshchad_km2": "68,48 + 0,0286",
+      "propusknaya_tys_t": "12 350",
+      "gabarity_sudov": "250 / 50 / 15",
+      "prichaly": "4 ед. (361 м)",
+      "bassein": "Дальневосточный бассейн"
+    },
+    {
+      "port": "Зарубино",
+      "raspolozhenie": "пгт Зарубино Хасанский район Приморский край",
+      "ploshchad_km2": "27,0 + 0,392",
+      "propusknaya_tys_t": "1202",
+      "gabarity_sudov": "130 / 18 / 7,5",
+      "prichaly": "7 ед. (841 м)",
+      "bassein": "Дальневосточный бассейн"
+    },
+    {
+      "port": "Находка",
+      "raspolozhenie": "гор. Находка Приморский край",
+      "ploshchad_km2": "127,44 + 3,708076",
+      "propusknaya_tys_t": "33 786,2",
+      "gabarity_sudov": "250 / 44 / 11,5",
+      "prichaly": "133 ед. (19 011,95 м)",
+      "bassein": "Дальневосточный бассейн"
+    },
+    {
+      "port": "Невельск",
+      "raspolozhenie": "гор. Невельск Сахалинская область",
+      "ploshchad_km2": "2,25 + 0,9129",
+      "propusknaya_tys_t": "1 197,059",
+      "gabarity_sudov": "Терминалы: 110 / 15 / 5.5 (Невельск) 85 / б.о / 5,0 (Северо-Курильск) б.о / б.о / 7,0 (Курильск) 133 / б.о / 6,0 (Южно-Курильск) 70 / б.о / 6,0 (Малокурильск) 80 / б.о / 5,0 (Крабозаводск)",
+      "prichaly": "27 ед. (2 887,8 м)",
+      "bassein": "Дальневосточный бассейн"
+    },
+    {
+      "port": "Ольга",
+      "raspolozhenie": "пгт Ольга Приморский край",
+      "ploshchad_km2": "57,357 + 0,4288",
+      "propusknaya_tys_t": "2 377",
+      "gabarity_sudov": "200 / 18 / 8",
+      "prichaly": "11 ед. (1 514,4 м)",
+      "bassein": "Дальневосточный бассейн"
+    },
+    {
+      "port": "Посьет",
+      "raspolozhenie": "пгт Посьет Хасанский район Приморский край",
+      "ploshchad_km2": "22,5 + 0,8364",
+      "propusknaya_tys_t": "6 236",
+      "gabarity_sudov": "400 / 60 / 15 (в Славянском заливе) 175 / 26 / 9 (в заливе Посьета)",
+      "prichaly": "17 ед. (2 411,23 м)",
+      "bassein": "Дальневосточный бассейн"
+    },
+    {
+      "port": "Советская Гавань",
+      "raspolozhenie": "гор. Советская Гавань Хабаровский край",
+      "ploshchad_km2": "24 + 1,3566",
+      "propusknaya_tys_t": "3 801,5",
+      "gabarity_sudov": "200 / 29 / 10",
+      "prichaly": "10 ед. (1 912 м)",
+      "bassein": "Дальневосточный бассейн"
+    },
+    {
+      "port": "Холмск",
+      "raspolozhenie": "гор. Холмск Сахалинская область",
+      "ploshchad_km2": "15,62 + 0,4889",
+      "propusknaya_tys_t": "3 784",
+      "gabarity_sudov": "130 / 22 / 8",
+      "prichaly": "27 ед. (2 469,4 м)",
+      "bassein": "Дальневосточный бассейн"
+    },
+    {
+      "port": "Шахтёрск",
+      "raspolozhenie": "гор. Шахтёрск Углегорский район Сахалинская область",
+      "ploshchad_km2": "47,28 + 0,1355",
+      "propusknaya_tys_t": "2 300",
+      "gabarity_sudov": "200 / 20 / 15",
+      "prichaly": "28 ед. (2 113 м)",
+      "bassein": "Дальневосточный бассейн"
+    },
+    {
+      "port": "Варандей",
+      "raspolozhenie": "п. Варандей Заполярный район Ненецкий автономный округ",
+      "ploshchad_km2": "24,98 + 0,0147",
+      "propusknaya_tys_t": "12 100,4",
+      "gabarity_sudov": "120 / 15 / 3,5",
+      "prichaly": "2 ед. (199,86 м)",
+      "bassein": "Арктический бассейн"
+    },
+    {
+      "port": "Мурманск",
+      "raspolozhenie": "гор. Мурманск Мурманская область",
+      "ploshchad_km2": "53,70 + 6,459",
+      "propusknaya_tys_t": "26 611,2",
+      "gabarity_sudov": "без ограничений",
+      "prichaly": "1101 ед. + 2 пирса (13 246,48 м)",
+      "bassein": "Арктический бассейн"
+    },
+    {
+      "port": "Нарьян-Мар",
+      "raspolozhenie": "гор. Нарьян-Мар Ненецкий автономный округ",
+      "ploshchad_km2": "5,6256 + 0,225697",
+      "propusknaya_tys_t": "501,016",
+      "gabarity_sudov": "114 / 14 / 3,6 (суда смешанного (река-море) плавания 90 / 16 / 3,6 (морские суда)",
+      "prichaly": "6 ед. (730,66 м)",
+      "bassein": "Арктический бассейн"
+    },
+    {
+      "port": "Архангельск",
+      "raspolozhenie": "гор. Архангельск Архангельская область",
+      "ploshchad_km2": "1120 + 2,1526",
+      "propusknaya_tys_t": "11 772,9",
+      "gabarity_sudov": "190 / 30 / 9,2",
+      "prichaly": "75 ед. (8 884,14 м)",
+      "bassein": "Арктический бассейн"
+    },
+    {
+      "port": "Витино",
+      "raspolozhenie": "с. Белое Море Кандалакшский район Мурманская область",
+      "ploshchad_km2": "11,59 + 0,1866",
+      "propusknaya_tys_t": "11 000",
+      "gabarity_sudov": "230 / 32,2 / 11,1",
+      "prichaly": "4 ед. (512 м)",
+      "bassein": "Арктический бассейн"
+    },
+    {
+      "port": "Кандалакша",
+      "raspolozhenie": "гор. Кандалакша Мурманская область",
+      "ploshchad_km2": "5,09 + 0,2544",
+      "propusknaya_tys_t": "1 500",
+      "gabarity_sudov": "200 / 33 / 9,8",
+      "prichaly": "5 ед. (584,45 м)",
+      "bassein": "Арктический бассейн"
+    },
+    {
+      "port": "Мезень",
+      "raspolozhenie": "гор. Мезень Архангельская область",
+      "ploshchad_km2": "191 + 1,91",
+      "propusknaya_tys_t": "132",
+      "gabarity_sudov": "120 / 20 / 4,2",
+      "prichaly": "3 ед. (215 м)",
+      "bassein": "Арктический бассейн"
+    },
+    {
+      "port": "Онега",
+      "raspolozhenie": "гор. Онега Архангельская область",
+      "ploshchad_km2": "845,59 + 0,0268",
+      "propusknaya_tys_t": "261,5",
+      "gabarity_sudov": "242 / 32,4 / 13,6",
+      "prichaly": "7 ед. (880 м)",
+      "bassein": "Арктический бассейн"
+    },
+    {
+      "port": "Певек",
+      "raspolozhenie": "гор. Певек Чукотский автономный округ",
+      "ploshchad_km2": "8,9 + 0,19",
+      "propusknaya_tys_t": "330",
+      "gabarity_sudov": "172,2 / 24,55 / 9",
+      "prichaly": "3 ед. (500 м)",
+      "bassein": "Арктический бассейн"
+    },
+    {
+      "port": "Диксон",
+      "raspolozhenie": "пгт Диксон Таймырский район Красноярский край",
+      "ploshchad_km2": "0,182 + 0,0477",
+      "propusknaya_tys_t": "120",
+      "gabarity_sudov": "100 / 20 / 8",
+      "prichaly": "2 ед. (243 м)",
+      "bassein": "Арктический бассейн"
+    },
+    {
+      "port": "Дудинка",
+      "raspolozhenie": "гор. Дудинка Красноярский край",
+      "ploshchad_km2": "30,22 + 0,2492",
+      "propusknaya_tys_t": "1 885",
+      "gabarity_sudov": "260,3 / 32,2 / 11,8",
+      "prichaly": "9 ед. (1 723,6 м)",
+      "bassein": "Арктический бассейн"
+    },
+    {
+      "port": "Сабетта",
+      "raspolozhenie": "пос. Сабетта Ямало-Ненецкий автономный округ",
+      "ploshchad_km2": "1 1177 + 1,795",
+      "propusknaya_tys_t": "30 317,8",
+      "gabarity_sudov": "315 / 50 / 12",
+      "prichaly": "11 ед. (2 365,8 м)",
+      "bassein": "Арктический бассейн"
+    },
+    {
+      "port": "Тикси",
+      "raspolozhenie": "пгт Тикси Якутия",
+      "ploshchad_km2": "96,78 + 0,0729",
+      "propusknaya_tys_t": "67",
+      "gabarity_sudov": "129,5 / 15,8 / 3,9",
+      "prichaly": "2 ед. (315,0 м)",
+      "bassein": "Арктический бассейн"
+    },
+    {
+      "port": "Хатанга",
+      "raspolozhenie": "с. Хатанга Таймырский район Красноярский край",
+      "ploshchad_km2": "3,7 + 0,1062",
+      "propusknaya_tys_t": "95",
+      "gabarity_sudov": "136 / 16,5 / 4,17",
+      "prichaly": "5 ед. (400 м)",
+      "bassein": "Арктический бассейн"
+    },
+    {
+      "port": "Анадырь",
+      "raspolozhenie": "гор. Анадырь Чукотский автономный округ",
+      "ploshchad_km2": "45,33 + 0,1189",
+      "propusknaya_tys_t": "900",
+      "gabarity_sudov": "177 / 25 / 7",
+      "prichaly": "6 ед. (686 м)",
+      "bassein": "Арктический бассейн"
+    },
+    {
+      "port": "Беринговский",
+      "raspolozhenie": "пгт Беринговский Анадырский район Чукотский автономный округ",
+      "ploshchad_km2": "47,07 + 0,2212",
+      "propusknaya_tys_t": "1660,4",
+      "gabarity_sudov": "190 / 33 / 13 (на рейде) 39,9 / 12 / 2,7 (у причалов)",
+      "prichaly": "4 ед. (269 м)",
+      "bassein": "Арктический бассейн"
+    },
+    {
+      "port": "Провидения",
+      "raspolozhenie": "пгт Провидения Чукотский автономный округ",
+      "ploshchad_km2": "13,02 + 0,127",
+      "propusknaya_tys_t": "345,4",
+      "gabarity_sudov": "200 / 24 / 10",
+      "prichaly": "4 ед. (350,82 м)",
+      "bassein": "Арктический бассейн"
+    },
+    {
+      "port": "Эгвекинот",
+      "raspolozhenie": "пгт Эгвекинот Чукотский автономный округ",
+      "ploshchad_km2": "5,75 + 0,0717",
+      "propusknaya_tys_t": "174",
+      "gabarity_sudov": "150 / 21 / 7,5",
+      "prichaly": "2 ед. (570,62 м)",
+      "bassein": "Арктический бассейн"
+    }
+  ],
+  "meta": {
+    "title": "Морские порты России - Free Download",
+    "description": "Список морских портов России с расположением, площадью, пропускной способностью, габаритами судов и бассейном. Contains 67 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Морские порты России | ListBase",
+    "seo_description": "Download Морские порты России — 67 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 67 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Список_морских_портов_России"
+    ]
+  }
+}

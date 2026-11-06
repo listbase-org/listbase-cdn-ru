@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-06T02:24:23.388Z",
-  "total_datasets": 513,
-  "total_records": 220631,
+  "generated": "2026-11-06T02:24:32.800Z",
+  "total_datasets": 514,
+  "total_records": 220698,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 84
+      "dataset_count": 85
     },
     {
       "id": "units",
@@ -14190,6 +14190,34 @@
         "xlsx": {
           "name": "ru-minsk-metro-stantsii_RU.xlsx",
           "size": 10848
+        }
+      }
+    },
+    {
+      "id": "ru-morskie-porty",
+      "name": "Морские порты России",
+      "category": "transport",
+      "record_count": 67,
+      "columns": [
+        "port",
+        "raspolozhenie",
+        "ploshchad_km2",
+        "propusknaya_tys_t",
+        "gabarity_sudov",
+        "prichaly",
+        "bassein"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_морских_портов_России",
+      "updated": "2026-11",
+      "size": 27537,
+      "files": {
+        "csv": {
+          "name": "ru-morskie-porty_RU.csv",
+          "size": 14436
+        },
+        "xlsx": {
+          "name": "ru-morskie-porty_RU.xlsx",
+          "size": 12571
         }
       }
     },
