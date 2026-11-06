@@ -1,0 +1,583 @@
+{
+  "id": "ru-aeroporty-po-passazhiropotoku",
+  "name": "Самые загруженные аэропорты России по пассажиропотоку",
+  "title": "Самые загруженные аэропорты России по пассажиропотоку",
+  "description": "Рейтинг аэропортов России по годовому пассажиропотоку (млн человек) с изменением за год.",
+  "category": "transport",
+  "source": "https://ru.wikipedia.org/wiki/Список_наиболее_загруженных_аэропортов_России",
+  "source_url": "https://ru.wikipedia.org/wiki/Список_наиболее_загруженных_аэропортов_России",
+  "updated": "2026-11",
+  "record_count": 76,
+  "columns": [
+    {
+      "key": "mesto",
+      "label": "Mesto",
+      "type": "number"
+    },
+    {
+      "key": "aeroport",
+      "label": "Aeroport",
+      "type": "string"
+    },
+    {
+      "key": "passazhiropotok_mln",
+      "label": "Passazhiropotok Mln",
+      "type": "number"
+    },
+    {
+      "key": "izmenenie_pct",
+      "label": "Izmenenie Pct",
+      "type": "number"
+    },
+    {
+      "key": "god",
+      "label": "God",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "mesto": 1,
+      "aeroport": "Шереметьево (Москва)",
+      "passazhiropotok_mln": "43.712",
+      "izmenenie_pct": "20",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 2,
+      "aeroport": "Пулково (Санкт-Петербург)",
+      "passazhiropotok_mln": "20.9",
+      "izmenenie_pct": "3",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 3,
+      "aeroport": "Внуково (Москва)",
+      "passazhiropotok_mln": "16.095",
+      "izmenenie_pct": "11",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 4,
+      "aeroport": "Домодедово (Москва)",
+      "passazhiropotok_mln": "15.6",
+      "izmenenie_pct": "-21.9",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 5,
+      "aeroport": "Сочи",
+      "passazhiropotok_mln": "13.726",
+      "izmenenie_pct": "-1.3",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 6,
+      "aeroport": "Толмачёво (Новосибирск)",
+      "passazhiropotok_mln": "9.299",
+      "izmenenie_pct": "2.3",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 7,
+      "aeroport": "Кольцово (Екатеринбург)",
+      "passazhiropotok_mln": "8.047",
+      "izmenenie_pct": "9",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 8,
+      "aeroport": "Казань",
+      "passazhiropotok_mln": "5.369",
+      "izmenenie_pct": "3.9",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 9,
+      "aeroport": "Минеральные Воды",
+      "passazhiropotok_mln": "4.86",
+      "izmenenie_pct": "1.4",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 10,
+      "aeroport": "Храброво (Калининград)",
+      "passazhiropotok_mln": "4.814",
+      "izmenenie_pct": "11.9",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 11,
+      "aeroport": "Уфа",
+      "passazhiropotok_mln": "4.8",
+      "izmenenie_pct": "-0.9",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 12,
+      "aeroport": "Емельяново (Красноярск)",
+      "passazhiropotok_mln": "4.283",
+      "izmenenie_pct": "13.5",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 13,
+      "aeroport": "Иркутск",
+      "passazhiropotok_mln": "3.957",
+      "izmenenie_pct": "4.5",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 14,
+      "aeroport": "Курумоч (Самара)",
+      "passazhiropotok_mln": "3.57",
+      "izmenenie_pct": "0.8",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 15,
+      "aeroport": "Кневичи (Владивосток)",
+      "passazhiropotok_mln": "2.971",
+      "izmenenie_pct": "17",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 16,
+      "aeroport": "Уйташ (Махачкала)",
+      "passazhiropotok_mln": "2.899",
+      "izmenenie_pct": "3.5",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 17,
+      "aeroport": "Рощино (Тюмень)",
+      "passazhiropotok_mln": "2.776",
+      "izmenenie_pct": "6.7",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 18,
+      "aeroport": "Новый (Хабаровск)",
+      "passazhiropotok_mln": "2.446",
+      "izmenenie_pct": "8",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 19,
+      "aeroport": "Сургут",
+      "passazhiropotok_mln": "2.221",
+      "izmenenie_pct": "3",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 20,
+      "aeroport": "Баландино (Челябинск)",
+      "passazhiropotok_mln": "2.172",
+      "izmenenie_pct": "0.5",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 21,
+      "aeroport": "Большое Савино (Пермь)",
+      "passazhiropotok_mln": "1.972",
+      "izmenenie_pct": "-1",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 22,
+      "aeroport": "Омск-Центральный",
+      "passazhiropotok_mln": "1.726",
+      "izmenenie_pct": "2.7",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 23,
+      "aeroport": "Гумрак (Волгоград)",
+      "passazhiropotok_mln": "1.68",
+      "izmenenie_pct": "7.1",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 24,
+      "aeroport": "Хомутово (Южно-Сахалинск)",
+      "passazhiropotok_mln": "1.542",
+      "izmenenie_pct": "9",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 25,
+      "aeroport": "Жуковский (Москва)",
+      "passazhiropotok_mln": "1.491",
+      "izmenenie_pct": "3",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 26,
+      "aeroport": "Стригино (Нижний Новгород)",
+      "passazhiropotok_mln": "1.47",
+      "izmenenie_pct": "5",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 27,
+      "aeroport": "Мурманск",
+      "passazhiropotok_mln": "1.467",
+      "izmenenie_pct": "2.2",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 28,
+      "aeroport": "Саратов",
+      "passazhiropotok_mln": "1.15",
+      "izmenenie_pct": "8",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 29,
+      "aeroport": "Якутск",
+      "passazhiropotok_mln": "1.084",
+      "izmenenie_pct": "11",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 30,
+      "aeroport": "Новый Уренгой",
+      "passazhiropotok_mln": "1.072",
+      "izmenenie_pct": "1.6",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 31,
+      "aeroport": "Талаги (Архангельск)",
+      "passazhiropotok_mln": "1.058",
+      "izmenenie_pct": "146",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 32,
+      "aeroport": "Оренбург",
+      "passazhiropotok_mln": "1.005",
+      "izmenenie_pct": "-3.6",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 33,
+      "aeroport": "Грозный",
+      "passazhiropotok_mln": "0.951",
+      "izmenenie_pct": "-5.4",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 34,
+      "aeroport": "Беслан (Владикавказ)",
+      "passazhiropotok_mln": "0.94",
+      "izmenenie_pct": "2.6",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 35,
+      "aeroport": "Елизово (Петропавловск-Камчатский)",
+      "passazhiropotok_mln": "0.935",
+      "izmenenie_pct": "4",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 36,
+      "aeroport": "Благовещенск",
+      "passazhiropotok_mln": "0.928",
+      "izmenenie_pct": "1.5",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 37,
+      "aeroport": "Ижевск",
+      "passazhiropotok_mln": "0.904",
+      "izmenenie_pct": "8.2",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 38,
+      "aeroport": "Норильск",
+      "passazhiropotok_mln": "0.883",
+      "izmenenie_pct": "6",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 39,
+      "aeroport": "Астрахань",
+      "passazhiropotok_mln": "0.841",
+      "izmenenie_pct": "9",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 40,
+      "aeroport": "Нижневартовск",
+      "passazhiropotok_mln": "0.810",
+      "izmenenie_pct": "13",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 41,
+      "aeroport": "Кадала (Чита)",
+      "passazhiropotok_mln": "0.788",
+      "izmenenie_pct": "8",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 42,
+      "aeroport": "Барнаул",
+      "passazhiropotok_mln": "0.781",
+      "izmenenie_pct": "8",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 43,
+      "aeroport": "Байкал (Улан-Удэ)",
+      "passazhiropotok_mln": "0.749",
+      "izmenenie_pct": "4.7",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 44,
+      "aeroport": "Бегишево (Нижнекамск)",
+      "passazhiropotok_mln": "0.693",
+      "izmenenie_pct": "6",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 45,
+      "aeroport": "Баратаевка (Ульяновск)",
+      "passazhiropotok_mln": "0.676",
+      "izmenenie_pct": "10",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 46,
+      "aeroport": "Томск",
+      "passazhiropotok_mln": "0.653",
+      "izmenenie_pct": "8.9",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 47,
+      "aeroport": "Ставрополь",
+      "passazhiropotok_mln": "0.593",
+      "izmenenie_pct": "8",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 48,
+      "aeroport": "Новокузнецк",
+      "passazhiropotok_mln": "0.581",
+      "izmenenie_pct": "8.8",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 49,
+      "aeroport": "Чебоксары",
+      "passazhiropotok_mln": "0.577",
+      "izmenenie_pct": "14",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 50,
+      "aeroport": "Сокол (Магадан)",
+      "passazhiropotok_mln": "0.564",
+      "izmenenie_pct": "3.3",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 51,
+      "aeroport": "Сыктывкар",
+      "passazhiropotok_mln": "",
+      "izmenenie_pct": "",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 52,
+      "aeroport": "Ханты-Мансийск",
+      "passazhiropotok_mln": "0.519",
+      "izmenenie_pct": "6",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 53,
+      "aeroport": "Кемерово",
+      "passazhiropotok_mln": "0.507",
+      "izmenenie_pct": "9",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 54,
+      "aeroport": "Победилово (Киров)",
+      "passazhiropotok_mln": "0.49",
+      "izmenenie_pct": "15",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 55,
+      "aeroport": "Мирный",
+      "passazhiropotok_mln": "",
+      "izmenenie_pct": "",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 56,
+      "aeroport": "Горно-Алтайск",
+      "passazhiropotok_mln": "0.475",
+      "izmenenie_pct": "10.7",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 57,
+      "aeroport": "Салехард",
+      "passazhiropotok_mln": "0.474",
+      "izmenenie_pct": "4",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 58,
+      "aeroport": "Абакан",
+      "passazhiropotok_mln": "0.416",
+      "izmenenie_pct": "12",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 59,
+      "aeroport": "Игарка",
+      "passazhiropotok_mln": "0.365",
+      "izmenenie_pct": "",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 60,
+      "aeroport": "Пенза",
+      "passazhiropotok_mln": "0.355",
+      "izmenenie_pct": "1.4",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 61,
+      "aeroport": "Нерюнгри",
+      "passazhiropotok_mln": "0.331",
+      "izmenenie_pct": "",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 62,
+      "aeroport": "Талакан",
+      "passazhiropotok_mln": "0.311",
+      "izmenenie_pct": "-10",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 63,
+      "aeroport": "Череповец",
+      "passazhiropotok_mln": "0.307",
+      "izmenenie_pct": "-3.8",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 64,
+      "aeroport": "Ноябрьск",
+      "passazhiropotok_mln": "0.3",
+      "izmenenie_pct": "",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 65,
+      "aeroport": "Магнитогорск",
+      "passazhiropotok_mln": "0.280",
+      "izmenenie_pct": "",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 66,
+      "aeroport": "Братск",
+      "passazhiropotok_mln": "0.259",
+      "izmenenie_pct": "",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 67,
+      "aeroport": "Надым",
+      "passazhiropotok_mln": "0.235",
+      "izmenenie_pct": "",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 68,
+      "aeroport": "Курган",
+      "passazhiropotok_mln": "0.165",
+      "izmenenie_pct": "",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 69,
+      "aeroport": "Нальчик",
+      "passazhiropotok_mln": "0.164",
+      "izmenenie_pct": "",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 70,
+      "aeroport": "Псков",
+      "passazhiropotok_mln": "0.160",
+      "izmenenie_pct": "",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 71,
+      "aeroport": "Магас",
+      "passazhiropotok_mln": "0.158",
+      "izmenenie_pct": "",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 72,
+      "aeroport": "Усть-Кут",
+      "passazhiropotok_mln": "0.149",
+      "izmenenie_pct": "72",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 73,
+      "aeroport": "Кызыл",
+      "passazhiropotok_mln": "0.139",
+      "izmenenie_pct": "",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 74,
+      "aeroport": "Иваново",
+      "passazhiropotok_mln": "0.125",
+      "izmenenie_pct": "",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 75,
+      "aeroport": "Саранск",
+      "passazhiropotok_mln": "0.120",
+      "izmenenie_pct": "",
+      "god": "2024 год"
+    },
+    {
+      "mesto": 76,
+      "aeroport": "Анадырь",
+      "passazhiropotok_mln": "0.119",
+      "izmenenie_pct": "",
+      "god": "2024 год"
+    }
+  ],
+  "meta": {
+    "title": "Самые загруженные аэропорты России по пассажиропотоку - Free Download",
+    "description": "Рейтинг аэропортов России по годовому пассажиропотоку (млн человек) с изменением за год. Contains 76 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Самые загруженные аэропорты России по пассажиропотоку | ListBase",
+    "seo_description": "Download Самые загруженные аэропорты России по пассажиропотоку — 76 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 76 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Список_наиболее_загруженных_аэропортов_России"
+    ]
+  }
+}

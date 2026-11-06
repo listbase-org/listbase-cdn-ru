@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-06T02:24:32.800Z",
-  "total_datasets": 514,
-  "total_records": 220698,
+  "generated": "2026-11-06T02:24:42.557Z",
+  "total_datasets": 515,
+  "total_records": 220774,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 85
+      "dataset_count": 86
     },
     {
       "id": "units",
@@ -12654,6 +12654,32 @@
         "xlsx": {
           "name": "ru-aeroporty_RU.xlsx",
           "size": 230715
+        }
+      }
+    },
+    {
+      "id": "ru-aeroporty-po-passazhiropotoku",
+      "name": "Самые загруженные аэропорты России по пассажиропотоку",
+      "category": "transport",
+      "record_count": 76,
+      "columns": [
+        "mesto",
+        "aeroport",
+        "passazhiropotok_mln",
+        "izmenenie_pct",
+        "god"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_наиболее_загруженных_аэропортов_России",
+      "updated": "2026-11",
+      "size": 15307,
+      "files": {
+        "csv": {
+          "name": "ru-aeroporty-po-passazhiropotoku_RU.csv",
+          "size": 4493
+        },
+        "xlsx": {
+          "name": "ru-aeroporty-po-passazhiropotoku_RU.xlsx",
+          "size": 10063
         }
       }
     },
