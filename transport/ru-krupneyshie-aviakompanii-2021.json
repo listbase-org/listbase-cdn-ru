@@ -1,0 +1,136 @@
+{
+  "id": "ru-krupneyshie-aviakompanii-2021",
+  "name": "Крупнейшие авиакомпании России по пассажиропотоку (2021)",
+  "title": "Крупнейшие авиакомпании России по пассажиропотоку (2021)",
+  "description": "Рейтинг российских авиакомпаний по числу перевезённых пассажиров и пассажирообороту в 2021 году по данным Росавиации.",
+  "category": "transport",
+  "source": "https://ru.wikipedia.org/wiki/Список_крупнейших_авиакомпаний_России",
+  "source_url": "https://ru.wikipedia.org/wiki/Список_крупнейших_авиакомпаний_России",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "mesto",
+      "label": "Mesto",
+      "type": "number"
+    },
+    {
+      "key": "aviakompaniya",
+      "label": "Aviakompaniya",
+      "type": "string"
+    },
+    {
+      "key": "perevezeno_passazhirov",
+      "label": "Perevezeno Passazhirov",
+      "type": "number"
+    },
+    {
+      "key": "passazhirooborot_tys_pass_km",
+      "label": "Passazhirooborot Tys Pass Km",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "mesto": 1,
+      "aviakompaniya": "Аэрофлот",
+      "perevezeno_passazhirov": 21415865,
+      "passazhirooborot_tys_pass_km": 51632690.1
+    },
+    {
+      "mesto": 2,
+      "aviakompaniya": "S7 Airlines",
+      "perevezeno_passazhirov": 17831165,
+      "passazhirooborot_tys_pass_km": 36757242.63
+    },
+    {
+      "mesto": 3,
+      "aviakompaniya": "Победа",
+      "perevezeno_passazhirov": 14433246,
+      "passazhirooborot_tys_pass_km": 24082349.71
+    },
+    {
+      "mesto": 4,
+      "aviakompaniya": "Россия",
+      "perevezeno_passazhirov": 9963331,
+      "passazhirooborot_tys_pass_km": 24396643.19
+    },
+    {
+      "mesto": 5,
+      "aviakompaniya": "Уральские авиалинии",
+      "perevezeno_passazhirov": 9200198,
+      "passazhirooborot_tys_pass_km": 20778957.82
+    },
+    {
+      "mesto": 6,
+      "aviakompaniya": "ЮТэйр",
+      "perevezeno_passazhirov": 7123996,
+      "passazhirooborot_tys_pass_km": 11596044.18
+    },
+    {
+      "mesto": 7,
+      "aviakompaniya": "Северный Ветер (NordWind)",
+      "perevezeno_passazhirov": 5926317,
+      "passazhirooborot_tys_pass_km": 19269878.32
+    },
+    {
+      "mesto": 8,
+      "aviakompaniya": "Azur Air",
+      "perevezeno_passazhirov": 3726198,
+      "passazhirooborot_tys_pass_km": 13855572.99
+    },
+    {
+      "mesto": 9,
+      "aviakompaniya": "Smartavia (Nordavia)",
+      "perevezeno_passazhirov": 3624793,
+      "passazhirooborot_tys_pass_km": 5913118.97
+    },
+    {
+      "mesto": 10,
+      "aviakompaniya": "Red Wings",
+      "perevezeno_passazhirov": 2997165,
+      "passazhirooborot_tys_pass_km": 6048082.86
+    },
+    {
+      "mesto": 11,
+      "aviakompaniya": "Азимут",
+      "perevezeno_passazhirov": 2093829,
+      "passazhirooborot_tys_pass_km": 2986786.41
+    },
+    {
+      "mesto": 12,
+      "aviakompaniya": "Ikar",
+      "perevezeno_passazhirov": 1718588,
+      "passazhirooborot_tys_pass_km": 4414422.1
+    },
+    {
+      "mesto": 13,
+      "aviakompaniya": "Royal Flight",
+      "perevezeno_passazhirov": 1493490,
+      "passazhirooborot_tys_pass_km": 5511472.95
+    },
+    {
+      "mesto": 14,
+      "aviakompaniya": "Ямал",
+      "perevezeno_passazhirov": 1259545,
+      "passazhirooborot_tys_pass_km": 2595514.09
+    },
+    {
+      "mesto": 15,
+      "aviakompaniya": "NordStar",
+      "perevezeno_passazhirov": 1162647,
+      "passazhirooborot_tys_pass_km": 2553757.35
+    }
+  ],
+  "meta": {
+    "title": "Крупнейшие авиакомпании России по пассажиропотоку (2021) - Free Download",
+    "description": "Рейтинг российских авиакомпаний по числу перевезённых пассажиров и пассажирообороту в 2021 году по данным Росавиации. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Крупнейшие авиакомпании России по пассажиропотоку (2021) | ListBase",
+    "seo_description": "Download Крупнейшие авиакомпании России по пассажиропотоку (2021) — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Список_крупнейших_авиакомпаний_России"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-09T02:13:00.190Z",
-  "total_datasets": 516,
-  "total_records": 220870,
+  "generated": "2026-11-09T02:13:09.138Z",
+  "total_datasets": 517,
+  "total_records": 220885,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 86
+      "dataset_count": 87
     },
     {
       "id": "units",
@@ -13920,6 +13920,31 @@
         "xlsx": {
           "name": "ru-krasnoyarskiy-kray-aeroporty_RU.xlsx",
           "size": 19735
+        }
+      }
+    },
+    {
+      "id": "ru-krupneyshie-aviakompanii-2021",
+      "name": "Крупнейшие авиакомпании России по пассажиропотоку (2021)",
+      "category": "transport",
+      "record_count": 15,
+      "columns": [
+        "mesto",
+        "aviakompaniya",
+        "perevezeno_passazhirov",
+        "passazhirooborot_tys_pass_km"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_крупнейших_авиакомпаний_России",
+      "updated": "2026-11",
+      "size": 4772,
+      "files": {
+        "csv": {
+          "name": "ru-krupneyshie-aviakompanii-2021_RU.csv",
+          "size": 764
+        },
+        "xlsx": {
+          "name": "ru-krupneyshie-aviakompanii-2021_RU.xlsx",
+          "size": 7429
         }
       }
     },
