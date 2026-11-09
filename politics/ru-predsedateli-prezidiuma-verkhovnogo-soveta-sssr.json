@@ -1,0 +1,149 @@
+{
+  "id": "ru-predsedateli-prezidiuma-verkhovnogo-soveta-sssr",
+  "name": "Председатели Президиума Верховного Совета СССР",
+  "title": "Председатели Президиума Верховного Совета СССР",
+  "description": "Председатели Президиума Верховного Совета СССР (1938–1989): годы жизни, даты начала и окончания полномочий.",
+  "category": "politics",
+  "source": "https://ru.wikipedia.org/wiki/Список_руководителей_СССР",
+  "source_url": "https://ru.wikipedia.org/wiki/Список_руководителей_СССР",
+  "updated": "2026-11",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "nomer",
+      "label": "Nomer",
+      "type": "number"
+    },
+    {
+      "key": "fio",
+      "label": "Fio",
+      "type": "string"
+    },
+    {
+      "key": "gody_zhizni",
+      "label": "Gody Zhizni",
+      "type": "string"
+    },
+    {
+      "key": "nachalo_polnomochiy",
+      "label": "Nachalo Polnomochiy",
+      "type": "string"
+    },
+    {
+      "key": "okonchanie_polnomochiy",
+      "label": "Okonchanie Polnomochiy",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nomer": "1",
+      "fio": "Калинин Михаил Иванович",
+      "gody_zhizni": "1875 — 1946",
+      "nachalo_polnomochiy": "17 января 1938",
+      "okonchanie_polnomochiy": "19 марта 1946"
+    },
+    {
+      "nomer": "2",
+      "fio": "Шверник Николай Михайлович",
+      "gody_zhizni": "1888 — 1970",
+      "nachalo_polnomochiy": "19 марта 1946",
+      "okonchanie_polnomochiy": "15 марта 1953"
+    },
+    {
+      "nomer": "3",
+      "fio": "Ворошилов Климент Ефремович",
+      "gody_zhizni": "1881 — 1969",
+      "nachalo_polnomochiy": "15 марта 1953",
+      "okonchanie_polnomochiy": "7 мая 1960"
+    },
+    {
+      "nomer": "4",
+      "fio": "Брежнев Леонид Ильич",
+      "gody_zhizni": "1906 — 1982",
+      "nachalo_polnomochiy": "7 мая 1960",
+      "okonchanie_polnomochiy": "15 июля 1964"
+    },
+    {
+      "nomer": "5",
+      "fio": "Микоян Анастас Иванович",
+      "gody_zhizni": "1895 — 1978",
+      "nachalo_polnomochiy": "15 июля 1964",
+      "okonchanie_polnomochiy": "9 декабря 1965"
+    },
+    {
+      "nomer": "6",
+      "fio": "Подгорный Николай Викторович",
+      "gody_zhizni": "1906 — 1983",
+      "nachalo_polnomochiy": "9 декабря 1965",
+      "okonchanie_polnomochiy": "16 июня 1977"
+    },
+    {
+      "nomer": "7",
+      "fio": "Брежнев Леонид Ильич",
+      "gody_zhizni": "1906 — 1982",
+      "nachalo_polnomochiy": "16 июня 1977",
+      "okonchanie_polnomochiy": "10 ноября 1982"
+    },
+    {
+      "nomer": "и. о.",
+      "fio": "Кузнецов Василий Васильевич",
+      "gody_zhizni": "1901 — 1990",
+      "nachalo_polnomochiy": "10 ноября 1982",
+      "okonchanie_polnomochiy": "16 июня 1983"
+    },
+    {
+      "nomer": "8",
+      "fio": "Андропов Юрий Владимирович",
+      "gody_zhizni": "1914 — 1984",
+      "nachalo_polnomochiy": "16 июня 1983",
+      "okonchanie_polnomochiy": "9 февраля 1984"
+    },
+    {
+      "nomer": "и. о.",
+      "fio": "Кузнецов Василий Васильевич",
+      "gody_zhizni": "1901 — 1990",
+      "nachalo_polnomochiy": "9 февраля 1984",
+      "okonchanie_polnomochiy": "11 апреля 1984"
+    },
+    {
+      "nomer": "9",
+      "fio": "Черненко Константин Устинович",
+      "gody_zhizni": "1911 — 1985",
+      "nachalo_polnomochiy": "11 апреля 1984",
+      "okonchanie_polnomochiy": "10 марта 1985"
+    },
+    {
+      "nomer": "и. о.",
+      "fio": "Кузнецов Василий Васильевич",
+      "gody_zhizni": "1901 — 1990",
+      "nachalo_polnomochiy": "10 марта 1985",
+      "okonchanie_polnomochiy": "2 июля 1985"
+    },
+    {
+      "nomer": "10",
+      "fio": "Громыко Андрей Андреевич",
+      "gody_zhizni": "1909 — 1989",
+      "nachalo_polnomochiy": "2 июля 1985",
+      "okonchanie_polnomochiy": "1 октября 1988"
+    },
+    {
+      "nomer": "11",
+      "fio": "Горбачёв Михаил Сергеевич",
+      "gody_zhizni": "1931 — 2022",
+      "nachalo_polnomochiy": "1 октября 1988",
+      "okonchanie_polnomochiy": "25 мая 1989"
+    }
+  ],
+  "meta": {
+    "title": "Председатели Президиума Верховного Совета СССР - Free Download",
+    "description": "Председатели Президиума Верховного Совета СССР (1938–1989): годы жизни, даты начала и окончания полномочий. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Председатели Президиума Верховного Совета СССР | ListBase",
+    "seo_description": "Download Председатели Президиума Верховного Совета СССР — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Список_руководителей_СССР"
+    ]
+  }
+}
