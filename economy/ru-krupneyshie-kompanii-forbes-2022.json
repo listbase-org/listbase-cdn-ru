@@ -1,0 +1,277 @@
+{
+  "id": "ru-krupneyshie-kompanii-forbes-2022",
+  "name": "Крупнейшие компании России по версии Forbes Global 2000 (2022)",
+  "title": "Крупнейшие компании России по версии Forbes Global 2000 (2022)",
+  "description": "Российские компании в рейтинге Forbes Global 2000 за 2022 год: место в мире, сфера деятельности, выручка, прибыль, активы и рыночная стоимость (млрд долл.).",
+  "category": "economy",
+  "source": "https://ru.wikipedia.org/wiki/Список_крупнейших_компаний_России_по_версии_Forbes_(2022)",
+  "source_url": "https://ru.wikipedia.org/wiki/Список_крупнейших_компаний_России_по_версии_Forbes_(2022)",
+  "updated": "2026-11",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "mesto_v_mire",
+      "label": "Mesto V Mire",
+      "type": "number"
+    },
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "sfera",
+      "label": "Sfera",
+      "type": "string"
+    },
+    {
+      "key": "vyruchka_mlrd_usd",
+      "label": "Vyruchka Mlrd Usd",
+      "type": "number"
+    },
+    {
+      "key": "pribyl_mlrd_usd",
+      "label": "Pribyl Mlrd Usd",
+      "type": "number"
+    },
+    {
+      "key": "aktivy_mlrd_usd",
+      "label": "Aktivy Mlrd Usd",
+      "type": "number"
+    },
+    {
+      "key": "rynochnaya_stoimost_mlrd_usd",
+      "label": "Rynochnaya Stoimost Mlrd Usd",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "mesto_v_mire": 116,
+      "nazvanie": "Сбербанк России",
+      "sfera": "Банковские услуги",
+      "vyruchka_mlrd_usd": 47.3,
+      "pribyl_mlrd_usd": 10.4,
+      "aktivy_mlrd_usd": 486.9,
+      "rynochnaya_stoimost_mlrd_usd": 85.7
+    },
+    {
+      "mesto_v_mire": 81,
+      "nazvanie": "Роснефть",
+      "sfera": "Нефть и газ",
+      "vyruchka_mlrd_usd": 70.8,
+      "pribyl_mlrd_usd": 2,
+      "aktivy_mlrd_usd": 207.5,
+      "rynochnaya_stoimost_mlrd_usd": 77.7
+    },
+    {
+      "mesto_v_mire": 476,
+      "nazvanie": "Сургутнефтегаз",
+      "sfera": "Нефть и газ",
+      "vyruchka_mlrd_usd": 18.8,
+      "pribyl_mlrd_usd": 8.4,
+      "aktivy_mlrd_usd": 79.4,
+      "rynochnaya_stoimost_mlrd_usd": 16.7
+    },
+    {
+      "mesto_v_mire": 49,
+      "nazvanie": "Газпром",
+      "sfera": "Нефть и газ",
+      "vyruchka_mlrd_usd": 90.5,
+      "pribyl_mlrd_usd": 0.921,
+      "aktivy_mlrd_usd": 294.9,
+      "rynochnaya_stoimost_mlrd_usd": 73.5
+    },
+    {
+      "mesto_v_mire": 450,
+      "nazvanie": "Норникель",
+      "sfera": "Горная металлургия",
+      "vyruchka_mlrd_usd": 15.7,
+      "pribyl_mlrd_usd": 3.5,
+      "aktivy_mlrd_usd": 20.7,
+      "rynochnaya_stoimost_mlrd_usd": 53.2
+    },
+    {
+      "mesto_v_mire": 167,
+      "nazvanie": "Лукойл",
+      "sfera": "Нефть и газ",
+      "vyruchka_mlrd_usd": 71.8,
+      "pribyl_mlrd_usd": 0.21,
+      "aktivy_mlrd_usd": 81.5,
+      "rynochnaya_stoimost_mlrd_usd": 52.3
+    },
+    {
+      "mesto_v_mire": 684,
+      "nazvanie": "Транснефть",
+      "sfera": "Оператор магистральных нефтепроводов",
+      "vyruchka_mlrd_usd": 14.3,
+      "pribyl_mlrd_usd": 2.1,
+      "aktivy_mlrd_usd": 44.1,
+      "rynochnaya_stoimost_mlrd_usd": 13.9
+    },
+    {
+      "mesto_v_mire": 414,
+      "nazvanie": "Новатэк",
+      "sfera": "Добыча газа",
+      "vyruchka_mlrd_usd": 9.6,
+      "pribyl_mlrd_usd": 0.937,
+      "aktivy_mlrd_usd": 27.9,
+      "rynochnaya_stoimost_mlrd_usd": 58.4
+    },
+    {
+      "mesto_v_mire": 513,
+      "nazvanie": "Банк ВТБ",
+      "sfera": "Банковские услуги",
+      "vyruchka_mlrd_usd": 17.1,
+      "pribyl_mlrd_usd": 0.901,
+      "aktivy_mlrd_usd": 245.3,
+      "rynochnaya_stoimost_mlrd_usd": 8.1
+    },
+    {
+      "mesto_v_mire": 788,
+      "nazvanie": "Татнефть",
+      "sfera": "Нефть и газ",
+      "vyruchka_mlrd_usd": 10.2,
+      "pribyl_mlrd_usd": 1.4,
+      "aktivy_mlrd_usd": 17.1,
+      "rynochnaya_stoimost_mlrd_usd": 17.3
+    },
+    {
+      "mesto_v_mire": 861,
+      "nazvanie": "Группа НЛМК",
+      "sfera": "Металлургия",
+      "vyruchka_mlrd_usd": 9.2,
+      "pribyl_mlrd_usd": 1.3,
+      "aktivy_mlrd_usd": 9.9,
+      "rynochnaya_stoimost_mlrd_usd": 20.9
+    },
+    {
+      "mesto_v_mire": 908,
+      "nazvanie": "Северсталь",
+      "sfera": "Металлургия",
+      "vyruchka_mlrd_usd": 7.3,
+      "pribyl_mlrd_usd": 1.7,
+      "aktivy_mlrd_usd": 7.5,
+      "rynochnaya_stoimost_mlrd_usd": 19.6
+    },
+    {
+      "mesto_v_mire": 944,
+      "nazvanie": "Россети",
+      "sfera": "Электроэнергетика",
+      "vyruchka_mlrd_usd": 13.8,
+      "pribyl_mlrd_usd": 0.546,
+      "aktivy_mlrd_usd": 35.2,
+      "rynochnaya_stoimost_mlrd_usd": 3.8
+    },
+    {
+      "mesto_v_mire": 1001,
+      "nazvanie": "Полюс",
+      "sfera": "Добыча золота",
+      "vyruchka_mlrd_usd": 5,
+      "pribyl_mlrd_usd": 1.6,
+      "aktivy_mlrd_usd": 7.3,
+      "rynochnaya_stoimost_mlrd_usd": 26.7
+    },
+    {
+      "mesto_v_mire": 1004,
+      "nazvanie": "En+ Group",
+      "sfera": "Металлургия, Электроэнергетика",
+      "vyruchka_mlrd_usd": 10.4,
+      "pribyl_mlrd_usd": 1,
+      "aktivy_mlrd_usd": 22.1,
+      "rynochnaya_stoimost_mlrd_usd": 5.9
+    },
+    {
+      "mesto_v_mire": 1155,
+      "nazvanie": "Интер РАО",
+      "sfera": "Энергетика",
+      "vyruchka_mlrd_usd": 13.6,
+      "pribyl_mlrd_usd": 1,
+      "aktivy_mlrd_usd": 12.3,
+      "rynochnaya_stoimost_mlrd_usd": 4.8
+    },
+    {
+      "mesto_v_mire": 1209,
+      "nazvanie": "X5 Group",
+      "sfera": "Розничная торговля",
+      "vyruchka_mlrd_usd": 27.4,
+      "pribyl_mlrd_usd": 0.393,
+      "aktivy_mlrd_usd": 15.9,
+      "rynochnaya_stoimost_mlrd_usd": 8.6
+    },
+    {
+      "mesto_v_mire": 1335,
+      "nazvanie": "Магнит",
+      "sfera": "Розничная торговля",
+      "vyruchka_mlrd_usd": 21.5,
+      "pribyl_mlrd_usd": 0.456,
+      "aktivy_mlrd_usd": 13,
+      "rynochnaya_stoimost_mlrd_usd": 6.9
+    },
+    {
+      "mesto_v_mire": 1591,
+      "nazvanie": "Московская биржа",
+      "sfera": "Фондовый рынок",
+      "vyruchka_mlrd_usd": 0.699,
+      "pribyl_mlrd_usd": 0.348,
+      "aktivy_mlrd_usd": 66.7,
+      "rynochnaya_stoimost_mlrd_usd": 5.2
+    },
+    {
+      "mesto_v_mire": 1605,
+      "nazvanie": "Магнитогорский металлургический комбинат",
+      "sfera": "Металлургия",
+      "vyruchka_mlrd_usd": 6.4,
+      "pribyl_mlrd_usd": 0.612,
+      "aktivy_mlrd_usd": 7.6,
+      "rynochnaya_stoimost_mlrd_usd": 10.1
+    },
+    {
+      "mesto_v_mire": 1779,
+      "nazvanie": "Московский кредитный банк",
+      "sfera": "Банковские услуги",
+      "vyruchka_mlrd_usd": 2.5,
+      "pribyl_mlrd_usd": 0.37,
+      "aktivy_mlrd_usd": 38.1,
+      "rynochnaya_stoimost_mlrd_usd": 2.8
+    },
+    {
+      "mesto_v_mire": 1818,
+      "nazvanie": "АФК «Система»",
+      "sfera": "Инвестиции",
+      "vyruchka_mlrd_usd": 9.6,
+      "pribyl_mlrd_usd": 0.098,
+      "aktivy_mlrd_usd": 19.2,
+      "rynochnaya_stoimost_mlrd_usd": 4.7
+    },
+    {
+      "mesto_v_mire": 1838,
+      "nazvanie": "ПИК",
+      "sfera": "Недвижимость, строительство",
+      "vyruchka_mlrd_usd": 2.7,
+      "pribyl_mlrd_usd": 1.2,
+      "aktivy_mlrd_usd": 8.9,
+      "rynochnaya_stoimost_mlrd_usd": 8.3
+    },
+    {
+      "mesto_v_mire": 1965,
+      "nazvanie": "Русгидро",
+      "sfera": "Энергетика",
+      "vyruchka_mlrd_usd": 5.3,
+      "pribyl_mlrd_usd": 0.641,
+      "aktivy_mlrd_usd": 12.9,
+      "rynochnaya_stoimost_mlrd_usd": 4.8
+    }
+  ],
+  "meta": {
+    "title": "Крупнейшие компании России по версии Forbes Global 2000 (2022) - Free Download",
+    "description": "Российские компании в рейтинге Forbes Global 2000 за 2022 год: место в мире, сфера деятельности, выручка, прибыль, активы и рыночная стоимость (млрд долл.). Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Крупнейшие компании России по версии Forbes Global 2000 (2022) | ListBase",
+    "seo_description": "Download Крупнейшие компании России по версии Forbes Global 2000 (2022) — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Список_крупнейших_компаний_России_по_версии_Forbes_(2022)"
+    ]
+  }
+}
