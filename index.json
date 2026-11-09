@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-09T02:13:29.066Z",
-  "total_datasets": 519,
-  "total_records": 220923,
+  "generated": "2026-11-09T02:13:39.379Z",
+  "total_datasets": 520,
+  "total_records": 220931,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "language",
@@ -4461,6 +4461,32 @@
         "xlsx": {
           "name": "ru-praviteli-rusi-i-rossii_RU.xlsx",
           "size": 12105
+        }
+      }
+    },
+    {
+      "id": "ru-rukovoditeli-sssr",
+      "name": "Руководители СССР (1922–1991)",
+      "category": "history",
+      "record_count": 8,
+      "columns": [
+        "nomer",
+        "fio",
+        "gody_zhizni",
+        "period_rukovodstva",
+        "dolzhnosti"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_руководителей_СССР",
+      "updated": "2026-11",
+      "size": 5987,
+      "files": {
+        "csv": {
+          "name": "ru-rukovoditeli-sssr_RU.csv",
+          "size": 3116
+        },
+        "xlsx": {
+          "name": "ru-rukovoditeli-sssr_RU.xlsx",
+          "size": 7779
         }
       }
     },
