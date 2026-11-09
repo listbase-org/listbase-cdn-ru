@@ -1,0 +1,925 @@
+{
+  "id": "ru-chempiony-zimnikh-olimpiyskikh-igr",
+  "name": "Олимпийские чемпионы зимних Игр от России (1994–2022)",
+  "title": "Олимпийские чемпионы зимних Игр от России (1994–2022)",
+  "description": "Список чемпионов зимних Олимпийских игр от России, команд ОСР и ОКР: спортсмены, даты рождения, виды спорта, Игры и выигранные дисциплины.",
+  "category": "sports",
+  "source": "https://ru.wikipedia.org/wiki/Список_чемпионов_зимних_Олимпийских_игр_от_России,_команд_ОСР_и_ОКР",
+  "source_url": "https://ru.wikipedia.org/wiki/Список_чемпионов_зимних_Олимпийских_игр_от_России,_команд_ОСР_и_ОКР",
+  "updated": "2026-11",
+  "record_count": 96,
+  "columns": [
+    {
+      "key": "sportsmen",
+      "label": "Sportsmen",
+      "type": "string"
+    },
+    {
+      "key": "data_rozhdeniya",
+      "label": "Data Rozhdeniya",
+      "type": "string"
+    },
+    {
+      "key": "data_smerti",
+      "label": "Data Smerti",
+      "type": "string"
+    },
+    {
+      "key": "vid_sporta",
+      "label": "Vid Sporta",
+      "type": "string"
+    },
+    {
+      "key": "igry",
+      "label": "Igry",
+      "type": "number"
+    },
+    {
+      "key": "pobedy",
+      "label": "Pobedy",
+      "type": "string"
+    },
+    {
+      "key": "drugie_nok",
+      "label": "Drugie Nok",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sportsmen": "Виктор Ан (3)",
+      "data_rozhdeniya": "23 ноября 1985",
+      "data_smerti": "",
+      "vid_sporta": "Шорт-трек",
+      "igry": "2014",
+      "pobedy": "2014 — 500 м 2014 — 1000 м 2014 — эстафета",
+      "drugie_nok": "Республика Корея"
+    },
+    {
+      "sportsmen": "Сергей Андронов",
+      "data_rozhdeniya": "19 июля 1989",
+      "data_smerti": "",
+      "vid_sporta": "Хоккей с шайбой",
+      "igry": "2018 2022",
+      "pobedy": "2018 — мужской турнир",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Альбина Ахатова",
+      "data_rozhdeniya": "13 ноября 1976",
+      "data_smerti": "",
+      "vid_sporta": "Биатлон",
+      "igry": "1998 2002 2006",
+      "pobedy": "2006 — эстафета",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Светлана Бажанова",
+      "data_rozhdeniya": "1 декабря 1972",
+      "data_smerti": "",
+      "vid_sporta": "Конькобежный спорт",
+      "igry": "1994 1998",
+      "pobedy": "1994 — 3000 м",
+      "drugie_nok": "Объединённая команда"
+    },
+    {
+      "sportsmen": "Александр Барабанов",
+      "data_rozhdeniya": "17 июня 1994",
+      "data_smerti": "",
+      "vid_sporta": "Хоккей с шайбой",
+      "igry": "2018",
+      "pobedy": "2018 — мужской турнир",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Наталья Баранова-Масалкина",
+      "data_rozhdeniya": "25 февраля 1975",
+      "data_smerti": "",
+      "vid_sporta": "Лыжные гонки",
+      "igry": "2006",
+      "pobedy": "2006 — эстафета",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Елена Бережная",
+      "data_rozhdeniya": "11 октября 1977",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "1998 2002",
+      "pobedy": "2002 — парное катание",
+      "drugie_nok": "Латвия"
+    },
+    {
+      "sportsmen": "Екатерина Боброва",
+      "data_rozhdeniya": "28 марта 1990",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "2010 2014 2018",
+      "pobedy": "2014 — команды",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Анна Богалий (2)",
+      "data_rozhdeniya": "12 июня 1979",
+      "data_smerti": "",
+      "vid_sporta": "Биатлон",
+      "igry": "2002 2006 2010",
+      "pobedy": "2006 — эстафета 2010 — эстафета",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Александр Большунов (3)",
+      "data_rozhdeniya": "31 декабря 1996",
+      "data_smerti": "",
+      "vid_sporta": "Лыжные гонки",
+      "igry": "2018 2022",
+      "pobedy": "2022 — скиатлон 2022 — эстафета 2022 — 50 км",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Вячеслав Войнов",
+      "data_rozhdeniya": "15 января 1990",
+      "data_smerti": "",
+      "vid_sporta": "Хоккей с шайбой",
+      "igry": "2014 2018 2022",
+      "pobedy": "2018 — мужской турнир",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Татьяна Волосожар (2)",
+      "data_rozhdeniya": "22 мая 1986",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "2014",
+      "pobedy": "2014 — парное катание 2014 — команды",
+      "drugie_nok": "Украина"
+    },
+    {
+      "sportsmen": "Елена Вяльбе (2)",
+      "data_rozhdeniya": "20 апреля 1968",
+      "data_smerti": "",
+      "vid_sporta": "Лыжные гонки",
+      "igry": "1994 1998",
+      "pobedy": "1994 — эстафета 1998 — эстафета",
+      "drugie_nok": "Объединённая команда"
+    },
+    {
+      "sportsmen": "Владислав Гавриков",
+      "data_rozhdeniya": "21 ноября 1995",
+      "data_smerti": "",
+      "vid_sporta": "Хоккей с шайбой",
+      "igry": "2018",
+      "pobedy": "2018 — мужской турнир",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Нина Гаврылюк (2)",
+      "data_rozhdeniya": "13 апреля 1965",
+      "data_smerti": "",
+      "vid_sporta": "Лыжные гонки",
+      "igry": "1994 1998 2002",
+      "pobedy": "1994 — эстафета 1998 — эстафета",
+      "drugie_nok": "СССР"
+    },
+    {
+      "sportsmen": "Александр Голубев",
+      "data_rozhdeniya": "19 мая 1972",
+      "data_smerti": "",
+      "vid_sporta": "Конькобежный спорт",
+      "igry": "1994 1998",
+      "pobedy": "1994 — 500 м",
+      "drugie_nok": "Объединённая команда"
+    },
+    {
+      "sportsmen": "Екатерина Гордеева",
+      "data_rozhdeniya": "22 мая 1971",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "1994",
+      "pobedy": "1994 — парное катание",
+      "drugie_nok": "СССР"
+    },
+    {
+      "sportsmen": "Михаил Григоренко",
+      "data_rozhdeniya": "16 мая 1994",
+      "data_smerti": "",
+      "vid_sporta": "Хоккей с шайбой",
+      "igry": "2018 2022",
+      "pobedy": "2018 — мужской турнир",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Владимир Григорьев",
+      "data_rozhdeniya": "8 августа 1982",
+      "data_smerti": "",
+      "vid_sporta": "Шорт-трек",
+      "igry": "2014",
+      "pobedy": "2014 — эстафета",
+      "drugie_nok": "Украина"
+    },
+    {
+      "sportsmen": "Сергей Гриньков",
+      "data_rozhdeniya": "4 февраля 1967",
+      "data_smerti": "20 ноября 1995",
+      "vid_sporta": "Фигурное катание",
+      "igry": "1994",
+      "pobedy": "1994 — парное катание",
+      "drugie_nok": "СССР"
+    },
+    {
+      "sportsmen": "Оксана Грищук (2)",
+      "data_rozhdeniya": "17 марта 1972",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "1994 1998",
+      "pobedy": "1994 — танцы на льду 1998 — танцы на льду",
+      "drugie_nok": "Объединённая команда"
+    },
+    {
+      "sportsmen": "Никита Гусев",
+      "data_rozhdeniya": "8 июля 1992",
+      "data_smerti": "",
+      "vid_sporta": "Хоккей с шайбой",
+      "igry": "2018 2022",
+      "pobedy": "2018 — мужской турнир",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Ольга Данилова (2)",
+      "data_rozhdeniya": "10 июня 1970",
+      "data_smerti": "",
+      "vid_sporta": "Лыжные гонки",
+      "igry": "1998 2002",
+      "pobedy": "1998 — 15 км 1998 — эстафета",
+      "drugie_nok": "Объединённая команда"
+    },
+    {
+      "sportsmen": "Павел Дацюк",
+      "data_rozhdeniya": "20 июля 1978",
+      "data_smerti": "",
+      "vid_sporta": "Хоккей с шайбой",
+      "igry": "2002 2006 2010 2014 2018",
+      "pobedy": "2018 — мужской турнир",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Евгений Дементьев",
+      "data_rozhdeniya": "17 января 1983",
+      "data_smerti": "",
+      "vid_sporta": "Лыжные гонки",
+      "igry": "2006",
+      "pobedy": "2006 — скиатлон 15+15 км",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Артур Дмитриев",
+      "data_rozhdeniya": "21 января 1968",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "1994 1998",
+      "pobedy": "1998 — парное катание",
+      "drugie_nok": "Объединённая команда"
+    },
+    {
+      "sportsmen": "Любовь Егорова (3)",
+      "data_rozhdeniya": "5 мая 1966",
+      "data_smerti": "",
+      "vid_sporta": "Лыжные гонки",
+      "igry": "1994 2002",
+      "pobedy": "1994 — 5 км 1994 — 10 км преследование 1994 — эстафета",
+      "drugie_nok": "Объединённая команда"
+    },
+    {
+      "sportsmen": "Семён Елистратов",
+      "data_rozhdeniya": "3 мая 1990",
+      "data_smerti": "",
+      "vid_sporta": "Шорт-трек",
+      "igry": "2010 2014 2018 2022",
+      "pobedy": "2014 — эстафета",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Светлана Журова",
+      "data_rozhdeniya": "7 января 1972",
+      "data_smerti": "",
+      "vid_sporta": "Конькобежный спорт",
+      "igry": "1994 1998 2002 2006",
+      "pobedy": "2006 — 500 м",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Алина Загитова",
+      "data_rozhdeniya": "18 мая 2002",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "2018",
+      "pobedy": "2018 — одиночное катание",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Ольга Зайцева (2)",
+      "data_rozhdeniya": "16 мая 1978",
+      "data_smerti": "",
+      "vid_sporta": "Биатлон",
+      "igry": "2002 2006 2010 2014",
+      "pobedy": "2006 — эстафета 2010 — эстафета",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Руслан Захаров",
+      "data_rozhdeniya": "24 марта 1987",
+      "data_smerti": "",
+      "vid_sporta": "Шорт-трек",
+      "igry": "2010 2014 2022",
+      "pobedy": "2014 — эстафета",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Артём Зуб",
+      "data_rozhdeniya": "3 октября 1995",
+      "data_smerti": "",
+      "vid_sporta": "Хоккей с шайбой",
+      "igry": "2018",
+      "pobedy": "2018 — мужской турнир",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Андрей Зубарев",
+      "data_rozhdeniya": "3 марта 1987",
+      "data_smerti": "",
+      "vid_sporta": "Хоккей с шайбой",
+      "igry": "2018",
+      "pobedy": "2018 — мужской турнир",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Михаил Иванов",
+      "data_rozhdeniya": "20 ноября 1977",
+      "data_smerti": "",
+      "vid_sporta": "Лыжные гонки",
+      "igry": "2002",
+      "pobedy": "2002 — 50 км",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Елена Ильиных",
+      "data_rozhdeniya": "25 апреля 1994",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "2014",
+      "pobedy": "2014 — команды",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Светлана Ишмуратова (2)",
+      "data_rozhdeniya": "20 апреля 1972",
+      "data_smerti": "",
+      "vid_sporta": "Биатлон",
+      "igry": "2002 2006",
+      "pobedy": "2006 — индивидуальная гонка 2006 — эстафета",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Илья Каблуков",
+      "data_rozhdeniya": "18 января 1988",
+      "data_smerti": "",
+      "vid_sporta": "Хоккей с шайбой",
+      "igry": "2018",
+      "pobedy": "2018 — мужской турнир",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Оксана Казакова",
+      "data_rozhdeniya": "8 апреля 1975",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "1998",
+      "pobedy": "1998 — парное катание",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Сергей Калинин",
+      "data_rozhdeniya": "17 марта 1991",
+      "data_smerti": "",
+      "vid_sporta": "Хоккей с шайбой",
+      "igry": "2018",
+      "pobedy": "2018 — мужской турнир",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Кирилл Капризов",
+      "data_rozhdeniya": "26 апреля 1997",
+      "data_smerti": "",
+      "vid_sporta": "Хоккей с шайбой",
+      "igry": "2018",
+      "pobedy": "2018 — мужской турнир",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Никита Кацалапов",
+      "data_rozhdeniya": "10 июля 1991",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "2014 2022",
+      "pobedy": "2014 — команды",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Богдан Киселевич",
+      "data_rozhdeniya": "14 февраля 1990",
+      "data_smerti": "",
+      "vid_sporta": "Хоккей с шайбой",
+      "igry": "2018",
+      "pobedy": "2018 — мужской турнир",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Фёдор Климов",
+      "data_rozhdeniya": "7 сентября 1990",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "2014",
+      "pobedy": "2014 — команды",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Илья Ковальчук",
+      "data_rozhdeniya": "15 апреля 1983",
+      "data_smerti": "",
+      "vid_sporta": "Хоккей с шайбой",
+      "igry": "2002 2006 2010 2014 2018",
+      "pobedy": "2018 — мужской турнир",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Роман Костомаров",
+      "data_rozhdeniya": "8 февраля 1977",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "2002 2006",
+      "pobedy": "2006 — танцы на льду",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Василий Кошечкин",
+      "data_rozhdeniya": "27 марта 1983",
+      "data_smerti": "",
+      "vid_sporta": "Хоккей с шайбой",
+      "igry": "2018",
+      "pobedy": "2018 — мужской турнир",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Никита Крюков",
+      "data_rozhdeniya": "30 мая 1985",
+      "data_smerti": "",
+      "vid_sporta": "Лыжные гонки",
+      "igry": "2010 2014",
+      "pobedy": "2010 — личный спринт",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Галина Куклева",
+      "data_rozhdeniya": "21 ноября 1972",
+      "data_smerti": "14 июля 2026",
+      "vid_sporta": "Биатлон",
+      "igry": "1998 2002",
+      "pobedy": "1998 — спринт",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Илья Кулик",
+      "data_rozhdeniya": "23 мая 1977",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "1998",
+      "pobedy": "1998 — одиночное катание",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Лариса Куркина",
+      "data_rozhdeniya": "18 декабря 1973",
+      "data_smerti": "",
+      "vid_sporta": "Лыжные гонки",
+      "igry": "2006",
+      "pobedy": "2006 — эстафета",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Лариса Лазутина (4)",
+      "data_rozhdeniya": "1 июня 1965",
+      "data_smerti": "",
+      "vid_sporta": "Лыжные гонки",
+      "igry": "1994 1998 2002",
+      "pobedy": "1994 — эстафета 1998 — 5 км 1998 — 10 км преследование 1998 — эстафета",
+      "drugie_nok": "Объединённая команда"
+    },
+    {
+      "sportsmen": "Александр Легков",
+      "data_rozhdeniya": "7 мая 1983",
+      "data_smerti": "",
+      "vid_sporta": "Лыжные гонки",
+      "igry": "2006 2010 2014",
+      "pobedy": "2014 — 50 км",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Юлия Липницкая",
+      "data_rozhdeniya": "5 июня 1998",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "2014",
+      "pobedy": "2014 — команды",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Максим Маринин",
+      "data_rozhdeniya": "23 марта 1977",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "2002 2006",
+      "pobedy": "2006 — парное катание",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Алексей Марченко",
+      "data_rozhdeniya": "2 января 1992",
+      "data_smerti": "",
+      "vid_sporta": "Хоккей с шайбой",
+      "igry": "2018",
+      "pobedy": "2018 — мужской турнир",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Евгения Медведева-Арбузова",
+      "data_rozhdeniya": "4 июля 1976",
+      "data_smerti": "",
+      "vid_sporta": "Лыжные гонки",
+      "igry": "2006 2010",
+      "pobedy": "2006 — эстафета",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Ольга Медведцева (2)",
+      "data_rozhdeniya": "7 июля 1975",
+      "data_smerti": "",
+      "vid_sporta": "Биатлон",
+      "igry": "2002 2006 2010",
+      "pobedy": "2002 — преследование 2010 — эстафета",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Сергей Мозякин",
+      "data_rozhdeniya": "30 марта 1981",
+      "data_smerti": "",
+      "vid_sporta": "Хоккей с шайбой",
+      "igry": "2018",
+      "pobedy": "2018 — мужской турнир",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Татьяна Навка",
+      "data_rozhdeniya": "13 апреля 1975",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "2002 2006",
+      "pobedy": "2006 — танцы на льду",
+      "drugie_nok": "Беларусь"
+    },
+    {
+      "sportsmen": "Наталья Непряева",
+      "data_rozhdeniya": "6 сентября 1995",
+      "data_smerti": "",
+      "vid_sporta": "Лыжные гонки",
+      "igry": "2018 2022",
+      "pobedy": "2022 — эстафета",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Никита Нестеров",
+      "data_rozhdeniya": "28 марта 1993",
+      "data_smerti": "",
+      "vid_sporta": "Хоккей с шайбой",
+      "igry": "2018 2022",
+      "pobedy": "2018 — мужской турнир",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Луиза Носкова",
+      "data_rozhdeniya": "7 июля 1968",
+      "data_smerti": "",
+      "vid_sporta": "Биатлон",
+      "igry": "1994",
+      "pobedy": "1994 — эстафета",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Евгений Платов (2)",
+      "data_rozhdeniya": "7 августа 1967",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "1994 1998",
+      "pobedy": "1994 — танцы на льду 1998 — танцы на льду",
+      "drugie_nok": "Объединённая команда"
+    },
+    {
+      "sportsmen": "Евгений Плющенко (2)",
+      "data_rozhdeniya": "3 ноября 1982",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "2002 2006 2010 2014",
+      "pobedy": "2006 — одиночное катание 2014 — команды",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Николай Прохоркин",
+      "data_rozhdeniya": "17 сентября 1993",
+      "data_smerti": "",
+      "vid_sporta": "Хоккей с шайбой",
+      "igry": "2018",
+      "pobedy": "2018 — мужской турнир",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Анфиса Резцова",
+      "data_rozhdeniya": "16 декабря 1964",
+      "data_smerti": "",
+      "vid_sporta": "Биатлон",
+      "igry": "1994",
+      "pobedy": "1994 — эстафета",
+      "drugie_nok": "СССР Объединённая команда"
+    },
+    {
+      "sportsmen": "Антон Сихарулидзе",
+      "data_rozhdeniya": "25 октября 1976",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "1998 2002",
+      "pobedy": "2002 — парное катание",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Светлана Слепцова",
+      "data_rozhdeniya": "31 июля 1986",
+      "data_smerti": "",
+      "vid_sporta": "Биатлон",
+      "igry": "2010",
+      "pobedy": "2010 — эстафета",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Наталья Снытина",
+      "data_rozhdeniya": "13 февраля 1971",
+      "data_smerti": "",
+      "vid_sporta": "Биатлон",
+      "igry": "1994",
+      "pobedy": "1994 — эстафета",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Дмитрий Соловьёв",
+      "data_rozhdeniya": "18 июля 1989",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "2010 2014 2018",
+      "pobedy": "2014 — команды",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Татьяна Сорина",
+      "data_rozhdeniya": "13 апреля 1994",
+      "data_smerti": "",
+      "vid_sporta": "Лыжные гонки",
+      "igry": "2022",
+      "pobedy": "2022 — эстафета",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Илья Сорокин",
+      "data_rozhdeniya": "4 августа 1995",
+      "data_smerti": "",
+      "vid_sporta": "Хоккей с шайбой",
+      "igry": "2018",
+      "pobedy": "2018 — мужской турнир",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Аделина Сотникова",
+      "data_rozhdeniya": "1 июля 1996",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "2014",
+      "pobedy": "2014 — одиночное катание",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Денис Спицов",
+      "data_rozhdeniya": "16 августа 1996",
+      "data_smerti": "",
+      "vid_sporta": "Лыжные гонки",
+      "igry": "2018 2022",
+      "pobedy": "2022 — эстафета",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Вероника Степанова",
+      "data_rozhdeniya": "4 января 2001",
+      "data_smerti": "",
+      "vid_sporta": "Лыжные гонки",
+      "igry": "2022",
+      "pobedy": "2022 — эстафета",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Ксения Столбова",
+      "data_rozhdeniya": "7 февраля 1992",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "2014",
+      "pobedy": "2014 — команды",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Юлия Ступак",
+      "data_rozhdeniya": "21 января 1995",
+      "data_smerti": "",
+      "vid_sporta": "Лыжные гонки",
+      "igry": "2018 2022",
+      "pobedy": "2022 — эстафета",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Надежда Таланова",
+      "data_rozhdeniya": "17 апреля 1967",
+      "data_smerti": "",
+      "vid_sporta": "Биатлон",
+      "igry": "1994",
+      "pobedy": "1994 — эстафета",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Сергей Тарасов",
+      "data_rozhdeniya": "15 февраля 1965",
+      "data_smerti": "",
+      "vid_sporta": "Биатлон",
+      "igry": "1994 1998",
+      "pobedy": "1994 — индивидуальная гонка",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Иван Телегин",
+      "data_rozhdeniya": "28 февраля 1992",
+      "data_smerti": "",
+      "vid_sporta": "Хоккей с шайбой",
+      "igry": "2018",
+      "pobedy": "2018 — мужской турнир",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Татьяна Тотьмянина",
+      "data_rozhdeniya": "2 ноября 1981",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "2002 2006",
+      "pobedy": "2006 — парное катание",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Максим Траньков (2)",
+      "data_rozhdeniya": "7 октября 1983",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "2010 2014",
+      "pobedy": "2014 — парное катание 2014 — команды",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Александр Третьяков",
+      "data_rozhdeniya": "19 апреля 1985",
+      "data_smerti": "",
+      "vid_sporta": "Скелетон",
+      "igry": "2006 2010 2014 2022",
+      "pobedy": "2014 — личные соревнования",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Вик Уайлд (2)",
+      "data_rozhdeniya": "23 августа 1986",
+      "data_smerti": "",
+      "vid_sporta": "Сноуборд",
+      "igry": "2014 2018 2022",
+      "pobedy": "2014 — паралл. гигант. слалом 2014 — параллельный слалом",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Алексей Урманов",
+      "data_rozhdeniya": "17 ноября 1973",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "1994",
+      "pobedy": "1994 — одиночное катание",
+      "drugie_nok": "Объединённая команда"
+    },
+    {
+      "sportsmen": "Сергей Устюгов",
+      "data_rozhdeniya": "8 апреля 1992",
+      "data_smerti": "",
+      "vid_sporta": "Лыжные гонки",
+      "igry": "2014 2022",
+      "pobedy": "2022 — эстафета",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Юлия Чепалова (3)",
+      "data_rozhdeniya": "23 декабря 1976",
+      "data_smerti": "",
+      "vid_sporta": "Лыжные гонки",
+      "igry": "1998 2002 2006",
+      "pobedy": "1998 — 30 км 2002 — личный спринт 2006 — эстафета",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Сергей Чепиков",
+      "data_rozhdeniya": "30 января 1967",
+      "data_smerti": "",
+      "vid_sporta": "Биатлон Лыжные гонки",
+      "igry": "1994 2002 2006 1998",
+      "pobedy": "1994 — спринт (биатлон)",
+      "drugie_nok": "СССР Объединённая команда"
+    },
+    {
+      "sportsmen": "Алексей Червоткин",
+      "data_rozhdeniya": "30 апреля 1995",
+      "data_smerti": "",
+      "vid_sporta": "Лыжные гонки",
+      "igry": "2018 2022",
+      "pobedy": "2022 — эстафета",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Игорь Шестёркин",
+      "data_rozhdeniya": "30 декабря 1995",
+      "data_smerti": "",
+      "vid_sporta": "Хоккей с шайбой",
+      "igry": "2018",
+      "pobedy": "2018 — мужской турнир",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Вадим Шипачёв",
+      "data_rozhdeniya": "12 марта 1987",
+      "data_smerti": "",
+      "vid_sporta": "Хоккей с шайбой",
+      "igry": "2018 2022",
+      "pobedy": "2018 — мужской турнир",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Сергей Широков",
+      "data_rozhdeniya": "10 марта 1986",
+      "data_smerti": "",
+      "vid_sporta": "Хоккей с шайбой",
+      "igry": "2018",
+      "pobedy": "2018 — мужской турнир",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Анна Щербакова",
+      "data_rozhdeniya": "28 марта 2004",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "2022",
+      "pobedy": "2022 — одиночное катание",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Алексей Ягудин",
+      "data_rozhdeniya": "18 марта 1980",
+      "data_smerti": "",
+      "vid_sporta": "Фигурное катание",
+      "igry": "1998 2002",
+      "pobedy": "2002 — одиночное катание",
+      "drugie_nok": ""
+    },
+    {
+      "sportsmen": "Егор Яковлев",
+      "data_rozhdeniya": "17 сентября 1991",
+      "data_smerti": "",
+      "vid_sporta": "Хоккей с шайбой",
+      "igry": "2018 2022",
+      "pobedy": "2018 — мужской турнир",
+      "drugie_nok": ""
+    }
+  ],
+  "meta": {
+    "title": "Олимпийские чемпионы зимних Игр от России (1994–2022) - Free Download",
+    "description": "Список чемпионов зимних Олимпийских игр от России, команд ОСР и ОКР: спортсмены, даты рождения, виды спорта, Игры и выигранные дисциплины. Contains 96 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Олимпийские чемпионы зимних Игр от России (1994–2022) | ListBase",
+    "seo_description": "Download Олимпийские чемпионы зимних Игр от России (1994–2022) — 96 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 96 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Список_чемпионов_зимних_Олимпийских_игр_от_России,_команд_ОСР_и_ОКР"
+    ]
+  }
+}

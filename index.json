@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-06T02:24:42.557Z",
-  "total_datasets": 515,
-  "total_records": 220774,
+  "generated": "2026-11-09T02:13:00.190Z",
+  "total_datasets": 516,
+  "total_records": 220870,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tech",
@@ -12148,6 +12148,34 @@
         "xlsx": {
           "name": "ru-chempiony-rossii-po-futbolu_RU.xlsx",
           "size": 8010
+        }
+      }
+    },
+    {
+      "id": "ru-chempiony-zimnikh-olimpiyskikh-igr",
+      "name": "Олимпийские чемпионы зимних Игр от России (1994–2022)",
+      "category": "sports",
+      "record_count": 96,
+      "columns": [
+        "sportsmen",
+        "data_rozhdeniya",
+        "data_smerti",
+        "vid_sporta",
+        "igry",
+        "pobedy",
+        "drugie_nok"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_чемпионов_зимних_Олимпийских_игр_от_России,_команд_ОСР_и_ОКР",
+      "updated": "2026-11",
+      "size": 31677,
+      "files": {
+        "csv": {
+          "name": "ru-chempiony-zimnikh-olimpiyskikh-igr_RU.csv",
+          "size": 14271
+        },
+        "xlsx": {
+          "name": "ru-chempiony-zimnikh-olimpiyskikh-igr_RU.xlsx",
+          "size": 12354
         }
       }
     },
