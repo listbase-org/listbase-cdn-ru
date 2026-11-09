@@ -1,0 +1,416 @@
+{
+  "id": "ru-sovetskie-i-rossiyskie-legkovye-avtomobili",
+  "name": "Советские и российские легковые автомобили (базовые модели)",
+  "title": "Советские и российские легковые автомобили (базовые модели)",
+  "description": "Базовые модели советских и российских легковых автомобилей с годом начала выпуска, классом, разновидностями кузова, спортивными и модернизированными версиями.",
+  "category": "tech",
+  "source": "https://ru.wikipedia.org/wiki/Список_советских_и_российских_легковых_автомобилей",
+  "source_url": "https://ru.wikipedia.org/wiki/Список_советских_и_российских_легковых_автомобилей",
+  "updated": "2026-11",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "model",
+      "label": "Model",
+      "type": "string"
+    },
+    {
+      "key": "god_poyavleniya",
+      "label": "God Poyavleniya",
+      "type": "number"
+    },
+    {
+      "key": "klass",
+      "label": "Klass",
+      "type": "string"
+    },
+    {
+      "key": "raznovidnosti_kuzova",
+      "label": "Raznovidnosti Kuzova",
+      "type": "string"
+    },
+    {
+      "key": "sportivnye_versii",
+      "label": "Sportivnye Versii",
+      "type": "string"
+    },
+    {
+      "key": "modernizirovannye",
+      "label": "Modernizirovannye",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "model": "НАМИ-I (НАТИ-II)",
+      "god_poyavleniya": "1928",
+      "klass": "малый",
+      "raznovidnosti_kuzova": "",
+      "sportivnye_versii": "",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "ГАЗ-А",
+      "god_poyavleniya": "С 1927 — в стране происхождения. 1932",
+      "klass": "средний",
+      "raznovidnosti_kuzova": "ГАЗ-6 / 4",
+      "sportivnye_versii": "ГАЗ-А Аэро",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "Л-1",
+      "god_poyavleniya": "С 1932 — в стране происхождения. 1933",
+      "klass": "высший",
+      "raznovidnosti_kuzova": "",
+      "sportivnye_versii": "",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "ЗИС-101",
+      "god_poyavleniya": "1936",
+      "klass": "высший",
+      "raznovidnosti_kuzova": "ЗИС-102",
+      "sportivnye_versii": "ЗИС-Спорт",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "М-1",
+      "god_poyavleniya": "С 1933 — в стране происхождения. 1936",
+      "klass": "средний",
+      "raznovidnosti_kuzova": "М-415",
+      "sportivnye_versii": "ГЛ-1",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "КИМ-10-50, 10-52",
+      "god_poyavleniya": "1940",
+      "klass": "малый",
+      "raznovidnosti_kuzova": "КИМ-10-51",
+      "sportivnye_versii": "",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "ЗМА-400",
+      "god_poyavleniya": "С 1936 — в стране происхождения. 1946",
+      "klass": "малый",
+      "raznovidnosti_kuzova": "ЗМА-400-422",
+      "sportivnye_versii": "ЗМА-401-423",
+      "modernizirovannye": "ЗМА-401-424"
+    },
+    {
+      "model": "ГАЗ-64 (67)",
+      "god_poyavleniya": "1941",
+      "klass": "средний",
+      "raznovidnosti_kuzova": "",
+      "sportivnye_versii": "",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "ЗИС-110",
+      "god_poyavleniya": "1945",
+      "klass": "высший",
+      "raznovidnosti_kuzova": "ЗИС-110Б",
+      "sportivnye_versii": "",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "М-20",
+      "god_poyavleniya": "1946",
+      "klass": "средний",
+      "raznovidnosti_kuzova": "М-20Б",
+      "sportivnye_versii": "СГ-1, Победа-Спорт",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "ЗИМ (ГАЗ-12)",
+      "god_poyavleniya": "С 1948 — опытные. 1950",
+      "klass": "большой",
+      "raznovidnosti_kuzova": "",
+      "sportivnye_versii": "",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "ГАЗ-69 / 69А",
+      "god_poyavleniya": "С 1947 — опытные. 1953",
+      "klass": "средний",
+      "raznovidnosti_kuzova": "",
+      "sportivnye_versii": "",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "С-1Л (3А)",
+      "god_poyavleniya": "1952",
+      "klass": "особо малый, мотоколяска",
+      "raznovidnosti_kuzova": "",
+      "sportivnye_versii": "",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "УАЗ-469 (3151)",
+      "god_poyavleniya": "1958 — начало разработки, 1961 — формирование (УАЗ-460). 1972",
+      "klass": "средний",
+      "raznovidnosti_kuzova": "",
+      "sportivnye_versii": "",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "ЗАЗ-965",
+      "god_poyavleniya": "С 1957 — опытный (МЗМА-444). 1960",
+      "klass": "особо малый",
+      "raznovidnosti_kuzova": "",
+      "sportivnye_versii": "",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "МЗМА-402 (407)",
+      "god_poyavleniya": "1956",
+      "klass": "малый",
+      "raznovidnosti_kuzova": "МЗМА-423",
+      "sportivnye_versii": "МЗМА-407 (купе)",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "М-21 (ГАЗ-21)",
+      "god_poyavleniya": "1956",
+      "klass": "средний",
+      "raznovidnosti_kuzova": "ГАЗ-22",
+      "sportivnye_versii": "",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "ГАЗ-13",
+      "god_poyavleniya": "1959",
+      "klass": "большой",
+      "raznovidnosti_kuzova": "ГАЗ-13С",
+      "sportivnye_versii": "",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "ЗИЛ-111",
+      "god_poyavleniya": "1958",
+      "klass": "высший",
+      "raznovidnosti_kuzova": "ЗИЛ-111В",
+      "sportivnye_versii": "",
+      "modernizirovannye": "ЗИЛ-111Г"
+    },
+    {
+      "model": "МЗМА-408 (412) Иж-408 (412)",
+      "god_poyavleniya": "1964",
+      "klass": "малый",
+      "raznovidnosti_kuzova": "МЗМА-426 (427) Иж-2125 / 2715",
+      "sportivnye_versii": "АЗЛК-412Р",
+      "modernizirovannye": "АЗЛК-2140 (2138) / 2137 АЗЛК-2140-117"
+    },
+    {
+      "model": "ВАЗ-2101",
+      "god_poyavleniya": "С 1966 — в стране происхождения. 1970",
+      "klass": "малый",
+      "raznovidnosti_kuzova": "ВАЗ-2102",
+      "sportivnye_versii": "ВАЗ-2105-ЛСГА, ВАЗ-2105 (ВФТС)",
+      "modernizirovannye": "ВАЗ-2103 (2106) ВАЗ-2105 (2107) / 2104"
+    },
+    {
+      "model": "ЗАЗ-966 (968)",
+      "god_poyavleniya": "1966",
+      "klass": "особо малый",
+      "raznovidnosti_kuzova": "",
+      "sportivnye_versii": "",
+      "modernizirovannye": "ЗАЗ-968М"
+    },
+    {
+      "model": "ВАЗ-2121",
+      "god_poyavleniya": "1972 — формирование. 1977",
+      "klass": "малый",
+      "raznovidnosti_kuzova": "",
+      "sportivnye_versii": "",
+      "modernizirovannye": "ВАЗ-21213"
+    },
+    {
+      "model": "ЛуАЗ-969",
+      "god_poyavleniya": "1966",
+      "klass": "малый",
+      "raznovidnosti_kuzova": "",
+      "sportivnye_versii": "",
+      "modernizirovannye": "ЛуАЗ-969М (1302)"
+    },
+    {
+      "model": "С-3Д",
+      "god_poyavleniya": "1964 — формирование. 1970",
+      "klass": "особо малый, мотоколяска",
+      "raznovidnosti_kuzova": "",
+      "sportivnye_versii": "",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "ЗИЛ-114, 117",
+      "god_poyavleniya": "1967",
+      "klass": "высший",
+      "raznovidnosti_kuzova": "ЗИЛ-114А / 117В",
+      "sportivnye_versii": "",
+      "modernizirovannye": "ЗИЛ-115 (4104) / 115А (41042) / 115В (41044) ЗИЛ-41045 (41047, 41041)"
+    },
+    {
+      "model": "ГАЗ-14",
+      "god_poyavleniya": "1967/1971 — формирование. 1977",
+      "klass": "большой",
+      "raznovidnosti_kuzova": "ГАЗ-14-05 / РАФ-3920",
+      "sportivnye_versii": "",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "ГАЗ-24",
+      "god_poyavleniya": "1965 — формирование. С 1966 — ОПП. 1970",
+      "klass": "средний",
+      "raznovidnosti_kuzova": "ГАЗ-24-02",
+      "sportivnye_versii": "",
+      "modernizirovannye": "ГАЗ-3102 ГАЗ-31029 (3110 (31105)) / 31022"
+    },
+    {
+      "model": "Иж-2126",
+      "god_poyavleniya": "1977–1981 — формирование. 1984 — предсерийные. 1990",
+      "klass": "малый",
+      "raznovidnosti_kuzova": "Иж-2717 / 21261",
+      "sportivnye_versii": "Иж-2126 Иж Ралли",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "АЗЛК-2141",
+      "god_poyavleniya": "С 1975 — в стране частичного происхождения. 1979 — формирование. 1986",
+      "klass": "малый",
+      "raznovidnosti_kuzova": "АЗЛК-2142 / 2335",
+      "sportivnye_versii": "АЗЛК-2141КР (Aleko 141CR)",
+      "modernizirovannye": "Москвич-2141-02"
+    },
+    {
+      "model": "ЗАЗ-1102",
+      "god_poyavleniya": "1978 — формирование. 1987",
+      "klass": "малый",
+      "raznovidnosti_kuzova": "ЗАЗ-1103 / 1105",
+      "sportivnye_versii": "ЭРФ Мобиле (ERF Mobile), НАМИ-0290",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "ЛуАЗ-1301",
+      "god_poyavleniya": "1988 — формирование/предсерийные. Выпуск отменён.",
+      "klass": "малый",
+      "raznovidnosti_kuzova": "",
+      "sportivnye_versii": "",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "ВАЗ-2108 / 2109",
+      "god_poyavleniya": "1978 — формирование. 1984",
+      "klass": "малый",
+      "raznovidnosti_kuzova": "ВАЗ-21099",
+      "sportivnye_versii": "ВАЗ-2908-ЛСГА, Лада ЭВА (ВФТС)",
+      "modernizirovannye": "ВАЗ-2115 / 2114 / 2113"
+    },
+    {
+      "model": "ВАЗ-2123",
+      "god_poyavleniya": "1980 — формирование. Разработка отменена.",
+      "klass": "малый",
+      "raznovidnosti_kuzova": "",
+      "sportivnye_versii": "",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "ВАЗ-1111",
+      "god_poyavleniya": "1983 — формирование. 1988",
+      "klass": "особо малый",
+      "raznovidnosti_kuzova": "СеАЗ-11116-010-50 / 11116-60",
+      "sportivnye_versii": "",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "ЗИЛ-4102",
+      "god_poyavleniya": "1987 — формирование/опытные. Выпуск отменён.",
+      "klass": "высший",
+      "raznovidnosti_kuzova": "",
+      "sportivnye_versii": "",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "УАЗ-3172(-01)",
+      "god_poyavleniya": "1976, 1981 — формирование, частично (УАЗ-3170; 3171). 1990 — предсерийный. Выпуск отменён.",
+      "klass": "средний",
+      "raznovidnosti_kuzova": "",
+      "sportivnye_versii": "",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "ГАЗ-3103, 3105",
+      "god_poyavleniya": "1987 — формирование/опытные. С 1992 — начало ОПП.",
+      "klass": "средний",
+      "raznovidnosti_kuzova": "",
+      "sportivnye_versii": "ГАЗ-3105 (спорт)",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "ВАЗ-2123",
+      "god_poyavleniya": "1988 — формирование. Разработка отменена.",
+      "klass": "малый",
+      "raznovidnosti_kuzova": "ВАЗ-2323",
+      "sportivnye_versii": "",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "УАЗ-3160, 3162",
+      "god_poyavleniya": "1990 — формирование. 1993 — предсерийные. 1997",
+      "klass": "средний",
+      "raznovidnosti_kuzova": "УАЗ-236021",
+      "sportivnye_versii": "",
+      "modernizirovannye": "УАЗ-3163"
+    },
+    {
+      "model": "ВАЗ-2110",
+      "god_poyavleniya": "1987 — формирование. С 1989 — опытные. 1995",
+      "klass": "малый",
+      "raznovidnosti_kuzova": "ВАЗ-2111 / 2112 (21123)",
+      "sportivnye_versii": "ВАЗ-21106 (WTCC), Лада Priora (WTCC)",
+      "modernizirovannye": "ВАЗ-2170 / 2171 / 2172 (21728 (2173))"
+    },
+    {
+      "model": "ЗАЗ-1106",
+      "god_poyavleniya": "1988 — формирование. Разработка отменена.",
+      "klass": "малый",
+      "raznovidnosti_kuzova": "",
+      "sportivnye_versii": "",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "ВАЗ-2120",
+      "god_poyavleniya": "1989 — первый макет (ВАЗ-2114). 1992 — формирование. С 1998 — начало ОПП",
+      "klass": "малый",
+      "raznovidnosti_kuzova": "ВАЗ-2920",
+      "sportivnye_versii": "",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "АЗЛК-2139",
+      "god_poyavleniya": "1988 — формирование. Выпуск не состоялся.",
+      "klass": "малый",
+      "raznovidnosti_kuzova": "",
+      "sportivnye_versii": "",
+      "modernizirovannye": ""
+    },
+    {
+      "model": "АЗЛК-2143",
+      "god_poyavleniya": "1991 — формирование. Выпуск не состоялся.",
+      "klass": "малый",
+      "raznovidnosti_kuzova": "",
+      "sportivnye_versii": "",
+      "modernizirovannye": ""
+    }
+  ],
+  "meta": {
+    "title": "Советские и российские легковые автомобили (базовые модели) - Free Download",
+    "description": "Базовые модели советских и российских легковых автомобилей с годом начала выпуска, классом, разновидностями кузова, спортивными и модернизированными версиями. Contains 45 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Советские и российские легковые автомобили (базовые модели) | ListBase",
+    "seo_description": "Download Советские и российские легковые автомобили (базовые модели) — 45 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 45 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Список_советских_и_российских_легковых_автомобилей"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-09T02:13:39.379Z",
-  "total_datasets": 520,
-  "total_records": 220931,
+  "generated": "2026-11-09T02:13:49.363Z",
+  "total_datasets": 521,
+  "total_records": 220976,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "time",
@@ -12432,6 +12432,33 @@
         "xlsx": {
           "name": "ru-puski-raket-proton-m_RU.xlsx",
           "size": 23272
+        }
+      }
+    },
+    {
+      "id": "ru-sovetskie-i-rossiyskie-legkovye-avtomobili",
+      "name": "Советские и российские легковые автомобили (базовые модели)",
+      "category": "tech",
+      "record_count": 45,
+      "columns": [
+        "model",
+        "god_poyavleniya",
+        "klass",
+        "raznovidnosti_kuzova",
+        "sportivnye_versii",
+        "modernizirovannye"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_советских_и_российских_легковых_автомобилей",
+      "updated": "2026-11",
+      "size": 15060,
+      "files": {
+        "csv": {
+          "name": "ru-sovetskie-i-rossiyskie-legkovye-avtomobili_RU.csv",
+          "size": 5323
+        },
+        "xlsx": {
+          "name": "ru-sovetskie-i-rossiyskie-legkovye-avtomobili_RU.xlsx",
+          "size": 9478
         }
       }
     },
