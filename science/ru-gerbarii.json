@@ -1,0 +1,1325 @@
+{
+  "id": "ru-gerbarii",
+  "name": "Гербарии России",
+  "title": "Гербарии России",
+  "description": "Список гербариев России с местонахождением, акронимом Index Herbariorum и объёмом фондов.",
+  "category": "science",
+  "source": "https://ru.wikipedia.org/wiki/Список_гербариев_России",
+  "source_url": "https://ru.wikipedia.org/wiki/Список_гербариев_России",
+  "updated": "2026-11",
+  "record_count": 182,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "acronym",
+      "label": "Acronym",
+      "type": "string"
+    },
+    {
+      "key": "collection_size",
+      "label": "Collection Size",
+      "type": "string"
+    },
+    {
+      "key": "index_herbariorum",
+      "label": "Index Herbariorum",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ботанический институт им. В. Л. Комарова РАН",
+      "location": "Санкт-Петербург",
+      "acronym": "LE",
+      "collection_size": "7 160 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Московский государственный университет имени М. В. Ломоносова",
+      "location": "Москва",
+      "acronym": "MW",
+      "collection_size": "1 011 253",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Главный ботанический сад им. Н. В. Цицина РАН",
+      "location": "Москва",
+      "acronym": "MHA",
+      "collection_size": "700 000 (доступно 644 337)",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Санкт-Петербургский государственный университет",
+      "location": "Санкт-Петербург",
+      "acronym": "LECB",
+      "collection_size": "700 000 (доступно 280 000)",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Федеральный научный центр биоразнообразия наземной биоты Восточной Азии",
+      "location": "Владивосток, Приморский край",
+      "acronym": "VLA",
+      "collection_size": "500 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Томский государственный университет",
+      "location": "Томск",
+      "acronym": "TK",
+      "collection_size": "500 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Алтайский государственный университет",
+      "location": "Барнаул, Алтайский край",
+      "acronym": "ALTB",
+      "collection_size": "400 000 (доступно 250 000)",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Центральный сибирский ботанический сад СО РАН",
+      "location": "Новосибирск",
+      "acronym": "NS",
+      "collection_size": "380 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Всероссийский институт растениеводства им. Н. И. Вавилова",
+      "location": "Санкт-Петербург",
+      "acronym": "WIR (incl. LEP)",
+      "collection_size": "380 000 (доступно 179 000)",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Южный федеральный университет",
+      "location": "Ростов-на-Дону",
+      "acronym": "RV",
+      "collection_size": "350 000 (доступно 280 000)",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Институт биологии Коми научного центра Уральского отделения РАН",
+      "location": "Сыктывкар, Республика Коми",
+      "acronym": "SYKO",
+      "collection_size": "295 600",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Центральный сибирский ботанический сад СО РАН (Гербарий имени М. Г. Попова)",
+      "location": "Новосибирск",
+      "acronym": "NSK",
+      "collection_size": "249 146 (доступно 218 312)",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Санкт-Петербургская государственная лесотехническая академия имени С. М. Кирова (Гербарий имени И. П. Бородина)",
+      "location": "Санкт-Петербург",
+      "acronym": "KFTA",
+      "collection_size": "200 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Пензенский государственный педагогический университет им. В. Г. Белинского (Гербарий имени И. И. Спрыгина)",
+      "location": "Пенза",
+      "acronym": "PKM",
+      "collection_size": "170 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Дагестанский государственный университет",
+      "location": "Махачкала, Республика Дагестан",
+      "acronym": "LENUD",
+      "collection_size": "150 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Полярно-альпийский ботанический сад-институт имени Н. А. Аврорина КНЦ РАН",
+      "location": "Кировск, Мурманская область",
+      "acronym": "KPABG",
+      "collection_size": "142 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Никитский ботанический сад",
+      "location": "Никита (Большая Ялта), Крым",
+      "acronym": "YALT",
+      "collection_size": "156 000 (доступно 140 000)",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Санкт-Петербургский государственный университет (кафедра биогеографии и охраны природы)",
+      "location": "Санкт-Петербург",
+      "acronym": "SPSU",
+      "collection_size": "134 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Иркутский государственный университет (Гербарий имени В. И. Смирнова)",
+      "location": "Иркутск",
+      "acronym": "IRKU",
+      "collection_size": "130 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Ботанический сад-институт ДВО РАН",
+      "location": "Владивосток, Приморский край",
+      "acronym": "VBGI",
+      "collection_size": "130 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Институт экологии растений и животных Уральского отделения РАН",
+      "location": "Екатеринбург, Свердловская область",
+      "acronym": "SVER",
+      "collection_size": "127 500",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Институт биологических проблем Севера ДВО РАН",
+      "location": "Магадан",
+      "acronym": "MAG",
+      "collection_size": "126 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Московский педагогический государственный университет",
+      "location": "Москва",
+      "acronym": "MOSP",
+      "collection_size": "120 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Институт биологии УНЦ РАН",
+      "location": "Уфа, Республика Башкортостан",
+      "acronym": "UFA",
+      "collection_size": "110 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Тихоокеанский институт биоорганической химии им. Г.Б. Елякова ДВО РАН",
+      "location": "Владивосток, Приморский край",
+      "acronym": "VLV",
+      "collection_size": "107 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "ВНИИ лекарственных и ароматических растений",
+      "location": "Москва",
+      "acronym": "MOSM",
+      "collection_size": "100 550",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Сибирский институт физиологии и биохимии растений СО РАН",
+      "location": "Иркутск",
+      "acronym": "IRK",
+      "collection_size": "100 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Казанский государственный университет",
+      "location": "Казань",
+      "acronym": "KAZ",
+      "collection_size": "100 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Красноярский государственный педагогический университет (Гербарий имени Л. М. Черепнина)",
+      "location": "Красноярск",
+      "acronym": "KRAS",
+      "collection_size": "100 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Саратовский государственный университет имени Н. Г. Чернышевского",
+      "location": "Саратов",
+      "acronym": "SARAT",
+      "collection_size": "100 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Ярославский государственный педагогический университет имени К. Д. Ушинского",
+      "location": "Ярославль",
+      "acronym": "USPIY",
+      "collection_size": "100 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Воронежский государственный университет",
+      "location": "Воронеж",
+      "acronym": "VOR",
+      "collection_size": "90 000; довоенные сборы (100 000) большей частью утрачены",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Пермский государственный университет",
+      "location": "Пермь",
+      "acronym": "PERM",
+      "collection_size": "90 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Московский государственный университет имени М. В. Ломоносова (географический факультет)",
+      "location": "Москва",
+      "acronym": "MWG",
+      "collection_size": "90 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Институт биологических проблем криолитозоны СО РАН",
+      "location": "Якутск, Республика Якутия",
+      "acronym": "SASY",
+      "collection_size": "90 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Академия биоресурсов и природопользования Крымского федерального университета имени В. И. Вернадского (бывший Крымский агротехнологический университет)",
+      "location": "Симферополь, Крым",
+      "acronym": "CSAU",
+      "collection_size": "80 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Сахалинский филиал Ботанического сада-института ДВО РАН",
+      "location": "Южно-Сахалинск, Сахалинская область",
+      "acronym": "SAKH (SAK)",
+      "collection_size": "80 000 (доступно 25 000)",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Нижегородский государственный университет им. Н. И. Лобачевского",
+      "location": "Нижний Новгород",
+      "acronym": "NNSU",
+      "collection_size": "103 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Петрозаводский государственный университет",
+      "location": "Петрозаводск, Республика Карелия",
+      "acronym": "PZV",
+      "collection_size": "70 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Удмуртский государственный университет",
+      "location": "Ижевск, Удмуртская Республика",
+      "acronym": "UDU",
+      "collection_size": "70 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Институт биологии внутренних вод им. И. Д. Папанина РАН",
+      "location": "Борок, Ярославская область",
+      "acronym": "IBIW",
+      "collection_size": "60 950",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Южный федеральный университет (ботанический сад)",
+      "location": "Ростов-на-Дону",
+      "acronym": "RWBG",
+      "collection_size": "60 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Институт леса Карельского научного центра РАН",
+      "location": "Петрозаводск, Республика Карелия",
+      "acronym": "PTZ",
+      "collection_size": "55 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Кубанский государственный аграрный университет",
+      "location": "Краснодар",
+      "acronym": "KBAI",
+      "collection_size": "50 000; довоенные сборы (30 000) утрачены",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Пятигорская государственная фармацевтическая академия",
+      "location": "Пятигорск, Ставропольский край",
+      "acronym": "PGFA",
+      "collection_size": "50 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Псковский государственный университет",
+      "location": "Псков",
+      "acronym": "PSK",
+      "collection_size": "50 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Калининградский государственный университет",
+      "location": "Калининград",
+      "acronym": "KLGU",
+      "collection_size": "47 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Заповедник «Галичья Гора»",
+      "location": "Донское, Липецкая область",
+      "acronym": "VU",
+      "collection_size": "45 321",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Омский государственный аграрный университет",
+      "location": "Омск",
+      "acronym": "OMSKM",
+      "collection_size": "45 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Сибирский федеральный университет",
+      "location": "Красноярск",
+      "acronym": "KRSU",
+      "collection_size": "45 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Институт общей и экспериментальной биологии СО РАН",
+      "location": "Улан-Удэ, Республика Бурятия",
+      "acronym": "UUH",
+      "collection_size": "43 500 (доступно 24 500)",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Кабардино-Балкарский государственный университет им. Х. М. Бербекова",
+      "location": "Нальчик, Республика Кабардино-Балкария",
+      "acronym": "KBHG (AUBSN)",
+      "collection_size": "40 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Сыктывкарский государственный университет",
+      "location": "Сыктывкар, Республика Коми",
+      "acronym": "SYKT",
+      "collection_size": "40 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Кемеровский государственный университет",
+      "location": "Кемерово",
+      "acronym": "KEM",
+      "collection_size": "40 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Кузбасский ботанический сад, Федеральный исследовательский центр угля и углехимии СО РАН",
+      "location": "Кемерово",
+      "acronym": "KUZ",
+      "collection_size": "40 000 (доступно 30 000)",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Институт проблем освоения Севера СО РАН",
+      "location": "Тюмень",
+      "acronym": "TMN",
+      "collection_size": "40 000 (по другим данным 20 000 (недоступная ссылка))",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Пермский государственный педагогический университет",
+      "location": "Пермь",
+      "acronym": "PPU",
+      "collection_size": "39 775",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Таврическая академия Крымского федерального университета имени В. И. Вернадского",
+      "location": "Симферополь, Крым",
+      "acronym": "SIMF",
+      "collection_size": "39 000 (доступно 17 000)",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Мордовский государственный университет имени Н. П. Огарёва",
+      "location": "Саранск, Республика Мордовия",
+      "acronym": "GMU",
+      "collection_size": "31 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Уральский федеральный университет имени Б. Н. Ельцина",
+      "location": "Екатеринбург, Свердловская область",
+      "acronym": "UFU",
+      "collection_size": "30 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Самарский государственный университет",
+      "location": "Самара",
+      "acronym": "SMR",
+      "collection_size": "30 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Ивановский государственный университет",
+      "location": "Иваново",
+      "acronym": "IVGU",
+      "collection_size": "30 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Орловский государственный университет",
+      "location": "Орёл",
+      "acronym": "OHHI",
+      "collection_size": "30 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Институт экологии Волжского бассейна РАН",
+      "location": "Тольятти, Самарская область",
+      "acronym": "PVB",
+      "collection_size": "30 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Общество изучения флоры Ярославской области имени И. Н. Гарина",
+      "location": "Борок, Ярославская область",
+      "acronym": "GARIN",
+      "collection_size": "25 781 (в т. ч. 8 312 образцов мохообразных)",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Институт морских биологических исследований имени А. О. Ковалевского РАН",
+      "location": "Севастополь",
+      "acronym": "SIBS",
+      "collection_size": "25 200",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Кавказский заповедник",
+      "location": "Майкоп, Республика Адыгея",
+      "acronym": "CSR",
+      "collection_size": "25 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Челябинский государственный университет",
+      "location": "Челябинск",
+      "acronym": "CSUH",
+      "collection_size": "25 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Минусинский региональный краеведческий музей им. Н. М. Мартьянова",
+      "location": "Минусинск, Красноярский край",
+      "acronym": "MIM",
+      "collection_size": "25 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Ставропольский государственный университет (ботанический сад)",
+      "location": "Ставрополь",
+      "acronym": "SBG",
+      "collection_size": "23 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Марийский государственный университет",
+      "location": "Йошкар-Ола, Республика Марий Эл",
+      "acronym": "YOLA",
+      "collection_size": "21 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Рязанский государственный университет",
+      "location": "Рязань",
+      "acronym": "RSU",
+      "collection_size": "21 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Брянский государственный университет имени академика И. Г. Петровского",
+      "location": "Брянск",
+      "acronym": "BRSU",
+      "collection_size": "20 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Российский государственный педагогический университет имени А. И. Герцена",
+      "location": "Санкт-Петербург",
+      "acronym": "HERZ",
+      "collection_size": "20 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Челябинский государственный педагогический университет",
+      "location": "Челябинск",
+      "acronym": "CHPU",
+      "collection_size": "20 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Институт водных и экологических проблем ДВО РАН",
+      "location": "Хабаровск",
+      "acronym": "KHA",
+      "collection_size": "20 000 (доступно 3492)",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Институт леса им. В. Н. Сукачёва СО РАН",
+      "location": "Красноярск",
+      "acronym": "KRF",
+      "collection_size": "20 000.",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Белгородский государственный университет",
+      "location": "Белгород",
+      "acronym": "BSU",
+      "collection_size": "18 255",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Адыгейский государственный университет",
+      "location": "Майкоп, Республика Адыгея",
+      "acronym": "MAY",
+      "collection_size": "18 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Хакасский государственный университет имени Н. Ф. Катанова",
+      "location": "Абакан",
+      "acronym": "HGU",
+      "collection_size": "17 168",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Ульяновский государственный педагогический университет",
+      "location": "Ульяновск",
+      "acronym": "UPSU",
+      "collection_size": "17 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Горный ботанический сад Дагестанского научного центра РАН",
+      "location": "Махачкала, Республика Дагестан",
+      "acronym": "DAG",
+      "collection_size": "22 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Ставропольский государственный краеведческий музей имени Г. Н. Прозрителева и Г. К. Праве",
+      "location": "Ставрополь",
+      "acronym": "SMRS",
+      "collection_size": "15 100",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Институт морской геологии и геофизики ДВО РАН",
+      "location": "Южно-Сахалинск, Сахалинская область",
+      "acronym": "NABG",
+      "collection_size": "15 000 (в т.ч. 3 000 образцов мохообразных)",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Воронежский государственный университет (факультет географии и геоэкологии)",
+      "location": "Воронеж",
+      "acronym": "VORG",
+      "collection_size": "15 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Пермский областной краеведческий музей",
+      "location": "Пермь",
+      "acronym": "POKM",
+      "collection_size": "13 532",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Кандалакшский заповедник",
+      "location": "Кандалакша, Мурманская область",
+      "acronym": "KAND",
+      "collection_size": "13 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Омский государственный педагогический университет",
+      "location": "Омск",
+      "acronym": "OMSK",
+      "collection_size": "11 200",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Тверской государственный университет (ботанический сад)",
+      "location": "Тверь",
+      "acronym": "TVBG",
+      "collection_size": "11 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Институт степи Уральского отделения РАН",
+      "location": "Оренбург",
+      "acronym": "ORIS",
+      "collection_size": "10 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Калужский государственный университет им. К. Э. Циолковского",
+      "location": "Калуга",
+      "acronym": "KLH",
+      "collection_size": "10 000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Ярославский государственный университет имени П. Г. Демидова",
+      "location": "Ярославль",
+      "acronym": "YAR",
+      "collection_size": "10 000 (доступно 2500)",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Плёсский государственный историко-архитектурный и художественный музей-заповедник",
+      "location": "Плёс, Ивановская область",
+      "acronym": "PLES",
+      "collection_size": "9570",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Воронежский заповедник",
+      "location": "Графская, Воронежская область",
+      "acronym": "VGZ",
+      "collection_size": "9000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Карадагский заповедник",
+      "location": "Феодосия, Крым",
+      "acronym": "PHEO",
+      "collection_size": "8700",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Жигулёвский заповедник",
+      "location": "Жигулёвск, Самарская область",
+      "acronym": "ZHR",
+      "collection_size": "8600",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Астраханский государственный университет",
+      "location": "Астрахань",
+      "acronym": "AGU",
+      "collection_size": "8000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Поморский государственный университет",
+      "location": "Архангельск",
+      "acronym": "AR",
+      "collection_size": "8000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Тихоокеанский институт географии ДВО РАН, Камчатский филиал",
+      "location": "Петропавловск-Камчатский, Камчатский край",
+      "acronym": "KAM",
+      "collection_size": "7700",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Курский государственный университет",
+      "location": "Курск",
+      "acronym": "KURS",
+      "collection_size": "7000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Крымский заповедник",
+      "location": "Алушта, Крым",
+      "acronym": "CNR",
+      "collection_size": "7000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Хинганский заповедник",
+      "location": "Архара, Амурская область",
+      "acronym": "ARKH",
+      "collection_size": "6920",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Ингушский государственный университет",
+      "location": "Магас, Республика Ингушетия",
+      "acronym": "INGU",
+      "collection_size": "6300",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Окский заповедник",
+      "location": "Брыкин Бор, Рязанская область",
+      "acronym": "OKA",
+      "collection_size": "6165",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Заповедник «Кивач»",
+      "location": "Кивач, Республика Карелия",
+      "acronym": "KVCH",
+      "collection_size": "6000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Ставропольский государственный университет",
+      "location": "Ставрополь",
+      "acronym": "SPI",
+      "collection_size": "6000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Тебердинский заповедник",
+      "location": "Теберда, Республика Карачаево-Черкесия",
+      "acronym": "TEB",
+      "collection_size": "6000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Заповедник «Белогорье»",
+      "location": "Белгородская область",
+      "acronym": "BELZ",
+      "collection_size": "5350",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Марийский государственный университет, онтогенетический гербарий",
+      "location": "Йошкар-Ола, Республика Марий Эл",
+      "acronym": "MARI",
+      "collection_size": "5330",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Автономная некоммерческая благотворительная организация «Православная Обитель – Братство Милосердия Свято-Алексиевская пустынь»",
+      "location": "с. Новалексеевка, Ярославская область",
+      "acronym": "SVALP",
+      "collection_size": "5278",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Лапландский заповедник",
+      "location": "Мончегорск, Мурманская область",
+      "acronym": "LAPL",
+      "collection_size": "5009",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Бурятский государственный университет",
+      "location": "Улан-Удэ, Республика Бурятия",
+      "acronym": "UUDE",
+      "collection_size": "5000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Саратовский государственный университет имени Н. Г. Чернышевского (ботанический сад)",
+      "location": "Саратов",
+      "acronym": "SARBG",
+      "collection_size": "5000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Институт проблем промышленной экологии Севера КНЦ РАН",
+      "location": "Апатиты, Мурманская область",
+      "acronym": "INEP",
+      "collection_size": "5000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Югорский государственный университет",
+      "location": "Ханты-Мансийск, Ханты-Мансийский автономный округ — Югра",
+      "acronym": "YSU",
+      "collection_size": "5000",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Мордовский заповедник",
+      "location": "Темников, Республика Мордовия",
+      "acronym": "HMNR",
+      "collection_size": "4222",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Воронежский государственный университет (ботанический сад имени Б. М. Козо-Полянского)",
+      "location": "Воронеж",
+      "acronym": "VORB",
+      "collection_size": "3000; ранние сборы полностью сгорели в 2000 г.",
+      "index_herbariorum": "да"
+    },
+    {
+      "name": "Вологодский государственный университет",
+      "location": "Вологда",
+      "acronym": "акроним отсутствует",
+      "collection_size": "105 000 (доступно 80 000)",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Центрально-Чернозёмный заповедник",
+      "location": "Заповедный, Курская область",
+      "acronym": "акроним отсутствует",
+      "collection_size": "71 925",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Кировский областной краеведческий музей",
+      "location": "Киров",
+      "acronym": "акроним отсутствует",
+      "collection_size": "70 000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Тюменский гербарий (гербарий И. В. Кузьмина, частный)",
+      "location": "Тюмень",
+      "acronym": "акроним отсутствует",
+      "collection_size": "58 000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Тюменский государственный университет",
+      "location": "Тюмень",
+      "acronym": "акроним отсутствует",
+      "collection_size": "50 000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Дальневосточный федеральный университет (кафедра биоразнообразия и морских биоресурсов)",
+      "location": "Владивосток, Приморский край",
+      "acronym": "акроним отсутствует",
+      "collection_size": "40 443",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Российский государственный аграрный университет — МСХА им. К. А. Тимирязева",
+      "location": "Москва",
+      "acronym": "акроним отсутствует",
+      "collection_size": "40 000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Курганский государственный университет",
+      "location": "Курган",
+      "acronym": "акроним отсутствует",
+      "collection_size": "33 000 (доступно 25 000)",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Благовещенский государственный педагогический университет",
+      "location": "Благовещенск, Амурская область",
+      "acronym": "акроним отсутствует",
+      "collection_size": "30 000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Российский университет дружбы народов, Музей-гербарий им. В.Г. Хржановского",
+      "location": "Москва",
+      "acronym": "акроним отсутствует",
+      "collection_size": "25 000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Липецкий государственный педагогический университет имени П. П. Семенова-Тян-Шанского",
+      "location": "Липецк",
+      "acronym": "акроним отсутствует",
+      "collection_size": "25 000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Перкальский арборетум (Пятигорская эколого-ботаническая станция – филиал Ботанического института имени В. Л. Комарова РАН)",
+      "location": "Пятигорск, Ставропольский край",
+      "acronym": "акроним отсутствует",
+      "collection_size": "25 000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Северо-Восточный федеральный университет имени М. К. Аммосова, Гербарий имени А. А. Макарова",
+      "location": "Якутск, Республика Якутия",
+      "acronym": "акроним отсутствует",
+      "collection_size": "25 000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Волгоградский государственный университет",
+      "location": "Волгоград",
+      "acronym": "акроним отсутствует",
+      "collection_size": "20 000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Вятский государственный гуманитарный университет",
+      "location": "Киров",
+      "acronym": "акроним отсутствует",
+      "collection_size": "20 000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Кяхтинский краеведческий музей имени академика В. А. Обручева",
+      "location": "Кяхта, Республика Бурятия",
+      "acronym": "акроним отсутствует",
+      "collection_size": "17 000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Уральский государственный педагогический университет",
+      "location": "Екатеринбург, Свердловская область",
+      "acronym": "акроним отсутствует",
+      "collection_size": "16 000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Дальневосточный морской заповедник",
+      "location": "Владивосток, Приморский край",
+      "acronym": "акроним отсутствует",
+      "collection_size": "15 000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Кубанский государственный университет",
+      "location": "Краснодар",
+      "acronym": "акроним отсутствует",
+      "collection_size": "15 000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Хопёрский заповедник",
+      "location": "Варварино, Воронежская область",
+      "acronym": "акроним отсутствует",
+      "collection_size": "14 620",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Сургутский государственный университет",
+      "location": "Сургут, Ханты-Мансийский автономный округ",
+      "acronym": "акроним отсутствует",
+      "collection_size": "14 000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Саяно-Шушенский заповедник",
+      "location": "Шушенское, Красноярский край",
+      "acronym": "акроним отсутствует",
+      "collection_size": "13 723",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Ивановский государственный историко-краеведческий музей имени Д. Г. Бурылина",
+      "location": "Иваново",
+      "acronym": "акроним отсутствует",
+      "collection_size": "13 502",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Хабаровский краевой музей имени Н. И. Гродекова (Гродековский музей)",
+      "location": "Хабаровск",
+      "acronym": "акроним отсутствует (но в фонды передана коллекция Дальневосточного НИИ лесного хозяйства из 2 500 образцов, имевшая акроним CHAB)",
+      "collection_size": "13 000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Северо-Осетинский заповедник",
+      "location": "Алагир, Республика Северная Осетия — Алания",
+      "acronym": "акроним отсутствует",
+      "collection_size": "13 000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Иркутский государственный университет (ботанический сад)",
+      "location": "Иркутск",
+      "acronym": "акроним отсутствует",
+      "collection_size": "12 000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Южный федеральный университет (НИИ биологии)",
+      "location": "Ростов-на-Дону",
+      "acronym": "акроним отсутствует",
+      "collection_size": "12 000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Ботанический сад Нижегородского государственного университета им. Н. И. Лобачевского",
+      "location": "Нижний Новгород",
+      "acronym": "акроним отсутствует",
+      "collection_size": "12 000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Дальневосточный федеральный университет (ботанический музей)",
+      "location": "Владивосток, Приморский край",
+      "acronym": "акроним отсутствует",
+      "collection_size": "11 500",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Приморский государственный объединённый музей имени В. К. Арсеньева",
+      "location": "Владивосток, Приморский край",
+      "acronym": "акроним отсутствует",
+      "collection_size": "11 000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Висимский заповедник",
+      "location": "Кировград, Свердловская область",
+      "acronym": "акроним отсутствует",
+      "collection_size": "10 330",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Всероссийский НИИ кормов имени В. Р. Вильямса",
+      "location": "Лобня, Московская область",
+      "acronym": "акроним отсутствует",
+      "collection_size": "10 000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Санкт-Петербургский государственный университет (кафедра геоботаники)",
+      "location": "Санкт-Петербург",
+      "acronym": "акроним отсутствует",
+      "collection_size": "10 000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Забайкальский краевой краеведческий музей им. А. К. Кузнецова",
+      "location": "Чита, Забайкальский край",
+      "acronym": "акроним отсутствует",
+      "collection_size": "10 000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Ульяновский государственный университет (экологический факультет — лихенологический гербарий)",
+      "location": "Ульяновск",
+      "acronym": "акроним отсутствует",
+      "collection_size": "10 000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Сочинский национальный парк",
+      "location": "Сочи",
+      "acronym": "акроним отсутствует",
+      "collection_size": "10 000 (доступно 6 200)",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Тверской государственный университет (кафедра ботаники)",
+      "location": "Тверь",
+      "acronym": "акроним отсутствует",
+      "collection_size": "8600",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Амурский филиал ботанического сада-института ДВО РАН",
+      "location": "Благовещенск, Амурская область",
+      "acronym": "акроним отсутствует",
+      "collection_size": "8500",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Олёкминский заповедник",
+      "location": "Олёкминск, Республика Якутия",
+      "acronym": "акроним отсутствует",
+      "collection_size": "8200",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Тульский государственный педагогический университет имени Л. Н. Толстого",
+      "location": "Тула",
+      "acronym": "акроним отсутствует",
+      "collection_size": "8000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Витимский заповедник",
+      "location": "Бодайбо, Иркутская область",
+      "acronym": "акроним отсутствует",
+      "collection_size": "8000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Заповедник «Малая Сосьва»",
+      "location": "Советский, Ханты-Мансийский автономный округ — Югра",
+      "acronym": "акроним отсутствует",
+      "collection_size": "7405",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Государственный биологический музей им. К. А. Тимирязева",
+      "location": "Москва",
+      "acronym": "акроним отсутствует",
+      "collection_size": "7 113",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Тывинский государственный университет",
+      "location": "Кызыл, Республика Тыва",
+      "acronym": "акроним отсутствует",
+      "collection_size": "7000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Калмыцкий государственный университет",
+      "location": "Элиста, Республика Калмыкия",
+      "acronym": "акроним отсутствует",
+      "collection_size": "7000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Красноярский государственный аграрный университет",
+      "location": "Красноярск",
+      "acronym": "акроним отсутствует",
+      "collection_size": "7000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Ростовский государственный педагогический университет",
+      "location": "Ростов-на-Дону",
+      "acronym": "акроним отсутствует",
+      "collection_size": "7000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Национальный музей республики Башкортостан",
+      "location": "Уфа, Республика Башкортостан",
+      "acronym": "акроним отсутствует",
+      "collection_size": "7000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Дальневосточный государственный медицинский университет",
+      "location": "Владивосток, Приморский край",
+      "acronym": "акроним отсутствует",
+      "collection_size": "6 500 (в т.ч. 1 500 образцов научного гербария)",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Хакасский заповедник",
+      "location": "Абакан, Республика Хакасия",
+      "acronym": "акроним отсутствует",
+      "collection_size": "6020",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Институт комплексного анализа региональных проблем ДВО РАН",
+      "location": "Биробиджан, Еврейская автономная область",
+      "acronym": "акроним отсутствует",
+      "collection_size": "6000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Курганский областной краеведческий музей",
+      "location": "Курган",
+      "acronym": "акроним отсутствует",
+      "collection_size": "6000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Поволжская государственная социально-гуманитарная академия",
+      "location": "Самара",
+      "acronym": "акроним отсутствует",
+      "collection_size": "6000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Самарский областной историко-краеведческий музей имени П.В.Алабина",
+      "location": "Самара",
+      "acronym": "акроним отсутствует",
+      "collection_size": "5665",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Печоро-Илычский заповедник",
+      "location": "Якша, Республика Коми",
+      "acronym": "акроним отсутствует",
+      "collection_size": "5630",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Дарвинский заповедник",
+      "location": "Борок, Вологодская область",
+      "acronym": "акроним отсутствует",
+      "collection_size": "5237",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Заповедник «Денежкин Камень»",
+      "location": "Всеволодо-Благодатское, Свердловская область",
+      "acronym": "акроним отсутствует",
+      "collection_size": "5000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Омский государственный историко-краеведческий музей",
+      "location": "Омск",
+      "acronym": "акроним отсутствует",
+      "collection_size": "5000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Смоленский государственный музей-заповедник",
+      "location": "Смоленск",
+      "acronym": "акроним отсутствует",
+      "collection_size": "5000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Смоленский государственный университет",
+      "location": "Смоленск",
+      "acronym": "акроним отсутствует",
+      "collection_size": "5000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Центрально-Лесной заповедник",
+      "location": "Заповедный, Тверская область",
+      "acronym": "акроним отсутствует",
+      "collection_size": "5000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Чувашский национальный музей",
+      "location": "Чебоксары, Чувашская Республика",
+      "acronym": "акроним отсутствует",
+      "collection_size": "5000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Горно-Алтайский государственный университет",
+      "location": "Горно-Алтайск, Республика Алтай",
+      "acronym": "акроним отсутствует",
+      "collection_size": "5000",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Северо-Осетинский государственный университет имени К. Л. Хетагурова",
+      "location": "Владикавказ, Республика Северная Осетия — Алания",
+      "acronym": "акроним отсутствует",
+      "collection_size": "?",
+      "index_herbariorum": "нет"
+    },
+    {
+      "name": "Чеченский государственный университет",
+      "location": "Грозный, Чеченская Республика",
+      "acronym": "акроним отсутствует",
+      "collection_size": "?; ранние сборы (50 000) полностью сгорели во время Чеченской войны",
+      "index_herbariorum": "нет"
+    }
+  ],
+  "meta": {
+    "title": "Гербарии России - Free Download",
+    "description": "Список гербариев России с местонахождением, акронимом Index Herbariorum и объёмом фондов. Contains 182 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Гербарии России | ListBase",
+    "seo_description": "Download Гербарии России — 182 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 182 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Список_гербариев_России"
+    ]
+  }
+}
