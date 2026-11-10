@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-10T02:36:33.349Z",
-  "total_datasets": 527,
-  "total_records": 223112,
+  "generated": "2026-11-10T02:36:42.616Z",
+  "total_datasets": 528,
+  "total_records": 223581,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "politics",
@@ -4920,6 +4920,31 @@
         "xlsx": {
           "name": "ru-rossiya-na-evrovidenii_RU.xlsx",
           "size": 9801
+        }
+      }
+    },
+    {
+      "id": "ru-singly-nomer-odin-tophit",
+      "name": "Синглы № 1 в России по версии TopHit",
+      "category": "music",
+      "record_count": 469,
+      "columns": [
+        "year",
+        "week",
+        "song",
+        "artist"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_синглов_№_1_в_России_в_2022_году_(TopHit)",
+      "updated": "2026-11",
+      "size": 69578,
+      "files": {
+        "csv": {
+          "name": "ru-singly-nomer-odin-tophit_RU.csv",
+          "size": 33867
+        },
+        "xlsx": {
+          "name": "ru-singly-nomer-odin-tophit_RU.xlsx",
+          "size": 19465
         }
       }
     },

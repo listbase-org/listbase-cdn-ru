@@ -1,0 +1,2860 @@
+{
+  "id": "ru-singly-nomer-odin-tophit",
+  "name": "Синглы № 1 в России по версии TopHit",
+  "title": "Синглы № 1 в России по версии TopHit",
+  "description": "Песни, занимавшие первое место еженедельного радиочарта TopHit в России, по годам и неделям, с исполнителями.",
+  "category": "music",
+  "source": "https://ru.wikipedia.org/wiki/Список_синглов_№_1_в_России_в_2022_году_(TopHit)",
+  "source_url": "https://ru.wikipedia.org/wiki/Список_синглов_№_1_в_России_в_2022_году_(TopHit)",
+  "updated": "2026-11",
+  "record_count": 469,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "week",
+      "label": "Week",
+      "type": "string"
+    },
+    {
+      "key": "song",
+      "label": "Song",
+      "type": "string"
+    },
+    {
+      "key": "artist",
+      "label": "Artist",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2014,
+      "week": "6 января",
+      "song": "Wake Me Up",
+      "artist": "Авичи"
+    },
+    {
+      "year": 2014,
+      "week": "13 января",
+      "song": "Wake Me Up",
+      "artist": "Авичи"
+    },
+    {
+      "year": 2014,
+      "week": "20 января",
+      "song": "Young and Beautiful",
+      "artist": "Лана Дель Рей"
+    },
+    {
+      "year": 2014,
+      "week": "27 января",
+      "song": "Safe And Sound",
+      "artist": "Capital Cities"
+    },
+    {
+      "year": 2014,
+      "week": "3 февраля",
+      "song": "Wake Me Up",
+      "artist": "Авичи"
+    },
+    {
+      "year": 2014,
+      "week": "10 февраля",
+      "song": "Young and Beautiful",
+      "artist": "Лана Дель Рей"
+    },
+    {
+      "year": 2014,
+      "week": "17 февраля",
+      "song": "The Monster",
+      "artist": "Эминем при участии Рианны"
+    },
+    {
+      "year": 2014,
+      "week": "24 февраля",
+      "song": "Только",
+      "artist": "Нюша"
+    },
+    {
+      "year": 2014,
+      "week": "3 марта",
+      "song": "Я тебя не отдам",
+      "artist": "Serebro"
+    },
+    {
+      "year": 2014,
+      "week": "10 марта",
+      "song": "Я тебя не отдам",
+      "artist": "Serebro"
+    },
+    {
+      "year": 2014,
+      "week": "17 марта",
+      "song": "Я тебя не отдам",
+      "artist": "Serebro"
+    },
+    {
+      "year": 2014,
+      "week": "24 марта",
+      "song": "Я тебя не отдам",
+      "artist": "Serebro"
+    },
+    {
+      "year": 2014,
+      "week": "31 марта",
+      "song": "Я тебя не отдам",
+      "artist": "Serebro"
+    },
+    {
+      "year": 2014,
+      "week": "7 апреля",
+      "song": "Я тебя не отдам",
+      "artist": "Serebro"
+    },
+    {
+      "year": 2014,
+      "week": "14 апреля",
+      "song": "Я тебя не отдам",
+      "artist": "Serebro"
+    },
+    {
+      "year": 2014,
+      "week": "21 апреля",
+      "song": "Changes",
+      "artist": "Changes Faul & Wad Ad vs Pnau"
+    },
+    {
+      "year": 2014,
+      "week": "28 апреля",
+      "song": "",
+      "artist": ""
+    },
+    {
+      "year": 2014,
+      "week": "5 мая",
+      "song": "",
+      "artist": ""
+    },
+    {
+      "year": 2014,
+      "week": "12 мая",
+      "song": "",
+      "artist": ""
+    },
+    {
+      "year": 2014,
+      "week": "19 мая",
+      "song": "Только",
+      "artist": "Нюша"
+    },
+    {
+      "year": 2014,
+      "week": "26 мая",
+      "song": "Happy",
+      "artist": "Фаррелл Уильямс"
+    },
+    {
+      "year": 2014,
+      "week": "2 июня",
+      "song": "Happy",
+      "artist": "Фаррелл Уильямс"
+    },
+    {
+      "year": 2014,
+      "week": "9 июня",
+      "song": "Happy",
+      "artist": "Фаррелл Уильямс"
+    },
+    {
+      "year": 2014,
+      "week": "16 июня",
+      "song": "Happy",
+      "artist": "Фаррелл Уильямс"
+    },
+    {
+      "year": 2014,
+      "week": "23 июня",
+      "song": "Happy",
+      "artist": "Фаррелл Уильямс"
+    },
+    {
+      "year": 2014,
+      "week": "30 июня",
+      "song": "Summer",
+      "artist": "Кельвин Харрис"
+    },
+    {
+      "year": 2014,
+      "week": "7 июля",
+      "song": "Changes",
+      "artist": "Changes Faul & Wad Ad vs Pnau"
+    },
+    {
+      "year": 2014,
+      "week": "14 июля",
+      "song": "Ты знаешь",
+      "artist": "Burito при участии Ёлки"
+    },
+    {
+      "year": 2014,
+      "week": "21 июля",
+      "song": "Ты знаешь",
+      "artist": "Burito при участии Ёлки"
+    },
+    {
+      "year": 2014,
+      "week": "28 июля",
+      "song": "Когда рядом ты",
+      "artist": "Винтаж"
+    },
+    {
+      "year": 2014,
+      "week": "4 августа",
+      "song": "Когда рядом ты",
+      "artist": "Винтаж"
+    },
+    {
+      "year": 2014,
+      "week": "11 августа",
+      "song": "Когда рядом ты",
+      "artist": "Винтаж"
+    },
+    {
+      "year": 2014,
+      "week": "18 августа",
+      "song": "Когда рядом ты",
+      "artist": "Винтаж"
+    },
+    {
+      "year": 2014,
+      "week": "25 августа",
+      "song": "Hideaway",
+      "artist": "Kiesza"
+    },
+    {
+      "year": 2014,
+      "week": "1 сентября",
+      "song": "Prayer In C",
+      "artist": "Lilly Wood & the Prick & Robin Schulz"
+    },
+    {
+      "year": 2014,
+      "week": "8 сентября",
+      "song": "Prayer In C",
+      "artist": "Lilly Wood & the Prick & Robin Schulz"
+    },
+    {
+      "year": 2014,
+      "week": "15 сентября",
+      "song": "Prayer In C",
+      "artist": "Lilly Wood & the Prick & Robin Schulz"
+    },
+    {
+      "year": 2014,
+      "week": "22 сентября",
+      "song": "Prayer In C",
+      "artist": "Lilly Wood & the Prick & Robin Schulz"
+    },
+    {
+      "year": 2014,
+      "week": "29 сентября",
+      "song": "Prayer In C",
+      "artist": "Lilly Wood & the Prick & Robin Schulz"
+    },
+    {
+      "year": 2014,
+      "week": "6 октября",
+      "song": "Prayer In C",
+      "artist": "Lilly Wood & the Prick & Robin Schulz"
+    },
+    {
+      "year": 2014,
+      "week": "13 октября",
+      "song": "Am I Wrong",
+      "artist": "Nico & Vinz"
+    },
+    {
+      "year": 2014,
+      "week": "20 октября",
+      "song": "Prayer In C",
+      "artist": "Lilly Wood & the Prick & Robin Schulz"
+    },
+    {
+      "year": 2014,
+      "week": "27 октября",
+      "song": "Prayer In C",
+      "artist": "Lilly Wood & the Prick & Robin Schulz"
+    },
+    {
+      "year": 2014,
+      "week": "3 ноября",
+      "song": "You Will Never Know",
+      "artist": "Имани"
+    },
+    {
+      "year": 2014,
+      "week": "10 ноября",
+      "song": "Prayer In C",
+      "artist": "Lilly Wood & the Prick & Robin Schulz"
+    },
+    {
+      "year": 2014,
+      "week": "17 ноября",
+      "song": "Цунами",
+      "artist": "Нюша"
+    },
+    {
+      "year": 2014,
+      "week": "24 ноября",
+      "song": "Цунами",
+      "artist": "Нюша"
+    },
+    {
+      "year": 2014,
+      "week": "1 декабря",
+      "song": "Цунами",
+      "artist": "Нюша"
+    },
+    {
+      "year": 2014,
+      "week": "8 декабря",
+      "song": "Цунами",
+      "artist": "Нюша"
+    },
+    {
+      "year": 2014,
+      "week": "15 декабря",
+      "song": "Цунами",
+      "artist": "Нюша"
+    },
+    {
+      "year": 2014,
+      "week": "22 декабря",
+      "song": "Цунами",
+      "artist": "Нюша"
+    },
+    {
+      "year": 2014,
+      "week": "29 декабря",
+      "song": "Цунами",
+      "artist": "Нюша"
+    },
+    {
+      "year": 2015,
+      "week": "5 января",
+      "song": "Цунами",
+      "artist": "Нюша"
+    },
+    {
+      "year": 2015,
+      "week": "12 января",
+      "song": "Цунами",
+      "artist": "Нюша"
+    },
+    {
+      "year": 2015,
+      "week": "19 января",
+      "song": "Цунами",
+      "artist": "Нюша"
+    },
+    {
+      "year": 2015,
+      "week": "26 января",
+      "song": "Цунами",
+      "artist": "Нюша"
+    },
+    {
+      "year": 2015,
+      "week": "2 февраля",
+      "song": "Цунами",
+      "artist": "Нюша"
+    },
+    {
+      "year": 2015,
+      "week": "9 февраля",
+      "song": "Цунами",
+      "artist": "Нюша"
+    },
+    {
+      "year": 2015,
+      "week": "16 февраля",
+      "song": "Цунами",
+      "artist": "Нюша"
+    },
+    {
+      "year": 2015,
+      "week": "23 февраля",
+      "song": "Самая самая",
+      "artist": "Егор Крид"
+    },
+    {
+      "year": 2015,
+      "week": "2 марта",
+      "song": "Цунами",
+      "artist": "Нюша"
+    },
+    {
+      "year": 2015,
+      "week": "9 марта",
+      "song": "Цунами",
+      "artist": "Нюша"
+    },
+    {
+      "year": 2015,
+      "week": "16 марта",
+      "song": "Цунами",
+      "artist": "Нюша"
+    },
+    {
+      "year": 2015,
+      "week": "23 марта",
+      "song": "Цунами",
+      "artist": "Нюша"
+    },
+    {
+      "year": 2015,
+      "week": "30 марта",
+      "song": "The Good, The Bad & The Crazy",
+      "artist": "Имани"
+    },
+    {
+      "year": 2015,
+      "week": "6 апреля",
+      "song": "The Good, The Bad & The Crazy",
+      "artist": "Имани"
+    },
+    {
+      "year": 2015,
+      "week": "13 апреля",
+      "song": "Dangerous",
+      "artist": "Дэвид Гетта при участии Sam Martin"
+    },
+    {
+      "year": 2015,
+      "week": "20 апреля",
+      "song": "The Good, The Bad & The Crazy",
+      "artist": "Имани"
+    },
+    {
+      "year": 2015,
+      "week": "27 апреля",
+      "song": "Dangerous",
+      "artist": "Дэвид Гетта при участии Sam Martin"
+    },
+    {
+      "year": 2015,
+      "week": "4 мая",
+      "song": "The Good, The Bad & The Crazy",
+      "artist": "Имани"
+    },
+    {
+      "year": 2015,
+      "week": "11 мая",
+      "song": "The Good, The Bad & The Crazy",
+      "artist": "Имани"
+    },
+    {
+      "year": 2015,
+      "week": "18 мая",
+      "song": "The Good, The Bad & The Crazy",
+      "artist": "Имани"
+    },
+    {
+      "year": 2015,
+      "week": "25 мая",
+      "song": "Мама",
+      "artist": "Burito"
+    },
+    {
+      "year": 2015,
+      "week": "1 июня",
+      "song": "Мама",
+      "artist": "Burito"
+    },
+    {
+      "year": 2015,
+      "week": "8 июня",
+      "song": "The Good, The Bad & The Crazy",
+      "artist": "Имани"
+    },
+    {
+      "year": 2015,
+      "week": "15 июня",
+      "song": "Castle In The Snow",
+      "artist": "The Avener & Kadebostany"
+    },
+    {
+      "year": 2015,
+      "week": "22 июня",
+      "song": "Castle In The Snow",
+      "artist": "The Avener & Kadebostany"
+    },
+    {
+      "year": 2015,
+      "week": "29 июня",
+      "song": "Castle In The Snow",
+      "artist": "The Avener & Kadebostany"
+    },
+    {
+      "year": 2015,
+      "week": "6 июля",
+      "song": "Are You With Me",
+      "artist": "Lost Frequencies"
+    },
+    {
+      "year": 2015,
+      "week": "13 июля",
+      "song": "Lean On",
+      "artist": "Major Lazer & DJ Snake при участии MØ"
+    },
+    {
+      "year": 2015,
+      "week": "20 июля",
+      "song": "Lean On",
+      "artist": "Major Lazer & DJ Snake при участии MØ"
+    },
+    {
+      "year": 2015,
+      "week": "27 июля",
+      "song": "Lean On",
+      "artist": "Major Lazer & DJ Snake при участии MØ"
+    },
+    {
+      "year": 2015,
+      "week": "3 августа",
+      "song": "Мир зелёного цвета",
+      "artist": "Леонид Агутин"
+    },
+    {
+      "year": 2015,
+      "week": "10 августа",
+      "song": "Ты не такой",
+      "artist": "Юлианна Караулова"
+    },
+    {
+      "year": 2015,
+      "week": "17 августа",
+      "song": "Ain’t Nobody (Loves Me Better)",
+      "artist": "Феликс Йен при участии Жасмин Томпсон"
+    },
+    {
+      "year": 2015,
+      "week": "24 августа",
+      "song": "Ты не такой",
+      "artist": "Юлианна Караулова"
+    },
+    {
+      "year": 2015,
+      "week": "31 августа",
+      "song": "Reality",
+      "artist": "Lost Frequencies при участии Janieck Devy"
+    },
+    {
+      "year": 2015,
+      "week": "7 сентября",
+      "song": "Reality",
+      "artist": "Lost Frequencies при участии Janieck Devy"
+    },
+    {
+      "year": 2015,
+      "week": "14 сентября",
+      "song": "Ain’t Nobody (Loves Me Better)",
+      "artist": "Феликс Йен при участии Жасмин Томпсон"
+    },
+    {
+      "year": 2015,
+      "week": "21 сентября",
+      "song": "Reality",
+      "artist": "Lost Frequencies при участии Janieck Devy"
+    },
+    {
+      "year": 2015,
+      "week": "28 сентября",
+      "song": "How Deep Is Your Love",
+      "artist": "Кельвин Харрис & Disciples"
+    },
+    {
+      "year": 2015,
+      "week": "5 октября",
+      "song": "Stole the Show",
+      "artist": "Kygo при участии Parson James"
+    },
+    {
+      "year": 2015,
+      "week": "12 октября",
+      "song": "How Deep Is Your Love",
+      "artist": "Кельвин Харрис & Disciples"
+    },
+    {
+      "year": 2015,
+      "week": "19 октября",
+      "song": "How Deep Is Your Love",
+      "artist": "Кельвин Харрис & Disciples"
+    },
+    {
+      "year": 2015,
+      "week": "26 октября",
+      "song": "Ain’t Nobody (Loves Me Better)",
+      "artist": "Феликс Йен при участии Жасмин Томпсон"
+    },
+    {
+      "year": 2015,
+      "week": "2 ноября",
+      "song": "Don`t Be So Shy » (Filatov & Karas Remix)",
+      "artist": "Имани"
+    },
+    {
+      "year": 2015,
+      "week": "9 ноября",
+      "song": "Don`t Be So Shy » (Filatov & Karas Remix)",
+      "artist": "Имани"
+    },
+    {
+      "year": 2015,
+      "week": "16 ноября",
+      "song": "Reality",
+      "artist": "Lost Frequencies при участии Janieck Devy"
+    },
+    {
+      "year": 2015,
+      "week": "23 ноября",
+      "song": "Don`t Be So Shy» (Filatov & Karas Remix)",
+      "artist": "Имани"
+    },
+    {
+      "year": 2015,
+      "week": "30 ноября",
+      "song": "Don`t Be So Shy» (Filatov & Karas Remix)",
+      "artist": "Имани"
+    },
+    {
+      "year": 2015,
+      "week": "7 декабря",
+      "song": "Don`t Be So Shy» (Filatov & Karas Remix)",
+      "artist": "Имани"
+    },
+    {
+      "year": 2015,
+      "week": "14 декабря",
+      "song": "Don`t Be So Shy» (Filatov & Karas Remix)",
+      "artist": "Имани"
+    },
+    {
+      "year": 2015,
+      "week": "21 декабря",
+      "song": "How Deep Is Your Love",
+      "artist": "Кельвин Харрис & Disciples"
+    },
+    {
+      "year": 2015,
+      "week": "28 декабря",
+      "song": "Don`t Be So Shy» (Filatov & Karas Remix)",
+      "artist": "Имани"
+    },
+    {
+      "year": 2016,
+      "week": "4 января",
+      "song": "Don`t Be So Shy (Filatov & Karas Remix)",
+      "artist": "Имани"
+    },
+    {
+      "year": 2016,
+      "week": "11 января",
+      "song": "Don`t Be So Shy (Filatov & Karas Remix)",
+      "artist": "Имани"
+    },
+    {
+      "year": 2016,
+      "week": "18 января",
+      "song": "Don`t Be So Shy (Filatov & Karas Remix)",
+      "artist": "Имани"
+    },
+    {
+      "year": 2016,
+      "week": "25 января",
+      "song": "Грею счастье",
+      "artist": "Ёлка"
+    },
+    {
+      "year": 2016,
+      "week": "1 февраля",
+      "song": "Грею счастье",
+      "artist": "Ёлка"
+    },
+    {
+      "year": 2016,
+      "week": "8 февраля",
+      "song": "Грею счастье",
+      "artist": "Ёлка"
+    },
+    {
+      "year": 2016,
+      "week": "15 февраля",
+      "song": "Грею счастье",
+      "artist": "Ёлка"
+    },
+    {
+      "year": 2016,
+      "week": "22 февраля",
+      "song": "Грею счастье",
+      "artist": "Ёлка"
+    },
+    {
+      "year": 2016,
+      "week": "29 февраля",
+      "song": "Пьяное солнце",
+      "artist": "Alekseev"
+    },
+    {
+      "year": 2016,
+      "week": "7 марта",
+      "song": "Грею счастье",
+      "artist": "Ёлка"
+    },
+    {
+      "year": 2016,
+      "week": "14 марта",
+      "song": "Грею счастье",
+      "artist": "Ёлка"
+    },
+    {
+      "year": 2016,
+      "week": "21 марта",
+      "song": "Faded",
+      "artist": "Алан Волкер"
+    },
+    {
+      "year": 2016,
+      "week": "28 марта",
+      "song": "Faded",
+      "artist": "Алан Волкер"
+    },
+    {
+      "year": 2016,
+      "week": "4 апреля",
+      "song": "Faded",
+      "artist": "Алан Волкер"
+    },
+    {
+      "year": 2016,
+      "week": "11 апреля",
+      "song": "Unstoppable",
+      "artist": "Сия"
+    },
+    {
+      "year": 2016,
+      "week": "18 апреля",
+      "song": "Faded",
+      "artist": "Алан Волкер"
+    },
+    {
+      "year": 2016,
+      "week": "25 апреля",
+      "song": "Грею счастье",
+      "artist": "Ёлка"
+    },
+    {
+      "year": 2016,
+      "week": "2 мая",
+      "song": "Faded",
+      "artist": "Алан Волкер"
+    },
+    {
+      "year": 2016,
+      "week": "9 мая",
+      "song": "Faded",
+      "artist": "Алан Волкер"
+    },
+    {
+      "year": 2016,
+      "week": "16 мая",
+      "song": "Faded",
+      "artist": "Алан Волкер"
+    },
+    {
+      "year": 2016,
+      "week": "23 мая",
+      "song": "Save Me",
+      "artist": "The Parakit при участии Jacob Alden"
+    },
+    {
+      "year": 2016,
+      "week": "30 мая",
+      "song": "Sub pielea mea",
+      "artist": "Carla’s Dreams"
+    },
+    {
+      "year": 2016,
+      "week": "6 июня",
+      "song": "Sub pielea mea",
+      "artist": "Carla’s Dreams"
+    },
+    {
+      "year": 2016,
+      "week": "13 июня",
+      "song": "Sub pielea mea",
+      "artist": "Carla’s Dreams"
+    },
+    {
+      "year": 2016,
+      "week": "20 июня",
+      "song": "Sub pielea mea",
+      "artist": "Carla’s Dreams"
+    },
+    {
+      "year": 2016,
+      "week": "27 июня",
+      "song": "Sub pielea mea",
+      "artist": "Carla’s Dreams"
+    },
+    {
+      "year": 2016,
+      "week": "4 июля",
+      "song": "Sub pielea mea",
+      "artist": "Carla’s Dreams"
+    },
+    {
+      "year": 2016,
+      "week": "11 июля",
+      "song": "Sub pielea mea",
+      "artist": "Carla’s Dreams"
+    },
+    {
+      "year": 2016,
+      "week": "18 июля",
+      "song": "Тёмные аллеи",
+      "artist": "DJ Smash & Моя Мишель"
+    },
+    {
+      "year": 2016,
+      "week": "25 июля",
+      "song": "Sub pielea mea",
+      "artist": "Carla’s Dreams"
+    },
+    {
+      "year": 2016,
+      "week": "1 августа",
+      "song": "Sub pielea mea",
+      "artist": "Carla’s Dreams"
+    },
+    {
+      "year": 2016,
+      "week": "8 августа",
+      "song": "Sub pielea mea",
+      "artist": "Carla’s Dreams"
+    },
+    {
+      "year": 2016,
+      "week": "15 августа",
+      "song": "Oh Oh",
+      "artist": "Руденко при участии VAD"
+    },
+    {
+      "year": 2016,
+      "week": "22 августа",
+      "song": "Sub pielea mea",
+      "artist": "Carla’s Dreams"
+    },
+    {
+      "year": 2016,
+      "week": "29 августа",
+      "song": "Sub pielea mea",
+      "artist": "Carla’s Dreams"
+    },
+    {
+      "year": 2016,
+      "week": "5 сентября",
+      "song": "This Girl",
+      "artist": "Kungs & Cookin’ on 3 Burners"
+    },
+    {
+      "year": 2016,
+      "week": "12 сентября",
+      "song": "This Girl",
+      "artist": "Kungs & Cookin’ on 3 Burners"
+    },
+    {
+      "year": 2016,
+      "week": "19 сентября",
+      "song": "Градус 100",
+      "artist": "Градусы"
+    },
+    {
+      "year": 2016,
+      "week": "26 сентября",
+      "song": "Tuesday",
+      "artist": "Бурак Йетер при участии Данеллы Сандовал"
+    },
+    {
+      "year": 2016,
+      "week": "3 октября",
+      "song": "Градус 100",
+      "artist": "Градусы"
+    },
+    {
+      "year": 2016,
+      "week": "10 октября",
+      "song": "Градус 100",
+      "artist": "Градусы"
+    },
+    {
+      "year": 2016,
+      "week": "17 октября",
+      "song": "Градус 100",
+      "artist": "Градусы"
+    },
+    {
+      "year": 2016,
+      "week": "24 октября",
+      "song": "Let Me Love You",
+      "artist": "DJ Snake при участии Джастина Бибера"
+    },
+    {
+      "year": 2016,
+      "week": "31 октября",
+      "song": "My Way",
+      "artist": "Кельвин Харрис"
+    },
+    {
+      "year": 2016,
+      "week": "7 ноября",
+      "song": "Lordly",
+      "artist": "Федер"
+    },
+    {
+      "year": 2016,
+      "week": "14 ноября",
+      "song": "My Way",
+      "artist": "Кельвин Харрис"
+    },
+    {
+      "year": 2016,
+      "week": "21 ноября",
+      "song": "My Way",
+      "artist": "Кельвин Харрис"
+    },
+    {
+      "year": 2016,
+      "week": "28 ноября",
+      "song": "Rockabye",
+      "artist": "Clean Bandit при участии Энн-Марии & Шона Пола"
+    },
+    {
+      "year": 2016,
+      "week": "5 декабря",
+      "song": "Rockabye",
+      "artist": "Clean Bandit при участии Энн-Марии & Шона Пола"
+    },
+    {
+      "year": 2016,
+      "week": "12 декабря",
+      "song": "Туманы",
+      "artist": "Макс Барских"
+    },
+    {
+      "year": 2016,
+      "week": "19 декабря",
+      "song": "Туманы",
+      "artist": "Макс Барских"
+    },
+    {
+      "year": 2016,
+      "week": "26 декабря",
+      "song": "Туманы",
+      "artist": "Макс Барских"
+    },
+    {
+      "year": 2017,
+      "week": "2 января",
+      "song": "Туманы",
+      "artist": "Макс Барских"
+    },
+    {
+      "year": 2017,
+      "week": "9 января",
+      "song": "Твои глаза",
+      "artist": "Loboda"
+    },
+    {
+      "year": 2017,
+      "week": "16 января",
+      "song": "Туманы",
+      "artist": "Макс Барских"
+    },
+    {
+      "year": 2017,
+      "week": "23 января",
+      "song": "Be Mine",
+      "artist": "Ofenbach"
+    },
+    {
+      "year": 2017,
+      "week": "30 января",
+      "song": "Be Mine",
+      "artist": "Ofenbach"
+    },
+    {
+      "year": 2017,
+      "week": "6 февраля",
+      "song": "Be Mine",
+      "artist": "Ofenbach"
+    },
+    {
+      "year": 2017,
+      "week": "13 февраля",
+      "song": "Be Mine",
+      "artist": "Ofenbach"
+    },
+    {
+      "year": 2017,
+      "week": "20 февраля",
+      "song": "Human",
+      "artist": "Rag’n’Bone Man"
+    },
+    {
+      "year": 2017,
+      "week": "27 февраля",
+      "song": "Human",
+      "artist": "Rag’n’Bone Man"
+    },
+    {
+      "year": 2017,
+      "week": "6 марта",
+      "song": "Shape of You",
+      "artist": "Эд Ширан"
+    },
+    {
+      "year": 2017,
+      "week": "13 марта",
+      "song": "Be Mine",
+      "artist": "Ofenbach"
+    },
+    {
+      "year": 2017,
+      "week": "20 марта",
+      "song": "Shape of You",
+      "artist": "Эд Ширан"
+    },
+    {
+      "year": 2017,
+      "week": "27 марта",
+      "song": "Shape of You",
+      "artist": "Эд Ширан"
+    },
+    {
+      "year": 2017,
+      "week": "3 апреля",
+      "song": "Shape of You",
+      "artist": "Эд Ширан"
+    },
+    {
+      "year": 2017,
+      "week": "10 апреля",
+      "song": "Shape of You",
+      "artist": "Эд Ширан"
+    },
+    {
+      "year": 2017,
+      "week": "17 апреля",
+      "song": "Shape of You",
+      "artist": "Эд Ширан"
+    },
+    {
+      "year": 2017,
+      "week": "24 апреля",
+      "song": "Shape of You",
+      "artist": "Эд Ширан"
+    },
+    {
+      "year": 2017,
+      "week": "1 мая",
+      "song": "Shape of You",
+      "artist": "Эд Ширан"
+    },
+    {
+      "year": 2017,
+      "week": "8 мая",
+      "song": "Впусти музыку",
+      "artist": "Ёлка"
+    },
+    {
+      "year": 2017,
+      "week": "15 мая",
+      "song": "Неделимы",
+      "artist": "Artik & Asti"
+    },
+    {
+      "year": 2017,
+      "week": "22 мая",
+      "song": "Неделимы",
+      "artist": "Artik & Asti"
+    },
+    {
+      "year": 2017,
+      "week": "29 мая",
+      "song": "Неделимы",
+      "artist": "Artik & Asti"
+    },
+    {
+      "year": 2017,
+      "week": "5 июня",
+      "song": "Despacito",
+      "artist": "Луис Фонси при участии Дэдди Янки"
+    },
+    {
+      "year": 2017,
+      "week": "12 июня",
+      "song": "Despacito",
+      "artist": "Луис Фонси при участии Дэдди Янки"
+    },
+    {
+      "year": 2017,
+      "week": "19 июня",
+      "song": "Despacito",
+      "artist": "Луис Фонси при участии Дэдди Янки"
+    },
+    {
+      "year": 2017,
+      "week": "26 июня",
+      "song": "Despacito",
+      "artist": "Луис Фонси при участии Дэдди Янки"
+    },
+    {
+      "year": 2017,
+      "week": "3 июля",
+      "song": "Way Down We Go",
+      "artist": "Kaleo"
+    },
+    {
+      "year": 2017,
+      "week": "10 июля",
+      "song": "Despacito",
+      "artist": "Луис Фонси при участии Дэдди Янки"
+    },
+    {
+      "year": 2017,
+      "week": "17 июля",
+      "song": "Despacito",
+      "artist": "Луис Фонси при участии Дэдди Янки"
+    },
+    {
+      "year": 2017,
+      "week": "24 июля",
+      "song": "Despacito",
+      "artist": "Луис Фонси при участии Дэдди Янки"
+    },
+    {
+      "year": 2017,
+      "week": "31 июля",
+      "song": "Despacito",
+      "artist": "Луис Фонси при участии Дэдди Янки"
+    },
+    {
+      "year": 2017,
+      "week": "7 августа",
+      "song": "Despacito",
+      "artist": "Луис Фонси при участии Дэдди Янки"
+    },
+    {
+      "year": 2017,
+      "week": "14 августа",
+      "song": "Despacito",
+      "artist": "Луис Фонси при участии Дэдди Янки"
+    },
+    {
+      "year": 2017,
+      "week": "21 августа",
+      "song": "Kissing Strangers",
+      "artist": "DNCE при участии Ники Минаж"
+    },
+    {
+      "year": 2017,
+      "week": "28 августа",
+      "song": "Kissing Strangers",
+      "artist": "DNCE при участии Ники Минаж"
+    },
+    {
+      "year": 2017,
+      "week": "4 сентября",
+      "song": "Feel It Still",
+      "artist": "Portugal. The Man"
+    },
+    {
+      "year": 2017,
+      "week": "11 сентября",
+      "song": "Feel It Still",
+      "artist": "Portugal. The Man"
+    },
+    {
+      "year": 2017,
+      "week": "18 сентября",
+      "song": "Feel It Still",
+      "artist": "Portugal. The Man"
+    },
+    {
+      "year": 2017,
+      "week": "25 сентября",
+      "song": "Feel It Still",
+      "artist": "Portugal. The Man"
+    },
+    {
+      "year": 2017,
+      "week": "2 октября",
+      "song": "Katchi",
+      "artist": "Ofenbach vs. Nick Waterhouse"
+    },
+    {
+      "year": 2017,
+      "week": "9 октября",
+      "song": "Katchi",
+      "artist": "Ofenbach vs. Nick Waterhouse"
+    },
+    {
+      "year": 2017,
+      "week": "16 октября",
+      "song": "Моя любовь",
+      "artist": "Макс Барских"
+    },
+    {
+      "year": 2017,
+      "week": "23 октября",
+      "song": "Fight Back With Love Tonight",
+      "artist": "Kush Kush"
+    },
+    {
+      "year": 2017,
+      "week": "30 октября",
+      "song": "Моя любовь",
+      "artist": "Макс Барских"
+    },
+    {
+      "year": 2017,
+      "week": "6 ноября",
+      "song": "Моя любовь",
+      "artist": "Макс Барских"
+    },
+    {
+      "year": 2017,
+      "week": "13 ноября",
+      "song": "Dusk Till Dawn",
+      "artist": "Зейн при участии Сии"
+    },
+    {
+      "year": 2017,
+      "week": "20 ноября",
+      "song": "Dusk Till Dawn",
+      "artist": "Зейн при участии Сии"
+    },
+    {
+      "year": 2017,
+      "week": "27 ноября",
+      "song": "Так красиво",
+      "artist": "Сергей Лазарев"
+    },
+    {
+      "year": 2017,
+      "week": "4 декабря",
+      "song": "Sad Story (Out Of Luck)",
+      "artist": "Merk & Kremont"
+    },
+    {
+      "year": 2017,
+      "week": "11 декабря",
+      "song": "Sad Story (Out Of Luck)",
+      "artist": "Merk & Kremont"
+    },
+    {
+      "year": 2017,
+      "week": "18 декабря",
+      "song": "Sad Story (Out Of Luck)",
+      "artist": "Merk & Kremont"
+    },
+    {
+      "year": 2017,
+      "week": "25 декабря",
+      "song": "Sad Story (Out Of Luck)",
+      "artist": "Merk & Kremont"
+    },
+    {
+      "year": 2018,
+      "week": "1 января",
+      "song": "Whatever It Takes",
+      "artist": "Imagine Dragons"
+    },
+    {
+      "year": 2018,
+      "week": "8 января",
+      "song": "Штрихи",
+      "artist": "Burito"
+    },
+    {
+      "year": 2018,
+      "week": "15 января",
+      "song": "Штрихи",
+      "artist": "Burito"
+    },
+    {
+      "year": 2018,
+      "week": "22 января",
+      "song": "Штрихи",
+      "artist": "Burito"
+    },
+    {
+      "year": 2018,
+      "week": "29 января",
+      "song": "Штрихи",
+      "artist": "Burito"
+    },
+    {
+      "year": 2018,
+      "week": "5 февраля",
+      "song": "Штрихи",
+      "artist": "Burito"
+    },
+    {
+      "year": 2018,
+      "week": "12 февраля",
+      "song": "Штрихи",
+      "artist": "Burito"
+    },
+    {
+      "year": 2018,
+      "week": "19 февраля",
+      "song": "Drunk Groove",
+      "artist": "Maruv & Boosin"
+    },
+    {
+      "year": 2018,
+      "week": "26 февраля",
+      "song": "Штрихи",
+      "artist": "Burito"
+    },
+    {
+      "year": 2018,
+      "week": "5 марта",
+      "song": "Breathe",
+      "artist": "Jax Jones при участии Ina Wroldsen"
+    },
+    {
+      "year": 2018,
+      "week": "12 марта",
+      "song": "Breathe",
+      "artist": "Jax Jones при участии Ina Wroldsen"
+    },
+    {
+      "year": 2018,
+      "week": "19 марта",
+      "song": "Breathe",
+      "artist": "Jax Jones при участии Ina Wroldsen"
+    },
+    {
+      "year": 2018,
+      "week": "26 марта",
+      "song": "Breathe",
+      "artist": "Jax Jones при участии Ina Wroldsen"
+    },
+    {
+      "year": 2018,
+      "week": "2 апреля",
+      "song": "Drunk Groove",
+      "artist": "Maruv & Boosin"
+    },
+    {
+      "year": 2018,
+      "week": "9 апреля",
+      "song": "Drunk Groove",
+      "artist": "Maruv & Boosin"
+    },
+    {
+      "year": 2018,
+      "week": "16 апреля",
+      "song": "Drunk Groove",
+      "artist": "Maruv & Boosin"
+    },
+    {
+      "year": 2018,
+      "week": "23 апреля",
+      "song": "Friends (Borgeous Remix)",
+      "artist": "Marshmello & Anne-Marie"
+    },
+    {
+      "year": 2018,
+      "week": "30 апреля",
+      "song": "Breathe",
+      "artist": "Jax Jones при участии Ina Wroldsen"
+    },
+    {
+      "year": 2018,
+      "week": "7 мая",
+      "song": "Breathe",
+      "artist": "Jax Jones при участии Ina Wroldsen"
+    },
+    {
+      "year": 2018,
+      "week": "14 мая",
+      "song": "Breathe",
+      "artist": "Jax Jones при участии Ina Wroldsen"
+    },
+    {
+      "year": 2018,
+      "week": "21 мая",
+      "song": "Днк",
+      "artist": "Джиган при участии Артема Качера"
+    },
+    {
+      "year": 2018,
+      "week": "28 мая",
+      "song": "Днк",
+      "artist": "Джиган при участии Артема Качера"
+    },
+    {
+      "year": 2018,
+      "week": "4 июня",
+      "song": "Днк",
+      "artist": "Джиган при участии Артема Качера"
+    },
+    {
+      "year": 2018,
+      "week": "11 июня",
+      "song": "Днк",
+      "artist": "Джиган при участии Артема Качера"
+    },
+    {
+      "year": 2018,
+      "week": "18 июня",
+      "song": "Днк",
+      "artist": "Джиган при участии Артема Качера"
+    },
+    {
+      "year": 2018,
+      "week": "25 июня",
+      "song": "Hands Up",
+      "artist": "Merk & Kremont при участии DNCE"
+    },
+    {
+      "year": 2018,
+      "week": "2 июля",
+      "song": "Solo",
+      "artist": "Clean Bandit при участии Деми Ловато"
+    },
+    {
+      "year": 2018,
+      "week": "9 июля",
+      "song": "Solo",
+      "artist": "Clean Bandit при участии Деми Ловато"
+    },
+    {
+      "year": 2018,
+      "week": "16 июля",
+      "song": "In My Mind",
+      "artist": "Dynoro и Джиджи Д’Агостино"
+    },
+    {
+      "year": 2018,
+      "week": "23 июля",
+      "song": "One Kiss",
+      "artist": "Кельвин Харрис & Дуа Липа"
+    },
+    {
+      "year": 2018,
+      "week": "30 июля",
+      "song": "One Kiss",
+      "artist": "Кельвин Харрис & Дуа Липа"
+    },
+    {
+      "year": 2018,
+      "week": "6 августа",
+      "song": "One Kiss",
+      "artist": "Кельвин Харрис & Дуа Липа"
+    },
+    {
+      "year": 2018,
+      "week": "13 августа",
+      "song": "One Kiss",
+      "artist": "Кельвин Харрис & Дуа Липа"
+    },
+    {
+      "year": 2018,
+      "week": "20 августа",
+      "song": "One Kiss",
+      "artist": "Кельвин Харрис & Дуа Липа"
+    },
+    {
+      "year": 2018,
+      "week": "27 августа",
+      "song": "One Kiss",
+      "artist": "Кельвин Харрис & Дуа Липа"
+    },
+    {
+      "year": 2018,
+      "week": "3 сентября",
+      "song": "Focus On Me",
+      "artist": "Maruv"
+    },
+    {
+      "year": 2018,
+      "week": "10 сентября",
+      "song": "One Kiss",
+      "artist": "Кельвин Харрис & Дуа Липа"
+    },
+    {
+      "year": 2018,
+      "week": "17 сентября",
+      "song": "Later Bitches",
+      "artist": "The Prince Karma"
+    },
+    {
+      "year": 2018,
+      "week": "24 сентября",
+      "song": "Later Bitches",
+      "artist": "The Prince Karma"
+    },
+    {
+      "year": 2018,
+      "week": "1 октября",
+      "song": "Focus On Me",
+      "artist": "Maruv"
+    },
+    {
+      "year": 2018,
+      "week": "8 октября",
+      "song": "In My Mind",
+      "artist": "Dynoro и Джиджи Д’Агостино"
+    },
+    {
+      "year": 2018,
+      "week": "15 октября",
+      "song": "In My Mind",
+      "artist": "Dynoro и Джиджи Д’Агостино"
+    },
+    {
+      "year": 2018,
+      "week": "22 октября",
+      "song": "In My Mind",
+      "artist": "Dynoro и Джиджи Д’Агостино"
+    },
+    {
+      "year": 2018,
+      "week": "29 октября",
+      "song": "Маячки",
+      "artist": "Юлианна Караулова"
+    },
+    {
+      "year": 2018,
+      "week": "5 ноября",
+      "song": "Маячки",
+      "artist": "Юлианна Караулова"
+    },
+    {
+      "year": 2018,
+      "week": "12 ноября",
+      "song": "Маячки",
+      "artist": "Юлианна Караулова"
+    },
+    {
+      "year": 2018,
+      "week": "19 ноября",
+      "song": "Маячки",
+      "artist": "Юлианна Караулова"
+    },
+    {
+      "year": 2018,
+      "week": "26 ноября",
+      "song": "Маячки",
+      "artist": "Юлианна Караулова"
+    },
+    {
+      "year": 2018,
+      "week": "3 декабря",
+      "song": "Плакала",
+      "artist": "KAZKA"
+    },
+    {
+      "year": 2018,
+      "week": "10 декабря",
+      "song": "Плакала",
+      "artist": "KAZKA"
+    },
+    {
+      "year": 2018,
+      "week": "17 декабря",
+      "song": "Плакала",
+      "artist": "KAZKA"
+    },
+    {
+      "year": 2018,
+      "week": "24 декабря",
+      "song": "Love & Lover",
+      "artist": "Леонид Руденко при участии Алины Эремия & Доминика Янг Юника"
+    },
+    {
+      "year": 2018,
+      "week": "31 декабря",
+      "song": "Love & Lover",
+      "artist": "Леонид Руденко при участии Алины Эремия & Доминика Янг Юника"
+    },
+    {
+      "year": 2019,
+      "week": "7 января",
+      "song": "Love & Lover",
+      "artist": "Леонид Руденко при участии Алины Эремия & Доминика Янг Юника"
+    },
+    {
+      "year": 2019,
+      "week": "14 января",
+      "song": "Love & Lover",
+      "artist": "Леонид Руденко при участии Алины Эремия & Доминика Янг Юника"
+    },
+    {
+      "year": 2019,
+      "week": "21 января",
+      "song": "Love & Lover",
+      "artist": "Леонид Руденко при участии Алины Эремия & Доминика Янг Юника"
+    },
+    {
+      "year": 2019,
+      "week": "28 января",
+      "song": "Love & Lover",
+      "artist": "Леонид Руденко при участии Алины Эремия & Доминика Янг Юника"
+    },
+    {
+      "year": 2019,
+      "week": "4 февраля",
+      "song": "Love & Lover",
+      "artist": "Леонид Руденко при участии Алины Эремия & Доминика Янг Юника"
+    },
+    {
+      "year": 2019,
+      "week": "11 февраля",
+      "song": "Love & Lover",
+      "artist": "Леонид Руденко при участии Алины Эремия & Доминика Янг Юника"
+    },
+    {
+      "year": 2019,
+      "week": "18 февраля",
+      "song": "Love & Lover",
+      "artist": "Леонид Руденко при участии Алины Эремия & Доминика Янг Юника"
+    },
+    {
+      "year": 2019,
+      "week": "25 февраля",
+      "song": "Love & Lover",
+      "artist": "Леонид Руденко при участии Алины Эремия & Доминика Янг Юника"
+    },
+    {
+      "year": 2019,
+      "week": "4 марта",
+      "song": "Love & Lover",
+      "artist": "Леонид Руденко при участии Алины Эремия & Доминика Янг Юника"
+    },
+    {
+      "year": 2019,
+      "week": "11 марта",
+      "song": "Love & Lover",
+      "artist": "Леонид Руденко при участии Алины Эремия & Доминика Янг Юника"
+    },
+    {
+      "year": 2019,
+      "week": "18 марта",
+      "song": "Love & Lover",
+      "artist": "Леонид Руденко при участии Алины Эремия & Доминика Янг Юника"
+    },
+    {
+      "year": 2019,
+      "week": "25 марта",
+      "song": "Au Au",
+      "artist": "Filatov & Karas"
+    },
+    {
+      "year": 2019,
+      "week": "1 апреля",
+      "song": "Au Au",
+      "artist": "Filatov & Karas"
+    },
+    {
+      "year": 2019,
+      "week": "8 апреля",
+      "song": "Грустный дэнс",
+      "artist": "Artik & Asti при участии Артема Качера"
+    },
+    {
+      "year": 2019,
+      "week": "15 апреля",
+      "song": "Грустный дэнс",
+      "artist": "Artik & Asti при участии Артема Качера"
+    },
+    {
+      "year": 2019,
+      "week": "22 апреля",
+      "song": "Грустный дэнс",
+      "artist": "Artik & Asti при участии Артема Качера"
+    },
+    {
+      "year": 2019,
+      "week": "29 апреля",
+      "song": "Грустный дэнс",
+      "artist": "Artik & Asti при участии Артема Качера"
+    },
+    {
+      "year": 2019,
+      "week": "6 мая",
+      "song": "Грустный дэнс",
+      "artist": "Artik & Asti при участии Артема Качера"
+    },
+    {
+      "year": 2019,
+      "week": "13 мая",
+      "song": "Giant",
+      "artist": "Кельвин Харрис & Rag’n’Bone Man"
+    },
+    {
+      "year": 2019,
+      "week": "20 мая",
+      "song": "Manana",
+      "artist": "Tim3bomb"
+    },
+    {
+      "year": 2019,
+      "week": "27 мая",
+      "song": "Bad Guy",
+      "artist": "Билли Айлиш"
+    },
+    {
+      "year": 2019,
+      "week": "3 июня",
+      "song": "Bad Guy",
+      "artist": "Билли Айлиш"
+    },
+    {
+      "year": 2019,
+      "week": "10 июня",
+      "song": "Bad Guy",
+      "artist": "Билли Айлиш"
+    },
+    {
+      "year": 2019,
+      "week": "17 июня",
+      "song": "Bad Guy",
+      "artist": "Билли Айлиш"
+    },
+    {
+      "year": 2019,
+      "week": "24 июня",
+      "song": "Bad Guy",
+      "artist": "Билли Айлиш"
+    },
+    {
+      "year": 2019,
+      "week": "1 июля",
+      "song": "Bad Guy",
+      "artist": "Билли Айлиш"
+    },
+    {
+      "year": 2019,
+      "week": "08 июля",
+      "song": "Bad Guy",
+      "artist": "Билли Айлиш"
+    },
+    {
+      "year": 2019,
+      "week": "15 июля",
+      "song": "Bad Guy",
+      "artist": "Билли Айлиш"
+    },
+    {
+      "year": 2019,
+      "week": "22 июля",
+      "song": "Bad Guy",
+      "artist": "Билли Айлиш"
+    },
+    {
+      "year": 2019,
+      "week": "29 июля",
+      "song": "Bad Guy",
+      "artist": "Билли Айлиш"
+    },
+    {
+      "year": 2019,
+      "week": "5 августа",
+      "song": "Bad Guy",
+      "artist": "Билли Айлиш"
+    },
+    {
+      "year": 2019,
+      "week": "12 августа",
+      "song": "Bad Guy",
+      "artist": "Билли Айлиш"
+    },
+    {
+      "year": 2019,
+      "week": "19 августа",
+      "song": "Bad Guy",
+      "artist": "Билли Айлиш"
+    },
+    {
+      "year": 2019,
+      "week": "26 августа",
+      "song": "Bad Guy",
+      "artist": "Билли Айлиш"
+    },
+    {
+      "year": 2019,
+      "week": "2 сентября",
+      "song": "Piece Of Your Heart",
+      "artist": "Meduza при участии Goodboys"
+    },
+    {
+      "year": 2019,
+      "week": "9 сентября",
+      "song": "Piece Of Your Heart",
+      "artist": "Meduza при участии Goodboys"
+    },
+    {
+      "year": 2019,
+      "week": "16 сентября",
+      "song": "Señorita",
+      "artist": "Шон Мендес & Камила Кабельо"
+    },
+    {
+      "year": 2019,
+      "week": "23 сентября",
+      "song": "NBA",
+      "artist": "RSAC"
+    },
+    {
+      "year": 2019,
+      "week": "30 сентября",
+      "song": "Под гипнозом",
+      "artist": "Artik & Asti"
+    },
+    {
+      "year": 2019,
+      "week": "7 октября",
+      "song": "Под гипнозом",
+      "artist": "Artik & Asti"
+    },
+    {
+      "year": 2019,
+      "week": "14 октября",
+      "song": "NBA",
+      "artist": "RSAC"
+    },
+    {
+      "year": 2019,
+      "week": "21 октября",
+      "song": "Под гипнозом",
+      "artist": "Artik & Asti"
+    },
+    {
+      "year": 2019,
+      "week": "28 октября",
+      "song": "Под гипнозом",
+      "artist": "Artik & Asti"
+    },
+    {
+      "year": 2019,
+      "week": "4 ноября",
+      "song": "Под гипнозом",
+      "artist": "Artik & Asti"
+    },
+    {
+      "year": 2019,
+      "week": "11 ноября",
+      "song": "Credo",
+      "artist": "Zivert"
+    },
+    {
+      "year": 2019,
+      "week": "18 ноября",
+      "song": "Credo",
+      "artist": "Zivert"
+    },
+    {
+      "year": 2019,
+      "week": "25 ноября",
+      "song": "Credo",
+      "artist": "Zivert"
+    },
+    {
+      "year": 2019,
+      "week": "2 декабря",
+      "song": "Credo",
+      "artist": "Zivert"
+    },
+    {
+      "year": 2019,
+      "week": "9 декабря",
+      "song": "Credo",
+      "artist": "Zivert"
+    },
+    {
+      "year": 2019,
+      "week": "16 декабря",
+      "song": "Credo",
+      "artist": "Zivert"
+    },
+    {
+      "year": 2019,
+      "week": "23 декабря",
+      "song": "Credo",
+      "artist": "Zivert"
+    },
+    {
+      "year": 2019,
+      "week": "30 декабря",
+      "song": "Credo",
+      "artist": "Zivert"
+    },
+    {
+      "year": 2020,
+      "week": "3 января",
+      "song": "Credo",
+      "artist": "Zivert"
+    },
+    {
+      "year": 2020,
+      "week": "10 января",
+      "song": "Credo",
+      "artist": "Zivert"
+    },
+    {
+      "year": 2020,
+      "week": "17 января",
+      "song": "Credo",
+      "artist": "Zivert"
+    },
+    {
+      "year": 2020,
+      "week": "24 января",
+      "song": "Credo",
+      "artist": "Zivert"
+    },
+    {
+      "year": 2020,
+      "week": "31 января",
+      "song": "Лей, не жалей",
+      "artist": "Макс Барских"
+    },
+    {
+      "year": 2020,
+      "week": "7 февраля",
+      "song": "Лей, не жалей",
+      "artist": "Макс Барских"
+    },
+    {
+      "year": 2020,
+      "week": "14 февраля",
+      "song": "Лей, не жалей",
+      "artist": "Макс Барских"
+    },
+    {
+      "year": 2020,
+      "week": "21 февраля",
+      "song": "Лей, не жалей",
+      "artist": "Макс Барских"
+    },
+    {
+      "year": 2020,
+      "week": "28 февраля",
+      "song": "Лей, не жалей",
+      "artist": "Макс Барских"
+    },
+    {
+      "year": 2020,
+      "week": "6 марта",
+      "song": "Лей, не жалей",
+      "artist": "Макс Барских"
+    },
+    {
+      "year": 2020,
+      "week": "13 марта",
+      "song": "Лей, не жалей",
+      "artist": "Макс Барских"
+    },
+    {
+      "year": 2020,
+      "week": "20 марта",
+      "song": "Лей, не жалей",
+      "artist": "Макс Барских"
+    },
+    {
+      "year": 2020,
+      "week": "27 марта",
+      "song": "Лей, не жалей",
+      "artist": "Макс Барских"
+    },
+    {
+      "year": 2020,
+      "week": "3 апреля",
+      "song": "Лей, не жалей",
+      "artist": "Макс Барских"
+    },
+    {
+      "year": 2020,
+      "week": "17 апреля",
+      "song": "Лей, не жалей",
+      "artist": "Макс Барских"
+    },
+    {
+      "year": 2020,
+      "week": "24 апреля",
+      "song": "Лей, не жалей",
+      "artist": "Макс Барских"
+    },
+    {
+      "year": 2020,
+      "week": "1 мая",
+      "song": "Лей, не жалей",
+      "artist": "Макс Барских"
+    },
+    {
+      "year": 2020,
+      "week": "8 мая",
+      "song": "Лей, не жалей",
+      "artist": "Макс Барских"
+    },
+    {
+      "year": 2020,
+      "week": "15 мая",
+      "song": "Август",
+      "artist": "Intelligency"
+    },
+    {
+      "year": 2020,
+      "week": "22 мая",
+      "song": "Август",
+      "artist": "Intelligency"
+    },
+    {
+      "year": 2020,
+      "week": "29 мая",
+      "song": "Август",
+      "artist": "Intelligency"
+    },
+    {
+      "year": 2020,
+      "week": "5 июня",
+      "song": "Август",
+      "artist": "Intelligency"
+    },
+    {
+      "year": 2020,
+      "week": "12 июня",
+      "song": "ЯТЛ",
+      "artist": "Zivert"
+    },
+    {
+      "year": 2020,
+      "week": "19 июня",
+      "song": "ЯТЛ",
+      "artist": "Zivert"
+    },
+    {
+      "year": 2020,
+      "week": "26 июня",
+      "song": "ЯТЛ",
+      "artist": "Zivert"
+    },
+    {
+      "year": 2020,
+      "week": "3 июля",
+      "song": "Lovefool",
+      "artist": "Twocolors"
+    },
+    {
+      "year": 2020,
+      "week": "10 июля",
+      "song": "Lovefool",
+      "artist": "Twocolors"
+    },
+    {
+      "year": 2020,
+      "week": "17 июля",
+      "song": "Lovefool",
+      "artist": "Twocolors"
+    },
+    {
+      "year": 2020,
+      "week": "24 июля",
+      "song": "Lovefool",
+      "artist": "Twocolors"
+    },
+    {
+      "year": 2020,
+      "week": "31 июля",
+      "song": "Give It Away",
+      "artist": "Filatov & Karas & Deepest Blue"
+    },
+    {
+      "year": 2020,
+      "week": "7 августа",
+      "song": "Lovefool",
+      "artist": "Twocolors"
+    },
+    {
+      "year": 2020,
+      "week": "14 августа",
+      "song": "Lovefool",
+      "artist": "Twocolors"
+    },
+    {
+      "year": 2020,
+      "week": "21 августа",
+      "song": "Lovefool",
+      "artist": "Twocolors"
+    },
+    {
+      "year": 2020,
+      "week": "28 августа",
+      "song": "Lovefool",
+      "artist": "Twocolors"
+    },
+    {
+      "year": 2020,
+      "week": "4 сентября",
+      "song": "Natalie Don't",
+      "artist": "Raye"
+    },
+    {
+      "year": 2020,
+      "week": "11 сентября",
+      "song": "Юность",
+      "artist": "DaBro"
+    },
+    {
+      "year": 2020,
+      "week": "18 сентября",
+      "song": "Юность",
+      "artist": "DaBro"
+    },
+    {
+      "year": 2020,
+      "week": "25 сентября",
+      "song": "Юность",
+      "artist": "DaBro"
+    },
+    {
+      "year": 2020,
+      "week": "2 октября",
+      "song": "Юность",
+      "artist": "DaBro"
+    },
+    {
+      "year": 2020,
+      "week": "9 октября",
+      "song": "Юность",
+      "artist": "DaBro"
+    },
+    {
+      "year": 2020,
+      "week": "16 октября",
+      "song": "Юность",
+      "artist": "DaBro"
+    },
+    {
+      "year": 2020,
+      "week": "23 октября",
+      "song": "Юность",
+      "artist": "DaBro"
+    },
+    {
+      "year": 2020,
+      "week": "30 октября",
+      "song": "Юность",
+      "artist": "DaBro"
+    },
+    {
+      "year": 2020,
+      "week": "06 ноября",
+      "song": "Юность",
+      "artist": "DaBro"
+    },
+    {
+      "year": 2020,
+      "week": "13 ноября",
+      "song": "Юность",
+      "artist": "DaBro"
+    },
+    {
+      "year": 2020,
+      "week": "20 ноября",
+      "song": "Не наговаривай",
+      "artist": "RSAC & Ёлка"
+    },
+    {
+      "year": 2020,
+      "week": "27 ноября",
+      "song": "Многоточия",
+      "artist": "Zivert"
+    },
+    {
+      "year": 2020,
+      "week": "04 декабря",
+      "song": "Многоточия",
+      "artist": "Zivert"
+    },
+    {
+      "year": 2020,
+      "week": "11 декабря",
+      "song": "Многоточия",
+      "artist": "Zivert"
+    },
+    {
+      "year": 2020,
+      "week": "18 декабря",
+      "song": "Многоточия",
+      "artist": "Zivert"
+    },
+    {
+      "year": 2020,
+      "week": "25 декабря",
+      "song": "Многоточия",
+      "artist": "Zivert"
+    },
+    {
+      "year": 2021,
+      "week": "1 января",
+      "song": "Многоточия",
+      "artist": "Zivert"
+    },
+    {
+      "year": 2021,
+      "week": "8 января",
+      "song": "Многоточия",
+      "artist": "Zivert"
+    },
+    {
+      "year": 2021,
+      "week": "15 января",
+      "song": "Многоточия",
+      "artist": "Zivert"
+    },
+    {
+      "year": 2021,
+      "week": "22 января",
+      "song": "Многоточия",
+      "artist": "Zivert"
+    },
+    {
+      "year": 2021,
+      "week": "29 января",
+      "song": "Многоточия",
+      "artist": "Zivert"
+    },
+    {
+      "year": 2021,
+      "week": "5 февраля",
+      "song": "Многоточия",
+      "artist": "Zivert"
+    },
+    {
+      "year": 2021,
+      "week": "12 февраля",
+      "song": "Венера-Юпитер",
+      "artist": "Ваня Дмитриенко"
+    },
+    {
+      "year": 2021,
+      "week": "19 февраля",
+      "song": "Венера-Юпитер",
+      "artist": "Ваня Дмитриенко"
+    },
+    {
+      "year": 2021,
+      "week": "26 февраля",
+      "song": "Венера-Юпитер",
+      "artist": "Ваня Дмитриенко"
+    },
+    {
+      "year": 2021,
+      "week": "5 марта",
+      "song": "Венера-Юпитер",
+      "artist": "Ваня Дмитриенко"
+    },
+    {
+      "year": 2021,
+      "week": "12 марта",
+      "song": "Венера-Юпитер",
+      "artist": "Ваня Дмитриенко"
+    },
+    {
+      "year": 2021,
+      "week": "19 марта",
+      "song": "Венера-Юпитер",
+      "artist": "Ваня Дмитриенко"
+    },
+    {
+      "year": 2021,
+      "week": "26 марта",
+      "song": "Венера-Юпитер",
+      "artist": "Ваня Дмитриенко"
+    },
+    {
+      "year": 2021,
+      "week": "2 апреля",
+      "song": "Your Love (9PM)",
+      "artist": "ATB & Topic & A7S"
+    },
+    {
+      "year": 2021,
+      "week": "9 апреля",
+      "song": "Your Love (9PM)",
+      "artist": "ATB & Topic & A7S"
+    },
+    {
+      "year": 2021,
+      "week": "16 апреля",
+      "song": "Your Love (9PM)",
+      "artist": "ATB & Topic & A7S"
+    },
+    {
+      "year": 2021,
+      "week": "23 апреля",
+      "song": "Your Love (9PM)",
+      "artist": "ATB & Topic & A7S"
+    },
+    {
+      "year": 2021,
+      "week": "30 апреля",
+      "song": "La Di Die",
+      "artist": "Несса Барретт при участии Jxdn"
+    },
+    {
+      "year": 2021,
+      "week": "7 мая",
+      "song": "Astronaut in the Ocean",
+      "artist": "Masked Wolf"
+    },
+    {
+      "year": 2021,
+      "week": "14 мая",
+      "song": "Astronaut in the Ocean",
+      "artist": "Masked Wolf"
+    },
+    {
+      "year": 2021,
+      "week": "21 мая",
+      "song": "Goosebumps",
+      "artist": "HVME"
+    },
+    {
+      "year": 2021,
+      "week": "28 мая",
+      "song": "Your Love (9pm)",
+      "artist": "ATB & Topic & A7S"
+    },
+    {
+      "year": 2021,
+      "week": "4 июня",
+      "song": "Montero (Call Me By Your Name)",
+      "artist": "Lil Nas X"
+    },
+    {
+      "year": 2021,
+      "week": "11 июня",
+      "song": "Bed",
+      "artist": "Джоэл Корри & Raye & Давид Гетта"
+    },
+    {
+      "year": 2021,
+      "week": "28 июня",
+      "song": "Bed",
+      "artist": "Джоэл Корри & Raye & Давид Гетта"
+    },
+    {
+      "year": 2021,
+      "week": "25 июня",
+      "song": "Rampampam",
+      "artist": "Минелли"
+    },
+    {
+      "year": 2021,
+      "week": "2 июля",
+      "song": "Rampampam",
+      "artist": "Минелли"
+    },
+    {
+      "year": 2021,
+      "week": "9 июля",
+      "song": "Rampampam",
+      "artist": "Минелли"
+    },
+    {
+      "year": 2021,
+      "week": "16 июля",
+      "song": "Bad Habits",
+      "artist": "Эд Ширан"
+    },
+    {
+      "year": 2021,
+      "week": "23 июля",
+      "song": "Bad Habits",
+      "artist": "Эд Ширан"
+    },
+    {
+      "year": 2021,
+      "week": "30 июля",
+      "song": "Bad Habits",
+      "artist": "Эд Ширан"
+    },
+    {
+      "year": 2021,
+      "week": "6 августа",
+      "song": "Bad Habits",
+      "artist": "Эд Ширан"
+    },
+    {
+      "year": 2021,
+      "week": "13 августа",
+      "song": "Rampampam",
+      "artist": "Минелли"
+    },
+    {
+      "year": 2021,
+      "week": "20 августа",
+      "song": "Bad Habits",
+      "artist": "Эд Ширан"
+    },
+    {
+      "year": 2021,
+      "week": "27 августа",
+      "song": "Rampampam",
+      "artist": "Минелли"
+    },
+    {
+      "year": 2021,
+      "week": "3 сентября",
+      "song": "Rampampam",
+      "artist": "Минелли"
+    },
+    {
+      "year": 2021,
+      "week": "10 сентября",
+      "song": "Rampampam",
+      "artist": "Минелли"
+    },
+    {
+      "year": 2021,
+      "week": "17 сентября",
+      "song": "Rampampam",
+      "artist": "Минелли"
+    },
+    {
+      "year": 2021,
+      "week": "24 сентября",
+      "song": "Bad Habits",
+      "artist": "Эд Ширан"
+    },
+    {
+      "year": 2021,
+      "week": "1 Октябрь",
+      "song": "Bad Habits",
+      "artist": "Эд Ширан"
+    },
+    {
+      "year": 2021,
+      "week": "8 Октябрь",
+      "song": "Bad Habits",
+      "artist": "Эд Ширан"
+    },
+    {
+      "year": 2021,
+      "week": "15 Октябрь",
+      "song": "Bad Habits",
+      "artist": "Эд Ширан"
+    },
+    {
+      "year": 2021,
+      "week": "22 Октябрь",
+      "song": "Bad Habits",
+      "artist": "Эд Ширан"
+    },
+    {
+      "year": 2021,
+      "week": "29 Октябрь",
+      "song": "Bad Habits",
+      "artist": "Эд Ширан"
+    },
+    {
+      "year": 2021,
+      "week": "5 Ноябрь",
+      "song": "Bad Habits",
+      "artist": "Эд Ширан"
+    },
+    {
+      "year": 2021,
+      "week": "12 Ноябрь",
+      "song": "Bad Habits",
+      "artist": "Эд Ширан"
+    },
+    {
+      "year": 2021,
+      "week": "19 Ноябрь",
+      "song": "Bad Habits",
+      "artist": "Эд Ширан"
+    },
+    {
+      "year": 2021,
+      "week": "26 Ноябрь",
+      "song": "Bad Habits",
+      "artist": "Эд Ширан"
+    },
+    {
+      "year": 2021,
+      "week": "3 Декабрь",
+      "song": "Bad Habits",
+      "artist": "Эд Ширан"
+    },
+    {
+      "year": 2021,
+      "week": "10 Декабрь",
+      "song": "Bad Habits",
+      "artist": "Эд Ширан"
+    },
+    {
+      "year": 2021,
+      "week": "17 Декабрь",
+      "song": "Bad Habits",
+      "artist": "Эд Ширан"
+    },
+    {
+      "year": 2021,
+      "week": "24 Декабрь",
+      "song": "Ночь счастливых надежд",
+      "artist": "Лариса Долина, Николай Басков, Дима Билан, Юлианна Караулова и Хор Академии Игоря Крутого"
+    },
+    {
+      "year": 2021,
+      "week": "31 Декабрь",
+      "song": "Ночь счастливых надежд",
+      "artist": "Лариса Долина, Николай Басков, Дима Билан, Юлианна Караулова и Хор Академии Игоря Крутого"
+    },
+    {
+      "year": 2022,
+      "week": "7 Январь",
+      "song": "Ночь счастливых надежд",
+      "artist": "Лариса Долина, Николай Басков, Дима Билан, Юлианна Караулова и Хор Академии Игоря Крутого"
+    },
+    {
+      "year": 2022,
+      "week": "14 Январь",
+      "song": "Солнце Монако",
+      "artist": "Люся Чеботина"
+    },
+    {
+      "year": 2022,
+      "week": "21 Январь",
+      "song": "Солнце Монако",
+      "artist": "Люся Чеботина"
+    },
+    {
+      "year": 2022,
+      "week": "28 Январь",
+      "song": "Солнце Монако",
+      "artist": "Люся Чеботина"
+    },
+    {
+      "year": 2022,
+      "week": "4 Февраль",
+      "song": "Солнце Монако",
+      "artist": "Люся Чеботина"
+    },
+    {
+      "year": 2022,
+      "week": "11 Февраль",
+      "song": "Солнце Монако",
+      "artist": "Люся Чеботина"
+    },
+    {
+      "year": 2022,
+      "week": "18 Февраль",
+      "song": "Солнце Монако",
+      "artist": "Люся Чеботина"
+    },
+    {
+      "year": 2022,
+      "week": "25 Февраль",
+      "song": "Солнце Монако",
+      "artist": "Люся Чеботина"
+    },
+    {
+      "year": 2022,
+      "week": "4 Март",
+      "song": "Солнце Монако",
+      "artist": "Люся Чеботина"
+    },
+    {
+      "year": 2022,
+      "week": "11 Март",
+      "song": "Up",
+      "artist": "Инна"
+    },
+    {
+      "year": 2022,
+      "week": "18 Март",
+      "song": "Малиновая лада",
+      "artist": "Gayazovs Brothers"
+    },
+    {
+      "year": 2022,
+      "week": "25 Март",
+      "song": "Up",
+      "artist": "Инна"
+    },
+    {
+      "year": 2022,
+      "week": "1 Апрель",
+      "song": "Солнце Монако",
+      "artist": "Люся Чеботина"
+    },
+    {
+      "year": 2022,
+      "week": "8 Апрель",
+      "song": "Гармония",
+      "artist": "Artik & Asti"
+    },
+    {
+      "year": 2022,
+      "week": "15 Апрель",
+      "song": "Гармония",
+      "artist": "Artik & Asti"
+    },
+    {
+      "year": 2022,
+      "week": "22 Апрель",
+      "song": "Малиновая лада",
+      "artist": "Gayazovs Brothers"
+    },
+    {
+      "year": 2022,
+      "week": "29 Апрель",
+      "song": "Малиновая лада",
+      "artist": "Gayazovs Brothers"
+    },
+    {
+      "year": 2022,
+      "week": "6 Май",
+      "song": "Малиновая лада",
+      "artist": "Gayazovs Brothers"
+    },
+    {
+      "year": 2022,
+      "week": "13 Май",
+      "song": "Малиновая лада",
+      "artist": "Gayazovs Brothers"
+    },
+    {
+      "year": 2022,
+      "week": "20 Май",
+      "song": "Shot A Friend",
+      "artist": "Holy Molly"
+    },
+    {
+      "year": 2022,
+      "week": "27 Май",
+      "song": "Малиновая лада",
+      "artist": "Gayazovs Brothers"
+    },
+    {
+      "year": 2022,
+      "week": "3 Июнь",
+      "song": "Малиновая лада",
+      "artist": "Gayazovs Brothers"
+    },
+    {
+      "year": 2022,
+      "week": "10 Июнь",
+      "song": "Малиновая лада",
+      "artist": "Gayazovs Brothers"
+    },
+    {
+      "year": 2022,
+      "week": "17 Июнь",
+      "song": "Малиновая лада",
+      "artist": "Gayazovs Brothers"
+    },
+    {
+      "year": 2022,
+      "week": "24 Июнь",
+      "song": "Малиновая лада",
+      "artist": "Gayazovs Brothers"
+    },
+    {
+      "year": 2022,
+      "week": "1 Июль",
+      "song": "По барам",
+      "artist": "Анна Асти"
+    },
+    {
+      "year": 2022,
+      "week": "8 Июль",
+      "song": "По барам",
+      "artist": "Анна Асти"
+    },
+    {
+      "year": 2022,
+      "week": "15 Июль",
+      "song": "In the Dark",
+      "artist": "Purple Disco Machine & Sophie and the Giants"
+    },
+    {
+      "year": 2022,
+      "week": "22 Июль",
+      "song": "In the Dark",
+      "artist": "Purple Disco Machine & Sophie and the Giants"
+    },
+    {
+      "year": 2022,
+      "week": "29 Июль",
+      "song": "In the Dark",
+      "artist": "Purple Disco Machine & Sophie and the Giants"
+    },
+    {
+      "year": 2022,
+      "week": "5 Август",
+      "song": "In the Dark",
+      "artist": "Purple Disco Machine & Sophie and the Giants"
+    },
+    {
+      "year": 2022,
+      "week": "12 Август",
+      "song": "In the Dark",
+      "artist": "Purple Disco Machine & Sophie and the Giants"
+    },
+    {
+      "year": 2022,
+      "week": "19 Август",
+      "song": "In the Dark",
+      "artist": "Purple Disco Machine & Sophie and the Giants"
+    },
+    {
+      "year": 2022,
+      "week": "26 Август",
+      "song": "In the Dark",
+      "artist": "Purple Disco Machine & Sophie and the Giants"
+    },
+    {
+      "year": 2022,
+      "week": "2 Сентябрь",
+      "song": "In the Dark",
+      "artist": "Purple Disco Machine & Sophie and the Giants"
+    },
+    {
+      "year": 2022,
+      "week": "9 Сентябрь",
+      "song": "По барам",
+      "artist": "Анна Асти"
+    },
+    {
+      "year": 2022,
+      "week": "16 Сентябрь",
+      "song": "По барам",
+      "artist": "Анна Асти"
+    },
+    {
+      "year": 2022,
+      "week": "23 Сентябрь",
+      "song": "In the Dark",
+      "artist": "Purple Disco Machine & Sophie and the Giants"
+    },
+    {
+      "year": 2022,
+      "week": "30 Сентябрь",
+      "song": "In the Dark",
+      "artist": "Purple Disco Machine & Sophie and the Giants"
+    },
+    {
+      "year": 2022,
+      "week": "7 Октябрь",
+      "song": "In the Dark",
+      "artist": "Purple Disco Machine & Sophie and the Giants"
+    },
+    {
+      "year": 2022,
+      "week": "14 Октябрь",
+      "song": "In the Dark",
+      "artist": "Purple Disco Machine & Sophie and the Giants"
+    },
+    {
+      "year": 2022,
+      "week": "21 Октябрь",
+      "song": "In the Dark",
+      "artist": "Purple Disco Machine & Sophie and the Giants"
+    },
+    {
+      "year": 2022,
+      "week": "28 Октябрь",
+      "song": "In the Dark",
+      "artist": "Purple Disco Machine & Sophie and the Giants"
+    },
+    {
+      "year": 2022,
+      "week": "4 Ноябрь",
+      "song": "In the Dark",
+      "artist": "Purple Disco Machine & Sophie and the Giants"
+    },
+    {
+      "year": 2022,
+      "week": "11 Ноябрь",
+      "song": "In the Dark",
+      "artist": "Purple Disco Machine & Sophie and the Giants"
+    },
+    {
+      "year": 2022,
+      "week": "18 Ноябрь",
+      "song": "In the Dark",
+      "artist": "Purple Disco Machine & Sophie and the Giants"
+    },
+    {
+      "year": 2022,
+      "week": "25 Ноябрь",
+      "song": "In the Dark",
+      "artist": "Purple Disco Machine & Sophie and the Giants"
+    },
+    {
+      "year": 2022,
+      "week": "2 Декабрь",
+      "song": "In the Dark",
+      "artist": "Purple Disco Machine & Sophie and the Giants"
+    },
+    {
+      "year": 2022,
+      "week": "9 Декабрь",
+      "song": "Ночь счастливых надежд",
+      "artist": "Лариса Долина, Николай Басков, Дима Билан, Юлианна Караулова и Хор Академии Игоря Крутого"
+    },
+    {
+      "year": 2022,
+      "week": "16 Декабрь",
+      "song": "Ночь счастливых надежд",
+      "artist": "Лариса Долина, Николай Басков, Дима Билан, Юлианна Караулова и Хор Академии Игоря Крутого"
+    },
+    {
+      "year": 2022,
+      "week": "23 Декабрь",
+      "song": "Ночь счастливых надежд",
+      "artist": "Лариса Долина, Николай Басков, Дима Билан, Юлианна Караулова и Хор Академии Игоря Крутого"
+    },
+    {
+      "year": 2022,
+      "week": "30 Декабрь",
+      "song": "Ночь счастливых надежд",
+      "artist": "Лариса Долина, Николай Басков, Дима Билан, Юлианна Караулова и Хор Академии Игоря Крутого"
+    }
+  ],
+  "meta": {
+    "title": "Синглы № 1 в России по версии TopHit - Free Download",
+    "description": "Песни, занимавшие первое место еженедельного радиочарта TopHit в России, по годам и неделям, с исполнителями. Contains 469 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Синглы № 1 в России по версии TopHit | ListBase",
+    "seo_description": "Download Синглы № 1 в России по версии TopHit — 469 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 469 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Список_синглов_№_1_в_России_в_2022_году_(TopHit)"
+    ]
+  }
+}
