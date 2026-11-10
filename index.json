@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-10T02:13:28.836Z",
-  "total_datasets": 526,
-  "total_records": 221500,
+  "generated": "2026-11-10T02:36:33.349Z",
+  "total_datasets": 527,
+  "total_records": 223112,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "food",
@@ -1035,6 +1035,37 @@
         "xlsx": {
           "name": "ru-zapovedniki_RU.xlsx",
           "size": 12247
+        }
+      }
+    },
+    {
+      "id": "ru-banki-lishennye-licenzii",
+      "name": "Банки, лишённые лицензии Банком России",
+      "category": "finance",
+      "record_count": 1612,
+      "columns": [
+        "year",
+        "bank",
+        "founded",
+        "license_no",
+        "date",
+        "order",
+        "region",
+        "deposit_insurance",
+        "reason",
+        "note"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_банков,_лишённых_лицензии_в_2024_году_(Россия)",
+      "updated": "2026-11",
+      "size": 997503,
+      "files": {
+        "csv": {
+          "name": "ru-banki-lishennye-licenzii_RU.csv",
+          "size": 696449
+        },
+        "xlsx": {
+          "name": "ru-banki-lishennye-licenzii_RU.xlsx",
+          "size": 127864
         }
       }
     },
