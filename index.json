@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-10T02:13:20.203Z",
-  "total_datasets": 525,
-  "total_records": 221461,
+  "generated": "2026-11-10T02:13:28.836Z",
+  "total_datasets": 526,
+  "total_records": 221500,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "transport",
@@ -12770,6 +12770,33 @@
         "xlsx": {
           "name": "ru-istoricheskie-poseleniya_RU.xlsx",
           "size": 24518
+        }
+      }
+    },
+    {
+      "id": "ru-predvaritelnyy-spisok-unesco",
+      "name": "Предварительный список объектов всемирного наследия ЮНЕСКО в России",
+      "category": "tourism",
+      "record_count": 39,
+      "columns": [
+        "name",
+        "location",
+        "period",
+        "year_added_tentative",
+        "unesco_ref",
+        "criteria"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_объектов_всемирного_наследия_ЮНЕСКО_в_России",
+      "updated": "2026-11",
+      "size": 17882,
+      "files": {
+        "csv": {
+          "name": "ru-predvaritelnyy-spisok-unesco_RU.csv",
+          "size": 9972
+        },
+        "xlsx": {
+          "name": "ru-predvaritelnyy-spisok-unesco_RU.xlsx",
+          "size": 10528
         }
       }
     },
