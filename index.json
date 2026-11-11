@@ -1,12 +1,12 @@
 {
   "lang": "ru",
-  "generated": "2026-11-11T02:03:49.876Z",
-  "total_datasets": 530,
-  "total_records": 223707,
+  "generated": "2026-11-11T02:04:01.839Z",
+  "total_datasets": 531,
+  "total_records": 223749,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -156,6 +156,35 @@
         "xlsx": {
           "name": "ru-proizvodstvo-zhivotnovodstva_RU.xlsx",
           "size": 8780
+        }
+      }
+    },
+    {
+      "id": "ru-sorta-yabloni",
+      "name": "Сорта яблони домашней",
+      "category": "agriculture",
+      "record_count": 42,
+      "columns": [
+        "variety",
+        "year",
+        "state_register_code",
+        "authors",
+        "zoned_region",
+        "fruit",
+        "tree",
+        "resistance"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Сорта_яблони_домашней",
+      "updated": "2026-11",
+      "size": 29417,
+      "files": {
+        "csv": {
+          "name": "ru-sorta-yabloni_RU.csv",
+          "size": 20235
+        },
+        "xlsx": {
+          "name": "ru-sorta-yabloni_RU.xlsx",
+          "size": 12441
         }
       }
     },
