@@ -1,0 +1,835 @@
+{
+  "id": "ru-regionalnye-telekanaly",
+  "name": "Региональные телеканалы России",
+  "title": "Региональные телеканалы России",
+  "description": "Региональные телеканалы субъектов Российской Федерации по федеральным округам: домашний регион, дата основания, сайт, сетевой партнёр и свидетельство о регистрации.",
+  "category": "entertainment",
+  "source": "https://ru.wikipedia.org/wiki/Список_российских_телеканалов",
+  "source_url": "https://ru.wikipedia.org/wiki/Список_российских_телеканалов",
+  "updated": "2026-11",
+  "record_count": 86,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "founded",
+      "label": "Founded",
+      "type": "string"
+    },
+    {
+      "key": "website",
+      "label": "Website",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    },
+    {
+      "key": "network_partner",
+      "label": "Network Partner",
+      "type": "string"
+    },
+    {
+      "key": "registration",
+      "label": "Registration",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Мир Белогорья",
+      "region": "Белгородская область",
+      "founded": "19.05.2005",
+      "website": "mirbelogorya.ru",
+      "federal_district": "Центральный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 72640 от 23.04.2018"
+    },
+    {
+      "name": "Брянская губерния",
+      "region": "Брянская область",
+      "founded": "05.02.2009",
+      "website": "guberniya.tv",
+      "federal_district": "Центральный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 65679 от 13.05.2016"
+    },
+    {
+      "name": "Губерния 33",
+      "region": "Владимирская область",
+      "founded": "01.04.2016",
+      "website": "trc33.ru",
+      "federal_district": "Центральный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "33 — 00529 от 19.06.2019"
+    },
+    {
+      "name": "TV Губерния",
+      "region": "Воронежская область",
+      "founded": "16.10.2002",
+      "website": "tv-gubernia.ru",
+      "federal_district": "Центральный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 61345 от 07.04.2015"
+    },
+    {
+      "name": "Барс",
+      "region": "Ивановская область",
+      "founded": "01.05.1994",
+      "website": "ivanovonews.ru",
+      "federal_district": "Центральный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "37 — 00387 от 23.10.2019"
+    },
+    {
+      "name": "Ника ТВ",
+      "region": "Калужская область",
+      "founded": "20.02.1991",
+      "website": "nikatv.ru",
+      "federal_district": "Центральный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 75210 от 07.03.2019"
+    },
+    {
+      "name": "Русь",
+      "region": "Костромская область",
+      "founded": "29.04.1997",
+      "website": "rus-kostroma.ru",
+      "federal_district": "Центральный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "44 — 00160 от 29.02.2012"
+    },
+    {
+      "name": "Сейм",
+      "region": "Курская область",
+      "founded": "01.03.1998",
+      "website": "seyminfo.ru",
+      "federal_district": "Центральный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "46 — 00282 от 01.07.2021"
+    },
+    {
+      "name": "Липецкое время 24",
+      "region": "Липецкая область",
+      "founded": "23.02.2004",
+      "website": "lipetsktime.ru",
+      "federal_district": "Центральный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 75869 от 24.05.2019"
+    },
+    {
+      "name": "Москва 24",
+      "region": "Москва",
+      "founded": "05.09.2011",
+      "website": "m24.ru",
+      "federal_district": "Центральный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 73070 от 09.06.2018"
+    },
+    {
+      "name": "360°",
+      "region": "Московская область",
+      "founded": "19.05.2014",
+      "website": "360tv.ru",
+      "federal_district": "Центральный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 72945 от 25.05.2018"
+    },
+    {
+      "name": "Первый областной",
+      "region": "Орловская область",
+      "founded": "01.10.2011",
+      "website": "obl1.ru",
+      "federal_district": "Центральный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "57 — 00285 от 11.06.2015"
+    },
+    {
+      "name": "ТКР",
+      "region": "Рязанская область",
+      "founded": "11.09.1999",
+      "website": "tkr.su",
+      "federal_district": "Центральный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "62 — 00263 от 18.04.2016"
+    },
+    {
+      "name": "Регион 67",
+      "region": "Смоленская область",
+      "founded": "27.10.2017",
+      "website": "region-67.ru",
+      "federal_district": "Центральный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "67 — 00330 от 05.03.2020"
+    },
+    {
+      "name": "Новый век",
+      "region": "Тамбовская область",
+      "founded": "09.05.2003",
+      "website": "tvtambov.ru",
+      "federal_district": "Центральный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "68 — 00295 от 18.04.2018"
+    },
+    {
+      "name": "Тверской проспект — Регион",
+      "region": "Тверская область",
+      "founded": "14.05.2012",
+      "website": "tp.tver.ru",
+      "federal_district": "Центральный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "69 — 00245 от 05.03.2012"
+    },
+    {
+      "name": "Первый Тульский",
+      "region": "Тульская область",
+      "founded": "04.02.2013",
+      "website": "1tulatv.ru",
+      "federal_district": "Центральный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "71 — 00467 от 27.09.2017"
+    },
+    {
+      "name": "Первый Ярославский",
+      "region": "Ярославская область",
+      "founded": "16.10.2013",
+      "website": "1yar.tv",
+      "federal_district": "Центральный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 63536 от 30.10.2015"
+    },
+    {
+      "name": "Область 45",
+      "region": "Курганская область",
+      "founded": "21.11.2016",
+      "website": "oblast45.ru",
+      "federal_district": "Уральский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "45 — 00252 от 29.12.2016"
+    },
+    {
+      "name": "ОТВ",
+      "region": "Свердловская область",
+      "founded": "31.12.1997",
+      "website": "obltv.ru",
+      "federal_district": "Уральский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 77807 от 31.01.2020"
+    },
+    {
+      "name": "Тюменское время",
+      "region": "Тюменская область",
+      "founded": "01.02.2011",
+      "website": "tyumen-time.ru",
+      "federal_district": "Уральский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 81571 от 06.08.2021"
+    },
+    {
+      "name": "Югра",
+      "region": "Ханты-Мансийский автономный округ — Югра",
+      "founded": "25.12.1998",
+      "website": "ugra-tv.ru",
+      "federal_district": "Уральский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 48629 от 20.02.2012"
+    },
+    {
+      "name": "ОТВ (Челябинск)",
+      "region": "Челябинская область",
+      "founded": "06.11.2003",
+      "website": "1obl.ru",
+      "federal_district": "Уральский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 73238 от 13.07.2018"
+    },
+    {
+      "name": "Ямал",
+      "region": "Ямало-Ненецкий автономный округ",
+      "founded": "03.06.1998",
+      "website": "yamal-media.ru",
+      "federal_district": "Уральский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 72816 от 17.05.2018"
+    },
+    {
+      "name": "Амурское областное телевидение",
+      "region": "Амурская область",
+      "founded": "23.11.2009",
+      "website": "amurobl.tv",
+      "federal_district": "Дальневосточный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "28 — 00280 от 29.11.2013"
+    },
+    {
+      "name": "Забайкалье",
+      "region": "Забайкальский край",
+      "founded": "03.02.2020",
+      "website": "zrtk.ru",
+      "federal_district": "Дальневосточный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "75 — 00275 от 03.02.2020"
+    },
+    {
+      "name": "НТК",
+      "region": "Еврейская автономная область",
+      "founded": "10.10.2008",
+      "website": "riabir.ru",
+      "federal_district": "Дальневосточный федеральный округ",
+      "network_partner": "Известия",
+      "registration": "27 — 00290 от 26.04.2012"
+    },
+    {
+      "name": "ТВ-Колыма-Плюс",
+      "region": "Магаданская область",
+      "founded": "16.02.2003",
+      "website": "kolymaplus.ru",
+      "federal_district": "Дальневосточный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 81085 от 02.06.2021"
+    },
+    {
+      "name": "ОТВ-Приморье",
+      "region": "Приморский край",
+      "founded": "29.06.1998",
+      "website": "otvprim.tv",
+      "federal_district": "Дальневосточный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 54361 от 29.05.2013"
+    },
+    {
+      "name": "Альтернативное Телевидение Бурятии",
+      "region": "Бурятия",
+      "founded": "01.04.2013",
+      "website": "tvatv.ru",
+      "federal_district": "Дальневосточный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 59223 от 04.09.2014"
+    },
+    {
+      "name": "Якутия 24",
+      "region": "Якутия",
+      "founded": "01.02.2018",
+      "website": "yk24.ru",
+      "federal_district": "Дальневосточный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "14 — 00506 от 27.02.2018"
+    },
+    {
+      "name": "ОТВ",
+      "region": "Сахалинская область",
+      "founded": "01.04.2007",
+      "website": "skr.su",
+      "federal_district": "Дальневосточный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 77825 от 10.02.2020"
+    },
+    {
+      "name": "Губерния",
+      "region": "Хабаровский край",
+      "founded": "30.11.1998",
+      "website": "gubernia.com",
+      "federal_district": "Дальневосточный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 72882 от 22.05.2018"
+    },
+    {
+      "name": "Майкопское Телевидение",
+      "region": "Адыгея",
+      "founded": "11.05.1999",
+      "website": "24mtv.ru",
+      "federal_district": "Южный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "23 — 01637 от 20.03.2017"
+    },
+    {
+      "name": "Астрахань 24",
+      "region": "Астраханская область",
+      "founded": "01.03.2014",
+      "website": "a24.press",
+      "federal_district": "Южный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 54944 от 08.08.2013"
+    },
+    {
+      "name": "Волгоград 24",
+      "region": "Волгоградская область",
+      "founded": "07.09.2015",
+      "website": "volgograd-trv.ru",
+      "federal_district": "Южный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 61761 от 07.05.2015"
+    },
+    {
+      "name": "НТК — Национальное Телевидение Калмыкии",
+      "region": "Калмыкия",
+      "founded": "30.12.2016",
+      "website": "kalmtv.ru",
+      "federal_district": "Южный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 77890 от 19.02.2020"
+    },
+    {
+      "name": "Кубань 24",
+      "region": "Краснодарский край",
+      "founded": "01.12.1999",
+      "website": "kuban24.tv",
+      "federal_district": "Южный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 58836 от 28.07.2014"
+    },
+    {
+      "name": "Крым 24",
+      "region": "Республика Крым (Россия / Украина)",
+      "founded": "01.12.2015",
+      "website": "crimea24tv.ru",
+      "federal_district": "Южный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 59764 от 30.10.2014"
+    },
+    {
+      "name": "Дон 24",
+      "region": "Ростовская область",
+      "founded": "15.01.2010",
+      "website": "don24.tv",
+      "federal_district": "Южный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "61 — 01198 от 30.12.2015"
+    },
+    {
+      "name": "Севастопольское телевидение",
+      "region": "Севастополь (Россия / Украина)",
+      "founded": "06.07.1991",
+      "website": "stv92.ru",
+      "federal_district": "Южный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 70821 от 07.09.2017"
+    },
+    {
+      "name": "Регион 29",
+      "region": "Архангельская область",
+      "founded": "08.09.2017",
+      "website": "region29.ru",
+      "federal_district": "Северо-Западный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "29 — 00632 от 09.04.2018"
+    },
+    {
+      "name": "Русский Север",
+      "region": "Вологодская область",
+      "founded": "30.12.1990",
+      "website": "rusevertv.ru",
+      "federal_district": "Северо-Западный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "35 — 00258 от 14.11.2017"
+    },
+    {
+      "name": "Каскад",
+      "region": "Калининградская область",
+      "founded": "12.04.1992",
+      "website": "kaskad.tv",
+      "federal_district": "Северо-Западный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "39 — 00183 от 17.08.2012"
+    },
+    {
+      "name": "Лен ТВ 24",
+      "region": "Ленинградская область",
+      "founded": "26.08.2019",
+      "website": "lentv24.ru",
+      "federal_district": "Северо-Западный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 58004 от 08.05.2014"
+    },
+    {
+      "name": "ТВ-21+",
+      "region": "Мурманская область",
+      "founded": "01.08.2016",
+      "website": "www.tv21.ru",
+      "federal_district": "Северо-Западный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "51 — 00186 от 27.06.2012"
+    },
+    {
+      "name": "Север",
+      "region": "Ненецкий автономный округ",
+      "founded": "10.12.2014",
+      "website": "trksever.ru",
+      "federal_district": "Северо-Западный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 49177 от 30.03.2012"
+    },
+    {
+      "name": "Новгородское областное телевидение",
+      "region": "Новгородская область",
+      "founded": "12.04.2004",
+      "website": "novgorod-tv.ru",
+      "federal_district": "Северо-Западный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "53 — 00257 от 11.11.2015"
+    },
+    {
+      "name": "Первый псковский",
+      "region": "Псковская область",
+      "founded": "10.11.2017",
+      "website": "1pskov.tv",
+      "federal_district": "Северо-Западный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "78 — 02245 от 04.05.2022"
+    },
+    {
+      "name": "САМПО ТВ 360°",
+      "region": "Карелия",
+      "founded": "07.02.2018",
+      "website": "sampotv360.ru",
+      "federal_district": "Северо-Западный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "10 — 00377 от 28.12.2017"
+    },
+    {
+      "name": "Юрган",
+      "region": "Республика Коми",
+      "founded": "05.11.2001",
+      "website": "юрган.рф",
+      "federal_district": "Северо-Западный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "11 — 0155 от 29.06.2012"
+    },
+    {
+      "name": "Санкт-Петербург",
+      "region": "Санкт-Петербург",
+      "founded": "10.10.2010",
+      "website": "tvspb.ru",
+      "federal_district": "Северо-Западный федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 49387 от 17.04.2012"
+    },
+    {
+      "name": "Девятка ТВ",
+      "region": "Кировская область",
+      "founded": "01.01.2014",
+      "website": "tv.devyatka.ru",
+      "federal_district": "Приволжский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "43 — 00670 от 19.12.2017"
+    },
+    {
+      "name": "Волга",
+      "region": "Нижегородская область",
+      "founded": "29.12.1992",
+      "website": "volga-tv.ru",
+      "federal_district": "Приволжский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 72245 от 24.01.2018"
+    },
+    {
+      "name": "ОРТ-Планета",
+      "region": "Оренбургская область",
+      "founded": "16.10.2012",
+      "website": "ort-tv.ru",
+      "federal_district": "Приволжский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "56 — 00605 от 28.05.2015"
+    },
+    {
+      "name": "Экспресс",
+      "region": "Пензенская область",
+      "founded": "02.02.1994",
+      "website": "tv-express.ru",
+      "federal_district": "Приволжский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "56 — 00751 от 09.11.2020"
+    },
+    {
+      "name": "VETTA 24",
+      "region": "Пермский край",
+      "founded": "01.11.2016",
+      "website": "vetta.tv",
+      "federal_district": "Приволжский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 77861 от 19.02.2020"
+    },
+    {
+      "name": "БСТ",
+      "region": "Башкортостан",
+      "founded": "26.08.2002",
+      "website": "bash.news/bst",
+      "federal_district": "Приволжский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 63343 от 16.10.2015"
+    },
+    {
+      "name": "МЭТР",
+      "region": "Марий Эл",
+      "founded": "25.02.1997",
+      "website": "metr12.ru",
+      "federal_district": "Приволжский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "12 — 00230 от 12.09.2017"
+    },
+    {
+      "name": "Народное телевидение Мордовии (НТМ)",
+      "region": "Мордовия",
+      "founded": "01.03.2017",
+      "website": "ntm13.ru",
+      "federal_district": "Приволжский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "52 — 01352 от 19.10.2022"
+    },
+    {
+      "name": "ТНВ",
+      "region": "Татарстан",
+      "founded": "26.08.2002",
+      "website": "tnv.ru",
+      "federal_district": "Приволжский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 79341 от 02.11.2020"
+    },
+    {
+      "name": "Самара 450",
+      "region": "Самарская область",
+      "founded": "05.10.2009",
+      "website": "sovainfo.ru",
+      "federal_district": "Приволжский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "63 — 00981 от 08.07.2020"
+    },
+    {
+      "name": "Саратов 24",
+      "region": "Саратовская область",
+      "founded": "14.11.2014",
+      "website": "saratov24.tv",
+      "federal_district": "Приволжский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 65990 от 06.06.2016"
+    },
+    {
+      "name": "Моя Удмуртия",
+      "region": "Удмуртия",
+      "founded": "01.10.2002",
+      "website": "myudm.ru",
+      "federal_district": "Приволжский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 50462 от 04.07.2012"
+    },
+    {
+      "name": "Репортёр-73",
+      "region": "Ульяновская область",
+      "founded": "15.08.2007",
+      "website": "reporter73.tv",
+      "federal_district": "Приволжский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "73 — 00445 от 23.08.2016"
+    },
+    {
+      "name": "Чаваш Ен",
+      "region": "Чувашия",
+      "founded": "11.10.2011",
+      "website": "ntrk21.ru",
+      "federal_district": "Приволжский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 75667 от 26.04.2019"
+    },
+    {
+      "name": "Катунь 24",
+      "region": "Алтайский край",
+      "founded": "01.05.2009",
+      "website": "katun24.ru",
+      "federal_district": "Сибирский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 78609 от 08.07.2020"
+    },
+    {
+      "name": "АИСТ",
+      "region": "Иркутская область",
+      "founded": "08.08.1990",
+      "website": "aisttv.ru",
+      "federal_district": "Сибирский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 77591 от 10.02.2020"
+    },
+    {
+      "name": "Кузбасс Первый",
+      "region": "Кемеровская область",
+      "founded": "29.11.2019",
+      "website": "kuzbass1.ru",
+      "federal_district": "Сибирский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "42 — 00931 от 05.06.2018"
+    },
+    {
+      "name": "Енисей",
+      "region": "Красноярский край",
+      "founded": "04.03.2006",
+      "website": "www.enisey.tv",
+      "federal_district": "Сибирский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 75471 от 05.04.2019"
+    },
+    {
+      "name": "ОТС",
+      "region": "Новосибирская область",
+      "founded": "09.07.1998",
+      "website": "otstv.ru",
+      "federal_district": "Сибирский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 76506 от 02.06.2015"
+    },
+    {
+      "name": "12 канал",
+      "region": "Омская область",
+      "founded": "14.09.1998",
+      "website": "12-kanal.ru",
+      "federal_district": "Сибирский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 71373 от 17.10.2017"
+    },
+    {
+      "name": "Тува 24",
+      "region": "Тыва",
+      "founded": "02.06.2013",
+      "website": "tyva24.ru",
+      "federal_district": "Сибирский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "24 — 01120 от 29.04.2019"
+    },
+    {
+      "name": "РТС",
+      "region": "Хакасия",
+      "founded": "01.11.2011",
+      "website": "tvrts.ru",
+      "federal_district": "Сибирский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 72401 от 28.02.2018"
+    },
+    {
+      "name": "Томское время",
+      "region": "Томская область",
+      "founded": "19.01.2015",
+      "website": "tomsk-time.ru",
+      "federal_district": "Сибирский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 67899 от 06.12.2016"
+    },
+    {
+      "name": "1 КБР",
+      "region": "Кабардино-Балкария",
+      "founded": "29.11.2004",
+      "website": "1kbrtv.ru",
+      "federal_district": "Северо-Кавказский федеральный округ",
+      "network_partner": "Мир 24",
+      "registration": "07 — 00119 от 16.05.2017"
+    },
+    {
+      "name": "Архыз 24",
+      "region": "Карачаево-Черкесия",
+      "founded": "12.04.2014",
+      "website": "arkhyz24.ru",
+      "federal_district": "Северо-Кавказский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 79468 от 27.01.2017"
+    },
+    {
+      "name": "РГВК «Дагестан»",
+      "region": "Дагестан",
+      "founded": "05.12.2003",
+      "website": "rgvktv.ru",
+      "federal_district": "Северо-Кавказский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 78174 от 20.03.2020"
+    },
+    {
+      "name": "НТРК «Магас»",
+      "region": "Ингушетия",
+      "founded": "27.08.2013",
+      "website": "magas.tv",
+      "federal_district": "Северо-Кавказский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 59781 от 07.11.2014"
+    },
+    {
+      "name": "Осетия-Ирыстон",
+      "region": "Северная Осетия",
+      "founded": "01.12.2017",
+      "website": "iryston.tv",
+      "federal_district": "Северо-Кавказский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 79299 от 09.10.2020"
+    },
+    {
+      "name": "Своё ТВ",
+      "region": "Ставропольский край",
+      "founded": "2004",
+      "website": "stv24.tv",
+      "federal_district": "Северо-Кавказский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 73170 от 02.07.2018"
+    },
+    {
+      "name": "ЧГТРК «Грозный»",
+      "region": "Чечня",
+      "founded": "23.03.2003",
+      "website": "grozny.tv",
+      "federal_district": "Северо-Кавказский федеральный округ",
+      "network_partner": "собственное вещание",
+      "registration": "77 — 64056 от 18.12.2015"
+    },
+    {
+      "name": "Первый Республиканский",
+      "region": "ДНР",
+      "founded": "04.05.2014",
+      "website": "republic-tv.ru",
+      "federal_district": "Федеральный округ не образован",
+      "network_partner": "собственное вещание",
+      "registration": "23 — 02033 от 06.07.2023"
+    },
+    {
+      "name": "За! ТВ",
+      "region": "Запорожская область",
+      "founded": "01.08.2022",
+      "website": "za-media.ru",
+      "federal_district": "Федеральный округ не образован",
+      "network_partner": "собственное вещание",
+      "registration": ""
+    },
+    {
+      "name": "Луганск 24",
+      "region": "ЛНР",
+      "founded": "05.07.2014",
+      "website": "gtrklnr.ru",
+      "federal_district": "Федеральный округ не образован",
+      "network_partner": "собственное вещание",
+      "registration": "77 ― 85418 от 30.05.2023"
+    },
+    {
+      "name": "Таврия",
+      "region": "Херсонская область",
+      "founded": "15.08.2022",
+      "website": "tavria.tv",
+      "federal_district": "Федеральный округ не образован",
+      "network_partner": "собственное вещание",
+      "registration": ""
+    }
+  ],
+  "meta": {
+    "title": "Региональные телеканалы России - Free Download",
+    "description": "Региональные телеканалы субъектов Российской Федерации по федеральным округам: домашний регион, дата основания, сайт, сетевой партнёр и свидетельство о регистрации. Contains 86 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Региональные телеканалы России | ListBase",
+    "seo_description": "Download Региональные телеканалы России — 86 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 86 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Список_российских_телеканалов"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-11T02:03:39.233Z",
-  "total_datasets": 529,
-  "total_records": 223621,
+  "generated": "2026-11-11T02:03:49.876Z",
+  "total_datasets": 530,
+  "total_records": 223707,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "environment",
@@ -835,6 +835,34 @@
         "xlsx": {
           "name": "ru-lidery-sovetskogo-kinoprokata_RU.xlsx",
           "size": 9352
+        }
+      }
+    },
+    {
+      "id": "ru-regionalnye-telekanaly",
+      "name": "Региональные телеканалы России",
+      "category": "entertainment",
+      "record_count": 86,
+      "columns": [
+        "name",
+        "region",
+        "founded",
+        "website",
+        "federal_district",
+        "network_partner",
+        "registration"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_российских_телеканалов",
+      "updated": "2026-11",
+      "size": 34298,
+      "files": {
+        "csv": {
+          "name": "ru-regionalnye-telekanaly_RU.csv",
+          "size": 18521
+        },
+        "xlsx": {
+          "name": "ru-regionalnye-telekanaly_RU.xlsx",
+          "size": 13032
         }
       }
     },
