@@ -1,0 +1,891 @@
+{
+  "id": "ru-zolotoy-oryol-luchshiy-film",
+  "name": "Премия «Золотой орёл» за лучший игровой фильм",
+  "title": "Премия «Золотой орёл» за лучший игровой фильм",
+  "description": "Победители и номинанты национальной кинопремии «Золотой орёл» в категории «Лучший игровой фильм» по годам, с режиссёрами.",
+  "category": "entertainment",
+  "source": "https://ru.wikipedia.org/wiki/Премия_«Золотой_орёл»_за_лучший_игровой_фильм",
+  "source_url": "https://ru.wikipedia.org/wiki/Премия_«Золотой_орёл»_за_лучший_игровой_фильм",
+  "updated": "2026-11",
+  "record_count": 120,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "ceremony",
+      "label": "Ceremony",
+      "type": "string"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    },
+    {
+      "key": "director",
+      "label": "Director",
+      "type": "string"
+    },
+    {
+      "key": "winner",
+      "label": "Winner",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2003,
+      "ceremony": "1-я",
+      "film": "Кукушка",
+      "director": "Александр Рогожкин",
+      "winner": "да"
+    },
+    {
+      "year": 2003,
+      "ceremony": "1-я",
+      "film": "Война",
+      "director": "Алексей Балабанов",
+      "winner": "нет"
+    },
+    {
+      "year": 2003,
+      "ceremony": "1-я",
+      "film": "Дом дураков",
+      "director": "Андрей Кончаловский",
+      "winner": "нет"
+    },
+    {
+      "year": 2003,
+      "ceremony": "1-я",
+      "film": "Звезда",
+      "director": "Николай Лебедев",
+      "winner": "нет"
+    },
+    {
+      "year": 2003,
+      "ceremony": "1-я",
+      "film": "Письма к Эльзе",
+      "director": "Игорь Масленников",
+      "winner": "нет"
+    },
+    {
+      "year": 2004,
+      "ceremony": "2-я",
+      "film": "Возвращение",
+      "director": "Андрей Звягинцев",
+      "winner": "да"
+    },
+    {
+      "year": 2004,
+      "ceremony": "2-я",
+      "film": "Коктебель",
+      "director": "Алексей Попогребский и Борис Хлебников",
+      "winner": "нет"
+    },
+    {
+      "year": 2004,
+      "ceremony": "2-я",
+      "film": "Магнитные бури",
+      "director": "Вадим Абдрашитов",
+      "winner": "нет"
+    },
+    {
+      "year": 2004,
+      "ceremony": "2-я",
+      "film": "Прогулка",
+      "director": "Алексей Учитель",
+      "winner": "нет"
+    },
+    {
+      "year": 2004,
+      "ceremony": "2-я",
+      "film": "Бедный, бедный Павел",
+      "director": "Виталий Мельников",
+      "winner": "нет"
+    },
+    {
+      "year": 2005,
+      "ceremony": "3-я",
+      "film": "72 метра",
+      "director": "Владимир Хотиненко",
+      "winner": "да"
+    },
+    {
+      "year": 2005,
+      "ceremony": "3-я",
+      "film": "Папа",
+      "director": "Владимир Машков",
+      "winner": "нет"
+    },
+    {
+      "year": 2005,
+      "ceremony": "3-я",
+      "film": "Свои",
+      "director": "Дмитрий Месхиев",
+      "winner": "нет"
+    },
+    {
+      "year": 2005,
+      "ceremony": "3-я",
+      "film": "Водитель для Веры",
+      "director": "Павел Чухрай",
+      "winner": "нет"
+    },
+    {
+      "year": 2005,
+      "ceremony": "3-я",
+      "film": "Мой сводный брат Франкенштейн",
+      "director": "Валерий Тодоровский",
+      "winner": "нет"
+    },
+    {
+      "year": 2006,
+      "ceremony": "4-я",
+      "film": "9 рота",
+      "director": "Фёдор Бондарчук",
+      "winner": "да"
+    },
+    {
+      "year": 2006,
+      "ceremony": "4-я",
+      "film": "Турецкий Гамбит",
+      "director": "Джаник Файзиев",
+      "winner": "нет"
+    },
+    {
+      "year": 2006,
+      "ceremony": "4-я",
+      "film": "Итальянец",
+      "director": "Андрей Кравчук",
+      "winner": "нет"
+    },
+    {
+      "year": 2006,
+      "ceremony": "4-я",
+      "film": "Статский советник",
+      "director": "Филипп Янковский",
+      "winner": "нет"
+    },
+    {
+      "year": 2006,
+      "ceremony": "4-я",
+      "film": "Космос как предчувствие",
+      "director": "Алексей Учитель",
+      "winner": "нет"
+    },
+    {
+      "year": 2007,
+      "ceremony": "5-я",
+      "film": "Остров",
+      "director": "Павел Лунгин",
+      "winner": "да"
+    },
+    {
+      "year": 2007,
+      "ceremony": "5-я",
+      "film": "Живой",
+      "director": "Александр Веленский",
+      "winner": "нет"
+    },
+    {
+      "year": 2007,
+      "ceremony": "5-я",
+      "film": "Дневной дозор",
+      "director": "Тимур Бекмамбетов",
+      "winner": "нет"
+    },
+    {
+      "year": 2007,
+      "ceremony": "5-я",
+      "film": "Изображая жертву",
+      "director": "Кирилл Серебренников",
+      "winner": "нет"
+    },
+    {
+      "year": 2007,
+      "ceremony": "5-я",
+      "film": "Мне не больно",
+      "director": "Алексей Балабанов",
+      "winner": "нет"
+    },
+    {
+      "year": 2008,
+      "ceremony": "6-я",
+      "film": "12",
+      "director": "Никита Михалков",
+      "winner": "да"
+    },
+    {
+      "year": 2008,
+      "ceremony": "6-я",
+      "film": "Монгол",
+      "director": "Сергей Бодров-старший",
+      "winner": "нет"
+    },
+    {
+      "year": 2008,
+      "ceremony": "6-я",
+      "film": "Артистка",
+      "director": "Станислав Говорухин",
+      "winner": "нет"
+    },
+    {
+      "year": 2008,
+      "ceremony": "6-я",
+      "film": "Простые вещи",
+      "director": "Алексей Попогребский",
+      "winner": "нет"
+    },
+    {
+      "year": 2008,
+      "ceremony": "6-я",
+      "film": "Путешествие с домашними животными",
+      "director": "Вера Сторожева",
+      "winner": "нет"
+    },
+    {
+      "year": 2009,
+      "ceremony": "7-я",
+      "film": "Дикое поле",
+      "director": "Михаил Калатозишвили",
+      "winner": "да"
+    },
+    {
+      "year": 2009,
+      "ceremony": "7-я",
+      "film": "Адмиралъ",
+      "director": "Андрей Кравчук",
+      "winner": "нет"
+    },
+    {
+      "year": 2009,
+      "ceremony": "7-я",
+      "film": "Все умрут, а я останусь",
+      "director": "Валерия Гай Германика",
+      "winner": "нет"
+    },
+    {
+      "year": 2009,
+      "ceremony": "7-я",
+      "film": "Исчезнувшая империя",
+      "director": "Карен Шахназаров",
+      "winner": "нет"
+    },
+    {
+      "year": 2009,
+      "ceremony": "7-я",
+      "film": "Бумажный солдат",
+      "director": "Алексей Герман-младший",
+      "winner": "нет"
+    },
+    {
+      "year": 2010,
+      "ceremony": "8-я",
+      "film": "Стиляги",
+      "director": "Валерий Тодоровский",
+      "winner": "да"
+    },
+    {
+      "year": 2010,
+      "ceremony": "8-я",
+      "film": "Анна Каренина",
+      "director": "Сергей Соловьёв",
+      "winner": "нет"
+    },
+    {
+      "year": 2010,
+      "ceremony": "8-я",
+      "film": "Царь",
+      "director": "Павел Лунгин",
+      "winner": "нет"
+    },
+    {
+      "year": 2010,
+      "ceremony": "8-я",
+      "film": "Палата № 6",
+      "director": "Карен Шахназаров",
+      "winner": "нет"
+    },
+    {
+      "year": 2010,
+      "ceremony": "8-я",
+      "film": "Петя по дороге в Царствие Небесное",
+      "director": "Николай Досталь",
+      "winner": "нет"
+    },
+    {
+      "year": 2011,
+      "ceremony": "9-я",
+      "film": "Как я провёл этим летом",
+      "director": "Алексей Попогребский",
+      "winner": "да"
+    },
+    {
+      "year": 2011,
+      "ceremony": "9-я",
+      "film": "Брестская крепость",
+      "director": "Александр Котт",
+      "winner": "нет"
+    },
+    {
+      "year": 2011,
+      "ceremony": "9-я",
+      "film": "Овсянки",
+      "director": "Алексей Федорченко",
+      "winner": "нет"
+    },
+    {
+      "year": 2011,
+      "ceremony": "9-я",
+      "film": "Край",
+      "director": "Алексей Учитель",
+      "winner": "нет"
+    },
+    {
+      "year": 2011,
+      "ceremony": "9-я",
+      "film": "Кандагар",
+      "director": "Андрей Кавун",
+      "winner": "нет"
+    },
+    {
+      "year": 2012,
+      "ceremony": "10-я",
+      "film": "Елена",
+      "director": "Андрей Звягинцев",
+      "winner": "да"
+    },
+    {
+      "year": 2012,
+      "ceremony": "10-я",
+      "film": "Дом",
+      "director": "Олег Погодин",
+      "winner": "нет"
+    },
+    {
+      "year": 2012,
+      "ceremony": "10-я",
+      "film": "Шапито-шоу",
+      "director": "Сергей Лобан",
+      "winner": "нет"
+    },
+    {
+      "year": 2012,
+      "ceremony": "10-я",
+      "film": "В субботу",
+      "director": "Александр Миндадзе",
+      "winner": "нет"
+    },
+    {
+      "year": 2012,
+      "ceremony": "10-я",
+      "film": "Два дня",
+      "director": "Дуня Смирнова",
+      "winner": "нет"
+    },
+    {
+      "year": 2013,
+      "ceremony": "11-я",
+      "film": "Белый тигр",
+      "director": "Карен Шахназаров",
+      "winner": "да"
+    },
+    {
+      "year": 2013,
+      "ceremony": "11-я",
+      "film": "Духless",
+      "director": "Роман Прыгунов",
+      "winner": "нет"
+    },
+    {
+      "year": 2013,
+      "ceremony": "11-я",
+      "film": "Высоцкий. Спасибо, что живой",
+      "director": "Пётр Буслов",
+      "winner": "нет"
+    },
+    {
+      "year": 2013,
+      "ceremony": "11-я",
+      "film": "Орда",
+      "director": "Андрей Прошкин",
+      "winner": "нет"
+    },
+    {
+      "year": 2013,
+      "ceremony": "11-я",
+      "film": "Шпион",
+      "director": "Алексей Андрианов",
+      "winner": "нет"
+    },
+    {
+      "year": 2014,
+      "ceremony": "12-я",
+      "film": "Легенда № 17",
+      "director": "Николай Лебедев",
+      "winner": "да"
+    },
+    {
+      "year": 2014,
+      "ceremony": "12-я",
+      "film": "Географ глобус пропил",
+      "director": "Александр Велединский",
+      "winner": "нет"
+    },
+    {
+      "year": 2014,
+      "ceremony": "12-я",
+      "film": "Горько!",
+      "director": "Жора Крыжовников",
+      "winner": "нет"
+    },
+    {
+      "year": 2014,
+      "ceremony": "12-я",
+      "film": "Ку! Кин-дза-дза",
+      "director": "Георгий Данелия, Татьяна Ильина",
+      "winner": "нет"
+    },
+    {
+      "year": 2014,
+      "ceremony": "12-я",
+      "film": "Сталинград",
+      "director": "Фёдор Бондарчук",
+      "winner": "нет"
+    },
+    {
+      "year": 2015,
+      "ceremony": "13-я",
+      "film": "Солнечный удар",
+      "director": "Никита Михалков",
+      "winner": "да"
+    },
+    {
+      "year": 2015,
+      "ceremony": "13-я",
+      "film": "Белые ночи почтальона Алексея Тряпицына",
+      "director": "Андрей Кончаловский",
+      "winner": "нет"
+    },
+    {
+      "year": 2015,
+      "ceremony": "13-я",
+      "film": "Звезда",
+      "director": "Анна Меликян",
+      "winner": "нет"
+    },
+    {
+      "year": 2015,
+      "ceremony": "13-я",
+      "film": "Левиафан",
+      "director": "Андрей Звягинцев",
+      "winner": "нет"
+    },
+    {
+      "year": 2015,
+      "ceremony": "13-я",
+      "film": "Weekend",
+      "director": "Станислав Говорухин",
+      "winner": "нет"
+    },
+    {
+      "year": 2016,
+      "ceremony": "14-я",
+      "film": "Про любовь",
+      "director": "Анна Меликян",
+      "winner": "да"
+    },
+    {
+      "year": 2016,
+      "ceremony": "14-я",
+      "film": "Батальонъ",
+      "director": "Дмитрий Месхиев-младший",
+      "winner": "нет"
+    },
+    {
+      "year": 2016,
+      "ceremony": "14-я",
+      "film": "Битва за Севастополь",
+      "director": "Сергей Мокрицкий",
+      "winner": "нет"
+    },
+    {
+      "year": 2016,
+      "ceremony": "14-я",
+      "film": "Конец прекрасной эпохи",
+      "director": "Станислав Говорухин",
+      "winner": "нет"
+    },
+    {
+      "year": 2016,
+      "ceremony": "14-я",
+      "film": "Милый Ханс, дорогой Пётр",
+      "director": "Александр Миндадзе",
+      "winner": "нет"
+    },
+    {
+      "year": 2017,
+      "ceremony": "15-я",
+      "film": "Рай",
+      "director": "Андрей Кончаловский",
+      "winner": "да"
+    },
+    {
+      "year": 2017,
+      "ceremony": "15-я",
+      "film": "Дуэлянт",
+      "director": "Алексей Мизгирёв",
+      "winner": "нет"
+    },
+    {
+      "year": 2017,
+      "ceremony": "15-я",
+      "film": "Ледокол",
+      "director": "Николай Хомерики",
+      "winner": "нет"
+    },
+    {
+      "year": 2017,
+      "ceremony": "15-я",
+      "film": "Коллектор",
+      "director": "Алексей Красовский",
+      "winner": "нет"
+    },
+    {
+      "year": 2017,
+      "ceremony": "15-я",
+      "film": "Экипаж",
+      "director": "Николай Лебедев",
+      "winner": "нет"
+    },
+    {
+      "year": 2018,
+      "ceremony": "16-я",
+      "film": "Салют 7",
+      "director": "Клим Шипенко",
+      "winner": "да"
+    },
+    {
+      "year": 2018,
+      "ceremony": "16-я",
+      "film": "Аритмия",
+      "director": "Борис Хлебников",
+      "winner": "нет"
+    },
+    {
+      "year": 2018,
+      "ceremony": "16-я",
+      "film": "Большой",
+      "director": "Валерий Тодоровский",
+      "winner": "нет"
+    },
+    {
+      "year": 2018,
+      "ceremony": "16-я",
+      "film": "Время первых",
+      "director": "Дмитрий Киселёв",
+      "winner": "нет"
+    },
+    {
+      "year": 2018,
+      "ceremony": "16-я",
+      "film": "Нелюбовь",
+      "director": "Андрей Звягинцев",
+      "winner": "нет"
+    },
+    {
+      "year": 2019,
+      "ceremony": "17-я",
+      "film": "Война Анны",
+      "director": "Алексей Федорченко",
+      "winner": "да"
+    },
+    {
+      "year": 2019,
+      "ceremony": "17-я",
+      "film": "Движение вверх",
+      "director": "Антон Мегердичев",
+      "winner": "нет"
+    },
+    {
+      "year": 2019,
+      "ceremony": "17-я",
+      "film": "История одного назначения",
+      "director": "Авдотья Смирнова",
+      "winner": "нет"
+    },
+    {
+      "year": 2019,
+      "ceremony": "17-я",
+      "film": "Лёд",
+      "director": "Олег Трофим",
+      "winner": "нет"
+    },
+    {
+      "year": 2019,
+      "ceremony": "17-я",
+      "film": "Спитак",
+      "director": "Александр Котт",
+      "winner": "нет"
+    },
+    {
+      "year": 2020,
+      "ceremony": "18-я",
+      "film": "Текст",
+      "director": "Клим Шипенко",
+      "winner": "да"
+    },
+    {
+      "year": 2020,
+      "ceremony": "18-я",
+      "film": "Бык",
+      "director": "Борис Акопов",
+      "winner": "нет"
+    },
+    {
+      "year": 2020,
+      "ceremony": "18-я",
+      "film": "Дылда",
+      "director": "Кантемир Балагов",
+      "winner": "нет"
+    },
+    {
+      "year": 2020,
+      "ceremony": "18-я",
+      "film": "Одесса",
+      "director": "Валерий Тодоровский",
+      "winner": "нет"
+    },
+    {
+      "year": 2020,
+      "ceremony": "18-я",
+      "film": "Т-34",
+      "director": "Алексей Сидоров",
+      "winner": "нет"
+    },
+    {
+      "year": 2021,
+      "ceremony": "19-я",
+      "film": "Блокадный дневник",
+      "director": "Андрей Зайцев",
+      "winner": "да"
+    },
+    {
+      "year": 2021,
+      "ceremony": "19-я",
+      "film": "Дорогие товарищи!",
+      "director": "Андрей Кончаловский",
+      "winner": "нет"
+    },
+    {
+      "year": 2021,
+      "ceremony": "19-я",
+      "film": "Лёд 2",
+      "director": "Жора Крыжовников",
+      "winner": "нет"
+    },
+    {
+      "year": 2021,
+      "ceremony": "19-я",
+      "film": "Союз спасения",
+      "director": "Андрей Кравчук",
+      "winner": "нет"
+    },
+    {
+      "year": 2021,
+      "ceremony": "19-я",
+      "film": "Стрельцов",
+      "director": "Илья Учитель",
+      "winner": "нет"
+    },
+    {
+      "year": 2022,
+      "ceremony": "20-я",
+      "film": "Серебряные коньки",
+      "director": "Михаил Локшин",
+      "winner": "да"
+    },
+    {
+      "year": 2022,
+      "ceremony": "20-я",
+      "film": "Иван Денисович",
+      "director": "Глеб Панфилов",
+      "winner": "нет"
+    },
+    {
+      "year": 2022,
+      "ceremony": "20-я",
+      "film": "Капитан Волконогов бежал",
+      "director": "Наташа Меркулова, Алексей Чупов",
+      "winner": "нет"
+    },
+    {
+      "year": 2022,
+      "ceremony": "20-я",
+      "film": "Огонь",
+      "director": "Михаил Локшин",
+      "winner": "нет"
+    },
+    {
+      "year": 2022,
+      "ceremony": "20-я",
+      "film": "Уроки фарси",
+      "director": "Вадим Перельман",
+      "winner": "нет"
+    },
+    {
+      "year": 2023,
+      "ceremony": "21-я",
+      "film": "Чемпион мира",
+      "director": "Алексей Сидоров",
+      "winner": "да"
+    },
+    {
+      "year": 2023,
+      "ceremony": "21-я",
+      "film": "Однажды в пустыне",
+      "director": "Андрей Кравчук",
+      "winner": "нет"
+    },
+    {
+      "year": 2023,
+      "ceremony": "21-я",
+      "film": "Первый Оскар",
+      "director": "Сергей Мокрицкий",
+      "winner": "нет"
+    },
+    {
+      "year": 2023,
+      "ceremony": "21-я",
+      "film": "Сердце Пармы",
+      "director": "Антон Мегердичев",
+      "winner": "нет"
+    },
+    {
+      "year": 2023,
+      "ceremony": "21-я",
+      "film": "Здоровый человек",
+      "director": "Пётр Тодоровский",
+      "winner": "нет"
+    },
+    {
+      "year": 2024,
+      "ceremony": "22-я",
+      "film": "Снегирь",
+      "director": "Борис Хлебников",
+      "winner": "да"
+    },
+    {
+      "year": 2024,
+      "ceremony": "22-я",
+      "film": "1993",
+      "director": "Александр Велединский",
+      "winner": "нет"
+    },
+    {
+      "year": 2024,
+      "ceremony": "22-я",
+      "film": "Вызов",
+      "director": "Клим Шипенко",
+      "winner": "нет"
+    },
+    {
+      "year": 2024,
+      "ceremony": "22-я",
+      "film": "По щучьему велению",
+      "director": "Александр Войтинский",
+      "winner": "нет"
+    },
+    {
+      "year": 2024,
+      "ceremony": "22-я",
+      "film": "Праведник",
+      "director": "Сергей Урсуляк",
+      "winner": "нет"
+    },
+    {
+      "year": 2025,
+      "ceremony": "23-я",
+      "film": "Воздух",
+      "director": "Алексей Герман-мл.",
+      "winner": "да"
+    },
+    {
+      "year": 2025,
+      "ceremony": "23-я",
+      "film": "Вечная зима",
+      "director": "Николай Ларионов",
+      "winner": "нет"
+    },
+    {
+      "year": 2025,
+      "ceremony": "23-я",
+      "film": "Любовь Советского Союза",
+      "director": "Высоцкий Никита, Илья Лебедев, Дмитрий Иосифов",
+      "winner": "нет"
+    },
+    {
+      "year": 2025,
+      "ceremony": "23-я",
+      "film": "Смотри на меня!",
+      "director": "Владимир Грамматиков",
+      "winner": "нет"
+    },
+    {
+      "year": 2025,
+      "ceremony": "23-я",
+      "film": "Сто лет тому вперёд",
+      "director": "Александр Андрющенко",
+      "winner": "нет"
+    },
+    {
+      "year": 2026,
+      "ceremony": "24-я",
+      "film": "Август",
+      "director": "Никита Высоцкий, Илья Лебедев",
+      "winner": "да"
+    },
+    {
+      "year": 2026,
+      "ceremony": "24-я",
+      "film": "Пророк. История Александра Пушкина",
+      "director": "Феликс Умаров",
+      "winner": "нет"
+    },
+    {
+      "year": 2026,
+      "ceremony": "24-я",
+      "film": "Кракен",
+      "director": "Николай Лебедев",
+      "winner": "нет"
+    },
+    {
+      "year": 2026,
+      "ceremony": "24-я",
+      "film": "Кончится лето",
+      "director": "Владимир Мункуев Максим Арбугаев",
+      "winner": "нет"
+    },
+    {
+      "year": 2026,
+      "ceremony": "24-я",
+      "film": "Батя 2: Дед",
+      "director": "Илья Учитель",
+      "winner": "нет"
+    }
+  ],
+  "meta": {
+    "title": "Премия «Золотой орёл» за лучший игровой фильм - Free Download",
+    "description": "Победители и номинанты национальной кинопремии «Золотой орёл» в категории «Лучший игровой фильм» по годам, с режиссёрами. Contains 120 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Премия «Золотой орёл» за лучший игровой фильм | ListBase",
+    "seo_description": "Download Премия «Золотой орёл» за лучший игровой фильм — 120 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 120 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Премия_«Золотой_орёл»_за_лучший_игровой_фильм"
+    ]
+  }
+}
