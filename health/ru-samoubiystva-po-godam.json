@@ -1,0 +1,214 @@
+{
+  "id": "ru-samoubiystva-po-godam",
+  "name": "Самоубийства в СССР, России и Санкт-Петербурге по годам",
+  "title": "Самоубийства в СССР, России и Санкт-Петербурге по годам",
+  "description": "Число самоубийств и уровень суицидов на 100 тыс. населения в СССР, Российской Федерации и Санкт-Петербурге с 1965 года.",
+  "category": "health",
+  "source": "https://ru.wikipedia.org/wiki/Самоубийства_в_России",
+  "source_url": "https://ru.wikipedia.org/wiki/Самоубийства_в_России",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "ussr_thousand",
+      "label": "Ussr Thousand",
+      "type": "number"
+    },
+    {
+      "key": "ussr_per_100k",
+      "label": "Ussr Per 100k",
+      "type": "number"
+    },
+    {
+      "key": "russia_thousand",
+      "label": "Russia Thousand",
+      "type": "string"
+    },
+    {
+      "key": "russia_per_100k",
+      "label": "Russia Per 100k",
+      "type": "string"
+    },
+    {
+      "key": "spb_count",
+      "label": "Spb Count",
+      "type": "string"
+    },
+    {
+      "key": "spb_per_100k",
+      "label": "Spb Per 100k",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1965,
+      "ussr_thousand": 39.5,
+      "ussr_per_100k": 17.1,
+      "russia_thousand": "-",
+      "russia_per_100k": "-",
+      "spb_count": "-",
+      "spb_per_100k": "-"
+    },
+    {
+      "year": 1970,
+      "ussr_thousand": 56.1,
+      "ussr_per_100k": 23.1,
+      "russia_thousand": "-",
+      "russia_per_100k": "-",
+      "spb_count": "-",
+      "spb_per_100k": "-"
+    },
+    {
+      "year": 1975,
+      "ussr_thousand": 65.7,
+      "ussr_per_100k": 25.8,
+      "russia_thousand": "-",
+      "russia_per_100k": "-",
+      "spb_count": "-",
+      "spb_per_100k": "-"
+    },
+    {
+      "year": 1980,
+      "ussr_thousand": 71.3,
+      "ussr_per_100k": 28.9,
+      "russia_thousand": "-",
+      "russia_per_100k": "-",
+      "spb_count": 1098,
+      "spb_per_100k": 23.7
+    },
+    {
+      "year": 1984,
+      "ussr_thousand": 81.4,
+      "ussr_per_100k": 29.7,
+      "russia_thousand": 54,
+      "russia_per_100k": 38.8,
+      "spb_count": 1170,
+      "spb_per_100k": 24.2
+    },
+    {
+      "year": 1985,
+      "ussr_thousand": 68.1,
+      "ussr_per_100k": 24.6,
+      "russia_thousand": 44.6,
+      "russia_per_100k": 31.1,
+      "spb_count": 1022,
+      "spb_per_100k": 21
+    },
+    {
+      "year": 1986,
+      "ussr_thousand": 52.8,
+      "ussr_per_100k": 18.9,
+      "russia_thousand": 33.3,
+      "russia_per_100k": 23.1,
+      "spb_count": 903,
+      "spb_per_100k": 18.4
+    },
+    {
+      "year": 1987,
+      "ussr_thousand": 54.1,
+      "ussr_per_100k": 19.1,
+      "russia_thousand": 35.7,
+      "russia_per_100k": 23.3,
+      "spb_count": 796,
+      "spb_per_100k": 16.1
+    },
+    {
+      "year": 1988,
+      "ussr_thousand": 55.5,
+      "ussr_per_100k": 19.5,
+      "russia_thousand": 38,
+      "russia_per_100k": 24.4,
+      "spb_count": 859,
+      "spb_per_100k": 17.2
+    },
+    {
+      "year": 1989,
+      "ussr_thousand": 60.3,
+      "ussr_per_100k": 21,
+      "russia_thousand": 38,
+      "russia_per_100k": 38,
+      "spb_count": 892,
+      "spb_per_100k": 17.7
+    },
+    {
+      "year": 1990,
+      "ussr_thousand": 60.8,
+      "ussr_per_100k": 21.1,
+      "russia_thousand": 39.2,
+      "russia_per_100k": 39.2,
+      "spb_count": 924,
+      "spb_per_100k": 18.4
+    },
+    {
+      "year": 1991,
+      "ussr_thousand": "-",
+      "ussr_per_100k": "-",
+      "russia_thousand": 39.4,
+      "russia_per_100k": 39.4,
+      "spb_count": 1002,
+      "spb_per_100k": 20
+    },
+    {
+      "year": 1992,
+      "ussr_thousand": "-",
+      "ussr_per_100k": "-",
+      "russia_thousand": 46.1,
+      "russia_per_100k": 46.1,
+      "spb_count": 1115,
+      "spb_per_100k": 22.4
+    },
+    {
+      "year": 1993,
+      "ussr_thousand": "-",
+      "ussr_per_100k": "-",
+      "russia_thousand": 56.1,
+      "russia_per_100k": 38.1,
+      "spb_count": 1182,
+      "spb_per_100k": 24
+    },
+    {
+      "year": 1994,
+      "ussr_thousand": "-",
+      "ussr_per_100k": "-",
+      "russia_thousand": 61.9,
+      "russia_per_100k": 42.1,
+      "spb_count": 1141,
+      "spb_per_100k": 23.6
+    },
+    {
+      "year": 1995,
+      "ussr_thousand": "-",
+      "ussr_per_100k": "-",
+      "russia_thousand": 60.9,
+      "russia_per_100k": 41.4,
+      "spb_count": 1123,
+      "spb_per_100k": 23.3
+    },
+    {
+      "year": 1996,
+      "ussr_thousand": "-",
+      "ussr_per_100k": "-",
+      "russia_thousand": 57.8,
+      "russia_per_100k": 39.3,
+      "spb_count": 971,
+      "spb_per_100k": 20.2
+    }
+  ],
+  "meta": {
+    "title": "Самоубийства в СССР, России и Санкт-Петербурге по годам - Free Download",
+    "description": "Число самоубийств и уровень суицидов на 100 тыс. населения в СССР, Российской Федерации и Санкт-Петербурге с 1965 года. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Самоубийства в СССР, России и Санкт-Петербурге по годам | ListBase",
+    "seo_description": "Download Самоубийства в СССР, России и Санкт-Петербурге по годам — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Самоубийства_в_России"
+    ]
+  }
+}

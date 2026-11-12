@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-12T02:00:26.966Z",
-  "total_datasets": 533,
-  "total_records": 223911,
+  "generated": "2026-11-12T02:00:35.077Z",
+  "total_datasets": 534,
+  "total_records": 223928,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "history",
@@ -4558,6 +4558,34 @@
         "xlsx": {
           "name": "ru-prodolzhitelnost-zhizni-regiony_RU.xlsx",
           "size": 11620
+        }
+      }
+    },
+    {
+      "id": "ru-samoubiystva-po-godam",
+      "name": "Самоубийства в СССР, России и Санкт-Петербурге по годам",
+      "category": "health",
+      "record_count": 17,
+      "columns": [
+        "year",
+        "ussr_thousand",
+        "ussr_per_100k",
+        "russia_thousand",
+        "russia_per_100k",
+        "spb_count",
+        "spb_per_100k"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Самоубийства_в_России",
+      "updated": "2026-11",
+      "size": 5885,
+      "files": {
+        "csv": {
+          "name": "ru-samoubiystva-po-godam_RU.csv",
+          "size": 837
+        },
+        "xlsx": {
+          "name": "ru-samoubiystva-po-godam_RU.xlsx",
+          "size": 7418
         }
       }
     },
