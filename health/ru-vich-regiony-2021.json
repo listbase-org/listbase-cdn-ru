@@ -1,0 +1,191 @@
+{
+  "id": "ru-vich-regiony-2021",
+  "name": "Регионы России с наибольшей заболеваемостью ВИЧ (2021)",
+  "title": "Регионы России с наибольшей заболеваемостью ВИЧ (2021)",
+  "description": "Субъекты РФ, в которых заболеваемость ВИЧ-инфекцией в 2021 году превышала среднероссийскую: новые случаи и число живущих с ВИЧ на 100 тыс. населения (НСЗ — ниже среднего значения).",
+  "category": "health",
+  "source": "https://ru.wikipedia.org/wiki/ВИЧ/СПИД_в_России",
+  "source_url": "https://ru.wikipedia.org/wiki/ВИЧ/СПИД_в_России",
+  "updated": "2026-11",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "incidence_per_100k",
+      "label": "Incidence Per 100k",
+      "type": "number"
+    },
+    {
+      "key": "prevalence_per_100k",
+      "label": "Prevalence Per 100k",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "region": "Иркутская область",
+      "incidence_per_100k": 99.6,
+      "prevalence_per_100k": 2042.5
+    },
+    {
+      "region": "Челябинская область",
+      "incidence_per_100k": 97.4,
+      "prevalence_per_100k": 1420.1
+    },
+    {
+      "region": "Свердловская область",
+      "incidence_per_100k": 95.7,
+      "prevalence_per_100k": 1890.8
+    },
+    {
+      "region": "Красноярский край",
+      "incidence_per_100k": 95,
+      "prevalence_per_100k": 1215.3
+    },
+    {
+      "region": "Оренбургская область",
+      "incidence_per_100k": 94.9,
+      "prevalence_per_100k": 1594.6
+    },
+    {
+      "region": "Пермский край",
+      "incidence_per_100k": 93.5,
+      "prevalence_per_100k": 1300.3
+    },
+    {
+      "region": "Томская область",
+      "incidence_per_100k": 88.5,
+      "prevalence_per_100k": 1128.6
+    },
+    {
+      "region": "Новосибирская область",
+      "incidence_per_100k": 84.1,
+      "prevalence_per_100k": 1373.1
+    },
+    {
+      "region": "Кемеровская область",
+      "incidence_per_100k": 83.2,
+      "prevalence_per_100k": 1890.8
+    },
+    {
+      "region": "Тюменская область",
+      "incidence_per_100k": 76.6,
+      "prevalence_per_100k": 1278.3
+    },
+    {
+      "region": "Алтайский край",
+      "incidence_per_100k": 76.4,
+      "prevalence_per_100k": 1123.9
+    },
+    {
+      "region": "Курганская область",
+      "incidence_per_100k": 70.6,
+      "prevalence_per_100k": 1126.3
+    },
+    {
+      "region": "Самарская область",
+      "incidence_per_100k": 68.3,
+      "prevalence_per_100k": 1515.5
+    },
+    {
+      "region": "Удмуртская республика",
+      "incidence_per_100k": 66.4,
+      "prevalence_per_100k": "НСЗ (ниже среднероссийского значения — 782)"
+    },
+    {
+      "region": "Омская область",
+      "incidence_per_100k": 61.3,
+      "prevalence_per_100k": 1003
+    },
+    {
+      "region": "Ульяновская область",
+      "incidence_per_100k": 58.4,
+      "prevalence_per_100k": 1115.1
+    },
+    {
+      "region": "ХМАО — Югра",
+      "incidence_per_100k": 58.3,
+      "prevalence_per_100k": 1337.6
+    },
+    {
+      "region": "ЯНАО",
+      "incidence_per_100k": 57.3,
+      "prevalence_per_100k": "НСЗ"
+    },
+    {
+      "region": "Тверская область",
+      "incidence_per_100k": 55.6,
+      "prevalence_per_100k": 946
+    },
+    {
+      "region": "Республика Хакасия",
+      "incidence_per_100k": 53.6,
+      "prevalence_per_100k": "НСЗ"
+    },
+    {
+      "region": "Республика Крым",
+      "incidence_per_100k": 53.3,
+      "prevalence_per_100k": 1229.3
+    },
+    {
+      "region": "Севастополь",
+      "incidence_per_100k": 52.7,
+      "prevalence_per_100k": "НСЗ"
+    },
+    {
+      "region": "Республика Бурятия",
+      "incidence_per_100k": 51,
+      "prevalence_per_100k": "НСЗ"
+    },
+    {
+      "region": "Мурманская область",
+      "incidence_per_100k": 5.7,
+      "prevalence_per_100k": 843.2
+    },
+    {
+      "region": "Приморский край",
+      "incidence_per_100k": 50.4,
+      "prevalence_per_100k": "НСЗ"
+    },
+    {
+      "region": "Москва",
+      "incidence_per_100k": 50.2,
+      "prevalence_per_100k": "НСЗ"
+    },
+    {
+      "region": "Чукотский автономный округ",
+      "incidence_per_100k": 50.1,
+      "prevalence_per_100k": "НСЗ"
+    },
+    {
+      "region": "Московская область",
+      "incidence_per_100k": 50,
+      "prevalence_per_100k": "НСЗ"
+    },
+    {
+      "region": "Республика Башкортостан",
+      "incidence_per_100k": 49.3,
+      "prevalence_per_100k": "НСЗ"
+    },
+    {
+      "region": "Нижегородская область",
+      "incidence_per_100k": 49.2,
+      "prevalence_per_100k": "НСЗ"
+    }
+  ],
+  "meta": {
+    "title": "Регионы России с наибольшей заболеваемостью ВИЧ (2021) - Free Download",
+    "description": "Субъекты РФ, в которых заболеваемость ВИЧ-инфекцией в 2021 году превышала среднероссийскую: новые случаи и число живущих с ВИЧ на 100 тыс. населения (НСЗ — ниже среднего значения). Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Регионы России с наибольшей заболеваемостью ВИЧ (2021) | ListBase",
+    "seo_description": "Download Регионы России с наибольшей заболеваемостью ВИЧ (2021) — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/ВИЧ/СПИД_в_России"
+    ]
+  }
+}

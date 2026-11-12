@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-12T02:00:58.440Z",
-  "total_datasets": 536,
-  "total_records": 224120,
+  "generated": "2026-11-12T02:01:10.706Z",
+  "total_datasets": 537,
+  "total_records": 224150,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "history",
@@ -4611,6 +4611,30 @@
         "xlsx": {
           "name": "ru-samoubiystva-po-godam_RU.xlsx",
           "size": 7418
+        }
+      }
+    },
+    {
+      "id": "ru-vich-regiony-2021",
+      "name": "Регионы России с наибольшей заболеваемостью ВИЧ (2021)",
+      "category": "health",
+      "record_count": 30,
+      "columns": [
+        "region",
+        "incidence_per_100k",
+        "prevalence_per_100k"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/ВИЧ/СПИД_в_России",
+      "updated": "2026-11",
+      "size": 6394,
+      "files": {
+        "csv": {
+          "name": "ru-vich-regiony-2021_RU.csv",
+          "size": 1656
+        },
+        "xlsx": {
+          "name": "ru-vich-regiony-2021_RU.xlsx",
+          "size": 7744
         }
       }
     },
