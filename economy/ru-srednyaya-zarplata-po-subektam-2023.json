@@ -1,0 +1,556 @@
+{
+  "id": "ru-srednyaya-zarplata-po-subektam-2023",
+  "name": "Среднемесячная зарплата по субъектам РФ (начало 2023 года)",
+  "title": "Среднемесячная зарплата по субъектам РФ (начало 2023 года)",
+  "description": "Среднемесячная номинальная заработная плата в субъектах Российской Федерации на начало 2023 года по данным Росстата, в рублях и долларах.",
+  "category": "economy",
+  "source": "https://ru.wikipedia.org/wiki/Доходы_населения_России",
+  "source_url": "https://ru.wikipedia.org/wiki/Доходы_населения_России",
+  "updated": "2026-11",
+  "record_count": 85,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    },
+    {
+      "key": "salary_rub",
+      "label": "Salary Rub",
+      "type": "number"
+    },
+    {
+      "key": "salary_usd",
+      "label": "Salary Usd",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "region": "Москва",
+      "federal_district": "Центральный федеральный округ",
+      "salary_rub": 113671,
+      "salary_usd": 1249
+    },
+    {
+      "region": "Белгородская область",
+      "federal_district": "Центральный федеральный округ",
+      "salary_rub": 46133,
+      "salary_usd": 506
+    },
+    {
+      "region": "Брянская область",
+      "federal_district": "Центральный федеральный округ",
+      "salary_rub": 40354,
+      "salary_usd": 443
+    },
+    {
+      "region": "Владимирская область",
+      "federal_district": "Центральный федеральный округ",
+      "salary_rub": 44188,
+      "salary_usd": 485
+    },
+    {
+      "region": "Воронежская область",
+      "federal_district": "Центральный федеральный округ",
+      "salary_rub": 45142,
+      "salary_usd": 496
+    },
+    {
+      "region": "Ивановская область",
+      "federal_district": "Центральный федеральный округ",
+      "salary_rub": 35232,
+      "salary_usd": 387
+    },
+    {
+      "region": "Калужская область",
+      "federal_district": "Центральный федеральный округ",
+      "salary_rub": 51426,
+      "salary_usd": 565
+    },
+    {
+      "region": "Костромская область",
+      "federal_district": "Центральный федеральный округ",
+      "salary_rub": 38883,
+      "salary_usd": 427
+    },
+    {
+      "region": "Курская область",
+      "federal_district": "Центральный федеральный округ",
+      "salary_rub": 45417,
+      "salary_usd": 499
+    },
+    {
+      "region": "Липецкая область",
+      "federal_district": "Центральный федеральный округ",
+      "salary_rub": 44152,
+      "salary_usd": 485
+    },
+    {
+      "region": "Московская область",
+      "federal_district": "Центральный федеральный округ",
+      "salary_rub": 67119,
+      "salary_usd": 737
+    },
+    {
+      "region": "Орловская область",
+      "federal_district": "Центральный федеральный округ",
+      "salary_rub": 39518,
+      "salary_usd": 434
+    },
+    {
+      "region": "Рязанская область",
+      "federal_district": "Центральный федеральный округ",
+      "salary_rub": 44065,
+      "salary_usd": 484
+    },
+    {
+      "region": "Смоленская область",
+      "federal_district": "Центральный федеральный округ",
+      "salary_rub": 39925,
+      "salary_usd": 438
+    },
+    {
+      "region": "Тамбовская область",
+      "federal_district": "Центральный федеральный округ",
+      "salary_rub": 37462,
+      "salary_usd": 411
+    },
+    {
+      "region": "Тверская область",
+      "federal_district": "Центральный федеральный округ",
+      "salary_rub": 44643,
+      "salary_usd": 490
+    },
+    {
+      "region": "Тульская область",
+      "federal_district": "Центральный федеральный округ",
+      "salary_rub": 48332,
+      "salary_usd": 531
+    },
+    {
+      "region": "Ярославская область",
+      "federal_district": "Центральный федеральный округ",
+      "salary_rub": 45499,
+      "salary_usd": 499
+    },
+    {
+      "region": "Республика Карелия",
+      "federal_district": "Северо-Западный федеральный округ",
+      "salary_rub": 57059,
+      "salary_usd": 627
+    },
+    {
+      "region": "Республика Коми",
+      "federal_district": "Северо-Западный федеральный округ",
+      "salary_rub": 70514,
+      "salary_usd": 774
+    },
+    {
+      "region": "Ненецкий автономный округ",
+      "federal_district": "Северо-Западный федеральный округ",
+      "salary_rub": 108435,
+      "salary_usd": 1191
+    },
+    {
+      "region": "Архангельская область",
+      "federal_district": "Северо-Западный федеральный округ",
+      "salary_rub": 69186,
+      "salary_usd": 760
+    },
+    {
+      "region": "Вологодская область",
+      "federal_district": "Северо-Западный федеральный округ",
+      "salary_rub": 52557,
+      "salary_usd": 577
+    },
+    {
+      "region": "Калининградская область",
+      "federal_district": "Северо-Западный федеральный округ",
+      "salary_rub": 45276,
+      "salary_usd": 497
+    },
+    {
+      "region": "Ленинградская область",
+      "federal_district": "Северо-Западный федеральный округ",
+      "salary_rub": 56724,
+      "salary_usd": 623
+    },
+    {
+      "region": "Мурманская область",
+      "federal_district": "Северо-Западный федеральный округ",
+      "salary_rub": 91481,
+      "salary_usd": 1005
+    },
+    {
+      "region": "Новгородская область",
+      "federal_district": "Северо-Западный федеральный округ",
+      "salary_rub": 45026,
+      "salary_usd": 494
+    },
+    {
+      "region": "Псковская область",
+      "federal_district": "Северо-Западный федеральный округ",
+      "salary_rub": 38302,
+      "salary_usd": 420
+    },
+    {
+      "region": "Санкт-Петербург",
+      "federal_district": "Северо-Западный федеральный округ",
+      "salary_rub": 80698,
+      "salary_usd": 886
+    },
+    {
+      "region": "Адыгея",
+      "federal_district": "Южный федеральный округ",
+      "salary_rub": 39591,
+      "salary_usd": 435
+    },
+    {
+      "region": "Калмыкия",
+      "federal_district": "Южный федеральный округ",
+      "salary_rub": 37690,
+      "salary_usd": 414
+    },
+    {
+      "region": "Республика Крым",
+      "federal_district": "Южный федеральный округ",
+      "salary_rub": 40540,
+      "salary_usd": 445
+    },
+    {
+      "region": "Севастополь",
+      "federal_district": "Южный федеральный округ",
+      "salary_rub": 40737,
+      "salary_usd": 447
+    },
+    {
+      "region": "Краснодарский край",
+      "federal_district": "Южный федеральный округ",
+      "salary_rub": 46861,
+      "salary_usd": 514
+    },
+    {
+      "region": "Астраханская область",
+      "federal_district": "Южный федеральный округ",
+      "salary_rub": 49018,
+      "salary_usd": 538
+    },
+    {
+      "region": "Волгоградская область",
+      "federal_district": "Южный федеральный округ",
+      "salary_rub": 41263,
+      "salary_usd": 453
+    },
+    {
+      "region": "Ростовская область",
+      "federal_district": "Южный федеральный округ",
+      "salary_rub": 42797,
+      "salary_usd": 470
+    },
+    {
+      "region": "Дагестан",
+      "federal_district": "Северо-Кавказский федеральный округ",
+      "salary_rub": 34667,
+      "salary_usd": 380
+    },
+    {
+      "region": "Ингушетия",
+      "federal_district": "Северо-Кавказский федеральный округ",
+      "salary_rub": 37138,
+      "salary_usd": 408
+    },
+    {
+      "region": "Кабардино-Балкария",
+      "federal_district": "Северо-Кавказский федеральный округ",
+      "salary_rub": 34835,
+      "salary_usd": 382
+    },
+    {
+      "region": "Карачаево-Черкесия",
+      "federal_district": "Северо-Кавказский федеральный округ",
+      "salary_rub": 34726,
+      "salary_usd": 381
+    },
+    {
+      "region": "Северная Осетия-Алания",
+      "federal_district": "Северо-Кавказский федеральный округ",
+      "salary_rub": 35916,
+      "salary_usd": 394
+    },
+    {
+      "region": "Чечня",
+      "federal_district": "Северо-Кавказский федеральный округ",
+      "salary_rub": 32941,
+      "salary_usd": 361
+    },
+    {
+      "region": "Ставропольский край",
+      "federal_district": "Северо-Кавказский федеральный округ",
+      "salary_rub": 39718,
+      "salary_usd": 436
+    },
+    {
+      "region": "Башкортостан",
+      "federal_district": "Приволжский федеральный округ",
+      "salary_rub": 47524,
+      "salary_usd": 522
+    },
+    {
+      "region": "Марий Эл",
+      "federal_district": "Приволжский федеральный округ",
+      "salary_rub": 39138,
+      "salary_usd": 430
+    },
+    {
+      "region": "Мордовия",
+      "federal_district": "Приволжский федеральный округ",
+      "salary_rub": 39759,
+      "salary_usd": 436
+    },
+    {
+      "region": "Татарстан",
+      "federal_district": "Приволжский федеральный округ",
+      "salary_rub": 52789,
+      "salary_usd": 580
+    },
+    {
+      "region": "Удмуртия",
+      "federal_district": "Приволжский федеральный округ",
+      "salary_rub": 44421,
+      "salary_usd": 488
+    },
+    {
+      "region": "Чувашия",
+      "federal_district": "Приволжский федеральный округ",
+      "salary_rub": 40000,
+      "salary_usd": 439
+    },
+    {
+      "region": "Пермский край",
+      "federal_district": "Приволжский федеральный округ",
+      "salary_rub": 50726,
+      "salary_usd": 557
+    },
+    {
+      "region": "Кировская область",
+      "federal_district": "Приволжский федеральный округ",
+      "salary_rub": 40221,
+      "salary_usd": 441
+    },
+    {
+      "region": "Нижегородская область",
+      "federal_district": "Приволжский федеральный округ",
+      "salary_rub": 44030,
+      "salary_usd": 483
+    },
+    {
+      "region": "Оренбургская область",
+      "federal_district": "Приволжский федеральный округ",
+      "salary_rub": 44214,
+      "salary_usd": 485
+    },
+    {
+      "region": "Пензенская область",
+      "federal_district": "Приволжский федеральный округ",
+      "salary_rub": 40197,
+      "salary_usd": 441
+    },
+    {
+      "region": "Самарская область",
+      "federal_district": "Приволжский федеральный округ",
+      "salary_rub": 46176,
+      "salary_usd": 507
+    },
+    {
+      "region": "Саратовская область",
+      "federal_district": "Приволжский федеральный округ",
+      "salary_rub": 42361,
+      "salary_usd": 465
+    },
+    {
+      "region": "Ульяновская область",
+      "federal_district": "Приволжский федеральный округ",
+      "salary_rub": 40376,
+      "salary_usd": 443
+    },
+    {
+      "region": "Курганская область",
+      "federal_district": "Уральский федеральный округ",
+      "salary_rub": 39900,
+      "salary_usd": 438
+    },
+    {
+      "region": "Свердловская область",
+      "federal_district": "Уральский федеральный округ",
+      "salary_rub": 53726,
+      "salary_usd": 590
+    },
+    {
+      "region": "Ханты-Мансийский автономный округ",
+      "federal_district": "Уральский федеральный округ",
+      "salary_rub": 98215,
+      "salary_usd": 1079
+    },
+    {
+      "region": "Ямало-Ненецкий автономный округ",
+      "federal_district": "Уральский федеральный округ",
+      "salary_rub": 158333,
+      "salary_usd": 1739
+    },
+    {
+      "region": "Тюменская область",
+      "federal_district": "Уральский федеральный округ",
+      "salary_rub": 100074,
+      "salary_usd": 1099
+    },
+    {
+      "region": "Челябинская область",
+      "federal_district": "Уральский федеральный округ",
+      "salary_rub": 50034,
+      "salary_usd": 549
+    },
+    {
+      "region": "Республика Алтай",
+      "federal_district": "Сибирский федеральный округ",
+      "salary_rub": 44358,
+      "salary_usd": 487
+    },
+    {
+      "region": "Алтайский край",
+      "federal_district": "Сибирский федеральный округ",
+      "salary_rub": 36612,
+      "salary_usd": 402
+    },
+    {
+      "region": "Тыва",
+      "federal_district": "Сибирский федеральный округ",
+      "salary_rub": 54003,
+      "salary_usd": 593
+    },
+    {
+      "region": "Хакасия",
+      "federal_district": "Сибирский федеральный округ",
+      "salary_rub": 53553,
+      "salary_usd": 588
+    },
+    {
+      "region": "Красноярский край",
+      "federal_district": "Сибирский федеральный округ",
+      "salary_rub": 70189,
+      "salary_usd": 771
+    },
+    {
+      "region": "Иркутская область",
+      "federal_district": "Сибирский федеральный округ",
+      "salary_rub": 62957,
+      "salary_usd": 691
+    },
+    {
+      "region": "Кемеровская область",
+      "federal_district": "Сибирский федеральный округ",
+      "salary_rub": 55966,
+      "salary_usd": 615
+    },
+    {
+      "region": "Новосибирская область",
+      "federal_district": "Сибирский федеральный округ",
+      "salary_rub": 50354,
+      "salary_usd": 553
+    },
+    {
+      "region": "Омская область",
+      "federal_district": "Сибирский федеральный округ",
+      "salary_rub": 45249,
+      "salary_usd": 497
+    },
+    {
+      "region": "Томская область",
+      "federal_district": "Сибирский федеральный округ",
+      "salary_rub": 56210,
+      "salary_usd": 617
+    },
+    {
+      "region": "Бурятия",
+      "federal_district": "Дальневосточный федеральный округ",
+      "salary_rub": 53832,
+      "salary_usd": 591
+    },
+    {
+      "region": "Республика Саха (Якутия)",
+      "federal_district": "Дальневосточный федеральный округ",
+      "salary_rub": 101343,
+      "salary_usd": 1113
+    },
+    {
+      "region": "Забайкальский край",
+      "federal_district": "Дальневосточный федеральный округ",
+      "salary_rub": 58838,
+      "salary_usd": 646
+    },
+    {
+      "region": "Камчатский край",
+      "federal_district": "Дальневосточный федеральный округ",
+      "salary_rub": 127145,
+      "salary_usd": 1397
+    },
+    {
+      "region": "Приморский край",
+      "federal_district": "Дальневосточный федеральный округ",
+      "salary_rub": 61771,
+      "salary_usd": 678
+    },
+    {
+      "region": "Хабаровский край",
+      "federal_district": "Дальневосточный федеральный округ",
+      "salary_rub": 63105,
+      "salary_usd": 693
+    },
+    {
+      "region": "Амурская область",
+      "federal_district": "Дальневосточный федеральный округ",
+      "salary_rub": 67992,
+      "salary_usd": 747
+    },
+    {
+      "region": "Магаданская область",
+      "federal_district": "Дальневосточный федеральный округ",
+      "salary_rub": 123813,
+      "salary_usd": 1360
+    },
+    {
+      "region": "Сахалинская область",
+      "federal_district": "Дальневосточный федеральный округ",
+      "salary_rub": 105614,
+      "salary_usd": 1160
+    },
+    {
+      "region": "Еврейская автономная область",
+      "federal_district": "Дальневосточный федеральный округ",
+      "salary_rub": 56083,
+      "salary_usd": 616
+    },
+    {
+      "region": "Чукотский автономный округ",
+      "federal_district": "Дальневосточный федеральный округ",
+      "salary_rub": 142466,
+      "salary_usd": 1565
+    }
+  ],
+  "meta": {
+    "title": "Среднемесячная зарплата по субъектам РФ (начало 2023 года) - Free Download",
+    "description": "Среднемесячная номинальная заработная плата в субъектах Российской Федерации на начало 2023 года по данным Росстата, в рублях и долларах. Contains 85 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Среднемесячная зарплата по субъектам РФ (начало 2023 года) | ListBase",
+    "seo_description": "Download Среднемесячная зарплата по субъектам РФ (начало 2023 года) — 85 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 85 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Доходы_населения_России"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-12T02:00:35.077Z",
-  "total_datasets": 534,
-  "total_records": 223928,
+  "generated": "2026-11-12T02:00:50.199Z",
+  "total_datasets": 535,
+  "total_records": 224013,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "education",
@@ -651,6 +651,31 @@
         "xlsx": {
           "name": "ru-monogoroda_RU.xlsx",
           "size": 23547
+        }
+      }
+    },
+    {
+      "id": "ru-srednyaya-zarplata-po-subektam-2023",
+      "name": "Среднемесячная зарплата по субъектам РФ (начало 2023 года)",
+      "category": "economy",
+      "record_count": 85,
+      "columns": [
+        "region",
+        "federal_district",
+        "salary_rub",
+        "salary_usd"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Доходы_населения_России",
+      "updated": "2026-11",
+      "size": 19570,
+      "files": {
+        "csv": {
+          "name": "ru-srednyaya-zarplata-po-subektam-2023_RU.csv",
+          "size": 9365
+        },
+        "xlsx": {
+          "name": "ru-srednyaya-zarplata-po-subektam-2023_RU.xlsx",
+          "size": 9657
         }
       }
     },
