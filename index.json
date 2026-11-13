@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-12T02:01:10.706Z",
-  "total_datasets": 537,
-  "total_records": 224150,
+  "generated": "2026-11-13T02:01:52.565Z",
+  "total_datasets": 538,
+  "total_records": 224184,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tech",
@@ -12628,6 +12628,32 @@
         "xlsx": {
           "name": "ru-chempiony-rossii-po-futbolu_RU.xlsx",
           "size": 8010
+        }
+      }
+    },
+    {
+      "id": "ru-chempiony-rossii-po-khokkeyu-s-myachom",
+      "name": "Чемпионы и призёры чемпионата России по хоккею с мячом",
+      "category": "sports",
+      "record_count": 34,
+      "columns": [
+        "number",
+        "year",
+        "gold",
+        "silver",
+        "bronze"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Чемпионат_России_по_хоккею_с_мячом",
+      "updated": "2026-11",
+      "size": 10379,
+      "files": {
+        "csv": {
+          "name": "ru-chempiony-rossii-po-khokkeyu-s-myachom_RU.csv",
+          "size": 5153
+        },
+        "xlsx": {
+          "name": "ru-chempiony-rossii-po-khokkeyu-s-myachom_RU.xlsx",
+          "size": 8011
         }
       }
     },
