@@ -1,0 +1,124 @@
+{
+  "id": "ru-kalibry-gladkostvolnogo-oruzhiya",
+  "name": "Калибры гладкоствольного охотничьего оружия",
+  "title": "Калибры гладкоствольного охотничьего оружия",
+  "description": "Обозначения калибров гладкоствольных ружей по числу шаровых пуль в фунте, их диаметр в дюймах и миллиметрах и примеры отечественных охотничьих ружей.",
+  "category": "units",
+  "source": "https://ru.wikipedia.org/wiki/Калибр",
+  "source_url": "https://ru.wikipedia.org/wiki/Калибр",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "gauge",
+      "label": "Gauge",
+      "type": "number"
+    },
+    {
+      "key": "bullet_caliber_inch_thousandths",
+      "label": "Bullet Caliber Inch Thousandths",
+      "type": "string"
+    },
+    {
+      "key": "example_gun",
+      "label": "Example Gun",
+      "type": "string"
+    },
+    {
+      "key": "bore_mm_range",
+      "label": "Bore Mm Range",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "gauge": 4,
+      "bullet_caliber_inch_thousandths": "1,039",
+      "example_gun": "ТОЗ-123 «Селезень»",
+      "bore_mm_range": "26,2—26,6"
+    },
+    {
+      "gauge": 6,
+      "bullet_caliber_inch_thousandths": "0,913",
+      "example_gun": "КС-23 «Дрозд»",
+      "bore_mm_range": "23,0—23,4"
+    },
+    {
+      "gauge": 8,
+      "bullet_caliber_inch_thousandths": "0,827",
+      "example_gun": "?",
+      "bore_mm_range": "20,8—21,2"
+    },
+    {
+      "gauge": 10,
+      "bullet_caliber_inch_thousandths": "0,784",
+      "example_gun": "МЦ-10-10",
+      "bore_mm_range": "19,7—20,1"
+    },
+    {
+      "gauge": 12,
+      "bullet_caliber_inch_thousandths": "0,724",
+      "example_gun": "MP-155 «Байкал»",
+      "bore_mm_range": "18,2—18,6"
+    },
+    {
+      "gauge": 14,
+      "bullet_caliber_inch_thousandths": "0,685",
+      "example_gun": "?",
+      "bore_mm_range": "17,2—17,6"
+    },
+    {
+      "gauge": 16,
+      "bullet_caliber_inch_thousandths": "0,669",
+      "example_gun": "РС-16 «Бекас»",
+      "bore_mm_range": "16,8—17,2"
+    },
+    {
+      "gauge": 20,
+      "bullet_caliber_inch_thousandths": "0,626",
+      "example_gun": "ТОЗ-134-20",
+      "bore_mm_range": "15,7—16,1"
+    },
+    {
+      "gauge": 24,
+      "bullet_caliber_inch_thousandths": "0,587",
+      "example_gun": "ЗКМ-2",
+      "bore_mm_range": "14,7—15,1"
+    },
+    {
+      "gauge": 28,
+      "bullet_caliber_inch_thousandths": "0,551",
+      "example_gun": "МЦ-5-28",
+      "bore_mm_range": "13,8—14,2"
+    },
+    {
+      "gauge": 32,
+      "bullet_caliber_inch_thousandths": "0,508",
+      "example_gun": "МЦ-255-32",
+      "bore_mm_range": "12,7—13,1"
+    },
+    {
+      "gauge": 36,
+      "bullet_caliber_inch_thousandths": "0,500",
+      "example_gun": "Р-32-36",
+      "bore_mm_range": "12,5—12,9"
+    },
+    {
+      "gauge": 70,
+      "bullet_caliber_inch_thousandths": "0,410",
+      "example_gun": "«Сайга-410К»",
+      "bore_mm_range": "10,2—10,6"
+    }
+  ],
+  "meta": {
+    "title": "Калибры гладкоствольного охотничьего оружия - Free Download",
+    "description": "Обозначения калибров гладкоствольных ружей по числу шаровых пуль в фунте, их диаметр в дюймах и миллиметрах и примеры отечественных охотничьих ружей. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Калибры гладкоствольного охотничьего оружия | ListBase",
+    "seo_description": "Download Калибры гладкоствольного охотничьего оружия — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Калибр"
+    ]
+  }
+}
