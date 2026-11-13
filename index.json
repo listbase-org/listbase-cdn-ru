@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-13T02:02:18.330Z",
-  "total_datasets": 541,
-  "total_records": 224294,
+  "generated": "2026-11-13T02:02:26.750Z",
+  "total_datasets": 542,
+  "total_records": 224334,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tech",
@@ -12767,6 +12767,34 @@
         "xlsx": {
           "name": "ru-rpl-poseshchaemost_RU.xlsx",
           "size": 7680
+        }
+      }
+    },
+    {
+      "id": "ru-volleybolnye-kluby-superliga-vse-vremena",
+      "name": "Клубы чемпионата России по волейболу среди мужчин: статистика за всё время",
+      "category": "sports",
+      "record_count": 40,
+      "columns": [
+        "club",
+        "seasons",
+        "matches",
+        "wins",
+        "losses",
+        "win_pct",
+        "best_result"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Чемпионат_России_по_волейболу_среди_мужчин",
+      "updated": "2026-11",
+      "size": 12672,
+      "files": {
+        "csv": {
+          "name": "ru-volleybolnye-kluby-superliga-vse-vremena_RU.csv",
+          "size": 4851
+        },
+        "xlsx": {
+          "name": "ru-volleybolnye-kluby-superliga-vse-vremena_RU.xlsx",
+          "size": 9735
         }
       }
     },
