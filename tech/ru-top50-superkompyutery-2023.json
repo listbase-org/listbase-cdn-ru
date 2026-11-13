@@ -1,0 +1,196 @@
+{
+  "id": "ru-top50-superkompyutery-2023",
+  "name": "Топ-50 суперкомпьютеров СНГ (редакция марта 2023)",
+  "title": "Топ-50 суперкомпьютеров СНГ (редакция марта 2023)",
+  "description": "Самые производительные суперкомпьютеры России и СНГ по 38-й редакции рейтинга Топ-50 от 28 марта 2023 года: владелец, год, число ядер, архитектура и производительность.",
+  "category": "tech",
+  "source": "https://ru.wikipedia.org/wiki/Топ-50_(рейтинг_суперкомпьютеров_СНГ)",
+  "source_url": "https://ru.wikipedia.org/wiki/Топ-50_(рейтинг_суперкомпьютеров_СНГ)",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "location",
+      "label": "Location",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "cores",
+      "label": "Cores",
+      "type": "number"
+    },
+    {
+      "key": "architecture",
+      "label": "Architecture",
+      "type": "string"
+    },
+    {
+      "key": "tflops_linpack_peak",
+      "label": "Tflops Linpack Peak",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rank": 1,
+      "location": "Яндекс, Сасово",
+      "name": "Червоненкис",
+      "year": 2021,
+      "cores": "197408",
+      "architecture": "AMD EPYC 7702, NVIDIA A100",
+      "tflops_linpack_peak": "21530 / 29415"
+    },
+    {
+      "rank": 2,
+      "location": "Яндекс, Владимир",
+      "name": "Галушкин",
+      "year": 2021,
+      "cores": "134912",
+      "architecture": "AMD EPYC 7702, NVIDIA A100",
+      "tflops_linpack_peak": "16020 / 20636"
+    },
+    {
+      "rank": 3,
+      "location": "Яндекс, Сасово",
+      "name": "Ляпунов",
+      "year": 2020,
+      "cores": "135904",
+      "architecture": "AMD EPYC 7662, NVIDIA A100",
+      "tflops_linpack_peak": "12810 / 20029"
+    },
+    {
+      "rank": 4,
+      "location": "SberCloud (ООО «Облачные технологии»), Сбербанк, Москва",
+      "name": "Кристофари Нео",
+      "year": 2021,
+      "cores": "98208",
+      "architecture": "AMD EPYC 7742, NVIDIA A100",
+      "tflops_linpack_peak": "11950 / 14909"
+    },
+    {
+      "rank": 5,
+      "location": "SberCloud (ООО «Облачные технологии»), Сбербанк, Москва",
+      "name": "Кристофари",
+      "year": 2019,
+      "cores": "1200 / 99600",
+      "architecture": "Intel Xeon Platinum 8168 24C 2.7GHz, NVIDIA Tesla V100",
+      "tflops_linpack_peak": "6669 / 8790"
+    },
+    {
+      "rank": 6,
+      "location": "Москва, МГУ",
+      "name": "Ломоносов-2",
+      "year": 2018,
+      "cores": "1856 / 64384",
+      "architecture": "1536: 1x Intel Xeon E5-2697v3, 64 GB RAM; Acc: 1x NVIDIA Tesla K40M 160: 1x Intel Xeon Gold 6126, 96 GB RAM; Acc: 2x NVIDIA Tesla P100",
+      "tflops_linpack_peak": "2478 / 4947"
+    },
+    {
+      "rank": 7,
+      "location": "Лыткарино, МТС",
+      "name": "МТС GROM",
+      "year": 2021,
+      "cores": "160 / 19840",
+      "architecture": "20: 2x AMD EPYC 7742, 1024 GB RAM Acc: 8x NVIDIA NVIDIA A100 40GB",
+      "tflops_linpack_peak": "2258 / 3012"
+    },
+    {
+      "rank": 8,
+      "location": "Москва, ФГБУ «ГВЦ Росгидромета»",
+      "name": "",
+      "year": 2018,
+      "cores": "1952 / 35136",
+      "architecture": "976: 2x Intel Xeon E5-2697v4, 128 GB RAM",
+      "tflops_linpack_peak": "1200 / 1293"
+    },
+    {
+      "rank": 9,
+      "location": "Санкт-Петербург",
+      "name": "Политехник - РСК Торнадо, Суперкомпьютерный центр, ФГАОУ ВО СПбПУ",
+      "year": 2017,
+      "cores": "128 / 27608",
+      "architecture": "625: 2x Intel Xeon E5-2697v3, 64 GB RAM 56: 2x Intel Xeon E5-2697v3, 64 GB RAM; Acc: 2x NVIDIA Tesla K40 54: 2x Intel Xeon E5-2697v3, 128 GB RAM 30: 2x Intel Xeon Platinum 8268, 192 GB RAM 2: 2x Intel Xeon Gold 6248R, 768 GB RAM; Acc: 8x NVIDIA Tesla V100 51: 2x Intel Xeon Gold 6248R, 192 GB RAM 3: 2x Intel Xeon E5-2697v3, 256 GB RAM",
+      "tflops_linpack_peak": "971 / 1521"
+    },
+    {
+      "rank": 10,
+      "location": "Москва, Высшая школа экономики",
+      "name": "cHARISMa",
+      "year": 2019,
+      "cores": "166 / 17520",
+      "architecture": "16: 2x Intel Xeon Gold 6152, 768 GB RAM; Acc: 4x NVIDIA Tesla V100 10: 2x Intel Xeon Gold 6152, 1536 GB RAM; Acc: 4x NVIDIA Tesla V100 6: 2x Intel Xeon Gold 6152, 768 GB RAM 2: 2x Intel Xeon Gold 6152, 768 GB RAM; Acc: 1x NVIDIA Tesla P40 3: 2x Intel Xeon Gold 6240R, 768 GB RAM; Acc: 4x NVIDIA Tesla V100 11: 2x Intel Xeon Gold 6248R, 384 GB RAM 6: 2x AMD EPYC 7702, 1024 GB RAM; Acc: 8x NVIDIA A100",
+      "tflops_linpack_peak": "927 / 2027"
+    },
+    {
+      "rank": 11,
+      "location": "Москва, ФГБУН МСЦ РАН",
+      "name": "МВС-10П ОП2",
+      "year": 2020,
+      "cores": "498 / 11256",
+      "architecture": "58: 2x Intel Xeon Gold 6154, 192 GB RAM 51: 2x Intel Xeon Platinum 8268, 192 GB RAM 140: 2x Intel Intel Xeon Gold 6248R, 192 GB RAM",
+      "tflops_linpack_peak": "759 / 1073"
+    },
+    {
+      "rank": 12,
+      "location": "Москва, Курчатовский институт",
+      "name": "",
+      "year": 2018,
+      "cores": "1194 / 13376",
+      "architecture": "2: 2x Intel Xeon E5-2640 v4, 64 GB RAM Acc: 8x NVIDIA Tesla V100 60: 2x Intel Xeon E5-2680v4, 128 GB RAM 364: 2x Intel Xeon E5-2680v3, 128 GB RAM 23: 2x Intel Xeon E5-2680v3, 128 GB RAM Acc: 3x NVIDIA Tesla K80 148: 2x Intel Xeon E5-2650v2, 128 GB RAM Acc: 2x NVIDIA Tesla K80",
+      "tflops_linpack_peak": "756 / 1235"
+    },
+    {
+      "rank": 13,
+      "location": "Москва, Сколковский институт науки и технологий",
+      "name": "ZHORES CDISE Cluster",
+      "year": 2018,
+      "cores": "172 / 2296",
+      "architecture": "2: 2x Intel Xeon Gold 6136, 256 GB RAM 4: 4x Intel Xeon Gold 6134, 192 GB RAM 2: 2x Intel Xeon Gold 6134, 384 GB RAM 4: 2x Intel Xeon Gold 6136, 192 GB RAM 26: 2x Intel Xeon Gold 6140, 384 GB RAM Acc: 4x NVIDIA Tesla V100 44: 2x Intel Xeon Gold 6136, 192 GB RAM",
+      "tflops_linpack_peak": "496 / 1012"
+    },
+    {
+      "rank": 14,
+      "location": "Москва, Тинькофф банк",
+      "name": "Колмогоров",
+      "year": 2019,
+      "cores": "20 / 360",
+      "architecture": "10: 2x Intel Xeon Gold 6154, 384 GB RAM Acc: 8x NVIDIA Tesla V100",
+      "tflops_linpack_peak": "419 / 659"
+    },
+    {
+      "rank": 15,
+      "location": "Москва, ФГБУН МСЦ РАН",
+      "name": "МВС-10П",
+      "year": 2016,
+      "cores": "416 / 3328",
+      "architecture": "208: 2x Intel Xeon E5-2690, 80 GB RAM Acc: 2x Intel Xeon Phi 7110X",
+      "tflops_linpack_peak": "383 / 524"
+    }
+  ],
+  "meta": {
+    "title": "Топ-50 суперкомпьютеров СНГ (редакция марта 2023) - Free Download",
+    "description": "Самые производительные суперкомпьютеры России и СНГ по 38-й редакции рейтинга Топ-50 от 28 марта 2023 года: владелец, год, число ядер, архитектура и производительность. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Топ-50 суперкомпьютеров СНГ (редакция марта 2023) | ListBase",
+    "seo_description": "Download Топ-50 суперкомпьютеров СНГ (редакция марта 2023) — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Топ-50_(рейтинг_суперкомпьютеров_СНГ)"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-13T02:02:08.943Z",
-  "total_datasets": 540,
-  "total_records": 224279,
+  "generated": "2026-11-13T02:02:18.330Z",
+  "total_datasets": 541,
+  "total_records": 224294,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "time",
@@ -12910,6 +12910,34 @@
         "xlsx": {
           "name": "ru-strany-emoji-flagi_RU.xlsx",
           "size": 16330
+        }
+      }
+    },
+    {
+      "id": "ru-top50-superkompyutery-2023",
+      "name": "Топ-50 суперкомпьютеров СНГ (редакция марта 2023)",
+      "category": "tech",
+      "record_count": 15,
+      "columns": [
+        "rank",
+        "location",
+        "name",
+        "year",
+        "cores",
+        "architecture",
+        "tflops_linpack_peak"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Топ-50_(рейтинг_суперкомпьютеров_СНГ)",
+      "updated": "2026-11",
+      "size": 8355,
+      "files": {
+        "csv": {
+          "name": "ru-top50-superkompyutery-2023_RU.csv",
+          "size": 3751
+        },
+        "xlsx": {
+          "name": "ru-top50-superkompyutery-2023_RU.xlsx",
+          "size": 8529
         }
       }
     },
