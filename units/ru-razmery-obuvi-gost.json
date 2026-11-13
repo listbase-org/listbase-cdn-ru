@@ -1,0 +1,451 @@
+{
+  "id": "ru-razmery-obuvi-gost",
+  "name": "Размеры обуви по ГОСТ: метрическая и штихмассовая системы",
+  "title": "Размеры обуви по ГОСТ: метрическая и штихмассовая системы",
+  "description": "Соответствие метрических (по длине стопы в мм) и штихмассовых размеров обуви по половозрастным группам обуви согласно советскому/российскому ГОСТ.",
+  "category": "units",
+  "source": "https://ru.wikipedia.org/wiki/Размеры_обуви",
+  "source_url": "https://ru.wikipedia.org/wiki/Размеры_обуви",
+  "updated": "2026-11",
+  "record_count": 82,
+  "columns": [
+    {
+      "key": "shoe_group",
+      "label": "Shoe Group",
+      "type": "string"
+    },
+    {
+      "key": "metric_size_mm",
+      "label": "Metric Size Mm",
+      "type": "number"
+    },
+    {
+      "key": "shtikhmass_size",
+      "label": "Shtikhmass Size",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "shoe_group": "Пинетки",
+      "metric_size_mm": 95,
+      "shtikhmass_size": 16
+    },
+    {
+      "shoe_group": "Пинетки",
+      "metric_size_mm": 100,
+      "shtikhmass_size": 16.5
+    },
+    {
+      "shoe_group": "Пинетки",
+      "metric_size_mm": 105,
+      "shtikhmass_size": 17
+    },
+    {
+      "shoe_group": "Пинетки",
+      "metric_size_mm": 110,
+      "shtikhmass_size": 18
+    },
+    {
+      "shoe_group": "Пинетки",
+      "metric_size_mm": 115,
+      "shtikhmass_size": 19
+    },
+    {
+      "shoe_group": "Пинетки",
+      "metric_size_mm": 120,
+      "shtikhmass_size": 19.5
+    },
+    {
+      "shoe_group": "Пинетки",
+      "metric_size_mm": 125,
+      "shtikhmass_size": 20
+    },
+    {
+      "shoe_group": "Для ясельного возраста",
+      "metric_size_mm": 105,
+      "shtikhmass_size": 17
+    },
+    {
+      "shoe_group": "Для ясельного возраста",
+      "metric_size_mm": 110,
+      "shtikhmass_size": 18
+    },
+    {
+      "shoe_group": "Для ясельного возраста",
+      "metric_size_mm": 115,
+      "shtikhmass_size": 19
+    },
+    {
+      "shoe_group": "Для ясельного возраста",
+      "metric_size_mm": 120,
+      "shtikhmass_size": 19.5
+    },
+    {
+      "shoe_group": "Для ясельного возраста",
+      "metric_size_mm": 125,
+      "shtikhmass_size": 20
+    },
+    {
+      "shoe_group": "Для ясельного возраста",
+      "metric_size_mm": 130,
+      "shtikhmass_size": 21
+    },
+    {
+      "shoe_group": "Для ясельного возраста",
+      "metric_size_mm": 135,
+      "shtikhmass_size": 22
+    },
+    {
+      "shoe_group": "Для ясельного возраста",
+      "metric_size_mm": 140,
+      "shtikhmass_size": 22.5
+    },
+    {
+      "shoe_group": "Малодетская",
+      "metric_size_mm": 145,
+      "shtikhmass_size": 23
+    },
+    {
+      "shoe_group": "Малодетская",
+      "metric_size_mm": 150,
+      "shtikhmass_size": 24
+    },
+    {
+      "shoe_group": "Малодетская",
+      "metric_size_mm": 155,
+      "shtikhmass_size": 25
+    },
+    {
+      "shoe_group": "Малодетская",
+      "metric_size_mm": 160,
+      "shtikhmass_size": 25.5
+    },
+    {
+      "shoe_group": "Малодетская",
+      "metric_size_mm": 165,
+      "shtikhmass_size": 26
+    },
+    {
+      "shoe_group": "Дошкольная",
+      "metric_size_mm": 170,
+      "shtikhmass_size": 27
+    },
+    {
+      "shoe_group": "Дошкольная",
+      "metric_size_mm": 175,
+      "shtikhmass_size": 28
+    },
+    {
+      "shoe_group": "Дошкольная",
+      "metric_size_mm": 180,
+      "shtikhmass_size": 28.5
+    },
+    {
+      "shoe_group": "Дошкольная",
+      "metric_size_mm": 185,
+      "shtikhmass_size": 29
+    },
+    {
+      "shoe_group": "Дошкольная",
+      "metric_size_mm": 190,
+      "shtikhmass_size": 30
+    },
+    {
+      "shoe_group": "Дошкольная",
+      "metric_size_mm": 195,
+      "shtikhmass_size": 31
+    },
+    {
+      "shoe_group": "Дошкольная",
+      "metric_size_mm": 200,
+      "shtikhmass_size": 31.5
+    },
+    {
+      "shoe_group": "Для школьников-девочек",
+      "metric_size_mm": 205,
+      "shtikhmass_size": 32
+    },
+    {
+      "shoe_group": "Для школьников-девочек",
+      "metric_size_mm": 210,
+      "shtikhmass_size": 33
+    },
+    {
+      "shoe_group": "Для школьников-девочек",
+      "metric_size_mm": 215,
+      "shtikhmass_size": 34
+    },
+    {
+      "shoe_group": "Для школьников-девочек",
+      "metric_size_mm": 220,
+      "shtikhmass_size": 34.5
+    },
+    {
+      "shoe_group": "Для школьников-девочек",
+      "metric_size_mm": 225,
+      "shtikhmass_size": 35
+    },
+    {
+      "shoe_group": "Для школьников-девочек",
+      "metric_size_mm": 230,
+      "shtikhmass_size": 36
+    },
+    {
+      "shoe_group": "Для школьников-девочек",
+      "metric_size_mm": 235,
+      "shtikhmass_size": 37
+    },
+    {
+      "shoe_group": "Девичья",
+      "metric_size_mm": 225,
+      "shtikhmass_size": 35
+    },
+    {
+      "shoe_group": "Девичья",
+      "metric_size_mm": 230,
+      "shtikhmass_size": 36
+    },
+    {
+      "shoe_group": "Девичья",
+      "metric_size_mm": 235,
+      "shtikhmass_size": 37
+    },
+    {
+      "shoe_group": "Девичья",
+      "metric_size_mm": 240,
+      "shtikhmass_size": 37.5
+    },
+    {
+      "shoe_group": "Девичья",
+      "metric_size_mm": 245,
+      "shtikhmass_size": 38
+    },
+    {
+      "shoe_group": "Девичья",
+      "metric_size_mm": 250,
+      "shtikhmass_size": 39
+    },
+    {
+      "shoe_group": "Девичья",
+      "metric_size_mm": 255,
+      "shtikhmass_size": 40
+    },
+    {
+      "shoe_group": "Для школьников-мальчиков",
+      "metric_size_mm": 205,
+      "shtikhmass_size": 32
+    },
+    {
+      "shoe_group": "Для школьников-мальчиков",
+      "metric_size_mm": 210,
+      "shtikhmass_size": 33
+    },
+    {
+      "shoe_group": "Для школьников-мальчиков",
+      "metric_size_mm": 215,
+      "shtikhmass_size": 34
+    },
+    {
+      "shoe_group": "Для школьников-мальчиков",
+      "metric_size_mm": 220,
+      "shtikhmass_size": 34.5
+    },
+    {
+      "shoe_group": "Для школьников-мальчиков",
+      "metric_size_mm": 225,
+      "shtikhmass_size": 35
+    },
+    {
+      "shoe_group": "Для школьников-мальчиков",
+      "metric_size_mm": 230,
+      "shtikhmass_size": 36
+    },
+    {
+      "shoe_group": "Для школьников-мальчиков",
+      "metric_size_mm": 235,
+      "shtikhmass_size": 37
+    },
+    {
+      "shoe_group": "Для школьников-мальчиков",
+      "metric_size_mm": 240,
+      "shtikhmass_size": 37.5
+    },
+    {
+      "shoe_group": "Мальчиковая",
+      "metric_size_mm": 245,
+      "shtikhmass_size": 38
+    },
+    {
+      "shoe_group": "Мальчиковая",
+      "metric_size_mm": 250,
+      "shtikhmass_size": 39
+    },
+    {
+      "shoe_group": "Мальчиковая",
+      "metric_size_mm": 255,
+      "shtikhmass_size": 40
+    },
+    {
+      "shoe_group": "Мальчиковая",
+      "metric_size_mm": 260,
+      "shtikhmass_size": 40.5
+    },
+    {
+      "shoe_group": "Мальчиковая",
+      "metric_size_mm": 265,
+      "shtikhmass_size": 41
+    },
+    {
+      "shoe_group": "Мальчиковая",
+      "metric_size_mm": 270,
+      "shtikhmass_size": 42
+    },
+    {
+      "shoe_group": "Мальчиковая",
+      "metric_size_mm": 275,
+      "shtikhmass_size": 43
+    },
+    {
+      "shoe_group": "Мальчиковая",
+      "metric_size_mm": 280,
+      "shtikhmass_size": 43.5
+    },
+    {
+      "shoe_group": "Женская",
+      "metric_size_mm": 210,
+      "shtikhmass_size": 33
+    },
+    {
+      "shoe_group": "Женская",
+      "metric_size_mm": 215,
+      "shtikhmass_size": 34
+    },
+    {
+      "shoe_group": "Женская",
+      "metric_size_mm": 220,
+      "shtikhmass_size": 34.5
+    },
+    {
+      "shoe_group": "Женская",
+      "metric_size_mm": 225,
+      "shtikhmass_size": 35
+    },
+    {
+      "shoe_group": "Женская",
+      "metric_size_mm": 230,
+      "shtikhmass_size": 36
+    },
+    {
+      "shoe_group": "Женская",
+      "metric_size_mm": 235,
+      "shtikhmass_size": 37
+    },
+    {
+      "shoe_group": "Женская",
+      "metric_size_mm": 240,
+      "shtikhmass_size": 37.5
+    },
+    {
+      "shoe_group": "Женская",
+      "metric_size_mm": 245,
+      "shtikhmass_size": 38
+    },
+    {
+      "shoe_group": "Женская",
+      "metric_size_mm": 250,
+      "shtikhmass_size": 39
+    },
+    {
+      "shoe_group": "Женская",
+      "metric_size_mm": 260,
+      "shtikhmass_size": 41
+    },
+    {
+      "shoe_group": "Женская",
+      "metric_size_mm": 265,
+      "shtikhmass_size": 42
+    },
+    {
+      "shoe_group": "Женская",
+      "metric_size_mm": 270,
+      "shtikhmass_size": 43
+    },
+    {
+      "shoe_group": "Женская",
+      "metric_size_mm": 275,
+      "shtikhmass_size": 43
+    },
+    {
+      "shoe_group": "Мужская",
+      "metric_size_mm": 245,
+      "shtikhmass_size": 38
+    },
+    {
+      "shoe_group": "Мужская",
+      "metric_size_mm": 250,
+      "shtikhmass_size": 39
+    },
+    {
+      "shoe_group": "Мужская",
+      "metric_size_mm": 255,
+      "shtikhmass_size": 40
+    },
+    {
+      "shoe_group": "Мужская",
+      "metric_size_mm": 260,
+      "shtikhmass_size": 40.5
+    },
+    {
+      "shoe_group": "Мужская",
+      "metric_size_mm": 265,
+      "shtikhmass_size": 41
+    },
+    {
+      "shoe_group": "Мужская",
+      "metric_size_mm": 270,
+      "shtikhmass_size": 42
+    },
+    {
+      "shoe_group": "Мужская",
+      "metric_size_mm": 275,
+      "shtikhmass_size": 43
+    },
+    {
+      "shoe_group": "Мужская",
+      "metric_size_mm": 285,
+      "shtikhmass_size": 44
+    },
+    {
+      "shoe_group": "Мужская",
+      "metric_size_mm": 290,
+      "shtikhmass_size": 45
+    },
+    {
+      "shoe_group": "Мужская",
+      "metric_size_mm": 295,
+      "shtikhmass_size": 46
+    },
+    {
+      "shoe_group": "Мужская",
+      "metric_size_mm": 300,
+      "shtikhmass_size": 46.5
+    },
+    {
+      "shoe_group": "Мужская",
+      "metric_size_mm": 305,
+      "shtikhmass_size": 47
+    }
+  ],
+  "meta": {
+    "title": "Размеры обуви по ГОСТ: метрическая и штихмассовая системы - Free Download",
+    "description": "Соответствие метрических (по длине стопы в мм) и штихмассовых размеров обуви по половозрастным группам обуви согласно советскому/российскому ГОСТ. Contains 82 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Размеры обуви по ГОСТ: метрическая и штихмассовая системы | ListBase",
+    "seo_description": "Download Размеры обуви по ГОСТ: метрическая и штихмассовая системы — 82 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 82 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Размеры_обуви"
+    ]
+  }
+}
