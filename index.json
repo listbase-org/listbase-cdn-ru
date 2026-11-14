@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-14T02:09:36.691Z",
-  "total_datasets": 543,
-  "total_records": 224540,
+  "generated": "2026-11-14T02:09:45.306Z",
+  "total_datasets": 544,
+  "total_records": 224728,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "tourism",
@@ -13042,6 +13042,30 @@
         "xlsx": {
           "name": "ru-dni-voinskoy-slavy-i-pamyatnye-daty_RU.xlsx",
           "size": 9174
+        }
+      }
+    },
+    {
+      "id": "ru-kalendar-prazdnikov-i-pamyatnykh-dney",
+      "name": "Праздники, профессиональные и памятные дни России — календарь",
+      "category": "time",
+      "record_count": 188,
+      "columns": [
+        "date",
+        "name",
+        "note"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Праздники_России",
+      "updated": "2026-11",
+      "size": 178857,
+      "files": {
+        "csv": {
+          "name": "ru-kalendar-prazdnikov-i-pamyatnykh-dney_RU.csv",
+          "size": 165977
+        },
+        "xlsx": {
+          "name": "ru-kalendar-prazdnikov-i-pamyatnykh-dney_RU.xlsx",
+          "size": 48127
         }
       }
     },
