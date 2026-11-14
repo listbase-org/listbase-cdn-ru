@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-13T02:02:26.750Z",
-  "total_datasets": 542,
-  "total_records": 224334,
+  "generated": "2026-11-14T02:09:36.691Z",
+  "total_datasets": 543,
+  "total_records": 224540,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "finance",
@@ -1088,6 +1088,34 @@
         "xlsx": {
           "name": "ru-elektrostantsii_RU.xlsx",
           "size": 49342
+        }
+      }
+    },
+    {
+      "id": "ru-gidroelektrostantsii",
+      "name": "Гидроэлектростанции России",
+      "category": "environment",
+      "record_count": 206,
+      "columns": [
+        "name",
+        "capacity_mw",
+        "commissioned",
+        "owner",
+        "river",
+        "region",
+        "group"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_гидроэлектростанций_России",
+      "updated": "2026-11",
+      "size": 70091,
+      "files": {
+        "csv": {
+          "name": "ru-gidroelektrostantsii_RU.csv",
+          "size": 39936
+        },
+        "xlsx": {
+          "name": "ru-gidroelektrostantsii_RU.xlsx",
+          "size": 18230
         }
       }
     },
