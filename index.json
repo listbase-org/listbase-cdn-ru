@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-15T02:10:53.685Z",
-  "total_datasets": 546,
-  "total_records": 224819,
+  "generated": "2026-11-15T02:11:02.483Z",
+  "total_datasets": 547,
+  "total_records": 224903,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "food",
@@ -1337,6 +1337,31 @@
         "xlsx": {
           "name": "ru-rynki_RU.xlsx",
           "size": 10664
+        }
+      }
+    },
+    {
+      "id": "ru-stavka-refinansirovaniya-1992-2015",
+      "name": "Ставка рефинансирования Банка России (1992–2015)",
+      "category": "finance",
+      "record_count": 84,
+      "columns": [
+        "period_from",
+        "period_to",
+        "rate_percent",
+        "document"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Ставка_рефинансирования_в_России",
+      "updated": "2026-11",
+      "size": 21968,
+      "files": {
+        "csv": {
+          "name": "ru-stavka-refinansirovaniya-1992-2015_RU.csv",
+          "size": 11931
+        },
+        "xlsx": {
+          "name": "ru-stavka-refinansirovaniya-1992-2015_RU.xlsx",
+          "size": 10325
         }
       }
     },
