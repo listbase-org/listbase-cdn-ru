@@ -1,0 +1,471 @@
+{
+  "id": "ru-valovoy-sbor-tekhnicheskikh-kultur",
+  "name": "Валовой сбор технических культур в России (тыс. тонн)",
+  "title": "Валовой сбор технических культур в России (тыс. тонн)",
+  "description": "Валовые сборы технических культур в Российской Федерации по годам (1990–2018, 2021): лён-долгунец, сахарная свёкла, подсолнечник, соя, горчица и рапс; хозяйства всех категорий, тысяч тонн.",
+  "category": "agriculture",
+  "source": "https://ru.wikipedia.org/wiki/Сельское_хозяйство_России",
+  "source_url": "https://ru.wikipedia.org/wiki/Сельское_хозяйство_России",
+  "updated": "2026-11",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "flax_seeds",
+      "label": "Flax Seeds",
+      "type": "number"
+    },
+    {
+      "key": "flax_fiber",
+      "label": "Flax Fiber",
+      "type": "number"
+    },
+    {
+      "key": "sugar_beet",
+      "label": "Sugar Beet",
+      "type": "number"
+    },
+    {
+      "key": "oilseeds_total",
+      "label": "Oilseeds Total",
+      "type": "number"
+    },
+    {
+      "key": "sunflower",
+      "label": "Sunflower",
+      "type": "number"
+    },
+    {
+      "key": "soybean",
+      "label": "Soybean",
+      "type": "number"
+    },
+    {
+      "key": "mustard",
+      "label": "Mustard",
+      "type": "number"
+    },
+    {
+      "key": "rapeseed_total",
+      "label": "Rapeseed Total",
+      "type": "number"
+    },
+    {
+      "key": "rapeseed_winter",
+      "label": "Rapeseed Winter",
+      "type": "number"
+    },
+    {
+      "key": "rapeseed_spring",
+      "label": "Rapeseed Spring",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2021,
+      "flax_seeds": 3.77,
+      "flax_fiber": 25.95,
+      "sugar_beet": 41201.67,
+      "oilseeds_total": 24850.39,
+      "sunflower": 15656.33,
+      "soybean": 4759.91,
+      "mustard": 144.59,
+      "rapeseed_total": 2793.78,
+      "rapeseed_winter": 729.67,
+      "rapeseed_spring": 2064.11
+    },
+    {
+      "year": 2018,
+      "flax_seeds": 7,
+      "flax_fiber": 37,
+      "sugar_beet": 42066,
+      "oilseeds_total": 19525,
+      "sunflower": 12756,
+      "soybean": 4027,
+      "mustard": 124,
+      "rapeseed_total": 1989,
+      "rapeseed_winter": 344,
+      "rapeseed_spring": 1644
+    },
+    {
+      "year": 2017,
+      "flax_seeds": 8,
+      "flax_fiber": 39,
+      "sugar_beet": 51913,
+      "oilseeds_total": 16497,
+      "sunflower": 10481,
+      "soybean": 3622,
+      "mustard": 98,
+      "rapeseed_total": 1510,
+      "rapeseed_winter": 339,
+      "rapeseed_spring": 1171
+    },
+    {
+      "year": 2016,
+      "flax_seeds": 8,
+      "flax_fiber": 41,
+      "sugar_beet": 51325,
+      "oilseeds_total": 16271,
+      "sunflower": 11015,
+      "soybean": 3143,
+      "mustard": 73,
+      "rapeseed_total": 1001,
+      "rapeseed_winter": 167,
+      "rapeseed_spring": 834
+    },
+    {
+      "year": 2015,
+      "flax_seeds": 8,
+      "flax_fiber": 45,
+      "sugar_beet": 38989,
+      "oilseeds_total": 13854,
+      "sunflower": 9289,
+      "soybean": 2716,
+      "mustard": 67,
+      "rapeseed_total": 1013,
+      "rapeseed_winter": 267,
+      "rapeseed_spring": 747
+    },
+    {
+      "year": 2014,
+      "flax_seeds": 6,
+      "flax_fiber": 37,
+      "sugar_beet": 33476,
+      "oilseeds_total": 12870,
+      "sunflower": 8481,
+      "soybean": 2371,
+      "mustard": 93,
+      "rapeseed_total": 1336,
+      "rapeseed_winter": 452,
+      "rapeseed_spring": 884
+    },
+    {
+      "year": 2013,
+      "flax_seeds": 5,
+      "flax_fiber": 39,
+      "sugar_beet": 29292,
+      "oilseeds_total": 13150,
+      "sunflower": 9852,
+      "soybean": 1520,
+      "mustard": 50,
+      "rapeseed_total": 1259,
+      "rapeseed_winter": 391,
+      "rapeseed_spring": 868
+    },
+    {
+      "year": 2012,
+      "flax_seeds": 7,
+      "flax_fiber": 46,
+      "sugar_beet": 45031,
+      "oilseeds_total": 10574,
+      "sunflower": 7501,
+      "soybean": 1688,
+      "mustard": 38,
+      "rapeseed_total": 945,
+      "rapeseed_winter": 157,
+      "rapeseed_spring": 789
+    },
+    {
+      "year": 2011,
+      "flax_seeds": 6,
+      "flax_fiber": 43,
+      "sugar_beet": 47609,
+      "oilseeds_total": 12234,
+      "sunflower": 9069,
+      "soybean": 1648,
+      "mustard": 82,
+      "rapeseed_total": 957,
+      "rapeseed_winter": 291,
+      "rapeseed_spring": 667
+    },
+    {
+      "year": 2010,
+      "flax_seeds": 5,
+      "flax_fiber": 35,
+      "sugar_beet": 22241,
+      "oilseeds_total": 7463,
+      "sunflower": 5347,
+      "soybean": 1226,
+      "mustard": 36,
+      "rapeseed_total": 671,
+      "rapeseed_winter": 395,
+      "rapeseed_spring": 275
+    },
+    {
+      "year": 2009,
+      "flax_seeds": 9,
+      "flax_fiber": 52,
+      "sugar_beet": 24863,
+      "oilseeds_total": 8192,
+      "sunflower": 6458,
+      "soybean": 946,
+      "mustard": 24,
+      "rapeseed_total": 667,
+      "rapeseed_winter": 308,
+      "rapeseed_spring": 359
+    },
+    {
+      "year": 2008,
+      "flax_seeds": 7,
+      "flax_fiber": 52,
+      "sugar_beet": 28984,
+      "oilseeds_total": 8976,
+      "sunflower": 7352,
+      "soybean": 747,
+      "mustard": 31,
+      "rapeseed_total": 752,
+      "rapeseed_winter": 247,
+      "rapeseed_spring": 506
+    },
+    {
+      "year": 2007,
+      "flax_seeds": 7,
+      "flax_fiber": 47,
+      "sugar_beet": 28832,
+      "oilseeds_total": 7039,
+      "sunflower": 5672,
+      "soybean": 651,
+      "mustard": 11,
+      "rapeseed_total": 630,
+      "rapeseed_winter": 227,
+      "rapeseed_spring": 404
+    },
+    {
+      "year": 2006,
+      "flax_seeds": 5,
+      "flax_fiber": 36,
+      "sugar_beet": 30673,
+      "oilseeds_total": 8218,
+      "sunflower": 6743,
+      "soybean": 805,
+      "mustard": 64,
+      "rapeseed_total": 522,
+      "rapeseed_winter": 127,
+      "rapeseed_spring": 395
+    },
+    {
+      "year": 2005,
+      "flax_seeds": 10,
+      "flax_fiber": 56,
+      "sugar_beet": 21276,
+      "oilseeds_total": 7557,
+      "sunflower": 6470,
+      "soybean": 686,
+      "mustard": 63,
+      "rapeseed_total": 304,
+      "rapeseed_winter": 142,
+      "rapeseed_spring": 162
+    },
+    {
+      "year": 2004,
+      "flax_seeds": 13,
+      "flax_fiber": 58,
+      "sugar_beet": 21809,
+      "oilseeds_total": 5726,
+      "sunflower": 4810,
+      "soybean": 554,
+      "mustard": 55,
+      "rapeseed_total": 277,
+      "rapeseed_winter": 154,
+      "rapeseed_spring": 123
+    },
+    {
+      "year": 2003,
+      "flax_seeds": 11,
+      "flax_fiber": 55,
+      "sugar_beet": 19355,
+      "oilseeds_total": 5580,
+      "sunflower": 4887,
+      "soybean": 392,
+      "mustard": 86,
+      "rapeseed_total": 192,
+      "rapeseed_winter": 45,
+      "rapeseed_spring": 147
+    },
+    {
+      "year": 2002,
+      "flax_seeds": 15,
+      "flax_fiber": 38,
+      "sugar_beet": 15659,
+      "oilseeds_total": 4275,
+      "sunflower": 3688,
+      "soybean": 423,
+      "mustard": 35,
+      "rapeseed_total": 115,
+      "rapeseed_winter": 53,
+      "rapeseed_spring": 63
+    },
+    {
+      "year": 2001,
+      "flax_seeds": 23,
+      "flax_fiber": 58,
+      "sugar_beet": 14553,
+      "oilseeds_total": 3182,
+      "sunflower": 2682,
+      "soybean": 350,
+      "mustard": 28,
+      "rapeseed_total": 113,
+      "rapeseed_winter": 62,
+      "rapeseed_spring": 51
+    },
+    {
+      "year": 2000,
+      "flax_seeds": 18,
+      "flax_fiber": 51,
+      "sugar_beet": 14051,
+      "oilseeds_total": 4473,
+      "sunflower": 3919,
+      "soybean": 342,
+      "mustard": 46,
+      "rapeseed_total": 149,
+      "rapeseed_winter": 62,
+      "rapeseed_spring": 87
+    },
+    {
+      "year": 1999,
+      "flax_seeds": 11,
+      "flax_fiber": 24,
+      "sugar_beet": 15226,
+      "oilseeds_total": 4673,
+      "sunflower": 4149,
+      "soybean": 334,
+      "mustard": 43,
+      "rapeseed_total": 135,
+      "rapeseed_winter": 15,
+      "rapeseed_spring": 120
+    },
+    {
+      "year": 1998,
+      "flax_seeds": 9,
+      "flax_fiber": 34,
+      "sugar_beet": 10796,
+      "oilseeds_total": 3426,
+      "sunflower": 2993,
+      "soybean": 295,
+      "mustard": 7,
+      "rapeseed_total": 125,
+      "rapeseed_winter": 48,
+      "rapeseed_spring": 76
+    },
+    {
+      "year": 1997,
+      "flax_seeds": 15,
+      "flax_fiber": 23,
+      "sugar_beet": 13879,
+      "oilseeds_total": 3275,
+      "sunflower": 2829,
+      "soybean": 280,
+      "mustard": 58,
+      "rapeseed_total": 104,
+      "rapeseed_winter": 33,
+      "rapeseed_spring": 71
+    },
+    {
+      "year": 1996,
+      "flax_seeds": 21,
+      "flax_fiber": 59,
+      "sugar_beet": 16165,
+      "oilseeds_total": 3225,
+      "sunflower": 2763,
+      "soybean": 283,
+      "mustard": 39,
+      "rapeseed_total": 135,
+      "rapeseed_winter": 24,
+      "rapeseed_spring": 110
+    },
+    {
+      "year": 1995,
+      "flax_seeds": 27,
+      "flax_fiber": 69,
+      "sugar_beet": 19072,
+      "oilseeds_total": 4667,
+      "sunflower": 4200,
+      "soybean": 290,
+      "mustard": 47,
+      "rapeseed_total": 123,
+      "rapeseed_winter": 11,
+      "rapeseed_spring": 113
+    },
+    {
+      "year": 1994,
+      "flax_seeds": 22,
+      "flax_fiber": 54,
+      "sugar_beet": 13946,
+      "oilseeds_total": 3154,
+      "sunflower": 2553,
+      "soybean": 422,
+      "mustard": 51,
+      "rapeseed_total": 122,
+      "rapeseed_winter": 13,
+      "rapeseed_spring": 110
+    },
+    {
+      "year": 1993,
+      "flax_seeds": 25,
+      "flax_fiber": 58,
+      "sugar_beet": 25468,
+      "oilseeds_total": 3455,
+      "sunflower": 2765,
+      "soybean": 497,
+      "mustard": 79,
+      "rapeseed_total": 97,
+      "rapeseed_winter": 20,
+      "rapeseed_spring": 77
+    },
+    {
+      "year": 1992,
+      "flax_seeds": 44,
+      "flax_fiber": 78,
+      "sugar_beet": 25548,
+      "oilseeds_total": 3883,
+      "sunflower": 3110,
+      "soybean": 505,
+      "mustard": 69,
+      "rapeseed_total": 164,
+      "rapeseed_winter": 67,
+      "rapeseed_spring": 98
+    },
+    {
+      "year": 1991,
+      "flax_seeds": 44,
+      "flax_fiber": 102,
+      "sugar_beet": 24280,
+      "oilseeds_total": 3820,
+      "sunflower": 2896,
+      "soybean": 622,
+      "mustard": 80,
+      "rapeseed_total": 181,
+      "rapeseed_winter": 83,
+      "rapeseed_spring": 98
+    },
+    {
+      "year": 1990,
+      "flax_seeds": 48,
+      "flax_fiber": 71,
+      "sugar_beet": 32327,
+      "oilseeds_total": 4662,
+      "sunflower": 3427,
+      "soybean": 717,
+      "mustard": 192,
+      "rapeseed_total": 258,
+      "rapeseed_winter": 105,
+      "rapeseed_spring": 153
+    }
+  ],
+  "meta": {
+    "title": "Валовой сбор технических культур в России (тыс. тонн) - Free Download",
+    "description": "Валовые сборы технических культур в Российской Федерации по годам (1990–2018, 2021): лён-долгунец, сахарная свёкла, подсолнечник, соя, горчица и рапс; хозяйства всех категорий, тысяч тонн. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Валовой сбор технических культур в России (тыс. тонн) | ListBase",
+    "seo_description": "Download Валовой сбор технических культур в России (тыс. тонн) — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 11 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Сельское_хозяйство_России"
+    ]
+  }
+}

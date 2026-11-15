@@ -1,12 +1,12 @@
 {
   "lang": "ru",
-  "generated": "2026-11-15T02:11:02.483Z",
-  "total_datasets": 547,
-  "total_records": 224903,
+  "generated": "2026-11-15T02:11:11.020Z",
+  "total_datasets": 548,
+  "total_records": 224933,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "culture",
@@ -219,6 +219,38 @@
         "xlsx": {
           "name": "ru-urozhay-zernovykh_RU.xlsx",
           "size": 9243
+        }
+      }
+    },
+    {
+      "id": "ru-valovoy-sbor-tekhnicheskikh-kultur",
+      "name": "Валовой сбор технических культур в России (тыс. тонн)",
+      "category": "agriculture",
+      "record_count": 30,
+      "columns": [
+        "year",
+        "flax_seeds",
+        "flax_fiber",
+        "sugar_beet",
+        "oilseeds_total",
+        "sunflower",
+        "soybean",
+        "mustard",
+        "rapeseed_total",
+        "rapeseed_winter",
+        "rapeseed_spring"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Сельское_хозяйство_России",
+      "updated": "2026-11",
+      "size": 11911,
+      "files": {
+        "csv": {
+          "name": "ru-valovoy-sbor-tekhnicheskikh-kultur_RU.csv",
+          "size": 2219
+        },
+        "xlsx": {
+          "name": "ru-valovoy-sbor-tekhnicheskikh-kultur_RU.xlsx",
+          "size": 8640
         }
       }
     },
