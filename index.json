@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-15T02:11:11.020Z",
-  "total_datasets": 548,
-  "total_records": 224933,
+  "generated": "2026-11-15T02:11:20.148Z",
+  "total_datasets": 549,
+  "total_records": 224962,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "language",
@@ -4848,6 +4848,30 @@
         "xlsx": {
           "name": "ru-rukovoditeli-sssr_RU.xlsx",
           "size": 7779
+        }
+      }
+    },
+    {
+      "id": "ru-stolitsy-istoricheskikh-gosudarstv-na-territorii-rf",
+      "name": "Столицы исторических государств на территории России",
+      "category": "history",
+      "record_count": 29,
+      "columns": [
+        "capital",
+        "capital_of",
+        "present_status"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Столицы_России",
+      "updated": "2026-11",
+      "size": 9027,
+      "files": {
+        "csv": {
+          "name": "ru-stolitsy-istoricheskikh-gosudarstv-na-territorii-rf_RU.csv",
+          "size": 4745
+        },
+        "xlsx": {
+          "name": "ru-stolitsy-istoricheskikh-gosudarstv-na-territorii-rf_RU.xlsx",
+          "size": 8535
         }
       }
     },
