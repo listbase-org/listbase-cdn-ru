@@ -1,0 +1,146 @@
+{
+  "id": "ru-uchastniki-proekta-5-100",
+  "name": "Участники Проекта 5-100 — российские университеты",
+  "title": "Участники Проекта 5-100 — российские университеты",
+  "description": "Российские вузы — участники государственной программы повышения конкурентоспособности «Проект 5-100» (I волна 2013 года, II волна 2015 года).",
+  "category": "education",
+  "source": "https://ru.wikipedia.org/wiki/Проект_5-100",
+  "source_url": "https://ru.wikipedia.org/wiki/Проект_5-100",
+  "updated": "2026-11",
+  "record_count": 21,
+  "columns": [
+    {
+      "key": "university",
+      "label": "University",
+      "type": "string"
+    },
+    {
+      "key": "wave",
+      "label": "Wave",
+      "type": "string"
+    },
+    {
+      "key": "year_joined",
+      "label": "Year Joined",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "university": "Дальневосточный федеральный университет",
+      "wave": "I",
+      "year_joined": 2013
+    },
+    {
+      "university": "Казанский университет",
+      "wave": "I",
+      "year_joined": 2013
+    },
+    {
+      "university": "Московский физико-технический институт",
+      "wave": "I",
+      "year_joined": 2013
+    },
+    {
+      "university": "Национальный исследовательский технологический университет «МИСиС»",
+      "wave": "I",
+      "year_joined": 2013
+    },
+    {
+      "university": "Томский государственный университет",
+      "wave": "I",
+      "year_joined": 2013
+    },
+    {
+      "university": "Томский политехнический университет",
+      "wave": "I",
+      "year_joined": 2013
+    },
+    {
+      "university": "Высшая школа экономики",
+      "wave": "I",
+      "year_joined": 2013
+    },
+    {
+      "university": "Национальный исследовательский ядерный университет «МИФИ»",
+      "wave": "I",
+      "year_joined": 2013
+    },
+    {
+      "university": "Нижегородский государственный университет",
+      "wave": "I",
+      "year_joined": 2013
+    },
+    {
+      "university": "Новосибирский государственный университет",
+      "wave": "I",
+      "year_joined": 2013
+    },
+    {
+      "university": "Самарский национальный исследовательский университет имени академика С. П. Королёва",
+      "wave": "I",
+      "year_joined": 2013
+    },
+    {
+      "university": "Санкт-Петербургский политехнический университет Петра Великого",
+      "wave": "I",
+      "year_joined": 2013
+    },
+    {
+      "university": "Санкт-Петербургский государственный электротехнический университет",
+      "wave": "I",
+      "year_joined": 2013
+    },
+    {
+      "university": "Университет ИТМО",
+      "wave": "I",
+      "year_joined": 2013
+    },
+    {
+      "university": "Уральский федеральный университет",
+      "wave": "I",
+      "year_joined": 2013
+    },
+    {
+      "university": "Балтийский федеральный университет имени Иммануила Канта",
+      "wave": "II",
+      "year_joined": 2015
+    },
+    {
+      "university": "Первый Московский государственный медицинский университет имени И. М. Сеченова",
+      "wave": "II",
+      "year_joined": 2015
+    },
+    {
+      "university": "Российский университет дружбы народов",
+      "wave": "II",
+      "year_joined": 2015
+    },
+    {
+      "university": "Сибирский федеральный университет",
+      "wave": "II",
+      "year_joined": 2015
+    },
+    {
+      "university": "Тюменский государственный университет",
+      "wave": "II",
+      "year_joined": 2015
+    },
+    {
+      "university": "Южно-Уральский государственный университет",
+      "wave": "II",
+      "year_joined": 2015
+    }
+  ],
+  "meta": {
+    "title": "Участники Проекта 5-100 — российские университеты - Free Download",
+    "description": "Российские вузы — участники государственной программы повышения конкурентоспособности «Проект 5-100» (I волна 2013 года, II волна 2015 года). Contains 21 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Участники Проекта 5-100 — российские университеты | ListBase",
+    "seo_description": "Download Участники Проекта 5-100 — российские университеты — 21 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 21 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Проект_5-100"
+    ]
+  }
+}
