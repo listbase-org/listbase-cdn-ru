@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-14T02:09:53.670Z",
-  "total_datasets": 545,
-  "total_records": 224753,
+  "generated": "2026-11-15T02:10:53.685Z",
+  "total_datasets": 546,
+  "total_records": 224819,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "food",
@@ -1231,6 +1231,31 @@
         "xlsx": {
           "name": "ru-banknoty-banka-rossii_RU.xlsx",
           "size": 9321
+        }
+      }
+    },
+    {
+      "id": "ru-klyuchevaya-stavka-banka-rossii",
+      "name": "Ключевая ставка Банка России — история изменений",
+      "category": "finance",
+      "record_count": 66,
+      "columns": [
+        "date_from",
+        "date_to",
+        "rate_percent",
+        "change"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Ключевая_ставка_в_России",
+      "updated": "2026-11",
+      "size": 10548,
+      "files": {
+        "csv": {
+          "name": "ru-klyuchevaya-stavka-banka-rossii_RU.csv",
+          "size": 2690
+        },
+        "xlsx": {
+          "name": "ru-klyuchevaya-stavka-banka-rossii_RU.xlsx",
+          "size": 8694
         }
       }
     },
