@@ -1,0 +1,225 @@
+{
+  "id": "ru-golos-pobediteli-sezonov",
+  "name": "«Голос» (Россия) — победители и финалисты сезонов",
+  "title": "«Голос» (Россия) — победители и финалисты сезонов",
+  "description": "Победители, финалисты, наставники-победители и ведущие всех сезонов телешоу «Голос» на Первом канале с датами премьеры и финала.",
+  "category": "music",
+  "source": "https://ru.wikipedia.org/wiki/Голос_(телешоу,_Россия)",
+  "source_url": "https://ru.wikipedia.org/wiki/Голос_(телешоу,_Россия)",
+  "updated": "2026-11",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "season",
+      "label": "Season",
+      "type": "number"
+    },
+    {
+      "key": "premiere",
+      "label": "Premiere",
+      "type": "string"
+    },
+    {
+      "key": "final",
+      "label": "Final",
+      "type": "string"
+    },
+    {
+      "key": "winner",
+      "label": "Winner",
+      "type": "string"
+    },
+    {
+      "key": "second_place",
+      "label": "Second Place",
+      "type": "string"
+    },
+    {
+      "key": "third_place",
+      "label": "Third Place",
+      "type": "string"
+    },
+    {
+      "key": "fourth_place",
+      "label": "Fourth Place",
+      "type": "string"
+    },
+    {
+      "key": "winning_coach",
+      "label": "Winning Coach",
+      "type": "string"
+    },
+    {
+      "key": "host",
+      "label": "Host",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "season": 1,
+      "premiere": "5 октября 2012",
+      "final": "29 декабря 2012",
+      "winner": "Дина Гарипова",
+      "second_place": "Эльмира Калимуллина",
+      "third_place": "Анастасия Спиридонова",
+      "fourth_place": "Маргарита Позоян",
+      "winning_coach": "Александр Градский",
+      "host": "Дмитрий Нагиев"
+    },
+    {
+      "season": 2,
+      "premiere": "6 сентября 2013",
+      "final": "27 декабря 2013",
+      "winner": "Сергей Волчков",
+      "second_place": "Наргиз Закирова",
+      "third_place": "Гела Гуралиа",
+      "fourth_place": "Тина Кузнецова",
+      "winning_coach": "Александр Градский",
+      "host": "Дмитрий Нагиев"
+    },
+    {
+      "season": 3,
+      "premiere": "5 сентября 2014",
+      "final": "26 декабря 2014",
+      "winner": "Александра Воробьёва",
+      "second_place": "Ярослав Дронов",
+      "third_place": "Александр Бон",
+      "fourth_place": "Мариам Мерабова",
+      "winning_coach": "Александр Градский",
+      "host": "Дмитрий Нагиев"
+    },
+    {
+      "season": 4,
+      "premiere": "4 сентября 2015",
+      "final": "25 декабря 2015",
+      "winner": "Иеромонах Фотий",
+      "second_place": "Михаил Озеров",
+      "third_place": "Ольга Задонская",
+      "fourth_place": "Эра Канн",
+      "winning_coach": "Григорий Лепс",
+      "host": "Дмитрий Нагиев"
+    },
+    {
+      "season": 5,
+      "premiere": "2 сентября 2016",
+      "final": "30 декабря 2016",
+      "winner": "Дарья Антонюк",
+      "second_place": "Александр Панайотов",
+      "third_place": "Кайрат Примбердиев",
+      "fourth_place": "Сардор Милано",
+      "winning_coach": "Леонид Агутин",
+      "host": "Дмитрий Нагиев"
+    },
+    {
+      "season": 6,
+      "premiere": "1 сентября 2017",
+      "final": "29 декабря 2017",
+      "winner": "Селим Алахяров",
+      "second_place": "Тимофей Копылов",
+      "third_place": "Ладислав Бубнар",
+      "fourth_place": "Ян Гэ",
+      "winning_coach": "Александр Градский",
+      "host": "Дмитрий Нагиев"
+    },
+    {
+      "season": 7,
+      "premiere": "12 октября 2018",
+      "final": "1 января 2019",
+      "winner": "Пётр Захаров",
+      "second_place": "Амирхан Умаев",
+      "third_place": "Рушана Валиева",
+      "fourth_place": "Шаэн Оганесян",
+      "winning_coach": "Константин Меладзе",
+      "host": "Дмитрий Нагиев"
+    },
+    {
+      "season": 8,
+      "premiere": "11 октября 2019",
+      "final": "1 января 2020",
+      "winner": "Аскер Бербеков",
+      "second_place": "Антон Токарев",
+      "third_place": "Ив Набиев",
+      "fourth_place": "Арсен Мукенди",
+      "winning_coach": "Константин Меладзе",
+      "host": "Дмитрий Нагиев"
+    },
+    {
+      "season": 9,
+      "premiere": "9 октября 2020",
+      "final": "30 декабря 2020",
+      "winner": "Яна Габбасова",
+      "second_place": "Олег Аккуратов",
+      "third_place": "Дмитрий Венгеров",
+      "fourth_place": "Василий Пасечник",
+      "winning_coach": "Полина Гагарина",
+      "host": "Дмитрий Нагиев"
+    },
+    {
+      "season": 10,
+      "premiere": "8 октября 2021",
+      "final": "30 декабря 2021",
+      "winner": "Александр Волкодав",
+      "second_place": "Алишер Каримов",
+      "third_place": "Ернар Садирбаев",
+      "fourth_place": "Элина Пан",
+      "winning_coach": "Пелагея",
+      "host": "Дмитрий Нагиев"
+    },
+    {
+      "season": 11,
+      "premiere": "3 марта 2023",
+      "final": "2 июня 2023",
+      "winner": "Виктория Соломахина",
+      "second_place": "Эльмира Диваева",
+      "third_place": "Ирина Сыщикова",
+      "fourth_place": "Людмила Серебрякова",
+      "winning_coach": "Полина Гагарина",
+      "host": "Яна Чурикова"
+    },
+    {
+      "season": 12,
+      "premiere": "19 января 2024",
+      "final": "27 апреля 2024",
+      "winner": "Богдан Шувалов",
+      "second_place": "Георгий Русских",
+      "third_place": "Алексей Сулима",
+      "fourth_place": "Анастасия Садковская",
+      "winning_coach": "Полина Гагарина",
+      "host": "Яна Чурикова"
+    },
+    {
+      "season": 13,
+      "premiere": "31 января 2025",
+      "final": "25 апреля 2025",
+      "winner": "Давид Саникидзе",
+      "second_place": "Дзамболат Дулаев",
+      "third_place": "Илья Алтухов",
+      "fourth_place": "Валентина Яньшина",
+      "winning_coach": "Хибла Герзмава",
+      "host": "Яна Чурикова"
+    },
+    {
+      "season": 14,
+      "premiere": "23 января 2026",
+      "final": "24 апреля 2026",
+      "winner": "Эльмира Караханова",
+      "second_place": "Алексей Смирнов",
+      "third_place": "Александр Гузко",
+      "fourth_place": "Арсен Степанян",
+      "winning_coach": "Ильдар Абдразаков",
+      "host": "Яна Чурикова"
+    }
+  ],
+  "meta": {
+    "title": "«Голос» (Россия) — победители и финалисты сезонов - Free Download",
+    "description": "Победители, финалисты, наставники-победители и ведущие всех сезонов телешоу «Голос» на Первом канале с датами премьеры и финала. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "«Голос» (Россия) — победители и финалисты сезонов | ListBase",
+    "seo_description": "Download «Голос» (Россия) — победители и финалисты сезонов — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Голос_(телешоу,_Россия)"
+    ]
+  }
+}

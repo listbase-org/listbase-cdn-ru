@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-16T02:11:55.718Z",
-  "total_datasets": 552,
-  "total_records": 225188,
+  "generated": "2026-11-16T02:12:04.363Z",
+  "total_datasets": 553,
+  "total_records": 225202,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "politics",
@@ -5204,6 +5204,36 @@
         "xlsx": {
           "name": "ru-sudi-konstitucionnogo-suda_RU.xlsx",
           "size": 7645
+        }
+      }
+    },
+    {
+      "id": "ru-golos-pobediteli-sezonov",
+      "name": "«Голос» (Россия) — победители и финалисты сезонов",
+      "category": "music",
+      "record_count": 14,
+      "columns": [
+        "season",
+        "premiere",
+        "final",
+        "winner",
+        "second_place",
+        "third_place",
+        "fourth_place",
+        "winning_coach",
+        "host"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Голос_(телешоу,_Россия)",
+      "updated": "2026-11",
+      "size": 8541,
+      "files": {
+        "csv": {
+          "name": "ru-golos-pobediteli-sezonov_RU.csv",
+          "size": 3452
+        },
+        "xlsx": {
+          "name": "ru-golos-pobediteli-sezonov_RU.xlsx",
+          "size": 8506
         }
       }
     },
