@@ -1,0 +1,434 @@
+{
+  "id": "ru-transliteratsiya-russkogo-alfavita",
+  "name": "Транслитерация русского алфавита латиницей — системы и стандарты",
+  "title": "Транслитерация русского алфавита латиницей — системы и стандарты",
+  "description": "Таблица соответствия букв русского алфавита латинице в основных системах транслитерации: научная, ГОСТ 7.79—2000 (ISO 9), BGN/PCGN, ALA-LC, водительское удостоверение (приказ МВД № 995), загранпаспорт (ИКАО) и международные телеграммы.",
+  "category": "language",
+  "source": "https://ru.wikipedia.org/wiki/Транслитерация_русского_алфавита_латиницей",
+  "source_url": "https://ru.wikipedia.org/wiki/Транслитерация_русского_алфавита_латиницей",
+  "updated": "2026-11",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "bukva",
+      "label": "Bukva",
+      "type": "string"
+    },
+    {
+      "key": "nauchnaya",
+      "label": "Nauchnaya",
+      "type": "string"
+    },
+    {
+      "key": "gost_7_79_a",
+      "label": "Gost 7 79 A",
+      "type": "string"
+    },
+    {
+      "key": "gost_7_79_b",
+      "label": "Gost 7 79 B",
+      "type": "string"
+    },
+    {
+      "key": "bgn_pcgn",
+      "label": "Bgn Pcgn",
+      "type": "string"
+    },
+    {
+      "key": "ala_lc",
+      "label": "Ala Lc",
+      "type": "string"
+    },
+    {
+      "key": "voditelskoe_mvd_995",
+      "label": "Voditelskoe Mvd 995",
+      "type": "string"
+    },
+    {
+      "key": "zagranpasport_ikao",
+      "label": "Zagranpasport Ikao",
+      "type": "string"
+    },
+    {
+      "key": "mezhdunarodnye_telegrammy",
+      "label": "Mezhdunarodnye Telegrammy",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "bukva": "А, а",
+      "nauchnaya": "a",
+      "gost_7_79_a": "a",
+      "gost_7_79_b": "a",
+      "bgn_pcgn": "a",
+      "ala_lc": "a",
+      "voditelskoe_mvd_995": "a",
+      "zagranpasport_ikao": "a",
+      "mezhdunarodnye_telegrammy": "a"
+    },
+    {
+      "bukva": "Б, б",
+      "nauchnaya": "b",
+      "gost_7_79_a": "b",
+      "gost_7_79_b": "b",
+      "bgn_pcgn": "b",
+      "ala_lc": "b",
+      "voditelskoe_mvd_995": "b",
+      "zagranpasport_ikao": "b",
+      "mezhdunarodnye_telegrammy": "b"
+    },
+    {
+      "bukva": "В, в",
+      "nauchnaya": "v",
+      "gost_7_79_a": "v",
+      "gost_7_79_b": "v",
+      "bgn_pcgn": "v",
+      "ala_lc": "v",
+      "voditelskoe_mvd_995": "v",
+      "zagranpasport_ikao": "v",
+      "mezhdunarodnye_telegrammy": "v"
+    },
+    {
+      "bukva": "Г, г",
+      "nauchnaya": "g",
+      "gost_7_79_a": "g",
+      "gost_7_79_b": "g",
+      "bgn_pcgn": "g",
+      "ala_lc": "g",
+      "voditelskoe_mvd_995": "g",
+      "zagranpasport_ikao": "g",
+      "mezhdunarodnye_telegrammy": "g"
+    },
+    {
+      "bukva": "Д, д",
+      "nauchnaya": "d",
+      "gost_7_79_a": "d",
+      "gost_7_79_b": "d",
+      "bgn_pcgn": "d",
+      "ala_lc": "d",
+      "voditelskoe_mvd_995": "d",
+      "zagranpasport_ikao": "d",
+      "mezhdunarodnye_telegrammy": "d"
+    },
+    {
+      "bukva": "Е, е",
+      "nauchnaya": "e",
+      "gost_7_79_a": "e",
+      "gost_7_79_b": "e",
+      "bgn_pcgn": "e, ye",
+      "ala_lc": "e",
+      "voditelskoe_mvd_995": "e",
+      "zagranpasport_ikao": "e",
+      "mezhdunarodnye_telegrammy": "e"
+    },
+    {
+      "bukva": "Ё, ё",
+      "nauchnaya": "ë",
+      "gost_7_79_a": "ë",
+      "gost_7_79_b": "yo",
+      "bgn_pcgn": "ë, yë",
+      "ala_lc": "ë",
+      "voditelskoe_mvd_995": "e",
+      "zagranpasport_ikao": "e",
+      "mezhdunarodnye_telegrammy": "e"
+    },
+    {
+      "bukva": "Ж, ж",
+      "nauchnaya": "ž",
+      "gost_7_79_a": "ž",
+      "gost_7_79_b": "zh",
+      "bgn_pcgn": "zh",
+      "ala_lc": "zh",
+      "voditelskoe_mvd_995": "zh",
+      "zagranpasport_ikao": "zh",
+      "mezhdunarodnye_telegrammy": "j"
+    },
+    {
+      "bukva": "З, з",
+      "nauchnaya": "z",
+      "gost_7_79_a": "z",
+      "gost_7_79_b": "z",
+      "bgn_pcgn": "z",
+      "ala_lc": "z",
+      "voditelskoe_mvd_995": "z",
+      "zagranpasport_ikao": "z",
+      "mezhdunarodnye_telegrammy": "z"
+    },
+    {
+      "bukva": "И, и",
+      "nauchnaya": "i",
+      "gost_7_79_a": "i",
+      "gost_7_79_b": "i",
+      "bgn_pcgn": "i",
+      "ala_lc": "i",
+      "voditelskoe_mvd_995": "i",
+      "zagranpasport_ikao": "i",
+      "mezhdunarodnye_telegrammy": "i"
+    },
+    {
+      "bukva": "Й, й",
+      "nauchnaya": "j",
+      "gost_7_79_a": "j",
+      "gost_7_79_b": "j",
+      "bgn_pcgn": "y",
+      "ala_lc": "ĭ",
+      "voditelskoe_mvd_995": "i",
+      "zagranpasport_ikao": "i",
+      "mezhdunarodnye_telegrammy": "i"
+    },
+    {
+      "bukva": "К, к",
+      "nauchnaya": "k",
+      "gost_7_79_a": "k",
+      "gost_7_79_b": "k",
+      "bgn_pcgn": "k",
+      "ala_lc": "k",
+      "voditelskoe_mvd_995": "k",
+      "zagranpasport_ikao": "k",
+      "mezhdunarodnye_telegrammy": "k"
+    },
+    {
+      "bukva": "Л, л",
+      "nauchnaya": "l",
+      "gost_7_79_a": "l",
+      "gost_7_79_b": "l",
+      "bgn_pcgn": "l",
+      "ala_lc": "l",
+      "voditelskoe_mvd_995": "l",
+      "zagranpasport_ikao": "l",
+      "mezhdunarodnye_telegrammy": "l"
+    },
+    {
+      "bukva": "М, м",
+      "nauchnaya": "m",
+      "gost_7_79_a": "m",
+      "gost_7_79_b": "m",
+      "bgn_pcgn": "m",
+      "ala_lc": "m",
+      "voditelskoe_mvd_995": "m",
+      "zagranpasport_ikao": "m",
+      "mezhdunarodnye_telegrammy": "m"
+    },
+    {
+      "bukva": "Н, н",
+      "nauchnaya": "n",
+      "gost_7_79_a": "n",
+      "gost_7_79_b": "n",
+      "bgn_pcgn": "n",
+      "ala_lc": "n",
+      "voditelskoe_mvd_995": "n",
+      "zagranpasport_ikao": "n",
+      "mezhdunarodnye_telegrammy": "n"
+    },
+    {
+      "bukva": "О, о",
+      "nauchnaya": "o",
+      "gost_7_79_a": "o",
+      "gost_7_79_b": "o",
+      "bgn_pcgn": "o",
+      "ala_lc": "o",
+      "voditelskoe_mvd_995": "o",
+      "zagranpasport_ikao": "o",
+      "mezhdunarodnye_telegrammy": "o"
+    },
+    {
+      "bukva": "П, п",
+      "nauchnaya": "p",
+      "gost_7_79_a": "p",
+      "gost_7_79_b": "p",
+      "bgn_pcgn": "p",
+      "ala_lc": "p",
+      "voditelskoe_mvd_995": "p",
+      "zagranpasport_ikao": "p",
+      "mezhdunarodnye_telegrammy": "p"
+    },
+    {
+      "bukva": "Р, р",
+      "nauchnaya": "r",
+      "gost_7_79_a": "r",
+      "gost_7_79_b": "r",
+      "bgn_pcgn": "r",
+      "ala_lc": "r",
+      "voditelskoe_mvd_995": "r",
+      "zagranpasport_ikao": "r",
+      "mezhdunarodnye_telegrammy": "r"
+    },
+    {
+      "bukva": "С, с",
+      "nauchnaya": "s",
+      "gost_7_79_a": "s",
+      "gost_7_79_b": "s",
+      "bgn_pcgn": "s",
+      "ala_lc": "s",
+      "voditelskoe_mvd_995": "s",
+      "zagranpasport_ikao": "s",
+      "mezhdunarodnye_telegrammy": "s"
+    },
+    {
+      "bukva": "Т, т",
+      "nauchnaya": "t",
+      "gost_7_79_a": "t",
+      "gost_7_79_b": "t",
+      "bgn_pcgn": "t",
+      "ala_lc": "t",
+      "voditelskoe_mvd_995": "t",
+      "zagranpasport_ikao": "t",
+      "mezhdunarodnye_telegrammy": "t"
+    },
+    {
+      "bukva": "У, у",
+      "nauchnaya": "u",
+      "gost_7_79_a": "u",
+      "gost_7_79_b": "u",
+      "bgn_pcgn": "u",
+      "ala_lc": "u",
+      "voditelskoe_mvd_995": "u",
+      "zagranpasport_ikao": "u",
+      "mezhdunarodnye_telegrammy": "u"
+    },
+    {
+      "bukva": "Ф, ф",
+      "nauchnaya": "f",
+      "gost_7_79_a": "f",
+      "gost_7_79_b": "f",
+      "bgn_pcgn": "f",
+      "ala_lc": "f",
+      "voditelskoe_mvd_995": "f",
+      "zagranpasport_ikao": "f",
+      "mezhdunarodnye_telegrammy": "f"
+    },
+    {
+      "bukva": "Х, х",
+      "nauchnaya": "x",
+      "gost_7_79_a": "h",
+      "gost_7_79_b": "x",
+      "bgn_pcgn": "kh",
+      "ala_lc": "kh",
+      "voditelskoe_mvd_995": "kh",
+      "zagranpasport_ikao": "kh",
+      "mezhdunarodnye_telegrammy": "h"
+    },
+    {
+      "bukva": "Ц, ц",
+      "nauchnaya": "c",
+      "gost_7_79_a": "c",
+      "gost_7_79_b": "cz, c",
+      "bgn_pcgn": "ts",
+      "ala_lc": "t͡s",
+      "voditelskoe_mvd_995": "ts",
+      "zagranpasport_ikao": "ts",
+      "mezhdunarodnye_telegrammy": "c"
+    },
+    {
+      "bukva": "Ч, ч",
+      "nauchnaya": "č",
+      "gost_7_79_a": "č",
+      "gost_7_79_b": "ch",
+      "bgn_pcgn": "ch",
+      "ala_lc": "ch",
+      "voditelskoe_mvd_995": "ch",
+      "zagranpasport_ikao": "ch",
+      "mezhdunarodnye_telegrammy": "ch"
+    },
+    {
+      "bukva": "Ш, ш",
+      "nauchnaya": "š",
+      "gost_7_79_a": "š",
+      "gost_7_79_b": "sh",
+      "bgn_pcgn": "sh",
+      "ala_lc": "sh",
+      "voditelskoe_mvd_995": "sh",
+      "zagranpasport_ikao": "sh",
+      "mezhdunarodnye_telegrammy": "sh"
+    },
+    {
+      "bukva": "Щ, щ",
+      "nauchnaya": "šč",
+      "gost_7_79_a": "ŝ",
+      "gost_7_79_b": "shh",
+      "bgn_pcgn": "shch",
+      "ala_lc": "shch",
+      "voditelskoe_mvd_995": "shch",
+      "zagranpasport_ikao": "shch",
+      "mezhdunarodnye_telegrammy": "sc"
+    },
+    {
+      "bukva": "Ъ, ъ",
+      "nauchnaya": "ʺ",
+      "gost_7_79_a": "ʺ",
+      "gost_7_79_b": "‶",
+      "bgn_pcgn": "ʺ",
+      "ala_lc": "ʺ",
+      "voditelskoe_mvd_995": "ie",
+      "zagranpasport_ikao": "ie",
+      "mezhdunarodnye_telegrammy": "—"
+    },
+    {
+      "bukva": "Ы, ы",
+      "nauchnaya": "y",
+      "gost_7_79_a": "y",
+      "gost_7_79_b": "y‵",
+      "bgn_pcgn": "y",
+      "ala_lc": "y",
+      "voditelskoe_mvd_995": "y",
+      "zagranpasport_ikao": "y",
+      "mezhdunarodnye_telegrammy": "y"
+    },
+    {
+      "bukva": "Ь, ь",
+      "nauchnaya": "ʹ",
+      "gost_7_79_a": "ʹ",
+      "gost_7_79_b": "‵",
+      "bgn_pcgn": "ʹ",
+      "ala_lc": "ʹ",
+      "voditelskoe_mvd_995": "—",
+      "zagranpasport_ikao": "—",
+      "mezhdunarodnye_telegrammy": "—"
+    },
+    {
+      "bukva": "Э, э",
+      "nauchnaya": "è",
+      "gost_7_79_a": "è",
+      "gost_7_79_b": "e‵",
+      "bgn_pcgn": "e",
+      "ala_lc": "ė",
+      "voditelskoe_mvd_995": "e",
+      "zagranpasport_ikao": "e",
+      "mezhdunarodnye_telegrammy": "e"
+    },
+    {
+      "bukva": "Ю, ю",
+      "nauchnaya": "ju",
+      "gost_7_79_a": "û",
+      "gost_7_79_b": "yu",
+      "bgn_pcgn": "yu",
+      "ala_lc": "i͡u",
+      "voditelskoe_mvd_995": "iu",
+      "zagranpasport_ikao": "iu",
+      "mezhdunarodnye_telegrammy": "iu"
+    },
+    {
+      "bukva": "Я, я",
+      "nauchnaya": "ja",
+      "gost_7_79_a": "â",
+      "gost_7_79_b": "ya",
+      "bgn_pcgn": "ya",
+      "ala_lc": "i͡a",
+      "voditelskoe_mvd_995": "ia",
+      "zagranpasport_ikao": "ia",
+      "mezhdunarodnye_telegrammy": "ia"
+    }
+  ],
+  "meta": {
+    "title": "Транслитерация русского алфавита латиницей — системы и стандарты - Free Download",
+    "description": "Таблица соответствия букв русского алфавита латинице в основных системах транслитерации: научная, ГОСТ 7.79—2000 (ISO 9), BGN/PCGN, ALA-LC, водительское удостоверение (приказ МВД № 995), загранпаспорт (ИКАО) и международные телеграммы. Contains 33 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Транслитерация русского алфавита латиницей — системы и стандарты | ListBase",
+    "seo_description": "Download Транслитерация русского алфавита латиницей — системы и стандарты — 33 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 33 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Транслитерация_русского_алфавита_латиницей"
+    ]
+  }
+}

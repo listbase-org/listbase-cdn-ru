@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-17T02:15:13.398Z",
-  "total_datasets": 556,
-  "total_records": 225427,
+  "generated": "2026-11-17T02:15:31.240Z",
+  "total_datasets": 557,
+  "total_records": 225460,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "law",
@@ -4971,6 +4971,36 @@
         "xlsx": {
           "name": "ru-kirillica-nazvaniya-bukv_RU.xlsx",
           "size": 9342
+        }
+      }
+    },
+    {
+      "id": "ru-transliteratsiya-russkogo-alfavita",
+      "name": "Транслитерация русского алфавита латиницей — системы и стандарты",
+      "category": "language",
+      "record_count": 33,
+      "columns": [
+        "bukva",
+        "nauchnaya",
+        "gost_7_79_a",
+        "gost_7_79_b",
+        "bgn_pcgn",
+        "ala_lc",
+        "voditelskoe_mvd_995",
+        "zagranpasport_ikao",
+        "mezhdunarodnye_telegrammy"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Транслитерация_русского_алфавита_латиницей",
+      "updated": "2026-11",
+      "size": 12117,
+      "files": {
+        "csv": {
+          "name": "ru-transliteratsiya-russkogo-alfavita_RU.csv",
+          "size": 1616
+        },
+        "xlsx": {
+          "name": "ru-transliteratsiya-russkogo-alfavita_RU.xlsx",
+          "size": 8296
         }
       }
     },
