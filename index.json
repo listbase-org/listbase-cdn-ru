@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-17T02:14:58.436Z",
-  "total_datasets": 555,
-  "total_records": 225378,
+  "generated": "2026-11-17T02:15:13.398Z",
+  "total_datasets": 556,
+  "total_records": 225427,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "reference",
@@ -5498,6 +5498,31 @@
         "xlsx": {
           "name": "ru-ministry-inostrannykh-del_RU.xlsx",
           "size": 11240
+        }
+      }
+    },
+    {
+      "id": "ru-ordena-i-medali-rossiyskoy-federatsii",
+      "name": "Государственные награды России — ордена и медали Российской Федерации",
+      "category": "politics",
+      "record_count": 49,
+      "columns": [
+        "vid",
+        "naimenovanie",
+        "data_uchrezhdeniya",
+        "pravila_nagrazhdeniya"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Ордена_Российской_Федерации",
+      "updated": "2026-11",
+      "size": 74537,
+      "files": {
+        "csv": {
+          "name": "ru-ordena-i-medali-rossiyskoy-federatsii_RU.csv",
+          "size": 66865
+        },
+        "xlsx": {
+          "name": "ru-ordena-i-medali-rossiyskoy-federatsii_RU.xlsx",
+          "size": 18838
         }
       }
     },
