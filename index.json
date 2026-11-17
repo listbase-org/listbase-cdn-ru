@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-17T02:15:31.240Z",
-  "total_datasets": 557,
-  "total_records": 225460,
+  "generated": "2026-11-17T02:15:57.898Z",
+  "total_datasets": 558,
+  "total_records": 225710,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "law",
@@ -4971,6 +4971,29 @@
         "xlsx": {
           "name": "ru-kirillica-nazvaniya-bukv_RU.xlsx",
           "size": 9342
+        }
+      }
+    },
+    {
+      "id": "ru-rasprostranyonnye-russkie-familii",
+      "name": "250 самых распространённых русских фамилий (список Балановской)",
+      "category": "language",
+      "record_count": 250,
+      "columns": [
+        "rang",
+        "familiya"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_общерусских_фамилий",
+      "updated": "2026-11",
+      "size": 18876,
+      "files": {
+        "csv": {
+          "name": "ru-rasprostranyonnye-russkie-familii_RU.csv",
+          "size": 5686
+        },
+        "xlsx": {
+          "name": "ru-rasprostranyonnye-russkie-familii_RU.xlsx",
+          "size": 11581
         }
       }
     },

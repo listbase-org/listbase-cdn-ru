@@ -1,0 +1,1036 @@
+{
+  "id": "ru-rasprostranyonnye-russkie-familii",
+  "name": "250 самых распространённых русских фамилий (список Балановской)",
+  "title": "250 самых распространённых русских фамилий (список Балановской)",
+  "description": "Рейтинг 250 наиболее частых общерусских фамилий по исследованию Е. В. Балановской (Медико-генетический научный центр РАМН), по данным пяти регионов России.",
+  "category": "language",
+  "source": "https://ru.wikipedia.org/wiki/Список_общерусских_фамилий",
+  "source_url": "https://ru.wikipedia.org/wiki/Список_общерусских_фамилий",
+  "updated": "2026-11",
+  "record_count": 250,
+  "columns": [
+    {
+      "key": "rang",
+      "label": "Rang",
+      "type": "number"
+    },
+    {
+      "key": "familiya",
+      "label": "Familiya",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "rang": 1,
+      "familiya": "Смирнов"
+    },
+    {
+      "rang": 2,
+      "familiya": "Иванов"
+    },
+    {
+      "rang": 3,
+      "familiya": "Кузнецов"
+    },
+    {
+      "rang": 4,
+      "familiya": "Соколов"
+    },
+    {
+      "rang": 5,
+      "familiya": "Попов"
+    },
+    {
+      "rang": 6,
+      "familiya": "Лебедев"
+    },
+    {
+      "rang": 7,
+      "familiya": "Козлов"
+    },
+    {
+      "rang": 8,
+      "familiya": "Новиков"
+    },
+    {
+      "rang": 9,
+      "familiya": "Морозов"
+    },
+    {
+      "rang": 10,
+      "familiya": "Петров"
+    },
+    {
+      "rang": 11,
+      "familiya": "Волков"
+    },
+    {
+      "rang": 12,
+      "familiya": "Соловьёв"
+    },
+    {
+      "rang": 13,
+      "familiya": "Васильев"
+    },
+    {
+      "rang": 14,
+      "familiya": "Зайцев"
+    },
+    {
+      "rang": 15,
+      "familiya": "Павлов"
+    },
+    {
+      "rang": 16,
+      "familiya": "Семёнов"
+    },
+    {
+      "rang": 17,
+      "familiya": "Голубев"
+    },
+    {
+      "rang": 18,
+      "familiya": "Виноградов"
+    },
+    {
+      "rang": 19,
+      "familiya": "Богданов"
+    },
+    {
+      "rang": 20,
+      "familiya": "Воробьёв"
+    },
+    {
+      "rang": 21,
+      "familiya": "Фёдоров"
+    },
+    {
+      "rang": 22,
+      "familiya": "Михайлов"
+    },
+    {
+      "rang": 23,
+      "familiya": "Беляев"
+    },
+    {
+      "rang": 24,
+      "familiya": "Тарасов"
+    },
+    {
+      "rang": 25,
+      "familiya": "Белов"
+    },
+    {
+      "rang": 26,
+      "familiya": "Комаров"
+    },
+    {
+      "rang": 27,
+      "familiya": "Орлов"
+    },
+    {
+      "rang": 28,
+      "familiya": "Киселёв"
+    },
+    {
+      "rang": 29,
+      "familiya": "Макаров"
+    },
+    {
+      "rang": 30,
+      "familiya": "Андреев"
+    },
+    {
+      "rang": 31,
+      "familiya": "Ковалёв"
+    },
+    {
+      "rang": 32,
+      "familiya": "Ильин"
+    },
+    {
+      "rang": 33,
+      "familiya": "Гусев"
+    },
+    {
+      "rang": 34,
+      "familiya": "Титов"
+    },
+    {
+      "rang": 35,
+      "familiya": "Кузьмин"
+    },
+    {
+      "rang": 36,
+      "familiya": "Кудрявцев"
+    },
+    {
+      "rang": 37,
+      "familiya": "Баранов"
+    },
+    {
+      "rang": 38,
+      "familiya": "Куликов"
+    },
+    {
+      "rang": 39,
+      "familiya": "Алексеев"
+    },
+    {
+      "rang": 40,
+      "familiya": "Степанов"
+    },
+    {
+      "rang": 41,
+      "familiya": "Яковлев"
+    },
+    {
+      "rang": 42,
+      "familiya": "Сорокин"
+    },
+    {
+      "rang": 43,
+      "familiya": "Сергеев"
+    },
+    {
+      "rang": 44,
+      "familiya": "Романов"
+    },
+    {
+      "rang": 45,
+      "familiya": "Захаров"
+    },
+    {
+      "rang": 46,
+      "familiya": "Борисов"
+    },
+    {
+      "rang": 47,
+      "familiya": "Королёв"
+    },
+    {
+      "rang": 48,
+      "familiya": "Герасимов"
+    },
+    {
+      "rang": 49,
+      "familiya": "Пономарёв"
+    },
+    {
+      "rang": 50,
+      "familiya": "Григорьев"
+    },
+    {
+      "rang": 51,
+      "familiya": "Лазарев"
+    },
+    {
+      "rang": 52,
+      "familiya": "Медведев"
+    },
+    {
+      "rang": 53,
+      "familiya": "Ершов"
+    },
+    {
+      "rang": 54,
+      "familiya": "Никитин"
+    },
+    {
+      "rang": 55,
+      "familiya": "Соболев"
+    },
+    {
+      "rang": 56,
+      "familiya": "Рябов"
+    },
+    {
+      "rang": 57,
+      "familiya": "Поляков"
+    },
+    {
+      "rang": 58,
+      "familiya": "Цветков"
+    },
+    {
+      "rang": 59,
+      "familiya": "Данилов"
+    },
+    {
+      "rang": 60,
+      "familiya": "Жуков"
+    },
+    {
+      "rang": 61,
+      "familiya": "Фролов"
+    },
+    {
+      "rang": 62,
+      "familiya": "Журавлёв"
+    },
+    {
+      "rang": 63,
+      "familiya": "Николаев"
+    },
+    {
+      "rang": 64,
+      "familiya": "Крылов"
+    },
+    {
+      "rang": 65,
+      "familiya": "Максимов"
+    },
+    {
+      "rang": 66,
+      "familiya": "Сидоров"
+    },
+    {
+      "rang": 67,
+      "familiya": "Осипов"
+    },
+    {
+      "rang": 68,
+      "familiya": "Белоусов"
+    },
+    {
+      "rang": 69,
+      "familiya": "Федотов"
+    },
+    {
+      "rang": 70,
+      "familiya": "Дорофеев"
+    },
+    {
+      "rang": 71,
+      "familiya": "Егоров"
+    },
+    {
+      "rang": 72,
+      "familiya": "Матвеев"
+    },
+    {
+      "rang": 73,
+      "familiya": "Бобров"
+    },
+    {
+      "rang": 74,
+      "familiya": "Дмитриев"
+    },
+    {
+      "rang": 75,
+      "familiya": "Калинин"
+    },
+    {
+      "rang": 76,
+      "familiya": "Анисимов"
+    },
+    {
+      "rang": 77,
+      "familiya": "Петухов"
+    },
+    {
+      "rang": 78,
+      "familiya": "Антонов"
+    },
+    {
+      "rang": 79,
+      "familiya": "Тимофеев"
+    },
+    {
+      "rang": 80,
+      "familiya": "Никифоров"
+    },
+    {
+      "rang": 81,
+      "familiya": "Веселов"
+    },
+    {
+      "rang": 82,
+      "familiya": "Филиппов"
+    },
+    {
+      "rang": 83,
+      "familiya": "Марков"
+    },
+    {
+      "rang": 84,
+      "familiya": "Большаков"
+    },
+    {
+      "rang": 85,
+      "familiya": "Суханов"
+    },
+    {
+      "rang": 86,
+      "familiya": "Миронов"
+    },
+    {
+      "rang": 87,
+      "familiya": "Ширяев"
+    },
+    {
+      "rang": 88,
+      "familiya": "Александров"
+    },
+    {
+      "rang": 89,
+      "familiya": "Коновалов"
+    },
+    {
+      "rang": 90,
+      "familiya": "Шестаков"
+    },
+    {
+      "rang": 91,
+      "familiya": "Казаков"
+    },
+    {
+      "rang": 92,
+      "familiya": "Ефимов"
+    },
+    {
+      "rang": 93,
+      "familiya": "Денисов"
+    },
+    {
+      "rang": 94,
+      "familiya": "Громов"
+    },
+    {
+      "rang": 95,
+      "familiya": "Фомин"
+    },
+    {
+      "rang": 96,
+      "familiya": "Давыдов"
+    },
+    {
+      "rang": 97,
+      "familiya": "Мельников"
+    },
+    {
+      "rang": 98,
+      "familiya": "Щербаков"
+    },
+    {
+      "rang": 99,
+      "familiya": "Блинов"
+    },
+    {
+      "rang": 100,
+      "familiya": "Колесников"
+    },
+    {
+      "rang": 101,
+      "familiya": "Карпов"
+    },
+    {
+      "rang": 102,
+      "familiya": "Афанасьев"
+    },
+    {
+      "rang": 103,
+      "familiya": "Власов"
+    },
+    {
+      "rang": 104,
+      "familiya": "Маслов"
+    },
+    {
+      "rang": 105,
+      "familiya": "Исаков"
+    },
+    {
+      "rang": 106,
+      "familiya": "Тихонов"
+    },
+    {
+      "rang": 107,
+      "familiya": "Аксёнов"
+    },
+    {
+      "rang": 108,
+      "familiya": "Гаврилов"
+    },
+    {
+      "rang": 109,
+      "familiya": "Родионов"
+    },
+    {
+      "rang": 110,
+      "familiya": "Котов"
+    },
+    {
+      "rang": 111,
+      "familiya": "Горбунов"
+    },
+    {
+      "rang": 112,
+      "familiya": "Кудряшов"
+    },
+    {
+      "rang": 113,
+      "familiya": "Быков"
+    },
+    {
+      "rang": 114,
+      "familiya": "Зуев"
+    },
+    {
+      "rang": 115,
+      "familiya": "Третьяков"
+    },
+    {
+      "rang": 116,
+      "familiya": "Савельев"
+    },
+    {
+      "rang": 117,
+      "familiya": "Панов"
+    },
+    {
+      "rang": 118,
+      "familiya": "Рыбаков"
+    },
+    {
+      "rang": 119,
+      "familiya": "Суворов"
+    },
+    {
+      "rang": 120,
+      "familiya": "Абрамов"
+    },
+    {
+      "rang": 121,
+      "familiya": "Воронов"
+    },
+    {
+      "rang": 122,
+      "familiya": "Мухин"
+    },
+    {
+      "rang": 123,
+      "familiya": "Архипов"
+    },
+    {
+      "rang": 124,
+      "familiya": "Трофимов"
+    },
+    {
+      "rang": 125,
+      "familiya": "Мартынов"
+    },
+    {
+      "rang": 126,
+      "familiya": "Емельянов"
+    },
+    {
+      "rang": 127,
+      "familiya": "Горшков"
+    },
+    {
+      "rang": 128,
+      "familiya": "Чернов"
+    },
+    {
+      "rang": 129,
+      "familiya": "Овчинников"
+    },
+    {
+      "rang": 130,
+      "familiya": "Селезнёв"
+    },
+    {
+      "rang": 131,
+      "familiya": "Панфилов"
+    },
+    {
+      "rang": 132,
+      "familiya": "Копылов"
+    },
+    {
+      "rang": 133,
+      "familiya": "Михеев"
+    },
+    {
+      "rang": 134,
+      "familiya": "Галкин"
+    },
+    {
+      "rang": 135,
+      "familiya": "Назаров"
+    },
+    {
+      "rang": 136,
+      "familiya": "Лобанов"
+    },
+    {
+      "rang": 137,
+      "familiya": "Лукин"
+    },
+    {
+      "rang": 138,
+      "familiya": "Беляков"
+    },
+    {
+      "rang": 139,
+      "familiya": "Потапов"
+    },
+    {
+      "rang": 140,
+      "familiya": "Некрасов"
+    },
+    {
+      "rang": 141,
+      "familiya": "Хохлов"
+    },
+    {
+      "rang": 142,
+      "familiya": "Жданов"
+    },
+    {
+      "rang": 143,
+      "familiya": "Наумов"
+    },
+    {
+      "rang": 144,
+      "familiya": "Шилов"
+    },
+    {
+      "rang": 145,
+      "familiya": "Воронцов"
+    },
+    {
+      "rang": 146,
+      "familiya": "Ермаков"
+    },
+    {
+      "rang": 147,
+      "familiya": "Дроздов"
+    },
+    {
+      "rang": 148,
+      "familiya": "Игнатьев"
+    },
+    {
+      "rang": 149,
+      "familiya": "Савин"
+    },
+    {
+      "rang": 150,
+      "familiya": "Логинов"
+    },
+    {
+      "rang": 151,
+      "familiya": "Сафонов"
+    },
+    {
+      "rang": 152,
+      "familiya": "Капустин"
+    },
+    {
+      "rang": 153,
+      "familiya": "Кириллов"
+    },
+    {
+      "rang": 154,
+      "familiya": "Моисеев"
+    },
+    {
+      "rang": 155,
+      "familiya": "Елисеев"
+    },
+    {
+      "rang": 156,
+      "familiya": "Кошелев"
+    },
+    {
+      "rang": 157,
+      "familiya": "Костин"
+    },
+    {
+      "rang": 158,
+      "familiya": "Горбачёв"
+    },
+    {
+      "rang": 159,
+      "familiya": "Орехов"
+    },
+    {
+      "rang": 160,
+      "familiya": "Ефремов"
+    },
+    {
+      "rang": 161,
+      "familiya": "Исаев"
+    },
+    {
+      "rang": 162,
+      "familiya": "Евдокимов"
+    },
+    {
+      "rang": 163,
+      "familiya": "Калашников"
+    },
+    {
+      "rang": 164,
+      "familiya": "Кабанов"
+    },
+    {
+      "rang": 165,
+      "familiya": "Носков"
+    },
+    {
+      "rang": 166,
+      "familiya": "Юдин"
+    },
+    {
+      "rang": 167,
+      "familiya": "Кулагин"
+    },
+    {
+      "rang": 168,
+      "familiya": "Лапин"
+    },
+    {
+      "rang": 169,
+      "familiya": "Прохоров"
+    },
+    {
+      "rang": 170,
+      "familiya": "Нестеров"
+    },
+    {
+      "rang": 171,
+      "familiya": "Харитонов"
+    },
+    {
+      "rang": 172,
+      "familiya": "Агафонов"
+    },
+    {
+      "rang": 173,
+      "familiya": "Муравьёв"
+    },
+    {
+      "rang": 174,
+      "familiya": "Ларионов"
+    },
+    {
+      "rang": 175,
+      "familiya": "Федосеев"
+    },
+    {
+      "rang": 176,
+      "familiya": "Зимин"
+    },
+    {
+      "rang": 177,
+      "familiya": "Пахомов"
+    },
+    {
+      "rang": 178,
+      "familiya": "Шубин"
+    },
+    {
+      "rang": 179,
+      "familiya": "Игнатов"
+    },
+    {
+      "rang": 180,
+      "familiya": "Филатов"
+    },
+    {
+      "rang": 181,
+      "familiya": "Крюков"
+    },
+    {
+      "rang": 182,
+      "familiya": "Рогов"
+    },
+    {
+      "rang": 183,
+      "familiya": "Кулаков"
+    },
+    {
+      "rang": 184,
+      "familiya": "Терентьев"
+    },
+    {
+      "rang": 185,
+      "familiya": "Молчанов"
+    },
+    {
+      "rang": 186,
+      "familiya": "Владимиров"
+    },
+    {
+      "rang": 187,
+      "familiya": "Артемьев"
+    },
+    {
+      "rang": 188,
+      "familiya": "Гурьев"
+    },
+    {
+      "rang": 189,
+      "familiya": "Зиновьев"
+    },
+    {
+      "rang": 190,
+      "familiya": "Гришин"
+    },
+    {
+      "rang": 191,
+      "familiya": "Кононов"
+    },
+    {
+      "rang": 192,
+      "familiya": "Дементьев"
+    },
+    {
+      "rang": 193,
+      "familiya": "Ситников"
+    },
+    {
+      "rang": 194,
+      "familiya": "Симонов"
+    },
+    {
+      "rang": 195,
+      "familiya": "Мишин"
+    },
+    {
+      "rang": 196,
+      "familiya": "Фадеев"
+    },
+    {
+      "rang": 197,
+      "familiya": "Комиссаров"
+    },
+    {
+      "rang": 198,
+      "familiya": "Мамонтов"
+    },
+    {
+      "rang": 199,
+      "familiya": "Носов"
+    },
+    {
+      "rang": 200,
+      "familiya": "Гуляев"
+    },
+    {
+      "rang": 201,
+      "familiya": "Шаров"
+    },
+    {
+      "rang": 202,
+      "familiya": "Устинов"
+    },
+    {
+      "rang": 203,
+      "familiya": "Вишняков"
+    },
+    {
+      "rang": 204,
+      "familiya": "Евсеев"
+    },
+    {
+      "rang": 205,
+      "familiya": "Лаврентьев"
+    },
+    {
+      "rang": 206,
+      "familiya": "Брагин"
+    },
+    {
+      "rang": 207,
+      "familiya": "Константинов"
+    },
+    {
+      "rang": 208,
+      "familiya": "Корнилов"
+    },
+    {
+      "rang": 209,
+      "familiya": "Авдеев"
+    },
+    {
+      "rang": 210,
+      "familiya": "Зыков"
+    },
+    {
+      "rang": 211,
+      "familiya": "Бирюков"
+    },
+    {
+      "rang": 212,
+      "familiya": "Шарапов"
+    },
+    {
+      "rang": 213,
+      "familiya": "Никонов"
+    },
+    {
+      "rang": 214,
+      "familiya": "Щукин"
+    },
+    {
+      "rang": 215,
+      "familiya": "Дьячков"
+    },
+    {
+      "rang": 216,
+      "familiya": "Одинцов"
+    },
+    {
+      "rang": 217,
+      "familiya": "Сазонов"
+    },
+    {
+      "rang": 218,
+      "familiya": "Якушев"
+    },
+    {
+      "rang": 219,
+      "familiya": "Красильников"
+    },
+    {
+      "rang": 220,
+      "familiya": "Гордеев"
+    },
+    {
+      "rang": 221,
+      "familiya": "Самойлов"
+    },
+    {
+      "rang": 222,
+      "familiya": "Князев"
+    },
+    {
+      "rang": 223,
+      "familiya": "Беспалов"
+    },
+    {
+      "rang": 224,
+      "familiya": "Уваров"
+    },
+    {
+      "rang": 225,
+      "familiya": "Шашков"
+    },
+    {
+      "rang": 226,
+      "familiya": "Бобылёв"
+    },
+    {
+      "rang": 227,
+      "familiya": "Доронин"
+    },
+    {
+      "rang": 228,
+      "familiya": "Белозёров"
+    },
+    {
+      "rang": 229,
+      "familiya": "Рожков"
+    },
+    {
+      "rang": 230,
+      "familiya": "Самсонов"
+    },
+    {
+      "rang": 231,
+      "familiya": "Мясников"
+    },
+    {
+      "rang": 232,
+      "familiya": "Лихачёв"
+    },
+    {
+      "rang": 233,
+      "familiya": "Буров"
+    },
+    {
+      "rang": 234,
+      "familiya": "Сысоев"
+    },
+    {
+      "rang": 235,
+      "familiya": "Фомичёв"
+    },
+    {
+      "rang": 236,
+      "familiya": "Русаков"
+    },
+    {
+      "rang": 237,
+      "familiya": "Стрелков"
+    },
+    {
+      "rang": 238,
+      "familiya": "Гущин"
+    },
+    {
+      "rang": 239,
+      "familiya": "Тетерин"
+    },
+    {
+      "rang": 240,
+      "familiya": "Колобов"
+    },
+    {
+      "rang": 241,
+      "familiya": "Субботин"
+    },
+    {
+      "rang": 242,
+      "familiya": "Фокин"
+    },
+    {
+      "rang": 243,
+      "familiya": "Блохин"
+    },
+    {
+      "rang": 244,
+      "familiya": "Селиверстов"
+    },
+    {
+      "rang": 245,
+      "familiya": "Пестов"
+    },
+    {
+      "rang": 246,
+      "familiya": "Кондратьев"
+    },
+    {
+      "rang": 247,
+      "familiya": "Силин"
+    },
+    {
+      "rang": 248,
+      "familiya": "Меркушев"
+    },
+    {
+      "rang": 249,
+      "familiya": "Лыткин"
+    },
+    {
+      "rang": 250,
+      "familiya": "Туров"
+    }
+  ],
+  "meta": {
+    "title": "250 самых распространённых русских фамилий (список Балановской) - Free Download",
+    "description": "Рейтинг 250 наиболее частых общерусских фамилий по исследованию Е. В. Балановской (Медико-генетический научный центр РАМН), по данным пяти регионов России. Contains 250 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "250 самых распространённых русских фамилий (список Балановской) | ListBase",
+    "seo_description": "Download 250 самых распространённых русских фамилий (список Балановской) — 250 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 250 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Список_общерусских_фамилий"
+    ]
+  }
+}
