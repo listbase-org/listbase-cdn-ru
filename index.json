@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-16T02:12:12.863Z",
-  "total_datasets": 554,
-  "total_records": 225361,
+  "generated": "2026-11-17T02:14:58.436Z",
+  "total_datasets": 555,
+  "total_records": 225378,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -5204,6 +5204,35 @@
         "xlsx": {
           "name": "ru-sudi-konstitucionnogo-suda_RU.xlsx",
           "size": 7645
+        }
+      }
+    },
+    {
+      "id": "ru-detskoe-evrovidenie-uchastniki",
+      "name": "Россия на детском конкурсе песни «Евровидение» — участники и результаты",
+      "category": "music",
+      "record_count": 17,
+      "columns": [
+        "god",
+        "mesto_provedeniya",
+        "ispolnitel",
+        "pesnya",
+        "perevod",
+        "yazyk",
+        "mesto",
+        "bally"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Россия_на_детском_конкурсе_песни_Евровидение",
+      "updated": "2026-11",
+      "size": 7979,
+      "files": {
+        "csv": {
+          "name": "ru-detskoe-evrovidenie-uchastniki_RU.csv",
+          "size": 2591
+        },
+        "xlsx": {
+          "name": "ru-detskoe-evrovidenie-uchastniki_RU.xlsx",
+          "size": 8395
         }
       }
     },

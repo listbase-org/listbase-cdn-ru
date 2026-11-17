@@ -1,0 +1,236 @@
+{
+  "id": "ru-detskoe-evrovidenie-uchastniki",
+  "name": "Россия на детском конкурсе песни «Евровидение» — участники и результаты",
+  "title": "Россия на детском конкурсе песни «Евровидение» — участники и результаты",
+  "description": "Все участники от России на детском конкурсе песни «Евровидение» с 2005 по 2021 год: место проведения, исполнитель, песня, язык, итоговое место и баллы.",
+  "category": "music",
+  "source": "https://ru.wikipedia.org/wiki/Россия_на_детском_конкурсе_песни_Евровидение",
+  "source_url": "https://ru.wikipedia.org/wiki/Россия_на_детском_конкурсе_песни_Евровидение",
+  "updated": "2026-11",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "god",
+      "label": "God",
+      "type": "number"
+    },
+    {
+      "key": "mesto_provedeniya",
+      "label": "Mesto Provedeniya",
+      "type": "string"
+    },
+    {
+      "key": "ispolnitel",
+      "label": "Ispolnitel",
+      "type": "string"
+    },
+    {
+      "key": "pesnya",
+      "label": "Pesnya",
+      "type": "string"
+    },
+    {
+      "key": "perevod",
+      "label": "Perevod",
+      "type": "string"
+    },
+    {
+      "key": "yazyk",
+      "label": "Yazyk",
+      "type": "string"
+    },
+    {
+      "key": "mesto",
+      "label": "Mesto",
+      "type": "number"
+    },
+    {
+      "key": "bally",
+      "label": "Bally",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "god": 2005,
+      "mesto_provedeniya": "Хасселт",
+      "ispolnitel": "Влад Крутских",
+      "pesnya": "«Doroga K Solntsu» (The Road to the Sun)",
+      "perevod": "«Дорога к солнцу»",
+      "yazyk": "Русский",
+      "mesto": 9,
+      "bally": 66
+    },
+    {
+      "god": 2006,
+      "mesto_provedeniya": "Бухарест",
+      "ispolnitel": "Сёстры Толмачёвы",
+      "pesnya": "«Vesenniy Jazz» (Spring Jazz)",
+      "perevod": "«Весенний джаз»",
+      "yazyk": "Русский",
+      "mesto": 1,
+      "bally": 154
+    },
+    {
+      "god": 2007,
+      "mesto_provedeniya": "Роттердам",
+      "ispolnitel": "Александра Головченко",
+      "pesnya": "«Otlichnitsa» (Excellent Student)",
+      "perevod": "«Отличница»",
+      "yazyk": "Русский",
+      "mesto": 6,
+      "bally": 105
+    },
+    {
+      "god": 2008,
+      "mesto_provedeniya": "Лимасол",
+      "ispolnitel": "Михаил Пунтов",
+      "pesnya": "«Spit Angel» (The Angel Sleeps)",
+      "perevod": "«Спит ангел»",
+      "yazyk": "Русский",
+      "mesto": 7,
+      "bally": 73
+    },
+    {
+      "god": 2009,
+      "mesto_provedeniya": "Киев",
+      "ispolnitel": "Екатерина Рябова",
+      "pesnya": "«Malenky Prints» (The Little Prince)",
+      "perevod": "«Маленький принц»",
+      "yazyk": "Русский",
+      "mesto": 2,
+      "bally": 116
+    },
+    {
+      "god": 2010,
+      "mesto_provedeniya": "Минск",
+      "ispolnitel": "Лиза Дрозд и Саша Лазин",
+      "pesnya": "«Boy and Girl»",
+      "perevod": "«Мальчик и девочка»",
+      "yazyk": "Русский, английский",
+      "mesto": 2,
+      "bally": 119
+    },
+    {
+      "god": 2011,
+      "mesto_provedeniya": "Ереван",
+      "ispolnitel": "Катя Рябова",
+      "pesnya": "«Romeo and Juliet»",
+      "perevod": "«Ромео и Джульетта»",
+      "yazyk": "Русский",
+      "mesto": 4,
+      "bally": 99
+    },
+    {
+      "god": 2012,
+      "mesto_provedeniya": "Амстердам",
+      "ispolnitel": "Лерика",
+      "pesnya": "«Sensation»",
+      "perevod": "«Сенсация»",
+      "yazyk": "Русский, английский",
+      "mesto": 4,
+      "bally": 88
+    },
+    {
+      "god": 2013,
+      "mesto_provedeniya": "Киев",
+      "ispolnitel": "Даяна Кириллова",
+      "pesnya": "«Dream On»",
+      "perevod": "«Мечтай»",
+      "yazyk": "Русский",
+      "mesto": 4,
+      "bally": 106
+    },
+    {
+      "god": 2014,
+      "mesto_provedeniya": "Марса",
+      "ispolnitel": "Алиса Кожикина",
+      "pesnya": "«Dreamer»",
+      "perevod": "«Мечтатель»",
+      "yazyk": "Русский, английский",
+      "mesto": 5,
+      "bally": 96
+    },
+    {
+      "god": 2015,
+      "mesto_provedeniya": "София",
+      "ispolnitel": "Михаил Смирнов",
+      "pesnya": "«Dream» (Mechta)",
+      "perevod": "«Мечта»",
+      "yazyk": "Русский, английский",
+      "mesto": 6,
+      "bally": 80
+    },
+    {
+      "god": 2016,
+      "mesto_provedeniya": "Валлетта",
+      "ispolnitel": "Проект «Живая вода»",
+      "pesnya": "«Water of Life»",
+      "perevod": "«Живая вода»",
+      "yazyk": "Русский, английский",
+      "mesto": 4,
+      "bally": 202
+    },
+    {
+      "god": 2017,
+      "mesto_provedeniya": "Тбилиси",
+      "ispolnitel": "Полина Богусевич",
+      "pesnya": "«Wings»",
+      "perevod": "«Крылья»",
+      "yazyk": "Русский, английский",
+      "mesto": 1,
+      "bally": 188
+    },
+    {
+      "god": 2018,
+      "mesto_provedeniya": "Минск",
+      "ispolnitel": "Анна Филипчук",
+      "pesnya": "«Unbreakable»",
+      "perevod": "«Непобедимый»",
+      "yazyk": "Русский, английский",
+      "mesto": 10,
+      "bally": 122
+    },
+    {
+      "god": 2019,
+      "mesto_provedeniya": "Гливице",
+      "ispolnitel": "Таня Меженцева и Денберел Ооржак",
+      "pesnya": "«A Time For Us»",
+      "perevod": "«Время для нас»",
+      "yazyk": "Русский, английский",
+      "mesto": 13,
+      "bally": 72
+    },
+    {
+      "god": 2020,
+      "mesto_provedeniya": "Варшава",
+      "ispolnitel": "София Феськова",
+      "pesnya": "«My New Day»",
+      "perevod": "«Мой новый день»",
+      "yazyk": "Русский, английский",
+      "mesto": 10,
+      "bally": 88
+    },
+    {
+      "god": 2021,
+      "mesto_provedeniya": "Париж",
+      "ispolnitel": "Таня Меженцева",
+      "pesnya": "«Mon Ami»",
+      "perevod": "«Мой друг»",
+      "yazyk": "Русский, английский",
+      "mesto": 7,
+      "bally": 124
+    }
+  ],
+  "meta": {
+    "title": "Россия на детском конкурсе песни «Евровидение» — участники и результаты - Free Download",
+    "description": "Все участники от России на детском конкурсе песни «Евровидение» с 2005 по 2021 год: место проведения, исполнитель, песня, язык, итоговое место и баллы. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Россия на детском конкурсе песни «Евровидение» — участники и результаты | ListBase",
+    "seo_description": "Download Россия на детском конкурсе песни «Евровидение» — участники и результаты — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Россия_на_детском_конкурсе_песни_Евровидение"
+    ]
+  }
+}
