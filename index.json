@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-18T02:16:28.720Z",
-  "total_datasets": 559,
-  "total_records": 225746,
+  "generated": "2026-11-18T02:16:42.861Z",
+  "total_datasets": 560,
+  "total_records": 225851,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "society",
@@ -12634,6 +12634,31 @@
         "xlsx": {
           "name": "ru-zooparki_RU.xlsx",
           "size": 10745
+        }
+      }
+    },
+    {
+      "id": "ru-demidovskaya-premiya-laureaty",
+      "name": "Лауреаты Демидовской премии (с 1993 года)",
+      "category": "science",
+      "record_count": 105,
+      "columns": [
+        "god",
+        "laureat",
+        "oblast_nauki",
+        "formulirovka"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Демидовская_премия_Научного_Демидовского_фонда",
+      "updated": "2026-11",
+      "size": 33518,
+      "files": {
+        "csv": {
+          "name": "ru-demidovskaya-premiya-laureaty_RU.csv",
+          "size": 22025
+        },
+        "xlsx": {
+          "name": "ru-demidovskaya-premiya-laureaty_RU.xlsx",
+          "size": 13698
         }
       }
     },
