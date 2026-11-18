@@ -1,0 +1,221 @@
+{
+  "id": "ru-nika-luchshiy-igrovoy-film",
+  "name": "Премия «Ника» за лучший игровой фильм — список победителей",
+  "title": "Премия «Ника» за лучший игровой фильм — список победителей",
+  "description": "Фильмы — лауреаты кинопремии «Ника» в номинации «Лучший игровой фильм» с 1988 года: год церемонии, название фильма и режиссёр.",
+  "category": "entertainment",
+  "source": "https://ru.wikipedia.org/wiki/Премия_«Ника»_за_лучший_игровой_фильм",
+  "source_url": "https://ru.wikipedia.org/wiki/Премия_«Ника»_за_лучший_игровой_фильм",
+  "updated": "2026-11",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "god_tseremonii",
+      "label": "God Tseremonii",
+      "type": "number"
+    },
+    {
+      "key": "film",
+      "label": "Film",
+      "type": "string"
+    },
+    {
+      "key": "rezhissyor",
+      "label": "Rezhissyor",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "god_tseremonii": 1988,
+      "film": "Покаяние",
+      "rezhissyor": "Тенгиз Абуладзе"
+    },
+    {
+      "god_tseremonii": 1989,
+      "film": "Холодное лето пятьдесят третьего…",
+      "rezhissyor": "Александр Прошкин"
+    },
+    {
+      "god_tseremonii": 1990,
+      "film": "Ашик-Кериб",
+      "rezhissyor": "Сергей Параджанов и Давид Абашидзе"
+    },
+    {
+      "god_tseremonii": 1991,
+      "film": "Астенический синдром",
+      "rezhissyor": "Кира Муратова"
+    },
+    {
+      "god_tseremonii": 1992,
+      "film": "Небеса обетованные",
+      "rezhissyor": "Эльдар Рязанов"
+    },
+    {
+      "god_tseremonii": 1993,
+      "film": "Анкор, ещё анкор!",
+      "rezhissyor": "Пётр Тодоровский"
+    },
+    {
+      "god_tseremonii": 1994,
+      "film": "Макаров",
+      "rezhissyor": "Владимир Хотиненко"
+    },
+    {
+      "god_tseremonii": 1995,
+      "film": "Увлеченья",
+      "rezhissyor": "Кира Муратова"
+    },
+    {
+      "god_tseremonii": 1996,
+      "film": "Особенности национальной охоты",
+      "rezhissyor": "Александр Рогожкин"
+    },
+    {
+      "god_tseremonii": 1997,
+      "film": "Кавказский пленник",
+      "rezhissyor": "Сергей Бодров ст."
+    },
+    {
+      "god_tseremonii": 1998,
+      "film": "Вор",
+      "rezhissyor": "Павел Чухрай"
+    },
+    {
+      "god_tseremonii": 1999,
+      "film": "Про уродов и людей",
+      "rezhissyor": "Алексей Балабанов"
+    },
+    {
+      "god_tseremonii": 2000,
+      "film": "Хрусталёв, машину!",
+      "rezhissyor": "Алексей Герман ст."
+    },
+    {
+      "god_tseremonii": 2001,
+      "film": "Дневник его жены",
+      "rezhissyor": "Алексей Учитель"
+    },
+    {
+      "god_tseremonii": 2002,
+      "film": "Телец",
+      "rezhissyor": "Александр Сокуров"
+    },
+    {
+      "god_tseremonii": 2003,
+      "film": "Кукушка",
+      "rezhissyor": "Александр Рогожкин"
+    },
+    {
+      "god_tseremonii": 2004,
+      "film": "Возвращение",
+      "rezhissyor": "Андрей Звягинцев"
+    },
+    {
+      "god_tseremonii": 2005,
+      "film": "Свои",
+      "rezhissyor": "Дмитрий Месхиев"
+    },
+    {
+      "god_tseremonii": 2006,
+      "film": "9 рота",
+      "rezhissyor": "Фёдор Бондарчук"
+    },
+    {
+      "god_tseremonii": 2007,
+      "film": "Остров",
+      "rezhissyor": "Павел Лунгин"
+    },
+    {
+      "god_tseremonii": 2008,
+      "film": "Монгол",
+      "rezhissyor": "Сергей Бодров ст."
+    },
+    {
+      "god_tseremonii": 2009,
+      "film": "Стиляги",
+      "rezhissyor": "Валерий Тодоровский"
+    },
+    {
+      "god_tseremonii": 2010,
+      "film": "Полторы комнаты, или Сентиментальное путешествие на родину",
+      "rezhissyor": "Андрей Хржановский"
+    },
+    {
+      "god_tseremonii": 2011,
+      "film": "Край",
+      "rezhissyor": "Алексей Учитель"
+    },
+    {
+      "god_tseremonii": 2012,
+      "film": "Жила-была одна баба",
+      "rezhissyor": "Андрей Смирнов"
+    },
+    {
+      "god_tseremonii": 2013,
+      "film": "Фауст",
+      "rezhissyor": "Александр Сокуров"
+    },
+    {
+      "god_tseremonii": 2014,
+      "film": "Географ глобус пропил",
+      "rezhissyor": "Александр Велединский"
+    },
+    {
+      "god_tseremonii": 2015,
+      "film": "Трудно быть богом",
+      "rezhissyor": "Алексей Герман старший"
+    },
+    {
+      "god_tseremonii": 2016,
+      "film": "Милый Ханс, дорогой Пётр",
+      "rezhissyor": "Александр Миндадзе"
+    },
+    {
+      "god_tseremonii": 2017,
+      "film": "Рай",
+      "rezhissyor": "Андрей Кончаловский"
+    },
+    {
+      "god_tseremonii": 2018,
+      "film": "Аритмия",
+      "rezhissyor": "Борис Хлебников"
+    },
+    {
+      "god_tseremonii": 2019,
+      "film": "Война Анны",
+      "rezhissyor": "Алексей Федорченко"
+    },
+    {
+      "god_tseremonii": 2021,
+      "film": "Француз",
+      "rezhissyor": "Андрей Смирнов"
+    },
+    {
+      "god_tseremonii": 2021,
+      "film": "Дорогие товарищи!",
+      "rezhissyor": "Андрей Кончаловский"
+    },
+    {
+      "god_tseremonii": 2024,
+      "film": "Праведник",
+      "rezhissyor": "Сергей Урсуляк"
+    },
+    {
+      "god_tseremonii": 2025,
+      "film": "Мастер и Маргарита",
+      "rezhissyor": ""
+    }
+  ],
+  "meta": {
+    "title": "Премия «Ника» за лучший игровой фильм — список победителей - Free Download",
+    "description": "Фильмы — лауреаты кинопремии «Ника» в номинации «Лучший игровой фильм» с 1988 года: год церемонии, название фильма и режиссёр. Contains 36 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Премия «Ника» за лучший игровой фильм — список победителей | ListBase",
+    "seo_description": "Download Премия «Ника» за лучший игровой фильм — список победителей — 36 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 36 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Премия_«Ника»_за_лучший_игровой_фильм"
+    ]
+  }
+}

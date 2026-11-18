@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-17T02:15:57.898Z",
-  "total_datasets": 558,
-  "total_records": 225710,
+  "generated": "2026-11-18T02:16:28.720Z",
+  "total_datasets": 559,
+  "total_records": 225746,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "environment",
@@ -945,6 +945,30 @@
         "xlsx": {
           "name": "ru-lidery-sovetskogo-kinoprokata_RU.xlsx",
           "size": 9352
+        }
+      }
+    },
+    {
+      "id": "ru-nika-luchshiy-igrovoy-film",
+      "name": "Премия «Ника» за лучший игровой фильм — список победителей",
+      "category": "entertainment",
+      "record_count": 36,
+      "columns": [
+        "god_tseremonii",
+        "film",
+        "rezhissyor"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Премия_«Ника»_за_лучший_игровой_фильм",
+      "updated": "2026-11",
+      "size": 7335,
+      "files": {
+        "csv": {
+          "name": "ru-nika-luchshiy-igrovoy-film_RU.csv",
+          "size": 2589
+        },
+        "xlsx": {
+          "name": "ru-nika-luchshiy-igrovoy-film_RU.xlsx",
+          "size": 8324
         }
       }
     },
