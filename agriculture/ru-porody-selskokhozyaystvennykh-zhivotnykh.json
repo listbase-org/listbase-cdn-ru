@@ -1,0 +1,352 @@
+{
+  "id": "ru-porody-selskokhozyaystvennykh-zhivotnykh",
+  "name": "Породы сельскохозяйственных животных, выведенные в России и СССР",
+  "title": "Породы сельскохозяйственных животных, выведенные в России и СССР",
+  "description": "Породы лошадей, крупного рогатого скота, овец, коз, свиней, кур, гусей и кроликов отечественной селекции (Россия, СССР, Российская империя) по данным Викиданных.",
+  "category": "agriculture",
+  "source": "https://www.wikidata.org/wiki/Property:P495",
+  "source_url": "https://www.wikidata.org/wiki/Property:P495",
+  "updated": "2026-11",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "poroda",
+      "label": "Poroda",
+      "type": "string"
+    },
+    {
+      "key": "vid_zhivotnykh",
+      "label": "Vid Zhivotnykh",
+      "type": "string"
+    },
+    {
+      "key": "strana_proiskhozhdeniya",
+      "label": "Strana Proiskhozhdeniya",
+      "type": "string"
+    },
+    {
+      "key": "wikidata",
+      "label": "Wikidata",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "poroda": "Алтайская лошадь",
+      "vid_zhivotnykh": "лошади",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q2840316"
+    },
+    {
+      "poroda": "Башкирская порода",
+      "vid_zhivotnykh": "лошади",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q809802"
+    },
+    {
+      "poroda": "Битюг",
+      "vid_zhivotnykh": "лошади",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q4087547"
+    },
+    {
+      "poroda": "Будённовская лошадь",
+      "vid_zhivotnykh": "лошади",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q663150"
+    },
+    {
+      "poroda": "Владимирский тяжеловоз",
+      "vid_zhivotnykh": "лошади",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q2298984"
+    },
+    {
+      "poroda": "Вятская лошадь",
+      "vid_zhivotnykh": "лошади",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q2987038"
+    },
+    {
+      "poroda": "Донская лошадь",
+      "vid_zhivotnykh": "лошади",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q1153736"
+    },
+    {
+      "poroda": "Кабардинская лошадь",
+      "vid_zhivotnykh": "лошади",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q327058"
+    },
+    {
+      "poroda": "Калмыцкая лошадь",
+      "vid_zhivotnykh": "лошади",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q7711671"
+    },
+    {
+      "poroda": "Карачаевская лошадь",
+      "vid_zhivotnykh": "лошади",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q4214444"
+    },
+    {
+      "poroda": "Кузнецкая лошадь",
+      "vid_zhivotnykh": "лошади",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q4244865"
+    },
+    {
+      "poroda": "Нарымская лошадь",
+      "vid_zhivotnykh": "лошади",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q3336163"
+    },
+    {
+      "poroda": "Новоалтайская лошадь",
+      "vid_zhivotnykh": "лошади",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q28033231"
+    },
+    {
+      "poroda": "Орловский рысак",
+      "vid_zhivotnykh": "лошади",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q516612"
+    },
+    {
+      "poroda": "Приобская лошадь",
+      "vid_zhivotnykh": "лошади",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q3347900"
+    },
+    {
+      "poroda": "Русская верховая",
+      "vid_zhivotnykh": "лошади",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q4400446"
+    },
+    {
+      "poroda": "Русский тяжеловоз",
+      "vid_zhivotnykh": "лошади",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q1428389"
+    },
+    {
+      "poroda": "Тавдинская лошадь",
+      "vid_zhivotnykh": "лошади",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q30765780"
+    },
+    {
+      "poroda": "Терская лошадь",
+      "vid_zhivotnykh": "лошади",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q1280354"
+    },
+    {
+      "poroda": "Чумыш",
+      "vid_zhivotnykh": "лошади",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q56307541"
+    },
+    {
+      "poroda": "Русский рысак",
+      "vid_zhivotnykh": "лошади",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q2177186"
+    },
+    {
+      "poroda": "Советский тяжеловоз",
+      "vid_zhivotnykh": "лошади",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q2043450"
+    },
+    {
+      "poroda": "Бурая карпатская порода",
+      "vid_zhivotnykh": "крупный рогатый скот",
+      "strana_proiskhozhdeniya": "СССР",
+      "wikidata": "Q1650441"
+    },
+    {
+      "poroda": "Казахская белоголовая порода",
+      "vid_zhivotnykh": "крупный рогатый скот",
+      "strana_proiskhozhdeniya": "СССР",
+      "wikidata": "Q1734808"
+    },
+    {
+      "poroda": "Красно-пёстрая",
+      "vid_zhivotnykh": "крупный рогатый скот",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q125182035"
+    },
+    {
+      "poroda": "Русская комолая",
+      "vid_zhivotnykh": "крупный рогатый скот",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q125182037"
+    },
+    {
+      "poroda": "Сычёвская порода",
+      "vid_zhivotnykh": "крупный рогатый скот",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q28034457"
+    },
+    {
+      "poroda": "Тагильская",
+      "vid_zhivotnykh": "крупный рогатый скот",
+      "strana_proiskhozhdeniya": "СССР",
+      "wikidata": "Q65167756"
+    },
+    {
+      "poroda": "Чёрно-пёстрая порода",
+      "vid_zhivotnykh": "крупный рогатый скот",
+      "strana_proiskhozhdeniya": "СССР",
+      "wikidata": "Q7382006"
+    },
+    {
+      "poroda": "Ярославская порода",
+      "vid_zhivotnykh": "крупный рогатый скот",
+      "strana_proiskhozhdeniya": "Российская империя",
+      "wikidata": "Q4538840"
+    },
+    {
+      "poroda": "Алтайская порода овец",
+      "vid_zhivotnykh": "овцы",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q4062918"
+    },
+    {
+      "poroda": "Арагацкая породная группа овец",
+      "vid_zhivotnykh": "овцы",
+      "strana_proiskhozhdeniya": "СССР",
+      "wikidata": "Q21656172"
+    },
+    {
+      "poroda": "Дагестанская горная порода овец",
+      "vid_zhivotnykh": "овцы",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q21657134"
+    },
+    {
+      "poroda": "Катумские овцы",
+      "vid_zhivotnykh": "овцы",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q25381474"
+    },
+    {
+      "poroda": "Романовская порода",
+      "vid_zhivotnykh": "овцы",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q2582366"
+    },
+    {
+      "poroda": "Ставропольская порода овец",
+      "vid_zhivotnykh": "овцы",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q21703475"
+    },
+    {
+      "poroda": "Адлерская серебристая (порода кур)",
+      "vid_zhivotnykh": "куры",
+      "strana_proiskhozhdeniya": "СССР",
+      "wikidata": "Q4057620"
+    },
+    {
+      "poroda": "Кучинские Юбилейные куры",
+      "vid_zhivotnykh": "куры",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q66147667"
+    },
+    {
+      "poroda": "Орловская",
+      "vid_zhivotnykh": "куры",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q3356487"
+    },
+    {
+      "poroda": "Русская белая",
+      "vid_zhivotnykh": "куры",
+      "strana_proiskhozhdeniya": "СССР",
+      "wikidata": "Q12868470"
+    },
+    {
+      "poroda": "Юрловская голосистая (порода кур)",
+      "vid_zhivotnykh": "куры",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q2956367"
+    },
+    {
+      "poroda": "Арзамасская",
+      "vid_zhivotnykh": "гуси",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q56303770"
+    },
+    {
+      "poroda": "Суховский гусь",
+      "vid_zhivotnykh": "гуси",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q2296447"
+    },
+    {
+      "poroda": "Линдовская",
+      "vid_zhivotnykh": "гуси",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q56303773"
+    },
+    {
+      "poroda": "Серебристый",
+      "vid_zhivotnykh": "кролики",
+      "strana_proiskhozhdeniya": "СССР",
+      "wikidata": "Q21658872"
+    },
+    {
+      "poroda": "Серый Великан",
+      "vid_zhivotnykh": "кролики",
+      "strana_proiskhozhdeniya": "СССР",
+      "wikidata": "Q12159501"
+    },
+    {
+      "poroda": "Чёрно-бурый кролик",
+      "vid_zhivotnykh": "кролики",
+      "strana_proiskhozhdeniya": "СССР",
+      "wikidata": "Q16718912"
+    },
+    {
+      "poroda": "Горноалтайская коза",
+      "vid_zhivotnykh": "козы",
+      "strana_proiskhozhdeniya": "СССР",
+      "wikidata": "Q4736083"
+    },
+    {
+      "poroda": "Оренбургская коза",
+      "vid_zhivotnykh": "козы",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q1679758"
+    },
+    {
+      "poroda": "Русская белая коза",
+      "vid_zhivotnykh": "козы",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q7382160"
+    },
+    {
+      "poroda": "Ливенская порода свиней",
+      "vid_zhivotnykh": "свиньи",
+      "strana_proiskhozhdeniya": "Россия",
+      "wikidata": "Q1866557"
+    }
+  ],
+  "meta": {
+    "title": "Породы сельскохозяйственных животных, выведенные в России и СССР - Free Download",
+    "description": "Породы лошадей, крупного рогатого скота, овец, коз, свиней, кур, гусей и кроликов отечественной селекции (Россия, СССР, Российская империя) по данным Викиданных. Contains 51 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Породы сельскохозяйственных животных, выведенные в России и СССР | ListBase",
+    "seo_description": "Download Породы сельскохозяйственных животных, выведенные в России и СССР — 51 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 51 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.wikidata.org/wiki/Property:P495"
+    ]
+  }
+}
