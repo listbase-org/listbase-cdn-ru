@@ -1,0 +1,120 @@
+{
+  "id": "ru-mrot-srednyaya-mediannaya-zarplata",
+  "name": "МРОТ, средняя и медианная зарплата в России по годам",
+  "title": "МРОТ, средняя и медианная зарплата в России по годам",
+  "description": "Минимальный размер оплаты труда (МРОТ) в России по годам в сравнении со средней и медианной заработной платой и доля МРОТ от них, %.",
+  "category": "economy",
+  "source": "https://ru.wikipedia.org/wiki/Доходы_населения_России",
+  "source_url": "https://ru.wikipedia.org/wiki/Доходы_населения_России",
+  "updated": "2026-11",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "god",
+      "label": "God",
+      "type": "number"
+    },
+    {
+      "key": "mrot_rub",
+      "label": "Mrot Rub",
+      "type": "number"
+    },
+    {
+      "key": "srednyaya_zarplata_rub",
+      "label": "Srednyaya Zarplata Rub",
+      "type": "number"
+    },
+    {
+      "key": "mrot_k_sredney_proc",
+      "label": "Mrot K Sredney Proc",
+      "type": "number"
+    },
+    {
+      "key": "mediannaya_zarplata_rub",
+      "label": "Mediannaya Zarplata Rub",
+      "type": "number"
+    },
+    {
+      "key": "mrot_k_mediannoy_proc",
+      "label": "Mrot K Mediannoy Proc",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "god": 2019,
+      "mrot_rub": 11280,
+      "srednyaya_zarplata_rub": 47867,
+      "mrot_k_sredney_proc": 23.57,
+      "mediannaya_zarplata_rub": 30458,
+      "mrot_k_mediannoy_proc": 37.03
+    },
+    {
+      "god": 2020,
+      "mrot_rub": 12130,
+      "srednyaya_zarplata_rub": 51344,
+      "mrot_k_sredney_proc": 23.62,
+      "mediannaya_zarplata_rub": 32422,
+      "mrot_k_mediannoy_proc": 37.41
+    },
+    {
+      "god": 2021,
+      "mrot_rub": 12792,
+      "srednyaya_zarplata_rub": 57244,
+      "mrot_k_sredney_proc": 22.35,
+      "mediannaya_zarplata_rub": 35370,
+      "mrot_k_mediannoy_proc": 36.17
+    },
+    {
+      "god": 2022,
+      "mrot_rub": 14584.5,
+      "srednyaya_zarplata_rub": 65338,
+      "mrot_k_sredney_proc": 22.32,
+      "mediannaya_zarplata_rub": 40368,
+      "mrot_k_mediannoy_proc": 36.13
+    },
+    {
+      "god": 2023,
+      "mrot_rub": 16242,
+      "srednyaya_zarplata_rub": 74854,
+      "mrot_k_sredney_proc": 21.7,
+      "mediannaya_zarplata_rub": 46751,
+      "mrot_k_mediannoy_proc": 34.74
+    },
+    {
+      "god": 2024,
+      "mrot_rub": 19242,
+      "srednyaya_zarplata_rub": 89069,
+      "mrot_k_sredney_proc": 21.6,
+      "mediannaya_zarplata_rub": 56443,
+      "mrot_k_mediannoy_proc": 34.09
+    },
+    {
+      "god": 2025,
+      "mrot_rub": 22440,
+      "srednyaya_zarplata_rub": 100360,
+      "mrot_k_sredney_proc": 22.36,
+      "mediannaya_zarplata_rub": 65307,
+      "mrot_k_mediannoy_proc": 34.36
+    },
+    {
+      "god": 2026,
+      "mrot_rub": 27093,
+      "srednyaya_zarplata_rub": "",
+      "mrot_k_sredney_proc": "",
+      "mediannaya_zarplata_rub": "",
+      "mrot_k_mediannoy_proc": ""
+    }
+  ],
+  "meta": {
+    "title": "МРОТ, средняя и медианная зарплата в России по годам - Free Download",
+    "description": "Минимальный размер оплаты труда (МРОТ) в России по годам в сравнении со средней и медианной заработной платой и доля МРОТ от них, %. Contains 8 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "МРОТ, средняя и медианная зарплата в России по годам | ListBase",
+    "seo_description": "Download МРОТ, средняя и медианная зарплата в России по годам — 8 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 8 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Доходы_населения_России"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-18T02:18:05.178Z",
-  "total_datasets": 561,
-  "total_records": 225902,
+  "generated": "2026-11-19T02:23:11.709Z",
+  "total_datasets": 562,
+  "total_records": 225910,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -708,6 +708,33 @@
         "xlsx": {
           "name": "ru-monogoroda_RU.xlsx",
           "size": 23547
+        }
+      }
+    },
+    {
+      "id": "ru-mrot-srednyaya-mediannaya-zarplata",
+      "name": "МРОТ, средняя и медианная зарплата в России по годам",
+      "category": "economy",
+      "record_count": 8,
+      "columns": [
+        "god",
+        "mrot_rub",
+        "srednyaya_zarplata_rub",
+        "mrot_k_sredney_proc",
+        "mediannaya_zarplata_rub",
+        "mrot_k_mediannoy_proc"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Доходы_населения_России",
+      "updated": "2026-11",
+      "size": 4113,
+      "files": {
+        "csv": {
+          "name": "ru-mrot-srednyaya-mediannaya-zarplata_RU.csv",
+          "size": 473
+        },
+        "xlsx": {
+          "name": "ru-mrot-srednyaya-mediannaya-zarplata_RU.xlsx",
+          "size": 7096
         }
       }
     },
