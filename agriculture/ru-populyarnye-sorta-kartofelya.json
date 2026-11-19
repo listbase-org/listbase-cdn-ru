@@ -1,0 +1,151 @@
+{
+  "id": "ru-populyarnye-sorta-kartofelya",
+  "name": "Популярные сорта картофеля в России",
+  "title": "Популярные сорта картофеля в России",
+  "description": "Популярные в России сорта картофеля со сроком созревания (дней) и урожайностью (ц/га).",
+  "category": "agriculture",
+  "source": "https://ru.wikipedia.org/wiki/Картофель",
+  "source_url": "https://ru.wikipedia.org/wiki/Картофель",
+  "updated": "2026-11",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "sort",
+      "label": "Sort",
+      "type": "string"
+    },
+    {
+      "key": "srok_sozrevaniya_dney",
+      "label": "Srok Sozrevaniya Dney",
+      "type": "string"
+    },
+    {
+      "key": "urozhaynost_ts_ga",
+      "label": "Urozhaynost Ts Ga",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "sort": "Гала",
+      "srok_sozrevaniya_dney": "75—80",
+      "urozhaynost_ts_ga": "до 400—700"
+    },
+    {
+      "sort": "Ред Скарлетт",
+      "srok_sozrevaniya_dney": "70—80",
+      "urozhaynost_ts_ga": "до 400"
+    },
+    {
+      "sort": "Леди Клэр",
+      "srok_sozrevaniya_dney": "65—75",
+      "urozhaynost_ts_ga": "140—267"
+    },
+    {
+      "sort": "Коломба",
+      "srok_sozrevaniya_dney": "50—65",
+      "urozhaynost_ts_ga": "224—422"
+    },
+    {
+      "sort": "Розара",
+      "srok_sozrevaniya_dney": "50—65",
+      "urozhaynost_ts_ga": "350—400"
+    },
+    {
+      "sort": "Королева Анна",
+      "srok_sozrevaniya_dney": "80—85",
+      "urozhaynost_ts_ga": "393—457"
+    },
+    {
+      "sort": "Инноватор",
+      "srok_sozrevaniya_dney": "75—85",
+      "urozhaynost_ts_ga": "320—330"
+    },
+    {
+      "sort": "Невский",
+      "srok_sozrevaniya_dney": "70—85",
+      "urozhaynost_ts_ga": "380—500"
+    },
+    {
+      "sort": "Ривьера",
+      "srok_sozrevaniya_dney": "80",
+      "urozhaynost_ts_ga": "до 450"
+    },
+    {
+      "sort": "Венета (Винета)",
+      "srok_sozrevaniya_dney": "65—75",
+      "urozhaynost_ts_ga": "до 400"
+    },
+    {
+      "sort": "Ариэль",
+      "srok_sozrevaniya_dney": "65—70 (45)",
+      "urozhaynost_ts_ga": "304—533"
+    },
+    {
+      "sort": "Бельмонда",
+      "srok_sozrevaniya_dney": "70—80",
+      "urozhaynost_ts_ga": "450—800"
+    },
+    {
+      "sort": "Вектор",
+      "srok_sozrevaniya_dney": "115—120",
+      "urozhaynost_ts_ga": "до 673"
+    },
+    {
+      "sort": "Вентана",
+      "srok_sozrevaniya_dney": "75—90",
+      "urozhaynost_ts_ga": "218—491"
+    },
+    {
+      "sort": "Гусар",
+      "srok_sozrevaniya_dney": "85—90",
+      "urozhaynost_ts_ga": "239—532"
+    },
+    {
+      "sort": "Крона (Кроне)",
+      "srok_sozrevaniya_dney": "85—100",
+      "urozhaynost_ts_ga": "430—650"
+    },
+    {
+      "sort": "Кумач",
+      "srok_sozrevaniya_dney": "80—95",
+      "urozhaynost_ts_ga": "241—558"
+    },
+    {
+      "sort": "Милена",
+      "srok_sozrevaniya_dney": "70—90",
+      "urozhaynost_ts_ga": "450—600"
+    },
+    {
+      "sort": "Пламя",
+      "srok_sozrevaniya_dney": "80—90",
+      "urozhaynost_ts_ga": "203—516"
+    },
+    {
+      "sort": "Санте (Санта)",
+      "srok_sozrevaniya_dney": "85—90",
+      "urozhaynost_ts_ga": "300—570"
+    },
+    {
+      "sort": "Тирас",
+      "srok_sozrevaniya_dney": "70—80 (два урожая)",
+      "urozhaynost_ts_ga": "210—460"
+    },
+    {
+      "sort": "Фламинго",
+      "srok_sozrevaniya_dney": "70—80",
+      "urozhaynost_ts_ga": "198—517"
+    }
+  ],
+  "meta": {
+    "title": "Популярные сорта картофеля в России - Free Download",
+    "description": "Популярные в России сорта картофеля со сроком созревания (дней) и урожайностью (ц/га). Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Популярные сорта картофеля в России | ListBase",
+    "seo_description": "Download Популярные сорта картофеля в России — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Картофель"
+    ]
+  }
+}

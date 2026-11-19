@@ -1,12 +1,12 @@
 {
   "lang": "ru",
-  "generated": "2026-11-19T02:23:11.709Z",
-  "total_datasets": 562,
-  "total_records": 225910,
+  "generated": "2026-11-19T02:23:22.501Z",
+  "total_datasets": 563,
+  "total_records": 225932,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "culture",
@@ -125,6 +125,30 @@
         "xlsx": {
           "name": "ru-ministry-selskogo-khozyaystva_RU.xlsx",
           "size": 13458
+        }
+      }
+    },
+    {
+      "id": "ru-populyarnye-sorta-kartofelya",
+      "name": "Популярные сорта картофеля в России",
+      "category": "agriculture",
+      "record_count": 22,
+      "columns": [
+        "sort",
+        "srok_sozrevaniya_dney",
+        "urozhaynost_ts_ga"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Картофель",
+      "updated": "2026-11",
+      "size": 4575,
+      "files": {
+        "csv": {
+          "name": "ru-populyarnye-sorta-kartofelya_RU.csv",
+          "size": 971
+        },
+        "xlsx": {
+          "name": "ru-populyarnye-sorta-kartofelya_RU.xlsx",
+          "size": 7579
         }
       }
     },
