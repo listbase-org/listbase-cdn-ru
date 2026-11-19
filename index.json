@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-19T02:23:22.501Z",
-  "total_datasets": 563,
-  "total_records": 225932,
+  "generated": "2026-11-19T02:23:34.013Z",
+  "total_datasets": 564,
+  "total_records": 226063,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "finance",
@@ -1272,6 +1272,34 @@
         "xlsx": {
           "name": "ru-gidroelektrostantsii_RU.xlsx",
           "size": 18230
+        }
+      }
+    },
+    {
+      "id": "ru-ptitsy-krasnoy-knigi-rossii",
+      "name": "Птицы Красной книги России",
+      "category": "environment",
+      "record_count": 131,
+      "columns": [
+        "nazvanie",
+        "latinskoe_nazvanie",
+        "otryad",
+        "semeystvo",
+        "areal",
+        "status_msop",
+        "status_krasnaya_kniga_rf"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_птиц,_занесённых_в_Красную_книгу_России",
+      "updated": "2026-11",
+      "size": 66766,
+      "files": {
+        "csv": {
+          "name": "ru-ptitsy-krasnoy-knigi-rossii_RU.csv",
+          "size": 42120
+        },
+        "xlsx": {
+          "name": "ru-ptitsy-krasnoy-knigi-rossii_RU.xlsx",
+          "size": 20698
         }
       }
     },
