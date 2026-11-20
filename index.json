@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-20T02:21:03.672Z",
-  "total_datasets": 565,
-  "total_records": 226322,
+  "generated": "2026-11-20T02:21:14.942Z",
+  "total_datasets": 566,
+  "total_records": 226361,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "entertainment",
@@ -969,6 +969,33 @@
         "xlsx": {
           "name": "ru-universitety_RU.xlsx",
           "size": 24024
+        }
+      }
+    },
+    {
+      "id": "ru-voennye-vuzy-rossii",
+      "name": "Военные высшие учебные заведения России",
+      "category": "education",
+      "record_count": 39,
+      "columns": [
+        "nomer",
+        "tip",
+        "nazvanie",
+        "data_sozdaniya",
+        "mestonakhozhdenie",
+        "filialy"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Военные_высшие_учебные_заведения_России",
+      "updated": "2026-11",
+      "size": 18255,
+      "files": {
+        "csv": {
+          "name": "ru-voennye-vuzy-rossii_RU.csv",
+          "size": 10623
+        },
+        "xlsx": {
+          "name": "ru-voennye-vuzy-rossii_RU.xlsx",
+          "size": 10042
         }
       }
     },
