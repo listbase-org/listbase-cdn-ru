@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-19T02:23:34.013Z",
-  "total_datasets": 564,
-  "total_records": 226063,
+  "generated": "2026-11-20T02:21:03.672Z",
+  "total_datasets": 565,
+  "total_records": 226322,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -4950,6 +4950,35 @@
         "xlsx": {
           "name": "ru-goroda-voinskoy-slavy_RU.xlsx",
           "size": 9143
+        }
+      }
+    },
+    {
+      "id": "ru-operacii-krasnoy-armii-v-vov",
+      "name": "Операции Вооружённых сил СССР в Великой Отечественной войне",
+      "category": "history",
+      "record_count": 259,
+      "columns": [
+        "operaciya",
+        "strategicheskaya_operaciya",
+        "fronty",
+        "data_nachala",
+        "data_okonchaniya",
+        "soedineniya_sssr",
+        "naselennye_punkty",
+        "reki"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_операций_Вооружённых_сил_СССР_в_Великой_Отечественной_войне",
+      "updated": "2026-11",
+      "size": 182719,
+      "files": {
+        "csv": {
+          "name": "ru-operacii-krasnoy-armii-v-vov_RU.csv",
+          "size": 126169
+        },
+        "xlsx": {
+          "name": "ru-operacii-krasnoy-armii-v-vov_RU.xlsx",
+          "size": 30175
         }
       }
     },
