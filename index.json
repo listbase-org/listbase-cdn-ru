@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-20T02:21:14.942Z",
-  "total_datasets": 566,
-  "total_records": 226361,
+  "generated": "2026-11-23T02:21:47.140Z",
+  "total_datasets": 567,
+  "total_records": 226381,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "environment",
@@ -1072,6 +1072,35 @@
         "xlsx": {
           "name": "ru-nika-luchshiy-igrovoy-film_RU.xlsx",
           "size": 8324
+        }
+      }
+    },
+    {
+      "id": "ru-obshchedostupnye-telekanaly-multipleksov",
+      "name": "Общедоступные телеканалы России (первый и второй мультиплексы)",
+      "category": "entertainment",
+      "record_count": 20,
+      "columns": [
+        "nazvanie",
+        "multipleks",
+        "uchreditel",
+        "data_osnovaniya",
+        "sayt",
+        "hd_versiya",
+        "predydushchie_veshchateli",
+        "svidetelstvo_o_registracii"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_российских_телеканалов",
+      "updated": "2026-11",
+      "size": 12688,
+      "files": {
+        "csv": {
+          "name": "ru-obshchedostupnye-telekanaly-multipleksov_RU.csv",
+          "size": 5431
+        },
+        "xlsx": {
+          "name": "ru-obshchedostupnye-telekanaly-multipleksov_RU.xlsx",
+          "size": 9327
         }
       }
     },
