@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-23T02:21:47.140Z",
-  "total_datasets": 567,
-  "total_records": 226381,
+  "generated": "2026-11-23T02:21:58.941Z",
+  "total_datasets": 568,
+  "total_records": 226408,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "geography",
@@ -1721,6 +1721,35 @@
         "xlsx": {
           "name": "ru-potreblenie-produktov-pitaniya_RU.xlsx",
           "size": 8115
+        }
+      }
+    },
+    {
+      "id": "ru-punshi-sssr",
+      "name": "Пунши, производившиеся в СССР",
+      "category": "food",
+      "record_count": 27,
+      "columns": [
+        "nazvanie",
+        "krepost_ob_proc",
+        "ekstrakt_g_100ml",
+        "sakhar_g_100ml",
+        "kislotnost_g_100ml",
+        "cvet",
+        "vkus_aromat",
+        "sostav"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_пуншей,_производившихся_в_СССР",
+      "updated": "2026-11",
+      "size": 20047,
+      "files": {
+        "csv": {
+          "name": "ru-punshi-sssr_RU.csv",
+          "size": 12495
+        },
+        "xlsx": {
+          "name": "ru-punshi-sssr_RU.xlsx",
+          "size": 9635
         }
       }
     },
