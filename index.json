@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-23T02:21:58.941Z",
-  "total_datasets": 568,
-  "total_records": 226408,
+  "generated": "2026-11-23T02:22:10.566Z",
+  "total_datasets": 569,
+  "total_records": 226560,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "environment",
@@ -1155,6 +1155,31 @@
         "xlsx": {
           "name": "ru-samye-kassovye-filmy_RU.xlsx",
           "size": 11854
+        }
+      }
+    },
+    {
+      "id": "ru-zakrytye-telekanaly-rossii",
+      "name": "Закрытые телеканалы России",
+      "category": "entertainment",
+      "record_count": 152,
+      "columns": [
+        "nazvanie",
+        "veshchanie",
+        "data_zakrytiya",
+        "prichina_zakrytiya"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_российских_телеканалов",
+      "updated": "2026-11",
+      "size": 44310,
+      "files": {
+        "csv": {
+          "name": "ru-zakrytye-telekanaly-rossii_RU.csv",
+          "size": 26025
+        },
+        "xlsx": {
+          "name": "ru-zakrytye-telekanaly-rossii_RU.xlsx",
+          "size": 15797
         }
       }
     },

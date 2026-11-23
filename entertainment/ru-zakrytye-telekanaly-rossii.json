@@ -1,0 +1,958 @@
+{
+  "id": "ru-zakrytye-telekanaly-rossii",
+  "name": "Закрытые телеканалы России",
+  "title": "Закрытые телеканалы России",
+  "description": "Список прекративших вещание российских телеканалов с указанием территории вещания, даты закрытия и причины закрытия (переход на цифровое вещание, ребрендинг, финансовые причины и др.).",
+  "category": "entertainment",
+  "source": "https://ru.wikipedia.org/wiki/Список_российских_телеканалов",
+  "source_url": "https://ru.wikipedia.org/wiki/Список_российских_телеканалов",
+  "updated": "2026-11",
+  "record_count": 152,
+  "columns": [
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "veshchanie",
+      "label": "Veshchanie",
+      "type": "string"
+    },
+    {
+      "key": "data_zakrytiya",
+      "label": "Data Zakrytiya",
+      "type": "string"
+    },
+    {
+      "key": "prichina_zakrytiya",
+      "label": "Prichina Zakrytiya",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazvanie": "Дождь",
+      "veshchanie": "Россия",
+      "data_zakrytiya": "3 марта 2022",
+      "prichina_zakrytiya": "Цензура в России во время вторжения на Украину"
+    },
+    {
+      "nazvanie": "Мир (телестанция)",
+      "veshchanie": "Новосибирская область",
+      "data_zakrytiya": "31 декабря 2021",
+      "prichina_zakrytiya": "Переход с аналогового вещания на цифровое"
+    },
+    {
+      "nazvanie": "МТВ",
+      "veshchanie": "Курган",
+      "data_zakrytiya": "1991 год",
+      "prichina_zakrytiya": "Начато вещание ИТВ"
+    },
+    {
+      "nazvanie": "ИТВ",
+      "veshchanie": "Курган",
+      "data_zakrytiya": "Конец 1992 — 10 канал, 1994 — окончательно",
+      "prichina_zakrytiya": "Начато вещание телеканала «Регион-45»"
+    },
+    {
+      "nazvanie": "5 канал",
+      "veshchanie": "Хабаровск",
+      "data_zakrytiya": "31 декабря 2007",
+      "prichina_zakrytiya": "Реорганизация ГТРК Дальневосточная. Начало вещания на 5 ТВК телеканала « Россия-24 »"
+    },
+    {
+      "nazvanie": "АСВ",
+      "veshchanie": "Екатеринбург",
+      "data_zakrytiya": "31 декабря 2003",
+      "prichina_zakrytiya": "Продан РЕН ТВ"
+    },
+    {
+      "nazvanie": "ЦТУ",
+      "veshchanie": "Екатеринбург",
+      "data_zakrytiya": "31 августа 2008",
+      "prichina_zakrytiya": "Продан Проф-Медиа. Заменён на ТВ-3"
+    },
+    {
+      "nazvanie": "МТК",
+      "veshchanie": "Москва",
+      "data_zakrytiya": "8 июня 1997",
+      "prichina_zakrytiya": "Заменено на телеканале « Московия » и « ТВ Центр »"
+    },
+    {
+      "nazvanie": "Центральное телевидение Гостелерадио СССР",
+      "veshchanie": "СССР",
+      "data_zakrytiya": "27 декабря 1991",
+      "prichina_zakrytiya": "Распад СССР, заменено на 1-й канал Останкино, РТВ/РТР, МТК, 4-й канал Останкино и Пятый канал"
+    },
+    {
+      "nazvanie": "1-й канал Останкино",
+      "veshchanie": "Россия",
+      "data_zakrytiya": "31 марта 1995",
+      "prichina_zakrytiya": "Заменён на ОРТ"
+    },
+    {
+      "nazvanie": "Российские университеты",
+      "veshchanie": "Россия",
+      "data_zakrytiya": "10 ноября 1996",
+      "prichina_zakrytiya": "Вещание прекращено после президентских выборов. Весь телеканал по указу президента принадлежит НТВ"
+    },
+    {
+      "nazvanie": "4-й канал Останкино",
+      "veshchanie": "Россия",
+      "data_zakrytiya": "16 января 1994",
+      "prichina_zakrytiya": "Заменён на НТВ"
+    },
+    {
+      "nazvanie": "Свежий ветер",
+      "veshchanie": "Москва",
+      "data_zakrytiya": "1 января 1996",
+      "prichina_zakrytiya": "Заменён на телеканале « Телеэкспо »"
+    },
+    {
+      "nazvanie": "Телеэкспо",
+      "veshchanie": "Москва",
+      "data_zakrytiya": "2 октября 2001 (лицензия истекла в 2003 году)",
+      "prichina_zakrytiya": "Фактически прекратил ретрансляцию собственных передач в 1998 году, после создания русской версии музыкального канала MTV. В октябре 2001 года вместо телеканала MTV была запущена русская версия телеканала Euronews, а затем последний стал транслироваться по лицензии телеканала « Культура » (в большинстве регионов на аналоговом телевидении)"
+    },
+    {
+      "nazvanie": "Евроновости",
+      "veshchanie": "Россия",
+      "data_zakrytiya": "21 марта 2022",
+      "prichina_zakrytiya": "Решение Роскомнадзора о ограничении доступа к телеканалу и сайту «Euronews» на территории России. Заменён на телеканале « Соловьёв Live »"
+    },
+    {
+      "nazvanie": "Канал Disney",
+      "veshchanie": "Россия",
+      "data_zakrytiya": "14 декабря 2022",
+      "prichina_zakrytiya": "Проблемы с лицензированием контента. Заменён на телеканале «Солнце»"
+    },
+    {
+      "nazvanie": "Дума ТВ",
+      "veshchanie": "Россия",
+      "data_zakrytiya": "28 июля 2026",
+      "prichina_zakrytiya": "Неизвестно"
+    },
+    {
+      "nazvanie": "ГКТ",
+      "veshchanie": "Москва",
+      "data_zakrytiya": "30 июня 1997",
+      "prichina_zakrytiya": "Заменён на телеканале « Столица »"
+    },
+    {
+      "nazvanie": "Орион",
+      "veshchanie": "Самара",
+      "data_zakrytiya": "30 июня 2006",
+      "prichina_zakrytiya": "Продан СТС-Медиа. Заменен на телеканале « Домашний »"
+    },
+    {
+      "nazvanie": "РИО",
+      "veshchanie": "Самара",
+      "data_zakrytiya": "31 мая 2011",
+      "prichina_zakrytiya": "Продан СТС-Медиа. Заменен на ДТВ"
+    },
+    {
+      "nazvanie": "Форум",
+      "veshchanie": "Самара",
+      "data_zakrytiya": "31 августа 2007",
+      "prichina_zakrytiya": "Ранее был сетевым партнёром телеканала « ТВ Центр »"
+    },
+    {
+      "nazvanie": "Шторм-ТВ",
+      "veshchanie": "Самара",
+      "data_zakrytiya": "31 мая 2009",
+      "prichina_zakrytiya": "Продан Проф-медиа. Заменен на ТВ-3"
+    },
+    {
+      "nazvanie": "ТВ-6",
+      "veshchanie": "Москва",
+      "data_zakrytiya": "22 января 2002",
+      "prichina_zakrytiya": "Конец вещание телеканала «ТВ-6» по решению арбитражного суда о ликвидации МНВК, на шестой телевизионной кнопке временно вещал телеканала « НТВ-Плюс Спорт »"
+    },
+    {
+      "nazvanie": "ТВС",
+      "veshchanie": "Россия",
+      "data_zakrytiya": "22 июня 2003",
+      "prichina_zakrytiya": "Финансовый, административный и кадровый кризис на телеканале. Вещание прекращено и на шестой телевизионной кнопке начал вещание телеканала « Спорт », впоследствии изменивший название вещания телеканала «Россия-2»"
+    },
+    {
+      "nazvanie": "М1",
+      "veshchanie": "Москва",
+      "data_zakrytiya": "5 марта 2005",
+      "prichina_zakrytiya": "Продан СТС-Медиа. На бывшей частоте начато вещание телеканала « Домашний »"
+    },
+    {
+      "nazvanie": "НТН-4",
+      "veshchanie": "Новосибирск",
+      "data_zakrytiya": "21 марта 2005",
+      "prichina_zakrytiya": "Закрыт по политическим причинам. Заменен на ТВ-3"
+    },
+    {
+      "nazvanie": "Канал-С",
+      "veshchanie": "Новосибирск",
+      "data_zakrytiya": "9 июля 2002",
+      "prichina_zakrytiya": "Заменен на телеканале «НТК/Культура»"
+    },
+    {
+      "nazvanie": "8 канал",
+      "veshchanie": "Петропавловск-Камчатский",
+      "data_zakrytiya": "2007 год",
+      "prichina_zakrytiya": "Реорганизация ГТРК Камчатка. Заменён на телеканале « Россия-24 »"
+    },
+    {
+      "nazvanie": "К-10",
+      "veshchanie": "Кострома",
+      "data_zakrytiya": "31 октября 2007",
+      "prichina_zakrytiya": "Реорганизация ГТРК Кострома. Заменён на телеканале « Россия-24 »"
+    },
+    {
+      "nazvanie": "Русское видео",
+      "veshchanie": "Санкт-Петербург",
+      "data_zakrytiya": "2001 год",
+      "prichina_zakrytiya": "Продажа АО « ТНТ-Телесеть »"
+    },
+    {
+      "nazvanie": "Прометей АСТ",
+      "veshchanie": "Россия",
+      "data_zakrytiya": "7 июля 2002",
+      "prichina_zakrytiya": "Вещание телеканала и финансирование свернуты по решению Газпром-медиа, в связи с приобретением активов Медиа-Моста по судебному решению. Переход редакции на АСТВ и медиахолдинг телеканала « Rambler Телесеть »"
+    },
+    {
+      "nazvanie": "АСТВ",
+      "veshchanie": "Россия",
+      "data_zakrytiya": "31 декабря 2002",
+      "prichina_zakrytiya": "Вещание переключено на телеканале « Rambler Телесеть »"
+    },
+    {
+      "nazvanie": "Rambler Телесеть",
+      "veshchanie": "Россия",
+      "data_zakrytiya": "31 марта 2007",
+      "prichina_zakrytiya": "Перезапуск телеканала « 2x2 »"
+    },
+    {
+      "nazvanie": "АРТ-Телесеть",
+      "veshchanie": "Россия",
+      "data_zakrytiya": "11 апреля 2003",
+      "prichina_zakrytiya": "—"
+    },
+    {
+      "nazvanie": "ТВ-Колыма",
+      "veshchanie": "Магаданская область",
+      "data_zakrytiya": "30 апреля 2003",
+      "prichina_zakrytiya": "Слияние коллективов двух магаданских телестудий в новый канал «ТВ-Колыма-Плюс»"
+    },
+    {
+      "nazvanie": "Лада ТВ",
+      "veshchanie": "Тольятти",
+      "data_zakrytiya": "2001 год",
+      "prichina_zakrytiya": "Исключён ТРК ВАЗ-ТВ из собственных кабельных сетей, далее закрыт из-за отсутствия аудитории"
+    },
+    {
+      "nazvanie": "ТВТ",
+      "veshchanie": "Тольятти",
+      "data_zakrytiya": "1995 год",
+      "prichina_zakrytiya": "Закрыт после убийства генерального директора"
+    },
+    {
+      "nazvanie": "Плюс 12",
+      "veshchanie": "Тула",
+      "data_zakrytiya": "31 октября 2006",
+      "prichina_zakrytiya": "Компания продана Московскому каналу « ТВ-3 »"
+    },
+    {
+      "nazvanie": "AMTV",
+      "veshchanie": "Москва",
+      "data_zakrytiya": "30 ноября 1996",
+      "prichina_zakrytiya": "На бывшей частоте начато вещание телеканала СТС"
+    },
+    {
+      "nazvanie": "НВК",
+      "veshchanie": "Челябинск",
+      "data_zakrytiya": "22 января 2009",
+      "prichina_zakrytiya": "Истечение лицензии, новая досталась бывшему сетевому партнёру телеканала ДТВ"
+    },
+    {
+      "nazvanie": "24 канал",
+      "veshchanie": "Москва",
+      "data_zakrytiya": "30 апреля 1999",
+      "prichina_zakrytiya": "Заменён на телеканале « Дарьял-ТВ » (24 канал перестал использоваться «Дарьял-ТВ» начал вещать на 23-м дециметровом канале)"
+    },
+    {
+      "nazvanie": "ТВ-Магадан-Спутник (TVMC)",
+      "veshchanie": "Магадан",
+      "data_zakrytiya": "конец 2006/начало 2007",
+      "prichina_zakrytiya": "Реорганизация ГТРК Магадан. Начало вещания на 6 ТВК телеканала « Вести » вместо телеканала СТС"
+    },
+    {
+      "nazvanie": "41 КНН",
+      "veshchanie": "Нижний Новгород",
+      "data_zakrytiya": "1 июля 2007",
+      "prichina_zakrytiya": "Заменён на телеканале « A-ONE »"
+    },
+    {
+      "nazvanie": "НТР",
+      "veshchanie": "Нижний Новгород",
+      "data_zakrytiya": "31 декабря 2006",
+      "prichina_zakrytiya": "Заменён на телеканале « Россия-24 »"
+    },
+    {
+      "nazvanie": "Bis TV",
+      "veshchanie": "Нижний Новгород",
+      "data_zakrytiya": "1 июля 2007",
+      "prichina_zakrytiya": "Закрыт совместно с 41 КНН. Заменён на телеканале « A-ONE »"
+    },
+    {
+      "nazvanie": "НВС",
+      "veshchanie": "Россия",
+      "data_zakrytiya": "31 декабря 1996",
+      "prichina_zakrytiya": "На бывшей частоте начато вещание телеканала REN-TV"
+    },
+    {
+      "nazvanie": "М-49",
+      "veshchanie": "Москва",
+      "data_zakrytiya": "31 декабря 1996",
+      "prichina_zakrytiya": "На бывшей частоте начато вещание телеканала REN-TV"
+    },
+    {
+      "nazvanie": "Интерфакс-ТВ",
+      "veshchanie": "Москва",
+      "data_zakrytiya": "31 декабря 1997",
+      "prichina_zakrytiya": "Заменён на ТНТ"
+    },
+    {
+      "nazvanie": "51 канал",
+      "veshchanie": "Санкт-Петербург",
+      "data_zakrytiya": "31 марта 1998",
+      "prichina_zakrytiya": "Заменён на телеканале MTV"
+    },
+    {
+      "nazvanie": "Планета Спорт",
+      "veshchanie": "Россия",
+      "data_zakrytiya": "14 апреля 2009",
+      "prichina_zakrytiya": "неизвестно"
+    },
+    {
+      "nazvanie": "Первый Пермский",
+      "veshchanie": "Пермь",
+      "data_zakrytiya": "31 октября 2008",
+      "prichina_zakrytiya": "Закрыт из-за экономических проблем"
+    },
+    {
+      "nazvanie": "Москва — Открытый мир",
+      "veshchanie": "Москва",
+      "data_zakrytiya": "19 декабря 2005",
+      "prichina_zakrytiya": "Закрыт из-за проблем эфирного наполнения в связи началом вещания телеканала « ТВ Центр International »"
+    },
+    {
+      "nazvanie": "Северная корона",
+      "veshchanie": "Москва",
+      "data_zakrytiya": "17 июля 1994",
+      "prichina_zakrytiya": "Частота передана Московскому каналу ТВ-6"
+    },
+    {
+      "nazvanie": "Теле-Икс",
+      "veshchanie": "Ростов-на-Дону",
+      "data_zakrytiya": "30 ноября 2009",
+      "prichina_zakrytiya": "Вместо телеканала ДТВ начал эфир телеканала « 7ТВ », далее заменён на канале Disney. Вещал с 0:00 до 17:00; преемники вещают телеканала по аналогичной схеме с телеканалом « Россия-24 »"
+    },
+    {
+      "nazvanie": "35 канал",
+      "veshchanie": "Ростов-на-Дону",
+      "data_zakrytiya": "31 декабря 2006",
+      "prichina_zakrytiya": "Реорганизация ГТРК Дон-ТР. Заменён на телеканале « Россия-24 »"
+    },
+    {
+      "nazvanie": "Диарт",
+      "veshchanie": "Иваново",
+      "data_zakrytiya": "31 мая 2003",
+      "prichina_zakrytiya": "Реорганизация ГТРК Ивтелерадио"
+    },
+    {
+      "nazvanie": "ABC",
+      "veshchanie": "Краснодар",
+      "data_zakrytiya": "31 декабря 2009",
+      "prichina_zakrytiya": "Вместо ДТВ начал эфир телеканала « 7ТВ », далее заменён на канале Disney"
+    },
+    {
+      "nazvanie": "Кубань-25",
+      "veshchanie": "Краснодар",
+      "data_zakrytiya": "1 июля 2004",
+      "prichina_zakrytiya": "Реорганизация ГТРК Кубань. Начало вещания на 25 ТВК телеканала « Россия-2 »"
+    },
+    {
+      "nazvanie": "ТВ Лотос-2",
+      "veshchanie": "Астрахань",
+      "data_zakrytiya": "1 июля 2005",
+      "prichina_zakrytiya": "Реорганизация ГТРК Лотос"
+    },
+    {
+      "nazvanie": "BIZ-TV",
+      "veshchanie": "Россия",
+      "data_zakrytiya": "ночь 25-26 сентября 1998",
+      "prichina_zakrytiya": "Заменен на телеканале MTV"
+    },
+    {
+      "nazvanie": "Юни-канал",
+      "veshchanie": "Новосибирск",
+      "data_zakrytiya": "31 декабря 2008",
+      "prichina_zakrytiya": "Редакция телеканала"
+    },
+    {
+      "nazvanie": "Канал Пять — Один",
+      "veshchanie": "Екатеринбург",
+      "data_zakrytiya": "31 марта 2002",
+      "prichina_zakrytiya": "Заменен на телеканале « Ермак / ДТВ »"
+    },
+    {
+      "nazvanie": "NBN",
+      "veshchanie": "Санкт-Петербург",
+      "data_zakrytiya": "31 марта 2007",
+      "prichina_zakrytiya": "На бывшей частоте начато вещание телеканала « 2х2 » вместо телеканала « Rambler Телесеть »"
+    },
+    {
+      "nazvanie": "СТС-Петербург",
+      "veshchanie": "Санкт-Петербург",
+      "data_zakrytiya": "12 августа 2009",
+      "prichina_zakrytiya": "Закрытие последней местной передачи"
+    },
+    {
+      "nazvanie": "ТВ-36",
+      "veshchanie": "Челябинск",
+      "data_zakrytiya": "31 декабря 2006",
+      "prichina_zakrytiya": "Реорганизация ЧГТРК. Начало вещания 36 ТВК телеканала « Россия-2 »"
+    },
+    {
+      "nazvanie": "ЯрТВ",
+      "veshchanie": "Ярославль",
+      "data_zakrytiya": "9 марта 2014",
+      "prichina_zakrytiya": "Прекращение вещания. Заменён на ЯТС"
+    },
+    {
+      "nazvanie": "Центр-ТВ",
+      "veshchanie": "Ярославль",
+      "data_zakrytiya": "25 апреля 2000",
+      "prichina_zakrytiya": "Банкрот"
+    },
+    {
+      "nazvanie": "Телеинформ",
+      "veshchanie": "Москва",
+      "data_zakrytiya": "31 января 2010",
+      "prichina_zakrytiya": "Поглощение одноимённого кабельного оператора компанией « Акадо », последующая замена на «МИК-77 канал»"
+    },
+    {
+      "nazvanie": "СТК-24",
+      "veshchanie": "Екатеринбург",
+      "data_zakrytiya": "31 декабря 1997",
+      "prichina_zakrytiya": "Реорганизация СГТРК, начал эфир телеканала ОТВ"
+    },
+    {
+      "nazvanie": "СТВ-7",
+      "veshchanie": "Липецк",
+      "data_zakrytiya": "30 ноября 2010",
+      "prichina_zakrytiya": "Заменен на телеканале «ТВ Центр»"
+    },
+    {
+      "nazvanie": "Афонтово",
+      "veshchanie": "Красноярск",
+      "data_zakrytiya": "22 октября 2010",
+      "prichina_zakrytiya": "Продан на ТВ-3. Перезапущен 10 октября 2011 года"
+    },
+    {
+      "nazvanie": "Теленяня",
+      "veshchanie": "Россия",
+      "data_zakrytiya": "26 декабря 2010",
+      "prichina_zakrytiya": "Слияние этого телеканала «Бибигон» под единым названием телеканала « Карусель »"
+    },
+    {
+      "nazvanie": "Бибигон",
+      "veshchanie": "Россия",
+      "data_zakrytiya": "26 декабря 2010",
+      "prichina_zakrytiya": "Слияние этого телеканала «Теленяня» под единым названием телеканала « Карусель »"
+    },
+    {
+      "nazvanie": "Столица",
+      "veshchanie": "Москва",
+      "data_zakrytiya": "5 сентября 2011",
+      "prichina_zakrytiya": "Ребрендинг телеканала « Москва 24 »"
+    },
+    {
+      "nazvanie": "ТВ-1",
+      "veshchanie": "Иркутск",
+      "data_zakrytiya": "31 августа 2005",
+      "prichina_zakrytiya": "Реорганизация ИГТРК, начало вещания на 1 ТВК телеканала « Спорт »"
+    },
+    {
+      "nazvanie": "Город",
+      "veshchanie": "Иркутск",
+      "data_zakrytiya": "26 декабря 2007",
+      "prichina_zakrytiya": "Продажа РМГ, передача эфира бывшему каналу 7ТВ, в настоящее время каналу Disney"
+    },
+    {
+      "nazvanie": "Пионер",
+      "veshchanie": "Иркутск",
+      "data_zakrytiya": "28 августа 2005",
+      "prichina_zakrytiya": "Продажа РМГ, передача эфира телеканалу ТВ-3"
+    },
+    {
+      "nazvanie": "Семёрка",
+      "veshchanie": "Россия",
+      "data_zakrytiya": "31 декабря 2011",
+      "prichina_zakrytiya": "Передача эфира 29 ДМВ канала Disney"
+    },
+    {
+      "nazvanie": "ОРТВ",
+      "veshchanie": "Красноярск",
+      "data_zakrytiya": "9 октября 2011",
+      "prichina_zakrytiya": "Перезапуск « Афонтово ». Все сотрудники ОРТВ перешли туда"
+    },
+    {
+      "nazvanie": "К-10",
+      "veshchanie": "Москва",
+      "data_zakrytiya": "30 апреля 1996",
+      "prichina_zakrytiya": "Преобразование телеканала « Муз-ТВ »"
+    },
+    {
+      "nazvanie": "12 канал",
+      "veshchanie": "Курган",
+      "data_zakrytiya": "не позднее 2007",
+      "prichina_zakrytiya": "Реорганизация КГТРК, был сетевым партнёром телеканала « ТВ Центр », в настоящее время последний делит частоту с телеканалом « Россия-24 » (Россия-24 вещает с 16:00 до 22:00, в рабочие дни с местной вставкой)"
+    },
+    {
+      "nazvanie": "Полис",
+      "veshchanie": "Тамбов",
+      "data_zakrytiya": "14 октября 2012",
+      "prichina_zakrytiya": "Телекомпания признана банкротом, все журналисты уволены"
+    },
+    {
+      "nazvanie": "Студия Нина",
+      "veshchanie": "Нижний Новгород",
+      "data_zakrytiya": "5 октября 2008",
+      "prichina_zakrytiya": "Отказ от выходного утреннего вещания. Заменен на телеканале « ННТВ / Вести »"
+    },
+    {
+      "nazvanie": "Телеком-ТВ",
+      "veshchanie": "Саратов",
+      "data_zakrytiya": "1 мая 2008 (как телеканал) 31 декабря 2009 (как телекомпания)",
+      "prichina_zakrytiya": "Продажа СТС, затем как телекомпания производила новости для Волжской Волны"
+    },
+    {
+      "nazvanie": "Волжская Волна",
+      "veshchanie": "Саратов",
+      "data_zakrytiya": "31 декабря 2009",
+      "prichina_zakrytiya": "Продан Муз-ТВ"
+    },
+    {
+      "nazvanie": "2-я Садовая",
+      "veshchanie": "Саратов",
+      "data_zakrytiya": "31 января 2007",
+      "prichina_zakrytiya": "Реорганизация ГТРК Саратов. Заменён на телеканале « Россия-24 »"
+    },
+    {
+      "nazvanie": "ТВ-30",
+      "veshchanie": "Смоленск",
+      "data_zakrytiya": "31 января 2007",
+      "prichina_zakrytiya": "Реорганизация ГТРК Смоленск. Заменён на телеканале « Россия-24 »"
+    },
+    {
+      "nazvanie": "Третий канал",
+      "veshchanie": "Москва",
+      "data_zakrytiya": "30 ноября 2012",
+      "prichina_zakrytiya": "Из объединения телеканала « ТВ Центр »"
+    },
+    {
+      "nazvanie": "Вести-Экспресс",
+      "veshchanie": "Барнаул",
+      "data_zakrytiya": "10 декабря 2007",
+      "prichina_zakrytiya": "Реорганизация ГТРК Алтай. Начало вещания на 7 ТВК телеканала НТВ"
+    },
+    {
+      "nazvanie": "Бетта ТВ",
+      "veshchanie": "Барнаул",
+      "data_zakrytiya": "1 февраля 2010",
+      "prichina_zakrytiya": "Продан Муз-ТВ"
+    },
+    {
+      "nazvanie": "ТВ-А",
+      "veshchanie": "Нижний Новгород",
+      "data_zakrytiya": "4 февраля 2007",
+      "prichina_zakrytiya": "После закрытия телеканала НТР. Заменен переходом телеканала ННТВ / Вести /Студия «Нина»"
+    },
+    {
+      "nazvanie": "ТК «Альва»",
+      "veshchanie": "Ижевск",
+      "data_zakrytiya": "31 января 2009",
+      "prichina_zakrytiya": "Продана РЕН ТВ"
+    },
+    {
+      "nazvanie": "Арсенал-Видео",
+      "veshchanie": "Ижевск",
+      "data_zakrytiya": "30 ноября 2007",
+      "prichina_zakrytiya": "Продан ТВ-3"
+    },
+    {
+      "nazvanie": "ТВС",
+      "veshchanie": "Ижевск",
+      "data_zakrytiya": "конец 2007",
+      "prichina_zakrytiya": "Продан РМГ"
+    },
+    {
+      "nazvanie": "34 канал",
+      "veshchanie": "Ижевск",
+      "data_zakrytiya": "1 января 2009",
+      "prichina_zakrytiya": "Реорганизация ГТРК Удмуртия. Начало вещания на 34 ТВК телеканала « Россия-2 »"
+    },
+    {
+      "nazvanie": "Чебоксары-ТВ",
+      "veshchanie": "Чебоксары",
+      "data_zakrytiya": "26 февраля 2010",
+      "prichina_zakrytiya": "Реорганизация ГТРК Чувашия. Начало вещания на 40 ТВК телеканала « Россия-24 »"
+    },
+    {
+      "nazvanie": "ТВ-6 Поморье",
+      "veshchanie": "Архангельск",
+      "data_zakrytiya": "28 ноября 2006",
+      "prichina_zakrytiya": "Реорганизация ГТРК Поморье. Начало вещания на 9 ТВК телеканала « Россия-2 »"
+    },
+    {
+      "nazvanie": "Эксперт-ТВ",
+      "veshchanie": "Россия",
+      "data_zakrytiya": "12 марта 2013",
+      "prichina_zakrytiya": "Банкрот"
+    },
+    {
+      "nazvanie": "Шарк-ТВ",
+      "veshchanie": "Уфа",
+      "data_zakrytiya": "31 мая 1999",
+      "prichina_zakrytiya": "Передача лицензии на вещание совместно с Московским каналом « ТВ-6 », телекомпаниям «Столица» и « Вся Уфа »"
+    },
+    {
+      "nazvanie": "Столица",
+      "veshchanie": "Уфа",
+      "data_zakrytiya": "1 июня 2006",
+      "prichina_zakrytiya": "Отсутствие полноценного телевизионного вещания"
+    },
+    {
+      "nazvanie": "КТРК «Толпар»",
+      "veshchanie": "Уфа",
+      "data_zakrytiya": "12 марта 1995",
+      "prichina_zakrytiya": "Начало вещание на 8 ТВК телеканала « НТВ ». 29 мая 1995 года был запущен собственный канал « ГТРК Башкортостан » под именем «Третий канал» (позже в 1999 году будет переименован в «БТВ-3», а в 2000 году в «БТВ»)"
+    },
+    {
+      "nazvanie": "БТВ",
+      "veshchanie": "Уфа",
+      "data_zakrytiya": "23 августа 2002",
+      "prichina_zakrytiya": "Реорганизация ГТРК Башкортостан. Начало вещания на 8 ТВК телеканала БСТ"
+    },
+    {
+      "nazvanie": "ВТС",
+      "veshchanie": "Ярославль",
+      "data_zakrytiya": "31 марта 2014",
+      "prichina_zakrytiya": "Ребрендинг телеканала «ЯТС-Инфо»"
+    },
+    {
+      "nazvanie": "ЯТС-Инфо",
+      "veshchanie": "Ярославль",
+      "data_zakrytiya": "13 октября 2015",
+      "prichina_zakrytiya": "Закрытие телеканала"
+    },
+    {
+      "nazvanie": "ЯТС",
+      "veshchanie": "Ярославль",
+      "data_zakrytiya": "31 декабря 2015",
+      "prichina_zakrytiya": "Закрытие телеканала"
+    },
+    {
+      "nazvanie": "НТМ",
+      "veshchanie": "Ярославль",
+      "data_zakrytiya": "15 сентября 2013",
+      "prichina_zakrytiya": "Продажа телеканала государственным структурам и ребрендинг телеканала «Первый Ярославский»"
+    },
+    {
+      "nazvanie": "Я24",
+      "veshchanie": "Ярославль",
+      "data_zakrytiya": "31 декабря 2013",
+      "prichina_zakrytiya": "Закрытие телеканала по причине нехватки денежных средств"
+    },
+    {
+      "nazvanie": "Афонтово -22",
+      "veshchanie": "Красноярск",
+      "data_zakrytiya": "28 марта 2004",
+      "prichina_zakrytiya": "Рестайлинг телекомпании « Афонтово »"
+    },
+    {
+      "nazvanie": "Афонтово -32",
+      "veshchanie": "Красноярск",
+      "data_zakrytiya": "1 марта 2002",
+      "prichina_zakrytiya": "Рестайлинг телекомпании « Афонтово »"
+    },
+    {
+      "nazvanie": "25 канал",
+      "veshchanie": "Воронеж",
+      "data_zakrytiya": "2012 год",
+      "prichina_zakrytiya": "Закрытие региональных отделений телеканала « ТВ Центр »"
+    },
+    {
+      "nazvanie": "Ахтуба",
+      "veshchanie": "Волгоград",
+      "data_zakrytiya": "10 июля 2015",
+      "prichina_zakrytiya": "Материальный и творческий кризис на телеканале. Заменён на телеканале « Волгоград-24 »"
+    },
+    {
+      "nazvanie": "8 канал",
+      "veshchanie": "Волгоград",
+      "data_zakrytiya": "31 декабря 2009",
+      "prichina_zakrytiya": "Реорганизация ГТРК Волгоград-ТРВ. Заменён на телеканале « Россия-24 »"
+    },
+    {
+      "nazvanie": "100ТВ",
+      "veshchanie": "Санкт-Петербург",
+      "data_zakrytiya": "5 октября 2015",
+      "prichina_zakrytiya": "Заменён на телеканале «Life 78»"
+    },
+    {
+      "nazvanie": "Россия-2",
+      "veshchanie": "Россия",
+      "data_zakrytiya": "1 ноября 2015",
+      "prichina_zakrytiya": "Заменен на телеканале « Матч ТВ »"
+    },
+    {
+      "nazvanie": "Сети НН",
+      "veshchanie": "Нижний Новгород",
+      "data_zakrytiya": "31 декабря 2015",
+      "prichina_zakrytiya": "Закрытие телеканала « РЕН ТВ » своих региональных отделений, заменён на «федеральную версию»"
+    },
+    {
+      "nazvanie": "РЕН ТВ-Воронеж",
+      "veshchanie": "Воронеж",
+      "data_zakrytiya": "31 декабря 2015",
+      "prichina_zakrytiya": "Закрытие телеканала « РЕН ТВ » своих региональных отделений, заменён на «федеральную версию»"
+    },
+    {
+      "nazvanie": "33 канал",
+      "veshchanie": "Воронеж",
+      "data_zakrytiya": "31 декабря 2006",
+      "prichina_zakrytiya": "Реорганизация ВРГТРК. Заменён на телеканале « Россия-24 »"
+    },
+    {
+      "nazvanie": "РЕН ТВ Тула",
+      "veshchanie": "Тула",
+      "data_zakrytiya": "31 декабря 2015",
+      "prichina_zakrytiya": "Закрытие телеканала « РЕН ТВ » своих региональных отделений, заменён на «федеральную версию»"
+    },
+    {
+      "nazvanie": "ТВ2",
+      "veshchanie": "Томск",
+      "data_zakrytiya": "8 февраля 2015",
+      "prichina_zakrytiya": "Отказ в продлении лицензии на эфирное и кабельное вещание по политическим причинам"
+    },
+    {
+      "nazvanie": "Регион-45",
+      "veshchanie": "Курганская область",
+      "data_zakrytiya": "3 сентября 2012",
+      "prichina_zakrytiya": "Преобразование телекомпании в информационное агентство «Kurgan.ru»"
+    },
+    {
+      "nazvanie": "ТВК",
+      "veshchanie": "Липецкая область",
+      "data_zakrytiya": "5 сентября 2016",
+      "prichina_zakrytiya": "Банкрот"
+    },
+    {
+      "nazvanie": "12 канал",
+      "veshchanie": "Липецк",
+      "data_zakrytiya": "6 января 2007",
+      "prichina_zakrytiya": "Реорганизация ГТРК Липецк. Заменён на телеканале « Россия-24 »"
+    },
+    {
+      "nazvanie": "Майкоп-ТВ",
+      "veshchanie": "Майкоп",
+      "data_zakrytiya": "24 сентября 2006",
+      "prichina_zakrytiya": "Реорганизация ГТРК Адыгея. Заменён на телеканале « Россия-24 »"
+    },
+    {
+      "nazvanie": "Осетия",
+      "veshchanie": "Владикавказ",
+      "data_zakrytiya": "10 декабря 2007",
+      "prichina_zakrytiya": "Реорганизация ГТРК Алания. Заменён на телеканале « Россия-24 »"
+    },
+    {
+      "nazvanie": "10 канал",
+      "veshchanie": "Брянск",
+      "data_zakrytiya": "2007 год",
+      "prichina_zakrytiya": "Реорганизация ГТРК Брянск. Заменён на телеканале « Россия-24 »"
+    },
+    {
+      "nazvanie": "3 канал",
+      "veshchanie": "Улан-Удэ",
+      "data_zakrytiya": "1996 год",
+      "prichina_zakrytiya": "Начало вещания ОТБ"
+    },
+    {
+      "nazvanie": "ПТР-6",
+      "veshchanie": "Владивосток",
+      "data_zakrytiya": "1 ноября 2007",
+      "prichina_zakrytiya": "Реорганизация ТГТРК Владивосток. Начало вещания 6 ТВК телеканала « Россия-2 »"
+    },
+    {
+      "nazvanie": "Владимирская тройка",
+      "veshchanie": "Владимир",
+      "data_zakrytiya": "21 ноября 2006",
+      "prichina_zakrytiya": "Реорганизация ГТРК Владимир. Заменён на телеканале « Россия-24 »"
+    },
+    {
+      "nazvanie": "5 канал",
+      "veshchanie": "Киров",
+      "data_zakrytiya": "31 декабря 2009",
+      "prichina_zakrytiya": "Реорганизация ГТРК Вятка. Заменён на телеканале « Россия-24 »"
+    },
+    {
+      "nazvanie": "7 ТВ-Канал",
+      "veshchanie": "Дагестан",
+      "data_zakrytiya": "2007 год",
+      "prichina_zakrytiya": "Реорганизация ГТРК Дагестан. Заменён на телеканале « Россия-24 »"
+    },
+    {
+      "nazvanie": "Запад России",
+      "veshchanie": "Калининград",
+      "data_zakrytiya": "17 августа 2002",
+      "prichina_zakrytiya": "Реорганизация ГТРК Калининград"
+    },
+    {
+      "nazvanie": "Хамдан",
+      "veshchanie": "Калмыкия",
+      "data_zakrytiya": "1 января 2005",
+      "prichina_zakrytiya": "Реорганизация ГТРК Калмыкия"
+    },
+    {
+      "nazvanie": "Информационно-развлекательный канал",
+      "veshchanie": "Рязань",
+      "data_zakrytiya": "14 января 2007",
+      "prichina_zakrytiya": "Реорганизация ГТРК Ока. Начало вещания на 9 ТВК телеканала « Россия-24 »"
+    },
+    {
+      "nazvanie": "24 канал",
+      "veshchanie": "Оренбург",
+      "data_zakrytiya": "31 декабря 2006",
+      "prichina_zakrytiya": "Реорганизация ГТРК Оренбург. Начало вещания на 24 ТВК телеканала « Россия-24 »"
+    },
+    {
+      "nazvanie": "СТВ",
+      "veshchanie": "Сочи",
+      "data_zakrytiya": "1 августа 2005",
+      "prichina_zakrytiya": "Реорганизация ГТРК Сочи. Начало вещания на 24 ТВК телеканала « Россия-2 »"
+    },
+    {
+      "nazvanie": "Ставропольский Меридиан",
+      "veshchanie": "Ставропольский край",
+      "data_zakrytiya": "1 января 2007",
+      "prichina_zakrytiya": "Реорганизация ГТРК Ставрополье. Начало вещания 33 ТВК телеканала « Россия-Культура »"
+    },
+    {
+      "nazvanie": "Студия «Альфа»",
+      "veshchanie": "Рыбинск",
+      "data_zakrytiya": "2007 год",
+      "prichina_zakrytiya": "Критика власти"
+    },
+    {
+      "nazvanie": "Эхо",
+      "veshchanie": "Рыбинск",
+      "data_zakrytiya": "1999 год",
+      "prichina_zakrytiya": "Неизвестно"
+    },
+    {
+      "nazvanie": "ОРТ-Рыбинск",
+      "veshchanie": "Рыбинск",
+      "data_zakrytiya": "март 2017",
+      "prichina_zakrytiya": "Закрытие телеканала"
+    },
+    {
+      "nazvanie": "РТСС",
+      "veshchanie": "Рыбинск",
+      "data_zakrytiya": "март 2017",
+      "prichina_zakrytiya": "Закрытие телеканала по решению учредителя"
+    },
+    {
+      "nazvanie": "АС-Медиа",
+      "veshchanie": "Рыбинск",
+      "data_zakrytiya": "2015 год",
+      "prichina_zakrytiya": "Закрытие телеканала"
+    },
+    {
+      "nazvanie": "ТНТ-Рыбинск",
+      "veshchanie": "Рыбинск",
+      "data_zakrytiya": "январь 2010",
+      "prichina_zakrytiya": "Закрытие информационной службы и окончательное закрытие телеканала"
+    },
+    {
+      "nazvanie": "12 ТВ-Канал Тутаева",
+      "veshchanie": "Тутаев",
+      "data_zakrytiya": "2013 год",
+      "prichina_zakrytiya": "Отсутствие телевизионного вещания в течение года"
+    },
+    {
+      "nazvanie": "Угличское телевидение",
+      "veshchanie": "Углич",
+      "data_zakrytiya": "28 декабря 2018",
+      "prichina_zakrytiya": "по решению учредителей"
+    },
+    {
+      "nazvanie": "Ростов-ТВ",
+      "veshchanie": "Ростов Великий",
+      "data_zakrytiya": "Неизвестно",
+      "prichina_zakrytiya": "Неизвестно"
+    },
+    {
+      "nazvanie": "ТВ ДанКО",
+      "veshchanie": "Данилов (город)",
+      "data_zakrytiya": "8 марта 2015",
+      "prichina_zakrytiya": "Закрытие телеканала"
+    },
+    {
+      "nazvanie": "Ярославское областное телевидение",
+      "veshchanie": "Ярославская область",
+      "data_zakrytiya": "2013 год",
+      "prichina_zakrytiya": "Неизвестно"
+    },
+    {
+      "nazvanie": "Некрасовское телевидение",
+      "veshchanie": "Ярославская область, посёлок Некрасовское",
+      "data_zakrytiya": "25 июля 2015",
+      "prichina_zakrytiya": "Сокращение телевизионного вещания в пользу сохранения печатного издания «Районные будни»"
+    },
+    {
+      "nazvanie": "ТНТ-Саратов",
+      "veshchanie": "Саратовская область",
+      "data_zakrytiya": "1 октября 2017",
+      "prichina_zakrytiya": "Финансовые проблемы"
+    },
+    {
+      "nazvanie": "Царьград ТВ",
+      "veshchanie": "Россия",
+      "data_zakrytiya": "1 декабря 2017",
+      "prichina_zakrytiya": "Переход телеканала на интернет вещание"
+    },
+    {
+      "nazvanie": "Nickelodeon Россия",
+      "veshchanie": "Россия",
+      "data_zakrytiya": "28 апреля 2022",
+      "prichina_zakrytiya": "санкции из-за вторжения России на Украину"
+    },
+    {
+      "nazvanie": "Перец",
+      "veshchanie": "Россия",
+      "data_zakrytiya": "12 ноября 2015",
+      "prichina_zakrytiya": "Заменён на телеканале « Че »"
+    }
+  ],
+  "meta": {
+    "title": "Закрытые телеканалы России - Free Download",
+    "description": "Список прекративших вещание российских телеканалов с указанием территории вещания, даты закрытия и причины закрытия (переход на цифровое вещание, ребрендинг, финансовые причины и др.). Contains 152 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Закрытые телеканалы России | ListBase",
+    "seo_description": "Download Закрытые телеканалы России — 152 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 152 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Список_российских_телеканалов"
+    ]
+  }
+}
