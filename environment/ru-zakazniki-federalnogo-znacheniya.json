@@ -1,0 +1,394 @@
+{
+  "id": "ru-zakazniki-federalnogo-znacheniya",
+  "name": "Государственные природные заказники федерального значения России",
+  "title": "Государственные природные заказники федерального значения России",
+  "description": "Список государственных природных заказников федерального значения Российской Федерации с указанием субъекта расположения, площади (км²) и даты образования.",
+  "category": "environment",
+  "source": "https://ru.wikipedia.org/wiki/Список_заказников_России_федерального_значения",
+  "source_url": "https://ru.wikipedia.org/wiki/Список_заказников_России_федерального_значения",
+  "updated": "2026-11",
+  "record_count": 58,
+  "columns": [
+    {
+      "key": "nazvanie",
+      "label": "Nazvanie",
+      "type": "string"
+    },
+    {
+      "key": "raspolozhenie",
+      "label": "Raspolozhenie",
+      "type": "string"
+    },
+    {
+      "key": "ploshchad_km2",
+      "label": "Ploshchad Km2",
+      "type": "number"
+    },
+    {
+      "key": "data_obrazovaniya",
+      "label": "Data Obrazovaniya",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nazvanie": "Аграханский заказник",
+      "raspolozhenie": "Дагестан",
+      "ploshchad_km2": 390,
+      "data_obrazovaniya": "8 апреля 1983"
+    },
+    {
+      "nazvanie": "Алтачейский заказник",
+      "raspolozhenie": "Бурятия",
+      "ploshchad_km2": 600,
+      "data_obrazovaniya": "29 ноября 1984"
+    },
+    {
+      "nazvanie": "Баджальский заказник",
+      "raspolozhenie": "Хабаровский край",
+      "ploshchad_km2": 2750,
+      "data_obrazovaniya": "17 июля 1987"
+    },
+    {
+      "nazvanie": "Белоозёрский заказник",
+      "raspolozhenie": "Тюменская область",
+      "ploshchad_km2": 178.5,
+      "data_obrazovaniya": "1 декабря 1986"
+    },
+    {
+      "nazvanie": "Васпухольский заказник",
+      "raspolozhenie": "Ханты-Мансийский автономный округ",
+      "ploshchad_km2": 932,
+      "data_obrazovaniya": "23 декабря 1993"
+    },
+    {
+      "nazvanie": "Верхне-Кондинский заказник",
+      "raspolozhenie": "Ханты-Мансийский автономный округ",
+      "ploshchad_km2": 2416,
+      "data_obrazovaniya": "30 апреля 1971"
+    },
+    {
+      "nazvanie": "Воронежский заказник",
+      "raspolozhenie": "Воронежская область",
+      "ploshchad_km2": 230,
+      "data_obrazovaniya": "11 апреля 1958"
+    },
+    {
+      "nazvanie": "Даутский заказник",
+      "raspolozhenie": "Карачаево-Черкесия",
+      "ploshchad_km2": 749,
+      "data_obrazovaniya": "22 июля 1986"
+    },
+    {
+      "nazvanie": "Долина Дзерена",
+      "raspolozhenie": "Забайкальский край",
+      "ploshchad_km2": 2138.38,
+      "data_obrazovaniya": "24 ноября 2011"
+    },
+    {
+      "nazvanie": "Елизаровский заказник",
+      "raspolozhenie": "Ханты-Мансийский автономный округ",
+      "ploshchad_km2": 766,
+      "data_obrazovaniya": "19 марта 1982"
+    },
+    {
+      "nazvanie": "Елогуйский заказник",
+      "raspolozhenie": "Красноярский край",
+      "ploshchad_km2": 7476,
+      "data_obrazovaniya": "10 марта 1987"
+    },
+    {
+      "nazvanie": "Ингушский заказник",
+      "raspolozhenie": "Ингушетия",
+      "ploshchad_km2": 700,
+      "data_obrazovaniya": "7 января 1971"
+    },
+    {
+      "nazvanie": "Кабанский заказник",
+      "raspolozhenie": "Бурятия",
+      "ploshchad_km2": 121,
+      "data_obrazovaniya": "29 августа 1974"
+    },
+    {
+      "nazvanie": "Каменная Степь",
+      "raspolozhenie": "Воронежская область",
+      "ploshchad_km2": 52.32,
+      "data_obrazovaniya": "25 мая 1996"
+    },
+    {
+      "nazvanie": "Канозерский заказник",
+      "raspolozhenie": "Мурманская область",
+      "ploshchad_km2": 656.6,
+      "data_obrazovaniya": "4 ноября 1989"
+    },
+    {
+      "nazvanie": "Кижский заказник",
+      "raspolozhenie": "Карелия",
+      "ploshchad_km2": 500,
+      "data_obrazovaniya": "22 сентября 1989"
+    },
+    {
+      "nazvanie": "Кирзинский заказник",
+      "raspolozhenie": "Новосибирская область",
+      "ploshchad_km2": 1198.08,
+      "data_obrazovaniya": "11 апреля 1958"
+    },
+    {
+      "nazvanie": "Клетнянский заказник",
+      "raspolozhenie": "Брянская область",
+      "ploshchad_km2": 300,
+      "data_obrazovaniya": "23 мая 1983"
+    },
+    {
+      "nazvanie": "Клязьминский заказник",
+      "raspolozhenie": "Владимирская область, Ивановская область",
+      "ploshchad_km2": 210,
+      "data_obrazovaniya": "1 сентября 1978"
+    },
+    {
+      "nazvanie": "Красный Яр",
+      "raspolozhenie": "Иркутская область",
+      "ploshchad_km2": 491.2,
+      "data_obrazovaniya": "21 ноября 2000"
+    },
+    {
+      "nazvanie": "Малые Курилы",
+      "raspolozhenie": "Сахалинская область",
+      "ploshchad_km2": 678.92,
+      "data_obrazovaniya": "6 января 1982"
+    },
+    {
+      "nazvanie": "Меклетинский заказник",
+      "raspolozhenie": "Калмыкия",
+      "ploshchad_km2": 1025,
+      "data_obrazovaniya": "12 января 1988"
+    },
+    {
+      "nazvanie": "Мурманский тундровый заказник",
+      "raspolozhenie": "Мурманская область",
+      "ploshchad_km2": 2950,
+      "data_obrazovaniya": "17 июля 1987"
+    },
+    {
+      "nazvanie": "Муромский заказник",
+      "raspolozhenie": "Владимирская область",
+      "ploshchad_km2": 562,
+      "data_obrazovaniya": "25 сентября 1968"
+    },
+    {
+      "nazvanie": "Мшинское болото",
+      "raspolozhenie": "Ленинградская область",
+      "ploshchad_km2": 604,
+      "data_obrazovaniya": "30 августа 1982"
+    },
+    {
+      "nazvanie": "Ненецкий заказник",
+      "raspolozhenie": "Ненецкий автономный округ",
+      "ploshchad_km2": 3085,
+      "data_obrazovaniya": "13 декабря 1985"
+    },
+    {
+      "nazvanie": "Олонецкий заказник",
+      "raspolozhenie": "Карелия",
+      "ploshchad_km2": 270,
+      "data_obrazovaniya": "20 февраля 1986"
+    },
+    {
+      "nazvanie": "Ольджиканский заказник",
+      "raspolozhenie": "Хабаровский край",
+      "ploshchad_km2": 1597.5,
+      "data_obrazovaniya": "6 января 1988"
+    },
+    {
+      "nazvanie": "Орловский заказник",
+      "raspolozhenie": "Амурская область",
+      "ploshchad_km2": 1214.56,
+      "data_obrazovaniya": "2 октября 1999"
+    },
+    {
+      "nazvanie": "Позарым",
+      "raspolozhenie": "Хакасия",
+      "ploshchad_km2": 2537.425,
+      "data_obrazovaniya": "8 декабря 2011"
+    },
+    {
+      "nazvanie": "Приазовский заказник",
+      "raspolozhenie": "Краснодарский край",
+      "ploshchad_km2": 422,
+      "data_obrazovaniya": "11 апреля 1958"
+    },
+    {
+      "nazvanie": "Пуринский заказник",
+      "raspolozhenie": "Красноярский край",
+      "ploshchad_km2": 7875,
+      "data_obrazovaniya": "6 июля 1988"
+    },
+    {
+      "nazvanie": "Ремдовский заказник",
+      "raspolozhenie": "Псковская область",
+      "ploshchad_km2": 649,
+      "data_obrazovaniya": "12 июля 1985"
+    },
+    {
+      "nazvanie": "Рязанский заказник",
+      "raspolozhenie": "Рязанская область",
+      "ploshchad_km2": 360,
+      "data_obrazovaniya": "29 июня 1987"
+    },
+    {
+      "nazvanie": "Самурский заказник",
+      "raspolozhenie": "Дагестан",
+      "ploshchad_km2": 112,
+      "data_obrazovaniya": "28 мая 1982"
+    },
+    {
+      "nazvanie": "Саратовский заказник",
+      "raspolozhenie": "Саратовская область",
+      "ploshchad_km2": 443.02,
+      "data_obrazovaniya": "16 мая 1983"
+    },
+    {
+      "nazvanie": "Сарпинский заказник",
+      "raspolozhenie": "Калмыкия",
+      "ploshchad_km2": 1959.25,
+      "data_obrazovaniya": "7 июля 1987"
+    },
+    {
+      "nazvanie": "Североземельский заказник",
+      "raspolozhenie": "Красноярский край",
+      "ploshchad_km2": 4217,
+      "data_obrazovaniya": "3 апреля 1996"
+    },
+    {
+      "nazvanie": "Советский",
+      "raspolozhenie": "Чечня",
+      "ploshchad_km2": 1005,
+      "data_obrazovaniya": "11 июня 1986"
+    },
+    {
+      "nazvanie": "Сочинский заказник",
+      "raspolozhenie": "Краснодарский край",
+      "ploshchad_km2": 105.74,
+      "data_obrazovaniya": "3 декабря 1993"
+    },
+    {
+      "nazvanie": "Старокулаткинский заказник",
+      "raspolozhenie": "Ульяновская область",
+      "ploshchad_km2": 201.66,
+      "data_obrazovaniya": "28 января 1985"
+    },
+    {
+      "nazvanie": "Сурский заказник",
+      "raspolozhenie": "Ульяновская область",
+      "ploshchad_km2": 222,
+      "data_obrazovaniya": "28 января 1985"
+    },
+    {
+      "nazvanie": "Таруса",
+      "raspolozhenie": "Калужская область",
+      "ploshchad_km2": 469,
+      "data_obrazovaniya": "28 августа 2002"
+    },
+    {
+      "nazvanie": "Тляратинский заказник",
+      "raspolozhenie": "Дагестан",
+      "ploshchad_km2": 835,
+      "data_obrazovaniya": "16 декабря 1986"
+    },
+    {
+      "nazvanie": "Тофаларский заказник",
+      "raspolozhenie": "Иркутская область",
+      "ploshchad_km2": 1327,
+      "data_obrazovaniya": "12 августа 1971"
+    },
+    {
+      "nazvanie": "Туломский заказник",
+      "raspolozhenie": "Мурманская область",
+      "ploshchad_km2": 337,
+      "data_obrazovaniya": "15 января 1990"
+    },
+    {
+      "nazvanie": "Тумнинский заказник",
+      "raspolozhenie": "Хабаровский край",
+      "ploshchad_km2": 1431,
+      "data_obrazovaniya": "14 июля 1987"
+    },
+    {
+      "nazvanie": "Тюменский заказник",
+      "raspolozhenie": "Тюменская область",
+      "ploshchad_km2": 535.85,
+      "data_obrazovaniya": "11 апреля 1958"
+    },
+    {
+      "nazvanie": "Удыль",
+      "raspolozhenie": "Хабаровский край",
+      "ploshchad_km2": 1327,
+      "data_obrazovaniya": "30 декабря 1988"
+    },
+    {
+      "nazvanie": "Фролихинский заказник",
+      "raspolozhenie": "Бурятия",
+      "ploshchad_km2": 1092,
+      "data_obrazovaniya": "5 января 1988"
+    },
+    {
+      "nazvanie": "Харбинский заказник",
+      "raspolozhenie": "Калмыкия",
+      "ploshchad_km2": 1639,
+      "data_obrazovaniya": "7 июля 1987"
+    },
+    {
+      "nazvanie": "Хехцирский заказник",
+      "raspolozhenie": "Хабаровский край",
+      "ploshchad_km2": 560,
+      "data_obrazovaniya": "18 июня 1959"
+    },
+    {
+      "nazvanie": "Хингано-Архаринский заказник",
+      "raspolozhenie": "Амурская область",
+      "ploshchad_km2": 488,
+      "data_obrazovaniya": "11 апреля 1958"
+    },
+    {
+      "nazvanie": "Цасучейский бор",
+      "raspolozhenie": "Забайкальский край",
+      "ploshchad_km2": 579,
+      "data_obrazovaniya": "7 июня 1982"
+    },
+    {
+      "nazvanie": "Цейский заказник",
+      "raspolozhenie": "Северная Осетия",
+      "ploshchad_km2": 299.52,
+      "data_obrazovaniya": "11 апреля 1958"
+    },
+    {
+      "nazvanie": "Цимлянский заказник",
+      "raspolozhenie": "Ростовская область",
+      "ploshchad_km2": 449.98,
+      "data_obrazovaniya": "20 сентября 1983"
+    },
+    {
+      "nazvanie": "Южно-Камчатский заказник им. Т. И. Шпиленка",
+      "raspolozhenie": "Камчатская область",
+      "ploshchad_km2": 2250,
+      "data_obrazovaniya": "8 апреля 1983"
+    },
+    {
+      "nazvanie": "Ярославский заказник",
+      "raspolozhenie": "Ярославская область",
+      "ploshchad_km2": 143,
+      "data_obrazovaniya": "11 апреля 1958"
+    }
+  ],
+  "meta": {
+    "title": "Государственные природные заказники федерального значения России - Free Download",
+    "description": "Список государственных природных заказников федерального значения Российской Федерации с указанием субъекта расположения, площади (км²) и даты образования. Contains 58 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Государственные природные заказники федерального значения России | ListBase",
+    "seo_description": "Download Государственные природные заказники федерального значения России — 58 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 58 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Список_заказников_России_федерального_значения"
+    ]
+  }
+}
