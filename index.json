@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-23T02:22:10.566Z",
-  "total_datasets": 569,
-  "total_records": 226560,
+  "generated": "2026-11-24T02:11:23.390Z",
+  "total_datasets": 570,
+  "total_records": 226574,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "music",
@@ -5449,6 +5449,32 @@
         "xlsx": {
           "name": "ru-generalnye-prokurory-rf_RU.xlsx",
           "size": 7448
+        }
+      }
+    },
+    {
+      "id": "ru-kassacionnye-i-apellyacionnye-sudy-obshchey-yurisdikcii",
+      "name": "Кассационные и апелляционные суды общей юрисдикции России",
+      "category": "law",
+      "record_count": 14,
+      "columns": [
+        "nazvanie",
+        "instanciya",
+        "mesto_prebyvaniya",
+        "peresmatrivaet_akty_sudov",
+        "sayt"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Кассационные_суды_общей_юрисдикции",
+      "updated": "2026-11",
+      "size": 17946,
+      "files": {
+        "csv": {
+          "name": "ru-kassacionnye-i-apellyacionnye-sudy-obshchey-yurisdikcii_RU.csv",
+          "size": 13396
+        },
+        "xlsx": {
+          "name": "ru-kassacionnye-i-apellyacionnye-sudy-obshchey-yurisdikcii_RU.xlsx",
+          "size": 8932
         }
       }
     },
