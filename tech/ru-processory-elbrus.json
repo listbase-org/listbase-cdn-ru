@@ -1,0 +1,304 @@
+{
+  "id": "ru-processory-elbrus",
+  "name": "Процессоры «Эльбрус»: характеристики моделей",
+  "title": "Процессоры «Эльбрус»: характеристики моделей",
+  "description": "Российские микропроцессоры архитектуры «Эльбрус» (МЦСТ) от Эльбрус 2000 до Эльбрус-32С: год выпуска, техпроцесс, поколение архитектуры, число ядер, тактовая частота, производительность, энергопотребление, кеш-память, контроллер памяти, площадь кристалла и число транзисторов.",
+  "category": "tech",
+  "source": "https://ru.wikipedia.org/wiki/Эльбрус_(процессорная_архитектура)",
+  "source_url": "https://ru.wikipedia.org/wiki/Эльбрус_(процессорная_архитектура)",
+  "updated": "2026-11",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "processor",
+      "label": "Processor",
+      "type": "string"
+    },
+    {
+      "key": "god_vypuska",
+      "label": "God Vypuska",
+      "type": "number"
+    },
+    {
+      "key": "tekhprocess_nm",
+      "label": "Tekhprocess Nm",
+      "type": "number"
+    },
+    {
+      "key": "arkhitektura",
+      "label": "Arkhitektura",
+      "type": "string"
+    },
+    {
+      "key": "versiya_sistemy_komand",
+      "label": "Versiya Sistemy Komand",
+      "type": "number"
+    },
+    {
+      "key": "kolichestvo_yader",
+      "label": "Kolichestvo Yader",
+      "type": "number"
+    },
+    {
+      "key": "chastota_mgc",
+      "label": "Chastota Mgc",
+      "type": "number"
+    },
+    {
+      "key": "proizvoditelnost_32bit_gflops",
+      "label": "Proizvoditelnost 32bit Gflops",
+      "type": "number"
+    },
+    {
+      "key": "proizvoditelnost_64bit_gflops",
+      "label": "Proizvoditelnost 64bit Gflops",
+      "type": "number"
+    },
+    {
+      "key": "moshchnost_vt",
+      "label": "Moshchnost Vt",
+      "type": "number"
+    },
+    {
+      "key": "kesh_l2_mb",
+      "label": "Kesh L2 Mb",
+      "type": "string"
+    },
+    {
+      "key": "kesh_l3_mb",
+      "label": "Kesh L3 Mb",
+      "type": "number"
+    },
+    {
+      "key": "kontroller_pamyati",
+      "label": "Kontroller Pamyati",
+      "type": "string"
+    },
+    {
+      "key": "ploshchad_kristalla_mm2",
+      "label": "Ploshchad Kristalla Mm2",
+      "type": "number"
+    },
+    {
+      "key": "tranzistory_mln",
+      "label": "Tranzistory Mln",
+      "type": "number"
+    },
+    {
+      "key": "yuzhnyy_most",
+      "label": "Yuzhnyy Most",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "processor": "Эльбрус 2000",
+      "god_vypuska": "2005",
+      "tekhprocess_nm": 130,
+      "arkhitektura": "Эльбрус 1 поколение",
+      "versiya_sistemy_komand": 1,
+      "kolichestvo_yader": "1",
+      "chastota_mgc": 300,
+      "proizvoditelnost_32bit_gflops": 4.8,
+      "proizvoditelnost_64bit_gflops": 2.4,
+      "moshchnost_vt": 6,
+      "kesh_l2_mb": "0,25",
+      "kesh_l3_mb": "",
+      "kontroller_pamyati": "",
+      "ploshchad_kristalla_mm2": 189,
+      "tranzistory_mln": 75.8,
+      "yuzhnyy_most": "на базе FPGA"
+    },
+    {
+      "processor": "Эльбрус-S",
+      "god_vypuska": "2010",
+      "tekhprocess_nm": 90,
+      "arkhitektura": "Эльбрус 2 поколение",
+      "versiya_sistemy_komand": 2,
+      "kolichestvo_yader": "1",
+      "chastota_mgc": 500,
+      "proizvoditelnost_32bit_gflops": 8,
+      "proizvoditelnost_64bit_gflops": 4,
+      "moshchnost_vt": 20,
+      "kesh_l2_mb": "2",
+      "kesh_l3_mb": "",
+      "kontroller_pamyati": "DDR2 -500",
+      "ploshchad_kristalla_mm2": 142,
+      "tranzistory_mln": 218,
+      "yuzhnyy_most": "КПИ"
+    },
+    {
+      "processor": "Эльбрус-2С+",
+      "god_vypuska": "2011",
+      "tekhprocess_nm": 90,
+      "arkhitektura": "Эльбрус 2 поколение, ElCore9 (DSP)",
+      "versiya_sistemy_komand": 2,
+      "kolichestvo_yader": "2 (+4 DSP)",
+      "chastota_mgc": 500,
+      "proizvoditelnost_32bit_gflops": 28,
+      "proizvoditelnost_64bit_gflops": 8,
+      "moshchnost_vt": 25,
+      "kesh_l2_mb": "2",
+      "kesh_l3_mb": "",
+      "kontroller_pamyati": "DDR2-800",
+      "ploshchad_kristalla_mm2": 289,
+      "tranzistory_mln": 368,
+      "yuzhnyy_most": "КПИ"
+    },
+    {
+      "processor": "Эльбрус-4С",
+      "god_vypuska": "2014",
+      "tekhprocess_nm": 65,
+      "arkhitektura": "Эльбрус 3 поколение",
+      "versiya_sistemy_komand": 3,
+      "kolichestvo_yader": "4",
+      "chastota_mgc": 800,
+      "proizvoditelnost_32bit_gflops": 50,
+      "proizvoditelnost_64bit_gflops": 25,
+      "moshchnost_vt": 45,
+      "kesh_l2_mb": "8",
+      "kesh_l3_mb": "",
+      "kontroller_pamyati": "DDR3 -1600",
+      "ploshchad_kristalla_mm2": 380,
+      "tranzistory_mln": 986,
+      "yuzhnyy_most": "КПИ"
+    },
+    {
+      "processor": "Эльбрус-1С+",
+      "god_vypuska": "2016 1 квартал",
+      "tekhprocess_nm": 40,
+      "arkhitektura": "Эльбрус 4 поколение, MGA2, Vivante GC2500 (3D-ускоритель)",
+      "versiya_sistemy_komand": 4,
+      "kolichestvo_yader": "1 (+1 3D, +1 2D)",
+      "chastota_mgc": 1000,
+      "proizvoditelnost_32bit_gflops": 24,
+      "proizvoditelnost_64bit_gflops": 12,
+      "moshchnost_vt": 10,
+      "kesh_l2_mb": "2",
+      "kesh_l3_mb": "",
+      "kontroller_pamyati": "DDR3-1600",
+      "ploshchad_kristalla_mm2": 122,
+      "tranzistory_mln": 375,
+      "yuzhnyy_most": "КПИ2"
+    },
+    {
+      "processor": "Эльбрус-8С",
+      "god_vypuska": "2015 (серийно с 2016)",
+      "tekhprocess_nm": 28,
+      "arkhitektura": "Эльбрус 4 поколение",
+      "versiya_sistemy_komand": 4,
+      "kolichestvo_yader": "8",
+      "chastota_mgc": 1300,
+      "proizvoditelnost_32bit_gflops": 250,
+      "proizvoditelnost_64bit_gflops": 125,
+      "moshchnost_vt": 80,
+      "kesh_l2_mb": "4 0,5 / ядро",
+      "kesh_l3_mb": "16",
+      "kontroller_pamyati": "DDR3-1600",
+      "ploshchad_kristalla_mm2": 321,
+      "tranzistory_mln": 2730,
+      "yuzhnyy_most": "КПИ2"
+    },
+    {
+      "processor": "Эльбрус-8СВ",
+      "god_vypuska": "(серийно с 2020)",
+      "tekhprocess_nm": 28,
+      "arkhitektura": "Эльбрус 5 поколение",
+      "versiya_sistemy_komand": 5,
+      "kolichestvo_yader": "8",
+      "chastota_mgc": 1500,
+      "proizvoditelnost_32bit_gflops": 576,
+      "proizvoditelnost_64bit_gflops": 288,
+      "moshchnost_vt": 90,
+      "kesh_l2_mb": "4 0,5 / ядро",
+      "kesh_l3_mb": "16",
+      "kontroller_pamyati": "DDR4 -2400",
+      "ploshchad_kristalla_mm2": 350,
+      "tranzistory_mln": 3500,
+      "yuzhnyy_most": "КПИ2"
+    },
+    {
+      "processor": "Эльбрус-2С3",
+      "god_vypuska": "(в планах 2021)",
+      "tekhprocess_nm": 16,
+      "arkhitektura": "Эльбрус 6 поколение, PowerVR GC6650",
+      "versiya_sistemy_komand": 6,
+      "kolichestvo_yader": "2 (+1 3D, +2 2D, +4 видео)",
+      "chastota_mgc": 2000,
+      "proizvoditelnost_32bit_gflops": 192,
+      "proizvoditelnost_64bit_gflops": 96,
+      "moshchnost_vt": 10,
+      "kesh_l2_mb": "4 2 / ядро",
+      "kesh_l3_mb": "",
+      "kontroller_pamyati": "DDR4 -3200 ECC",
+      "ploshchad_kristalla_mm2": 222,
+      "tranzistory_mln": "",
+      "yuzhnyy_most": "встроен"
+    },
+    {
+      "processor": "Эльбрус-12С",
+      "god_vypuska": "(в планах 2022)",
+      "tekhprocess_nm": 16,
+      "arkhitektura": "Эльбрус 6 поколение",
+      "versiya_sistemy_komand": 6,
+      "kolichestvo_yader": "12",
+      "chastota_mgc": 2000,
+      "proizvoditelnost_32bit_gflops": 1152,
+      "proizvoditelnost_64bit_gflops": 576,
+      "moshchnost_vt": 95,
+      "kesh_l2_mb": "12 1 / ядро",
+      "kesh_l3_mb": "24",
+      "kontroller_pamyati": "DDR4 -3200 ECC",
+      "ploshchad_kristalla_mm2": 300,
+      "tranzistory_mln": "",
+      "yuzhnyy_most": "встроен"
+    },
+    {
+      "processor": "Эльбрус-16С",
+      "god_vypuska": "(в планах 2022)",
+      "tekhprocess_nm": 16,
+      "arkhitektura": "Эльбрус 6 поколение",
+      "versiya_sistemy_komand": 6,
+      "kolichestvo_yader": "16",
+      "chastota_mgc": 2000,
+      "proizvoditelnost_32bit_gflops": 1500,
+      "proizvoditelnost_64bit_gflops": 750,
+      "moshchnost_vt": 130,
+      "kesh_l2_mb": "16 1 / ядро",
+      "kesh_l3_mb": "32",
+      "kontroller_pamyati": "DDR4-3200 ECC",
+      "ploshchad_kristalla_mm2": 618,
+      "tranzistory_mln": 6000,
+      "yuzhnyy_most": "встроен"
+    },
+    {
+      "processor": "Эльбрус-32C",
+      "god_vypuska": "по плану в 2025 инж. образец",
+      "tekhprocess_nm": 7,
+      "arkhitektura": "Эльбрус 7 поколение",
+      "versiya_sistemy_komand": 7,
+      "kolichestvo_yader": "32",
+      "chastota_mgc": 2500,
+      "proizvoditelnost_32bit_gflops": 3000,
+      "proizvoditelnost_64bit_gflops": 1500,
+      "moshchnost_vt": "",
+      "kesh_l2_mb": "",
+      "kesh_l3_mb": "64 суммарно 1+2+3",
+      "kontroller_pamyati": "DDR5 ECC",
+      "ploshchad_kristalla_mm2": "",
+      "tranzistory_mln": "",
+      "yuzhnyy_most": "встроен"
+    }
+  ],
+  "meta": {
+    "title": "Процессоры «Эльбрус»: характеристики моделей - Free Download",
+    "description": "Российские микропроцессоры архитектуры «Эльбрус» (МЦСТ) от Эльбрус 2000 до Эльбрус-32С: год выпуска, техпроцесс, поколение архитектуры, число ядер, тактовая частота, производительность, энергопотребление, кеш-память, контроллер памяти, площадь кристалла и число транзисторов. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Процессоры «Эльбрус»: характеристики моделей | ListBase",
+    "seo_description": "Download Процессоры «Эльбрус»: характеристики моделей — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 16 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Эльбрус_(процессорная_архитектура)"
+    ]
+  }
+}

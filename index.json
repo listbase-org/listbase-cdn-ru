@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-24T02:11:23.390Z",
-  "total_datasets": 570,
-  "total_records": 226574,
+  "generated": "2026-11-24T02:11:35.625Z",
+  "total_datasets": 571,
+  "total_records": 226585,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "time",
@@ -13523,6 +13523,43 @@
         "xlsx": {
           "name": "ru-biblioteki_RU.xlsx",
           "size": 19651
+        }
+      }
+    },
+    {
+      "id": "ru-processory-elbrus",
+      "name": "Процессоры «Эльбрус»: характеристики моделей",
+      "category": "tech",
+      "record_count": 11,
+      "columns": [
+        "processor",
+        "god_vypuska",
+        "tekhprocess_nm",
+        "arkhitektura",
+        "versiya_sistemy_komand",
+        "kolichestvo_yader",
+        "chastota_mgc",
+        "proizvoditelnost_32bit_gflops",
+        "proizvoditelnost_64bit_gflops",
+        "moshchnost_vt",
+        "kesh_l2_mb",
+        "kesh_l3_mb",
+        "kontroller_pamyati",
+        "ploshchad_kristalla_mm2",
+        "tranzistory_mln",
+        "yuzhnyy_most"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Эльбрус_(процессорная_архитектура)",
+      "updated": "2026-11",
+      "size": 10737,
+      "files": {
+        "csv": {
+          "name": "ru-processory-elbrus_RU.csv",
+          "size": 2315
+        },
+        "xlsx": {
+          "name": "ru-processory-elbrus_RU.xlsx",
+          "size": 8364
         }
       }
     },
