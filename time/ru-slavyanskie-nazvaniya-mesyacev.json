@@ -1,0 +1,254 @@
+{
+  "id": "ru-slavyanskie-nazvaniya-mesyacev",
+  "name": "Славянские названия месяцев: древнерусские, русские и в других славянских языках",
+  "title": "Славянские названия месяцев: древнерусские, русские и в других славянских языках",
+  "description": "Названия двенадцати месяцев года в древнерусском календаре и их соответствия в русском, украинском, белорусском, болгарском, сербском, македонском, польском, хорватском, словенском и чешском языках.",
+  "category": "time",
+  "source": "https://ru.wikipedia.org/wiki/Славянские_названия_месяцев",
+  "source_url": "https://ru.wikipedia.org/wiki/Славянские_названия_месяцев",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "nomer",
+      "label": "Nomer",
+      "type": "number"
+    },
+    {
+      "key": "drevnerusskoe",
+      "label": "Drevnerusskoe",
+      "type": "string"
+    },
+    {
+      "key": "russkoe",
+      "label": "Russkoe",
+      "type": "string"
+    },
+    {
+      "key": "ukrainskoe",
+      "label": "Ukrainskoe",
+      "type": "string"
+    },
+    {
+      "key": "belorusskoe",
+      "label": "Belorusskoe",
+      "type": "string"
+    },
+    {
+      "key": "bolgarskoe",
+      "label": "Bolgarskoe",
+      "type": "string"
+    },
+    {
+      "key": "serbskoe",
+      "label": "Serbskoe",
+      "type": "string"
+    },
+    {
+      "key": "makedonskoe",
+      "label": "Makedonskoe",
+      "type": "string"
+    },
+    {
+      "key": "polskoe",
+      "label": "Polskoe",
+      "type": "string"
+    },
+    {
+      "key": "khorvatskoe",
+      "label": "Khorvatskoe",
+      "type": "string"
+    },
+    {
+      "key": "slovenskoe",
+      "label": "Slovenskoe",
+      "type": "string"
+    },
+    {
+      "key": "cheshskoe",
+      "label": "Cheshskoe",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "nomer": 1,
+      "drevnerusskoe": "Просинец",
+      "russkoe": "Январь",
+      "ukrainskoe": "січень",
+      "belorusskoe": "студзень",
+      "bolgarskoe": "просинец",
+      "serbskoe": "Јануар",
+      "makedonskoe": "Коложег",
+      "polskoe": "styczeń",
+      "khorvatskoe": "sječanj",
+      "slovenskoe": "prosinec",
+      "cheshskoe": "leden"
+    },
+    {
+      "nomer": 2,
+      "drevnerusskoe": "Сечень",
+      "russkoe": "Февраль",
+      "ukrainskoe": "лютий",
+      "belorusskoe": "люты",
+      "bolgarskoe": "сечко",
+      "serbskoe": "Фебруар",
+      "makedonskoe": "сечко",
+      "polskoe": "luty",
+      "khorvatskoe": "veljača",
+      "slovenskoe": "svečan",
+      "cheshskoe": "únor"
+    },
+    {
+      "nomer": 3,
+      "drevnerusskoe": "Сухий",
+      "russkoe": "Март",
+      "ukrainskoe": "березень",
+      "belorusskoe": "сакавік",
+      "bolgarskoe": "сух",
+      "serbskoe": "Март",
+      "makedonskoe": "цутар",
+      "polskoe": "marzec",
+      "khorvatskoe": "ozujak",
+      "slovenskoe": "sušec",
+      "cheshskoe": "březen"
+    },
+    {
+      "nomer": 4,
+      "drevnerusskoe": "Брезозол",
+      "russkoe": "Апрель",
+      "ukrainskoe": "квітень",
+      "belorusskoe": "красавік",
+      "bolgarskoe": "брязок",
+      "serbskoe": "Април",
+      "makedonskoe": "тревен",
+      "polskoe": "kwiecień",
+      "khorvatskoe": "travanj",
+      "slovenskoe": "mali traven",
+      "cheshskoe": "duben"
+    },
+    {
+      "nomer": 5,
+      "drevnerusskoe": "Травень",
+      "russkoe": "Май",
+      "ukrainskoe": "травень",
+      "belorusskoe": "травень",
+      "bolgarskoe": "тръвен",
+      "serbskoe": "Мај",
+      "makedonskoe": "косар",
+      "polskoe": "maj",
+      "khorvatskoe": "svibanj",
+      "slovenskoe": "veliki traven",
+      "cheshskoe": "květen"
+    },
+    {
+      "nomer": 6,
+      "drevnerusskoe": "Изок",
+      "russkoe": "Июнь",
+      "ukrainskoe": "червень",
+      "belorusskoe": "чэрвень",
+      "bolgarskoe": "изок, червеник",
+      "serbskoe": "Јун",
+      "makedonskoe": "жетвар",
+      "polskoe": "czerwiec",
+      "khorvatskoe": "lipanj",
+      "slovenskoe": "rožnik",
+      "cheshskoe": "červen"
+    },
+    {
+      "nomer": 7,
+      "drevnerusskoe": "Червень",
+      "russkoe": "Июль",
+      "ukrainskoe": "липень",
+      "belorusskoe": "ліпень",
+      "bolgarskoe": "жетар, жътвар, сърпен, чръвенъ",
+      "serbskoe": "Јул",
+      "makedonskoe": "златец",
+      "polskoe": "lipiec",
+      "khorvatskoe": "srpanj",
+      "slovenskoe": "veliki srpan",
+      "cheshskoe": "červenec"
+    },
+    {
+      "nomer": 8,
+      "drevnerusskoe": "Зарев",
+      "russkoe": "Август",
+      "ukrainskoe": "серпень",
+      "belorusskoe": "жнівень",
+      "bolgarskoe": "зарев, орач",
+      "serbskoe": "Август",
+      "makedonskoe": "житар",
+      "polskoe": "sierpień",
+      "khorvatskoe": "kolovoz",
+      "slovenskoe": "mali srpan",
+      "cheshskoe": "srpen"
+    },
+    {
+      "nomer": 9,
+      "drevnerusskoe": "Рюен",
+      "russkoe": "Сентябрь",
+      "ukrainskoe": "вересень",
+      "belorusskoe": "верасень",
+      "bolgarskoe": "руен",
+      "serbskoe": "Септембар",
+      "makedonskoe": "гроздобер",
+      "polskoe": "wrzesień",
+      "khorvatskoe": "rujan",
+      "slovenskoe": "kimavec",
+      "cheshskoe": "září"
+    },
+    {
+      "nomer": 10,
+      "drevnerusskoe": "Листопад",
+      "russkoe": "Октябрь",
+      "ukrainskoe": "жовтень",
+      "belorusskoe": "кастрычнік",
+      "bolgarskoe": "листопад",
+      "serbskoe": "Октобар",
+      "makedonskoe": "листопад",
+      "polskoe": "październik",
+      "khorvatskoe": "listopad",
+      "slovenskoe": "vinotok",
+      "cheshskoe": "říjen"
+    },
+    {
+      "nomer": 11,
+      "drevnerusskoe": "Грудень",
+      "russkoe": "Ноябрь",
+      "ukrainskoe": "листопад",
+      "belorusskoe": "лістапад",
+      "bolgarskoe": "груден",
+      "serbskoe": "Новембар",
+      "makedonskoe": "студен",
+      "polskoe": "listopad",
+      "khorvatskoe": "studeni",
+      "slovenskoe": "listopad",
+      "cheshskoe": "listopad"
+    },
+    {
+      "nomer": 12,
+      "drevnerusskoe": "Студень",
+      "russkoe": "Декабрь",
+      "ukrainskoe": "грудень",
+      "belorusskoe": "снежань",
+      "bolgarskoe": "студен",
+      "serbskoe": "Децембар",
+      "makedonskoe": "снежник",
+      "polskoe": "grudzień",
+      "khorvatskoe": "prosinac",
+      "slovenskoe": "gruden",
+      "cheshskoe": "prosinec"
+    }
+  ],
+  "meta": {
+    "title": "Славянские названия месяцев: древнерусские, русские и в других славянских языках - Free Download",
+    "description": "Названия двенадцати месяцев года в древнерусском календаре и их соответствия в русском, украинском, белорусском, болгарском, сербском, македонском, польском, хорватском, словенском и чешском языках. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Славянские названия месяцев: древнерусские, русские и в других славянских языках | ListBase",
+    "seo_description": "Download Славянские названия месяцев: древнерусские, русские и в других славянских языках — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 12 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Славянские_названия_месяцев"
+    ]
+  }
+}

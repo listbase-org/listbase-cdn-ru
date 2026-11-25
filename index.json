@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-25T02:12:44.675Z",
-  "total_datasets": 573,
-  "total_records": 226973,
+  "generated": "2026-11-25T02:12:56.184Z",
+  "total_datasets": 574,
+  "total_records": 226985,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "tourism",
@@ -13858,6 +13858,39 @@
         "xlsx": {
           "name": "ru-prazdniki-completos_RU.xlsx",
           "size": 49923
+        }
+      }
+    },
+    {
+      "id": "ru-slavyanskie-nazvaniya-mesyacev",
+      "name": "Славянские названия месяцев: древнерусские, русские и в других славянских языках",
+      "category": "time",
+      "record_count": 12,
+      "columns": [
+        "nomer",
+        "drevnerusskoe",
+        "russkoe",
+        "ukrainskoe",
+        "belorusskoe",
+        "bolgarskoe",
+        "serbskoe",
+        "makedonskoe",
+        "polskoe",
+        "khorvatskoe",
+        "slovenskoe",
+        "cheshskoe"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Славянские_названия_месяцев",
+      "updated": "2026-11",
+      "size": 8435,
+      "files": {
+        "csv": {
+          "name": "ru-slavyanskie-nazvaniya-mesyacev_RU.csv",
+          "size": 2073
+        },
+        "xlsx": {
+          "name": "ru-slavyanskie-nazvaniya-mesyacev_RU.xlsx",
+          "size": 8330
         }
       }
     },
