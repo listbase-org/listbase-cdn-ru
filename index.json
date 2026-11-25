@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-24T02:11:48.040Z",
-  "total_datasets": 572,
-  "total_records": 226643,
+  "generated": "2026-11-25T02:12:44.675Z",
+  "total_datasets": 573,
+  "total_records": 226973,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "transport",
@@ -13939,6 +13939,31 @@
         "xlsx": {
           "name": "ru-istoricheskie-poseleniya_RU.xlsx",
           "size": 24518
+        }
+      }
+    },
+    {
+      "id": "ru-muzei-moskvy",
+      "name": "Музеи Москвы: список с адресами",
+      "category": "tourism",
+      "record_count": 330,
+      "columns": [
+        "nazvanie",
+        "razdel",
+        "adres",
+        "opisanie"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_музеев_Москвы",
+      "updated": "2026-11",
+      "size": 141869,
+      "files": {
+        "csv": {
+          "name": "ru-muzei-moskvy_RU.csv",
+          "size": 112298
+        },
+        "xlsx": {
+          "name": "ru-muzei-moskvy_RU.xlsx",
+          "size": 37344
         }
       }
     },
