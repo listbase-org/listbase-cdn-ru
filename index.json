@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-26T02:18:17.426Z",
-  "total_datasets": 575,
-  "total_records": 226991,
+  "generated": "2026-11-26T02:18:29.591Z",
+  "total_datasets": 576,
+  "total_records": 227002,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 7
+      "dataset_count": 8
     }
   ],
   "datasets": [
@@ -17787,6 +17787,32 @@
         "xlsx": {
           "name": "ru-starorusskie-mery-dliny_RU.xlsx",
           "size": 7648
+        }
+      }
+    },
+    {
+      "id": "ru-starorusskie-mery-ploshchadi",
+      "name": "Старорусские меры площади",
+      "category": "units",
+      "record_count": 11,
+      "columns": [
+        "unit",
+        "equals_old_units",
+        "metric_equivalent",
+        "metric_value",
+        "metric_unit"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Русская_система_мер#Меры_площади",
+      "updated": "2026-11",
+      "size": 4715,
+      "files": {
+        "csv": {
+          "name": "ru-starorusskie-mery-ploshchadi_RU.csv",
+          "size": 1088
+        },
+        "xlsx": {
+          "name": "ru-starorusskie-mery-ploshchadi_RU.xlsx",
+          "size": 7435
         }
       }
     },

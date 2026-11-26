@@ -1,0 +1,128 @@
+{
+  "id": "ru-starorusskie-mery-ploshchadi",
+  "name": "Старорусские меры площади",
+  "title": "Старорусские меры площади",
+  "description": "Старорусские меры площади (квадратная миля и верста, десятина, четь, осьминник, квадратные сажень, аршин, фут, вершок, дюйм и линия) с соотношениями между ними и метрическими эквивалентами.",
+  "category": "units",
+  "source": "https://ru.wikipedia.org/wiki/Русская_система_мер#Меры_площади",
+  "source_url": "https://ru.wikipedia.org/wiki/Русская_система_мер#Меры_площади",
+  "updated": "2026-11",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "unit",
+      "label": "Unit",
+      "type": "string"
+    },
+    {
+      "key": "equals_old_units",
+      "label": "Equals Old Units",
+      "type": "string"
+    },
+    {
+      "key": "metric_equivalent",
+      "label": "Metric Equivalent",
+      "type": "string"
+    },
+    {
+      "key": "metric_value",
+      "label": "Metric Value",
+      "type": "number"
+    },
+    {
+      "key": "metric_unit",
+      "label": "Metric Unit",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unit": "кв. миля",
+      "equals_old_units": "49 кв. вёрст",
+      "metric_equivalent": "≈ 55,765 км²",
+      "metric_value": 55.765,
+      "metric_unit": "км²"
+    },
+    {
+      "unit": "кв. верста",
+      "equals_old_units": "250 000 кв. саженям",
+      "metric_equivalent": "≈ 1,1381 км²",
+      "metric_value": 1.1381,
+      "metric_unit": "км²"
+    },
+    {
+      "unit": "десятина",
+      "equals_old_units": "2400 кв. саженям",
+      "metric_equivalent": "10 925,4 м² ≈ 1,0925 га",
+      "metric_value": 10925.4,
+      "metric_unit": "м²"
+    },
+    {
+      "unit": "четь",
+      "equals_old_units": "1 / 2 десятины = 1200 кв. саженям",
+      "metric_equivalent": "≈ 5462,7 м² = 0,54627 га",
+      "metric_value": 5462.7,
+      "metric_unit": "м²"
+    },
+    {
+      "unit": "осьминник",
+      "equals_old_units": "1 / 8 десятины = 300 кв. саженям",
+      "metric_equivalent": "≈ 1365,675 м² ≈ 0,137 га",
+      "metric_value": 1365.675,
+      "metric_unit": "м²"
+    },
+    {
+      "unit": "кв. сажень",
+      "equals_old_units": "9 кв. аршинам = 49 кв. футам",
+      "metric_equivalent": "≈ 4,55225 м²",
+      "metric_value": 4.55225,
+      "metric_unit": "м²"
+    },
+    {
+      "unit": "кв. аршин",
+      "equals_old_units": "256 кв. вершкам",
+      "metric_equivalent": "≈ 0,505805 м²",
+      "metric_value": 0.505805,
+      "metric_unit": "м²"
+    },
+    {
+      "unit": "кв. фут",
+      "equals_old_units": "144 кв. дюймам",
+      "metric_equivalent": "929,0304 см²",
+      "metric_value": 929.0304,
+      "metric_unit": "см²"
+    },
+    {
+      "unit": "кв. вершок",
+      "equals_old_units": "3,0625 кв. дюймам",
+      "metric_equivalent": "≈ 19,758 см²",
+      "metric_value": 19.758,
+      "metric_unit": "см²"
+    },
+    {
+      "unit": "кв. дюйм",
+      "equals_old_units": "100 кв. линиям",
+      "metric_equivalent": "6,4516 см²",
+      "metric_value": 6.4516,
+      "metric_unit": "см²"
+    },
+    {
+      "unit": "кв. линия",
+      "equals_old_units": "1 / 100 кв. дюйма",
+      "metric_equivalent": "6,4516 мм²",
+      "metric_value": 6.4516,
+      "metric_unit": "мм²"
+    }
+  ],
+  "meta": {
+    "title": "Старорусские меры площади - Free Download",
+    "description": "Старорусские меры площади (квадратная миля и верста, десятина, четь, осьминник, квадратные сажень, аршин, фут, вершок, дюйм и линия) с соотношениями между ними и метрическими эквивалентами. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Старорусские меры площади | ListBase",
+    "seo_description": "Download Старорусские меры площади — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Русская_система_мер#Меры_площади"
+    ]
+  }
+}
