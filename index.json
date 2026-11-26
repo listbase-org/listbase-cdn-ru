@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-26T02:18:29.591Z",
-  "total_datasets": 576,
-  "total_records": 227002,
+  "generated": "2026-11-26T02:18:41.151Z",
+  "total_datasets": 577,
+  "total_records": 227085,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -13256,6 +13256,35 @@
         "xlsx": {
           "name": "ru-rozhdaemost-regiony_RU.xlsx",
           "size": 14677
+        }
+      }
+    },
+    {
+      "id": "ru-uroven-bezrabotitsy-po-subektam-2020",
+      "name": "Уровень безработицы по субъектам РФ (февраль 2020)",
+      "category": "society",
+      "record_count": 83,
+      "columns": [
+        "region",
+        "federal_district",
+        "labour_force_thousand",
+        "employed_thousand",
+        "unemployed_thousand",
+        "labour_force_participation_pct",
+        "employment_rate_pct",
+        "unemployment_rate_pct"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Уровень_безработицы_субъектов_Российской_Федерации",
+      "updated": "2026-11",
+      "size": 30456,
+      "files": {
+        "csv": {
+          "name": "ru-uroven-bezrabotitsy-po-subektam-2020_RU.csv",
+          "size": 7773
+        },
+        "xlsx": {
+          "name": "ru-uroven-bezrabotitsy-po-subektam-2020_RU.xlsx",
+          "size": 11344
         }
       }
     },

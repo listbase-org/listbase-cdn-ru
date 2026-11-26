@@ -1,0 +1,896 @@
+{
+  "id": "ru-uroven-bezrabotitsy-po-subektam-2020",
+  "name": "Уровень безработицы по субъектам РФ (февраль 2020)",
+  "title": "Уровень безработицы по субъектам РФ (февраль 2020)",
+  "description": "Численность рабочей силы, занятых и безработных (тыс. человек), уровень участия в рабочей силе, занятости и безработицы (%) по субъектам Российской Федерации с указанием федерального округа, по данным Росстата на февраль 2020 года.",
+  "category": "society",
+  "source": "https://ru.wikipedia.org/wiki/Уровень_безработицы_субъектов_Российской_Федерации",
+  "source_url": "https://ru.wikipedia.org/wiki/Уровень_безработицы_субъектов_Российской_Федерации",
+  "updated": "2026-11",
+  "record_count": 83,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "federal_district",
+      "label": "Federal District",
+      "type": "string"
+    },
+    {
+      "key": "labour_force_thousand",
+      "label": "Labour Force Thousand",
+      "type": "number"
+    },
+    {
+      "key": "employed_thousand",
+      "label": "Employed Thousand",
+      "type": "number"
+    },
+    {
+      "key": "unemployed_thousand",
+      "label": "Unemployed Thousand",
+      "type": "number"
+    },
+    {
+      "key": "labour_force_participation_pct",
+      "label": "Labour Force Participation Pct",
+      "type": "number"
+    },
+    {
+      "key": "employment_rate_pct",
+      "label": "Employment Rate Pct",
+      "type": "number"
+    },
+    {
+      "key": "unemployment_rate_pct",
+      "label": "Unemployment Rate Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "region": "Российская Федерация (всего)",
+      "federal_district": "",
+      "labour_force_thousand": 75097,
+      "employed_thousand": 71637.1,
+      "unemployed_thousand": 3459.9,
+      "labour_force_participation_pct": 62.1,
+      "employment_rate_pct": 59.2,
+      "unemployment_rate_pct": 4.6
+    },
+    {
+      "region": "Республика Ингушетия",
+      "federal_district": "СКФО",
+      "labour_force_thousand": 264.9,
+      "employed_thousand": 195.4,
+      "unemployed_thousand": 69.5,
+      "labour_force_participation_pct": 73.4,
+      "employment_rate_pct": 54.2,
+      "unemployment_rate_pct": 26.2
+    },
+    {
+      "region": "Республика Дагестан",
+      "federal_district": "СКФО",
+      "labour_force_thousand": 1348.9,
+      "employed_thousand": 1160.9,
+      "unemployed_thousand": 188,
+      "labour_force_participation_pct": 57.9,
+      "employment_rate_pct": 49.9,
+      "unemployment_rate_pct": 13.9
+    },
+    {
+      "region": "Республика Северная Осетия — Алания",
+      "federal_district": "СКФО",
+      "labour_force_thousand": 295.6,
+      "employed_thousand": 254.8,
+      "unemployed_thousand": 40.8,
+      "labour_force_participation_pct": 52.8,
+      "employment_rate_pct": 45.5,
+      "unemployment_rate_pct": 13.8
+    },
+    {
+      "region": "Карачаево-Черкесская Республика",
+      "federal_district": "СКФО",
+      "labour_force_thousand": 206.7,
+      "employed_thousand": 178.3,
+      "unemployed_thousand": 28.4,
+      "labour_force_participation_pct": 55,
+      "employment_rate_pct": 47.5,
+      "unemployment_rate_pct": 13.7
+    },
+    {
+      "region": "Чеченская Республика",
+      "federal_district": "СКФО",
+      "labour_force_thousand": 635.7,
+      "employed_thousand": 549.9,
+      "unemployed_thousand": 85.8,
+      "labour_force_participation_pct": 64.5,
+      "employment_rate_pct": 55.8,
+      "unemployment_rate_pct": 13.5
+    },
+    {
+      "region": "Республика Алтай",
+      "federal_district": "СФО",
+      "labour_force_thousand": 94.5,
+      "employed_thousand": 83.5,
+      "unemployed_thousand": 11,
+      "labour_force_participation_pct": 59,
+      "employment_rate_pct": 52.1,
+      "unemployment_rate_pct": 11.7
+    },
+    {
+      "region": "Республика Тыва",
+      "federal_district": "СФО",
+      "labour_force_thousand": 118.9,
+      "employed_thousand": 105.1,
+      "unemployed_thousand": 13.7,
+      "labour_force_participation_pct": 54.7,
+      "employment_rate_pct": 48.4,
+      "unemployment_rate_pct": 11.6
+    },
+    {
+      "region": "Кабардино-Балкарская Республика",
+      "federal_district": "СКФО",
+      "labour_force_thousand": 433.3,
+      "employed_thousand": 385.2,
+      "unemployed_thousand": 48.1,
+      "labour_force_participation_pct": 63,
+      "employment_rate_pct": 56,
+      "unemployment_rate_pct": 11.1
+    },
+    {
+      "region": "Республика Бурятия",
+      "federal_district": "ДВФО",
+      "labour_force_thousand": 421,
+      "employed_thousand": 379.8,
+      "unemployed_thousand": 41.2,
+      "labour_force_participation_pct": 55.8,
+      "employment_rate_pct": 50.4,
+      "unemployment_rate_pct": 9.8
+    },
+    {
+      "region": "Забайкальский край",
+      "federal_district": "ДВФО",
+      "labour_force_thousand": 524.6,
+      "employed_thousand": 476.3,
+      "unemployed_thousand": 48.3,
+      "labour_force_participation_pct": 62.6,
+      "employment_rate_pct": 56.9,
+      "unemployment_rate_pct": 9.2
+    },
+    {
+      "region": "Республика Калмыкия",
+      "federal_district": "ЮФО",
+      "labour_force_thousand": 131.6,
+      "employed_thousand": 120.1,
+      "unemployed_thousand": 11.5,
+      "labour_force_participation_pct": 60.7,
+      "employment_rate_pct": 55.4,
+      "unemployment_rate_pct": 8.7
+    },
+    {
+      "region": "Республика Адыгея",
+      "federal_district": "ЮФО",
+      "labour_force_thousand": 200.9,
+      "employed_thousand": 184.4,
+      "unemployed_thousand": 16.6,
+      "labour_force_participation_pct": 54.3,
+      "employment_rate_pct": 49.8,
+      "unemployment_rate_pct": 8.3
+    },
+    {
+      "region": "Курганская область",
+      "federal_district": "УФО",
+      "labour_force_thousand": 380,
+      "employed_thousand": 349.4,
+      "unemployed_thousand": 30.6,
+      "labour_force_participation_pct": 55.5,
+      "employment_rate_pct": 51.1,
+      "unemployment_rate_pct": 8
+    },
+    {
+      "region": "Республика Коми",
+      "federal_district": "СЗФО",
+      "labour_force_thousand": 424.3,
+      "employed_thousand": 390.4,
+      "unemployed_thousand": 33.9,
+      "labour_force_participation_pct": 62.9,
+      "employment_rate_pct": 57.9,
+      "unemployment_rate_pct": 8
+    },
+    {
+      "region": "Республика Хакасия",
+      "federal_district": "СФО",
+      "labour_force_thousand": 238.6,
+      "employed_thousand": 220.5,
+      "unemployed_thousand": 18.1,
+      "labour_force_participation_pct": 56.2,
+      "employment_rate_pct": 51.9,
+      "unemployment_rate_pct": 7.6
+    },
+    {
+      "region": "Астраханская область",
+      "federal_district": "ЮФО",
+      "labour_force_thousand": 501.8,
+      "employed_thousand": 464.8,
+      "unemployed_thousand": 37,
+      "labour_force_participation_pct": 61.3,
+      "employment_rate_pct": 56.8,
+      "unemployment_rate_pct": 7.4
+    },
+    {
+      "region": "Республика Карелия",
+      "federal_district": "СЗФО",
+      "labour_force_thousand": 301.6,
+      "employed_thousand": 279.6,
+      "unemployed_thousand": 21.9,
+      "labour_force_participation_pct": 58.9,
+      "employment_rate_pct": 54.6,
+      "unemployment_rate_pct": 7.3
+    },
+    {
+      "region": "Республика Саха (Якутия)",
+      "federal_district": "ДВФО",
+      "labour_force_thousand": 503.2,
+      "employed_thousand": 466.8,
+      "unemployed_thousand": 36.4,
+      "labour_force_participation_pct": 68,
+      "employment_rate_pct": 63.1,
+      "unemployment_rate_pct": 7.2
+    },
+    {
+      "region": "Омская область",
+      "federal_district": "СФО",
+      "labour_force_thousand": 1007.6,
+      "employed_thousand": 934.7,
+      "unemployed_thousand": 73,
+      "labour_force_participation_pct": 63.5,
+      "employment_rate_pct": 58.9,
+      "unemployment_rate_pct": 7.2
+    },
+    {
+      "region": "Мурманская область",
+      "federal_district": "СЗФО",
+      "labour_force_thousand": 414,
+      "employed_thousand": 386.6,
+      "unemployed_thousand": 27.4,
+      "labour_force_participation_pct": 67.1,
+      "employment_rate_pct": 62.6,
+      "unemployment_rate_pct": 6.6
+    },
+    {
+      "region": "Иркутская область",
+      "federal_district": "СФО",
+      "labour_force_thousand": 1172.3,
+      "employed_thousand": 1098.8,
+      "unemployed_thousand": 73.5,
+      "labour_force_participation_pct": 61.6,
+      "employment_rate_pct": 57.8,
+      "unemployment_rate_pct": 6.3
+    },
+    {
+      "region": "Архангельская область",
+      "federal_district": "СЗФО",
+      "labour_force_thousand": 557.6,
+      "employed_thousand": 523.3,
+      "unemployed_thousand": 34.2,
+      "labour_force_participation_pct": 59.2,
+      "employment_rate_pct": 55.5,
+      "unemployment_rate_pct": 6.1
+    },
+    {
+      "region": "Республика Крым",
+      "federal_district": "ЮФО",
+      "labour_force_thousand": 910.7,
+      "employed_thousand": 858.2,
+      "unemployed_thousand": 52.6,
+      "labour_force_participation_pct": 57.6,
+      "employment_rate_pct": 54.2,
+      "unemployment_rate_pct": 5.8
+    },
+    {
+      "region": "Еврейская автономная область",
+      "federal_district": "ДВФО",
+      "labour_force_thousand": 72.6,
+      "employed_thousand": 68.5,
+      "unemployed_thousand": 4.2,
+      "labour_force_participation_pct": 56.4,
+      "employment_rate_pct": 53.2,
+      "unemployment_rate_pct": 5.7
+    },
+    {
+      "region": "Волгоградская область",
+      "federal_district": "ЮФО",
+      "labour_force_thousand": 1250.5,
+      "employed_thousand": 1179.3,
+      "unemployed_thousand": 71.2,
+      "labour_force_participation_pct": 59.5,
+      "employment_rate_pct": 56.1,
+      "unemployment_rate_pct": 5.7
+    },
+    {
+      "region": "Псковская область",
+      "federal_district": "СЗФО",
+      "labour_force_thousand": 293.7,
+      "employed_thousand": 276.9,
+      "unemployed_thousand": 16.9,
+      "labour_force_participation_pct": 55.1,
+      "employment_rate_pct": 52,
+      "unemployment_rate_pct": 5.7
+    },
+    {
+      "region": "Приморский край",
+      "federal_district": "ДВФО",
+      "labour_force_thousand": 1003,
+      "employed_thousand": 948.2,
+      "unemployed_thousand": 54.8,
+      "labour_force_participation_pct": 63.3,
+      "employment_rate_pct": 59.8,
+      "unemployment_rate_pct": 5.5
+    },
+    {
+      "region": "Республика Марий Эл",
+      "federal_district": "ПФО",
+      "labour_force_thousand": 339.1,
+      "employed_thousand": 320.5,
+      "unemployed_thousand": 18.6,
+      "labour_force_participation_pct": 61.3,
+      "employment_rate_pct": 57.9,
+      "unemployment_rate_pct": 5.5
+    },
+    {
+      "region": "Томская область",
+      "federal_district": "СФО",
+      "labour_force_thousand": 542.2,
+      "employed_thousand": 512.8,
+      "unemployed_thousand": 29.3,
+      "labour_force_participation_pct": 61.5,
+      "employment_rate_pct": 58.1,
+      "unemployment_rate_pct": 5.4
+    },
+    {
+      "region": "Новосибирская область",
+      "federal_district": "СФО",
+      "labour_force_thousand": 1422.5,
+      "employed_thousand": 1345.1,
+      "unemployed_thousand": 77.4,
+      "labour_force_participation_pct": 62,
+      "employment_rate_pct": 58.6,
+      "unemployment_rate_pct": 5.4
+    },
+    {
+      "region": "Сахалинская область",
+      "federal_district": "ДВФО",
+      "labour_force_thousand": 274.8,
+      "employed_thousand": 260.5,
+      "unemployed_thousand": 14.3,
+      "labour_force_participation_pct": 68.9,
+      "employment_rate_pct": 65.3,
+      "unemployment_rate_pct": 5.2
+    },
+    {
+      "region": "Пермский край",
+      "federal_district": "ПФО",
+      "labour_force_thousand": 1204.1,
+      "employed_thousand": 1142.7,
+      "unemployed_thousand": 61.5,
+      "labour_force_participation_pct": 57,
+      "employment_rate_pct": 54.1,
+      "unemployment_rate_pct": 5.1
+    },
+    {
+      "region": "Кемеровская область",
+      "federal_district": "СФО",
+      "labour_force_thousand": 1290.3,
+      "employed_thousand": 1224.7,
+      "unemployed_thousand": 65.6,
+      "labour_force_participation_pct": 59.1,
+      "employment_rate_pct": 56.1,
+      "unemployment_rate_pct": 5.1
+    },
+    {
+      "region": "Алтайский край",
+      "federal_district": "СФО",
+      "labour_force_thousand": 1113.5,
+      "employed_thousand": 1056.5,
+      "unemployed_thousand": 56.9,
+      "labour_force_participation_pct": 58.1,
+      "employment_rate_pct": 55.1,
+      "unemployment_rate_pct": 5.1
+    },
+    {
+      "region": "Ярославская область",
+      "federal_district": "ЦФО",
+      "labour_force_thousand": 644.5,
+      "employed_thousand": 612.3,
+      "unemployed_thousand": 32.2,
+      "labour_force_participation_pct": 61.1,
+      "employment_rate_pct": 58,
+      "unemployment_rate_pct": 5
+    },
+    {
+      "region": "Чукотский автономный округ",
+      "federal_district": "ДВФО",
+      "labour_force_thousand": 31.1,
+      "employed_thousand": 29.5,
+      "unemployed_thousand": 1.6,
+      "labour_force_participation_pct": 80.1,
+      "employment_rate_pct": 76.1,
+      "unemployment_rate_pct": 5
+    },
+    {
+      "region": "Магаданская область",
+      "federal_district": "ДВФО",
+      "labour_force_thousand": 84,
+      "employed_thousand": 79.7,
+      "unemployed_thousand": 4.2,
+      "labour_force_participation_pct": 71.8,
+      "employment_rate_pct": 68.2,
+      "unemployment_rate_pct": 5
+    },
+    {
+      "region": "Краснодарский край",
+      "federal_district": "ЮФО",
+      "labour_force_thousand": 2833.8,
+      "employed_thousand": 2695.8,
+      "unemployed_thousand": 138,
+      "labour_force_participation_pct": 61.2,
+      "employment_rate_pct": 58.2,
+      "unemployment_rate_pct": 4.9
+    },
+    {
+      "region": "Республика Башкортостан",
+      "federal_district": "ПФО",
+      "labour_force_thousand": 1885.8,
+      "employed_thousand": 1793,
+      "unemployed_thousand": 92.9,
+      "labour_force_participation_pct": 57.7,
+      "employment_rate_pct": 54.8,
+      "unemployment_rate_pct": 4.9
+    },
+    {
+      "region": "Челябинская область",
+      "federal_district": "УФО",
+      "labour_force_thousand": 1868.5,
+      "employed_thousand": 1777.3,
+      "unemployed_thousand": 91.1,
+      "labour_force_participation_pct": 65.8,
+      "employment_rate_pct": 62.6,
+      "unemployment_rate_pct": 4.9
+    },
+    {
+      "region": "Республика Мордовия",
+      "federal_district": "ПФО",
+      "labour_force_thousand": 425.1,
+      "employed_thousand": 404.7,
+      "unemployed_thousand": 20.4,
+      "labour_force_participation_pct": 62.1,
+      "employment_rate_pct": 59.1,
+      "unemployment_rate_pct": 4.8
+    },
+    {
+      "region": "Смоленская область",
+      "federal_district": "ЦФО",
+      "labour_force_thousand": 479.7,
+      "employed_thousand": 456.8,
+      "unemployed_thousand": 22.8,
+      "labour_force_participation_pct": 59.6,
+      "employment_rate_pct": 56.7,
+      "unemployment_rate_pct": 4.8
+    },
+    {
+      "region": "Амурская область",
+      "federal_district": "ДВФО",
+      "labour_force_thousand": 403.8,
+      "employed_thousand": 384.5,
+      "unemployed_thousand": 19.3,
+      "labour_force_participation_pct": 62.9,
+      "employment_rate_pct": 59.9,
+      "unemployment_rate_pct": 4.8
+    },
+    {
+      "region": "Чувашская Республика",
+      "federal_district": "ПФО",
+      "labour_force_thousand": 600.1,
+      "employed_thousand": 572.7,
+      "unemployed_thousand": 27.3,
+      "labour_force_participation_pct": 59.9,
+      "employment_rate_pct": 57.1,
+      "unemployment_rate_pct": 4.6
+    },
+    {
+      "region": "Ростовская область",
+      "federal_district": "ЮФО",
+      "labour_force_thousand": 2111.1,
+      "employed_thousand": 2015.7,
+      "unemployed_thousand": 95.4,
+      "labour_force_participation_pct": 59.8,
+      "employment_rate_pct": 57.1,
+      "unemployment_rate_pct": 4.5
+    },
+    {
+      "region": "Новгородская область",
+      "federal_district": "СЗФО",
+      "labour_force_thousand": 291.2,
+      "employed_thousand": 277.9,
+      "unemployed_thousand": 13.2,
+      "labour_force_participation_pct": 58.1,
+      "employment_rate_pct": 55.4,
+      "unemployment_rate_pct": 4.5
+    },
+    {
+      "region": "Рязанская область",
+      "federal_district": "ЦФО",
+      "labour_force_thousand": 526.2,
+      "employed_thousand": 503,
+      "unemployed_thousand": 23.2,
+      "labour_force_participation_pct": 55.5,
+      "employment_rate_pct": 53,
+      "unemployment_rate_pct": 4.4
+    },
+    {
+      "region": "Оренбургская область",
+      "federal_district": "ПФО",
+      "labour_force_thousand": 905.3,
+      "employed_thousand": 865.6,
+      "unemployed_thousand": 39.6,
+      "labour_force_participation_pct": 56.9,
+      "employment_rate_pct": 54.4,
+      "unemployment_rate_pct": 4.4
+    },
+    {
+      "region": "Ставропольский край",
+      "federal_district": "СКФО",
+      "labour_force_thousand": 1366.4,
+      "employed_thousand": 1306.3,
+      "unemployed_thousand": 60.1,
+      "labour_force_participation_pct": 59.5,
+      "employment_rate_pct": 56.8,
+      "unemployment_rate_pct": 4.4
+    },
+    {
+      "region": "Саратовская область",
+      "federal_district": "ПФО",
+      "labour_force_thousand": 1184.9,
+      "employed_thousand": 1133.2,
+      "unemployed_thousand": 51.6,
+      "labour_force_participation_pct": 57.5,
+      "employment_rate_pct": 55,
+      "unemployment_rate_pct": 4.4
+    },
+    {
+      "region": "Кировская область",
+      "federal_district": "ПФО",
+      "labour_force_thousand": 620.2,
+      "employed_thousand": 592.6,
+      "unemployed_thousand": 27.6,
+      "labour_force_participation_pct": 58.7,
+      "employment_rate_pct": 56.1,
+      "unemployment_rate_pct": 4.4
+    },
+    {
+      "region": "Удмуртская Республика",
+      "federal_district": "ПФО",
+      "labour_force_thousand": 779.4,
+      "employed_thousand": 744.7,
+      "unemployed_thousand": 34.6,
+      "labour_force_participation_pct": 64.1,
+      "employment_rate_pct": 61.3,
+      "unemployment_rate_pct": 4.4
+    },
+    {
+      "region": "Свердловская область",
+      "federal_district": "УФО",
+      "labour_force_thousand": 2115.9,
+      "employed_thousand": 2025.3,
+      "unemployed_thousand": 90.6,
+      "labour_force_participation_pct": 60.2,
+      "employment_rate_pct": 57.6,
+      "unemployment_rate_pct": 4.3
+    },
+    {
+      "region": "Вологодская область",
+      "federal_district": "СЗФО",
+      "labour_force_thousand": 559.7,
+      "employed_thousand": 535.5,
+      "unemployed_thousand": 24.2,
+      "labour_force_participation_pct": 58.6,
+      "employment_rate_pct": 56,
+      "unemployment_rate_pct": 4.3
+    },
+    {
+      "region": "Орловская область",
+      "federal_district": "ЦФО",
+      "labour_force_thousand": 338.4,
+      "employed_thousand": 323.7,
+      "unemployed_thousand": 14.6,
+      "labour_force_participation_pct": 54,
+      "employment_rate_pct": 51.6,
+      "unemployment_rate_pct": 4.3
+    },
+    {
+      "region": "Калининградская область",
+      "federal_district": "СЗФО",
+      "labour_force_thousand": 537.5,
+      "employed_thousand": 515,
+      "unemployed_thousand": 22.5,
+      "labour_force_participation_pct": 64.6,
+      "employment_rate_pct": 61.9,
+      "unemployment_rate_pct": 4.2
+    },
+    {
+      "region": "Пензенская область",
+      "federal_district": "ПФО",
+      "labour_force_thousand": 632.1,
+      "employed_thousand": 605.6,
+      "unemployed_thousand": 26.4,
+      "labour_force_participation_pct": 56.3,
+      "employment_rate_pct": 53.9,
+      "unemployment_rate_pct": 4.2
+    },
+    {
+      "region": "Воронежская область",
+      "federal_district": "ЦФО",
+      "labour_force_thousand": 1174.9,
+      "employed_thousand": 1127.3,
+      "unemployed_thousand": 47.6,
+      "labour_force_participation_pct": 59.3,
+      "employment_rate_pct": 56.9,
+      "unemployment_rate_pct": 4.1
+    },
+    {
+      "region": "Тверская область",
+      "federal_district": "ЦФО",
+      "labour_force_thousand": 651.7,
+      "employed_thousand": 625,
+      "unemployed_thousand": 26.7,
+      "labour_force_participation_pct": 60.8,
+      "employment_rate_pct": 58.3,
+      "unemployment_rate_pct": 4.1
+    },
+    {
+      "region": "Нижегородская область",
+      "federal_district": "ПФО",
+      "labour_force_thousand": 1745,
+      "employed_thousand": 1673.1,
+      "unemployed_thousand": 72,
+      "labour_force_participation_pct": 64.6,
+      "employment_rate_pct": 61.9,
+      "unemployment_rate_pct": 4.1
+    },
+    {
+      "region": "Курская область",
+      "federal_district": "ЦФО",
+      "labour_force_thousand": 563.1,
+      "employed_thousand": 539.8,
+      "unemployed_thousand": 23.3,
+      "labour_force_participation_pct": 60.4,
+      "employment_rate_pct": 57.9,
+      "unemployment_rate_pct": 4.1
+    },
+    {
+      "region": "Ульяновская область",
+      "federal_district": "ПФО",
+      "labour_force_thousand": 604.1,
+      "employed_thousand": 579.7,
+      "unemployed_thousand": 24.4,
+      "labour_force_participation_pct": 57.7,
+      "employment_rate_pct": 55.4,
+      "unemployment_rate_pct": 4
+    },
+    {
+      "region": "Камчатский край",
+      "federal_district": "ДВФО",
+      "labour_force_thousand": 182.1,
+      "employed_thousand": 175,
+      "unemployed_thousand": 7.1,
+      "labour_force_participation_pct": 70.3,
+      "employment_rate_pct": 67.6,
+      "unemployment_rate_pct": 3.9
+    },
+    {
+      "region": "Белгородская область",
+      "federal_district": "ЦФО",
+      "labour_force_thousand": 825.9,
+      "employed_thousand": 793.7,
+      "unemployed_thousand": 32.3,
+      "labour_force_participation_pct": 63.5,
+      "employment_rate_pct": 61,
+      "unemployment_rate_pct": 3.9
+    },
+    {
+      "region": "Тульская область",
+      "federal_district": "ЦФО",
+      "labour_force_thousand": 797.4,
+      "employed_thousand": 766.6,
+      "unemployed_thousand": 30.8,
+      "labour_force_participation_pct": 62.6,
+      "employment_rate_pct": 60.2,
+      "unemployment_rate_pct": 3.9
+    },
+    {
+      "region": "Тамбовская область",
+      "federal_district": "ЦФО",
+      "labour_force_thousand": 503.5,
+      "employed_thousand": 484.1,
+      "unemployed_thousand": 19.4,
+      "labour_force_participation_pct": 57.4,
+      "employment_rate_pct": 55.2,
+      "unemployment_rate_pct": 3.9
+    },
+    {
+      "region": "Костромская область",
+      "federal_district": "ЦФО",
+      "labour_force_thousand": 303.7,
+      "employed_thousand": 291.8,
+      "unemployed_thousand": 11.8,
+      "labour_force_participation_pct": 57.5,
+      "employment_rate_pct": 55.3,
+      "unemployment_rate_pct": 3.9
+    },
+    {
+      "region": "Калужская область",
+      "federal_district": "ЦФО",
+      "labour_force_thousand": 531.5,
+      "employed_thousand": 511.4,
+      "unemployed_thousand": 20.2,
+      "labour_force_participation_pct": 62.6,
+      "employment_rate_pct": 60.2,
+      "unemployment_rate_pct": 3.8
+    },
+    {
+      "region": "Севастополь",
+      "federal_district": "ЮФО",
+      "labour_force_thousand": 213.3,
+      "employed_thousand": 205.1,
+      "unemployed_thousand": 8.2,
+      "labour_force_participation_pct": 57.8,
+      "employment_rate_pct": 55.6,
+      "unemployment_rate_pct": 3.8
+    },
+    {
+      "region": "Липецкая область",
+      "federal_district": "ЦФО",
+      "labour_force_thousand": 597.7,
+      "employed_thousand": 575.2,
+      "unemployed_thousand": 22.5,
+      "labour_force_participation_pct": 62.2,
+      "employment_rate_pct": 59.9,
+      "unemployment_rate_pct": 3.8
+    },
+    {
+      "region": "Владимирская область",
+      "federal_district": "ЦФО",
+      "labour_force_thousand": 720.5,
+      "employed_thousand": 693.8,
+      "unemployed_thousand": 26.7,
+      "labour_force_participation_pct": 62.4,
+      "employment_rate_pct": 60.1,
+      "unemployment_rate_pct": 3.7
+    },
+    {
+      "region": "Ивановская область",
+      "federal_district": "ЦФО",
+      "labour_force_thousand": 514.7,
+      "employed_thousand": 496.3,
+      "unemployed_thousand": 18.4,
+      "labour_force_participation_pct": 60.5,
+      "employment_rate_pct": 58.4,
+      "unemployment_rate_pct": 3.6
+    },
+    {
+      "region": "Красноярский край",
+      "federal_district": "СФО",
+      "labour_force_thousand": 1510.6,
+      "employed_thousand": 1455.7,
+      "unemployed_thousand": 54.8,
+      "labour_force_participation_pct": 64.7,
+      "employment_rate_pct": 62.4,
+      "unemployment_rate_pct": 3.6
+    },
+    {
+      "region": "Ленинградская область",
+      "federal_district": "СЗФО",
+      "labour_force_thousand": 978.4,
+      "employed_thousand": 943,
+      "unemployed_thousand": 35.4,
+      "labour_force_participation_pct": 62.4,
+      "employment_rate_pct": 60.1,
+      "unemployment_rate_pct": 3.6
+    },
+    {
+      "region": "Хабаровский край",
+      "federal_district": "ДВФО",
+      "labour_force_thousand": 710.2,
+      "employed_thousand": 685.9,
+      "unemployed_thousand": 24.3,
+      "labour_force_participation_pct": 65.4,
+      "employment_rate_pct": 63.2,
+      "unemployment_rate_pct": 3.4
+    },
+    {
+      "region": "Самарская область",
+      "federal_district": "ПФО",
+      "labour_force_thousand": 1666.6,
+      "employed_thousand": 1610.1,
+      "unemployed_thousand": 56.5,
+      "labour_force_participation_pct": 62.6,
+      "employment_rate_pct": 60.5,
+      "unemployment_rate_pct": 3.4
+    },
+    {
+      "region": "Брянская область",
+      "federal_district": "ЦФО",
+      "labour_force_thousand": 586.1,
+      "employed_thousand": 566.8,
+      "unemployed_thousand": 19.3,
+      "labour_force_participation_pct": 58.1,
+      "employment_rate_pct": 56.2,
+      "unemployment_rate_pct": 3.3
+    },
+    {
+      "region": "Республика Татарстан",
+      "federal_district": "ПФО",
+      "labour_force_thousand": 2035.9,
+      "employed_thousand": 1970.1,
+      "unemployed_thousand": 65.8,
+      "labour_force_participation_pct": 64.1,
+      "employment_rate_pct": 62,
+      "unemployment_rate_pct": 3.2
+    },
+    {
+      "region": "Тюменская область",
+      "federal_district": "УФО",
+      "labour_force_thousand": 1951.3,
+      "employed_thousand": 1897,
+      "unemployed_thousand": 54.3,
+      "labour_force_participation_pct": 67,
+      "employment_rate_pct": 65.1,
+      "unemployment_rate_pct": 2.8
+    },
+    {
+      "region": "Московская область",
+      "federal_district": "ЦФО",
+      "labour_force_thousand": 4226.6,
+      "employed_thousand": 4117.1,
+      "unemployed_thousand": 109.4,
+      "labour_force_participation_pct": 67.2,
+      "employment_rate_pct": 65.5,
+      "unemployment_rate_pct": 2.6
+    },
+    {
+      "region": "Москва",
+      "federal_district": "ЦФО",
+      "labour_force_thousand": 7287.2,
+      "employed_thousand": 7171.8,
+      "unemployed_thousand": 115.4,
+      "labour_force_participation_pct": 67.7,
+      "employment_rate_pct": 66.6,
+      "unemployment_rate_pct": 1.6
+    },
+    {
+      "region": "Санкт-Петербург",
+      "federal_district": "СЗФО",
+      "labour_force_thousand": 3095.7,
+      "employed_thousand": 3048.5,
+      "unemployed_thousand": 47.2,
+      "labour_force_participation_pct": 67.7,
+      "employment_rate_pct": 66.6,
+      "unemployment_rate_pct": 1.5
+    }
+  ],
+  "meta": {
+    "title": "Уровень безработицы по субъектам РФ (февраль 2020) - Free Download",
+    "description": "Численность рабочей силы, занятых и безработных (тыс. человек), уровень участия в рабочей силе, занятости и безработицы (%) по субъектам Российской Федерации с указанием федерального округа, по данным Росстата на февраль 2020 года. Contains 83 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Уровень безработицы по субъектам РФ (февраль 2020) | ListBase",
+    "seo_description": "Download Уровень безработицы по субъектам РФ (февраль 2020) — 83 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 83 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Уровень_безработицы_субъектов_Российской_Федерации"
+    ]
+  }
+}
