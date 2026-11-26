@@ -1,0 +1,93 @@
+{
+  "id": "ru-starorusskie-kubicheskie-mery",
+  "name": "Старорусские кубические меры объёма",
+  "title": "Старорусские кубические меры объёма",
+  "description": "Старорусские кубические меры объёма — кубические сажень, аршин, фут, вершок, дюйм и линия — с соотношениями между ними и метрическими эквивалентами.",
+  "category": "units",
+  "source": "https://ru.wikipedia.org/wiki/Русская_система_мер#Меры_объёма",
+  "source_url": "https://ru.wikipedia.org/wiki/Русская_система_мер#Меры_объёма",
+  "updated": "2026-11",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "unit",
+      "label": "Unit",
+      "type": "string"
+    },
+    {
+      "key": "equals_old_units",
+      "label": "Equals Old Units",
+      "type": "string"
+    },
+    {
+      "key": "metric_equivalent",
+      "label": "Metric Equivalent",
+      "type": "string"
+    },
+    {
+      "key": "metric_value",
+      "label": "Metric Value",
+      "type": "number"
+    },
+    {
+      "key": "metric_unit",
+      "label": "Metric Unit",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unit": "куб. сажень",
+      "equals_old_units": "27 куб. аршинам = 343 куб. футам",
+      "metric_equivalent": "≈ 9,7127 м³",
+      "metric_value": 9.7127,
+      "metric_unit": "м³"
+    },
+    {
+      "unit": "куб. аршин",
+      "equals_old_units": "4096 куб. вершкам = 21 952 куб. дюймам",
+      "metric_equivalent": "≈ 359,7288 дм³",
+      "metric_value": 359.7288,
+      "metric_unit": "дм³"
+    },
+    {
+      "unit": "куб. фут",
+      "equals_old_units": "1728 куб. дюймам",
+      "metric_equivalent": "≈ 28,3168 дм³",
+      "metric_value": 28.3168,
+      "metric_unit": "дм³"
+    },
+    {
+      "unit": "куб. вершок",
+      "equals_old_units": "5,3594 куб. дюймам",
+      "metric_equivalent": "≈ 87,8244 см³",
+      "metric_value": 87.8244,
+      "metric_unit": "см³"
+    },
+    {
+      "unit": "куб. дюйм",
+      "equals_old_units": "1000 куб. линий",
+      "metric_equivalent": "≈ 16,3871 см³",
+      "metric_value": 16.3871,
+      "metric_unit": "см³"
+    },
+    {
+      "unit": "куб. линия",
+      "equals_old_units": "1 / 1000 куб. дюйма",
+      "metric_equivalent": "≈ 16,3871 мм³",
+      "metric_value": 16.3871,
+      "metric_unit": "мм³"
+    }
+  ],
+  "meta": {
+    "title": "Старорусские кубические меры объёма - Free Download",
+    "description": "Старорусские кубические меры объёма — кубические сажень, аршин, фут, вершок, дюйм и линия — с соотношениями между ними и метрическими эквивалентами. Contains 6 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Старорусские кубические меры объёма | ListBase",
+    "seo_description": "Download Старорусские кубические меры объёма — 6 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 6 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Русская_система_мер#Меры_объёма"
+    ]
+  }
+}

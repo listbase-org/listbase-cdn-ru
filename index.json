@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-25T02:12:56.184Z",
-  "total_datasets": 574,
-  "total_records": 226985,
+  "generated": "2026-11-26T02:18:17.426Z",
+  "total_datasets": 575,
+  "total_records": 226991,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 6
+      "dataset_count": 7
     }
   ],
   "datasets": [
@@ -17733,6 +17733,32 @@
         "xlsx": {
           "name": "ru-razmery-obuvi-gost_RU.xlsx",
           "size": 8119
+        }
+      }
+    },
+    {
+      "id": "ru-starorusskie-kubicheskie-mery",
+      "name": "Старорусские кубические меры объёма",
+      "category": "units",
+      "record_count": 6,
+      "columns": [
+        "unit",
+        "equals_old_units",
+        "metric_equivalent",
+        "metric_value",
+        "metric_unit"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Русская_система_мер#Меры_объёма",
+      "updated": "2026-11",
+      "size": 3612,
+      "files": {
+        "csv": {
+          "name": "ru-starorusskie-kubicheskie-mery_RU.csv",
+          "size": 664
+        },
+        "xlsx": {
+          "name": "ru-starorusskie-kubicheskie-mery_RU.xlsx",
+          "size": 7145
         }
       }
     },
