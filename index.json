@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-27T02:19:25.399Z",
-  "total_datasets": 578,
-  "total_records": 227108,
+  "generated": "2026-11-27T02:19:36.536Z",
+  "total_datasets": 579,
+  "total_records": 227196,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "society",
@@ -13112,6 +13112,33 @@
         "xlsx": {
           "name": "ru-nobelevskie-laureaty_RU.xlsx",
           "size": 9281
+        }
+      }
+    },
+    {
+      "id": "ru-presmykayushchiesya-rossii",
+      "name": "Пресмыкающиеся России",
+      "category": "science",
+      "record_count": 88,
+      "columns": [
+        "name",
+        "latin_name",
+        "author",
+        "order",
+        "family",
+        "range_notes"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_пресмыкающихся_России",
+      "updated": "2026-11",
+      "size": 38155,
+      "files": {
+        "csv": {
+          "name": "ru-presmykayushchiesya-rossii_RU.csv",
+          "size": 25379
+        },
+        "xlsx": {
+          "name": "ru-presmykayushchiesya-rossii_RU.xlsx",
+          "size": 14625
         }
       }
     },

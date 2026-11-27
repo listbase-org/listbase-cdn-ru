@@ -1,0 +1,760 @@
+{
+  "id": "ru-presmykayushchiesya-rossii",
+  "name": "Пресмыкающиеся России",
+  "title": "Пресмыкающиеся России",
+  "description": "Список видов пресмыкающихся (черепахи, ящерицы, змеи), обитающих на территории России, с латинским названием, автором таксона (для черепах и ящериц), отрядом, семейством и ареалом.",
+  "category": "science",
+  "source": "https://ru.wikipedia.org/wiki/Список_пресмыкающихся_России",
+  "source_url": "https://ru.wikipedia.org/wiki/Список_пресмыкающихся_России",
+  "updated": "2026-11",
+  "record_count": 88,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latin_name",
+      "label": "Latin Name",
+      "type": "string"
+    },
+    {
+      "key": "author",
+      "label": "Author",
+      "type": "string"
+    },
+    {
+      "key": "order",
+      "label": "Order",
+      "type": "string"
+    },
+    {
+      "key": "family",
+      "label": "Family",
+      "type": "string"
+    },
+    {
+      "key": "range_notes",
+      "label": "Range Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Европейская болотная черепаха",
+      "latin_name": "Emys orbicularis",
+      "author": "Linnaeus, 1758",
+      "order": "Черепахи (Testudines)",
+      "family": "Пресноводные черепахи (Emydidae)",
+      "range_notes": "Обычна в южных областях европейской части страны до Смоленской, Брянской, Тульской областей, Марий Эл, Чувашии на севере, Башкирии на востоке. Встречается в различных пресных водоёмах: болотах, прудах, озёрах, плавнях, старицах, медленно текущих реках, каналах. Иногда встречается в черте населённых пунктов. Вид включён в Международный красный список МСОП со статусом, как вид, близкий к уязвимому положению."
+    },
+    {
+      "name": "Красноухая черепаха",
+      "latin_name": "Trachemys scripta",
+      "author": "Schoepff, 1792",
+      "order": "Черепахи (Testudines)",
+      "family": "Пресноводные черепахи (Emydidae)",
+      "range_notes": "Североамериканская черепаха, инвазионный вид на территории многих стран. На Южном берегу Крыма в последние годы участились встречи этого вида."
+    },
+    {
+      "name": "Каспийская черепаха",
+      "latin_name": "Mauremys caspica",
+      "author": "Gmelin, 1774",
+      "order": "Черепахи (Testudines)",
+      "family": "Азиатские пресноводные черепахи (Geoemydidae)",
+      "range_notes": "Встречается в реках Дагестана, прибрежных болотах Каспийского моря"
+    },
+    {
+      "name": "Логгерхед, или головастая черепаха",
+      "latin_name": "Caretta caretta",
+      "author": "Linnaues, 1758",
+      "order": "Черепахи (Testudines)",
+      "family": "Морские черепахи (Cheloniidae)",
+      "range_notes": "В российских водах регистрировались единичные находки: в 1964 году в Кольском заливе Баренцева моря в 1940 году — в заливе Петра Великого Японского моря. Вид включён в Международный красный список МСОП со статусом, как вымирающий вид"
+    },
+    {
+      "name": "Зелёная черепаха",
+      "latin_name": "Chelonia mydas",
+      "author": "Linnaues, 1758",
+      "order": "Черепахи (Testudines)",
+      "family": "Морские черепахи (Cheloniidae)",
+      "range_notes": "Известны единичные находки на Дальнем Востоке. В 2012 году в Новгородской бухте Японского моря был найден панцирь, в 2023 году на берегу бухты Тунгус в окрестностях Находки была найдена мёртвая молодая самка, и в том же году на острове Кунашир были обнаружены фрагменты скелета"
+    },
+    {
+      "name": "Бисса",
+      "latin_name": "Eretmochelys imbricata",
+      "author": "Linnaues, 1766",
+      "order": "Черепахи (Testudines)",
+      "family": "Морские черепахи (Cheloniidae)",
+      "range_notes": "Единственный раз была зарегистрирована в водах России 21 сентября 2023 года в проливе между островами Кунашир и Шикотан"
+    },
+    {
+      "name": "Кожистая черепаха",
+      "latin_name": "Dermochelys coriacea",
+      "author": "Vandelli, 1761",
+      "order": "Черепахи (Testudines)",
+      "family": "Кожистые черепахи (Dermochelyidae)",
+      "range_notes": "В водах России c 1936 по 2000 годы зарегистрировано более 10 находок: залив Петра Великого и у берегов Сахалина в Японском море, у берегов южных Курильских островов в Охотском море и Тихом океане. Вид включён в Международный красный список МСОП со статусом"
+    },
+    {
+      "name": "Дальневосточная черепаха",
+      "latin_name": "Pelodiscus maackii",
+      "author": "Brandt, 1858",
+      "order": "Черепахи (Testudines)",
+      "family": "Трёхкоготные, или мягкотелые, черепахи (Trionychidae)",
+      "range_notes": "Встречается в бассейнах рек Амур и Уссури, озёрах Ханка и Гасси. Вид включён в Международный красный список МСОП со статусом, как уязвимый вид"
+    },
+    {
+      "name": "Средиземноморская черепаха",
+      "latin_name": "Testudo graeca",
+      "author": "Linnaues, 1758",
+      "order": "Черепахи (Testudines)",
+      "family": "Сухопутные черепахи (Testudinidae)",
+      "range_notes": "Встречается на Черноморском побережье Краснодарского края до Анапы на севере; Дагестан и побережье Каспийского моря. Вид включён в Международный красный список МСОП со статусом, как уязвимый вид"
+    },
+    {
+      "name": "Пискливый геккончик",
+      "latin_name": "Alsophylax pipiens",
+      "author": "Pallas, 1827",
+      "order": "Ящерицы (Sauria)",
+      "family": "Гекконы, или Цепкопалые (Gekkonidae)",
+      "range_notes": "Встречается на востоке Астраханской области."
+    },
+    {
+      "name": "Каспийский геккон",
+      "latin_name": "Cyrtopodion caspius",
+      "author": "Eichwald, 1831",
+      "order": "Ящерицы (Sauria)",
+      "family": "Гекконы, или Цепкопалые (Gekkonidae)",
+      "range_notes": "Распространён на побережье Каспийского моря, Калмыкия"
+    },
+    {
+      "name": "Серый геккон",
+      "latin_name": "Mediodactylus russowii",
+      "author": "Strauch, 1887) (syn. Cyrtopodion russowi, Tenuidactylus russowi",
+      "order": "Ящерицы (Sauria)",
+      "family": "Гекконы, или Цепкопалые (Gekkonidae)",
+      "range_notes": "У станицы Старогладковская в Чечне, внесён в Красную книгу Российской федерации (2001) как исчезнувший (категория 0)"
+    },
+    {
+      "name": "Кавказская агама",
+      "latin_name": "Laudakia caucasia",
+      "author": "Eichwald, 1831) (syn. Paralaudakia caucasia",
+      "order": "Ящерицы (Sauria)",
+      "family": "Агамовые (Agamidae)",
+      "range_notes": "Встречается в Дагестане в окрестностях посёлков Кумтор-Кала, Ахты и Рутул. Обитает в горах, где придерживается скал, каменистых склонов с редкой ксерофитной растительностью и одиночных каменистых глыб. Этот ксерофильный вид широко заселяет все горные и предгорные биотопы."
+    },
+    {
+      "name": "Степная агама",
+      "latin_name": "Trapelus sanguinolentus",
+      "author": "Pallas, 1814",
+      "order": "Ящерицы (Sauria)",
+      "family": "Агамовые (Agamidae)",
+      "range_notes": "Встречается в Дагестане, Чечне и Ставропольском крае."
+    },
+    {
+      "name": "Круглоголовка-вертихвостка",
+      "latin_name": "Phrynocephalus guttatus",
+      "author": "Gmelin, 1789",
+      "order": "Ящерицы (Sauria)",
+      "family": "Агамовые (Agamidae)",
+      "range_notes": "Распространена в Дагестане, Калмыкии, Ставропольском крае, Астраханской и Волгоградской областях."
+    },
+    {
+      "name": "Такырная круглоголовка",
+      "latin_name": "Phrynocephalus helioscopus",
+      "author": "Pallas, 1771",
+      "order": "Ящерицы (Sauria)",
+      "family": "Агамовые (Agamidae)",
+      "range_notes": "Распространена на востоке Астраханской и Волгоградской областей."
+    },
+    {
+      "name": "Ушастая круглоголовка",
+      "latin_name": "Phrynocephalus mystaceus",
+      "author": "Pallas, 1776",
+      "order": "Ящерицы (Sauria)",
+      "family": "Агамовые (Agamidae)",
+      "range_notes": "Распространена в предгорном Дагестане, на востоке Чечни, в Калмыкии, на юге Астраханской области."
+    },
+    {
+      "name": "Пёстрая круглоголовка",
+      "latin_name": "Phrynocephalus versicolor",
+      "author": "Strauch, 1876",
+      "order": "Ящерицы (Sauria)",
+      "family": "Агамовые (Agamidae)",
+      "range_notes": "Встречается на юге Тувы."
+    },
+    {
+      "name": "Веретеница ломкая, или медяница",
+      "latin_name": "Anguis fragilis",
+      "author": "Linnaeus, 1758",
+      "order": "Ящерицы (Sauria)",
+      "family": "Веретенициевые (Anguidae)",
+      "range_notes": "В европейской части страны (лесная зона до Полярного круга на севере и до левобережья реки Тобол на востоке, в лесах Северного Кавказа)."
+    },
+    {
+      "name": "Желтопузик, или глухарь",
+      "latin_name": "Pseudopus apodus",
+      "author": "Pallas, 1775",
+      "order": "Ящерицы (Sauria)",
+      "family": "Веретенициевые (Anguidae)",
+      "range_notes": "Встречается на черноморском побережье Краснодарского края, в предгорном Дагестане, на юге Калмыкии, на севере и востоке Чечни, на юго-востоке Ставропольского края, в Крыму."
+    },
+    {
+      "name": "Длинноногий сцинк",
+      "latin_name": "Eumeces schneideri",
+      "author": "Daudin 1802",
+      "order": "Ящерицы (Sauria)",
+      "family": "Сцинковые (Scincidae)",
+      "range_notes": "В России встречается на юго-востоке Дагестана."
+    },
+    {
+      "name": "Дальневосточный сцинк",
+      "latin_name": "Plestiodon latiscutatus",
+      "author": "Hallowell, 1860",
+      "order": "Ящерицы (Sauria)",
+      "family": "Сцинковые (Scincidae)",
+      "range_notes": "На территории России встречается на южной оконечности гряды Курильских островов — на острове Кунашир."
+    },
+    {
+      "name": "Альпийская ящерица",
+      "latin_name": "Darevskia alpina",
+      "author": "",
+      "order": "Ящерицы (Sauria)",
+      "family": "Настоящие ящерицы (Lacertidae)",
+      "range_notes": "Распространена в горах Северного Кавказа до реки Баксан на востоке."
+    },
+    {
+      "name": "Скальная ящерица Браунера",
+      "latin_name": "Darevskia brauneri",
+      "author": "",
+      "order": "Ящерицы (Sauria)",
+      "family": "Настоящие ящерицы (Lacertidae)",
+      "range_notes": "Распространена в западной части Большого Кавказского хребта."
+    },
+    {
+      "name": "Кавказская ящерица",
+      "latin_name": "Darevskia caucasica",
+      "author": "",
+      "order": "Ящерицы (Sauria)",
+      "family": "Настоящие ящерицы (Lacertidae)",
+      "range_notes": "Распространена на северных склонах Большого Кавказского хребта от ущелья Баксана на западе до Самурского хребта на востоке."
+    },
+    {
+      "name": "Дагестанская ящерица",
+      "latin_name": "Darevskia daghestanica",
+      "author": "",
+      "order": "Ящерицы (Sauria)",
+      "family": "Настоящие ящерицы (Lacertidae)",
+      "range_notes": "Распространена в Дагестане и Чечне."
+    },
+    {
+      "name": "Артвинская ящерица",
+      "latin_name": "Darevskia derjugini",
+      "author": "",
+      "order": "Ящерицы (Sauria)",
+      "family": "Настоящие ящерицы (Lacertidae)",
+      "range_notes": "Распространена на юго-западе Краснодарского края."
+    },
+    {
+      "name": "Луговая ящерица",
+      "latin_name": "Darevskia praticola",
+      "author": "",
+      "order": "Ящерицы (Sauria)",
+      "family": "Настоящие ящерицы (Lacertidae)",
+      "range_notes": "Распространена на Северном Кавказе."
+    },
+    {
+      "name": "Грузинская ящерица",
+      "latin_name": "Darevskia rudis",
+      "author": "",
+      "order": "Ящерицы (Sauria)",
+      "family": "Настоящие ящерицы (Lacertidae)",
+      "range_notes": "Распространена в Ингушетии, Чечне, северном Дагестане."
+    },
+    {
+      "name": "Скальная ящерица",
+      "latin_name": "Darevskia saxicola",
+      "author": "",
+      "order": "Ящерицы (Sauria)",
+      "family": "Настоящие ящерицы (Lacertidae)",
+      "range_notes": "Распространена на Северном Кавказе."
+    },
+    {
+      "name": "Монгольская ящурка",
+      "latin_name": "Eremias argus",
+      "author": "",
+      "order": "Ящерицы (Sauria)",
+      "family": "Настоящие ящерицы (Lacertidae)",
+      "range_notes": "Распространена в южной Бурятии и на крайнем юго-западе Читинской области. Российские популяции относятся к подвиду Eremias argus barbouri."
+    },
+    {
+      "name": "Разноцветная ящурка",
+      "latin_name": "Eremias arguta",
+      "author": "",
+      "order": "Ящерицы (Sauria)",
+      "family": "Настоящие ящерицы (Lacertidae)",
+      "range_notes": "Распространена в степной зоне европейской части страны."
+    },
+    {
+      "name": "Глазчатая ящурка",
+      "latin_name": "Eremias multiocellata",
+      "author": "",
+      "order": "Ящерицы (Sauria)",
+      "family": "Настоящие ящерицы (Lacertidae)",
+      "range_notes": "Встречается в Туве."
+    },
+    {
+      "name": "Гобийская ящурка, или ящурка Пржевальского",
+      "latin_name": "Eremias przewalskii",
+      "author": "",
+      "order": "Ящерицы (Sauria)",
+      "family": "Настоящие ящерицы (Lacertidae)",
+      "range_notes": "Представлена подвидом Eremias przewalskii tuvensis. Встречается в Туве."
+    },
+    {
+      "name": "Быстрая ящурка",
+      "latin_name": "Eremias velox",
+      "author": "",
+      "order": "Ящерицы (Sauria)",
+      "family": "Настоящие ящерицы (Lacertidae)",
+      "range_notes": "Распространена в Восточном Предкавказье и Южном Поволжье."
+    },
+    {
+      "name": "Прыткая ящерица",
+      "latin_name": "Lacerta agilis",
+      "author": "",
+      "order": "Ящерицы (Sauria)",
+      "family": "Настоящие ящерицы (Lacertidae)",
+      "range_notes": "Широко распространена от западных границ до южного Забайкалья на востоке."
+    },
+    {
+      "name": "Средняя ящерица",
+      "latin_name": "Lacerta media",
+      "author": "",
+      "order": "Ящерицы (Sauria)",
+      "family": "Настоящие ящерицы (Lacertidae)",
+      "range_notes": "Встречается на черноморском побережье Краснодарского края, в речных долинах внутреннего Дагестана."
+    },
+    {
+      "name": "Полосатая ящерица",
+      "latin_name": "Lacerta strigata",
+      "author": "",
+      "order": "Ящерицы (Sauria)",
+      "family": "Настоящие ящерицы (Lacertidae)",
+      "range_notes": "Распространена в восточной половине Северного Кавказа."
+    },
+    {
+      "name": "Стройная змееголовка",
+      "latin_name": "Ophisops elegans",
+      "author": "",
+      "order": "Ящерицы (Sauria)",
+      "family": "Настоящие ящерицы (Lacertidae)",
+      "range_notes": "Встречается в предгорной Чечне."
+    },
+    {
+      "name": "Амурская долгохвостка",
+      "latin_name": "Takydromus amurensis",
+      "author": "",
+      "order": "Ящерицы (Sauria)",
+      "family": "Настоящие ящерицы (Lacertidae)",
+      "range_notes": "Распространена в Приморском и на юге Хабаровского края."
+    },
+    {
+      "name": "Корейская долгохвостка",
+      "latin_name": "Takydromus wolteri",
+      "author": "",
+      "order": "Ящерицы (Sauria)",
+      "family": "Настоящие ящерицы (Lacertidae)",
+      "range_notes": "Встречается на юге Приморского края."
+    },
+    {
+      "name": "Живородящая ящерица",
+      "latin_name": "Zootoca vivipara",
+      "author": "",
+      "order": "Ящерицы (Sauria)",
+      "family": "Настоящие ящерицы (Lacertidae)",
+      "range_notes": "Широко распространена в лесной зоне страны, кроме лесов Кавказа."
+    },
+    {
+      "name": "Червеобразная слепозмейка",
+      "latin_name": "Xerotyphlops vermicularis",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Слепозмейки, или Слепуны (Typhlopidae)",
+      "range_notes": "распространена на востоке Северного Кавказа."
+    },
+    {
+      "name": "Западный удавчик",
+      "latin_name": "Eryx jaculus",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ложноногие, или удавы (Boidae)",
+      "range_notes": "встречается на Северном Кавказе."
+    },
+    {
+      "name": "Песчаный удавчик",
+      "latin_name": "Eryx miliaris",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ложноногие, или удавы (Boidae)",
+      "range_notes": "встречается в восточной части Северного Предкавказья и в Южном Поволжье."
+    },
+    {
+      "name": "Обыкновенная медянка",
+      "latin_name": "Coronella austriaca",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ужеобразные (Colubridae)",
+      "range_notes": "обитает в южной половине европейской части страны."
+    },
+    {
+      "name": "Желтобрюхий, или каспийский полоз",
+      "latin_name": "Dolichophis caspius",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ужеобразные (Colubridae)",
+      "range_notes": "обитает в южной части европейской части страны."
+    },
+    {
+      "name": "Краснобрюхий полоз",
+      "latin_name": "Dolichophis schmidtii",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ужеобразные (Colubridae)",
+      "range_notes": "встречается на юге Дагестана."
+    },
+    {
+      "name": "Ошейниковый эйренис",
+      "latin_name": "Eirenis collarus",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ужеобразные (Colubridae)",
+      "range_notes": "встречается в Дагестане."
+    },
+    {
+      "name": "Смирный эйренис",
+      "latin_name": "Eirenis modestus",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ужеобразные (Colubridae)",
+      "range_notes": "встречается в горном Дагестане."
+    },
+    {
+      "name": "Островной полоз",
+      "latin_name": "Elaphe climacophora",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ужеобразные (Colubridae)",
+      "range_notes": "встречается на острове Кунашир."
+    },
+    {
+      "name": "Узорчатый полоз",
+      "latin_name": "Elaphe dione",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ужеобразные (Colubridae)",
+      "range_notes": "обычен на юге европейской части страны, а также в Приангарье, Забайкалье, на юге Дальнего Востока."
+    },
+    {
+      "name": "Малочешуйчатый полоз",
+      "latin_name": "Elaphe quardivirgata",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ужеобразные (Colubridae)",
+      "range_notes": "встречается на острове Кунашир."
+    },
+    {
+      "name": "Палласов полоз",
+      "latin_name": "Elaphe sauromates",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ужеобразные (Colubridae)",
+      "range_notes": "встречается на Северном Кавказе (кроме юго-западной части), в Ростовской и Астраханской областях."
+    },
+    {
+      "name": "Амурский полоз",
+      "latin_name": "Elaphe schrenckii",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ужеобразные (Colubridae)",
+      "range_notes": "встречается в Приморском и Хабаровском краях, до Комсомольска-на-Амуре на севере."
+    },
+    {
+      "name": "Тонкохвостый полоз",
+      "latin_name": "Elaphe taeniura",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ужеобразные (Colubridae)",
+      "range_notes": "единичная находка на юге Приморского края."
+    },
+    {
+      "name": "Урартский полоз",
+      "latin_name": "Elaphe urartica",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ужеобразные (Colubridae)",
+      "range_notes": "встречается на юге Дагестана."
+    },
+    {
+      "name": "Японский полоз",
+      "latin_name": "Euprepiophis conspicillatus",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ужеобразные (Colubridae)",
+      "range_notes": "встречается на острове Кунашир."
+    },
+    {
+      "name": "Японский уж",
+      "latin_name": "Hebius vibakari",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ужеобразные (Colubridae)",
+      "range_notes": "встречается на юге Приморского края, а также в бассейне Амура."
+    },
+    {
+      "name": "Разноцветный полоз",
+      "latin_name": "Hemorrhois ravergieri",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ужеобразные (Colubridae)",
+      "range_notes": "встречается на Северном Кавказе."
+    },
+    {
+      "name": "Восточный динодон",
+      "latin_name": "Lycodon orientale",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ужеобразные (Colubridae)",
+      "range_notes": "в России известен по единственной находке на острове Шикотан в 1939 году, которая впоследствии не подтверждалась. Возможно был случайно завезён из Японии."
+    },
+    {
+      "name": "Краснопоясный волкозуб",
+      "latin_name": "Lycodon rufozonatus",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ужеобразные (Colubridae)",
+      "range_notes": "обитает на юге Приморского края."
+    },
+    {
+      "name": "Обыкновенный уж",
+      "latin_name": "Natrix natrix",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ужеобразные (Colubridae)",
+      "range_notes": "обычен на территории от западной границы страны до Байкала."
+    },
+    {
+      "name": "Водяной уж",
+      "latin_name": "Natrix tesellata",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ужеобразные (Colubridae)",
+      "range_notes": "обычен в южной половине европейской части страны."
+    },
+    {
+      "name": "Красноспинный полоз",
+      "latin_name": "Oocatochus rufodorsatus",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ужеобразные (Colubridae)",
+      "range_notes": "встречается в Приморском и Хабаровском краях."
+    },
+    {
+      "name": "Полосатый полоз",
+      "latin_name": "Orientocoluber spinalis",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ужеобразные (Colubridae)",
+      "range_notes": "встречается на юге Приморского края."
+    },
+    {
+      "name": "Оливковый полоз",
+      "latin_name": "Platyceps najadum",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ужеобразные (Colubridae)",
+      "range_notes": "встречается на Северном Кавказе."
+    },
+    {
+      "name": "Тигровый уж",
+      "latin_name": "Rhabdophis lateralis",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ужеобразные (Colubridae)",
+      "range_notes": "встречается в Приморском и Хабаровском краях."
+    },
+    {
+      "name": "Кошачья змея",
+      "latin_name": "Telescopus fallax",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ужеобразные (Colubridae)",
+      "range_notes": "встречается в Дагестане."
+    },
+    {
+      "name": "Закавказский полоз",
+      "latin_name": "Zamenis hohenackeri",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ужеобразные (Colubridae)",
+      "range_notes": "встречается в Северной Осетии, Ингушетии, Чечне, Дагестане."
+    },
+    {
+      "name": "Эскулапов полоз",
+      "latin_name": "Zamenis longissimus",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Ужеобразные (Colubridae)",
+      "range_notes": "встрезается в западной части Северного Кавказа."
+    },
+    {
+      "name": "Ящеричная змея",
+      "latin_name": "Malpolon insignitus",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Псаммофииды (Psammophiidae)",
+      "range_notes": "встречается в Калмыкии и прилегающих районах Ставропольского края и Астраханской области."
+    },
+    {
+      "name": "Двухцветная пеламида",
+      "latin_name": "Hydrophis platurus",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Аспидовые змеи (Elapidae)",
+      "range_notes": "один обнаруженный мёртвый экземпляр на берегу залива Посьет."
+    },
+    {
+      "name": "Большой морской крайт",
+      "latin_name": "Laticauda semifasciata",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Аспидовые змеи (Elapidae)",
+      "range_notes": "один обнаруженный экземпляр на берегу залива Петра Великого."
+    },
+    {
+      "name": "Обыкновенный, или щитомордник Палласа",
+      "latin_name": "Gloydius halys",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Гадюковые змеи, или гадюки (Viperidae)",
+      "range_notes": "встречается в Заволжье, на юге Сибири, в Забайкалье, в верховьях Амура."
+    },
+    {
+      "name": "Каменистый, или средний, щитомордник",
+      "latin_name": "Gloydius saxatilis",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Гадюковые змеи, или гадюки (Viperidae)",
+      "range_notes": "встречается в Приморском и Хабаровском краях."
+    },
+    {
+      "name": "Восточный щитомордник",
+      "latin_name": "Gloydius blomhoffii",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Гадюковые змеи, или гадюки (Viperidae)",
+      "range_notes": "встречается на острове Кунашир."
+    },
+    {
+      "name": "Уссурийский щитомордник",
+      "latin_name": "Gloydius ussuriensis",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Гадюковые змеи, или гадюки (Viperidae)",
+      "range_notes": "встречается на Дальнем Востоке от Шилки и Аргуни на западе до побережья Японского моря на востоке."
+    },
+    {
+      "name": "Обыкновенная гадюка",
+      "latin_name": "Vipera (Pelias) berus",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Гадюковые змеи, или гадюки (Viperidae)",
+      "range_notes": "обычна в северной части европейской части страны, в Сибири (в районах без вечной мерзлоты), в западном Забайкалье."
+    },
+    {
+      "name": "Гадюка Динника",
+      "latin_name": "Vipera (Pelias) dinniki",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Гадюковые змеи, или гадюки (Viperidae)",
+      "range_notes": "встречается в горах западной и центральной частей Северного Кавказа."
+    },
+    {
+      "name": "Кавказская гадюка (Гадюка Казнакова)",
+      "latin_name": "Vipera (Pelias) kaznakovi",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Гадюковые змеи, или гадюки (Viperidae)",
+      "range_notes": "встречается в горах западной части Северного Кавказа."
+    },
+    {
+      "name": "Гадюка Лотиева",
+      "latin_name": "Vipera lotievi",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Гадюковые змеи, или гадюки (Viperidae)",
+      "range_notes": "обитает в горах центральной части Северного Кавказа."
+    },
+    {
+      "name": "Реликтовая, или великолепная, гадюка",
+      "latin_name": "Vipera (Pelias) magnifica",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Гадюковые змеи, или гадюки (Viperidae)",
+      "range_notes": "встречается в горах Адыгеи и Краснодарского края."
+    },
+    {
+      "name": "Гадюка Никольского, или лесостепная гадюка",
+      "latin_name": "Vipera (Pelias) nikolskii",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Гадюковые змеи, или гадюки (Viperidae)",
+      "range_notes": "лесостепная зона европейской части страны."
+    },
+    {
+      "name": "Гадюка Орлова",
+      "latin_name": "Vipera (Pelias) orlovi",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Гадюковые змеи, или гадюки (Viperidae)",
+      "range_notes": "горы западной части Северного Кавказа."
+    },
+    {
+      "name": "Восточная степная гадюка",
+      "latin_name": "Vipera (Pelias) renardi",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Гадюковые змеи, или гадюки (Viperidae)",
+      "range_notes": "обитает в степной, лесостепной и полпустынной зонах от западной границы страны до Алтая."
+    },
+    {
+      "name": "Сахалинская гадюка",
+      "latin_name": "Vipera sachalinensis",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Гадюковые змеи, или гадюки (Viperidae)",
+      "range_notes": "распространена на Сахалине, Шантарских островах, в Приморском и Хабаровском краях."
+    },
+    {
+      "name": "Гюрза, или ливанская гадюка",
+      "latin_name": "Macrovipera lebetina",
+      "author": "",
+      "order": "Змеи (Serpentes)",
+      "family": "Гадюковые змеи, или гадюки (Viperidae)",
+      "range_notes": "встречается в Дагестане."
+    }
+  ],
+  "meta": {
+    "title": "Пресмыкающиеся России - Free Download",
+    "description": "Список видов пресмыкающихся (черепахи, ящерицы, змеи), обитающих на территории России, с латинским названием, автором таксона (для черепах и ящериц), отрядом, семейством и ареалом. Contains 88 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Пресмыкающиеся России | ListBase",
+    "seo_description": "Download Пресмыкающиеся России — 88 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 88 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/Список_пресмыкающихся_России"
+    ]
+  }
+}
