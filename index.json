@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-27T02:19:36.536Z",
-  "total_datasets": 579,
-  "total_records": 227196,
+  "generated": "2026-11-27T02:19:47.809Z",
+  "total_datasets": 580,
+  "total_records": 227231,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "society",
@@ -13166,6 +13166,33 @@
         "xlsx": {
           "name": "ru-prezidenty-akademii-nauk_RU.xlsx",
           "size": 8658
+        }
+      }
+    },
+    {
+      "id": "ru-zemnovodnye-rossii",
+      "name": "Земноводные России",
+      "category": "science",
+      "record_count": 35,
+      "columns": [
+        "name",
+        "latin_name",
+        "author",
+        "order",
+        "family",
+        "range_notes"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/Список_земноводных_России",
+      "updated": "2026-11",
+      "size": 31833,
+      "files": {
+        "csv": {
+          "name": "ru-zemnovodnye-rossii_RU.csv",
+          "size": 25565
+        },
+        "xlsx": {
+          "name": "ru-zemnovodnye-rossii_RU.xlsx",
+          "size": 14478
         }
       }
     },
