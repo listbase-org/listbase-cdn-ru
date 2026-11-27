@@ -1,8 +1,8 @@
 {
   "lang": "ru",
-  "generated": "2026-11-26T02:18:41.151Z",
-  "total_datasets": 577,
-  "total_records": 227085,
+  "generated": "2026-11-27T02:19:25.399Z",
+  "total_datasets": 578,
+  "total_records": 227108,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "history",
@@ -4926,6 +4926,30 @@
         "xlsx": {
           "name": "ru-ministry-zdravookhraneniya_RU.xlsx",
           "size": 9647
+        }
+      }
+    },
+    {
+      "id": "ru-obsledovaniya-na-vich-po-godam",
+      "name": "Обследования на ВИЧ в России по годам",
+      "category": "health",
+      "record_count": 23,
+      "columns": [
+        "year",
+        "tests",
+        "hiv_seropositive"
+      ],
+      "source": "https://ru.wikipedia.org/wiki/ВИЧ/СПИД_в_России",
+      "updated": "2026-11",
+      "size": 3927,
+      "files": {
+        "csv": {
+          "name": "ru-obsledovaniya-na-vich-po-godam_RU.csv",
+          "size": 638
+        },
+        "xlsx": {
+          "name": "ru-obsledovaniya-na-vich-po-godam_RU.xlsx",
+          "size": 7248
         }
       }
     },

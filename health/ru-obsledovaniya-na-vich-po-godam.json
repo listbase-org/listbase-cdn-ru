@@ -1,0 +1,156 @@
+{
+  "id": "ru-obsledovaniya-na-vich-po-godam",
+  "name": "Обследования на ВИЧ в России по годам",
+  "title": "Обследования на ВИЧ в России по годам",
+  "description": "Число проведённых обследований на ВИЧ и число выявленных серопозитивных результатов в России по годам (2001–2023).",
+  "category": "health",
+  "source": "https://ru.wikipedia.org/wiki/ВИЧ/СПИД_в_России",
+  "source_url": "https://ru.wikipedia.org/wiki/ВИЧ/СПИД_в_России",
+  "updated": "2026-11",
+  "record_count": 23,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "tests",
+      "label": "Tests",
+      "type": "number"
+    },
+    {
+      "key": "hiv_seropositive",
+      "label": "Hiv Seropositive",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "year": 2001,
+      "tests": 23996849,
+      "hiv_seropositive": 89548
+    },
+    {
+      "year": 2002,
+      "tests": 24298575,
+      "hiv_seropositive": 52930
+    },
+    {
+      "year": 2003,
+      "tests": 21900300,
+      "hiv_seropositive": 40021
+    },
+    {
+      "year": 2004,
+      "tests": 21786502,
+      "hiv_seropositive": 37929
+    },
+    {
+      "year": 2005,
+      "tests": 21394983,
+      "hiv_seropositive": 40239
+    },
+    {
+      "year": 2006,
+      "tests": 22024278,
+      "hiv_seropositive": 43915
+    },
+    {
+      "year": 2007,
+      "tests": 24340294,
+      "hiv_seropositive": 49946
+    },
+    {
+      "year": 2008,
+      "tests": 24918166,
+      "hiv_seropositive": 56576
+    },
+    {
+      "year": 2009,
+      "tests": 26368843,
+      "hiv_seropositive": 59503
+    },
+    {
+      "year": 2010,
+      "tests": 25982486,
+      "hiv_seropositive": 59877
+    },
+    {
+      "year": 2011,
+      "tests": 25812467,
+      "hiv_seropositive": 63970
+    },
+    {
+      "year": 2012,
+      "tests": 27286151,
+      "hiv_seropositive": 72782
+    },
+    {
+      "year": 2013,
+      "tests": 28327314,
+      "hiv_seropositive": 81898
+    },
+    {
+      "year": 2014,
+      "tests": 29878681,
+      "hiv_seropositive": 93659
+    },
+    {
+      "year": 2015,
+      "tests": 30750547,
+      "hiv_seropositive": 101556
+    },
+    {
+      "year": 2016,
+      "tests": 32855597,
+      "hiv_seropositive": 104905
+    },
+    {
+      "year": 2017,
+      "tests": 36445059,
+      "hiv_seropositive": 109329
+    },
+    {
+      "year": 2018,
+      "tests": 40485246,
+      "hiv_seropositive": 106172
+    },
+    {
+      "year": 2019,
+      "tests": 43131010,
+      "hiv_seropositive": 99379
+    },
+    {
+      "year": 2020,
+      "tests": 37076569,
+      "hiv_seropositive": 75133
+    },
+    {
+      "year": 2021,
+      "tests": 43157696,
+      "hiv_seropositive": 94216
+    },
+    {
+      "year": 2022,
+      "tests": 48401847,
+      "hiv_seropositive": 86239
+    },
+    {
+      "year": 2023,
+      "tests": 52109335,
+      "hiv_seropositive": 85481
+    }
+  ],
+  "meta": {
+    "title": "Обследования на ВИЧ в России по годам - Free Download",
+    "description": "Число проведённых обследований на ВИЧ и число выявленных серопозитивных результатов в России по годам (2001–2023). Contains 23 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Обследования на ВИЧ в России по годам | ListBase",
+    "seo_description": "Download Обследования на ВИЧ в России по годам — 23 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 23 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ru.wikipedia.org/wiki/ВИЧ/СПИД_в_России"
+    ]
+  }
+}
